@@ -118,9 +118,3 @@ for file in $check_files; do
     fi
   fi
 done
-
-#  2062  binmerge --split FILE.cue
-# 2063  binmerge -s FILE.cue FILE -o test
-# 2057  chdman extractcd -i Tekken\ 3\ \(USA\).chd -o FILE.cue
-
-
