@@ -1,0 +1,88 @@
+html {
+  background-color: black;
+  overflow: hidden;
+}
+
+#game {
+  visibility: hidden;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+#menu {
+  visibility: visible;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.page-container {
+  height: auto;
+}
+
+.games-list {
+  position:fixed;
+  width: 40vw;
+  top: 5px;
+  right: 20px;
+  height: 100vh;
+}
+
+.artwork {
+  width: auto;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.menu-wrap {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.menu-img {
+  max-width: 30vw;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#background {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+#corner {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 50vh;
+}
+
+
+@keyframes growonce {
+  0% {
+    transform: scale(.5,.5) translate(15vw,0);
+  }
+  100% {
+    transform: scale(1.0,1.0) translate(0,0);
+  }
+}
+
+.grow {
+  animation: growonce .3s forwards;
+}
+
+.shrink {
+  transform: scale(.5,.5) translate(15vw,0);
+}
