@@ -140,9 +140,10 @@ function launch(active_item) {
       }
     }, 100);
     // Reload window if user clicks back
-    $(window).on('hashchange', function() {
+    $(window).on('hashchange', async function() {
       if (window.location.hash !== '#game') {
-        window.location.reload();
+        window.dispatchEvent(new Event('beforeunload'));
+        setTimeout(function(){window.location.reload();}, 1000);
       }
     });
   }
