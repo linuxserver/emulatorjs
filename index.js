@@ -191,6 +191,12 @@ io.on('connection', async function (socket) {
     var config = await fsw.readFile(configPath, 'utf8');
     var config = JSON.parse(config);
     config.items = {};
+    if (files.length < 9) {
+      var itemsLength = files.length;
+    } else {
+      var itemsLength = 9;
+    };
+    config.display_items = itemsLength;
     for await (var file of files) {
       var fileName = file.replace('.sha1','');
       var fileExtension = path.extname(fileName);
