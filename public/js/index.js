@@ -90,14 +90,20 @@ function renderConfigss() {
   socket.emit('renderconfigs');
 };
 // Render roms landing page
-async function renderRomsLanding() {
+async function renderRomsLanding(counts) {
   $('#main').empty();
-  for await (var emu of defaultDropdowns.emulator) {
-    if (emu !== 'default') {
+  var scanRendered = false;
+  for await (var emu of Object.keys(counts)) {
+    if (counts[emu].roms > 0) {
       var button = $('<button>').addClass('scanbutton').text('Scan ' + emu);
       button.attr('onClick', 'scanRoms(\'' + emu + '\');');
       $('#main').append(button);
+      var scanRendered = true;
     };
+  };
+  if (! scanRendered) {
+    var scanWarning = $('<h1>').text('No roms found please add some to continue');
+    $('#main').append(scanWarning);
   };
   $('#main').append($('#rominfo').html());
 };

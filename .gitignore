@@ -1,0 +1,7 @@
+*.swp
+package-lock.json
+node_modules/
+frontend/README.md
+frontend/user
+frontend/data/
+frontend/decrypt\ tools/

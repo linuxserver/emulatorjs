@@ -10,14 +10,27 @@ var { create } = require('ipfs-http-client');
 var ipfs = create();
 
 // Default vars
-var configPath = '/data/config/';
-var hashPath = '/data/hashes/';
+if (fs.existsSync('/data')) { 
+  var dataRoot = '/data/';
+} else {
+  var dataRoot = 'frontend/user/'
+};
+var configPath = dataRoot + 'config/';
+var hashPath = dataRoot + 'hashes/';
 var defaultPeer = '/ip4/206.189.169.226/tcp/4001/p2p/12D3KooWHRqeK6as7tbuoaQdoTUNayUQzfY5aUtTa9GpYzdWNPqU';
 var metaVariables = [
   ['vid', 'videos', '.mp4'],
   ['logo', 'logos', '.png'],
   ['back', 'backs', '.png'],
   ['corner', 'corners', '.png']
+];
+var emus = [
+  '3do', 'arcade', 'atari2600', 'atari7800', 
+  'gb', 'gba', 'gbc', 'jaguar', 'lynx',
+  'msx', 'n64', 'nds', 'nes', 'ngp', 
+  'pce', 'psx', 'sega32x', 'segaCD', 
+  'segaGG', 'segaMD', 'segaMS',
+  'segaSaturn', 'snes', 'vb', 'ws'
 ];
 
 //// Http server ////
@@ -58,9 +71,24 @@ io.on('connection', async function (socket) {
     };
   };
   // Tell client to render rom scanners
-  function renderRoms() {
+  async function renderRoms() {
+    var romData = {}
+    for await (var emu of emus) {
+      var romCount = 0;
+      var hashCount = 0;
+      var romPath = dataRoot + emu + '/roms/';
+      if (fs.existsSync(hashPath + emu)) {
+        var hashes = await fsw.readdir(hashPath + emu);
+        var hashCount = hashes.length;
+      };
+      if (fs.existsSync(romPath)) {
+        var roms = await fsw.readdir(romPath);
+        var romCount = roms.length;
+      };
+      romData[emu] = {'roms': romCount,'hashes': hashCount};
+    };
     renderRomsDir();
-    socket.emit('renderromslanding');
+    socket.emit('renderromslanding', romData);
   };
   // Tell client to render landing
   function renderLanding() {
@@ -82,8 +110,8 @@ io.on('connection', async function (socket) {
   async function getRoms(dir) {
     var metaData = await fsw.readFile('./metadata/' + dir + '.json', 'utf8');
     var metaData = JSON.parse(metaData);
-    if (fs.existsSync('/data/metadata/' + dir + '.json')) {
-      var userMetaData = await fsw.readFile('/data/metadata/' + dir + '.json', 'utf8');
+    if (fs.existsSync(dataRoot + 'metadata/' + dir + '.json')) {
+      var userMetaData = await fsw.readFile(dataRoot + 'metadata/' + dir + '.json', 'utf8');
       var userMetaData = JSON.parse(userMetaData);
       Object.assign(metaData, userMetaData);
     };
@@ -104,7 +132,7 @@ io.on('connection', async function (socket) {
         metaVariables.push(['video_position', 'videos', '.position']);
 	for await (var variable of metaVariables) {
           if (metaData[sha].hasOwnProperty(variable[0])) {
-            if (fs.existsSync('/data/' + dir + '/' + variable[1] + '/' + name + variable[2])) {
+            if (fs.existsSync(dataRoot + dir + '/' + variable[1] + '/' + name + variable[2])) {
               identified[name] = {'has_art': true};
             } else {
               identified[name] = {'has_art': false};
@@ -156,7 +184,7 @@ io.on('connection', async function (socket) {
     var metaData = await fsw.readFile('./metadata/default_files.json', 'utf8');
     var metaData = JSON.parse(metaData);
     for await (var item of metaData) {
-      var file = item.file;
+      var file = item.file.replace('/data/', dataRoot);
       var cid = item.cid;
       if (cid == 'directory') {
         await fsw.mkdir(file, { recursive: true });
@@ -185,7 +213,7 @@ io.on('connection', async function (socket) {
   };
   // Add roms to config file
   async function addToConfig(dir) {
-    var configPath = '/data/config/' + dir + '.json';
+    var configPath = configPath + dir + '.json';
     var shaPath = hashPath + dir + '/roms/';
     var files = await fsw.readdir(shaPath);
     var config = await fsw.readFile(configPath, 'utf8');
@@ -201,11 +229,11 @@ io.on('connection', async function (socket) {
       var fileName = file.replace('.sha1','');
       var fileExtension = path.extname(fileName);
       var name = path.basename(fileName, fileExtension);
-      var has_logo = fs.existsSync('/data/' + dir + '/logos/' + name + '.png');
-      var has_back = fs.existsSync('/data/' + dir + '/backgrounds/' + name + '.png');
-      var has_corner = fs.existsSync('/data/' + dir + '/corners/' + name + '.png');
-      var has_video = fs.existsSync('/data/' + dir + '/videos/' + name + '.mp4');
-      var positionFile = '/data/' + dir + '/videos/' + name + '.position';
+      var has_logo = fs.existsSync(dataRoot + dir + '/logos/' + name + '.png');
+      var has_back = fs.existsSync(dataRoot + dir + '/backgrounds/' + name + '.png');
+      var has_corner = fs.existsSync(dataRoot + dir + '/corners/' + name + '.png');
+      var has_video = fs.existsSync(dataRoot + dir + '/videos/' + name + '.mp4');
+      var positionFile = dataRoot + dir + '/videos/' + name + '.position';
       if (fs.existsSync(positionFile)) {
         var video_position = await fsw.readFile(positionFile, 'utf8');
       };
@@ -238,7 +266,7 @@ io.on('connection', async function (socket) {
     var metaData = await fsw.readFile('./metadata/' + dir + '.json', 'utf8');
     var metaData = JSON.parse(metaData);
     if (fs.existsSync('/data/metadata/' + dir + '.json')) {
-      var userMetaData = await fsw.readFile('/data/metadata/' + dir + '.json', 'utf8');
+      var userMetaData = await fsw.readFile(dataRoot + 'metadata/' + dir + '.json', 'utf8');
       var userMetaData = JSON.parse(userMetaData);
       Object.assign(metaData, userMetaData);
     };
@@ -255,12 +283,12 @@ io.on('connection', async function (socket) {
         };
         for await (var variable of metaVariables) {
           if (metaData[sha].hasOwnProperty(variable[0])) {
-            await ipfsDownload(metaData[sha][variable[0]], '/data/' + dir + '/' + variable[1] + '/' + name + variable[2], 0) 
+            await ipfsDownload(metaData[sha][variable[0]], dataRoot + dir + '/' + variable[1] + '/' + name + variable[2], 0) 
           };
         };
         socket.emit('modaldata', 'Downloaded All Files');
         if (metaData[sha].hasOwnProperty('position')) {
-          await fsw.writeFile('/data/' + dir + '/videos/' + name + '.position', metaData[sha].position); 
+          await fsw.writeFile(dataRoot + dir + '/videos/' + name + '.position', metaData[sha].position); 
         };
       };
     };
@@ -268,12 +296,12 @@ io.on('connection', async function (socket) {
   };
   // Set user linked metadata
   async function userMeta(data) {
-    await fsw.mkdir('/data/metadata', { recursive: true })
+    await fsw.mkdir(dataRoot + 'metadata', { recursive: true })
     var romSha = data[0];
     var linkSha = data[1];
     var dir = data[2];
-    if (fs.existsSync('/data/metadata/' + dir + '.json')) {
-      var metaData = await fsw.readFile('/data/metadata/' + dir + '.json', 'utf8');
+    if (fs.existsSync(dataRoot + 'metadata/' + dir + '.json')) {
+      var metaData = await fsw.readFile(dataRoot + 'metadata/' + dir + '.json', 'utf8');
       var metaData = JSON.parse(metaData);
     } else {
       var metaData = {};
@@ -282,7 +310,7 @@ io.on('connection', async function (socket) {
     link[romSha] = {'ref': linkSha};
     Object.assign(metaData, link);
     userMetadataFile = JSON.stringify(metaData, null, 2);
-    await fsw.writeFile('/data/metadata/' + dir + '.json', userMetadataFile);
+    await fsw.writeFile(dataRoot + 'metadata/' + dir + '.json', userMetadataFile);
     getRoms(dir);
   };
 
@@ -299,7 +327,7 @@ io.on('connection', async function (socket) {
   socket.on('downloadart', downloadArt);
   socket.on('usermeta', userMeta);
   // Render landing page
-  if (fs.existsSync('/data/config/main.json')) {
+  if (fs.existsSync(dataRoot + 'config/main.json')) {
     renderRoms();
   } else {
     renderLanding();
