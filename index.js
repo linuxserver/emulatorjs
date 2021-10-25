@@ -32,6 +32,16 @@ var emus = [
   'segaGG', 'segaMD', 'segaMS',
   'segaSaturn', 'snes', 'vb', 'ws'
 ];
+mimeTypes = {
+  "html": "text/html",
+  "jpeg": "image/jpeg",
+  "jpg": "image/jpeg",
+  "png": "image/png",
+  "svg": "image/svg+xml",
+  "json": "application/json",
+  "js": "text/javascript",
+  "css": "text/css"
+};
 
 //// Http server ////
 var main = async function (req, res) {
@@ -41,8 +51,12 @@ var main = async function (req, res) {
     var url = req.url;
   }
   try {
-    var data = await fsw.readFile(__dirname + url);
-    res.writeHead(200);
+    var mimeType = mimeTypes[url.split('?')[0].split('.').pop()];
+    if (!mimeType) {
+      mimeType = 'text/plain';
+    }
+    var data = await fsw.readFile(__dirname + decodeURI(url.split('?')[0]));
+    res.writeHead(200, { "Content-Type": mimeType });
     res.end(data);
   } catch (err) {
     res.writeHead(404);
@@ -213,10 +227,10 @@ io.on('connection', async function (socket) {
   };
   // Add roms to config file
   async function addToConfig(dir) {
-    var configPath = configPath + dir + '.json';
+    var configFile = configPath + dir + '.json';
     var shaPath = hashPath + dir + '/roms/';
     var files = await fsw.readdir(shaPath);
-    var config = await fsw.readFile(configPath, 'utf8');
+    var config = await fsw.readFile(configFile, 'utf8');
     var config = JSON.parse(config);
     config.items = {};
     if (files.length < 9) {
@@ -257,8 +271,8 @@ io.on('connection', async function (socket) {
         Object.assign(config.items[name], {'video_position': video_position});
       };
     };
-    configFile = JSON.stringify(config, null, 2);
-    await fsw.writeFile(configPath, configFile);
+    var configContents = JSON.stringify(config, null, 2);
+    await fsw.writeFile(configFile, configContents);
     renderRoms();
   };
   // Download art assets from IPFS

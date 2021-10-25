@@ -28,31 +28,13 @@ var defaultDropdowns = {
   'has_corner': ['default', true, false],
   'type': ['default', 'game', 'menu'],
   'emulator': [
-    'default',
-    '3do',
-    'arcade',
-    'atari2600',
-    'atari7800',
-    'gb',
-    'gba',
-    'jaguar',
-    'lynx',
-    'msx',
-    'n64',
-    'nds',
-    'nes',
-    'ngp',
-    'pce',
-    'psx',
-    'sega32x',
-    'segaCD',
-    'segaGG',
-    'segaMD',
-    'segaMS',
-    'segaSaturn',
-    'snes',
-    'vb',
-    'ws'
+    'default', '3do', 'arcade',
+    'atari2600', 'atari7800', 'gb',
+    'gba', 'jaguar', 'lynx', 'msx',
+    'n64', 'nds', 'nes', 'ngp', 'pce',
+    'psx', 'sega32x', 'segaCD', 'segaGG',
+    'segaMD', 'segaMS', 'segaSaturn',
+    'snes', 'vb', 'ws'
   ]
 };
 
@@ -170,8 +152,7 @@ async function setMains(config) {
 
 // Set default values
 async function setDefaults(config) {
-  var defaultKeys2 = defaultKeys.slice(1);
-  for await (var key of defaultKeys2) {
+  for await (var key of defaultKeys) {
     var value = $('#defaults_' + key).val();
     if (!value) {
       var value = '';
@@ -307,8 +288,7 @@ async function renderConfig(config) {
     $('#side').append(inputLine);
   };
   var defaults = config.defaults;
-  var defaultKeys2 = defaultKeys.slice(1);
-  for await (var key of defaultKeys2) {
+  for await (var key of defaultKeys) {
     var inputLine = $('<p>')
     inputLine.append( key + ': ');
     if (defaultDropdowns.hasOwnProperty(key)) {

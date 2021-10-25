@@ -1,8 +1,13 @@
 #! /bin/bash
-
+set -e
 rom_path=$1
 rom_type=$2
-user_folder='/data'
+# Set user folder
+if [ -d '/data' ]; then
+  user_folder='/data'
+else
+  user_folder='frontend/user'
+fi
 check_files=$(ls -1 "${user_folder}${rom_path}")
 
 # Process zip file hashes
@@ -10,7 +15,7 @@ process_zip () {
   mkdir -p "${user_folder}/hashes/${rom_path}/tmp"
   echo "unzipping ${file}"
   unzip -q "${user_folder}${rom_path}/${file}" -d "${user_folder}/hashes/${rom_path}/tmp"
-  rm "${user_folder}/hashes/${rom_path}/tmp/"*.{txt,nfo,xml,readme,README} &> /dev/null
+  rm "${user_folder}/hashes/${rom_path}/tmp/"*.{txt,nfo,xml,readme,README} &> /dev/null || :
   echo "hashing ${file}"
   sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/"* | awk '{print $1;exit}')
   rm -R "${user_folder}/hashes/${rom_path}/tmp/"
@@ -22,7 +27,7 @@ process_7z () {
   mkdir -p "${user_folder}/hashes/${rom_path}/tmp"
   echo "unzipping ${file}"
   7z x "${user_folder}${rom_path}/${file}" -o"${user_folder}/hashes/${rom_path}/tmp"
-  rm "${user_folder}/hashes/${rom_path}/tmp/"*.{txt,nfo,xml,readme,README} &> /dev/null
+  rm "${user_folder}/hashes/${rom_path}/tmp/"*.{txt,nfo,xml,readme,README} &> /dev/null || :
   echo "hashing ${file}"
   sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/"* | awk '{print $1;exit}')
   rm -R "${user_folder}/hashes/${rom_path}/tmp/"
@@ -43,14 +48,14 @@ process_nes () {
     mkdir -p "${user_folder}/hashes/${rom_path}/tmp"
     echo "unzipping ${file}"
     unzip -q "${user_folder}${rom_path}/${file}" -d "${user_folder}/hashes/${rom_path}/tmp"
-    rm "${user_folder}/hashes/${rom_path}/tmp/"*.{txt,nfo,xml,readme,README} &> /dev/null
+    rm "${user_folder}/hashes/${rom_path}/tmp/"*.{txt,nfo,xml,readme,README} &> /dev/null || :
     file_to_sha="${user_folder}/hashes/${rom_path}/tmp/"*
   elif [ $file_type == 'x-7z-compressed' ]; then
     echo "unzipping ${file}"
     mkdir -p "${user_folder}/hashes/${rom_path}/tmp"
     echo "unzipping ${file}"
     7z x "${user_folder}${rom_path}/${file}" -o"${user_folder}/hashes/${rom_path}/tmp"
-    rm "${user_folder}/hashes/${rom_path}/tmp/"*.{txt,nfo,xml,readme,README} &> /dev/null
+    rm "${user_folder}/hashes/${rom_path}/tmp/"*.{txt,nfo,xml,readme,README} &> /dev/null || :
     file_to_sha="${user_folder}/hashes/${rom_path}/tmp/"*
   else
     file_to_sha="${user_folder}/${rom_path}/${file}"

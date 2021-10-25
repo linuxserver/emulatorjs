@@ -105,11 +105,12 @@ function loadlogos(logo_load_start, display_items, items_length, active_item) {
 function launch(active_item) {
   var name = $('#i' + active_item.toString()).data('name');
   var type = $('#i' + active_item.toString()).data('type');
+  var root = $('#menu').data('root');
   $(document).attr('title', name);
   if (type == 'menu') {
     window.location.href = '#' + name
-    window.location.reload();
   } else if (type == 'game') {
+    $(window).off('hashchange');
     window.location.href = '#game';
     $(document).off('keydown');
     var emulator = $('#i' + active_item.toString()).data('emulator');
@@ -143,7 +144,10 @@ function launch(active_item) {
     $(window).on('hashchange', async function() {
       if (window.location.hash !== '#game') {
         window.dispatchEvent(new Event('beforeunload'));
-        setTimeout(function(){window.location.reload();}, 1000);
+        setTimeout(function(){
+          window.location.href = '#' + root + '---' + active_item;
+          window.location.reload();
+	}, 1000);
       }
     });
   }
@@ -152,6 +156,7 @@ function launch(active_item) {
 //// Page rendering logic ////
 async function rendermenu(data, active_item) {
   var root = data.root;
+  $('#menu').data('root', root);
   var parent = data.parent;
   var items = data.items;
   var items_length = Object.keys(items).length - 1;
@@ -162,8 +167,6 @@ async function rendermenu(data, active_item) {
   };
   var logo_load_start = active_item - Math.floor(display_items/2);
   var image_height = Math.floor(100/display_items).toString() + 'vh';
-  // Set default hash
-  window.location.href = '#' + root + '---' + active_item
   // Render zoom effect on active item
   function highlight(active_item) {
     $('#h' + active_item).addClass('grow')
@@ -234,7 +237,6 @@ async function rendermenu(data, active_item) {
       loadart(active_item);
       loadvideo(active_item);
       highlight(active_item);
-      window.location.href = '#' + root + '---' + active_item
     }
     if (event.key == 'ArrowUp') {
       active_item--
@@ -247,7 +249,6 @@ async function rendermenu(data, active_item) {
       loadart(active_item);
       loadvideo(active_item);
       highlight(active_item);
-      window.location.href = '#' + root + '---' + active_item
     }
     // Load item
     if ((event.key == 'ArrowRight') || (event.key == 'Enter')) {
@@ -256,7 +257,6 @@ async function rendermenu(data, active_item) {
     // Go to Parent
     if (event.key == 'ArrowLeft') {
       window.location.href = '#' + parent;
-      window.location.reload();
     }
   });
 };
@@ -279,4 +279,7 @@ window.onload = function() {
     var active = hash.split('---')[1];
     loadjson(name, active);
   }
+  $(window).on('hashchange', function() {
+    window.location.reload();
+  });
 };
