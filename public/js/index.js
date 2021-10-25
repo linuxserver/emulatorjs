@@ -78,7 +78,7 @@ async function renderRomsLanding(counts) {
   for await (var emu of Object.keys(counts)) {
     if (counts[emu].roms > 0) {
       var button = $('<button>').addClass('scanbutton').text('Scan ' + emu);
-      button.attr('onClick', 'scanRoms(\'' + emu + '\');');
+      button.attr('onclick', 'scanRoms(\'' + emu + '\');');
       $('#main').append(button);
       var scanRendered = true;
     };
@@ -115,7 +115,7 @@ async function identifyRom(sha, name) {
     }
   };
   $('#modal').append(sel);
-  var setMetaButton = $('<button>').attr('onClick', 'setMeta()').text('Link Item');
+  var setMetaButton = $('<button>').attr('onclick', 'setMeta()').text('Link Item');
   $('#modal').append(setMetaButton);
 };
 
@@ -191,13 +191,54 @@ async function setItem() {
   renderConfig(config);
 };
 
+// Render menu to add item to config
+async function addItem() {
+  $('#modal').empty();
+  $('#modal').modal();
+  var inputLine = $('<p>').text( 'Name: ');
+  inputLine.append('<input type="text" id="add_name" value="">');
+  $('#modal').append(inputLine);
+  for await (var key of defaultKeys) {
+    var inputLine = $('<p>').text( key + ': ');
+    if (defaultDropdowns.hasOwnProperty(key)) {
+      var sel = $('<select>').attr('id', 'add_' + key);
+      for await (option of defaultDropdowns[key]) {
+        sel.append($("<option>").attr('value',option).text(option));
+      };
+      inputLine.append(sel);
+      $('#modal').append(inputLine);
+    } else {
+      inputLine.append('<input type="text" id="add_' + key + '" value="default">');
+      $('#modal').append(inputLine);
+    }
+  };
+  var addButton = $('<button>').attr('onclick', 'configAdd()').text('Add');
+  $('#modal').append(addButton);
+};
+
+// Add item to config
+async function configAdd() {
+  $.modal.close();
+  var config = $('#main').data('config');
+  var name = $('#add_name').val();
+  var lineItem = {};
+  lineItem[name] = {};
+  Object.assign(config.items, lineItem);
+  for await (var key of defaultKeys) {
+    var value = $('#add_' + key).val();
+    if (value !== 'default') {
+      config.items[name][key] = value; 
+    };
+  };
+  renderConfig(config);
+};
+
 // Edit single item
 async function editItem(key, cleanName, value) {
   var name = cleanName.replace("|","'");
   $('#modal').empty();
   $('#modal').append('<p>' + name + '</p>');
-  var inputLine = $('<p>')
-  inputLine.append(key + ': ');
+  var inputLine = $('<p>').text( key + ': ');
   if (defaultDropdowns.hasOwnProperty(key)) {
     var sel = $('<select>').attr('id', 'edititem');
     for await (option of defaultDropdowns[key]) {
@@ -212,6 +253,14 @@ async function editItem(key, cleanName, value) {
   $('#modal').append(setButton);
   $('#edititem').data('cleanName', cleanName);
   $('#edititem').data('key', key);
+};
+
+// Delete a menu item
+function deleteItem(cleanName) {
+  var name = cleanName.replace("|","'");
+  var config = $('#main').data('config');
+  delete config.items[name];
+  renderConfig(config);
 };
 
 // Render config file list
@@ -243,6 +292,11 @@ function renderRomsDir(dirs) {
 // Save modified config
 async function saveConfig() {
   var config = $('#main').data('config');
+  var items = config.items;
+  config.items = {};
+  $('#configItems tr').each(function(index, row) {
+    config.items[row.id] = items[row.id]
+  });
   var name = $('#main').data('name');
   await setDefaults(config);
   await setMains(config);
@@ -277,20 +331,20 @@ function dlDefaultFiles() {
 async function renderConfig(config) {
   // Save button
   $('#nav-buttons').empty();
-  var save = $('<button>').attr('onClick', 'saveConfig()').text('Save');
+  var save = $('<button>').attr('onclick', 'saveConfig()').text('Save');
   $('#nav-buttons').append(save);
   // Defaults side menu
   $('#side').empty();
+  var addButton = $('<button>').attr('onclick', 'addItem()').text('Add Item');
+  $('#side').append(addButton);
   for await (var key of mainOptions) {
-    var inputLine = $('<p>');
-    inputLine.append( key + ': ');
+    var inputLine = $('<p>').text( key + ': ');
     inputLine.append('<input type="text" id="main_' + key + '" value="' + config[key] + '">');
     $('#side').append(inputLine);
   };
   var defaults = config.defaults;
   for await (var key of defaultKeys) {
-    var inputLine = $('<p>')
-    inputLine.append( key + ': ');
+    var inputLine = $('<p>').text( key + ': ');
     if (defaultDropdowns.hasOwnProperty(key)) {
       var sel = $('<select>').attr('id', 'defaults_' + key);
       for await (option of defaultDropdowns[key]) {
@@ -318,14 +372,14 @@ async function renderConfig(config) {
   };
   itemsHead.append(headRow);
   itemsTable.append(itemsHead);
-  var itemsBody = $('<tbody>');
+  var itemsBody = $('<tbody>').attr('id','configItems');
   itemsTable.append(itemsBody);
   $('#main').append(itemsTable);
   for (var name of Object.keys(config.items)) {
     var item = config.items[name];
     var cleanName = name.replace("'","|");
     var itemRow = $('<tr>').addClass('item-row').attr('id', name);
-    itemRow.append($('<th>').text(name));
+    itemRow.append($('<th>').text('\u2B0D ' + name));
     for (var key of defaultKeys) {
       if (item.hasOwnProperty(key)) {
         var tdHtml = '<p>' + item[key] + ' <a href="#modal" rel="modal:open" onclick="editItem(\'' + key + '\',\'' + cleanName + '\',\'' + item[key] + '\')">\u270E</a></p>'
@@ -335,8 +389,11 @@ async function renderConfig(config) {
           itemRow.append($('<td>').html(tdHtml));
       };
     };
+    var deleteButton = $('<button>').attr('onclick', 'deleteItem(\'' + cleanName + '\')').text('delete');
+    itemRow.append($('<td>').html(deleteButton));
     itemsBody.append(itemRow);
   }
+  itemsBody.sortable();
 };
 
 // Render in roms data
@@ -360,9 +417,9 @@ async function renderRom(data) {
   $('#container').append(left,right);
   // Process buttons
   var folderName = $('#main').data('name');
-  var downloadArtButton = $('<button>').addClass('downloadartbutton').attr('onClick', 'downloadArt(\'' + folderName + '\');').text('Download All Available Art');
+  var downloadArtButton = $('<button>').addClass('downloadartbutton').attr('onclick', 'downloadArt(\'' + folderName + '\');').text('Download All Available Art');
   $('#side').append(downloadArtButton);
-  var configButton = $('<button>').addClass('addtoconfigbutton').attr('onClick', 'addToConfig(\'' + folderName + '\');').text('Add All Roms to Config');
+  var configButton = $('<button>').addClass('addtoconfigbutton').attr('onclick', 'addToConfig(\'' + folderName + '\');').text('Add All Roms to Config');
   $('#side').append(configButton);
   // Render items
   for await (var idItem of Object.keys(data[0])) {
@@ -378,7 +435,7 @@ async function renderRom(data) {
   };
   for await (var noIdItem of Object.keys(data[1])) {
     var item = $('<p>').text(noIdItem);
-    var identifyButton = $('<button>').attr('onClick', 'identifyRom(\'' + data[1][noIdItem].replace("'","|") + '\',\'' + noIdItem.replace("'","|") + '\');').text('identify');
+    var identifyButton = $('<button>').attr('onclick', 'identifyRom(\'' + data[1][noIdItem].replace("'","|") + '\',\'' + noIdItem.replace("'","|") + '\');').text('identify');
     item.append(identifyButton);
     $('#right').append(item)
   };
