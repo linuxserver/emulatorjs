@@ -95,6 +95,30 @@ process_chd () {
   fi
 }
 
+process_bin () {
+  # Make sure we have a cue file
+  cuefile=$(echo "${file}" | sed 's/.bin$/.cue/')
+  if [ ! -f "${user_folder}/hashes/${rom_path}/${cuefile}" ]; then
+    echo "No cue found"
+    return 0
+  fi
+  # Check if file has a track 2
+  if grep -q "TRACK 02" "${user_folder}/hashes/${rom_path}/${cuefile}"; then
+    mkdir -p "${user_folder}/hashes/${rom_path}/tmp/"
+    binmerge -s "${user_folder}/hashes/${rom_path}/${cuefile}" FILE -o "${user_folder}/hashes/${rom_path}/tmp/"
+    if [ -f "${user_folder}/hashes/${rom_path}/tmp/FILE (Track 1).bin" ]; then
+      sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/FILE (Track 1).bin" | awk '{print $1;exit}')
+    elif [ -f "${user_folder}/hashes/${rom_path}/tmp/FILE (Track 01).bin" ];then
+      sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/FILE (Track 01).bin" | awk '{print $1;exit}')
+    fi
+  elif grep -q "TRACK 01" "${user_folder}/hashes/${rom_path}/tmp/FILE.cue"; then
+    sum=$(sha1sum "${user_folder}/hashes/${rom_path}/${file}" | awk '{print $1;exit}')
+  fi
+  printf ${sum^^} > "${user_folder}/hashes/${rom_path}/${file}.sha1"
+  if [ -d "${user_folder}/hashes/${rom_path}/tmp" ]; then
+    rm -R "${user_folder}/hashes/${rom_path}/tmp"
+  fi
+}
 
 IFS=$'\n'
 mkdir -p "${user_folder}/hashes/${rom_path}"
@@ -104,11 +128,12 @@ for file in $check_files; do
     process_name
   elif [ "${file_extension,,}" = 'chd' ] && [ $rom_type == 'pce' ]; then
     process_name 
-  elif [ "${file_extension,,}" = 'chd' ]; then
+  elif [ "${file_extension,,}" = 'chd' ] || ([ $rom_type == 'psx' ] && [[ "${file_extension,,}" == "disk1" ]]); then
     process_chd
-  elif [ "${file_extension,,}" = 'bin' ] || [ "${file_extension,,}" = 'cue' ] || [ "${file_extension,,}" = 'pbp' ]; then
+  elif [ "${file_extension,,}" = 'bin' ] && [ $rom_type != '3do' ]; then
+    process_bin
+  elif [[ "${file_extension,,}" = @(img|cue|ccd|disk*|sub) ]]; then
     echo "Filetype ${file_extension} not supported"
-    printf "NOTSUPPORTED" > "${user_folder}/hashes/${rom_path}/${file}.sha1"
   elif [ $rom_type == 'nes' ]; then
     file_type=$(file -b --mime-type "${user_folder}${rom_path}/${file}" | awk -F'/' '{print $2}')
     process_nes

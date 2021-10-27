@@ -18,7 +18,8 @@ var defaultKeys = [
   'has_logo',
   'has_video',
   'has_back',
-  'has_corner'
+  'has_corner',
+  'multi_disc'
 ];
 var defaultDropdowns = { 
   'use_default_art': ['default', true, false],
@@ -108,11 +109,26 @@ async function identifyRom(sha, name) {
   $('#modal').data('sha', sha.replace("|","'"));
   $('#modal').append('<p>Identify: ' + name.replace("|","'") + '</p>');
   var metaData = $('#main').data('metadata');
-  var sel = $('<select>').attr('id', 'gameselection');
+  var options = [];
   for await (sha of Object.keys(metaData)) {
     if (metaData[sha].hasOwnProperty('name')) {
-      sel.append($("<option>").attr('value',sha).text(metaData[sha].name));
+      options.push({'sha': sha, 'name': metaData[sha].name});
     }
+  };
+  var sorted = options.sort(function(a, b){
+    const name1 = a.name.toUpperCase();
+    const name2 = b.name.toUpperCase();
+    let comparison = 0;
+    if (name1 > name2) {
+        comparison = 1;
+    } else if (name1 < name2) {
+        comparison = -1;
+    }
+    return comparison;
+  })
+  var sel = $('<select>').attr('id', 'gameselection');
+  for await (var option of sorted) {
+    sel.append($("<option>").attr('value',option.sha).text(option.name));
   };
   $('#modal').append(sel);
   var setMetaButton = $('<button>').attr('onclick', 'setMeta()').text('Link Item');
@@ -162,6 +178,9 @@ async function setDefaults(config) {
     } else if (value == 'true') {
       var value = true;
     }
+    if (key = 'multi_disc') {
+      var value = Number(value);
+    };
     config.defaults[key] = value;
   };
   $('#main').data('config', config);

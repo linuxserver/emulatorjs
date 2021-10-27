@@ -31,10 +31,18 @@
       </ol>
       <p>From there you can hop into the frontend interface (default port 80) to browse and play your collection</p>
       <p>In general this application is referencing metadata based on commonly used identifying metrics for rom files, mostly these revolve around checksums (specifically sha1) of the rom files themselves. This metadata is compiled from lists on no-intro.org for roms and redump.org for CD based games. Now no system is perfect, but the aim is to have community participation expand these lists with the data from their own rom sets. After scanning in your roms you may notice that many of them are un-identified using this metadata, if you took the time to link them to the correct reference information please consider providing your resulting reference data to Github at <a href"https://github.com/linuxserver/emulatorjs">https://github.com/linuxserver/emulatorjs</a>.</p>
+      <h2>Multi Disk PSX</h2>
+      <p>The only web emulator that supports multiple CD games is psx, in order to function please rename your chd files before scanning them in to the same name with the extension .disk1,.disk2,.disk3,etc. IE:</p>
+      <ul>
+        <li>/data/psx/roms/GAMENAME.disk1</li>
+        <li>/data/psx/roms/GAMENAME.disk2</li>
+        <li>/data/psx/roms/GAMENAME.disk3</li>
+      </ul>
       <h2>Expanding on identification</h2>
+      <p>For all CD based system only bin/cue and chd files are supported for identification purposes, you may be able to use iso files, but automatic identification will not be possible. The only system without chd support is 3do, in all other cases you are best off using chd based roms.<p>
       <p>Depending on the type of game you are trying to scan in this process can take some time, particularly for CD based games in CHD format as we need to pull out individual tracks in many cases to sha1sum the resulting data. In general identifying CD based games is very difficult and in some cases these will simply be lists of file names as there is not a reliable way to compare the sums of different tracks from the CDs. We use the following methods to try to create unique metadata strings to look up for each rom. If a rom is zipped or 7zipped it will be extracted and the resulting file checksummed.</p>
       <ul>
-        <li>3DO- 3DO cd images only contain a single track so we sha1sum that track.</li>
+        <li>3DO- 3DO cd images only contain a single track so we sha1sum that track, must be iso or bin files. If you have .img files please simply rename to iso or bin.</li>
         <li>Arcade- arcade roms use name based identifcation using the FBA v0.2.97.42 roms set as reference, some other MAME roms will work, but only the FBA v0.2.97.42 is supported using emulatorjs. Roms should be zip files following this naming standard. Reference data: https://raw.githubusercontent.com/libretro/fbalpha/master/gamelist.txt</li>
         <li>Atari 2600- Sha1summed rom files.</li>
         <li>Atari 7800- Sha1summed rom files.</li>

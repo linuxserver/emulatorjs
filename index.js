@@ -248,10 +248,24 @@ io.on('connection', async function (socket) {
       var has_corner = fs.existsSync(dataRoot + dir + '/corners/' + name + '.png');
       var has_video = fs.existsSync(dataRoot + dir + '/videos/' + name + '.mp4');
       var positionFile = dataRoot + dir + '/videos/' + name + '.position';
+      config.items[name] = {};
+      var multi_disc = 0;
+      if (fileExtension == '.disk1') {
+        var roms = await fsw.readdir(dataRoot + dir + '/roms/');
+        for await (var rom of roms) {
+          var romExtension = path.extname(rom);
+          var romName = path.basename(rom, romExtension);
+          if (romName == name) {
+            multi_disc++
+          }
+        };
+      };
+      if (multi_disc !== config.defaults.multi_disc) {
+        Object.assign(config.items[name], {'multi_disc': multi_disc});
+      };
       if (fs.existsSync(positionFile)) {
         var video_position = await fsw.readFile(positionFile, 'utf8');
       };
-      config.items[name] = {};
       if (has_logo !== config.defaults.has_logo) {
         Object.assign(config.items[name], {'has_logo': has_logo});
       };
@@ -265,7 +279,7 @@ io.on('connection', async function (socket) {
         Object.assign(config.items[name], {'has_video': has_video});
       };
       if (fileExtension !== config.defaults.rom_extension) {
-        Object.assign(config.items[name], {'extension': fileExtension});
+        Object.assign(config.items[name], {'rom_extension': fileExtension});
       };
       if ((video_position) && (video_position !== config.defaults.video_position)) {
         Object.assign(config.items[name], {'video_position': video_position});

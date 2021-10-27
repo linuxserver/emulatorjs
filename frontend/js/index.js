@@ -10,7 +10,8 @@ var defaultKeys = [
   'has_back',
   'has_corner',
   'has_logo',
-  'has_video'
+  'has_video',
+  'multi_disc'
 ];
 
 //// Helper functions ////
@@ -105,10 +106,27 @@ function loadlogos(logo_load_start, display_items, items_length, active_item) {
 function launch(active_item) {
   var name = $('#i' + active_item.toString()).data('name');
   var type = $('#i' + active_item.toString()).data('type');
+  var multi = $('#i' + active_item.toString()).data('multi_disc');
   var root = $('#menu').data('root');
   $(document).attr('title', name);
   if (type == 'menu') {
     window.location.href = '#' + name
+  } else if (multi > 1) {
+    var config = $('#menu').data('config');
+    config.display_items = multi;
+    config.parent = config.root + '---' + active_item.toString();
+    config.multi_name = name;
+    var baseItem = config.items[name];
+    config.items = {};
+    for (let count = 1; count <= multi; count++) {
+      config.items['Disc ' + count.toString()] = {};
+      Object.assign(config.items['Disc ' + count.toString()], baseItem);
+      config.items['Disc ' + count.toString()].rom_extension = '.disk' + count.toString();
+      config.items['Disc ' + count.toString()].has_logo = false;
+      config.items['Disc ' + count.toString()].has_video = false;
+      config.items['Disc ' + count.toString()].multi_disc = 0;
+    };
+    rendermenu(config, 0);
   } else if (type == 'game') {
     $(window).off('hashchange');
     window.location.href = '#game';
@@ -155,6 +173,7 @@ function launch(active_item) {
 
 //// Page rendering logic ////
 async function rendermenu(data, active_item) {
+  $('#menu').data('config', data);
   var root = data.root;
   $('#menu').data('root', root);
   var parent = data.parent;
@@ -186,6 +205,12 @@ async function rendermenu(data, active_item) {
     } else {
       var has_logo = data.defaults.has_logo;
     };
+    // Render differently for multi disc menus
+    if (data.hasOwnProperty('multi_name')) {
+      var romName = data.multi_name;
+    } else {
+      var romName = name;
+    };
     if (has_logo == true) {
       logo_html = '<img class="menu-img">';
     } else {
@@ -193,7 +218,7 @@ async function rendermenu(data, active_item) {
     };
     // Set varibles to default if not set in item
     var jsdata = '';
-    jsdata += 'data-name="' + name + '" ';
+    jsdata += 'data-name="' + romName + '" ';
     for await (var key of defaultKeys) {
       if (item.hasOwnProperty(key)) {
         jsdata += 'data-' + key + '="' + item[key] + '" ';
