@@ -136,9 +136,9 @@ function launch(active_item) {
     var rom_path = 'user/' + path + '/roms/';
     var rom_extension = $('#i' + active_item.toString()).data('rom_extension');
     var bios = 'user/' + path + '/bios/' + $('#i' + active_item.toString()).data('bios');
-    $('#menu').css('visibility', 'hidden');
-    $('#menu').empty();
-    $('#game').css('visibility', 'visible');
+    $('body').empty();
+    var gameDiv = $('<div>').attr('id','game');
+    $('body').append(gameDiv);
     if (bios !== 'user/' + path + '/bios/') {
       EJS_biosUrl = bios;
     }
