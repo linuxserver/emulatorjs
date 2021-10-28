@@ -55,30 +55,36 @@
   margin: 0;
 }
 
+.modal {
+  max-width: 800px !important;
+}
+
 /* Roms page 2 column layout */
-#container {
-  width: 100%;
-  text-align: center;
-}
-
-#container p {
-  margin: 0;
-}
-
-#left {
-  width: 50%;
-  float:left;
+#header {
+  grid-area: header;
 }
 
 #right {
-  width: 50%;
-  float:left;
+  grid-area: unidentified;
 }
 
-.inline {
-  float:left;
+#left {
+  grid-area: identified;
 }
 
+.wrapper {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-areas:
+    "header  header"
+    "identified unidentified";
+}
+
+.wrapper p {
+  margin: 0;
+}
+
+/* Hidden elements */
 .hidden {
   display: none;
 }

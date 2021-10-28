@@ -213,17 +213,17 @@ async function renderRom(data) {
   $('#side').empty();
   // Render Legend
   var keys = [['All Art Downloaded', 'green'], ['Art Available for Download', 'red'], ['No Art Available', 'gray']]
-  var header = $('<div>')
+  var header = $('<div>').attr('id', 'header');
   for await (var key of keys) {
-    var item = $('<div>').addClass('inline').css('background-color',key[1]).text(key[0]);
+    var item = $('<div>').css('background-color',key[1]).text(key[0]);
     header.append(item);
   }
-  $('#main').append(header,'<br>')
-  var container = $('<div>').attr('id', 'container');
+  var container = $('<div>').addClass('wrapper');
+  container.append(header);
   $('#main').append(container);
-  var left = $('<div>').attr('id', 'left').append('<p>Identified Roms</p>');
-  var right = $('<div>').attr('id', 'right').append('<p>Unidentified Roms</p>');
-  $('#container').append(left,right);
+  var identified = $('<div>').attr('id','left').append('<p>Identified Roms:</p>');
+  var unidentified = $('<div>').attr('id','right').append('<p>Unidentified Roms:</p>');
+  container.append(identified,unidentified);
   // Process buttons
   var folderName = $('#main').data('name');
   var downloadArtButton = $('<button>').addClass('button hover').attr('onclick', 'downloadArt(\'' + folderName + '\');').text('Download All Available Art');
@@ -242,13 +242,13 @@ async function renderRom(data) {
       var color = 'gray';
     };
     var item = $('<p>').css('background-color', color).text(idItem);
-    $('#left').append(item)
+    identified.append(item)
   };
   for await (var noIdItem of Object.keys(data[1])) {
     var item = $('<p>').text(noIdItem);
     var identifyButton = $('<button>').addClass('button hover').attr('onclick', 'identifyRom(\'' + data[1][noIdItem].replace("'","|") + '\',\'' + noIdItem.replace("'","|") + '\');').text('identify');
     item.append(identifyButton);
-    $('#right').append(item)
+    unidentified.append(item)
   };
 };
 
