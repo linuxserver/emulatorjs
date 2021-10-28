@@ -1,82 +1,29 @@
-a {
-  color: black;
-  text-decoration: none;
-} 
-
-.page-container {
-  height: auto;
-}
-
+/* Main page layout not mobile compatible */
 #side {
   position:fixed;
   width: 15vw;
-  top: 5vh;
+  top: 40px;
   left: 0;
-  height: 95vh;
-  overflow: scroll;
+  height:calc(100vh - 40px);
+  overflow: auto;
 }
 
 #main {
   position:fixed;
   width: 85vw;
-  top: 5vh;
+  top: 40px;
   right: 0;
-  height: 95vh;
-  overflow: scroll;
-}
-
-#main table {
-  white-space: nowrap;
-  margin: 0;
-  border: none;
-  border-collapse: separate;
-  border-spacing: 0;
-  table-layout: fixed;
-  border: 1px solid black;
-}
-
-#main table td,
-table th {
-  border: 1px solid black;
-}
-
-#main table thead th {
-  position: sticky;
-  top: 0;
-  z-index: 1;
-  background: white;
-}
-
-#main table td {
-  background: #fff;
-  text-align: left;
-}
-
-#main table tbody th {
-  font-weight: 100;
-  text-align: left;
-  position: relative;
-}
-
-#main table thead th:first-child {
-  position: sticky;
-  left: 0;
-  z-index: 2;
-}
-
-#main table tbody th {
-  position: sticky;
-  left: 0;
-  background: white;
-  z-index: 1;
+  height:calc(100vh - 40px);
+  overflow: auto;
 }
 
 .top {
   position:fixed;
   width: 100vw;
-  height: 5vh;
+  height: 40px;
   top: 0;
   left: 0;
+  border-bottom: 2px solid #000;
 }
 
 .nav {
@@ -87,78 +34,34 @@ table th {
 .nav-buttons {
   display: flex;
   float: right;
+  padding: 8px;
 }
 
 .top-item {
-  padding: 1vh;
+  cursor: pointer;
+  padding: 10px;
+  border-right: 2px solid #000;
 }
 
-.loader,
-.loader:before,
-.loader:after {
-  background: #000000;
-  -webkit-animation: load1 1s infinite ease-in-out;
-  animation: load1 1s infinite ease-in-out;
-  width: 1em;
-  height: 4em;
-}
-.loader {
-  color: #000000;
-  text-indent: -9999em;
-  margin: 88px auto;
-  position: relative;
-  font-size: 11px;
-  -webkit-transform: translateZ(0);
-  -ms-transform: translateZ(0);
-  transform: translateZ(0);
-  -webkit-animation-delay: -0.16s;
-  animation-delay: -0.16s;
-}
-.loader:before,
-.loader:after {
-  position: absolute;
-  top: 0;
-  content: '';
-}
-.loader:before {
-  left: -1.5em;
-  -webkit-animation-delay: -0.32s;
-  animation-delay: -0.32s;
-}
-.loader:after {
-  left: 1.5em;
-}
-@-webkit-keyframes load1 {
-  0%,
-  80%,
-  100% {
-    box-shadow: 0 0;
-    height: 4em;
-  }
-  40% {
-    box-shadow: 0 -2em;
-    height: 5em;
-  }
-}
-@keyframes load1 {
-  0%,
-  80%,
-  100% {
-    box-shadow: 0 0;
-    height: 4em;
-  }
-  40% {
-    box-shadow: 0 -2em;
-    height: 5em;
-  }
+.top-item:hover {
+  background-color: #D3D3D3;
 }
 
+.readme {
+  padding: 10px
+}
+
+#modal p {
+  margin: 0;
+}
+
+/* Roms page 2 column layout */
 #container {
   width: 100%;
-  text-align: center; 
+  text-align: center;
 }
 
-#container p{
+#container p {
   margin: 0;
 }
 
@@ -178,4 +81,141 @@ table th {
 
 .hidden {
   display: none;
+}
+
+/* Json editor */
+#editor {
+  width: 100%;
+  height: 100%;
+}
+
+/* Button/Links hover effect */
+.hover:hover {
+  background-color: #D3D3D3;
+}
+
+/* Rom folder cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border: 1px solid #000;
+  transition: 0.3s;
+  width: 130px;
+  text-align: center;
+  margin: 5px;
+  padding-bottom: 5px;
+}
+
+.card p {
+  margin: 1px;
+}
+
+.card h2 {
+  margin: 5px;
+}
+
+.scanbutton {
+  width: 80px;
+  height: 40px;
+  border: 2px solid #000;
+  background: transparent;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.cardcontainer {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+/* General purpose buttons */
+
+.button {
+  border: 2px solid #000;
+  background: transparent;
+  cursor: pointer;
+  margin: 5px;
+}
+
+/* Side menu table */
+
+.sideitem {
+  width:calc("100% - 4px");
+  height: 30px;
+  line-height: 30px;
+  border: 2px solid #000;
+  border-top: 0;
+  background: transparent;
+  cursor: pointer;
+  text-align: center;
+}
+
+/* CSS loading indicator */
+.loader,
+.loader:before,
+.loader:after {
+  background: #000000;
+  -webkit-animation: load1 1s infinite ease-in-out;
+  animation: load1 1s infinite ease-in-out;
+  width: 1em;
+  height: 4em;
+}
+
+.loader {
+  color: #000000;
+  text-indent: -9999em;
+  margin: 88px auto;
+  position: relative;
+  font-size: 11px;
+  -webkit-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-animation-delay: -0.16s;
+  animation-delay: -0.16s;
+}
+
+.loader:before,
+.loader:after {
+  position: absolute;
+  top: 0;
+  content: '';
+}
+
+.loader:before {
+  left: -1.5em;
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -0.32s;
+}
+
+.loader:after {
+  left: 1.5em;
+}
+
+@-webkit-keyframes load1 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 0;
+    height: 4em;
+  }
+  40% {
+    box-shadow: 0 -2em;
+    height: 5em;
+  }
+}
+
+@keyframes load1 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 0;
+    height: 4em;
+  }
+  40% {
+    box-shadow: 0 -2em;
+    height: 5em;
+  }
 }

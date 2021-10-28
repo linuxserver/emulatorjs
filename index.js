@@ -92,7 +92,7 @@ io.on('connection', async function (socket) {
       var hashCount = 0;
       var romPath = dataRoot + emu + '/roms/';
       if (fs.existsSync(hashPath + emu)) {
-        var hashes = await fsw.readdir(hashPath + emu);
+        var hashes = await fsw.readdir(hashPath + emu + '/roms/');
         var hashCount = hashes.length;
       };
       if (fs.existsSync(romPath)) {
@@ -197,6 +197,7 @@ io.on('connection', async function (socket) {
   async function dlDefaultFiles() {
     var metaData = await fsw.readFile('./metadata/default_files.json', 'utf8');
     var metaData = JSON.parse(metaData);
+    socket.emit('emptymodal');
     for await (var item of metaData) {
       var file = item.file.replace('/data/', dataRoot);
       var cid = item.cid;
@@ -211,6 +212,7 @@ io.on('connection', async function (socket) {
   };
   // Scan roms directory using helper script
   function scanRoms(folder) {
+    socket.emit('emptymodal');
     var scanProcess = spawn('./has_files.sh', ['/' + folder + '/roms/', folder]);
     scanProcess.stdout.setEncoding('utf8');
     scanProcess.stderr.setEncoding('utf8');
@@ -300,6 +302,7 @@ io.on('connection', async function (socket) {
     };
     var shaPath = hashPath + dir + '/roms/';
     var files = await fsw.readdir(shaPath);
+    socket.emit('emptymodal');
     for await (var file of files) {
       var fileName = file.replace('.sha1','');
       var fileExtension = path.extname(fileName);
@@ -314,7 +317,6 @@ io.on('connection', async function (socket) {
             await ipfsDownload(metaData[sha][variable[0]], dataRoot + dir + '/' + variable[1] + '/' + name + variable[2], 0) 
           };
         };
-        socket.emit('modaldata', 'Downloaded All Files');
         if (metaData[sha].hasOwnProperty('position')) {
           await fsw.writeFile(dataRoot + dir + '/videos/' + name + '.position', metaData[sha].position); 
         };
@@ -341,7 +343,7 @@ io.on('connection', async function (socket) {
     await fsw.writeFile(dataRoot + 'metadata/' + dir + '.json', userMetadataFile);
     getRoms(dir);
   };
-
+  
   // Incoming socket requests
   socket.on('renderconfigs', renderConfigs);
   socket.on('renderroms', renderRoms);

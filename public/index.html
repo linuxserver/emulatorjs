@@ -19,60 +19,62 @@
       <div id="main"></div>
     </div>
     <div id="rominfo" class="hidden">
-      <h2>Rom Identification basics</h2>
-      <p>The basic steps for scanning in roms is:</p>
-      <ol>
-        <li>Place the roms in the "roms" directory for your system in your mounted /data/ directory.</li>
-        <li>Click one the corresponding scan button above.</li>
-        <li>Open the item from the menu on the left.</li>
-        <li>If any of your roms are unidentified take the time to link them to the correct rom name.</li>
-        <li>Click to download all the art items for your identified roms.(logos, videos, etc)</li>
-        <li>Click to add the roms to your config file for that system.</li>
-      </ol>
-      <p>From there you can hop into the frontend interface (default port 80) to browse and play your collection</p>
-      <p>In general this application is referencing metadata based on commonly used identifying metrics for rom files, mostly these revolve around checksums (specifically sha1) of the rom files themselves. This metadata is compiled from lists on no-intro.org for roms and redump.org for CD based games. Now no system is perfect, but the aim is to have community participation expand these lists with the data from their own rom sets. After scanning in your roms you may notice that many of them are un-identified using this metadata, if you took the time to link them to the correct reference information please consider providing your resulting reference data to Github at <a href"https://github.com/linuxserver/emulatorjs">https://github.com/linuxserver/emulatorjs</a>.</p>
-      <h2>Multi Disk PSX</h2>
-      <p>The only web emulator that supports multiple CD games is psx, in order to function please rename your chd files before scanning them in to the same name with the extension .disk1,.disk2,.disk3,etc. IE:</p>
-      <ul>
-        <li>/data/psx/roms/GAMENAME.disk1</li>
-        <li>/data/psx/roms/GAMENAME.disk2</li>
-        <li>/data/psx/roms/GAMENAME.disk3</li>
-      </ul>
-      <h2>Expanding on identification</h2>
-      <p>For all CD based system only bin/cue and chd files are supported for identification purposes, you may be able to use iso files, but automatic identification will not be possible. The only system without chd support is 3do, in all other cases you are best off using chd based roms.<p>
-      <p>Depending on the type of game you are trying to scan in this process can take some time, particularly for CD based games in CHD format as we need to pull out individual tracks in many cases to sha1sum the resulting data. In general identifying CD based games is very difficult and in some cases these will simply be lists of file names as there is not a reliable way to compare the sums of different tracks from the CDs. We use the following methods to try to create unique metadata strings to look up for each rom. If a rom is zipped or 7zipped it will be extracted and the resulting file checksummed.</p>
-      <ul>
-        <li>3DO- 3DO cd images only contain a single track so we sha1sum that track, must be iso or bin files. If you have .img files please simply rename to iso or bin.</li>
-        <li>Arcade- arcade roms use name based identifcation using the FBA v0.2.97.42 roms set as reference, some other MAME roms will work, but only the FBA v0.2.97.42 is supported using emulatorjs. Roms should be zip files following this naming standard. Reference data: https://raw.githubusercontent.com/libretro/fbalpha/master/gamelist.txt</li>
-        <li>Atari 2600- Sha1summed rom files.</li>
-        <li>Atari 7800- Sha1summed rom files.</li>
-        <li>Game Boy Advance- Sha1summed rom files.</li>
-        <li>Game Boy Color- Sha1summed rom files.</li>
-        <li>Game Boy- Sha1summed rom files.</li>
-        <li>Jaguar- Sha1summed rom files, specifically J64 roms only.</li>
-        <li>Atari LYNX- Sha1summed rom files.</li>
-        <li>MSX- Floppy images are not supported only cartridge based roms, sha1summed rom files.</li>
-        <li>Nintendo 64- BigEndian roms only (.z64), sha1summed rom files.</li>
-        <li>Nintendo DS- Decrypted roms only, sha1summed rom files.</li>
-        <li>Nintendo Entertainment System- We use a helper NES20Tool to pull all headers out of files (.nes) since the standard was set all NES roms should have this header information, sha1summed rom files.</li>
-        <li>Neo Geo Pocket (color)- Sha1summed rom files.</li>
-        <li>PC Engine (TurboGrafx-16)- The rom files are sha1summed rom files, while the chd cd images use a name reference system as there is no reliable way to pull a non colliding checksum track out of the CDs.</li>
-        <li>Playstation- Currently Playstation is a bit of a mess, optimally we would have identification support for PBP files as they are multi CD out of the box and very popular, but identifying these is impossible via Linux CLI as of now. So for identification we depend on extracting out chd files and checksumming the 1st track.</li>
-        <li>Sega 32x- Sha1summed rom files.</li>
-        <li>Sega CD- Extract and sum the first track of CHD files.</li>
-        <li>Sega Game Gear- Sha1summed rom files.</li>
-        <li>Sega Mega Drive- Sha1summed rom files.</li>
-        <li>Sega Master System- Sha1summed rom files.</li>
-        <li>Sega Saturn- Name based identification, to much track collision for sha1.</li>
-        <li>Super Nintendo- Sha1summed rom files.</li>
-        <li>Virtual Boy- Sha1summed rom files.</li>
-        <li>Wonderswan (color)- Sha1summed rom files.</li>
-      </ul>
+      <div class="readme">
+        <h2>Rom Identification basics</h2>
+        <p>The basic steps for scanning in roms is:</p>
+        <ol>
+          <li>Place the roms in the "roms" directory for your system in your mounted /data/ directory.</li>
+          <li>Click one the corresponding scan button above.</li>
+          <li>Open the item from the menu on the left.</li>
+          <li>If any of your roms are unidentified take the time to link them to the correct rom name.</li>
+          <li>Click to download all the art items for your identified roms.(logos, videos, etc)</li>
+          <li>Click to add the roms to your config file for that system.</li>
+        </ol>
+        <p>From there you can hop into the frontend interface (default port 80) to browse and play your collection</p>
+        <p>In general this application is referencing metadata based on commonly used identifying metrics for rom files, mostly these revolve around checksums (specifically sha1) of the rom files themselves. This metadata is compiled from lists on no-intro.org for roms and redump.org for CD based games. Now no system is perfect, but the aim is to have community participation expand these lists with the data from their own rom sets. After scanning in your roms you may notice that many of them are un-identified using this metadata, if you took the time to link them to the correct reference information please consider providing your resulting reference data to Github at <a href"https://github.com/linuxserver/emulatorjs">https://github.com/linuxserver/emulatorjs</a>.</p>
+        <h2>Multi Disk PSX</h2>
+        <p>The only web emulator that supports multiple CD games is psx, in order to function please rename your chd files before scanning them in to the same name with the extension .disk1,.disk2,.disk3,etc. IE:</p>
+        <ul>
+          <li>/data/psx/roms/GAMENAME.disk1</li>
+          <li>/data/psx/roms/GAMENAME.disk2</li>
+          <li>/data/psx/roms/GAMENAME.disk3</li>
+        </ul>
+        <h2>Expanding on identification</h2>
+        <p>For all CD based system only bin/cue and chd files are supported for identification purposes, you may be able to use iso files, but automatic identification will not be possible. The only system without chd support is 3do, in all other cases you are best off using chd based roms.<p>
+        <p>Depending on the type of game you are trying to scan in this process can take some time, particularly for CD based games in CHD format as we need to pull out individual tracks in many cases to sha1sum the resulting data. In general identifying CD based games is very difficult and in some cases these will simply be lists of file names as there is not a reliable way to compare the sums of different tracks from the CDs. We use the following methods to try to create unique metadata strings to look up for each rom. If a rom is zipped or 7zipped it will be extracted and the resulting file checksummed.</p>
+        <ul>
+          <li>3DO- 3DO cd images only contain a single track so we sha1sum that track, must be iso or bin files. If you have .img files please simply rename to iso or bin.</li>
+          <li>Arcade- arcade roms use name based identifcation using the FBA v0.2.97.42 roms set as reference, some other MAME roms will work, but only the FBA v0.2.97.42 is supported using emulatorjs. Roms should be zip files following this naming standard. Reference data: https://raw.githubusercontent.com/libretro/fbalpha/master/gamelist.txt</li>
+          <li>Atari 2600- Sha1summed rom files.</li>
+          <li>Atari 7800- Sha1summed rom files.</li>
+          <li>Game Boy Advance- Sha1summed rom files.</li>
+          <li>Game Boy Color- Sha1summed rom files.</li>
+          <li>Game Boy- Sha1summed rom files.</li>
+          <li>Jaguar- Sha1summed rom files, specifically J64 roms only.</li>
+          <li>Atari LYNX- Sha1summed rom files.</li>
+          <li>MSX- Floppy images are not supported only cartridge based roms, sha1summed rom files.</li>
+          <li>Nintendo 64- BigEndian roms only (.z64), sha1summed rom files.</li>
+          <li>Nintendo DS- Decrypted roms only, sha1summed rom files.</li>
+          <li>Nintendo Entertainment System- We use a helper NES20Tool to pull all headers out of files (.nes) since the standard was set all NES roms should have this header information, sha1summed rom files.</li>
+          <li>Neo Geo Pocket (color)- Sha1summed rom files.</li>
+          <li>PC Engine (TurboGrafx-16)- The rom files are sha1summed rom files, while the chd cd images use a name reference system as there is no reliable way to pull a non colliding checksum track out of the CDs.</li>
+          <li>Playstation- Currently Playstation is a bit of a mess, optimally we would have identification support for PBP files as they are multi CD out of the box and very popular, but identifying these is impossible via Linux CLI as of now. So for identification we depend on extracting out chd files and checksumming the 1st track.</li>
+          <li>Sega 32x- Sha1summed rom files.</li>
+          <li>Sega CD- Extract and sum the first track of CHD files.</li>
+          <li>Sega Game Gear- Sha1summed rom files.</li>
+          <li>Sega Mega Drive- Sha1summed rom files.</li>
+          <li>Sega Master System- Sha1summed rom files.</li>
+          <li>Sega Saturn- Name based identification, to much track collision for sha1.</li>
+          <li>Super Nintendo- Sha1summed rom files.</li>
+          <li>Virtual Boy- Sha1summed rom files.</li>
+          <li>Wonderswan (color)- Sha1summed rom files.</li>
+        </ul>
+      </div>
     </div>
     <script src="socket.io/socket.io.js"></script>
     <script src="public/js/vendor/jquery.min.js"></script>
     <script src="public/js/vendor/jquery.modal.min.js"></script>
-    <script src="public/js/vendor/jquery-ui.min.js"></script>
+    <script src="public/js/vendor/ace.js"></script>
     <script src="public/js/index.js"></script>
   </body>
 </html>
