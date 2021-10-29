@@ -21,7 +21,7 @@ var defaultPeer = '/ip4/206.189.169.226/tcp/4001/p2p/12D3KooWHRqeK6as7tbuoaQdoTU
 var metaVariables = [
   ['vid', 'videos', '.mp4'],
   ['logo', 'logos', '.png'],
-  ['back', 'backs', '.png'],
+  ['back', 'backgrounds', '.png'],
   ['corner', 'corners', '.png']
 ];
 var emus = [
