@@ -59,6 +59,10 @@
   max-width: 800px !important;
 }
 
+.centered {
+  text-align: center;
+}
+
 /* Roms page 2 column layout */
 #header {
   grid-area: header;

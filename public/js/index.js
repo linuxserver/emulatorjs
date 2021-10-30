@@ -253,11 +253,10 @@ async function renderRom(data) {
 };
 
 // Render in landing
-async function renderLanding() {
+function renderLanding() {
   // Clear page
   $('#main').empty();
   $('#side').empty();
-  var dlButton = $('<button>').addClass('button hover').attr('onclick', 'dlDefaultFiles()').text('Download Default Files');
-  $('#main').append(dlButton);
+  $('#main').append($('#landing').html());
 };
 
