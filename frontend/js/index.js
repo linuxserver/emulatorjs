@@ -128,14 +128,18 @@ function launch(active_item) {
     };
     rendermenu(config, 0);
   } else if (type == 'game') {
+    // Disable keyevents and hash watching
+    window.exit = false;
     $(window).off('hashchange');
     window.location.href = '#game';
     $(document).off('keydown');
+    // Default variables for emulator
     var emulator = $('#i' + active_item.toString()).data('emulator');
     var path =  $('#i' + active_item.toString()).data('path');
     var rom_path = 'user/' + path + '/roms/';
     var rom_extension = $('#i' + active_item.toString()).data('rom_extension');
     var bios = 'user/' + path + '/bios/' + $('#i' + active_item.toString()).data('bios');
+    // Clear screen and add game window
     $('body').empty();
     var gameDiv = $('<div>').attr('id','game');
     $('body').append(gameDiv);
@@ -158,9 +162,16 @@ function launch(active_item) {
         document.getElementsByClassName('ejs--73f9b4e94a7a1fe74e11107d5ab2ef')[0].click();
       }
     }, 100);
+    // Call to save every minute the game is active
+    var saveEveryMinute = setInterval(() => {
+      if (window.exit == false ) {
+        window.dispatchEvent(new Event('beforeunload'));
+      };
+    }, 60000);
     // Reload window if user clicks back
     $(window).on('hashchange', async function() {
       if (window.location.hash !== '#game') {
+        window.exit = true;
         window.dispatchEvent(new Event('beforeunload'));
         setTimeout(function(){
           window.location.href = '#' + root + '---' + active_item;
