@@ -41,6 +41,7 @@ var emus = [
 
 //// Http server ////
 baserouter.use('/public', express.static(__dirname + '/public'));
+baserouter.use('/frontend', express.static(__dirname + '/frontend'));
 baserouter.get("/", function (req, res) {
   res.sendFile(__dirname + '/public/index.html');
 });
