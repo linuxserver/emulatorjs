@@ -1,7 +1,8 @@
 var host = window.location.hostname; 
 var port = window.location.port;
 var protocol = window.location.protocol;
-var socket = io(protocol + '//' + host + ':' + port, {});
+var path = window.location.pathname;
+var socket = io(protocol + '//' + host + ':' + port, { path: path + 'socket.io'});
 
 //// Socket recieves ////
 // Render config
@@ -286,6 +287,9 @@ function renderFileDirs(dirs) {
 function renderFileBrowser(dir) {
   $('#main').empty();
   var url = window.location.href;
+  if (! url.endsWith('/')) {
+    var url = url + '/';
+  };
   var browser = $('<iframe>').attr('src', url + 'files/fs/' + dir).addClass('browser');
   $('#main').append(browser);
 };
