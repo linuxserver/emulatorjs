@@ -5,15 +5,21 @@ var fs = require('fs');
 var fsw = require('fs').promises;
 var util = require('util');
 var path = require('path');
+var cloudcmd = require('cloudcmd');
+var express = require('express');
+var app = require('express')();
+var http = require('http').Server(app);
+var baserouter = express.Router();
 var { spawn } = require('child_process');
 var { create } = require('ipfs-http-client');
 var ipfs = create();
 
 // Default vars
+var baseUrl = process.env.SUBFOLDER || '/';
 if (fs.existsSync('/data')) { 
   var dataRoot = '/data/';
 } else {
-  var dataRoot = 'frontend/user/'
+  var dataRoot = __dirname + '/frontend/user/'
 };
 var configPath = dataRoot + 'config/';
 var hashPath = dataRoot + 'hashes/';
@@ -32,42 +38,17 @@ var emus = [
   'segaGG', 'segaMD', 'segaMS',
   'segaSaturn', 'snes', 'vb', 'ws'
 ];
-mimeTypes = {
-  "html": "text/html",
-  "jpeg": "image/jpeg",
-  "jpg": "image/jpeg",
-  "png": "image/png",
-  "svg": "image/svg+xml",
-  "json": "application/json",
-  "js": "text/javascript",
-  "css": "text/css"
-};
 
 //// Http server ////
-var main = async function (req, res) {
-  if (req.url == '/') {
-    var url = '/public/index.html';
-  } else {
-    var url = req.url;
-  }
-  try {
-    var mimeType = mimeTypes[url.split('?')[0].split('.').pop()];
-    if (!mimeType) {
-      mimeType = 'text/plain';
-    }
-    var data = await fsw.readFile(__dirname + decodeURI(url.split('?')[0]));
-    res.writeHead(200, { "Content-Type": mimeType });
-    res.end(data);
-  } catch (err) {
-    res.writeHead(404);
-    res.end(JSON.stringify(err));
-  };
-};
-var server = http.createServer(main);
-server.listen(3000);
+baserouter.use('/public', express.static(__dirname + '/public'));
+baserouter.get("/", function (req, res) {
+  res.sendFile(__dirname + '/public/index.html');
+});
+app.use(baseUrl, baserouter);
+http.listen(3000);
 
 //// socketIO comms ////
-io = socketIO(server);
+io = socketIO(http, {path: baseUrl + 'socket.io'});
 io.on('connection', async function (socket) {
   //// Functions ////
   // Send config list to client
@@ -344,6 +325,18 @@ io.on('connection', async function (socket) {
     getRoms(dir);
   };
   
+  // Render files page
+  async function renderFiles() {
+    var dirItems = await fsw.readdir(dataRoot);
+    var dirs = [];
+    for await (var item of dirItems) {
+      if ((fs.lstatSync(dataRoot + item).isDirectory()) && (! /^\..*/.test(item))){
+        dirs.push(item);
+      };
+    };
+    socket.emit('renderfiledirs', dirs);
+  };
+
   // Incoming socket requests
   socket.on('renderconfigs', renderConfigs);
   socket.on('renderroms', renderRoms);
@@ -356,6 +349,7 @@ io.on('connection', async function (socket) {
   socket.on('addtoconfig', addToConfig);
   socket.on('downloadart', downloadArt);
   socket.on('usermeta', userMeta);
+  socket.on('renderfiles', renderFiles);
   // Render landing page
   if (fs.existsSync(dataRoot + 'config/main.json')) {
     renderRoms();
@@ -363,3 +357,21 @@ io.on('connection', async function (socket) {
     renderLanding();
   };
 });
+
+// Cloudcmd File browser
+baserouter.use('/files', cloudcmd({
+  config: {
+    root: dataRoot,
+    prefix: baseUrl + 'files',
+    terminal: false,
+    console: false,
+    configDialog: false,
+    contact: false,
+    auth: false,
+    name: 'Files',
+    log: false,
+    keysPanel: false,
+    oneFilePanel: true,
+  }
+}));
+

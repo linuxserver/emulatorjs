@@ -1,10 +1,12 @@
 {
   "name": "emulatorjs",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Rom and art management utility for generating configuration files for use with the EmulatorJS frontend",
   "main": "index.js",
   "author": "thelamer",
   "dependencies": {
+    "cloudcmd": "^15.9.8",
+    "express": "^4.17.1",
     "ipfs-http-client": "^53.0.1",
     "socket.io": "^4.3.1"
   }

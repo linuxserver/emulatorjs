@@ -11,6 +11,7 @@
       <div id="nav" class="nav">
         <div onclick="renderRoms()" class="top-item">Rom Management</div>
         <div onclick="renderConfigss()" class="top-item">Config Management</div>
+        <div onclick="renderFiles()" class="top-item">File Management</div>
       </div>
       <div id="nav-buttons" class="nav-buttons"></div>
     </div>
@@ -75,6 +76,11 @@
       <div class="centered">
         <h1>Please Download the default fileset to begin:</h1>
 	<button class="scanbutton hover" onclick="dlDefaultFiles()">Download</button>
+      </div>
+    </div>
+    <div id="filelanding" class="hidden">
+      <div class="centered">
+        <h1>Choose a folder. Drag and drop files or right click to upload.</h1>
       </div>
     </div>
     <script src="socket.io/socket.io.js"></script>

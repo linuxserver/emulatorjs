@@ -19,7 +19,9 @@ socket.on('renderlanding', renderLanding);
 // Render modal data
 socket.on('modaldata', modalData);
 // Empty modal
-socket.on('emptymodal', emptyModal)
+socket.on('emptymodal', emptyModal);
+// Render file directories
+socket.on('renderfiledirs', renderFileDirs);
 
 //// Functions ////
 // Grab a json file from the server
@@ -260,3 +262,30 @@ function renderLanding() {
   $('#main').append($('#landing').html());
 };
 
+// Render file management
+function renderFiles() {
+  $('#main').empty();
+  $('#side').empty();
+  $('#main').append('<div class="loader"></div>');
+  socket.emit('renderfiles');
+};
+
+// Render file directories
+function renderFileDirs(dirs) {
+  $('#side').empty();
+  $('#main').empty();
+  $('#main').append($('#filelanding').html());
+  $('#nav-buttons').empty();
+  $.each(dirs, function(index, dir) {
+    var sideLink = $('<div>').addClass('sideitem hover').attr('onclick', "renderFileBrowser('" + dir + "')").text(dir);
+    $('#side').append(sideLink);
+  });
+};
+
+// Tell server to configure a file browser
+function renderFileBrowser(dir) {
+  $('#main').empty();
+  var url = window.location.href;
+  var browser = $('<iframe>').attr('src', url + 'files/fs/' + dir).addClass('browser');
+  $('#main').append(browser);
+};

@@ -163,6 +163,15 @@
   text-align: center;
 }
 
+/* File browsers */
+.browser {
+  position:fixed;
+  width: 85vw;
+  top: 40px;
+  right: 0;
+  height:calc(100vh - 40px);
+}
+
 /* CSS loading indicator */
 .loader,
 .loader:before,
