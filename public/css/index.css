@@ -84,8 +84,32 @@
     "identified unidentified";
 }
 
+.wrapper {
+  margin: 0;
+}
+
 .wrapper p {
   margin: 0;
+}
+
+.itemwrapper {
+  display: table;
+}
+
+.item {
+  width: 100%;
+  display: table-cell;
+}
+
+.rombutton {
+  padding: 0;
+  margin: 0;
+  text-align: right;
+}
+
+.identifybutton { 
+  padding: 0;
+  margin-left: 20px;
 }
 
 /* Hidden elements */

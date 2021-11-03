@@ -139,10 +139,12 @@ function launch(active_item) {
     var rom_path = 'user/' + path + '/roms/';
     var rom_extension = $('#i' + active_item.toString()).data('rom_extension');
     var bios = 'user/' + path + '/bios/' + $('#i' + active_item.toString()).data('bios');
-    // Clear screen and add game window
+    // Clear screen
     $('body').empty();
+    // Add game window
     var gameDiv = $('<div>').attr('id','game');
     $('body').append(gameDiv);
+    // Set emulator variables
     if (bios !== 'user/' + path + '/bios/') {
       EJS_biosUrl = bios;
     }
@@ -153,9 +155,11 @@ function launch(active_item) {
     EJS_onGameStart = function() {
       document.querySelectorAll('[data-btn="fullscreen"]')[0].click();
     }
+    // Load in EJS loader
     var loaderscript = document.createElement('script');
     loaderscript.src = 'data/loader.js';
     document.head.append(loaderscript);
+    // Click play button as soon as it appears
     var clickplay = setInterval(() => {
       if (typeof document.getElementsByClassName('ejs--73f9b4e94a7a1fe74e11107d5ab2ef')[0] !== 'undefined') {
         clearInterval(clickplay);

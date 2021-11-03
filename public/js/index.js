@@ -244,15 +244,36 @@ async function renderRom(data) {
     } else if (data[0][idItem].has_art == 'none') {
       var color = 'gray';
     };
-    var item = $('<p>').css('background-color', color).text(idItem);
+    var deleteButton = $('<button>').addClass('rombutton item').attr('onclick', 'deleteRom(\'' + idItem.replace("'","|") + '\')').text('delete');
+    var item = $('<div>').addClass('itemwrapper').css('background-color', color).html($('<p>').addClass('item').text(idItem));
+    item.append(deleteButton);
     identified.append(item)
   };
   for await (var noIdItem of Object.keys(data[1])) {
-    var item = $('<p>').text(noIdItem);
-    var identifyButton = $('<button>').addClass('button hover').attr('onclick', 'identifyRom(\'' + data[1][noIdItem].replace("'","|") + '\',\'' + noIdItem.replace("'","|") + '\');').text('identify');
-    item.append(identifyButton);
+    var identifyButton = $('<button>').addClass('identifybutton').attr('onclick', 'identifyRom(\'' + data[1][noIdItem].replace("'","|") + '\',\'' + noIdItem.replace("'","|") + '\');').text('identify');
+    var deleteButton = $('<button>').addClass('rombutton item').attr('onclick', 'deleteRom(\'' + noIdItem.replace("'","|") + '\')').text('delete');
+    var item = $('<div>').addClass('itemwrapper').html($('<p>').addClass('item').text(noIdItem).append(identifyButton));
+    item.append(deleteButton);
     unidentified.append(item)
   };
+};
+
+// Render confirm delete rom
+function deleteRom(name) {
+  $('#modal').modal();
+  $('#modal').empty();
+  var dir = $('#main').data('name');
+  var realName = name.replace("|","'");
+  $('#modal').data('delete', [name, dir]);
+  var message = $('<p>').text('Really delete ' + realName + ' ?');
+  var deletebutton = $('<button>').attr('onclick', 'deleteRomReal()').addClass('button hover').text('delete');
+  $('#modal').append(message, deletebutton);
+};
+
+// Delete rom
+function deleteRomReal(data) {
+  socket.emit('deleterom', $('#modal').data('delete'));
+  $.modal.close();
 };
 
 // Render in landing

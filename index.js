@@ -1,5 +1,4 @@
 // NPM modules
-var http = require('http');
 var socketIO = require('socket.io');
 var fs = require('fs');
 var fsw = require('fs').promises;
@@ -115,6 +114,9 @@ io.on('connection', async function (socket) {
     var files = await fsw.readdir(shaPath);
     var identified = {};
     var unidentified = {};
+    var metaVars = [];
+    metaVars.push(...metaVariables);
+    metaVars.push(['video_position', 'videos', '.position']);
     for (var file of files) {
       var fileName = file.replace('.sha1','');
       var fileExtension = path.extname(fileName);
@@ -124,14 +126,13 @@ io.on('connection', async function (socket) {
         if (metaData[sha].hasOwnProperty('ref')) {
           var sha = metaData[sha].ref;
         };
-        identified[name] = {'has_art': 'none'};
-        metaVariables.push(['video_position', 'videos', '.position']);
-	for await (var variable of metaVariables) {
+        identified[fileName] = {'has_art': 'none'};
+	for await (var variable of metaVars) {
           if (metaData[sha].hasOwnProperty(variable[0])) {
             if (fs.existsSync(dataRoot + dir + '/' + variable[1] + '/' + name + variable[2])) {
-              identified[name] = {'has_art': true};
+              identified[fileName] = {'has_art': true};
             } else {
-              identified[name] = {'has_art': false};
+              identified[fileName] = {'has_art': false};
               break;
             };
           };
@@ -304,6 +305,7 @@ io.on('connection', async function (socket) {
         };
       };
     };
+    socket.emit('modaldata', 'Downloaded All Files');
     getRoms(dir);
   };
   // Set user linked metadata
@@ -338,6 +340,31 @@ io.on('connection', async function (socket) {
     socket.emit('renderfiledirs', dirs);
   };
 
+  // Delete rom
+  async function deleteRom(data) {
+    var fileName = data[0].replace("|","'");
+    var dir = data[1];
+    var fileExtension = path.extname(fileName);
+    var name = path.basename(fileName, fileExtension);
+    let metaVars = [];
+    metaVars.push(...metaVariables);
+    metaVars.push(['video_position', 'videos', '.position']);
+    for await (var variable of metaVars) {
+      var file = dataRoot + dir + '/' + variable[1] + '/' + name + variable[2];
+      if (fs.existsSync(file)) {
+        fs.unlinkSync(file);
+      };
+    };
+    var romFile = dataRoot + dir + '/roms/' + fileName;
+    var shaFile = dataRoot + 'hashes/' + dir + '/roms/' + fileName + '.sha1';
+    for await (var file of [romFile, shaFile]) {
+      if (fs.existsSync(file)) {
+        fs.unlinkSync(file);
+      };
+    };
+    getRoms(dir);
+  };
+
   // Incoming socket requests
   socket.on('renderconfigs', renderConfigs);
   socket.on('renderroms', renderRoms);
@@ -351,6 +378,7 @@ io.on('connection', async function (socket) {
   socket.on('downloadart', downloadArt);
   socket.on('usermeta', userMeta);
   socket.on('renderfiles', renderFiles);
+  socket.on('deleterom', deleteRom);
   // Render landing page
   if (fs.existsSync(dataRoot + 'config/main.json')) {
     renderRoms();
@@ -373,6 +401,7 @@ baserouter.use('/files', cloudcmd({
     log: false,
     keysPanel: false,
     oneFilePanel: true,
+    zip: false
   }
 }));
 
