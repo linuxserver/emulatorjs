@@ -284,6 +284,7 @@ async function rendermenu(data, active_item) {
   // Move items up
   function moveUp() {
     $('#bgvid').prop('muted', false);
+    $('#bgvid').prop('volume', 0.5);
     active_item--
     if (active_item < 0) {
       active_item = items_length;
@@ -300,6 +301,7 @@ async function rendermenu(data, active_item) {
   // Move items down
   function moveDown() {
     $('#bgvid').prop('muted', false);
+    $('#bgvid').prop('volume', 0.5);
     active_item++
     if (active_item > items_length) {
       active_item = 0;
@@ -364,7 +366,25 @@ async function rendermenu(data, active_item) {
     window.location.href = '#' + root + '---' + active_item;
     window.location.reload();
   });
+  //// Mouse Scrolling ////
+  $('#menu').bind('DOMMouseScroll', function(e){
+    if(e.originalEvent.detail > 0) {
+      moveDown();
+    } else {
+      moveUp();
+    };
+    return false;
+  });
+  $('#menu').bind('mousewheel', function(e){
+    if(e.originalEvent.wheelDelta < 0) {
+      moveDown();
+    } else {
+      moveUp();
+    };
+    return false;
+  });
 };
+
 // Load the json profile selected
 function loadjson(name, active) {
   var url = 'user/config/' + name + '.json';
