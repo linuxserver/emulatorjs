@@ -151,7 +151,7 @@ io.on('connection', async function (socket) {
     let writeStream = fs.createWriteStream(file);
     socket.emit('modaldata', 'Downloading: ' + file);
     try {
-      for await (var fileStream of ipfs.cat(cid, {'timeout': 5000})) {
+      for await (var fileStream of ipfs.cat(cid, {'timeout': 10000})) {
         writeStream.write(fileStream);
       };
       writeStream.end();
@@ -167,6 +167,10 @@ io.on('connection', async function (socket) {
         ipfsDefaultPeer();
         await ipfsDownload(cid, file, count);
       } else {
+        socket.emit('modaldata', 'ERROR Downloading: ' + file);
+        if (fs.existsSync(file)) {
+          fs.unlinkSync(file);
+        }
         return '';
       };
     };

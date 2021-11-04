@@ -32,7 +32,6 @@ function debounce(func, wait, immediate) {
 };
 // Load and play video
 var loadvideo = debounce(function(active_item) {
-//function loadvideo(active_item) {
   var name = $('#i' + active_item.toString()).data('name');
   var has_video = $('#i' + active_item.toString()).data('has_video');
   if (has_video) {
@@ -131,6 +130,7 @@ function launch(active_item) {
     // Disable keyevents and hash watching
     window.exit = false;
     $(window).off('hashchange');
+    $(window).off('orientationchange');
     window.location.href = '#game';
     $(document).off('keydown');
     // Default variables for emulator
@@ -188,6 +188,8 @@ function launch(active_item) {
 
 //// Page rendering logic ////
 async function rendermenu(data, active_item) {
+  // Set default variables
+  var portrait = window.orientation;
   $('#menu').data('config', data);
   var root = data.root;
   $('#menu').data('root', root);
@@ -203,13 +205,23 @@ async function rendermenu(data, active_item) {
   var image_height = Math.floor(100/display_items).toString() + 'vh';
   // Render zoom effect on active item
   function highlight(active_item) {
-    $('#h' + active_item).addClass('grow')
+    if (portrait !== 0) {
+      $('#h' + active_item).addClass('grow')
+    } else {
+      $('#h' + active_item).addClass('grow-mobile')
+    };
   }
   // Set page title
   $(document).attr('title', data.title);
   // Empty any existing
   $('#games-list').empty();
   $('#active-list').empty();
+  // Determine CSS to use
+  if (portrait !== 0) {
+    var shrink = 'shrink';
+  } else {
+    var shrink = 'shrink-mobile';
+  };
   // Loop items loaded from json to build the game menu divs
   var count = 0;
   for await (var name of Object.keys(items)) {
@@ -243,7 +255,7 @@ async function rendermenu(data, active_item) {
     };
     $('#games-list').append('\
       <div id="m' + count + '">\
-        <div id="h' + count + '" class="menu-wrap shrink">\
+        <div id="h' + count + '" class="menu-wrap ' + shrink + '">\
           <a onclick="launch(\'' + count + '\')" id="i' + count + '" ' + jsdata + '>\
             ' + logo_html + '\
           </a>\
@@ -256,39 +268,57 @@ async function rendermenu(data, active_item) {
     $('#active-list').append('<div id="active' + active_num + '" class="menu-div"></div>');
   }
   // Render initial
-  // Logos
-  loadart(active_item);
-  loadvideo(active_item);
+  if (portrait !== 0) {
+    $('.menu-img').css({'max-width': '30vw'});
+    $('.games-list').css({'width': '40vw'});
+    loadart(active_item);
+    loadvideo(active_item);
+  } else {
+    $('.menu-img').css({'max-width': '90vw'});
+    $('.games-list').css({'width': '100vw'});
+  }
   loadlogos(logo_load_start, display_items, items_length, active_item);
   $('.menu-div').css({'height': image_height});
   $('.menu-img').css({'max-height': image_height});
   highlight(active_item);
+  // Move items up
+  function moveUp() {
+    active_item--
+    if (active_item < 0) {
+      active_item = items_length;
+    }
+    var logo_load_start = active_item - Math.floor(display_items/2);
+    loadlogos(logo_load_start, display_items, items_length, active_item);
+    // Background art and video
+    if (portrait !== 0) {
+      loadart(active_item);
+      loadvideo(active_item);
+    }
+    highlight(active_item);
+  };
+  // Move items down
+  function moveDown() {
+    active_item++
+    if (active_item > items_length) {
+      active_item = 0;
+    }
+    var logo_load_start = active_item - Math.floor(display_items/2);
+    loadlogos(logo_load_start, display_items, items_length, active_item);
+    // Background art and video
+    if (portrait !== 0) {
+      loadart(active_item);
+      loadvideo(active_item);
+    }
+    highlight(active_item);
+  };
   // Capture key events for menu navigation
   $(document).keydown(function(event) {
     $('#bgvid').prop('muted', false);
     if (event.key == 'ArrowDown') {
-      active_item++
-      if (active_item > items_length) {
-        active_item = 0;
-      }
-      var logo_load_start = active_item - Math.floor(display_items/2);
-      loadlogos(logo_load_start, display_items, items_length, active_item);
-      // Background art and video
-      loadart(active_item);
-      loadvideo(active_item);
-      highlight(active_item);
+      moveDown();
     }
     if (event.key == 'ArrowUp') {
-      active_item--
-      if (active_item < 0) {
-        active_item = items_length;
-      }
-      var logo_load_start = active_item - Math.floor(display_items/2);
-      loadlogos(logo_load_start, display_items, items_length, active_item);
-      // Background art and video
-      loadart(active_item);
-      loadvideo(active_item);
-      highlight(active_item);
+      moveUp();
     }
     // Load item
     if ((event.key == 'ArrowRight') || (event.key == 'Enter')) {
@@ -298,6 +328,40 @@ async function rendermenu(data, active_item) {
     if (event.key == 'ArrowLeft') {
       window.location.href = '#' + parent;
     }
+  });
+  //// Touch controls ////
+  // Scroll up wheel
+  async function scroll(ev) {
+    window.scrollKill = false;
+    var scrolling = setInterval(() => {
+      if (window.scrollKill == false) {
+        if (ev.additionalEvent == 'panup') {
+          moveDown();
+	} else if (ev.additionalEvent == 'pandown') {
+          moveUp();
+	} else {
+          clearInterval(scrolling);
+        };
+      } else {
+        clearInterval(scrolling);
+      };
+    }, 50);
+  };
+  // Stop scrolling 
+  function killScroll(ev) {
+    window.scrollKill = true;
+  };
+  var mc = new Hammer(document.getElementById('menu'));
+  mc.get('swipe').set({ direction: Hammer.DIRECTION_ALL });
+  mc.get('pan').set({ direction: Hammer.DIRECTION_ALL, threshold: 250 });
+  mc.on("swipeup", moveDown);
+  mc.on("swipedown", moveUp);
+  mc.on("panstart", scroll);
+  mc.on("panend", killScroll);
+  // Render menu on orientation change
+  $(window).on('orientationchange',function(){
+    window.location.href = '#' + root + '---' + active_item;
+    window.location.reload();
   });
 };
 // Load the json profile selected
