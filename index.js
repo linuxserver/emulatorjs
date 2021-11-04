@@ -82,6 +82,17 @@ io.on('connection', async function (socket) {
       };
       romData[emu] = {'roms': romCount,'hashes': hashCount};
     };
+    // Grab default files data
+    var defaultFiles = await fsw.readFile('./metadata/default_files.json', 'utf8');
+    var defaultFiles = JSON.parse(defaultFiles);
+    var defaultCount = defaultFiles.length;
+    var defaultDlCount = 0;
+    for await (var item of defaultFiles) {
+      if (fs.existsSync(item.file.replace('/data/', dataRoot))) {
+        defaultDlCount++
+      };
+    };
+    romData['default'] = {'available': defaultCount,'downloaded': defaultDlCount};
     renderRomsDir();
     socket.emit('renderromslanding', romData);
   };
@@ -194,6 +205,16 @@ io.on('connection', async function (socket) {
         await ipfsDownload(cid, file, 0);
       }
     };
+    for await (var dir of emus) {
+      var path = dataRoot + 'hashes/' + dir + '/roms/';
+      if (fs.existsSync(path)) {
+        var roms = await fsw.readdir(path);
+        if (roms.length > 0) {
+          socket.emit('modaldata', 'Processing Config for ' + dir);
+          await addToConfig(dir, true);
+        };
+      };
+    };
     socket.emit('modaldata', 'Downloaded All Files');
     renderRoms();
   };
@@ -215,7 +236,7 @@ io.on('connection', async function (socket) {
     });
   };
   // Add roms to config file
-  async function addToConfig(dir) {
+  async function addToConfig(dir, render) {
     var configFile = configPath + dir + '.json';
     var shaPath = hashPath + dir + '/roms/';
     var files = await fsw.readdir(shaPath);
@@ -276,7 +297,11 @@ io.on('connection', async function (socket) {
     };
     var configContents = JSON.stringify(config, null, 2);
     await fsw.writeFile(configFile, configContents);
-    renderRoms();
+    if (render) {
+      return '';
+    } else {
+      renderRoms();
+    };
   };
   // Download art assets from IPFS
   async function downloadArt(dir) {

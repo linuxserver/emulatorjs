@@ -58,6 +58,14 @@ async function renderRomsLanding(counts) {
       card.append(button);
       $(cardContainer).append(card);
       var scanRendered = true;
+    } else if (emu == 'default') {
+      var card = $('<div>').addClass('card');
+      card.append($('<h2>').text('Default'));
+      card.append($('<p>').text('Available: ' + counts[emu].available));
+      card.append($('<p>').text('Downloaded: ' + counts[emu].downloaded));
+      var button = $('<button>').addClass('scanbutton hover').attr('onclick', 'dlDefaultFiles()').text('DL/Update');
+      card.append(button);
+      $(cardContainer).append(card);
     };
   };
   if (! scanRendered) {

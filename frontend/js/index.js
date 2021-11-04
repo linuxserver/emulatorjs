@@ -283,6 +283,7 @@ async function rendermenu(data, active_item) {
   highlight(active_item);
   // Move items up
   function moveUp() {
+    $('#bgvid').prop('muted', false);
     active_item--
     if (active_item < 0) {
       active_item = items_length;
@@ -298,6 +299,7 @@ async function rendermenu(data, active_item) {
   };
   // Move items down
   function moveDown() {
+    $('#bgvid').prop('muted', false);
     active_item++
     if (active_item > items_length) {
       active_item = 0;
@@ -313,7 +315,6 @@ async function rendermenu(data, active_item) {
   };
   // Capture key events for menu navigation
   $(document).keydown(function(event) {
-    $('#bgvid').prop('muted', false);
     if (event.key == 'ArrowDown') {
       moveDown();
     }
