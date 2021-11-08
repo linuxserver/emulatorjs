@@ -1,0 +1,1035 @@
+{
+  "45BEDC4CBDEAC66C7DF59E9E599195C778D86A92": {
+    "name": "[BIOS] ColecoVision (USA, Europe)"
+  },
+  "B1621D39A2A6D1CDA7ECEB882A612A4BAF3DA70C": {
+    "name": "2010 - The Graphic Action Game (USA)",
+    "vid": "QmXxcnTkzViCA8dS1ctovugQyMvabyUDmnXes1z8oq5SCE",
+    "logo": "QmPZkw6kc8aJuxYSMd7vHqPcBpfcwXjscV2VmCxzDG6omT"
+  },
+  "BEBEDAC4DF5348E91122972FCC4259A7D1F7FC0F": {
+    "name": "2010 - The Graphic Action Game (USA) (Beta)"
+  },
+  "9E331AC982A848988264F705B6DE4C0A8F5F1264": {
+    "name": "A.E. (USA) (Proto)"
+  },
+  "B011B213BD86317A4A06B565D3C193A562F67C84": {
+    "name": "Activision Decathlon, The (USA)"
+  },
+  "9EF2974A04F5982BD034F39D1741666B6D117D24": {
+    "name": "Adam's Musicbox Demo (USA) (Demo)"
+  },
+  "C3A820E6A73EF42DC88982D835C60C36B4B9505F": {
+    "name": "Alcazar - The Forgotten Fortress (USA)",
+    "vid": "QmNe18k7wLNzL9gtxFrjaoupjmjeTMS8ue41WZeE3QPrXE",
+    "logo": "QmekX9kepS8UEFEeA4ZQDmkYioKBafGkkQKQKyaryPRDBQ"
+  },
+  "D1AA4AFF55E9FEBAA3E7577FFCC381FEE0F8E241": {
+    "name": "Alphabet Zoo (USA)"
+  },
+  "733F8395D102F6849F58627D06655119062B97F8": {
+    "name": "Amazing Bumpman (USA)",
+    "vid": "Qmb1nteADjrAMdpdcXTeUjSzpbXWW3c5bZMMBHdUALUaV6",
+    "logo": "QmXmT4gMnq5sxw6tv7mhE24fDzXJ7FFC9rpuPm7gkMRoMS"
+  },
+  "00DB7CF9BD66AECAC3D9368DD205680781B2E542": {
+    "name": "Antarctic Adventure (USA, Europe)",
+    "vid": "Qmap7ot3CUthchFvXgqLQsCwxKQhc39KQSxrouWcEpjjHX",
+    "logo": "QmZNfCZAMvnytbEbpiAQs8wNmgooVgBBmXbchEP3HjtyeN"
+  },
+  "BE8A7DF4F3E1E1001785EB2326C26B4C301B4DBE": {
+    "name": "Antarctic Adventure (USA, Europe) (Beta)"
+  },
+  "4782F1D6225D9B6501A9AB1AB72F9E66F3FF66D8": {
+    "name": "Aquattack (USA)",
+    "vid": "QmRyfDN7yJFjnN4kQGKpts3EYPsxiXp7gcyZcmfvUf4M7Q",
+    "logo": "QmWYddyKt2mkbAjWxJPAYaHMVNGcY5TNHJBxaZeRz54Q9Z"
+  },
+  "A2494B1ADE772FE45779BD500139FF847DFE7AFA": {
+    "name": "Artillery Duel (USA)",
+    "vid": "Qmd799TZmgWAhrNtwGhu46H8556xh22EGbNSRGF9vpoQq9",
+    "logo": "Qmdknh91dqvo641R16astijpN65ZB3FPgAb3oHz39uji6K"
+  },
+  "683973D7E24CB0383132ACF2562D3EBEF739018F": {
+    "name": "BC's Quest for Tires (USA)",
+    "vid": "Qma3QUv5u7qziwDmdoMPmRF7Jy1KewuwCBjHZx5VUKFffr",
+    "logo": "QmPq2icPzTtWXTqwDkDmWyjwKnynNoNXPyVAVLTaNTKNuL"
+  },
+  "05FFCF0C84381FA26F504CB163B25A8670C6C4AC": {
+    "name": "BC's Quest for Tires (Canada)"
+  },
+  "6C7C8CD782EB5A27DC5224679D4563978CB3280C": {
+    "name": "BC's Quest for Tires II - Grog's Revenge (Canada)"
+  },
+  "57B145E2B88E29C6284754D3DA16E1CFFBAB38A5": {
+    "name": "BC's Quest for Tires II - Grog's Revenge (USA)",
+    "vid": "QmYmBUsWiVNpzVtQ9wRRmnWS4BZdbctCgcgMCmS6XeQ4kf",
+    "logo": "Qmd8B5LqAkJMVcMJGEbWxwxdYYCTPGSLErbmR9v9AKUDEB"
+  },
+  "F95E3E05818BE44F792D24A93FD27E0A9F542DE5": {
+    "ref": "57B145E2B88E29C6284754D3DA16E1CFFBAB38A5"
+  },
+  "9E18D51855B721298CC4EFAD0786DF65E8ED6FD7": {
+    "name": "Beamrider (USA)",
+    "vid": "QmQdRnWLh5QupDLXFLZgdEgpRzYtsXHJLYaLtLhTPJ4zCn",
+    "logo": "QmfBz3arMjcGLrKDZ2PfVBE2daKsuvhQk2eHr8gW7hG9RC"
+  },
+  "CB68D5A70CA0567060EDDFD0B7783CBEEFFB399E": {
+    "name": "Berenstain Bears, The (USA) (Demo)"
+  },
+  "28FC9BF517BCE3D901C61D6FD1E297D2AF421C70": {
+    "name": "Blockade Runner (USA)",
+    "vid": "QmaPhAf3kMdW3Gr3S33wVVkvKjFWJVMcwHCSr5qTv5GKHV",
+    "logo": "QmYBY8x3jWpXtuM3PwWRNxYCT9CSojotzeXxvDZGfuoBNn"
+  },
+  "BAD7A976F37DF875F4FA9646E5426C45344EC102": {
+    "name": "Boulder Dash (USA)"
+  },
+  "AD266CA4D270EA35DEF306381EAF05D36C811218": {
+    "name": "Boulder Dash (USA) (Beta)",
+    "vid": "QmT5DWsjkHGYeWteY3vKgMdg8i8EZdvjpbVfhhgnk8KPrP",
+    "logo": "QmUCPpyFtJ2RCf5HhMCrpje5eECiDhkjGPoPoDL8QACrV7"
+  },
+  "FE6235B99889388FF858C19EAE7337DD0B75944A": {
+    "name": "Brain Strainers (USA)",
+    "vid": "QmYRkuc7N4hstocFMpHQtgV4Y4fNBoGmy4bUiXoBGuHHmU",
+    "logo": "QmddCupqcazGGT4gBJzEzp9HkY6qnKf1Q8JA7q6Ut83WLs"
+  },
+  "2E1FA3BC105B0FD8D10A5195FED63B9CB2773444": {
+    "name": "Buck Rogers - Planet of Zoom (USA, Europe)",
+    "vid": "QmdjPMvsUc3Bz4F9e1KyAi8g1C43iyZTz3hCyuGb1p3R2t",
+    "logo": "QmaYEwaKKPyMZBkvCm7LRA1dGa5fWejUYAdriUjXNNahrr"
+  },
+  "6F922D5750077EFDB14CDCFB0FB6F6F53559E1B9": {
+    "ref": "2E1FA3BC105B0FD8D10A5195FED63B9CB2773444"
+  },
+  "158F666AAC5CF48C77B62BEB77310A45F6C7E2EA": {
+    "name": "Bump 'n' Jump (USA, Europe) (Beta)"
+  },
+  "8DF20C9C151B01B0D859C0AB4753D5CCE3956224": {
+    "name": "Bump 'n' Jump (USA, Europe)",
+    "vid": "QmTrZyWexktW3Jo8gnsLVJmCj1uAcx9YffiC9K9fxhfgi4",
+    "logo": "QmcaTrLhEwsyHxAeP9dYvcL6j6jRhxApdHzm7bapAiMx8p"
+  },
+  "EFEB5031064061E2F02EB442FF0857FA21EE042D": {
+    "ref": "8DF20C9C151B01B0D859C0AB4753D5CCE3956224"
+  },
+  "B455E48F5462C8B27DD693E25113A8A28C28014B": {
+    "name": "BurgerTime (USA, Europe) (Beta)"
+  },
+  "6EBF0D23F2D7CF60897BA6FE13B2293421C0A589": {
+    "name": "BurgerTime (USA, Europe)",
+    "vid": "QmT8943dbr7g9ctS6kXJxvUfjmVmFhEYXzRypTjBcaUki6",
+    "logo": "QmZ8WA8NeuRzhfLX6TMioaADAvXjAjACS9K4KxSLZZeD8L"
+  },
+  "CA240633EC6ECF732CBC28C9394459A722D6EDCB": {
+    "name": "Cabbage Patch Kids - Adventures in the Park (USA, Europe)"
+  },
+  "6DCF2F3ACC4B221666DEFC6EBBC09286238E7A1B": {
+    "name": "Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1)",
+    "vid": "QmcpeiPkjNrr9vbaKxVSCjUGQeS5ZFT3nn3NrtL9ekLBKE",
+    "logo": "QmYXcesopwQDb5QEKvrsgqJyFwnpFytjzvZnC7odPtjPTz"
+  },
+  "57B4B045797B1F18CE22759D2ED1ACC36A2E2207": {
+    "name": "Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 2)"
+  },
+  "E083B81F7A5D47571214EAC56B352E5A8A2B08B5": {
+    "name": "Cabbage Patch Kids - Picture Show (USA)",
+    "vid": "QmQLsyk3ZY1tdufDNcCJja7pRkk3nGjxhz6NzMZjtgtdco",
+    "logo": "QmQG1Dp9tM7Z578vVNh1yKURWp4fSryV6yv86qdWNrJcgB"
+  },
+  "27E5FBB1DBACE06C6A48DBAF1142D374E704506A": {
+    "ref": "E083B81F7A5D47571214EAC56B352E5A8A2B08B5"
+  },
+  "2E08245802C4C5AA87774AD3740FD56AC5B25BD1": {
+    "name": "Campaign '84 (USA)",
+    "vid": "QmXZdQo7f3JAnr1NCgeW8nSgEdi7oB2B3YyU2WmkiyBeaT",
+    "logo": "QmSwJi7kBUWiMhVgtvfWX8sFz52t6dawmEBkBrzXBRFWcK"
+  },
+  "D4F34382D43897774101E3620384A402DD3D2EC1": {
+    "name": "Carnival (USA, Europe)",
+    "vid": "QmdFQPwLPpbJ25yEiQVs6xju8bmfsoY77v4daCPXWYoAbE",
+    "logo": "Qma68gzHQ4Hj6Zc6FD3ZoQAHaqRg1YvRUgRczJhFnrTLB2"
+  },
+  "0406AD601BE68014820C77EDA4491BFB4EA5C402": {
+    "name": "Castelo (Brazil) (Unl)"
+  },
+  "B6CDD5E28856D04C15F2636C0C1AE355C53A3E76": {
+    "name": "CAT S.O.S. Game, The (USA) (Promo)"
+  },
+  "D89C49BBBF002E075C5964CA74D7C94A502740FF": {
+    "name": "Centipede (USA)",
+    "vid": "QmRtb5M2DsVSbgygqhXsLjf3NocHGiJVeh6XwtDeuiZLUB",
+    "logo": "Qmb25zC5ah6Mg8GXDEPBvvYqCm1r5cCmLRovRsu7ZDMXYa"
+  },
+  "3A7E5EA50495A666BAC8DF0B3B2C82B5BE65AD18": {
+    "name": "Choplifter! (USA)",
+    "vid": "QmPjYNJZdpGyep3K7Hg7yBRwdCQ8HnxWtZE9Tr2ox3dyVu",
+    "logo": "Qma11oen2tmESNAieqgAzy6gH9Mz1AquYpJrcPPnVSfSK7"
+  },
+  "E9CCABC76BE96279B322586F5A569D7FE3B0FA25": {
+    "name": "Chuck Norris - Superkicks (USA)",
+    "vid": "QmYgQF2umpKAQpWR6qWYygxJHnLqtBMekRTmpNQ19UUV1f",
+    "logo": "QmVoMXNX142Rd4m2UmHH7PkyziupVVwkBpxNMq88HbP7FF"
+  },
+  "5D0C451744B714514C3113A44320019C2457E52C": {
+    "name": "ColecoVision Monitor Test (USA, Europe)"
+  },
+  "4AD44DBF2651415F68C5E82289ECBC0122C51A19": {
+    "name": "Congo Bongo (USA)",
+    "vid": "QmaAiGwxbqXefYXWqDU2TpfbT6JrhuingcEyF3bZYnt7Jg",
+    "logo": "QmPCcwsg49FSnw2AwA9oKzEP31pQ4cHxFiEBSeanfeafZN"
+  },
+  "C8C2A70D3EAB8A68AB1DB04E766A6C70F02F02CA": {
+    "name": "Cosmic Avenger (USA, Europe)",
+    "vid": "QmWzSAoBVVRohgFEo6eFU7FUNj6E5CLWCosnfXo15XVXyV",
+    "logo": "QmTPEdz61wiYSTJ6WbzFzyuAVbXGH5F9AT3iCp1mABV1xo"
+  },
+  "081A40414021A51B3219E8957E948163680A9ADA": {
+    "name": "Cosmic Crisis (Europe)",
+    "vid": "QmfCmcVUZWVq9UDvntzjn4nDHog8D92qmPHpTCZHJX3YEi",
+    "logo": "QmP4D1uxeT6aELS44YSeCYphmtNKfbczawGTQcViXMCwTH"
+  },
+  "BCB8C003A5C8ACDF62105C15D25163DFF017D6C3": {
+    "name": "Dam Busters, The (Canada)",
+    "vid": "QmQR9otmj8hFJDab1yrJk5Z1QGpvjgiVgF2vhNMXgFv623",
+    "logo": "Qma3yGTaxhTFfxiWxUMhBbyV46JwHjAS158DjniUTbcyPg"
+  },
+  "84B3631078575C5FD490426271B7FC5941D38FC3": {
+    "name": "Dam Busters, The (USA)"
+  },
+  "6F65BBE13F13A70AEE79CE7970095AEF280ABEAA": {
+    "name": "Dance Fantasy (USA)",
+    "vid": "QmRkZ5sJsfsjrmLXswxEVcaabuDfpY3ocsyutdpTMJbBH3",
+    "logo": "QmedTdyKxuRpEqTwqce5vCWV6bvoWJz7tULG8skAtHkr6t"
+  },
+  "12B1FB517D8F7308D18F355E0C54796E4B5225A0": {
+    "name": "Defender (USA)",
+    "vid": "QmeFXT1Sa3UmuJWs29zbNtAEN6PmYVvoBuyEJxULninEKc",
+    "logo": "QmRtN7qYZihGAzySH9TS52ZhozGNnSpvMpZbV5oyEDQ6fd"
+  },
+  "35283C51F448D877625049266C0C4687BF57AB42": {
+    "name": "Destructor (USA, Europe)"
+  },
+  "04BCE7D5EBD54F094D5F9F9B1880AE6507A5450D": {
+    "name": "Dig Dug (USA) (Proto)"
+  },
+  "46B7AA1CEDAC273F2B96BAD4A0768554733972BF": {
+    "name": "Donkey Kong (USA, Europe) (v1.1)",
+    "vid": "QmPYZcnX3djUkgpP1M76biayJhYCMUnqQ5t9yt2XtaKUDA",
+    "logo": "QmUkXaf1BjZFqeKwLFPCLh88ohTqSG9FR7QfY4euMAHtd5"
+  },
+  "795A63360E71E3A51317F108F504B21F5B11C3C9": {
+    "name": "Donkey Kong (USA)"
+  },
+  "113C1EAD67B2679DDAD9B99506E801526245AF05": {
+    "name": "Donkey Kong Junior (USA, Europe)",
+    "vid": "QmcTGYAagMYdVtvJpUffyxRsqi3YFpMY6eHkWiNg2yCFjj",
+    "logo": "QmPZBsQCUo7JGbbYLCTZ5ezy8Uq1xkVnLaVxtp23xUt3tG"
+  },
+  "978EB1BF1A0393087CB639ADBD4E6575D1725581": {
+    "name": "Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA)",
+    "vid": "QmamYawhANTR138kXr1iabt7dVVHnEqgJ6WrTY8bJQKqUD",
+    "logo": "QmZYTKrsXh5B5xgfWfEFn4VaFTsEK1g2E98tx4DXpumF4o"
+  },
+  "E398EC4A225E470AFDE625945ABED8FB264453A1": {
+    "name": "Dragon's Lair (USA) (Proto)"
+  },
+  "B623A970164D9739C0135D0CF37F9F0B3C67B17C": {
+    "name": "Dragonfire (USA)",
+    "vid": "QmZYAjYmZP8MasNbp1wrDKhkkARw8WtoasaVxiB1h1598s",
+    "logo": "QmfEJuW5QYQdv3E7vF7gHW9rkzcBG44utWC4iShE7L6paY"
+  },
+  "162C7AD3266E02AA88983FA4ECE7A77BC1CB9C7A": {
+    "name": "Dukes of Hazzard, The (USA)"
+  },
+  "00C157E87A8F85EDE84B26BFAB018C50678F88E4": {
+    "name": "Escape from the Mindmaster (USA) (Proto)"
+  },
+  "5C775DD65722BE72436D0B6DD99BD0143C938B33": {
+    "name": "Evolution (Canada)"
+  },
+  "809BEFAAD2BB341241D58FCD4E0409D690E4B6CE": {
+    "name": "Evolution (USA) (Unl)",
+    "vid": "QmfN4CFrkPAZRq3oVsADJEfgrtnfrVaFtKwDy9TFxkdKdV",
+    "logo": "QmNSu1EJbSCtX1YpxmerT5yakA8ZXHk2dNK6K2s8RQ5q6v"
+  },
+  "490CE706697C0B370A6A2FE65CCAADA2BAC0A946": {
+    "name": "Facemaker (USA)",
+    "vid": "QmctD2U6oquqhiQf9ycmRH6CzAtJ11VKMzwmb3kCrVauow",
+    "logo": "QmSgYGoAbupWWjBYH6j5jWKZvZoYdFhjaj7KC4ibxTSxxn"
+  },
+  "0E5C84D8FB8A9428AED399F4A9F9309B26BCE990": {
+    "name": "Fall Guy (Europe) (Proto)"
+  },
+  "145D1758347306E36A8039671A1088841BCCAAD5": {
+    "name": "Fathom (USA)",
+    "vid": "QmUpHEJR7eL9mCx3iad8epFACkp6Hy5ra7jaY8XMi8HjE1",
+    "logo": "QmSiEwCe6VvkvC6s3P3pBjc5R1k4S7ZVTc361L1CQqeq2b"
+  },
+  "CEF53B9EAE8DFBD877E18277980975F862F95F9D": {
+    "name": "Final Test Cartridge (USA)"
+  },
+  "077182C21B67182B334D4A6B69AAB44EB3EECDA9": {
+    "name": "Fireman (Europe) (Proto)"
+  },
+  "65B532FE1F0D249E97117580638083731E1FF767": {
+    "name": "Flipper Slipper (USA) (Unl)",
+    "vid": "QmeBuq2BqNnRoyqxkSuTyMdXBMxGrSLveRLHsVoXfGJxMs",
+    "logo": "QmSHeYPKEmQV6okyUYBH77L5Wrn8M3MJrQyeQKKAjWwCHU"
+  },
+  "E78E370FC7B3138010606F2EB9DB1EA40FC37C5C": {
+    "name": "Flipper Slipper (USA, Europe)"
+  },
+  "DD3461F5B79FE581B8E14685A5B8810B18D84DFE": {
+    "name": "Fortune Builder (USA)",
+    "vid": "QmTtezngrLAzUxFDTGnD1LLE4jRzfencrore69xmroaUqN",
+    "logo": "QmNr6TzQxG4sQPEnKjhj4GCzxY5gjVbenEaS2mjBHf4tzc"
+  },
+  "7CAC4C6F685F35ADBA50E37356DF974977D6DDEC": {
+    "name": "Fraction Fever (USA)"
+  },
+  "4F4EF29DBB730583BDF6DA75AA7FE7B4F144216A": {
+    "name": "Frantic Freddy (USA)",
+    "vid": "QmYguEzXkMPQec3xcoaAXpRFANh7wxJRFnSzvKUUJ3iD6t",
+    "logo": "QmRTmEFnVN3RaY9pjeE5SBZfWTfnhQ7tTNWj5BGURB526z"
+  },
+  "9FAE20696149C1DBA5203E1600565917C8981D81": {
+    "name": "Frenzy (USA, Europe)",
+    "vid": "QmYRCGZCWW6PGpYSUzPNCjUejBFTMdar81536C1qZNgT8p",
+    "logo": "Qmb8JR8sAyxUk9aUr81aTkh4znJxqGmJSuqriKow4GRcUR"
+  },
+  "C808284B8A161E8405DA093884E861FCDE4220E9": {
+    "name": "Frogger (USA)",
+    "vid": "QmQMw14Mw8iZ5ihKnPgeCgtGsDK1rrd124MxDinA5RcxWT",
+    "logo": "QmeF6MBkTm8Q91XWRx4nkYuibGtSz5mVHvaA6pe7tRZXN2"
+  },
+  "C899DEBDDA6BFB7E2ED0D1C327AB574B9CBC70AE": {
+    "name": "Frogger II - ThreeeDeep! (USA)",
+    "vid": "QmcvNy9AhB6LozdgUyxJLMpJjLrLUYe8grqAQ6A2Qjrmui",
+    "logo": "QmYbtEY9H88zQaSvj7p6n9Z16e8CSbiocnK6QqVEjZQkZo"
+  },
+  "62CA275776E4184032224E61B6D01D0636D7E846": {
+    "name": "Front Line (USA, Europe)",
+    "vid": "QmWXC86zq5uHumou8mxVtRTcwHScGgrTRemeA2TRwDsocE",
+    "logo": "QmRK8dBkZU8E5cR6nDoJNHE9hYVyHrevTaqrRBFyCoFg8v"
+  },
+  "68889D9410BE82CE20F1EEDFB5861DCE4BD270D0": {
+    "name": "Front Line (USA, Europe) (Green Version)"
+  },
+  "287013140F2896516ACB095157389F681D9C5150": {
+    "name": "Galaxian (USA)",
+    "vid": "QmSDpGXwbhFDGtN3n46yGhttJfpqqghCp2g2w87s48bvxM",
+    "logo": "QmeaExL2yyF6HxD1RUUiXaRa51b7rDvrVHsnRjbYcnLsHC"
+  },
+  "837A192EE27AB78C4AB914B45B9BA55E5847CF37": {
+    "name": "Gateway to Apshai (USA, Europe)",
+    "vid": "QmYprHiSqnvpV17tEcG8DYyxg6ea779rBZ29W6YEGB3SGD",
+    "logo": "QmQJvEiBT4xTpwfHgp21F4126b7Y5qapyVzTU1cweXNpJN"
+  },
+  "F0406171923072E75D89AE43621EC18BBD9F154C": {
+    "name": "Gorf (USA, Europe)",
+    "vid": "QmT1Gv2uYNYSwWoqJxcmS4JjAxdtKBxgtQuxbv6fkvGqN4",
+    "logo": "QmVaHn6XqpKeS4xKBwWfYybgQS1wm7CTdgYm5tseSbkcjB"
+  },
+  "C6506F48A4F33761D0A39C65F0FD092429756F2B": {
+    "name": "Gust Buster (USA)",
+    "vid": "QmRefSkb2LhvGYwFdGUiEaKzuSnQJtbY6ZEVxsyXHBonXC",
+    "logo": "QmVRkS7Zoq4eLCsXr1WLLee8GEiWtnuw4BPMd23iLRTvvP"
+  },
+  "9D34B9A55F9B6C8443696114A8E69724E5106B5A": {
+    "name": "Gyruss (USA)",
+    "vid": "QmcP1tQHq8LyXndaS3pszz4y8EL16f7nWYuYkSB426NASM",
+    "logo": "QmSsqbpxDiEHzaG5SiNw5ytD4cY7yThir6bkjvgCB2yHyP"
+  },
+  "54279C45A95294626B7586F5110015B5D1FB94E6": {
+    "name": "Gyruss (USA) (Beta)"
+  },
+  "1FEBD0DE031402C2D2DC88F0C60D18C35FEEE6F3": {
+    "name": "H.E.R.O. - Helicopter Emergency Rescue Operation (USA)",
+    "vid": "QmNSzATNezUFHJhL9m5BFn3b1fvrs6AfrkuhQ57hRhM5xJ",
+    "logo": "QmTmwsu3w4jvWA463MZJDoAKHQxv3TEdnxLqN5n94nCLm5"
+  },
+  "55CCE8D6A61C1B028555AE0DA8CDF629A3B19982": {
+    "name": "Heist, The (USA)",
+    "vid": "QmfL1Q7xpcXuFgZdnFAKvU5iCnNNYgxupU6pcvCs7uX6L3",
+    "logo": "QmVY6tCgUbmDqK5U1Z28T6PX67C5tLoGevYZ1bQHgAjvvd"
+  },
+  "314BE140B495DE538FFDF01C9FAEE4AEEF1ECB83": {
+    "name": "Illusions (USA)",
+    "vid": "QmQehdPVkfovAwt8i8DGArPjRJxeyRnjHBAMk4NwUWUbjw",
+    "logo": "QmUWTtJdLaFP4eRLdzzamqWfkNk1bNVCEXwpKvKQ1X5HT1"
+  },
+  "96BE6F4A0818A94DFA5EA9CB01928A66F755C278": {
+    "name": "It's Only Rock 'N' Roll (USA)",
+    "vid": "QmUYyZQDDYPPropCwgaNZhZueBwhT4SZugqSVsBFeNpsHs",
+    "logo": "QmXwLbSWmeAgBrVPEjBaStKLZcrFguAgiNcYTRks4iwYnJ"
+  },
+  "23823B4F564CB916AB411D8822531EB3A1A57346": {
+    "name": "James Bond 007 (USA)",
+    "vid": "QmSM8usFMJWh5vzXnZQ9Xx9ES8iR889mdzUUZyR1cExzgy",
+    "logo": "QmYH1xqnshTZiyHNze8R8jjgzZfGD2bGSbjAu3fK66XVWd"
+  },
+  "551A87B925595E7A465D669E96E11CBA0266663A": {
+    "name": "Joust (USA) (Proto)"
+  },
+  "16F08D667334332A69CC09762DEA5BB2A06AC82B": {
+    "name": "Jukebox (USA)"
+  },
+  "2C59BCD829C97948B88B45F447C4C57870D6BD77": {
+    "name": "Julius Erving and Larry Bird Go - One-on-One (USA)"
+  },
+  "B79D4312E2D5FC30E37EE46916DC31908C84590E": {
+    "name": "Jumpman Junior (USA, Europe)",
+    "vid": "QmZb2nnc8FCqAzKNshUewNgBvUchw1fsmexJzujT6VHR5f",
+    "logo": "QmaXMsiFJEq2PfN4bppZq9Gor6c3wiFrWVAUTvaqxHccu5"
+  },
+  "8271203FA88E36DBEE9423981F580C11B110001A": {
+    "name": "Jungle Hunt (USA)",
+    "vid": "Qmerh2moYhpV4vWfyWsZ1Rn7CsxjUW143TACiXTpnWKsx9",
+    "logo": "QmW2RUh7nDaNmGwiFAP8R8Ps2uvyF2PCtHCjKxfUX9Eztx"
+  },
+  "282C8B5186A7DBBB69B4B7DACD2095E1EAA5B4CD": {
+    "name": "Ken Uston Blackjack-Poker (USA, Europe)"
+  },
+  "4591C2927131338FF2F602FC8AEBB2DDA0407A8C": {
+    "name": "Keystone Kapers (USA)",
+    "vid": "QmSmyi4yoj8KpCVBJx6CMo2eswoUubmVJkPZBfy2ZDBY81",
+    "logo": "QmTT78vtoWrKi23eKNDw2Ecitn2euU3MP4YxEWAcY96NVP"
+  },
+  "AFA8E2F119D63463DBDD0C88BE6873B0C6A27594": {
+    "name": "Lady Bug (USA, Europe)",
+    "vid": "QmdmhpHK7DhLbd95FvtTEkdCST1bw8A15112CZxJQ1fajr",
+    "logo": "QmQribEVSHnd8yJTU2msXMaBxBTjoumBLwBXsideAEc9ks"
+  },
+  "0CE165B3C2A9E60964D33F37E8AEC7CBF9E9D00F": {
+    "name": "Learning with Leeper (USA)"
+  },
+  "198767E1C8794F974F3434674CB0E542108D0011": {
+    "name": "Linking Logic (USA)"
+  },
+  "77C46391DE8073F6AF9754F2B4EBA150F258B182": {
+    "name": "Logic Levels (USA)"
+  },
+  "83EE624C22DD42650BCD585B9CC8CC87DA6811D5": {
+    "name": "Looping (USA, Europe)",
+    "vid": "Qmce3kFoMwMf9yK6c8at2mggTP5DJ6D5Kd6h1K1x8sdvVG",
+    "logo": "QmemZwx3wLYAaDdhSACgkXEJc39AkeexabCMiZYVjK4yCL"
+  },
+  "681FA9F5C4130F65616C11AD7C598B667A3177F4": {
+    "name": "Lord of the Dungeon (USA) (Beta)"
+  },
+  "06513B0F49A86784B54DBD8ABF8EF8EAE934E3C4": {
+    "name": "M.A.S.H (Europe) (Proto)"
+  },
+  "8A1E2DB621B84E630960B2341AC459AF2723A3F6": {
+    "name": "Matt Patrol (USA) (Proto)"
+  },
+  "A801F587360782AFE7AC1BB7A9B08525A8363531": {
+    "name": "Matt Patrol (USA) (Proto) (Alt 1)"
+  },
+  "06F3FD038FA903597BEC67CDC5C9AB9572C9C799": {
+    "name": "Memory Manor (USA)"
+  },
+  "4429F4BCFAC5612DE5E8F601706CB3AF1B82E58E": {
+    "name": "Meteoric Shower (Europe)",
+    "vid": "QmV3JFRZ4QEtTfqR3rjZd1JbGEN1e5FaNA2furhVVFK4t7",
+    "logo": "Qmah9znCVnKJmmniPzChpgmMy2ELvbGETWeHx28DTQdfNH"
+  },
+  "591A08C17BBD716E13770E3B14E57A0C21229FC4": {
+    "name": "Miner 2049er Starring Bounty Bob (USA, Europe)"
+  },
+  "B29CD441E9EDEBC37ABC08C3FD932F1D4185BACD": {
+    "name": "Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)",
+    "vid": "QmSmvuuSrZn8MhCZkteNZfFosMfdKxJxNMuNcMjuW8pDCs",
+    "logo": "QmWdybABfoU4oApd47EdvDaFTLZYacX23FQ8kSrqhEek2W"
+  },
+  "AC51F1A107B962E9322411D6233B3CE922E0FC15": {
+    "name": "Monkey Academy (USA)",
+    "vid": "QmfCPygn6t3eM9T2Yx3Eia7DivTYEFyDohMkJqa4VyDZND",
+    "logo": "QmbFHrHyZuWrSdQ1py4ufuAsoC4pbU5ZW9kuAYbBPLBkXm"
+  },
+  "5DE6442754C639C77045CE9F18D1B59F38AB07B3": {
+    "name": "Monkey Academy (USA) (Beta)"
+  },
+  "44862334E171BCCD80D41A2AFBC5D7AF46D68D07": {
+    "name": "Montezuma's Revenge (USA)",
+    "vid": "QmPSDmT9MW4CD3bL4LndUSyznGzBARwr4qJgfHr9zRDvbt",
+    "logo": "QmPisHgNJA1FckooS8Y3cU9nKUJSj1VLhm4QxsisJQdhV2"
+  },
+  "EECCF73225E03CE10F6F6A02A808DC04F5BB0242": {
+    "name": "Moonsweeper (USA, Europe)",
+    "vid": "QmYQGoLF6GPT6xdoaUjE4dGCMzJZP65wvBVKNn5Pcf54RP",
+    "logo": "QmXhjZHvNYmuyxMMxUM4UPvMQnAqP4HU1cziKmMkUsaY7J"
+  },
+  "89B6F5F482F8F79C10EF9D3FFDEAC1DED47A2362": {
+    "name": "Motocross Racer (USA)"
+  },
+  "46602DF46117513D7166EBA81E2E3546246ADF94": {
+    "name": "Mountain King (USA)"
+  },
+  "36686B5F84C8ECFE9E6468CA0F2402CE0C03150C": {
+    "name": "Mouse Trap (USA, Europe)",
+    "vid": "QmcaWuVDi1Y9PnuFZSzzxf6b6d6ppe3xsT7MotzfeNsf6P",
+    "logo": "QmbRukkih4NiskZs8KMcdV4BsexKjJJNf6en22SF6V99k5"
+  },
+  "D40A69F4D010636DE50FDC1D43A0682141286CBD": {
+    "name": "Mr. Do! (USA, Europe)",
+    "vid": "QmaJQ4iA9Zc1wvzFp9oycC7roHsBhzZvdt8XED1AimGLjQ",
+    "logo": "QmShQaE5BxsaWgiG6UjcnKZ2hn4RfMo1rb94BHNKD7dZXW"
+  },
+  "E94E5D8DD549CAE8B70D02170502ECA4E90A3C30": {
+    "name": "Mr. Do!'s Castle (USA)",
+    "vid": "QmYpVjE6yQ2hyS4N1V5f9bP5Pewx1aRz5EcDPThSvSobhA",
+    "logo": "QmUgbKLvLaNiErHTxtBiXbHuCTQM8mAhxg84AFh3CXRTJm"
+  },
+  "2C35F5B2EB5914A14E544E00C67D4CB5582832D8": {
+    "name": "Nova Blast (USA, Europe)",
+    "vid": "QmfPJbYBK6NhghQbqosaFLnLtypb1AnjPJpQg9KYdmrTAQ",
+    "logo": "QmeJW2Av2ukhtPw19VieWXRN8ULsiqA9Qdcd6xEVN9AUTb"
+  },
+  "50D40FA769C3B92FE7D4EAE23C15C429E020E023": {
+    "name": "Number Bumper (USA) (Beta)"
+  },
+  "779E43F183DBDB692DC26AE41DDE6B35891F8F8B": {
+    "name": "Oil's Well (USA)",
+    "vid": "QmW5bdbFmKkY6uBKb8GdDcYoDBTcvCpnqu6ht1nmnPpQ8D",
+    "logo": "QmTF7EueDzkqLnbE2e66ZegNN3mCbEgy9qaVxK1qXppZD2"
+  },
+  "D0B00EE7B4368EF3DBD74FBACE4F8E061ED632F4": {
+    "name": "Omega Race (USA, Europe)",
+    "vid": "QmWjnzWZqXuiVcRTFdzJqp72BHt81exetuMVmkZa4igyjT",
+    "logo": "QmV8J7VfZ6SAiyEkPEU5sPxcHijCAGVhghPHUEPAGLiShG"
+  },
+  "BCB3D6845B09ADC1ADF842CBA1CA12F57AA47D79": {
+    "name": "Orbit (USA) (Proto)"
+  },
+  "4D724D40C389CDB62929AA69BC76466C3BCB5BCD": {
+    "name": "Pac-Man (USA) (Proto)"
+  },
+  "0983D0A562CCB3D4AC88D8AE26CF29A465075067": {
+    "name": "Pepper II (USA, Europe)",
+    "vid": "QmUsu3BMUd1cmWSstm31S3v4pfJZAKiR2TLo3XH5DGGcig",
+    "logo": "QmS9SX5mXFLdB4cHSnNLMKGewrrmuqrdR9FYFzeXyVkAKn"
+  },
+  "2642C458899C1CAFA2F3B9E0959B9EAD5829AA68": {
+    "name": "Pitfall II - Lost Caverns (USA)",
+    "vid": "QmYpcDi6QRC3kT9ruJaxoKWD25AZot1f2wqaYTW7XjpQ3c",
+    "logo": "QmUbwgHhAKvnjGnLRbxbtHxsnHsy3axCKo3E17XrEjsJno"
+  },
+  "964A3551121CD33CE72624C5414D1406EE75CA35": {
+    "name": "Pitfall! (USA)",
+    "vid": "QmbdTf5wD5wscUpuDE7F5iBDvuiAXQmdfSsC5zDwPmCDbo",
+    "logo": "QmeWi357yttaZ53k6odXCbXCdUzcrtN8jyAvDoMQAvSQ4F"
+  },
+  "F5A649238057FB354512DA2F5336BCB4B09216E5": {
+    "name": "Pitstop (USA)",
+    "vid": "QmShQ1ZJj27ckD5qwGHJhoY6TYMpoAHo7kCKydoZjiM98A",
+    "logo": "QmQqHuZ3BLtydqCJu1wG71fQV6gm3nVUnMbnrixhvqyt4W"
+  },
+  "BC449BF923CC6B1695598B1FFA7A328618A4AD85": {
+    "name": "Pitstop (USA, Europe) (v1.1)"
+  },
+  "F54F110BA5864BB3418F84E1C2CDC5C856DDA771": {
+    "name": "Popeye (USA)",
+    "vid": "QmTqCbcRbw29qxfN1Qyp8sTBwMRrGTAMeEwEb8zKxjAGRw",
+    "logo": "QmNU3eDHrmcuosv3Y3bf6G8Pkr6KTeipBNymeSTAeKhuii"
+  },
+  "4471F402C0CB8BE232ECE0EA84DCAEF9EE002398": {
+    "name": "Porky's (USA) (Proto)"
+  },
+  "BF81F1254F0C5EB11D46EF5E8B8C03E8B02801B4": {
+    "name": "Power Lords - Quest for Volcan (USA) (Proto)"
+  },
+  "6243FC5593F40D7285EA6B69C541307D3FC583AC": {
+    "name": "Q-bert (USA)",
+    "vid": "QmStUqwPqJcerjqgEtznXkmfDcPqNzKFbuti1gjCAd2VD2",
+    "logo": "QmVwmYebTvaPdvWfCZgvTsS2YztyX7Dv7CLh9Y9eQtPGkS"
+  },
+  "523FD9FCE7047AE76DD4219CDB89A4F298FE14AB": {
+    "name": "Q-bert's Qubes (USA)"
+  },
+  "1AEF03F7D0BDAA701517A1AD6A75AB8820674F15": {
+    "name": "Quest for Quintana Roo (USA)"
+  },
+  "00A5B9DC41E3A684A874B65CF29121984F10F327": {
+    "name": "River Raid (USA)",
+    "vid": "QmQx99CvZwhoYRXRjTbP9cTTHyBzq39Srn9DcprQHsT1m9",
+    "logo": "QmbRUnxrVvVqBu9BzcDVb2UxpN6mL4J3kagR25QG3Emsrb"
+  },
+  "F987591F915EB0D3547B85F3767FFF2D4FD0540F": {
+    "name": "Robin Hood (USA)",
+    "vid": "QmdWZourEE7LTPFrv6DtGksCF9o6kER7nwGKyfVSiPxsRu",
+    "logo": "QmYmx4CdHmvyZ66cdv57mEWXBdAstnwg84JuP7ToAvBfqS"
+  },
+  "6598592F1F4DEBCCCE5BCCFFF406BF10970FFDAC": {
+    "name": "Roc 'N Rope (USA, Europe)",
+    "vid": "QmPBATqh3CSaJx9T1cCdj3k2wQgYmXkzdqDsi2ocrLsTkL",
+    "logo": "QmUEpri32bo2ZjwLYpQMsQwrVrg6TjxZaQk1PmL317j8oC"
+  },
+  "2B2F337BA597AF5EEE2B10E70A129638B4679C9E": {
+    "name": "Rock n' Bolt (USA)",
+    "vid": "QmUEhKzzYPpXY49BXD7hfM67TCWvPsrYdMtYhLL2Wfhf8s",
+    "logo": "QmWjQvkqXaaSJj83jbwey32HEnHAyxkw3FTGAFusU6waPJ"
+  },
+  "FDA438A9D57BDB5AA178C6748DB695627805CE15": {
+    "ref": "2B2F337BA597AF5EEE2B10E70A129638B4679C9E"
+  },
+  "11DEF2ADB622BBF62BFD2AC14D8151C8F2F772EB": {
+    "name": "Rocky - Super Action Boxing (USA, Europe)",
+    "vid": "QmTtJ6dUEBxM7BhpUjr8UgcyhgAtpDS53Kbmixqf4R5wTa",
+    "logo": "QmWcY7zszS7tn8GvXEKpmDETv7nfdN5USsJmRpCUrPBArJ"
+  },
+  "5BD7C21D64EEE044C88AE438479D22802A510677": {
+    "name": "Rolloverture (USA)",
+    "vid": "QmaWHbR5M24wGgiMraqvhXsSv9U9vRtMHfs6PmozQoh3Wc",
+    "logo": "QmeEAbgwtWHdMWGeeJe1JRb83L8yNAukw8XaSaZw3KfCen"
+  },
+  "BBB25E64AEFA3ADAFF9F864713ECABE3B6F0316B": {
+    "name": "Root Beer Tapper (USA)",
+    "vid": "QmUqQj1yCa76iLQC2ch4y8tLsTkxqHpy9BvAXQPD8r2xwm",
+    "logo": "QmNLibDVqr63WBwFh78mmSi3TT5p7Uv241ZFRnvfquec41"
+  },
+  "B011DC446BB20BCDF5EE8404919D039B690D976B": {
+    "name": "Sammy Lightfoot (USA)",
+    "vid": "QmRZ47jGDqjmAmnSiTMXqnXstC1H1wGdfsNb7gV5E7v7Zm",
+    "logo": "Qma9W9gVWr8emJCpWA3wzT5n9BhchL2XS3okzJyLaf9SHz"
+  },
+  "990967A4EF5795733A29EFBACDDB23E4D4DD3C15": {
+    "name": "Sector Alpha (USA)",
+    "vid": "QmU6cXBdgfyZbuCgDUgbfR2MSL5DgRR1PpPfDffB71hvd3",
+    "logo": "QmTHHwhbQ643LNu5eiPJkqjbvBT4i4kEH5LFacZxojxJL2"
+  },
+  "407C2A1BEF81522DFD88ACE7ABD7D80C0F7DE357": {
+    "name": "Sewer Sam (USA)",
+    "vid": "QmUucnnmNTobinAkcNaRmQ2oekqBpzk1ycG1YQvTSFFDfN",
+    "logo": "QmZNDpYJGkyqHVY2EHqrAkd3rS98tDAjY6NgfPsE2L22Un"
+  },
+  "15E6F8197CAEE5A500C6CE33952D51BECA6A43CC": {
+    "name": "Sir Lancelot (USA)",
+    "vid": "QmTwiwunCzHgL4WiYyZW5FxiPCc1Tgs4Ze8JZmrFrUAwHG",
+    "logo": "QmYFMEQu5hFHJgreHtFGNbRHg4BDcSudBGYSwzWjzP7A5W"
+  },
+  "2CFD62A4B403FC2F5344D0E095D1028CC11E4ECC": {
+    "name": "Skiing (USA)",
+    "vid": "QmNxXKLe1NjWF81yWGEw5cRQ6PQ65uo7SXJaKQPK5wqd4G",
+    "logo": "QmckG27VMLUSpxGZnECQauqEqieTYb1sJxRsXQaKdaR1LA"
+  },
+  "B11DE2476F867C7C4EFB2977777E12FCB454F10B": {
+    "name": "Slither (USA, Europe)"
+  },
+  "B56CCDD5A6DF3AD753B3F552DAAD70E1D7BD7E4D": {
+    "name": "Slurpy (USA)"
+  },
+  "D46D6E0EDEAF6F76430D4800CAA7A6AF291CB199": {
+    "name": "Smurf - Paint 'n' Play WORKSHOP (USA, Europe)",
+    "vid": "QmQSgq6KPNb3LXR6ZZ3KeFVLoECc3J8r9v2zqYRGETTHBG",
+    "logo": "QmYkzgahxMhUksCUqAJTGCzghfwQAJNFUX9oMjbHB71jTw"
+  },
+  "F0740E1916D2351537C6725B37BA3C1B321F15EB": {
+    "name": "Smurf - Rescue in Gargamel's Castle (USA, Europe)",
+    "vid": "QmS7xkNwim2TR2P8hHD16NnT9atBoiitQuPZMF33A9uebo",
+    "logo": "QmWDtKJ9imNZLw3QfEp3SiqZTr6tXzsnrXYyAESKoUNxHJ"
+  },
+  "68F07F5387425F0C656E9C0DDDD88BE903CEE7A9": {
+    "name": "Smurfs Save the Day (USA) (Demo)"
+  },
+  "F400E1E368AE420A97015674A28DB91B4BEA15A6": {
+    "name": "Space Fury (USA, Europe)",
+    "vid": "QmPYzWX6ZccUmovFG3Ee8234c8EvdYNQ9hHfSBzGrLG2uD",
+    "logo": "QmX2pEBH9upQowYg34nuXpEWGrfgdavaPAbKVgxy28eiCi"
+  },
+  "530870501F322F1D72E820A722790D300F43A6DE": {
+    "name": "Space Panic (USA, Europe)",
+    "vid": "QmerWkkXVZFK1yUYRKdoD4s2txrHkevkdXpCpGkFQBfmvs",
+    "logo": "QmTMj5sxdgj1uGdw4hyWU7DfJAkoNmcDvrjWjYDXHt4DWb"
+  },
+  "FB092284A0A6CDABD1B10E6C4127125FE74C7B96": {
+    "name": "Spectron (USA)",
+    "vid": "QmRKkNiSzYt3Po9bpZ5cRsJB9CU8GWWoLNJ2T9ufLvmVDP",
+    "logo": "QmZbodQ9GkVx8xL2jWKFYu9cN7PEeLckxGEwn3jFVqKdYD"
+  },
+  "97865D067BD531209857C3C8502C1260E0A30366": {
+    "name": "Spy Hunter (USA)",
+    "vid": "QmWgnQfdSt3toXHRvqyobMk4uxDPJv3sgfFgCKB67gSdqb",
+    "logo": "QmYPfzgsWFznFaJ2Y5kBJ1tyUXQzC8pXCgwR3RKobJspcu"
+  },
+  "F95FB554B211BDE690A85D1F14FF5501CBCAF8BD": {
+    "name": "Spy Hunter (USA) (Beta)"
+  },
+  "AE25507B840B15CA3A832BA0BD8E1CBFDF4634A6": {
+    "name": "Squish'em Featuring Sam (USA)",
+    "vid": "QmbzKzk8Quob89TyjnCnnMZutPmACb3PDFzutSzcpS2q85",
+    "logo": "QmRGbKHZG6V2SLM1KoTWnc6zrEq8YB71bfm6iLGvKd5oae"
+  },
+  "D37140E1ABD1A0402AF5C9E02AB3E4D0C6AFE598": {
+    "name": "Star Trek - Strategic Operations Simulator (USA)",
+    "vid": "QmQ2wd8zRFvJoAt4cMweo5uuuj1C65FFm7xR5ftRvTfW2f",
+    "logo": "QmbxDzZoe5N7V1PwSKavitWbpNzJMZU5rW1LvdXHAmTmB1"
+  },
+  "DA0567BEE88BD1991481A755AC8292A115ED15AC": {
+    "name": "Star Wars - The Arcade Game (USA)",
+    "vid": "Qma9TCnGt5vqchhakmw9qCSBuTgPd7q6X9pEkVpAWYzx9d",
+    "logo": "QmYQ4fxuEbKhob6i6uxC2wMZvBJLaUYzW3gQmzAwk22Ka9"
+  },
+  "9B0DA21D8E6E9A762C578F989D90DD057FEA2B5A": {
+    "name": "Steamroller (USA) (Proto)"
+  },
+  "A455E93E5CE6E562092D2C0B06070A746296395B": {
+    "name": "Strike It! (Europe)",
+    "vid": "QmUA4heiVUGaVXJZCphLCoXv9RAtKAdJVkSc5wUF5txyh5",
+    "logo": "QmawcmzUcB1QNudVbMt9QNqUdQfBnRJGdBNMXcXNEm3FrU"
+  },
+  "D3DCA3DAB60A386156D823BF1905E5542AC1AA21": {
+    "name": "Subroc (USA, Europe)",
+    "vid": "QmQa1ngRjZKzNQWyRfTGecoFeCDwg48shqfqGopCF8VPx1",
+    "logo": "QmQEfmSr2N3uUCCzJ9N1dG9mZ4eaqWVoBU3XNS31RioPfr"
+  },
+  "4829D304CBB752031BF5B4B1D48EED2AD06F222E": {
+    "name": "Super Action Baseball (USA)",
+    "vid": "QmTBqzfAB59JeZnXXeeoNZdcQHEEfiGuae1rFP9JNduANd",
+    "logo": "QmSArbesANmQ2MA4FVheTetYJokuXRwysdTdvLALhoWjCJ"
+  },
+  "4C16F4E233DB50E3D9B3A191F4F408338640AC19": {
+    "name": "Super Action Football (USA)",
+    "vid": "QmYGgK8bcbzW9KPHSsfigeUdLNqmMuRaKNR9Ss7axe8pKB",
+    "logo": "QmUuH9CZXoSvcyQz5KYtf9qDCUv5HVaB5DvwjGwP7ajhQL"
+  },
+  "5F43180C243039EECEF024AB1F4E70A2E2502FC1": {
+    "name": "Super Action Football (Europe)"
+  },
+  "3BF730ACBFB0404D2E2411169C8FC6A81B907053": {
+    "name": "Super Cobra (USA)",
+    "vid": "QmYBTnAYgmoyTidcNvapgEPyLJysvCdt1v6jP6x5oJNo5u",
+    "logo": "QmRWYj84TV28S8MjZBndZEkNtAvxsepYaHE1mCVhLWTH2w"
+  },
+  "0C6840B7BC24A36529F0A80CCEF85EE9F409A972": {
+    "name": "Super Controller Tester (USA)"
+  },
+  "42A22D2314081450E8CB2A5E8BA4AA0987971063": {
+    "name": "Super Cross Force (USA, Europe)",
+    "vid": "QmNsUZas579g8zzya3ScBgHN4C48GXzqbxvELT6BSnh4VR",
+    "logo": "Qma8dSUCXdsXAt9j8kzjGbNWqgKtEAtx5REhgtC2CDitaS"
+  },
+  "B1AC18780E36821A8D41FC4410E14AB0CE80AC91": {
+    "name": "Super DK! (USA) (Proto)"
+  },
+  "44A22E508002A069F7953668F2E8A3C901C677D6": {
+    "name": "Super DK! Junior (USA) (Proto)"
+  },
+  "3ACBAE2580C38BFEA9CE7EC06274EDD39607016D": {
+    "name": "Super Sketch - Sketch Master (USA) (Program)"
+  },
+  "461A3715416A1B9F71B1AF1DFC531A8F77862645": {
+    "name": "Sword and the Sorcerer, The (USA) (Demo)"
+  },
+  "0A32A17A3E5E6C220DE91E4DCF036D7D02AD8E30": {
+    "name": "Tank Wars (Europe)",
+    "vid": "QmdnPJ5NyG3L5EmLweAbANPm2PMVFsdLm2UM3s7jk5v642",
+    "logo": "QmeR6iqWyMxCe7PkqhdjCUq2tfYRDARUyEg4ppA5otQBCt"
+  },
+  "59CB8DEC033C3B1DF476C7C93109ABA9562BA3D4": {
+    "name": "Tarzan (USA, Europe)",
+    "vid": "QmYDyXvEFbXUYu4vSdrhn4736qoqF1VZKFCTNM2ENXhFU8",
+    "logo": "QmcndpJMRazk28wqkxDBn3s7JGSxCjysYESoVbeCGgShKX"
+  },
+  "C0157C0622A751F8EB7FF19B83F521C107F7A7CE": {
+    "name": "Telly Turtle (USA)"
+  },
+  "7F71C024D7D85627B893D28131D284DDE25577B8": {
+    "name": "Threshold (USA)",
+    "vid": "QmQUeRHegi34mGAaXEPs66XepFZC8G8UcykY1qGa93aEyA",
+    "logo": "QmYjnkmoogjGLmpzH1w4LGMPsi8sZtiufDCWH3G13uwk3d"
+  },
+  "3B7CBC5C0D47027ECD5E6F5D1485AF436AB02AD1": {
+    "name": "Time Pilot (USA, Europe)",
+    "vid": "QmZPbpERUEfFcsDJBL28oHcN8QVdsRodujaUfDCz3yPu2D",
+    "logo": "QmXNZkuKALdDrjcpPEjjP7eRr9VRTw8fzKfxVijNrDmtp3"
+  },
+  "44B285D438854DFA0186C7FE6E21872E2DDE13F1": {
+    "name": "TOMARC the Barbarian (USA)"
+  },
+  "0F113CDA3B12253D1D42E994896DB3F88A5B884D": {
+    "name": "Tournament Tennis (USA)",
+    "vid": "Qmdxq3bTVV82k3hMPKb4okYKQ5VQKwKF8U1i2uTHJvQU2d",
+    "logo": "QmQEeokkziXMb7DNFLAncKos3GNgstn3ERsrgLatANTX2q"
+  },
+  "0F5B61F650E26E681D7B8A28FCB9D2DB7C3BCDDB": {
+    "name": "Tunnels & Trolls (USA) (Demo)"
+  },
+  "27F39B9E42CCE0CEAD88C0D0691D56CE46B97111": {
+    "name": "Turbo (USA, Europe)"
+  },
+  "A668FF92E6F83E37F44178260618BBC650CA61C9": {
+    "name": "Tutankham (USA)",
+    "vid": "QmPJV9phxyAu7ahH26fwXa72bag5iFcgxARZUTo4jq8ZMZ",
+    "logo": "QmQGDpyZCsTYMbwAr4bQc7DWZa3aqKo7oAVACHReLbVKiZ"
+  },
+  "96D83945D041F6F795A3107904A9986DE86DF8A6": {
+    "name": "Up 'n Down (USA)",
+    "vid": "Qmf595npG2fSRZhtGeVhWhGEK8TXWWV5CMnPHijBGzwbea",
+    "logo": "QmZXmJnCTQaz9LoTPLvMtJPr4XTSLxSUy77gQhbXGHQXVX"
+  },
+  "9CF7E7439D1719152ED28C1123AE8AD68175412F": {
+    "name": "Venture (USA, Europe)",
+    "vid": "QmTynXbSWbq9ApkR7YygciQ9HrFBSFw4ZkVg5K2MGU9bb1",
+    "logo": "QmR73vUkTDYKzDMGNx2z1VSStWXcPsDjBudEobKK7B7ZXv"
+  },
+  "7144C65CB57EEB846F4771AEB402469494F8F56F": {
+    "name": "Victory (USA)"
+  },
+  "589B130410FAADCB3F6CDB68A58353F4FB3A7E5F": {
+    "name": "Victory (Europe)"
+  },
+  "08172D85140C004241AB585FC41CDC7841F8290B": {
+    "name": "Video Hustler (Europe) (Proto 2)"
+  },
+  "5F481FF47762A812C73BB120E60F31EE99FD6B5F": {
+    "name": "Video Hustler (Europe) (Proto 1)"
+  },
+  "031EAEC9188105150460FF354FE50E22CE738C53": {
+    "name": "War Room (USA)"
+  },
+  "1E3B525F2D895105727FEE76076DD5ECCCBF1778": {
+    "name": "WarGames (USA, Europe)",
+    "vid": "QmT2hWUzyFrVr9ycQbx1Xyjq8gADy2RpUm98JAEppvMBJm",
+    "logo": "Qme3j2i1454SLXsiVQZH4pyDAXSrH5DNjQ313zaN7juo5a"
+  },
+  "EB7764EF6F50885E2EAFFAFF42AB9FCF760A77E1": {
+    "name": "Wing War (USA)",
+    "vid": "QmNfc2zgwyeS7cUVvEaC2K2EydKyTWTmFFt7XBRyRvHGnL",
+    "logo": "Qmf9bajWbEnsXonLR4rhsFixxziv4Rm7wppY6PVp4Wh3HY"
+  },
+  "DC89BA95D30E9E46AB77506E700B9D5E264B90A7": {
+    "name": "Wizard of Id's - WizMath (USA)"
+  },
+  "9A6188511AE54E6886222B84185714D2EAD8CFBC": {
+    "name": "Word Feud (USA)"
+  },
+  "9B5BFB69D37042D131A5C9576F927E09F44F9666": {
+    "name": "Yolk's on You, The (Europe) (Proto)"
+  },
+  "1733B3407939F5C37E39D5494ABFA4137F500707": {
+    "name": "Zaxxon (USA, Europe)",
+    "vid": "Qmf1Q1C3YYuiJyTSkLL1dvttCNvsxz9SLM2JdF1ket5V4T",
+    "logo": "QmbkmbHEVbWo3PdDq16Ye7WA79QEr59Jr2RHsHA6dHiKmr"
+  },
+  "5B6BDE9746D7B57291A9ACC519962717E2C12AAA": {
+    "name": "Zaxxon (Taiwan) (En) (Unl)"
+  },
+  "9119F3A485EB4215E7D41C7CF0E412D903458647": {
+    "name": "Zenji (USA)",
+    "vid": "QmZfKtJDimMiBYwsEsNE9En21sDpZ8JrLyN1j4aw8QnsCN",
+    "logo": "QmY4WwHGkmrNPgjSxhtfeRr6L8B7yX9eTbwb3Zg1YLScyN"
+  },
+  "1582CBB23EB5464BD6B9DFDBEB0B161EC90AF60A": {
+    "ref": "C3A820E6A73EF42DC88982D835C60C36B4B9505F"
+  },
+  "76627FE3A0BBECA4F4CAFD3427182EB8700E7677": {
+    "ref": "4782F1D6225D9B6501A9AB1AB72F9E66F3FF66D8"
+  },
+  "2233E9099561BFD4ECE10FF5884782F0E31D0EA1": {
+    "ref": "A2494B1ADE772FE45779BD500139FF847DFE7AFA"
+  },
+  "A79EDCCDFB5BAE973848003B3905D968D18FAE9D": {
+    "ref": "9E18D51855B721298CC4EFAD0786DF65E8ED6FD7"
+  },
+  "09FC6BD4CFBA5664B45CB89E2DAA7E3BC3F50C4B": {
+    "ref": "28FC9BF517BCE3D901C61D6FD1E297D2AF421C70"
+  },
+  "AC21FB23A4A4DDE1D850264572924AC0CF9849B9": {
+    "ref": "2E08245802C4C5AA87774AD3740FD56AC5B25BD1"
+  },
+  "B1B84B64D252EF145DD367FD393F477976CE7285": {
+    "ref": "D4F34382D43897774101E3620384A402DD3D2EC1"
+  },
+  "F31EBCB7429030AF0FCB651D172724F392CC6F87": {
+    "ref": "C8C2A70D3EAB8A68AB1DB04E766A6C70F02F02CA"
+  },
+  "B07F4D6747411D3DF5819735C7BF051F902CBF0F": {
+    "ref": "12B1FB517D8F7308D18F355E0C54796E4B5225A0"
+  },
+  "3F5F92DEC13860BD1EB56CF77FBE3556246291C4": {
+    "ref": "145D1758347306E36A8039671A1088841BCCAAD5"
+  },
+  "7564CB4CCD0068473F1E3866FA083ED138947153": {
+    "ref": "287013140F2896516ACB095157389F681D9C5150"
+  },
+  "550901882D369064779956704B2925E4E9B8BE1F": {
+    "ref": "C6506F48A4F33761D0A39C65F0FD092429756F2B"
+  },
+  "D5890E96CDC1CA8A6A27042BC486ECFBB9DDECA7": {
+    "ref": "9D34B9A55F9B6C8443696114A8E69724E5106B5A"
+  },
+  "01092A3AFACB7E013C220C1AA6CE3C72CA400B5F": {
+    "ref": "55CCE8D6A61C1B028555AE0DA8CDF629A3B19982"
+  },
+  "D41BEC8F571F3250668BB1CEC5DC0BF7DE74BB7D": {
+    "ref": "8271203FA88E36DBEE9423981F580C11B110001A"
+  },
+  "77CD01E29071DECE70D18CF9E7E2D2CE455D001F": {
+    "ref": "4591C2927131338FF2F602FC8AEBB2DDA0407A8C"
+  },
+  "B0C02E594DD965AF5045D4E3DE19C61FA5B6D0CA": {
+    "ref": "44862334E171BCCD80D41A2AFBC5D7AF46D68D07"
+  },
+  "84F4B6FA6AB30B6C2E2B79BF61C5BB3421530303": {
+    "ref": "D0B00EE7B4368EF3DBD74FBACE4F8E061ED632F4"
+  },
+  "06640A1B83C326D2D5DC94A1E936D5D740AD3174": {
+    "ref": "F5A649238057FB354512DA2F5336BCB4B09216E5"
+  },
+  "8536D0A4D9C6422AB221A7EAA55B9BA7CAA5EA4C": {
+    "ref": "F54F110BA5864BB3418F84E1C2CDC5C856DDA771"
+  },
+  "25B69A19BED03C806188665A348F64BE1F4B0E56": {
+    "ref": "F987591F915EB0D3547B85F3767FFF2D4FD0540F"
+  },
+  "70F001572033D93FAFCE058D271FC875B6D0337B": {
+    "ref": "6598592F1F4DEBCCCE5BCCFFF406BF10970FFDAC"
+  },
+  "2943B5D1274864E013B774108EF9C8D0CFF25159": {
+    "ref": "5BD7C21D64EEE044C88AE438479D22802A510677"
+  },
+  "FB2FEA387EED84F0CA0FBF6736060A1612C971B3": {
+    "ref": "990967A4EF5795733A29EFBACDDB23E4D4DD3C15"
+  },
+  "B0CB88D41D9B1B3698A799CAACB3A7DDCB5C19EC": {
+    "ref": "407C2A1BEF81522DFD88ACE7ABD7D80C0F7DE357"
+  },
+  "4309865F8A18EE611BE95445FCABA000E9E321BD": {
+    "ref": "15E6F8197CAEE5A500C6CE33952D51BECA6A43CC"
+  },
+  "8C83391F512D20CBBB4F36B0ADD06A6CF0BD8E65": {
+    "ref": "FB092284A0A6CDABD1B10E6C4127125FE74C7B96"
+  },
+  "1A0A939355E024F2118D9B6A62D178AE4B4A7EC6": {
+    "ref": "D3DCA3DAB60A386156D823BF1905E5542AC1AA21"
+  },
+  "C0FF64668723F5F353CE98D3EE6089EBE0201369": {
+    "ref": "3BF730ACBFB0404D2E2411169C8FC6A81B907053"
+  },
+  "E2B351B83CB85239D4A03B629DFD2F707CC54FD1": {
+    "ref": "EB7764EF6F50885E2EAFFAFF42AB9FCF760A77E1"
+  },
+  "A90BCAC7DA24B518002971CAEC342FFDD43B2348": {
+    "ref": "3A7E5EA50495A666BAC8DF0B3B2C82B5BE65AD18"
+  },
+  "42BFCCD2219E595DF2711ECC8854B24B803C0CD9": {
+    "ref": "E9CCABC76BE96279B322586F5A569D7FE3B0FA25"
+  },
+  "796118B875CEEC83FC52AAA951F1F11E15600EDC": {
+    "ref": "4AD44DBF2651415F68C5E82289ECBC0122C51A19"
+  },
+  "EA9B79AC1B51F4337C2E2E24AD0D765D25E73FDE": {
+    "ref": "081A40414021A51B3219E8957E948163680A9ADA"
+  },
+  "ACC3F1F3A7C129D736C3625667A3C1D942F12BBE": {
+    "ref": "809BEFAAD2BB341241D58FCD4E0409D690E4B6CE"
+  },
+  "3B5823BD966E042DF81CF42DC07AEF990E41FD88": {
+    "ref": "65B532FE1F0D249E97117580638083731E1FF767"
+  },
+  "77DA39D6FA64E1B3849F61967F148DFE846A32B2": {
+    "ref": "9FAE20696149C1DBA5203E1600565917C8981D81"
+  },
+  "932E0776B861B9D927BC7C86440517EBFA90C8AF": {
+    "ref": "C899DEBDDA6BFB7E2ED0D1C327AB574B9CBC70AE"
+  },
+  "CA62F469511D30D164ADC74859D4C5C77963E218": {
+    "ref": "62CA275776E4184032224E61B6D01D0636D7E846"
+  },
+  "6970F6043ADAEAE0BF0A1BDF431B12807BE87B58": {
+    "ref": "837A192EE27AB78C4AB914B45B9BA55E5847CF37"
+  },
+  "B9E66759502856E9341BA0A2F350C94FAF29CCA1": {
+    "ref": "23823B4F564CB916AB411D8822531EB3A1A57346"
+  },
+  "92CF04A5346A409BE51D1F728C4F734E3A5446EF": {
+    "ref": "4429F4BCFAC5612DE5E8F601706CB3AF1B82E58E"
+  },
+  "F1BBBC8025A744C46E4F3E242F8904D2BC57F175": {
+    "ref": "B29CD441E9EDEBC37ABC08C3FD932F1D4185BACD"
+  },
+  "6ADE72687E2C556CD9C314AFEFC86DC861139438": {
+    "ref": "AC51F1A107B962E9322411D6233B3CE922E0FC15"
+  },
+  "F7DBDF62C9DB7ADB6A98EB02B1A47BD4EDE6A4E8": {
+    "ref": "EECCF73225E03CE10F6F6A02A808DC04F5BB0242"
+  },
+  "E2AE664CE84F59CD904DE49FED68657E7278D501": {
+    "ref": "E94E5D8DD549CAE8B70D02170502ECA4E90A3C30"
+  },
+  "D42F8620C9C7BC099ED0F4005F989189C766F57F": {
+    "ref": "2C35F5B2EB5914A14E544E00C67D4CB5582832D8"
+  },
+  "50AF8FB35BE989C9ADDBC0E9A082190EEAB70D8D": {
+    "ref": "11DEF2ADB622BBF62BFD2AC14D8151C8F2F772EB"
+  },
+  "D4C1A98A35DC79727B6E8838B1B0815919496601": {
+    "ref": "AE25507B840B15CA3A832BA0BD8E1CBFDF4634A6"
+  },
+  "981E7DBA3D8231019ECD137BFEE97FCE84061FDC": {
+    "ref": "D37140E1ABD1A0402AF5C9E02AB3E4D0C6AFE598"
+  },
+  "06BC7C00A253AB27AE2117B65C7508E165C826F1": {
+    "ref": "4829D304CBB752031BF5B4B1D48EED2AD06F222E"
+  },
+  "00C9F22FDF0BE33A295514431FAB36DA92A78FF4": {
+    "ref": "42A22D2314081450E8CB2A5E8BA4AA0987971063"
+  },
+  "A79CBE906A6DF960F790C3139704F534B09A378B": {
+    "ref": "0A32A17A3E5E6C220DE91E4DCF036D7D02AD8E30"
+  },
+  "2D61D96FD15C614BDE450813AA88092CF814E60A": {
+    "ref": "59CB8DEC033C3B1DF476C7C93109ABA9562BA3D4"
+  },
+  "48828F603E65178C0FEDA275D6B3A11AFF688EAE": {
+    "ref": "1E3B525F2D895105727FEE76076DD5ECCCBF1778"
+  },
+  "9E9D2D42074FF0D62B98EB2032664C4BC3C51B0A": {
+    "name": "Circus Charlie",
+    "vid": "QmNyXH3dGoz2px6NzHGLYx48n83FYjsj9e3i4rLsiRWCBH",
+    "logo": "QmbdJZnPVuiayDgrnkGnUgRjkYpbeBH5j2oXNv9dxdJAio"
+  },
+  "5B35EE46585B2FF07EE8D730B519F12E58BDA5E7": {
+    "name": "Decathlon (USA)",
+    "vid": "QmcCsAZB2PdVgeyCnsTKTPvMxXY53LqGZ4R8E7hMYgmWqY",
+    "logo": "QmeZGi3xhvpTCRWacQcJribpNsAevVoAdqpq6ygD7sTFmQ"
+  },
+  "92ED60D081E192053823B62B90A647279B241DD5": {
+    "name": "Frostbite",
+    "vid": "QmXMazorzn8JgAwWVSF3orJv2NGULPCsxqEoXBYLdLEjp5",
+    "logo": "QmVLhJZM47qs6n3zgKaCXLFwttx4osDaMHauW1YfYEd8gX"
+  },
+  "D58688758F18552E23F5FF44741A2F8422482B41": {
+    "name": "Kaboom",
+    "vid": "QmPffimtBFb6G1LBchhj8HHFebdGriU78xu1K7e6DsryAw",
+    "logo": "QmWkK6qj4Nmovv7aMVQbDBwwev7uxPuSEYJTR7XVneHu6D"
+  },
+  "7119F43FAF35E0C346446DEADE468ADFCF6C3AFC": {
+    "name": "Q-bert II (USA)",
+    "vid": "QmUG5A9apgFS1u7mUe1u1WrTUmMZfe3YeMREp4zZYzXNBB",
+    "logo": "QmR8eqitp4drxPJkha8psk3s6DTJBZDsdxHRGnjZkeXGC1"
+  },
+  "F55A9B5077A0499FA9D4E81803C962992C100B8A": {
+    "name": "Space Invaders Collection",
+    "vid": "QmdK7EsUmu9W67Chgzgcunx75Krmddk91GZ3mDV89xSPKm",
+    "logo": "QmaEMkuevbskNu684KD71Vupc3RqiDCTmwEdDd9eomDBM6"
+  },
+  "71ED4C35F49AF9EE3469F604CEB101AF69096C36": {
+    "name": "Super Action Soccer (USA, Europe)",
+    "vid": "QmQHGLaBBPiLuBTQHniJ62Wezeg7wi1JAwoCepaG2NNKe9",
+    "logo": "QmZJUkt3CCuVWNoXUenLjbBRHi5kGRXiiYiNgUvop6uPgD"
+  },
+  "AFCFB1519451CA3170D175A7DB5EC563E4FE8E53": {
+    "name": "Tetris",
+    "vid": "QmVKbxk1rahXkA1AVRkDMxVJZsFU49ppMa5fqXj3dus4RE",
+    "logo": "QmWegsFpguNiPYFWnALGzTzaD4BdfEjP2xackNddjgouwo"
+  },
+  "39A90EF25C2A2A404E2CAF5A6AD1FF828F8C72FC": {
+    "name": "Track & Field",
+    "vid": "QmRDv12j5HngZUaCnREQGhxMYt2gNnNABxoYYJ3TT9Yoqo",
+    "logo": "QmYfDoXHZzTi2EvVH2QXw6dr1xWJbFbDAFyHAXUq4H7oTm"
+  }
+}

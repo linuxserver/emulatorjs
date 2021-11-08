@@ -30,12 +30,12 @@ var metaVariables = [
   ['corner', 'corners', '.png']
 ];
 var emus = [
-  '3do', 'arcade', 'atari2600', 'atari7800', 
-  'gb', 'gba', 'gbc', 'jaguar', 'lynx',
-  'msx', 'n64', 'nds', 'nes', 'ngp', 
-  'pce', 'psx', 'sega32x', 'segaCD', 
-  'segaGG', 'segaMD', 'segaMS',
-  'segaSaturn', 'snes', 'vb', 'ws'
+  '3do', 'arcade', 'atari2600', 'atari7800', 'colecovision',
+  'doom', 'gb', 'gba', 'gbc', 'jaguar', 'lynx',
+  'msx', 'n64', 'nds', 'nes', 'ngp', 'odyssey2',
+  'pce', 'psx', 'sega32x', 'segaCD',
+  'segaGG', 'segaMD', 'segaMS', 'segaSG',
+  'segaSaturn', 'snes', 'vb', 'vectrex', 'ws'
 ];
 
 //// Http server ////

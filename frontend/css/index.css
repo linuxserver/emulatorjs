@@ -3,6 +3,11 @@ html {
   overflow: hidden;
 }
 
+canvas {
+  border: none;
+  outline: none;
+}
+
 #menu {
   visibility: visible;
   position: fixed;
@@ -59,6 +64,21 @@ html {
   height: 50vh;
 }
 
+#game {
+  text-align: center;
+  color: white;
+}
+
+.full-button {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  color: white;
+  background: transparent;
+  cursor: pointer;
+  border: none;
+  font-size: 3vw;
+}
 
 @keyframes growonce {
   0% {

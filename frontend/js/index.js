@@ -135,6 +135,19 @@ function launch(active_item) {
     $(document).off('keydown');
     // Default variables for emulator
     var emulator = $('#i' + active_item.toString()).data('emulator');
+    if (emulator.startsWith('libretro-')) {
+      var emulator = emulator.replace('libretro-','');
+      var script = 'js/libretro.js'
+      EJS_onGameStart = function() {
+        Module.requestFullscreen(false);
+      }
+    } else {
+      var script = 'data/loader.js'
+      var EJSemu = true;
+      EJS_onGameStart = function() {
+        document.querySelectorAll('[data-btn="fullscreen"]')[0].click();
+      }
+    };
     var path =  $('#i' + active_item.toString()).data('path');
     var rom_path = 'user/' + path + '/roms/';
     var rom_extension = $('#i' + active_item.toString()).data('rom_extension');
@@ -152,30 +165,27 @@ function launch(active_item) {
     EJS_gameUrl = rom_path + name + rom_extension;
     EJS_core = emulator;
     EJS_pathtodata = 'data/';
-    EJS_onGameStart = function() {
-      document.querySelectorAll('[data-btn="fullscreen"]')[0].click();
-    }
     // Load in EJS loader
     var loaderscript = document.createElement('script');
-    loaderscript.src = 'data/loader.js';
+    loaderscript.src = script;
     document.head.append(loaderscript);
     // Click play button as soon as it appears
-    var clickplay = setInterval(() => {
-      if (typeof document.getElementsByClassName('ejs--73f9b4e94a7a1fe74e11107d5ab2ef')[0] !== 'undefined') {
-        clearInterval(clickplay);
-        document.getElementsByClassName('ejs--73f9b4e94a7a1fe74e11107d5ab2ef')[0].click();
-      }
-    }, 100);
-    // Call to save every minute the game is active
-    var saveEveryMinute = setInterval(() => {
-      if (window.exit == false ) {
-        window.dispatchEvent(new Event('beforeunload'));
-      };
-    }, 60000);
+    if (EJSemu) {
+      var clickplay = setInterval(() => {
+        if (typeof document.getElementsByClassName('ejs--73f9b4e94a7a1fe74e11107d5ab2ef')[0] !== 'undefined') {
+          clearInterval(clickplay);
+          document.getElementsByClassName('ejs--73f9b4e94a7a1fe74e11107d5ab2ef')[0].click();
+        }
+      }, 100);
+    };
     // Reload window if user clicks back
     $(window).on('hashchange', async function() {
       if (window.location.hash !== '#game') {
+        // Make sure games are saved by sleeping for a second before reloading
         window.exit = true;
+        if (Module) {
+          Module._cmd_savefiles();
+        };
         window.dispatchEvent(new Event('beforeunload'));
         setTimeout(function(){
           window.location.href = '#' + root + '---' + active_item;
