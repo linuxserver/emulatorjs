@@ -9,6 +9,7 @@ gearboy
 vba_next
 genesis_plus_gx
 handy
+mame2003_plus
 mednafen_ngp
 mednafen_pce_fast
 mednafen_wswan
@@ -42,6 +43,14 @@ zip -r frontend.zip  assets/xmb/monochrome assets/ozone shaders filters info aut
 mv frontend.zip "${rootdir}/frontend/data/"
 cd "${rootdir}"
 rm -Rf retrotmp
+# Custom cores
+curl -o \
+  /tmp/custom-cores.tar.gz -L \
+  "https://github.com/linuxserver/libretro-cores/archive/master.tar.gz" && \
+tar xf \
+  /tmp/custom-cores.tar.gz -C \
+  frontend/ --strip-components=1
+rm frontend/README.md
 # Default folders
 if [ ! -e 'fontend/user' ]; then
   if [ -d '/data' ]; then

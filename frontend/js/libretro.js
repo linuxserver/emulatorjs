@@ -2,7 +2,10 @@
 var Module;
 var EJS_biosUrl;
 var EJS_onGameStart;
-var rom = EJS_gameUrl.substr(EJS_gameUrl.lastIndexOf("/")+1);
+var rom = EJS_gameUrl.substr(EJS_gameUrl.lastIndexOf('/')+1)
+if (EJS_gameUrl.endsWith('.multizip')) {
+  var rom = rom.replace('multizip','zip');
+};
 // Function vars
 var dlProgress = 0;
 var afs;
@@ -68,17 +71,26 @@ async function setupMounts() {
   var frontend = new BrowserFS.FileSystem.ZipFS(new Buffer(frontendData));
   console.log('WEBPLAYER: initializing filesystem');
   mfs.mount(retroArchDir + 'userdata', afs);
-  mfs.mount(retroArchDir + 'roms', memfs);
   mfs.mount(retroArchDir + 'bundle', frontend);
+  if (EJS_gameUrl.endsWith('.multizip')) {
+    setLoader('Game');
+    var gameFile = await downloadFile(EJS_gameUrl);
+    var gamefs = new BrowserFS.FileSystem.ZipFS(new Buffer(gameFile));
+    mfs.mount(retroArchDir + 'roms', gamefs);
+    var dlGame = false;
+  } else {
+    mfs.mount(retroArchDir + 'roms', memfs);
+    var dlGame = true;
+  }
   if (EJS_biosUrl) {
     setLoader('Bios');
     var biosFile = await downloadFile(EJS_biosUrl);
-    if (EJS_biosUrl.endsWith(".zip")) {
+    if (EJS_biosUrl.endsWith('.zip')) {
       var biosPackage = new BrowserFS.FileSystem.ZipFS(new Buffer(biosFile));
       mfs.mount(retroArchDir + 'system/', biosPackage);
       BrowserFS.initialize(mfs);
     } else {
-      var bios = EJS_biosUrl.substr(EJS_biosUrl.lastIndexOf("/")+1);
+      var bios = EJS_biosUrl.substr(EJS_biosUrl.lastIndexOf('/')+1);
       BrowserFS.initialize(mfs);
       fs.mkdirSync(retroArchDir + 'system');
       fs.appendFileSync(retroArchDir + 'system/' + bios, new Buffer(biosFile));
@@ -94,14 +106,16 @@ async function setupMounts() {
     fs.writeFileSync(retroArchDir + 'userdata/retroarch.cfg', retroArchCfg);
   };
   console.log('WEBPLAYER: filesystem initialization successful');
-  downloadGame();
+  downloadGame(dlGame);
 }
 
 // Download assets needed for this game
-async function downloadGame() {
-  setLoader('Game');
-  var romFile = await downloadFile(EJS_gameUrl);
-  fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(romFile));
+async function downloadGame(dlGame) {
+  if (dlGame == true) {
+    setLoader('Game');
+    var romFile = await downloadFile(EJS_gameUrl);
+    fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(romFile));
+  };
   $('#loading').empty();
   Module['callMain'](Module['arguments']);
   document.getElementById('canvas').focus();

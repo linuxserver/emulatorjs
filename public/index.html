@@ -21,6 +21,12 @@
     </div>
     <div id="rominfo" class="hidden">
       <div class="readme">
+        <h2>Basic controls</h2>
+        <p>For all libretro based emulators you can use F1 on your keyboard or start+select+L+R on a gamepad to bring up the in game menu.</p>
+        <p>All saves and any settings are stored in your actual web browser by the URL you are using to access this container, to ensure sram is dumped on exit always try to exit the game with back instead of closing the browser window. On libretro based emulators you can perform saves and savestates from the menu.</p>
+        <p>Xbox users on Edge hold the start button for 3 seconds to exit gamepad controls and if you want to re-enter again press the start button again with your cursor hovering over the game and select the option to use gamepad controls. After you launch a game press the select button a couple times to ensure the B button does not trigger a back action or drop you from fullscreen.</p>
+        <h2>If you enjoy this</h2>
+	<p>Consider <a href="https://retroarch.com/index.php?page=donate">supporting</a> libretro they do the heavy lifting. Also take a look at helping with art assets <a href="https://github.com/linuxserver/emulatorjs">Here</a>.</p>
         <h2>File Downloading</h2>
         <p>As the network of peers grows, art and default file downloading might not be a 100% perfect. You can always click download multiple times, items that have allready been downloaded will pull from your local IPFS node running in this container while missing items will be retried. Please try to download a couple times before reaching out for support. If you are able to we would appreciate if you can forward port 4001 from this container to the public internet, it decentralizes the distribution of files leading to a more robust CDN for all users.</p>
         <h2>Rom Identification basics</h2>
@@ -33,8 +39,8 @@
           <li>Click to download all the art items for your identified roms.(logos, videos, etc)</li>
           <li>Click to add the roms to your config file for that system.</li>
         </ol>
-        <p>From there you can hop into the frontend interface (default port 80) to browse and play your collection</p>
-        <p>In general this application is referencing metadata based on commonly used identifying metrics for rom files, mostly these revolve around checksums (specifically sha1) of the rom files themselves. This metadata is compiled from lists on no-intro.org for roms and redump.org for CD based games. Now no system is perfect, but the aim is to have community participation expand these lists with the data from their own rom sets. After scanning in your roms you may notice that many of them are un-identified using this metadata, if you took the time to link them to the correct reference information please consider providing your resulting reference data to Github at <a href"https://github.com/linuxserver/emulatorjs">https://github.com/linuxserver/emulatorjs</a>.</p>
+        <p>From there you can hop into the frontend interface (default port 80) to browse and play your collection.</p>
+        <p>In general this application is referencing metadata based on commonly used identifying metrics for rom files, mostly these revolve around checksums (specifically sha1) of the rom files themselves. This metadata is compiled from lists on no-intro.org for roms and redump.org for CD based games. Now no system is perfect, but the aim is to have community participation expand these lists with the data from their own rom sets. After scanning in your roms you may notice that many of them are un-identified using this metadata, if you took the time to link them to the correct reference information please consider providing your resulting reference data to Github <a href="https://github.com/linuxserver/emulatorjs">Here</a>.</p>
         <h2>Multi Disk PSX</h2>
         <p>The only web emulator that supports multiple CD games is psx, in order to function please rename your chd files before scanning them in to the same name with the extension .disk1,.disk2,.disk3,etc. IE:</p>
         <ul>
@@ -42,14 +48,18 @@
           <li>/data/psx/roms/GAMENAME.disk2</li>
           <li>/data/psx/roms/GAMENAME.disk3</li>
         </ul>
+	<h2>MAME roms with chds</h2>
+	<p>The web based arcade emulator is MAME 2003-Plus, in general most games will work if you use full non-merged roms. Some games require additional chd files though. In order to get these to load with the web frontend we have a custom file format that can be loaded by the extension ".multizip". To create this file simply zip the rom zip and the chd file (no folders) into a single file. IE if you had the file kinst.zip and the folder kinst/kinst.chd simply move the kinst.zip file into the kinst folder and create the archive using <b>zip kinst.multizip kinst.zip kinst.chd</b> then move the resulting file to your roms directory. This multizip file will be unpacked before the emulator is loaded into the directory it is looking for the files.</p>
         <h2>Expanding on identification</h2>
         <p>For all CD based system only bin/cue and chd files are supported for identification purposes, you may be able to use iso files, but automatic identification will not be possible. The only system without chd support is 3do, in all other cases you are best off using chd based roms.<p>
         <p>Depending on the type of game you are trying to scan in this process can take some time, particularly for CD based games in CHD format as we need to pull out individual tracks in many cases to sha1sum the resulting data. In general identifying CD based games is very difficult and in some cases these will simply be lists of file names as there is not a reliable way to compare the sums of different tracks from the CDs. We use the following methods to try to create unique metadata strings to look up for each rom. If a rom is zipped or 7zipped it will be extracted and the resulting file checksummed.</p>
         <ul>
           <li>3DO- 3DO cd images only contain a single track so we sha1sum that track, must be iso or bin files. If you have .img files please simply rename to iso or bin.</li>
-          <li>Arcade- arcade roms use name based identifcation using the FBA v0.2.97.42 roms set as reference, some other MAME roms will work, but only the FBA v0.2.97.42 is supported using emulatorjs. Roms should be zip files following this naming standard. Reference data: https://raw.githubusercontent.com/libretro/fbalpha/master/gamelist.txt</li>
+          <li>Arcade- Arcade roms use name based identifcation and need to be MAME 2003-Plus Full non merged roms. (the roms with all files/parents in single zip file)</li>
           <li>Atari 2600- Sha1summed rom files.</li>
           <li>Atari 7800- Sha1summed rom files.</li>
+          <li>Colecovision- Sha1summed rom files.</li>
+          <li>Doom- Sha1summed wad files.</li>
           <li>Game Boy Advance- Sha1summed rom files.</li>
           <li>Game Boy Color- Sha1summed rom files.</li>
           <li>Game Boy- Sha1summed rom files.</li>
@@ -60,6 +70,7 @@
           <li>Nintendo DS- Decrypted roms only, sha1summed rom files.</li>
           <li>Nintendo Entertainment System- We use a helper NES20Tool to pull all headers out of files (.nes) since the standard was set all NES roms should have this header information, sha1summed rom files.</li>
           <li>Neo Geo Pocket (color)- Sha1summed rom files.</li>
+          <li>Odyssey2- Sha1summed rom files.</li>
           <li>PC Engine (TurboGrafx-16)- The rom files are sha1summed rom files, while the chd cd images use a name reference system as there is no reliable way to pull a non colliding checksum track out of the CDs.</li>
           <li>Playstation- Currently Playstation is a bit of a mess, optimally we would have identification support for PBP files as they are multi CD out of the box and very popular, but identifying these is impossible via Linux CLI as of now. So for identification we depend on extracting out chd files and checksumming the 1st track.</li>
           <li>Sega 32x- Sha1summed rom files.</li>
@@ -68,12 +79,46 @@
           <li>Sega Mega Drive- Sha1summed rom files.</li>
           <li>Sega Master System- Sha1summed rom files.</li>
           <li>Sega Saturn- Name based identification, to much track collision for sha1.</li>
+          <li>Sega SG-1000- Sha1summed rom files.</li>
           <li>Super Nintendo- Sha1summed rom files.</li>
+          <li>Vectrex- Sha1summed rom files.</li>
           <li>Virtual Boy- Sha1summed rom files.</li>
           <li>Wonderswan (color)- Sha1summed rom files.</li>
         </ul>
         <h2>General Emulation</h2>
-	<p>For the most part all non CD based systems will work fine on mobile devices and the Xbox web browser. In general CD emulation for full sized non stripped games is not going to function outside of a decent PC setup. Mobile and game console browsers lack the ability to dedicate the 100s of megs of memory needed to store and run a CD based game. Sound crackling is normal in web based emulation, in many cases it will actually improve as the game is played longer. Please keep in mind what this is, these are full emulators re-compiled into javascript do not expect perfection.</p>
+	<p>For the most part all non CD based systems will work fine on mobile devices and the Xbox web browser. In general CD emulation for full sized non stripped games is not going to function outside of a decent PC setup. Mobile and game console browsers lack the ability to dedicate the 100s of megs of memory needed to store and run a CD based game. Sound crackling is normal in web based emulation, in many cases it will actually improve as the game is played longer. Please keep in mind what this is, these are full emulators re-compiled into javascript do not expect perfection. Emulators used with this project:</p>
+        <ul>
+          <li>3DO- <a href="https://www.emulatorjs.com/3do.html">https://www.emulatorjs.com/3do.html</a></li>
+	  <li>Arcade- <a href="https://github.com/libretro/mame2003-plus-libretro">https://github.com/libretro/mame2003-plus-libretro</a></li>
+	  <li>Atari 2600- <a href="https://github.com/libretro/stella2014-libretro">https://github.com/libretro/stella2014-libretro</a></li>
+	  <li>Atari 7800- <a href="https://github.com/libretro/prosystem-libretro">https://github.com/libretro/prosystem-libretro</a></li>
+	  <li>Colecovision- <a href="https://github.com/libretro/blueMSX-libretro">https://github.com/libretro/blueMSX-libretro</a></li>
+	  <li>Doom- <a href="https://github.com/libretro/libretro-prboom">https://github.com/libretro/libretro-prboom</a></li>
+          <li>Game Boy Advance- <a href="https://github.com/libretro/vba-next">https://github.com/libretro/vba-next</a></li>
+          <li>Game Boy Color- <a href="https://github.com/libretro/Gearboy">https://github.com/libretro/Gearboy</a></li>
+          <li>Game Boy- <a href="https://github.com/libretro/Gearboy">https://github.com/libretro/Gearboy</a></li>
+          <li>Jaguar- <a href="https://github.com/libretro/virtualjaguar-libretro">https://github.com/libretro/virtualjaguar-libretro</a></li>
+          <li>Atari LYNX- <a href="https://github.com/libretro/libretro-handy">https://github.com/libretro/libretro-handy</a></li>
+          <li>MSX- <a href="https://github.com/libretro/blueMSX-libretro">https://github.com/libretro/blueMSX-libretro</a></li>
+          <li>Nintendo 64- <a href="https://www.emulatorjs.com/n64.html">https://www.emulatorjs.com/n64.html</a></li>
+          <li>Nintendo DS- <a href="https://www.emulatorjs.com/nds.html">https://www.emulatorjs.com/nds.html</a></li>
+          <li>Nintendo Entertainment System- <a href="https://github.com/libretro/libretro-fceumm">https://github.com/libretro/libretro-fceumm</a></li>
+          <li>Neo Geo Pocket (color)- <a href="https://github.com/libretro/beetle-ngp-libretro">https://github.com/libretro/beetle-ngp-libretro</a></li>
+          <li>Odyssey2- <a href="https://github.com/libretro/libretro-o2em">https://github.com/libretro/libretro-o2em</a></li>
+          <li>PC Engine (TurboGrafx-16)- <a href="https://www.emulatorjs.com/tg16.html">https://www.emulatorjs.com/tg16.html</a></li>
+          <li>Playstation- <a href="https://www.emulatorjs.com/psx.html">https://www.emulatorjs.com/psx.html</a></li>
+          <li>Sega 32x- <a href="https://www.emulatorjs.com/sega32x.html">https://www.emulatorjs.com/sega32x.html</a></li>
+          <li>Sega CD- <a href="https://github.com/libretro/Genesis-Plus-GX">https://github.com/libretro/Genesis-Plus-GX</a></li>
+          <li>Sega Game Gear- <a href="https://github.com/libretro/Genesis-Plus-GX">https://github.com/libretro/Genesis-Plus-GX</a></li>
+          <li>Sega Mega Drive- <a href="https://github.com/libretro/Genesis-Plus-GX">https://github.com/libretro/Genesis-Plus-GX</a></li>
+          <li>Sega Master System- <a href="https://github.com/libretro/Genesis-Plus-GX">https://github.com/libretro/Genesis-Plus-GX</a></li>
+          <li>Sega Saturn- <a href="https://www.emulatorjs.com/segasaturn.html">https://www.emulatorjs.com/segasaturn.html</a></li>
+          <li>Sega SG-1000- <a href="https://github.com/libretro/Genesis-Plus-GX">https://github.com/libretro/Genesis-Plus-GX</a></li>
+          <li>Super Nintendo- <a href="https://github.com/libretro/snes9x">https://github.com/libretro/snes9x</a></li>
+          <li>Vectrex- <a href="https://github.com/libretro/libretro-vecx">https://github.com/libretro/libretro-vecx</a></li>
+          <li>Virtual Boy- <a href="https://github.com/libretro/beetle-vb-libretro">https://github.com/libretro/beetle-vb-libretro</a></li>
+	  <li>Wonderswan (color)- <a href="https://github.com/libretro/beetle-wswan-libretro">https://github.com/libretro/beetle-wswan-libretro</a></li>
+        </ul>
       </div>
     </div>
     <div id="landing" class="hidden">
