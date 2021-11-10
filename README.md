@@ -90,7 +90,7 @@ And the actual game entry:
   "parent": "main",
   "display_items": 1,
   "defaults": {
-    "emulator": "atari2600",
+    "emulator": "libretro-stella2014",
     "bios": "",
     "path": "atari2600",
     "rom_extension": ".zip",
