@@ -27,7 +27,8 @@ function setLoader(name) {
 
 // File downloads with progress
 async function downloadFile(url) {
-  var response = await fetch(url);
+  var Init = { method:'GET',headers:{'Access-Control-Allow-Origin':'*'},mode:'cors'};
+  var response = await fetch(url,Init);
   var length = response.headers.get('Content-Length');
   if (!length) {
     return await response.arrayBuffer();
