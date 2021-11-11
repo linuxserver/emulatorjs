@@ -205,6 +205,12 @@ async function rendermenu(data, active_item) {
   $('#menu').data('root', root);
   var parent = data.parent;
   var items = data.items;
+  for await (var name of Object.keys(items)) {
+    var item = data.items[name];
+    if ((item.hasOwnProperty('cloneof')) && (items.hasOwnProperty(item.cloneof))) {
+      delete items[name];
+    }
+  };
   var items_length = Object.keys(items).length - 1;
   // Determine counts and style based on menu items
   var display_items = data.display_items;

@@ -237,6 +237,10 @@ io.on('connection', async function (socket) {
   };
   // Add roms to config file
   async function addToConfig(dir, render) {
+    if (dir == 'arcade') { 
+      var metaData = await fsw.readFile('./metadata/' + dir + '.json', 'utf8');
+      var metaData = JSON.parse(metaData);
+    };
     var configFile = configPath + dir + '.json';
     var shaPath = hashPath + dir + '/roms/';
     var files = await fsw.readdir(shaPath);
@@ -269,6 +273,9 @@ io.on('connection', async function (socket) {
             multi_disc++
           }
         };
+      };
+      if ((dir == 'arcade') && (metaData.hasOwnProperty(name)) && (metaData[name].hasOwnProperty('cloneof'))) {
+        Object.assign(config.items[name], {'cloneof': metaData[name].cloneof});
       };
       if (multi_disc !== config.defaults.multi_disc) {
         Object.assign(config.items[name], {'multi_disc': multi_disc});
