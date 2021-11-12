@@ -98,25 +98,25 @@ process_chd () {
 process_bin () {
   # Make sure we have a cue file
   cuefile=$(echo "${file}" | sed 's/.bin$/.cue/')
-  if [ ! -f "${user_folder}/hashes/${rom_path}/${cuefile}" ]; then
+  if [ ! -f "${user_folder}/${rom_path}/${cuefile}" ]; then
     echo "No cue found"
     return 0
   fi
   # Check if file has a track 2
-  if grep -q "TRACK 02" "${user_folder}/hashes/${rom_path}/${cuefile}"; then
-    mkdir -p "${user_folder}/hashes/${rom_path}/tmp/"
-    binmerge -s "${user_folder}/hashes/${rom_path}/${cuefile}" FILE -o "${user_folder}/hashes/${rom_path}/tmp/"
-    if [ -f "${user_folder}/hashes/${rom_path}/tmp/FILE (Track 1).bin" ]; then
-      sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/FILE (Track 1).bin" | awk '{print $1;exit}')
-    elif [ -f "${user_folder}/hashes/${rom_path}/tmp/FILE (Track 01).bin" ];then
-      sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/FILE (Track 01).bin" | awk '{print $1;exit}')
+  if grep -q "TRACK 02" "${user_folder}/${rom_path}/${cuefile}"; then
+    mkdir -p "${user_folder}/${rom_path}/tmp/"
+    binmerge -s "${user_folder}/${rom_path}/${cuefile}" FILE -o "${user_folder}/${rom_path}/tmp/"
+    if [ -f "${user_folder}/${rom_path}/tmp/FILE (Track 1).bin" ]; then
+      sum=$(sha1sum "${user_folder}/${rom_path}/tmp/FILE (Track 1).bin" | awk '{print $1;exit}')
+    elif [ -f "${user_folder}/${rom_path}/tmp/FILE (Track 01).bin" ];then
+      sum=$(sha1sum "${user_folder}/${rom_path}/tmp/FILE (Track 01).bin" | awk '{print $1;exit}')
     fi
-  elif grep -q "TRACK 01" "${user_folder}/hashes/${rom_path}/tmp/FILE.cue"; then
-    sum=$(sha1sum "${user_folder}/hashes/${rom_path}/${file}" | awk '{print $1;exit}')
+  elif grep -q "TRACK 01" "${user_folder}/${rom_path}/${cuefile}"; then
+    sum=$(sha1sum "${user_folder}/${rom_path}/${file}" | awk '{print $1;exit}')
   fi
   printf ${sum^^} > "${user_folder}/hashes/${rom_path}/${file}.sha1"
-  if [ -d "${user_folder}/hashes/${rom_path}/tmp" ]; then
-    rm -R "${user_folder}/hashes/${rom_path}/tmp"
+  if [ -d "${user_folder}/${rom_path}/tmp" ]; then
+    rm -R "${user_folder}/${rom_path}/tmp"
   fi
 }
 
