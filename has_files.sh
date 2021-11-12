@@ -10,6 +10,11 @@ else
 fi
 check_files=$(ls -1 "${user_folder}${rom_path}")
 
+# Clear out old hashes
+if [ -d "${user_folder}/hashes/${rom_path}" ]; then
+  rm -Rf "${user_folder}/hashes/${rom_path}"
+fi
+
 # Process zip file hashes
 process_zip () {
   mkdir -p "${user_folder}/hashes/${rom_path}/tmp"
