@@ -5,7 +5,9 @@ var EJS_onGameStart;
 var rom = EJS_gameUrl.substr(EJS_gameUrl.lastIndexOf('/')+1)
 if (EJS_gameUrl.endsWith('.multizip')) {
   var rom = rom.replace('multizip','zip');
-};
+} else if (rom.slice(0, -1).endsWith('disk')) {
+  var rom = rom.split('.').shift() + '.chd'
+}
 // Function vars
 var dlProgress = 0;
 var afs;
