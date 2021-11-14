@@ -4,7 +4,7 @@ The purpose of this application is to provide a self hosted solution for people 
 
 This idea was born from a single need, I wanted to run retro games on my Xbox which now includes a modern chromium based web browser with Microsoft Edge. Web based emulators are popular online but always ingesting roms from external sources is a pain not to mention prone to being taken down at any time, also their interfaces are never designed around basic controller input making navigation difficult with something like an Xbox controller.
 
-**It is important to note that the current emulator used for this frontend is obfuscated code, efforts are being made to [reverese engineer it](https://github.com/ethanaobrien/emulatorjs/) but you should know it can potentially reach out to third party services if you manually enable features like netplay (this should never happen in a stock setup). We are in the process to transitioning to libretro cores for emulators, currently 23/31 emulators have been replaced.**
+**It is important to note that the current emulator used for this frontend is obfuscated code, efforts are being made to [reverese engineer it](https://github.com/ethanaobrien/emulatorjs/) but you should know it can potentially reach out to third party services if you manually enable features like netplay (this should never happen in a stock setup). We are in the process to transitioning to libretro cores for emulators, currently 24/31 emulators have been replaced.**
 
 ## For Users
 
@@ -58,6 +58,10 @@ https://ipfs.infura.io/ipfs/QmarPeRQzXTGPY88h744vhgCu1RGJtpV9HyTtjhrQmnQhq
 While the `video_position` variable is used to place the video in the correct location on the screen. In general the only really "needed" art assets are the logo and video. The background, corner, and position entry can all be rendered from the default files for the emulated system in question. If you are making a highly custom screen for a particular game the video position might need to be set to something non default, but it always needs to be in the vh and vw unit format to support any size scaling the end user might have. It is impossible to assume a perfect 1080p or 16:9 aspect ratio on a users web browser. The video is rendered by determining a starting top left corner position with "left:11.5vw" being the distance from the left of the browser window, "top:31.5vh" being the distance from the top of the browser window, and "width:36vw;height:43vh" being the relative size. 
 
 All of the metadata entries are key based off public lists of rom/cd dumps from [https://no-intro.org/](https://no-intro.org/) and [http://redump.org/](http://redump.org/) using the sha1 of the files. This way when a user is scanning in their roms we can easily link them to the correct art assets for the menu entries.
+
+## For websites
+
+The libretro cores that are tested and functional are published as an easy to embed library [here](https://github.com/linuxserver/libretrojs) .
 
 ## Developing and testing assets
 

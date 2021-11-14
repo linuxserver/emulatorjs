@@ -8,14 +8,15 @@ mednafen_vb
 gearboy
 vba_next
 gambatte
+mgba
 genesis_plus_gx
 handy
 mame2003_plus
 mednafen_ngp
-mednafen_pce_fast
 mednafen_wswan
 o2em
 prboom
+tyrquake
 vecx
 bluemsx"
 IFS=$'\n'

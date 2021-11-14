@@ -625,7 +625,7 @@
   },
   {
     "file":"/data/config/pce.json",
-    "cid":"QmPgmpYgb7eymXmTWiWWyXkcY6ACtwC4v4D74xbsPaad37"
+    "cid":"QmTuXqpMqwKD4LbsnksAeTwQmaMhrkkbXvrCSUYAUYWQG8"
   },
   {
     "file":"/data/config/gbc.json",
@@ -778,6 +778,10 @@
   {
     "file":"/data/psx/bios/scph5501.bin",
     "cid":"QmVqWZXiKdhcTFYnwU8iCYnPSBwAijsQx7c2kBDixRv9bL"
+  },
+  {
+    "file":"/data/psx/bios/psx.zip",
+    "cid":"QmfQTsRzaE4T9LUWnKara8KVyXmoUn2RXzmSHYtDYN8Jr6"
   },
   {
     "file":"/data/psx/corners/default.png",
