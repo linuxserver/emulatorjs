@@ -7,6 +7,7 @@ snes9x
 mednafen_vb
 gearboy
 vba_next
+gambatte
 genesis_plus_gx
 handy
 mame2003_plus
