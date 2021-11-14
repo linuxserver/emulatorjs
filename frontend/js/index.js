@@ -184,7 +184,11 @@ function launch(active_item) {
         // Make sure games are saved by sleeping for a second before reloading
         window.exit = true;
         if (Module) {
-          Module._cmd_savefiles();
+          try {
+            Module._cmd_savefiles();
+          } catch(e) {
+            console.log(e);
+          }
         };
         window.dispatchEvent(new Event('beforeunload'));
         setTimeout(function(){

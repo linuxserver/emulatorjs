@@ -70,7 +70,6 @@ async function setupMounts() {
   var frontendData = await downloadFile('data/frontend.zip');
   var mfs = new BrowserFS.FileSystem.MountableFileSystem();
   var memfs = new BrowserFS.FileSystem.InMemory();
-  var memfs = new BrowserFS.FileSystem.InMemory();
   var frontend = new BrowserFS.FileSystem.ZipFS(new Buffer(frontendData));
   console.log('WEBPLAYER: initializing filesystem');
   mfs.mount(retroArchDir + 'userdata', afs);
