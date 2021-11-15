@@ -118,6 +118,7 @@ async function downloadGame(dlGame) {
     if (rom.split('.').pop() !== 'bin') {
       var romFile = await downloadFile(EJS_gameUrl);
       fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(romFile));
+      romFile = null;
     } else {
       var EJS_gameUrlCue = EJS_gameUrl.split('.').shift() + '.cue';
       var cue = rom.split('.').shift() + '.cue';
@@ -125,6 +126,7 @@ async function downloadGame(dlGame) {
       var romFile = await downloadFile(EJS_gameUrl);
       fs.appendFileSync(retroArchDir + 'roms/' + cue, new Buffer(cueFile));
       fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(romFile));
+      romFile = null;
     };
   };
   $('#loading').empty();
