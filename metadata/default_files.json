@@ -681,7 +681,11 @@
   },
   {
     "file":"/data/config/segaSaturn.json",
-    "cid":"QmNVCVsgyJLL5WViNoU6dWTUMthvgfYtSN3icgHCJBiFMi"
+    "cid":"Qmeqe5vdKuVUNPNbiotcBMZVVihegyuzKjDS8zehQLbgZQ"
+  },
+  {
+    "file":"/data/segaSaturn/bios/saturn.zip",
+    "cid":"QmWfQo5YDDx7w4PRHFCLUcWWuhiD6L42h2AGm3RojJwXKo"
   },
   {
     "file":"/data/config/ws.json",

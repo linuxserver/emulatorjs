@@ -2,7 +2,7 @@
 var Module;
 var EJS_biosUrl;
 var EJS_onGameStart;
-var rom = EJS_gameUrl.substr(EJS_gameUrl.lastIndexOf('/')+1)
+var rom = EJS_gameUrl.substr(EJS_gameUrl.lastIndexOf('/')+1);
 if (EJS_gameUrl.endsWith('.multizip')) {
   var rom = rom.replace('multizip','zip');
 } else if (rom.slice(0, -1).endsWith('disk')) {
@@ -115,8 +115,17 @@ async function setupMounts() {
 async function downloadGame(dlGame) {
   if (dlGame == true) {
     setLoader('Game');
-    var romFile = await downloadFile(EJS_gameUrl);
-    fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(romFile));
+    if (rom.split('.').pop() !== 'bin') {
+      var romFile = await downloadFile(EJS_gameUrl);
+      fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(romFile));
+    } else {
+      var EJS_gameUrlCue = EJS_gameUrl.split('.').shift() + '.cue';
+      var cue = rom.split('.').shift() + '.cue';
+      var cueFile = await downloadFile(EJS_gameUrlCue);
+      var romFile = await downloadFile(EJS_gameUrl);
+      fs.appendFileSync(retroArchDir + 'roms/' + cue, new Buffer(cueFile));
+      fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(romFile));
+    };
   };
   $('#loading').empty();
   Module['callMain'](Module['arguments']);
@@ -128,7 +137,16 @@ async function downloadGame(dlGame) {
 
 // When the browser has loaded everything.
 async function run() {
+  var rom = EJS_gameUrl.substr(EJS_gameUrl.lastIndexOf('/')+1);
   $(EJS_player).empty().append('<div id="loading"></div><canvas id="canvas" tabindex="1"></canvas><button alt="FullScreen" title="FullScreen" class="full-button" onclick="Module.requestFullscreen(false)">\u26F6</button>');
+  if (EJS_gameUrl.endsWith('.multizip')) {
+    var rom = rom.replace('multizip','zip');
+  } else if (rom.slice(0, -1).endsWith('disk')) {
+    var rom = rom.split('.').shift() + '.chd'
+  }
+  if (rom.split('.').pop() == 'bin') {
+    var rom = rom.split('.').shift() + '.cue';
+  };
   // Retroarch run logic
   Module = {
     noInitialRun: true,
