@@ -737,7 +737,11 @@
   },
   {
     "file":"/data/config/nds.json",
-    "cid":"QmXYhmPpPMKHZaAi7vKm67jMnkjn7HdQXAUvNyPZETCcC7"
+    "cid":"QmYR6qJXgPtzy8322HMJP5uU4UvFnxxWdWBKhpQCcpJaJ1"
+  },
+  {
+    "file":"/data/nds/bios/nds.zip",
+    "cid":"QmciBpXM6i1nPSyjKv7tJYmWS7NGXtfKX2EtFmTJ4iomas"
   },
   {
     "file":"/data/msx/backgrounds/default.png",

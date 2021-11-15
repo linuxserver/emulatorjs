@@ -4,7 +4,7 @@ The purpose of this application is to provide a self hosted solution for people 
 
 This idea was born from a single need, I wanted to run retro games on my Xbox which now includes a modern chromium based web browser with Microsoft Edge. Web based emulators are popular online but always ingesting roms from external sources is a pain not to mention prone to being taken down at any time, also their interfaces are never designed around basic controller input making navigation difficult with something like an Xbox controller.
 
-**It is important to note that the current emulator used for this frontend is obfuscated code, efforts are being made to [reverese engineer it](https://github.com/ethanaobrien/emulatorjs/) but you should know it can potentially reach out to third party services if you manually enable features like netplay (this should never happen in a stock setup). We are in the process to transitioning to libretro cores for emulators, currently 24/31 emulators have been replaced.**
+**It is important to note that the current emulator used for this frontend is obfuscated code, efforts are being made to [reverese engineer it](https://github.com/ethanaobrien/emulatorjs/) but you should know it can potentially reach out to third party services if you manually enable features like netplay (this should never happen in a stock setup). We are in the process to transitioning to libretro cores for emulators, currently 25/30 emulators have been replaced.**
 
 ## For Users
 
