@@ -496,10 +496,6 @@
     "cid":"Qme8N7PzVPstNCQ3V5PpRmmBzokwRsHPjJQJgDbjBxnpmR"
   },
   {
-    "file":"/data/segaCD/bios/bios_CD_U.bin",
-    "cid":"QmR3LZ4wsd8HAEfpYrWHt4KSKSwkcLt243dETYCr9VwRAo"
-  },
-  {
     "file":"/data/segaCD/corners/default.png",
     "cid":"Qmc39zPV8PwrZTnMHNqk4mPXZpLkhkTAgkaF2B5f7WKhiq"
   },
@@ -524,10 +520,6 @@
     "cid":"QmWcgbLd6rKAUGp1Q2DEfEQf1t8p8g2HN1XaHL8ZPVGWPU"
   },
   {
-    "file":"/data/gb/bios/dmg_boot.bin",
-    "cid":"QmXzNc3D578bHUgLwD5mAkQHzAVhmsbL1jqhfJqJ5AEN9T"
-  },
-  {
     "file":"/data/gb/corners/default.png",
     "cid":"QmQuTP338HcMh9QLEXDZdVLKbf6YCQV7dmx1UcPsdiL5DX"
   },
@@ -542,10 +534,6 @@
   {
     "file":"/data/gba/backgrounds/default.png",
     "cid":"QmQWF2Dr3QnwJhzaoptJUF2XzCHJzwoiKxuReDshBDr6Yf"
-  },
-  {
-    "file":"/data/gba/bios/gba_bios.bin",
-    "cid":"QmVWJiqWxzExiLq7T2j9ADp3H3rDoNnAkAr1sttcsw8Utq"
   },
   {
     "file":"/data/gba/corners/default.png",
@@ -570,10 +558,6 @@
   {
     "file":"/data/segaGG/backgrounds/default.png",
     "cid":"QmV8LcGgjpqsXGqMewWhJVCbaSJn5QfzitcSmtPy974HaZ"
-  },
-  {
-    "file":"/data/segaGG/bios/bios.gg",
-    "cid":"QmcM47ctYJG2ijtuWA5QcjsKXonoGKTiSKQ5j9uzRVUueP"
   },
   {
     "file":"/data/segaGG/corners/default.png",
@@ -608,10 +592,6 @@
     "cid":"QmXVxvCqNDhTYpEvweW6hGDNG5ojpsLhsGF4MEChsma2JW"
   },
   {
-    "file":"/data/pce/bios/syscard3.pce",
-    "cid":"QmU5f43aAAQtAtrDVqcq5BWz95HSNa4wvqJwgpjbK5xVTx"
-  },
-  {
     "file":"/data/pce/corners/default.png",
     "cid":"QmeVdvxJt2tcUWQJubJamt4MSuq4A1SfTvSz6F3J5XzhMo"
   },
@@ -625,19 +605,31 @@
   },
   {
     "file":"/data/config/pce.json",
-    "cid":"QmTuXqpMqwKD4LbsnksAeTwQmaMhrkkbXvrCSUYAUYWQG8"
+    "cid":"QmNmCQQAae4QG6JxNvzqfMP2XgsF8w6gDzeXiyKKz7JwTo"
+  },
+  {
+    "file":"/data/pce/bios/pce.zip",
+    "cid":"QmVZuSTmjWBbFvsgkV7fp4R1ZmjveK9Fap4Nxi6DhbpZPT"
   },
   {
     "file":"/data/config/gbc.json",
-    "cid":"QmVELYAWho5xuwSo8hpZbiH8BoHTBxMS5pDSBtVpwYheLY"
+    "cid":"QmYb7Qs81M6v2AR9Fe1i2hS4ff1K8NWdBe3ZEHBoxFUL44"
+  },
+  {
+    "file":"/data/gbc/bios/gb.zip",
+    "cid":"QmYXjcLTGdtG9JtDGVg42cWFkW6feYufRPQYGSe6ifESY8"
   },
   {
     "file":"/data/config/lynx.json",
-    "cid":"QmQrZSx1W6qKjdXmCJFX26Kg8ZN9XtahFgNaRyacs4kbzb"
+    "cid":"QmYsDZRt9vk4WPgMpbDwqtXWZmMvxyJTPVFsSA7YvBBYMd"
+  },
+  {
+    "file":"/data/lynx/bios/lynxboot.img",
+    "cid":"QmTaUUheMwLj5JqTqiZLzUfdUBj9xWikyZY4s72RGfKb9d"
   },
   {
     "file":"/data/config/segaCD.json",
-    "cid":"QmddqqPJ8m92LvaiM5RaPhPrj43khMavb58QVgfnC4DrV8"
+    "cid":"QmZDGK5aFqMoTpzZJz9V8S5P6pxuqDP3RwDWYrGpiBMhdY"
   },
   {
     "file":"/data/config/vb.json",
@@ -645,11 +637,15 @@
   },
   {
     "file":"/data/config/doom.json",
-    "cid":"QmdbtjxaChjJqanfFarHJw7nYwxdsnSgYRCaKKtGkzyguX"
+    "cid":"QmXc3LLZkTnvz6GSftb8LycevPyFnHGwyBMayyyD1AuV5J"
   },
   {
     "file":"/data/config/gba.json",
-    "cid":"QmX3ETMRooA2YSJoHfVyThTFE1bWiYCA9Gog8dKziRJbu1"
+    "cid":"QmSdiXmb2538xy4jSvy2Uy74AxyZvcra4jXYZWY9UQCQrt"
+  },
+  {
+    "file":"/data/gba/bios/gba.zip",
+    "cid":"QmYtDaErc2RzWBYLmcwfKD81NSVjqBsGD6cJCk3kNzDyuk"
   },
   {
     "file":"/data/config/vectrex.json",
@@ -669,11 +665,15 @@
   },
   {
     "file":"/data/config/segaGG.json",
-    "cid":"QmPfQUHixS1pRoKUDdgawFSMsFKpjt46DFyW9P9fbCVHKF"
+    "cid":"QmZjX8naFHrD16kXasyJBZGwB1xvzjUjN5J9xsqjcgeLpA"
   },
   {
     "file":"/data/config/odyssey2.json",
-    "cid":"QmXmFBV2RdXP2ukA6r1AeuqvTVvHTdYntQF4jtjwUonuvP"
+    "cid":"QmQuJmH6vhymWQp1oWAaPjL9MSx9k2LgVFGLq9iH4rN2EA"
+  },
+  {
+    "file":"/data/odyssey2/bios/odyssey2.zip",
+    "cid":"QmcXRfDzhsEnWnMykpVwQc86kZXKXgbWMKuXf3HNzXnWKN"
   },
   {
     "file":"/data/config/colecovision.json",
@@ -697,19 +697,27 @@
   },
   {
     "file":"/data/config/segaSG.json",
-    "cid":"QmboVi6qLgZ9YSj4CnkPgJg5c6wnS88SCB7wiagSPA7CaR"
+    "cid":"QmXD3EUaQbv7jUMSTaAY7ViCnDAwu53qpFMJeLdvdn6jpb"
   },
   {
     "file":"/data/config/nes.json",
-    "cid":"QmTYx6yK6zB5fpC6Z9xswge42JS8TMzfpad3rXhYNCFYV4"
+    "cid":"Qmb94JynyJ5FfLxfpbhCp4vLxmJWarKbesiNa7M81u8i5w"
+  },
+  {
+    "file":"/data/nes/bios/nes.zip",
+    "cid":"QmPk9EKQ2aRVHJX91PTJfmfBDiHRzeWuZExT36BAk2sNZL"
   },
   {
     "file":"/data/config/segaMS.json",
-    "cid":"QmXzi2gw4oTtFEqBH8JhuLXDVAzKmN3PGfTCDhkWKBaDqQ"
+    "cid":"QmVrZCSBsWdztUtmPrALKZPfTcJk2NUDNszKRqZko4SoH5"
   },
   {
     "file":"/data/config/gb.json",
-    "cid":"QmScD8DusjpqSuCKT42bqe9v1uH5p4xxEYBnAYeMhtrHzA"
+    "cid":"QmZyDRXQdoFg8izaPURzEQ8Zv4trVVk2G5jspCng7ruaVZ"
+  },
+  {
+    "file":"/data/gb/bios/gb.zip",
+    "cid":"QmYXjcLTGdtG9JtDGVg42cWFkW6feYufRPQYGSe6ifESY8"
   },
   {
     "file":"/data/config/arcade.json",
@@ -717,7 +725,11 @@
   },
   {
     "file":"/data/config/snes.json",
-    "cid":"QmW2bp9HCL6ZbheYVwkCbczGwo2jEuuz6VEqMJ72bzzpLN"
+    "cid":"QmRBEQA1KzXnzWCcnGaYNC8YGQ3tfdk4oVR32nNtunaQJX"
+  },
+  {
+    "file":"/data/snes/bios/snes.zip",
+    "cid":"Qme4WxcE38pAZePr3jbHp4h3c9Bu23K7Gt7PNkVHU4x14e"
   },
   {
     "file":"/data/config/atari2600.json",
@@ -725,7 +737,7 @@
   },
   {
     "file":"/data/config/segaMD.json",
-    "cid":"QmSzmETrvkLfFgr3bPbwEm8tBhY6deuzQiUQZmCLdPb93F"
+    "cid":"QmUNbgxrPrT5E8dZ8hzjMSLyRgUY4RDJVSVozwmkNjBsKB"
   },
   {
     "file":"/data/config/msx.json",
@@ -733,7 +745,11 @@
   },
   {
     "file":"/data/config/atari7800.json",
-    "cid":"QmZDZ5ENbes4ATmt4yXyPoTjaKKT1FDyyMUaaeEVuHX3vX"
+    "cid":"QmSLHkLrMNwwDTaz9gTVVWKGQZRwTx2VrzuUVg5dDAxtNe"
+  },
+  {
+    "file":"/data/atari7800/bios/atari7800.zip",
+    "cid":"QmcHsJd8dzc4gKwd3cmibFBAgBw3X7pswzdLsWSBG8Ngs7"
   },
   {
     "file":"/data/config/n64.json",
@@ -772,20 +788,12 @@
     "cid":"QmfCkpZzcRaJYuCxuNBWtjVA28T9M25hNWQeqUQYZbZij9"
   },
   {
-    "file":"/data/gbc/bios/gbc_bios.bin",
-    "cid":"QmNQJie3w8pXAjXWWXRdJrsw8JfF6AZ2UwN4MQtDyPrz6U"
-  },
-  {
     "file":"/data/gbc/corners/default.png",
     "cid":"QmQuTP338HcMh9QLEXDZdVLKbf6YCQV7dmx1UcPsdiL5DX"
   },
   {
     "file":"/data/psx/backgrounds/default.png",
     "cid":"QmXtrPJCdPuBPemYLxC8shQYHNHk59ES26FyGqR12bZiD2"
-  },
-  {
-    "file":"/data/psx/bios/scph5501.bin",
-    "cid":"QmVqWZXiKdhcTFYnwU8iCYnPSBwAijsQx7c2kBDixRv9bL"
   },
   {
     "file":"/data/psx/bios/psx.zip",
@@ -814,10 +822,6 @@
   {
     "file":"/data/segaSaturn/backgrounds/default.png",
     "cid":"QmQg9KY4puPcxj1KpdfV49uq6z8PcEk8Fbq7uTdj8aYQSx"
-  },
-  {
-    "file":"/data/segaSaturn/bios/saturn_bios.bin",
-    "cid":"QmPAPRxLu2vwr1LDX6JFa2kmC1LaufZVV2WF67emaf6hAJ"
   },
   {
     "file":"/data/segaSaturn/corners/default.png",
@@ -868,10 +872,6 @@
     "cid":"QmXxgaCQQ5SonNQJ5ajiNDnk7Zf8CStFL8HRodY9mGRsQJ"
   },
   {
-    "file":"/data/odyssey2/bios/o2rom.bin",
-    "cid":"QmY8LpCqtwRzYBFUrkADcTTwJHwD9Q2oFPakxw1cpS1WJz"
-  },
-  {
     "file":"/data/odyssey2/corners/default.png",
     "cid":"QmXHdF3vrctFfovgndZfLXEKS5sjRTSinjPK7LmJwSM9Y5"
   },
@@ -918,6 +918,26 @@
   {
     "file":"/data/doom/corners/default.png",
     "cid":"QmQuTP338HcMh9QLEXDZdVLKbf6YCQV7dmx1UcPsdiL5DX"
+  },
+  {
+    "file":"/data/segaCD/bios/sega.zip",
+    "cid":"Qmct6NWgAbSvWW9XenBfJ8U15GiwEgDLNFKhCnhL6TFiad"
+  },
+  {
+    "file":"/data/segaGG/bios/sega.zip",
+    "cid":"Qmct6NWgAbSvWW9XenBfJ8U15GiwEgDLNFKhCnhL6TFiad"
+  },
+  {
+    "file":"/data/segaMD/bios/sega.zip",
+    "cid":"Qmct6NWgAbSvWW9XenBfJ8U15GiwEgDLNFKhCnhL6TFiad"
+  },
+  {
+    "file":"/data/segaMS/bios/sega.zip",
+    "cid":"Qmct6NWgAbSvWW9XenBfJ8U15GiwEgDLNFKhCnhL6TFiad"
+  },
+  {
+    "file":"/data/segaSG/bios/sega.zip",
+    "cid":"Qmct6NWgAbSvWW9XenBfJ8U15GiwEgDLNFKhCnhL6TFiad"
   },
   {
     "file":"/data/3do/roms/",

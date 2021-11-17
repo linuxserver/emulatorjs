@@ -209,6 +209,10 @@ async function rendermenu(data, active_item) {
   $('#menu').data('root', root);
   var parent = data.parent;
   var items = data.items;
+  if (Object.keys(items).length == 0) {
+    alert('No items to load, please add some games');
+    return '';
+  };
   for await (var name of Object.keys(items)) {
     var item = data.items[name];
     if ((item.hasOwnProperty('cloneof')) && (items.hasOwnProperty(item.cloneof))) {

@@ -17,6 +17,7 @@ var retroArchCfg = `
 input_menu_toggle_gamepad_combo = 3
 system_directory = /home/web_user/retroarch/system/`
 var retroArchDir = '/home/web_user/retroarch/'
+var Init = { method:'GET',headers:{'Access-Control-Allow-Origin':'*'},mode:'cors'};
 
 // Update loading div
 function setLoader(name) {
@@ -28,8 +29,7 @@ function setLoader(name) {
 };
 
 // File downloads with progress
-async function downloadFile(url) {
-  var Init = { method:'GET',headers:{'Access-Control-Allow-Origin':'*'},mode:'cors'};
+async function downloadFile(url, gameDL) {
   var response = await fetch(url,Init);
   var length = response.headers.get('Content-Length');
   if (!length) {
@@ -48,7 +48,11 @@ async function downloadFile(url) {
     dlProgress = ((at / length).toFixed(2) * 100).toFixed(0);
     $('#progress').text(dlProgress.toString() + '%');
   }
-  return array;
+  try {
+    return array;
+  } finally {
+    array = null;
+  }
 };
 
 // Create IndexDB filestore
@@ -67,13 +71,15 @@ async function setupFileSystem() {
 // Download all needed files and setup base filesystem
 async function setupMounts() {
   setLoader('Frontend');
-  var frontendData = await downloadFile('data/frontend.zip');
+  let frontendData = await downloadFile('data/frontend.zip');
   var mfs = new BrowserFS.FileSystem.MountableFileSystem();
   var memfs = new BrowserFS.FileSystem.InMemory();
   var frontend = new BrowserFS.FileSystem.ZipFS(new Buffer(frontendData));
   console.log('WEBPLAYER: initializing filesystem');
   mfs.mount(retroArchDir + 'userdata', afs);
   mfs.mount(retroArchDir + 'bundle', frontend);
+  frontendData = null;
+  // Multizip support for MAME titles with chd files
   if (EJS_gameUrl.endsWith('.multizip')) {
     setLoader('Game');
     var gameFile = await downloadFile(EJS_gameUrl);
@@ -86,16 +92,18 @@ async function setupMounts() {
   }
   if (EJS_biosUrl) {
     setLoader('Bios');
-    var biosFile = await downloadFile(EJS_biosUrl);
+    let biosFile = await downloadFile(EJS_biosUrl);
     if (EJS_biosUrl.endsWith('.zip')) {
       var biosPackage = new BrowserFS.FileSystem.ZipFS(new Buffer(biosFile));
       mfs.mount(retroArchDir + 'system/', biosPackage);
       BrowserFS.initialize(mfs);
+      biosFile = null;
     } else {
       var bios = EJS_biosUrl.substr(EJS_biosUrl.lastIndexOf('/')+1);
       BrowserFS.initialize(mfs);
       fs.mkdirSync(retroArchDir + 'system');
       fs.appendFileSync(retroArchDir + 'system/' + bios, new Buffer(biosFile));
+      biosFile = null;
     }
   } else {
     BrowserFS.initialize(mfs);
@@ -115,23 +123,53 @@ async function setupMounts() {
 async function downloadGame(dlGame) {
   if (dlGame == true) {
     setLoader('Game');
-    if (rom.split('.').pop() !== 'bin') {
-      var romFile = await downloadFile(EJS_gameUrl);
-      fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(romFile));
-      romFile = null;
-    } else {
+    // If this is a bin file download the cue as well (multi bin not supported)
+    if (rom.split('.').pop() == 'bin') {
       var EJS_gameUrlCue = EJS_gameUrl.split('.').shift() + '.cue';
       var cue = rom.split('.').shift() + '.cue';
       var cueFile = await downloadFile(EJS_gameUrlCue);
-      var romFile = await downloadFile(EJS_gameUrl);
       fs.appendFileSync(retroArchDir + 'roms/' + cue, new Buffer(cueFile));
-      fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(romFile));
-      romFile = null;
+      cueFile = null;
     };
+    var response = await fetch(EJS_gameUrl,Init);
+    var length = response.headers.get('Content-Length');
+    // Xbox edge browser hacky workaround if we have a large file
+    if ((length > 445000000) && (navigator.userAgent.indexOf('Edg') > -1)) {
+      let at = 0;
+      var reader = response.body.getReader();
+      while (true) {
+        let {done, value} = await reader.read();
+        if (done) {
+          break;
+        }
+        fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(value));
+        at += value.length;
+        dlProgress = ((at / length).toFixed(2) * 100).toFixed(0);
+        $('#progress').text(dlProgress.toString() + '%');
+      }
+    } else {
+      var array = new Uint8Array(length);
+      let at = 0;
+      var reader = response.body.getReader();
+      for (;;) {
+        var {done, value} = await reader.read();
+        if (done) {
+          break;
+        }
+        array.set(value, at);
+        at += value.length;
+        dlProgress = ((at / length).toFixed(2) * 100).toFixed(0);
+        $('#progress').text(dlProgress.toString() + '%');
+      }
+      fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(array));
+      array = null;
+    }
   };
   $('#loading').empty();
+  // Call main run of emu
   Module['callMain'](Module['arguments']);
   document.getElementById('canvas').focus();
+  // Run user scipts
   if (EJS_onGameStart) {
     EJS_onGameStart();
   };
