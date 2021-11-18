@@ -9,6 +9,7 @@ if (EJS_gameUrl.endsWith('.multizip')) {
   var rom = rom.split('.').shift() + '.chd'
 }
 // Function vars
+var chunkSize = 10240000;
 var dlProgress = 0;
 var afs;
 BrowserFS.install(window);
@@ -18,6 +19,7 @@ input_menu_toggle_gamepad_combo = 3
 system_directory = /home/web_user/retroarch/system/`
 var retroArchDir = '/home/web_user/retroarch/'
 var Init = { method:'GET',headers:{'Access-Control-Allow-Origin':'*'},mode:'cors'};
+var headerInit = { method:'HEAD',headers:{'Access-Control-Allow-Origin':'*'},mode:'cors'};
 
 // Update loading div
 function setLoader(name) {
@@ -112,9 +114,7 @@ async function setupMounts() {
   FS.mount(BFS, {
     root: '/home'
   }, '/home');
-  if (! fs.existsSync(retroArchDir + 'userdata/retroarch.cfg')) {
-    fs.writeFileSync(retroArchDir + 'userdata/retroarch.cfg', retroArchCfg);
-  };
+  fs.writeFileSync(retroArchDir + 'userdata/retroarch.cfg', retroArchCfg);
   console.log('WEBPLAYER: filesystem initialization successful');
   downloadGame(dlGame);
 }
@@ -131,39 +131,48 @@ async function downloadGame(dlGame) {
       fs.appendFileSync(retroArchDir + 'roms/' + cue, new Buffer(cueFile));
       cueFile = null;
     };
-    var response = await fetch(EJS_gameUrl,Init);
+    var headerInit = { method:'HEAD',headers:{'Access-Control-Allow-Origin':'*'},mode:'cors'};
+    var response = await fetch(EJS_gameUrl, headerInit);
     var length = response.headers.get('Content-Length');
-    // Xbox edge browser hacky workaround if we have a large file
-    if ((length > 445000000) && (navigator.userAgent.indexOf('Edg') > -1)) {
-      let at = 0;
-      var reader = response.body.getReader();
-      while (true) {
-        let {done, value} = await reader.read();
-        if (done) {
-          break;
+    if (length > chunkSize) {
+      let rangeStart = 0;
+      let rangeEnd = chunkSize -1;
+      let chunkCount = Math.ceil(length / chunkSize);
+      let lengthEnd = length -1;
+      for (let i = 0; i < chunkCount; i++) {
+        let chunkInit = { method:'GET',headers:{'Access-Control-Allow-Origin':'*', 'Range': 'bytes=' + rangeStart + '-' + rangeEnd},mode:'cors'};
+        let response = await fetch(EJS_gameUrl, chunkInit);
+        let length = response.headers.get('Content-Length');
+        let array = new Uint8Array(length);
+        let at = 0;
+        let reader = response.body.getReader();
+        for (;;) {
+          var {done, value} = await reader.read();
+          if (done) {
+            break;
+          }
+          array.set(value, at);
+          at += value.length;
+          dlProgress = ((at / length).toFixed(2) * 100).toFixed(0);
+          $('#progress').text((i + 1) + '/' + chunkCount + ' ' + dlProgress.toString() + '%');
         }
-        fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(value));
-        at += value.length;
-        dlProgress = ((at / length).toFixed(2) * 100).toFixed(0);
-        $('#progress').text(dlProgress.toString() + '%');
-      }
+        let fileChunk = new Buffer(array);
+        array = null;
+        fs.appendFileSync(retroArchDir + 'roms/' + rom, fileChunk);
+        fileChunk = null;
+        // Set chunk range for next download
+        rangeStart = rangeEnd + 1;
+        if ((rangeEnd + chunkSize) > lengthEnd) {
+          rangeEnd = lengthEnd;
+        } else {
+          rangeEnd = rangeEnd + chunkSize;
+        };
+      };
     } else {
-      var array = new Uint8Array(length);
-      let at = 0;
-      var reader = response.body.getReader();
-      for (;;) {
-        var {done, value} = await reader.read();
-        if (done) {
-          break;
-        }
-        array.set(value, at);
-        at += value.length;
-        dlProgress = ((at / length).toFixed(2) * 100).toFixed(0);
-        $('#progress').text(dlProgress.toString() + '%');
-      }
-      fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(array));
-      array = null;
-    }
+      var romFile = await downloadFile(EJS_gameUrl);
+      fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(romFile));
+      romFile = null;
+    };
   };
   $('#loading').empty();
   // Call main run of emu
