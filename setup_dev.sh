@@ -33,14 +33,14 @@ tar xf \
 # Libretro emscripten
 mkdir retrotmp
 cd retrotmp
-wget https://buildbot.libretro.com/nightly/emscripten/RetroArch.7z
+wget https://buildbot.libretro.com/stable/1.9.10/emscripten/RetroArch.7z
 7z x RetroArch.7z
 sed -i 's/wasmBinaryFile="/wasmBinaryFile="data\//g' retroarch/*.js
 for emu in $retroarchemus; do
   mv retroarch/${emu}_libretro.* "${rootdir}/frontend/data/"
 done
 cd retroarch/assets/frontend/bundle/
-zip -r frontend.zip  assets/xmb/monochrome assets/ozone shaders filters info autoconfig overlay assets/menu_widgets
+zip -r frontend.zip  assets/xmb/monochrome assets/ozone shaders filters info autoconfig overlay assets/menu_widgets overlays
 mv frontend.zip "${rootdir}/frontend/data/"
 cd "${rootdir}"
 rm -Rf retrotmp
