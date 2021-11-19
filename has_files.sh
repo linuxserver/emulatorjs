@@ -137,7 +137,7 @@ IFS=$'\n'
 mkdir -p "${user_folder}/hashes/${rom_path}"
 for file in $check_files; do
   file_extension="${file##*.}"
-  if [ $rom_type == 'arcade' ] || [ $rom_type == 'segaSaturn' ]; then
+  if [ $rom_type == 'arcade' ] || [ $rom_type == 'segaSaturn' ] && [[ "${file_extension,,}" != @(img|cue|ccd|disk*|sub) ]]; then
     process_name
   elif [ "${file_extension,,}" = 'chd' ] && [ $rom_type == 'pce' ]; then
     process_name 
