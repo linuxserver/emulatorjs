@@ -75,7 +75,6 @@ async function setupMounts() {
   setLoader('Frontend');
   let frontendData = await downloadFile('data/frontend.zip');
   var mfs = new BrowserFS.FileSystem.MountableFileSystem();
-  var memfs = new BrowserFS.FileSystem.InMemory();
   var frontend = new BrowserFS.FileSystem.ZipFS(new Buffer(frontendData));
   console.log('WEBPLAYER: initializing filesystem');
   mfs.mount(retroArchDir + 'userdata', afs);
@@ -89,7 +88,6 @@ async function setupMounts() {
     mfs.mount(retroArchDir + 'roms', gamefs);
     var dlGame = false;
   } else {
-    mfs.mount(retroArchDir + 'roms', memfs);
     var dlGame = true;
   }
   if (EJS_biosUrl) {
@@ -122,6 +120,7 @@ async function setupMounts() {
 // Download assets needed for this game
 async function downloadGame(dlGame) {
   if (dlGame == true) {
+    fs.mkdirSync(retroArchDir + 'roms');
     setLoader('Game');
     // If this is a bin file download the cue as well (multi bin not supported)
     if (rom.split('.').pop() == 'bin') {
@@ -142,20 +141,9 @@ async function downloadGame(dlGame) {
       for (let i = 0; i < chunkCount; i++) {
         let chunkInit = { method:'GET',headers:{'Access-Control-Allow-Origin':'*', 'Range': 'bytes=' + rangeStart + '-' + rangeEnd},mode:'cors'};
         let response = await fetch(EJS_gameUrl, chunkInit);
-        let length = response.headers.get('Content-Length');
-        let array = new Uint8Array(length);
         let at = 0;
-        let reader = response.body.getReader();
-        for (;;) {
-          var {done, value} = await reader.read();
-          if (done) {
-            break;
-          }
-          array.set(value, at);
-          at += value.length;
-          dlProgress = ((at / length).toFixed(2) * 100).toFixed(0);
-          $('#progress').text((i + 1) + '/' + chunkCount + ' ' + dlProgress.toString() + '%');
-        }
+        let array = await response.arrayBuffer();
+        $('#progress').text((i + 1) + '/' + chunkCount);
         let fileChunk = new Buffer(array);
         array = null;
         fs.appendFileSync(retroArchDir + 'roms/' + rom, fileChunk);
