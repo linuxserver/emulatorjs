@@ -112,7 +112,9 @@ async function setupMounts() {
   FS.mount(BFS, {
     root: '/home'
   }, '/home');
-  fs.writeFileSync(retroArchDir + 'userdata/retroarch.cfg', retroArchCfg);
+  if (! fs.existsSync(retroArchDir + 'userdata/retroarch.cfg')) {
+    fs.writeFileSync(retroArchDir + 'userdata/retroarch.cfg', retroArchCfg);
+  };
   console.log('WEBPLAYER: filesystem initialization successful');
   downloadGame(dlGame);
 }
