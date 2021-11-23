@@ -41,13 +41,14 @@
         </ol>
         <p>From there you can hop into the frontend interface (default port 80) to browse and play your collection.</p>
         <p>In general this application is referencing metadata based on commonly used identifying metrics for rom files, mostly these revolve around checksums (specifically sha1) of the rom files themselves. This metadata is compiled from lists on no-intro.org for roms and redump.org for CD based games. Now no system is perfect, but the aim is to have community participation expand these lists with the data from their own rom sets. After scanning in your roms you may notice that many of them are un-identified using this metadata, if you took the time to link them to the correct reference information please consider providing your resulting reference data to Github <a href="https://github.com/linuxserver/emulatorjs">Here</a>.</p>
-        <h2>Multi Disk PSX</h2>
-        <p>The only web emulator that supports multiple CD games is psx, in order to function please rename your chd files before scanning them in to the same name with the extension .disk1,.disk2,.disk3,etc. IE:</p>
+        <h2>Multi Disk Games</h2>
+        <p>The only web emulators that supports multiple CD games are psx and saturn, in order to function please rename your chd files before scanning them in to the same name with the extension .disk1,.disk2,.disk3,etc. IE:</p>
         <ul>
           <li>/data/psx/roms/GAMENAME.disk1</li>
           <li>/data/psx/roms/GAMENAME.disk2</li>
           <li>/data/psx/roms/GAMENAME.disk3</li>
         </ul>
+	<p>In general saturn emulation is not functional, it is extremely slow as is and many games will not load properly. Some are kind of playable on Xbox, hopefully this improves over time</p>
 	<h2>MAME roms with chds</h2>
 	<p>The web based arcade emulator is MAME 2003-Plus, in general most games will work if you use full non-merged roms. Some games require additional chd files though. In order to get these to load with the web frontend we have a custom file format that can be loaded by the extension ".multizip". To create this file simply zip the rom zip and the chd file (no folders) into a single file. IE if you had the file kinst.zip and the folder kinst/kinst.chd simply move the kinst.zip file into the kinst folder and create the archive using <b>zip kinst.multizip kinst.zip kinst.chd</b> then move the resulting file to your roms directory. This multizip file will be unpacked before the emulator is loaded into the directory it is looking for the files.</p>
         <h2>Expanding on identification</h2>
