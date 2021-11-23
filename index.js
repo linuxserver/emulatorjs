@@ -30,12 +30,36 @@ var metaVariables = [
   ['corner', 'corners', '.png']
 ];
 var emus = [
-  '3do', 'arcade', 'atari2600', 'atari7800', 'colecovision',
-  'doom', 'gb', 'gba', 'gbc', 'jaguar', 'lynx',
-  'msx', 'n64', 'nds', 'nes', 'ngp', 'odyssey2',
-  'pce', 'psx', 'sega32x', 'segaCD',
-  'segaGG', 'segaMD', 'segaMS', 'segaSG',
-  'segaSaturn', 'snes', 'vb', 'vectrex', 'ws'
+  {'name': '3do', 'video_position': 'left:11.5vw;top:30vh;width:36.3vw;height:45.5vh;'},
+  {'name': 'arcade', 'video_position': 'left:10.3vw;top:30.5vh;width:36.5vw;height:48vh;'},
+  {'name': 'atari2600', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
+  {'name': 'atari7800', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
+  {'name': 'colecovision', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
+  {'name': 'doom', 'video_position': 'left:11.5vw;top:30vh;width:36.3vw;height:45.5vh;'},
+  {'name': 'gb', 'video_position': 'left:14.5vw;top:31vh;width:26vw;height:43.5vh;'},
+  {'name': 'gba', 'video_position': 'left:13.5vw;top:36vh;width:31.7vw;height:38.3vh;'},
+  {'name': 'gbc', 'video_position': 'left:15.5vw;top:31.2vh;width:28vw;height:44.7vh;'},
+  {'name': 'jaguar', 'video_position': 'left:11.5vw;top:30vh;width:36.3vw;height:45.5vh;'},
+  {'name': 'lynx', 'video_position': 'left:11vw;top:31vh;width:36vw;height:44vh;'},
+  {'name': 'msx', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
+  {'name': 'n64', 'video_position': 'left:11.5vw;top:30vh;width:36.3vw;height:45.5vh;'},
+  {'name': 'nds', 'video_position': 'left:11.5vw;top:30vh;width:35vw;height:46vh;'},
+  {'name': 'nes', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
+  {'name': 'ngp', 'video_position': 'left:15vw;top:34vh;width:25vw;height:40vh;'},
+  {'name': 'odyssey2', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
+  {'name': 'pce', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
+  {'name': 'psx', 'video_position': 'left:11.5vw;top:30vh;width:36.3vw;height:45.5vh;'},
+  {'name': 'sega32x', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
+  {'name': 'segaCD', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
+  {'name': 'segaGG', 'video_position': 'left:12.3vw;top:31.5vh;width:33.4vw;height:43.3vh;'},
+  {'name': 'segaMD', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
+  {'name': 'segaMS', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
+  {'name': 'segaSaturn', 'video_position': 'left:11.5vw;top:30vh;width:36.3vw;height:45.5vh;'},
+  {'name': 'segaSG', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
+  {'name': 'snes', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
+  {'name': 'vb', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
+  {'name': 'vectrex', 'video_position': 'left:18vw;top:30vh;width:22vw;height:46vh;'},
+  {'name': 'ws', 'video_position': 'left:11.5vw;top:31vh;width:35vw;height:43vh;'}
 ];
 
 //// Http server ////
@@ -71,16 +95,16 @@ io.on('connection', async function (socket) {
     for await (var emu of emus) {
       var romCount = 0;
       var hashCount = 0;
-      var romPath = dataRoot + emu + '/roms/';
-      if (fs.existsSync(hashPath + emu)) {
-        var hashes = await fsw.readdir(hashPath + emu + '/roms/');
+      var romPath = dataRoot + emu.name + '/roms/';
+      if (fs.existsSync(hashPath + emu.name)) {
+        var hashes = await fsw.readdir(hashPath + emu.name + '/roms/');
         var hashCount = hashes.length;
       };
       if (fs.existsSync(romPath)) {
         var roms = await fsw.readdir(romPath);
         var romCount = roms.length;
       };
-      romData[emu] = {'roms': romCount,'hashes': hashCount};
+      romData[emu.name] = {'roms': romCount,'hashes': hashCount};
     };
     // Grab default files data
     var defaultFiles = await fsw.readFile('./metadata/default_files.json', 'utf8');
@@ -206,12 +230,12 @@ io.on('connection', async function (socket) {
       }
     };
     for await (var dir of emus) {
-      var path = dataRoot + 'hashes/' + dir + '/roms/';
+      var path = dataRoot + 'hashes/' + dir.name + '/roms/';
       if (fs.existsSync(path)) {
         var roms = await fsw.readdir(path);
         if (roms.length > 0) {
-          socket.emit('modaldata', 'Processing Config for ' + dir);
-          await addToConfig(dir, true);
+          socket.emit('modaldata', 'Processing Config for ' + dir.name);
+          await addToConfig(dir.name, true);
         };
       };
     };
@@ -237,10 +261,12 @@ io.on('connection', async function (socket) {
   };
   // Add roms to config file
   async function addToConfig(dir, render) {
+    // For arcade roms we need clone info
     if (dir == 'arcade') { 
       var metaData = await fsw.readFile('./metadata/' + dir + '.json', 'utf8');
       var metaData = JSON.parse(metaData);
     };
+    // Update config file with current rom files
     var configFile = configPath + dir + '.json';
     var shaPath = hashPath + dir + '/roms/';
     var files = await fsw.readdir(shaPath);
@@ -304,6 +330,28 @@ io.on('connection', async function (socket) {
     };
     var configContents = JSON.stringify(config, null, 2);
     await fsw.writeFile(configFile, configContents);
+    // Update main to include stuff with roms
+    var mainFile = configPath + 'main.json';
+    var main = await fsw.readFile(mainFile, 'utf8');
+    var main = JSON.parse(main);
+    main.items = {};
+    for await (var emu of emus) {
+      var emuPath = dataRoot + 'hashes/' + emu.name + '/roms/';
+      if (fs.existsSync(emuPath)) {
+        var roms = await fsw.readdir(emuPath);
+        if (roms.length > 0) {
+          main.items[emu.name] = {'video_position': emu.video_position};
+        };
+      };
+    };
+    if (Object.keys(main.items).length < 9) {
+      main.display_items = Object.keys(main.items).length;
+    } else {
+      main.display_items = 9;
+    };
+    var mainContents = JSON.stringify(main, null, 2);
+    await fsw.writeFile(mainFile, mainContents);
+    // Render page for user if needed
     if (render) {
       return '';
     } else {
