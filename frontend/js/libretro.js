@@ -85,7 +85,7 @@ async function setupMounts() {
     setLoader('Game');
     var gameFile = await downloadFile(EJS_gameUrl);
     var gamefs = new BrowserFS.FileSystem.ZipFS(new Buffer(gameFile));
-    mfs.mount(retroArchDir + 'roms', gamefs);
+    mfs.mount(retroArchDir + EJS_core, gamefs);
     var dlGame = false;
   } else {
     var dlGame = true;
@@ -122,14 +122,14 @@ async function setupMounts() {
 // Download assets needed for this game
 async function downloadGame(dlGame) {
   if (dlGame == true) {
-    fs.mkdirSync(retroArchDir + 'roms');
+    fs.mkdirSync(retroArchDir + EJS_core);
     setLoader('Game');
     // If this is a bin file download the cue as well (multi bin not supported)
     if (rom.split('.').pop() == 'bin') {
       var EJS_gameUrlCue = EJS_gameUrl.split('.').shift() + '.cue';
       var cue = rom.split('.').shift() + '.cue';
       var cueFile = await downloadFile(EJS_gameUrlCue);
-      fs.appendFileSync(retroArchDir + 'roms/' + cue, new Buffer(cueFile));
+      fs.appendFileSync(retroArchDir + EJS_core + '/' + cue, new Buffer(cueFile));
       cueFile = null;
     };
     var headerInit = { method:'HEAD',headers:{'Access-Control-Allow-Origin':'*'},mode:'cors'};
@@ -148,7 +148,7 @@ async function downloadGame(dlGame) {
         $('#progress').text((i + 1) + '/' + chunkCount);
         let fileChunk = new Buffer(array);
         array = null;
-        fs.appendFileSync(retroArchDir + 'roms/' + rom, fileChunk);
+        fs.appendFileSync(retroArchDir + EJS_core + '/' + rom, fileChunk);
         fileChunk = null;
         // Set chunk range for next download
         rangeStart = rangeEnd + 1;
@@ -160,7 +160,7 @@ async function downloadGame(dlGame) {
       };
     } else {
       var romFile = await downloadFile(EJS_gameUrl);
-      fs.appendFileSync(retroArchDir + 'roms/' + rom, new Buffer(romFile));
+      fs.appendFileSync(retroArchDir + EJS_core + '/' + rom, new Buffer(romFile));
       romFile = null;
     };
   };
@@ -189,7 +189,7 @@ async function run() {
   // Retroarch run logic
   Module = {
     noInitialRun: true,
-    arguments: ['-v', retroArchDir + 'roms/' + rom],
+    arguments: ['-v', retroArchDir + EJS_core + '/' + rom],
     preRun: [],
     postRun: [],
     print: function(text) {
