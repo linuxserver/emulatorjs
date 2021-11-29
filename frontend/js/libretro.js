@@ -11,9 +11,8 @@ if (EJS_gameUrl.endsWith('.multizip')) {
 // Function vars
 var chunkSize = 10240000;
 var dlProgress = 0;
+var Buffer = BrowserFS.BFSRequire('buffer').Buffer;
 var afs;
-BrowserFS.install(window);
-var fs = require('fs');
 var retroArchCfg = `
 input_menu_toggle_gamepad_combo = 3
 system_directory = /home/web_user/retroarch/system/`
@@ -90,21 +89,14 @@ async function setupMounts() {
   } else {
     var dlGame = true;
   }
-  if (EJS_biosUrl) {
+  // Zipped bios payload
+  if ((EJS_biosUrl) && (EJS_biosUrl.endsWith('.zip'))) {
     setLoader('Bios');
     let biosFile = await downloadFile(EJS_biosUrl);
-    if (EJS_biosUrl.endsWith('.zip')) {
-      var biosPackage = new BrowserFS.FileSystem.ZipFS(new Buffer(biosFile));
-      mfs.mount(retroArchDir + 'system/', biosPackage);
-      BrowserFS.initialize(mfs);
-      biosFile = null;
-    } else {
-      var bios = EJS_biosUrl.substr(EJS_biosUrl.lastIndexOf('/')+1);
-      BrowserFS.initialize(mfs);
-      fs.mkdirSync(retroArchDir + 'system');
-      fs.appendFileSync(retroArchDir + 'system/' + bios, new Buffer(biosFile));
-      biosFile = null;
-    }
+    var biosPackage = new BrowserFS.FileSystem.ZipFS(new Buffer(biosFile));
+    mfs.mount(retroArchDir + 'system/', biosPackage);
+    BrowserFS.initialize(mfs);
+    biosFile = null;
   } else {
     BrowserFS.initialize(mfs);
   };
@@ -112,8 +104,18 @@ async function setupMounts() {
   FS.mount(BFS, {
     root: '/home'
   }, '/home');
-  if (! fs.existsSync(retroArchDir + 'userdata/retroarch.cfg')) {
-    fs.writeFileSync(retroArchDir + 'userdata/retroarch.cfg', retroArchCfg);
+  // Download bios file if needed
+  if ((EJS_biosUrl) && (! EJS_biosUrl.endsWith('.zip'))) {
+    setLoader('Bios');
+    let bios = EJS_biosUrl.substr(EJS_biosUrl.lastIndexOf('/')+1);
+    let biosFile = await downloadFile(EJS_biosUrl);
+    FS.mkdir(retroArchDir + 'system');
+    FS.writeFile(retroArchDir + 'system/' + bios, biosFile);
+    biosFile = null;
+  };
+  // Make default config if it does not exist
+  if (! FS.analyzePath(retroArchDir + 'userdata/retroarch.cfg').exists) {
+    FS.writeFile(retroArchDir + 'userdata/retroarch.cfg', retroArchCfg);
   };
   console.log('WEBPLAYER: filesystem initialization successful');
   downloadGame(dlGame);
@@ -122,14 +124,14 @@ async function setupMounts() {
 // Download assets needed for this game
 async function downloadGame(dlGame) {
   if (dlGame == true) {
-    fs.mkdirSync(retroArchDir + EJS_core);
+    FS.mkdir(retroArchDir + EJS_core);
     setLoader('Game');
     // If this is a bin file download the cue as well (multi bin not supported)
     if (rom.split('.').pop() == 'bin') {
       var EJS_gameUrlCue = EJS_gameUrl.split('.').shift() + '.cue';
       var cue = rom.split('.').shift() + '.cue';
       var cueFile = await downloadFile(EJS_gameUrlCue);
-      fs.appendFileSync(retroArchDir + EJS_core + '/' + cue, new Buffer(cueFile));
+      FS.writeFile(retroArchDir + EJS_core + '/' + cue, cueFile);
       cueFile = null;
     };
     var headerInit = { method:'HEAD',headers:{'Access-Control-Allow-Origin':'*'},mode:'cors'};
@@ -146,10 +148,12 @@ async function downloadGame(dlGame) {
         let at = 0;
         let array = await response.arrayBuffer();
         $('#progress').text((i + 1) + '/' + chunkCount);
-        let fileChunk = new Buffer(array);
+        let fileChunk = new Uint8Array(array);
         array = null;
-        fs.appendFileSync(retroArchDir + EJS_core + '/' + rom, fileChunk);
+        let stream = FS.open(retroArchDir + EJS_core + '/' + rom, 'a');
+        FS.write(stream, fileChunk, 0, fileChunk.length, rangeStart);
         fileChunk = null;
+        FS.close(stream);
         // Set chunk range for next download
         rangeStart = rangeEnd + 1;
         if ((rangeEnd + chunkSize) > lengthEnd) {
@@ -160,7 +164,7 @@ async function downloadGame(dlGame) {
       };
     } else {
       var romFile = await downloadFile(EJS_gameUrl);
-      fs.appendFileSync(retroArchDir + EJS_core + '/' + rom, new Buffer(romFile));
+      FS.writeFile(retroArchDir + EJS_core + '/' + rom, romFile);
       romFile = null;
     };
   };
