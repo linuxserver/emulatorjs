@@ -125,7 +125,7 @@ function launch(active_item) {
       config.items['Disc ' + count.toString()].has_video = false;
       config.items['Disc ' + count.toString()].multi_disc = 0;
     };
-    rendermenu(config, 0);
+    rendermenu([config, 0]);
   } else if (type == 'game') {
     // Disable keyevents and hash watching
     window.exit = false;
@@ -201,7 +201,9 @@ function launch(active_item) {
 }
 
 //// Page rendering logic ////
-async function rendermenu(data, active_item) {
+async function rendermenu(datas) {
+  var data = datas[0];
+  var active_item = datas[1];
   // Set default variables
   var portrait = window.orientation;
   $('#menu').data('config', data);
@@ -410,13 +412,11 @@ async function rendermenu(data, active_item) {
 };
 
 // Load the json profile selected
-function loadjson(name, active) {
-  var url = 'user/config/' + name + '.json';
-  fetch(url,Init)
-  .then((resp) => resp.json())
-  .then((data) => {
-    rendermenu(data, active)
-  });
+async function loadjson(name, active_item) {
+  let url = 'user/config/' + name + '.json';
+  let response = await fetch(url,Init);
+  let data = await response.json();
+  rendermenu([data, active_item]);
 }
 
 window.onload = function() {
@@ -425,8 +425,8 @@ window.onload = function() {
   } else {
     var hash = window.location.hash.replace('#','');
     var name = hash.split('---')[0];
-    var active = hash.split('---')[1];
-    loadjson(name, active);
+    let active_item = hash.split('---')[1];
+    loadjson(name, active_item);
   }
   $(window).on('hashchange', function() {
     window.location.reload();
