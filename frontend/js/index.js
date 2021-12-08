@@ -308,10 +308,14 @@ async function rendermenu(datas) {
   $('.menu-img').css({'max-height': image_height});
   highlight(active_item);
   // Move items up
-  function moveUp() {
+  function moveUp(num) {
     $('#bgvid').prop('muted', false);
     $('#bgvid').prop('volume', 0.5);
-    active_item--
+    if (typeof num == 'number') {
+      active_item = (active_item - num);
+    } else {
+      active_item--
+    }
     if (active_item < 0) {
       active_item = items_length;
     }
@@ -325,10 +329,14 @@ async function rendermenu(datas) {
     highlight(active_item);
   };
   // Move items down
-  function moveDown() {
+  function moveDown(num) {
     $('#bgvid').prop('muted', false);
     $('#bgvid').prop('volume', 0.5);
-    active_item++
+    if (typeof num == 'number') {
+      active_item = (active_item + num);
+    } else {
+      active_item++
+    }
     if (active_item > items_length) {
       active_item = 0;
     }
@@ -365,9 +373,9 @@ async function rendermenu(datas) {
     var scrolling = setInterval(() => {
       if (window.scrollKill == false) {
         if (ev.additionalEvent == 'panup') {
-          moveDown();
+          moveDown(5);
 	} else if (ev.additionalEvent == 'pandown') {
-          moveUp();
+          moveUp(5);
 	} else {
           clearInterval(scrolling);
         };
@@ -382,7 +390,7 @@ async function rendermenu(datas) {
   };
   var mc = new Hammer(document.getElementById('menu'));
   mc.get('swipe').set({ direction: Hammer.DIRECTION_ALL });
-  mc.get('pan').set({ direction: Hammer.DIRECTION_ALL, threshold: 250 });
+  mc.get('pan').set({ direction: Hammer.DIRECTION_ALL, threshold: 180 });
   mc.on("swipeup", moveDown);
   mc.on("swipedown", moveUp);
   mc.on("panstart", scroll);
@@ -395,17 +403,17 @@ async function rendermenu(datas) {
   //// Mouse Scrolling ////
   $('#menu').bind('DOMMouseScroll', function(e){
     if(e.originalEvent.detail > 0) {
-      moveDown();
+      moveDown(10);
     } else {
-      moveUp();
+      moveUp(10);
     };
     return false;
   });
   $('#menu').bind('mousewheel', function(e){
     if(e.originalEvent.wheelDelta < 0) {
-      moveDown();
+      moveDown(10);
     } else {
-      moveUp();
+      moveUp(10);
     };
     return false;
   });
