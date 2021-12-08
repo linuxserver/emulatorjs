@@ -350,15 +350,27 @@ async function rendermenu(datas) {
     highlight(active_item);
   };
   // Capture key events for menu navigation
+  let upPressed = false;
+  let downPressed = false;
   $(document).keydown(function(event) {
+    // Scroll on keypress
     if (event.key == 'ArrowDown') {
+      downPressed = true;
       moveDown();
     }
     if (event.key == 'ArrowUp') {
+      upPressed = true;
       moveUp();
     }
+    // Scroll faster with diagnols
+    if ((event.key == 'ArrowRight') && ((upPressed == false) && (downPressed == true))) {
+      moveDown(10);
+    }
+    if ((event.key == 'ArrowRight') && ((upPressed == true) && (downPressed == false))) {
+      moveUp(10);
+    }
     // Load item
-    if ((event.key == 'ArrowRight') || (event.key == 'Enter')) {
+    if (((event.key == 'ArrowRight') || (event.key == 'Enter')) && ((upPressed == false) && (downPressed == false))) {
       $('#i' + active_item).click();
     }
     // Go to Parent
@@ -366,8 +378,17 @@ async function rendermenu(datas) {
       window.location.href = '#' + parent;
     }
   });
+  // Remove events for multi key presses
+  $(document).keyup(function(event) {
+    if (event.key == 'ArrowDown') {
+      downPressed = false;
+    }
+    if (event.key == 'ArrowUp') {
+      upPressed = false;
+    }
+  });
   //// Touch controls ////
-  // Scroll up wheel
+  // Scroll wheel
   async function scroll(ev) {
     window.scrollKill = false;
     var scrolling = setInterval(() => {
