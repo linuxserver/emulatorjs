@@ -1,5 +1,6 @@
 #! /bin/bash
 set -e
+set -o pipefail
 rom_path=$1
 rom_type=$2
 # Set user folder
@@ -66,7 +67,7 @@ process_nes () {
     file_to_sha="${user_folder}/${rom_path}/${file}"
   fi
   echo "hashing ${file}"
-  sum=$(NES20Tool -operation rominfo -rom-file ${file_to_sha} |awk '/ROM SHA1/ {print $3;exit}')
+  sum=$(NES20Tool -operation rominfo -rom-file ${file_to_sha} |awk '/ROM SHA1/ {print $3;exit}' || sha1sum ${file_to_sha} | awk '{print $1;exit}')
   wait
   printf ${sum^^} > "${user_folder}/hashes/${rom_path}/${file}.sha1"
   if [ -d "${user_folder}/hashes/${rom_path}/tmp" ]; then
