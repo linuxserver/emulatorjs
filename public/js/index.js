@@ -180,6 +180,13 @@ function addToConfig(name) {
   socket.emit('addtoconfig', name);
 };
 
+// Remove roms with no art from config
+function purgeNoArt(name) {
+  $('#main').empty();
+  $('#main').append('<div class="loader"></div>');
+  socket.emit('purgenoart', name);
+};
+
 // Download art for all identified roms
 function downloadArt(name) {
   $('#main').empty();
@@ -243,6 +250,9 @@ async function renderRom(data) {
   var configButton = $('<button>').addClass('button hover').attr('onclick', 'addToConfig(\'' + folderName + '\');').text('Add All Roms to Config');
   $('#side').append($('<p>').text('Step 2:'));
   $('#side').append(configButton);
+  $('#side').append($('<p>').text('Optional:'));
+  var noArtButton = $('<button>').addClass('button hover').attr('onclick', 'purgeNoArt(\'' + folderName + '\');').text('Remove Roms with No Art');
+  $('#side').append(noArtButton);
   // Render items
   for await (var idItem of Object.keys(data[0])) {
     if (data[0][idItem].has_art == true) {

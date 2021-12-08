@@ -358,6 +358,24 @@ io.on('connection', async function (socket) {
       renderRoms();
     };
   };
+
+  // Remove config items without art
+  async function purgeNoArt(dir) {
+    var configFile = configPath + dir + '.json';
+    var config = await fsw.readFile(configFile, 'utf8');
+    var config = JSON.parse(config);
+    for await (let item of Object.keys(config.items)) {
+      if ((config.items[item].hasOwnProperty('has_logo')) || (config.items[item].hasOwnProperty('has_video'))) {
+        if ((config.items[item].has_logo == false) || (config.items[item].has_video == false)) {
+          delete config.items[item];
+        }
+      }
+    }
+    var configContents = JSON.stringify(config, null, 2);
+    await fsw.writeFile(configFile, configContents);
+    renderRoms();
+  }
+
   // Download art assets from IPFS
   async function downloadArt(dir) {
     var metaData = await fsw.readFile('./metadata/' + dir + '.json', 'utf8');
@@ -392,6 +410,7 @@ io.on('connection', async function (socket) {
     socket.emit('modaldata', 'Downloaded All Files');
     getRoms(dir);
   };
+
   // Set user linked metadata
   async function userMeta(data) {
     await fsw.mkdir(dataRoot + 'metadata', { recursive: true })
@@ -459,6 +478,7 @@ io.on('connection', async function (socket) {
   socket.on('dldefaultfiles', dlDefaultFiles);
   socket.on('scanroms', scanRoms);
   socket.on('addtoconfig', addToConfig);
+  socket.on('purgenoart', purgeNoArt);
   socket.on('downloadart', downloadArt);
   socket.on('usermeta', userMeta);
   socket.on('renderfiles', renderFiles);
