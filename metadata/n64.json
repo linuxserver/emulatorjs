@@ -1,9 +1,11 @@
 {
   "376042DDEDFD4F738786500531D67D5C299577BE": {
-    "name": "007 - The World Is Not Enough (USA) (v2) (Beta)"
+    "name": "007 - The World Is Not Enough (USA) (v2) (Beta)",
+    "ref": "D347159808F0374A93CF44CFB6135D8F56279F7B"
   },
   "7FDE668850A7E1A8402AB94BB09538A537A7E38B": {
-    "name": "007 - The World Is Not Enough (Europe) (En,Fr,De)"
+    "name": "007 - The World Is Not Enough (Europe) (En,Fr,De)",
+    "ref": "D347159808F0374A93CF44CFB6135D8F56279F7B"
   },
   "D347159808F0374A93CF44CFB6135D8F56279F7B": {
     "name": "007 - The World Is Not Enough (USA)",
@@ -11,7 +13,8 @@
     "logo": "QmWzFwdYLCN6BTnRDPJ9obYtPZD9MoeBo8qP2ojHG815Dr"
   },
   "53C6DE60383517F38D27E449D47BCED319F8E87A": {
-    "name": "007 - The World Is Not Enough (USA) (v21) (Beta)"
+    "name": "007 - The World Is Not Enough (USA) (v21) (Beta)",
+    "ref": "D347159808F0374A93CF44CFB6135D8F56279F7B"
   },
   "637D92B08DBFE7C2F9D5E338835B1FCE5F4A87D0": {
     "name": "1080 Snowboarding (Europe) (En,Ja,Fr,De)",
@@ -19,7 +22,8 @@
     "logo": "QmbNXfAAEqpEHozLgqmDhNaXJpnH3DcLu83V3JWzN6ynZa"
   },
   "79CD1166C365E5809DEC9B62E6D40D6032D5DB3A": {
-    "name": "1080 Snowboarding (Japan, USA) (En,Ja)"
+    "name": "1080 Snowboarding (Japan, USA) (En,Ja)",
+    "ref": "637D92B08DBFE7C2F9D5E338835B1FCE5F4A87D0"
   },
   "3774E87AA383220060D330314F2C5BBB872F72CE": {
     "name": "40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)"
@@ -49,7 +53,8 @@
     "name": "Action Replay Pro 64 (Europe) (v3.3) (Unl)"
   },
   "F1057A278A06DCFBC7EB8B6B7679AB879255F977": {
-    "name": "AeroFighters Assault (Europe) (En,Fr,De)"
+    "name": "AeroFighters Assault (Europe) (En,Fr,De)",
+    "ref": "6742F67D7D2639072E186D240237BE1C662CB25A"
   },
   "6742F67D7D2639072E186D240237BE1C662CB25A": {
     "name": "AeroFighters Assault (USA)",
@@ -57,13 +62,16 @@
     "logo": "QmQbPmB4ZFLV5AMExvc9cGnqyUVUVTiECzbAxqSBcrgM4F"
   },
   "38AADD684AD7662B02BBC29EDDDADE9C9E16A3C0": {
-    "name": "AeroGauge (Europe) (En,Fr,De)"
+    "name": "AeroGauge (Europe) (En,Fr,De)",
+    "ref": "77626171C35FB1A4DFEBB0927280897F362225ED"
   },
   "0253C33355986DDDA18A7A72B81B91DDC1BED978": {
-    "name": "AeroGauge (Japan) (Demo) (Kiosk)"
+    "name": "AeroGauge (Japan) (Demo) (Kiosk)",
+    "ref": "77626171C35FB1A4DFEBB0927280897F362225ED"
   },
   "F7C2D4B0E77CC02DEAFE2E5FD95152B7E8BF86CF": {
-    "name": "AeroGauge (Japan) (Rev 1)"
+    "name": "AeroGauge (Japan) (Rev 1)",
+    "ref": "77626171C35FB1A4DFEBB0927280897F362225ED"
   },
   "77626171C35FB1A4DFEBB0927280897F362225ED": {
     "name": "AeroGauge (USA)",
@@ -74,7 +82,8 @@
     "name": "AI Shougi 3 (Japan)"
   },
   "E3A1E26F4C10A6767612D1A8462689E86D09DC0B": {
-    "name": "Aidyn Chronicles - The First Mage (Europe)"
+    "name": "Aidyn Chronicles - The First Mage (Europe)",
+    "ref": "47AE795A2B12783A13E2B8D03439CE9A39FC826C"
   },
   "47AE795A2B12783A13E2B8D03439CE9A39FC826C": {
     "name": "Aidyn Chronicles - The First Mage (USA)",
@@ -82,13 +91,16 @@
     "logo": "QmX5rTNJTsbS6YNdqP5F9Rcdq9CNCjdXir8FoT5t3sc1vB"
   },
   "F80E135E7E962308F51BB9F7600B25213549C688": {
-    "name": "Aidyn Chronicles - The First Mage (USA) (Rev 1)"
+    "name": "Aidyn Chronicles - The First Mage (USA) (Rev 1)",
+    "ref": "47AE795A2B12783A13E2B8D03439CE9A39FC826C"
   },
   "D741CEAC3CF6B14AB16A1F8D4F1BF9858BBF6C3D": {
-    "name": "Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09)"
+    "name": "Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09)",
+    "ref": "47AE795A2B12783A13E2B8D03439CE9A39FC826C"
   },
   "6E8E1D2A40076B8503A433947658456EF5B833B9": {
-    "name": "Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10)"
+    "name": "Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10)",
+    "ref": "47AE795A2B12783A13E2B8D03439CE9A39FC826C"
   },
   "4A70C9CA027ECC8D05337993204E1EF76F5F0AC9": {
     "name": "Air Boarder 64 (Japan)"
@@ -122,7 +134,8 @@
     "name": "All-Star Baseball 2001 (USA)"
   },
   "3AC0D13F2260797DABF99CFEDABF7E3676C5B2E2": {
-    "name": "All-Star Baseball 99 (Europe)"
+    "name": "All-Star Baseball 99 (Europe)",
+    "ref": "AA576624F2A66034CB0D6E621BA16A0D3BEACA3A"
   },
   "AA576624F2A66034CB0D6E621BA16A0D3BEACA3A": {
     "name": "All-Star Baseball 99 (USA)",
@@ -130,10 +143,12 @@
     "logo": "QmVwUzCNQe1q99137vwNCs57VdFu55JHns8ZgtRG8e9R7d"
   },
   "66F2B431D2275B2563692BFD053D4C0118E0E0C2": {
-    "name": "Armorines - Project S.W.A.R.M. (Europe)"
+    "name": "Armorines - Project S.W.A.R.M. (Europe)",
+    "ref": "D9F55ACF77A54EEB7F62577AA5711769EBEADDE3"
   },
   "68F9DDA2863F7625A36F115419956DD9F249AFE6": {
-    "name": "Armorines - Project S.W.A.R.M. (Germany)"
+    "name": "Armorines - Project S.W.A.R.M. (Germany)",
+    "ref": "D9F55ACF77A54EEB7F62577AA5711769EBEADDE3"
   },
   "D9F55ACF77A54EEB7F62577AA5711769EBEADDE3": {
     "name": "Armorines - Project S.W.A.R.M. (USA)",
@@ -146,7 +161,8 @@
     "logo": "QmYtU9NfkfgYtswAdeWusnVSkvZQgDS3NjxHVLricwv9EN"
   },
   "00E594FA64DA61C2AD3138A31A22B9854BB3FAFA": {
-    "name": "Army Men - Sarge's Heroes (Europe) (En,Fr,De)"
+    "name": "Army Men - Sarge's Heroes (Europe) (En,Fr,De)",
+    "ref": "1824380911579424E50042D45AEF4851F7AB25A7"
   },
   "1824380911579424E50042D45AEF4851F7AB25A7": {
     "name": "Army Men - Sarge's Heroes (USA)",
@@ -164,7 +180,8 @@
     "logo": "QmQrPPnFdwwpyuURADmnNT9kTbsiVgtouAW4VAAN1rhtXd"
   },
   "513C9511539BF2361FF20EE1F19DC03F618B5214": {
-    "name": "Automobili Lamborghini (Europe)"
+    "name": "Automobili Lamborghini (Europe)",
+    "ref": "78B36B48040426478011CAEF5E11884AF2E80375"
   },
   "78B36B48040426478011CAEF5E11884AF2E80375": {
     "name": "Automobili Lamborghini (USA)",
@@ -190,10 +207,12 @@
     "name": "Banjo to Kazooie no Daibouken 2 (Japan)"
   },
   "BB359A75941DF74BF7290212C89FBC6E2C5601FE": {
-    "name": "Banjo-Kazooie (Europe) (En,Fr,De)"
+    "name": "Banjo-Kazooie (Europe) (En,Fr,De)",
+    "ref": "DED6EE166E740AD1BC810FD678A84B48E245AB80"
   },
   "1FE1632098865F639E22C11B9A81EE8F29C75D7A": {
-    "name": "Banjo-Kazooie (USA)"
+    "name": "Banjo-Kazooie (USA)",
+    "ref": "DED6EE166E740AD1BC810FD678A84B48E245AB80"
   },
   "DED6EE166E740AD1BC810FD678A84B48E245AB80": {
     "name": "Banjo-Kazooie (USA) (Rev 1)",
@@ -201,10 +220,12 @@
     "logo": "QmRS5TzoJkFLaGCqqbHe56D3izixJhEKdzqmXMYsV8eBeZ"
   },
   "4CA2D332F6E6B018777AFC6A8B7880B38B6DFB79": {
-    "name": "Banjo-Tooie (Australia)"
+    "name": "Banjo-Tooie (Australia)",
+    "ref": "AF1A89E12B638B8D82CC4C085C8E01D4CBA03FB3"
   },
   "93BF2FAC1387320AD07251CB4B64FD36BAC1D7A6": {
-    "name": "Banjo-Tooie (Europe) (En,Fr,De,Es)"
+    "name": "Banjo-Tooie (Europe) (En,Fr,De,Es)",
+    "ref": "AF1A89E12B638B8D82CC4C085C8E01D4CBA03FB3"
   },
   "AF1A89E12B638B8D82CC4C085C8E01D4CBA03FB3": {
     "name": "Banjo-Tooie (USA)",
@@ -220,7 +241,8 @@
     "logo": "QmRnurp7abchtatybCFjunrByawZyrM3XnBiETk2tHtVsm"
   },
   "AA5E9D5ECCD278BC59D995E31431715D67E93FE2": {
-    "name": "Bassmasters 2000 (USA) (Beta)"
+    "name": "Bassmasters 2000 (USA) (Beta)",
+    "ref": "946B3E08A1A4DE4F917AD547BB24F533B737F712"
   },
   "F7382358250965E9757BA9A89FE42D033DBE7FE8": {
     "name": "Batman Beyond - Return of the Joker (USA)",
@@ -236,7 +258,8 @@
     "logo": "QmWo4qnJWrao2QMVLVV3eh1Ud4TvnxWBfjrYizJ33isMRJ"
   },
   "AEFADE7A37A4716DDC82A6B67BA085CBF7C27259": {
-    "name": "BattleTanx - Global Assault (Europe) (En,Fr,De)"
+    "name": "BattleTanx - Global Assault (Europe) (En,Fr,De)",
+    "ref": "805248FB0A0EE694CAD8D7DC927B631D860DD8CF"
   },
   "805248FB0A0EE694CAD8D7DC927B631D860DD8CF": {
     "name": "BattleTanx - Global Assault (USA)",
@@ -249,10 +272,12 @@
     "logo": "QmWRgofZG5PEf49JKNdHR8hGLqB2FW9Fqzx4KTXqx22ZUz"
   },
   "85B3B95D587D2646F781B04CF5239804D105685A": {
-    "name": "Beetle Adventure Racing! (Europe) (En,Fr,De)"
+    "name": "Beetle Adventure Racing! (Europe) (En,Fr,De)",
+    "ref": "E5AB4D226C08D22F68A2EDCC48870203E67454B8"
   },
   "D6E943A8733D3C09795F4BE24B75C7FB0C30A27D": {
-    "name": "Beetle Adventure Racing! (Japan)"
+    "name": "Beetle Adventure Racing! (Japan)",
+    "ref": "E5AB4D226C08D22F68A2EDCC48870203E67454B8"
   },
   "E5AB4D226C08D22F68A2EDCC48870203E67454B8": {
     "name": "Beetle Adventure Racing! (USA) (En,Fr,De)",
@@ -265,7 +290,8 @@
     "logo": "QmPPvvxaTxhj2vafHvGU8QwMZvNU7bWdt6FiaNdWBnnCEW"
   },
   "8A85EC7D68954A36569F28F6A26981D6F283FD6D": {
-    "name": "Bio F.R.E.A.K.S. (Europe)"
+    "name": "Bio F.R.E.A.K.S. (Europe)",
+    "ref": "E20E9124480B559AA7148412C8993804501E180D"
   },
   "E20E9124480B559AA7148412C8993804501E180D": {
     "name": "Bio F.R.E.A.K.S. (USA)",
@@ -276,7 +302,8 @@
     "name": "Biohazard 2 (Japan)"
   },
   "460212600F8B9F0DA95219C4C7330F2E626D9A7E": {
-    "name": "Blast Corps (Europe) (En,De)"
+    "name": "Blast Corps (Europe) (En,De)",
+    "ref": "185A6EF7BA1ADB243278062C81A7D4E119BDA58C"
   },
   "185A6EF7BA1ADB243278062C81A7D4E119BDA58C": {
     "name": "Blast Corps (USA)",
@@ -284,13 +311,15 @@
     "logo": "QmPTo9Fz6QBUkSTiiUSLoKKSzCkZDMpERPba2LrLtDWBQR"
   },
   "483F7161AEA39DE8B45C9FBC70A2C3883C4DEA8C": {
-    "name": "Blast Corps (USA) (Rev 1)"
+    "name": "Blast Corps (USA) (Rev 1)",
+    "ref": "185A6EF7BA1ADB243278062C81A7D4E119BDA58C"
   },
   "B147FDBEB661C89107C440B00DC4810508F58636": {
     "name": "Blastdozer (Japan)"
   },
   "D641AFCA71A7D83587F9D7105D5E6DFFDEAA8016": {
-    "name": "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "ED0FE7C9A2E8015BDF8262D35065F53C6FCEA60F"
   },
   "ED0FE7C9A2E8015BDF8262D35065F53C6FCEA60F": {
     "name": "Blues Brothers 2000 (USA)",
@@ -298,13 +327,16 @@
     "logo": "QmZ9Re2ByyCVzMJREviAgfDjjiSLZNaQJhaSJFr8e6w9Ci"
   },
   "B0F2546C0DBC4D8CC095337A288736E785219D02": {
-    "name": "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15)"
+    "name": "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15)",
+    "ref": "ED0FE7C9A2E8015BDF8262D35065F53C6FCEA60F"
   },
   "EA4C2FC9F7AE4AFADAEDA4E1095282B16F427CEE": {
-    "name": "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15, Alt)"
+    "name": "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15, Alt)",
+    "ref": "ED0FE7C9A2E8015BDF8262D35065F53C6FCEA60F"
   },
   "67750E2E7AB46FEDF65A271AB7F4C7AAD92AE355": {
-    "name": "Body Harvest (Europe) (En,Fr,De)"
+    "name": "Body Harvest (Europe) (En,Fr,De)",
+    "ref": "BBB6666F5014A473747EE4145F036D9FB25D7348"
   },
   "BBB6666F5014A473747EE4145F036D9FB25D7348": {
     "name": "Body Harvest (USA)",
@@ -321,10 +353,12 @@
     "name": "Bokujou Monogatari 2 (Japan) (Rev 2)"
   },
   "01E50F41733994BF229BEE3B3D8AA9FD46441175": {
-    "name": "Bomberman 64 (Europe)"
+    "name": "Bomberman 64 (Europe)",
+    "ref": "8A7648D8105AC4FC1AD942291B2EF89AECA921C9"
   },
   "1F2E0598730A2F7EA1987603E505AF45879E194A": {
-    "name": "Bomberman 64 (Japan)"
+    "name": "Bomberman 64 (Japan)",
+    "ref": "8A7648D8105AC4FC1AD942291B2EF89AECA921C9"
   },
   "8A7648D8105AC4FC1AD942291B2EF89AECA921C9": {
     "name": "Bomberman 64 (USA)",
@@ -337,7 +371,8 @@
     "logo": "Qmd7aRRwXASefRCt44CVRiJj3qGhhf3xAndw4xTe3JKeYw"
   },
   "BA1E6A4CC323A83D7C14573C9128AB9F9B60E5F2": {
-    "name": "Bomberman Hero (Europe)"
+    "name": "Bomberman Hero (Europe)",
+    "ref": "A36364B7E59351F7551AB351CB3B41EBC4BE285B"
   },
   "A36364B7E59351F7551AB351CB3B41EBC4BE285B": {
     "name": "Bomberman Hero (USA)",
@@ -358,10 +393,12 @@
     "logo": "QmdHirtGBswqEAt8LfoWSbxF49ScFHZd6qGz3uXwxxVCRA"
   },
   "1123BFAC4EC3730A54900CA83E196065CBB4B6E2": {
-    "name": "Buck Bumble (Europe) (En,Fr,De,Es,It)"
+    "name": "Buck Bumble (Europe) (En,Fr,De,Es,It)",
+    "ref": "01D9497EA0E1F68AE285B8C7A57439B42B7D9A56"
   },
   "38007F846A454AD09D2090F0EF86E9762A46CCF7": {
-    "name": "Buck Bumble (Japan)"
+    "name": "Buck Bumble (Japan)",
+    "ref": "01D9497EA0E1F68AE285B8C7A57439B42B7D9A56"
   },
   "01D9497EA0E1F68AE285B8C7A57439B42B7D9A56": {
     "name": "Buck Bumble (USA)",
@@ -369,16 +406,20 @@
     "logo": "QmVRT2duFidJtprjmkjmYfJwfNeMR4rCDPMHansZ4Yfijw"
   },
   "2922C2281FAA4106295830C617289292DF4C377A": {
-    "name": "Bug's Life, A (Europe)"
+    "name": "Bug's Life, A (Europe)",
+    "ref": "697C1E895FC840826FCB6A6F37411A2AF6D6F47C"
   },
   "4970ECC65E8DE25990A241B0D2FFBE274CB1619A": {
-    "name": "Bug's Life, A (France)"
+    "name": "Bug's Life, A (France)",
+    "ref": "697C1E895FC840826FCB6A6F37411A2AF6D6F47C"
   },
   "DAA7114A8D16C3E636B2808D4F256E07954F05DD": {
-    "name": "Bug's Life, A (Germany)"
+    "name": "Bug's Life, A (Germany)",
+    "ref": "697C1E895FC840826FCB6A6F37411A2AF6D6F47C"
   },
   "46F9C5D7EB822B19BE6910B992949DEF27E46887": {
-    "name": "Bug's Life, A (Italy)"
+    "name": "Bug's Life, A (Italy)",
+    "ref": "697C1E895FC840826FCB6A6F37411A2AF6D6F47C"
   },
   "697C1E895FC840826FCB6A6F37411A2AF6D6F47C": {
     "name": "Bug's Life, A (USA)",
@@ -391,7 +432,8 @@
     "logo": "QmSVk98hhDLcXMGd9jjeP55x1b6DXqB5BpFtB8gfPnCVQ2"
   },
   "F92A1B19C522BA6CF20A9D7883321E6E283DA32F": {
-    "name": "Bust-A-Move 2 - Arcade Edition (Europe)"
+    "name": "Bust-A-Move 2 - Arcade Edition (Europe)",
+    "ref": "8F1AAD51E733958D1A9A7A0CB7516FC7A293CA7B"
   },
   "8F1AAD51E733958D1A9A7A0CB7516FC7A293CA7B": {
     "name": "Bust-A-Move 2 - Arcade Edition (USA)",
@@ -407,13 +449,16 @@
     "logo": "QmeBZm5myPo5i3KiJfbSnDVz7kEo76UEZGv3ZwkLusr4g3"
   },
   "B0CA8A5C8CBF2D18A91AC1B9DF82907613BEF479": {
-    "name": "California Speed (Europe) (Proto)"
+    "name": "California Speed (Europe) (Proto)",
+    "ref": "BD4C070A71EF58499587CB811FB7490B88DD7C0B"
   },
   "2AB7EA2A9BC05ECF3CAC026E2AFF7ACC9D3202E5": {
-    "name": "Carmageddon 64 (Europe) (En,Fr,De,Es)"
+    "name": "Carmageddon 64 (Europe) (En,Fr,De,Es)",
+    "ref": "DC7495093FB9A668B0C851B87C037A4CDF2DDC65"
   },
   "A26831C07ECC57DBF5846DB847A30D9F735297C2": {
-    "name": "Carmageddon 64 (Europe) (En,Fr,Es,It)"
+    "name": "Carmageddon 64 (Europe) (En,Fr,Es,It)",
+    "ref": "DC7495093FB9A668B0C851B87C037A4CDF2DDC65"
   },
   "DC7495093FB9A668B0C851B87C037A4CDF2DDC65": {
     "name": "Carmageddon 64 (USA)",
@@ -421,10 +466,12 @@
     "logo": "QmNa8KzhrtGdMJ2TPh8hnKXL1KiHadFf5f3JD4S9iQuyCG"
   },
   "E0DA571CDDCB8D069B36C2DF254334F7C532133E": {
-    "name": "Castlevania (Europe) (En,Fr,De)"
+    "name": "Castlevania (Europe) (En,Fr,De)",
+    "ref": "BA23D0FB480B9885F0D847F7F3D67B249177C8C4"
   },
   "989A28782ED6B0BC489A1BBBD7BEC355D8F2707E": {
-    "name": "Castlevania (USA)"
+    "name": "Castlevania (USA)",
+    "ref": "BA23D0FB480B9885F0D847F7F3D67B249177C8C4"
   },
   "BA23D0FB480B9885F0D847F7F3D67B249177C8C4": {
     "name": "Castlevania (USA) (Rev 2)",
@@ -432,10 +479,12 @@
     "logo": "QmVFTPDvMiNVzi21qYLLeP3VKscXff5poy3GmJDJwdHLex"
   },
   "349A031320C1FE16A99801C1BAB48A7AA8DEAC8E": {
-    "name": "Castlevania (USA) (Rev 1)"
+    "name": "Castlevania (USA) (Rev 1)",
+    "ref": "BA23D0FB480B9885F0D847F7F3D67B249177C8C4"
   },
   "0C6817082DD322477C63F3C91A99C1F34AF0065C": {
-    "name": "Castlevania - Legacy of Darkness (Europe) (En,Fr,De)"
+    "name": "Castlevania - Legacy of Darkness (Europe) (En,Fr,De)",
+    "ref": "879EAD98F197FD05EDDA867655DA5B1CE25AA5B8"
   },
   "879EAD98F197FD05EDDA867655DA5B1CE25AA5B8": {
     "name": "Castlevania - Legacy of Darkness (USA)",
@@ -448,10 +497,12 @@
     "logo": "QmXZY7WyeSiPJ9jaezs4cr7cGQj1ysYDBzmEQCLF2RDE2z"
   },
   "197556F41756C82EDB6BA7767F0D181290C1B2C2": {
-    "name": "Chameleon Twist (Europe)"
+    "name": "Chameleon Twist (Europe)",
+    "ref": "173875D2A98161228EFB56841484E12446A43156"
   },
   "A1FAF5C4CA961AB2C029C84ECFA556755E7F70C8": {
-    "name": "Chameleon Twist (Japan)"
+    "name": "Chameleon Twist (Japan)",
+    "ref": "173875D2A98161228EFB56841484E12446A43156"
   },
   "173875D2A98161228EFB56841484E12446A43156": {
     "name": "Chameleon Twist (USA)",
@@ -459,13 +510,16 @@
     "logo": "QmXPn5ThoyakbtMA49P8Q7Jf18HS7Smnbxb7otCkcMJwXG"
   },
   "4CA6D563131B4809FE1748335182816A024999D4": {
-    "name": "Chameleon Twist (USA) (Rev 1)"
+    "name": "Chameleon Twist (USA) (Rev 1)",
+    "ref": "173875D2A98161228EFB56841484E12446A43156"
   },
   "BBCA485EE38E07DA78F44E5DE653311B8EDC18F2": {
-    "name": "Chameleon Twist 2 (Europe)"
+    "name": "Chameleon Twist 2 (Europe)",
+    "ref": "9FA379D66B218228DA3CBF386C91D857C677F489"
   },
   "B60D0347E7B765195FB27C3EE50A806EA9977DCA": {
-    "name": "Chameleon Twist 2 (Japan)"
+    "name": "Chameleon Twist 2 (Japan)",
+    "ref": "9FA379D66B218228DA3CBF386C91D857C677F489"
   },
   "9FA379D66B218228DA3CBF386C91D857C677F489": {
     "name": "Chameleon Twist 2 (USA)",
@@ -473,7 +527,8 @@
     "logo": "QmYPA6eM3iDxawnPMGKQvkuFqRZrc8UxJQfc9knLmic9Mo"
   },
   "9A0EB87BA72C1EF4DCB8B80029F29CDEEA91FE49": {
-    "name": "Charlie Blast's Territory (Europe)"
+    "name": "Charlie Blast's Territory (Europe)",
+    "ref": "E11619C7A8E1C2A280EA3AC069CF11153D4951A6"
   },
   "E11619C7A8E1C2A280EA3AC069CF11153D4951A6": {
     "name": "Charlie Blast's Territory (USA)",
@@ -481,7 +536,8 @@
     "logo": "QmSAQfSgf7wYdvMHEuHegp2qmQb81CGs1MdziBLZYQxVve"
   },
   "9688C388384EDEA0141FC66B20D6D0E5FE2D668F": {
-    "name": "Chopper Attack (Europe)"
+    "name": "Chopper Attack (Europe)",
+    "ref": "1E3F1C94C806B2699C4E0E941190D468435B9F60"
   },
   "1E3F1C94C806B2699C4E0E941190D468435B9F60": {
     "name": "Chopper Attack (USA)",
@@ -512,7 +568,8 @@
     "logo": "Qmc2qjC5h1TDSsVE5uTcf8Bb87jzTGKgAXxWmFC5Mcwg9M"
   },
   "FEC40EF7D8B973C5937ADE10423D0CF1B5A18E3C": {
-    "name": "Clay Fighter 63 1-3 (Europe)"
+    "name": "Clay Fighter 63 1-3 (Europe)",
+    "ref": "036873AB0D3107B2D9B3225A180F67DAF0899365"
   },
   "036873AB0D3107B2D9B3225A180F67DAF0899365": {
     "name": "Clay Fighter 63 1-3 (USA)",
@@ -520,13 +577,16 @@
     "logo": "QmaEoMzuGHe37k2gMzTY3oohFReNRseMdgd3YeEVyqiuxS"
   },
   "3307F73B8BD0795D3C7036D77FC4A78EFEBC4EF0": {
-    "name": "Clay Fighter 63 1-3 (USA) (Beta) (1997-08-21)"
+    "name": "Clay Fighter 63 1-3 (USA) (Beta) (1997-08-21)",
+    "ref": "036873AB0D3107B2D9B3225A180F67DAF0899365"
   },
   "0D5211E211E7FC063C63C3E8235B62BC288CE305": {
-    "name": "Command & Conquer (Europe) (En,Fr)"
+    "name": "Command & Conquer (Europe) (En,Fr)",
+    "ref": "B559E86D98DE598B1D25583CA082FAA4B7C62641"
   },
   "725083ECE68D5DEB9724D3FA3F2A65F0291B2D5D": {
-    "name": "Command & Conquer (Germany)"
+    "name": "Command & Conquer (Germany)",
+    "ref": "B559E86D98DE598B1D25583CA082FAA4B7C62641"
   },
   "B559E86D98DE598B1D25583CA082FAA4B7C62641": {
     "name": "Command & Conquer (USA)",
@@ -534,7 +594,8 @@
     "logo": "QmTb2Jzc19xpWq2xE2RaXJcdVDSzv7gygsf5C2oMa8hr1Z"
   },
   "EE7BC6656FD1E1D9FFB3D19ADD759F28B88DF710": {
-    "name": "Conker's Bad Fur Day (Europe)"
+    "name": "Conker's Bad Fur Day (Europe)",
+    "ref": "4CBADD3C4E0729DEC46AF64AD018050EADA4F47A"
   },
   "4CBADD3C4E0729DEC46AF64AD018050EADA4F47A": {
     "name": "Conker's Bad Fur Day (USA)",
@@ -542,10 +603,12 @@
     "logo": "Qmcvt5F89SjftG1vBQc4K5D9WQjVzgfxqbpriKb3nHVVxr"
   },
   "06597DC935651F8995BFACC30FDE6E621D44C3E1": {
-    "name": "Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26)"
+    "name": "Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26)",
+    "ref": "4CBADD3C4E0729DEC46AF64AD018050EADA4F47A"
   },
   "3B99222EE76F6277A963142CD807B3DF25D5174F": {
-    "name": "Conker's Bad Fur Day (USA) (Beta) (2000-10-25)"
+    "name": "Conker's Bad Fur Day (USA) (Beta) (2000-10-25)",
+    "ref": "4CBADD3C4E0729DEC46AF64AD018050EADA4F47A"
   },
   "428F53A060103FD88EBFBDCC032A99CAEA901E17": {
     "name": "Cruis'n Exotica (USA)",
@@ -553,13 +616,16 @@
     "logo": "QmNh8XWWRdpSUyuJPuzaXd6HRLgP1HaQycaQVJbsS6qvhx"
   },
   "404AB549CD148EA07F40D66C0B896A343741BBF6": {
-    "name": "Cruis'n USA (Europe)"
+    "name": "Cruis'n USA (Europe)",
+    "ref": "54A875EE0B482036FA401A6BC2B242699F0259F7"
   },
   "AEFE77A5518FE74519908B6CBC97CB81B8570897": {
-    "name": "Cruis'n USA (USA)"
+    "name": "Cruis'n USA (USA)",
+    "ref": "54A875EE0B482036FA401A6BC2B242699F0259F7"
   },
   "71BB3D8850B6A4A294AECA2ABAD1F936E4F85F0F": {
-    "name": "Cruis'n USA (USA) (Rev 1)"
+    "name": "Cruis'n USA (USA) (Rev 1)",
+    "ref": "54A875EE0B482036FA401A6BC2B242699F0259F7"
   },
   "54A875EE0B482036FA401A6BC2B242699F0259F7": {
     "name": "Cruis'n USA (USA) (Rev 2)",
@@ -567,10 +633,12 @@
     "logo": "QmYdBhaD3mpM7h1WH6FJ8Y8b1omkkHoh1uWa5KpRz2jbEg"
   },
   "273F1D6DDD48F92AF49F37E88405F318A340C2CD": {
-    "name": "Cruis'n USA (USA) (Wii Virtual Console)"
+    "name": "Cruis'n USA (USA) (Wii Virtual Console)",
+    "ref": "54A875EE0B482036FA401A6BC2B242699F0259F7"
   },
   "EE508F14C936265D101C9699B5AE1A722B3E7D9E": {
-    "name": "Cruis'n World (Europe)"
+    "name": "Cruis'n World (Europe)",
+    "ref": "6DA1A6A2BDA687D50E798D80C342948AD1738202"
   },
   "6DA1A6A2BDA687D50E798D80C342948AD1738202": {
     "name": "Cruis'n World (USA)",
@@ -578,7 +646,8 @@
     "logo": "QmbMTbcfy5VWVytRScnNXcdTjySbEW7Y2guQhiz6Ur3vx6"
   },
   "362078633D549D3270B3B3B6B0E0D0243321D9AE": {
-    "name": "Cruis'n World (Europe) (Rev 1)"
+    "name": "Cruis'n World (Europe) (Rev 1)",
+    "ref": "6DA1A6A2BDA687D50E798D80C342948AD1738202"
   },
   "49DE08F08400A477485C4798D6CD81D95842C806": {
     "name": "Custom Robo (Japan)"
@@ -587,7 +656,8 @@
     "name": "Custom Robo V2 (Japan)"
   },
   "AE220AC1CD6D892098937DC639C925F9EF158759": {
-    "name": "CyberTiger (Europe)"
+    "name": "CyberTiger (Europe)",
+    "ref": "14E0635CCC2A80C77FD0A888A2E7977C55C6E129"
   },
   "14E0635CCC2A80C77FD0A888A2E7977C55C6E129": {
     "name": "CyberTiger (USA)",
@@ -601,7 +671,8 @@
     "name": "Dance Dance Revolution - Disney Dancing Museum (Japan)"
   },
   "18B02FC18411ACD770BF3F25B2707669DAC2EC5D": {
-    "name": "Dark Rift (Europe)"
+    "name": "Dark Rift (Europe)",
+    "ref": "3254442626CA2F2AC74400DC1C6A306F5D1B6CEB"
   },
   "3254442626CA2F2AC74400DC1C6A306F5D1B6CEB": {
     "name": "Dark Rift (USA)",
@@ -626,7 +697,8 @@
     "name": "Derby Stallion 64 (Japan) (Beta) [b]"
   },
   "EED379520C7FC7D08EBE5A076683BD56F3A0A04F": {
-    "name": "Destruction Derby 64 (Europe) (En,Fr,De)"
+    "name": "Destruction Derby 64 (Europe) (En,Fr,De)",
+    "ref": "A2C0799E13566D1B723299592CFCAC9387F25FA7"
   },
   "A2C0799E13566D1B723299592CFCAC9387F25FA7": {
     "name": "Destruction Derby 64 (USA)",
@@ -637,16 +709,20 @@
     "name": "Dezaemon 3D (Japan)"
   },
   "DD5D64DD140CB7AA28404FA35ABDCABA33C29260": {
-    "name": "Diddy Kong Racing (Europe) (En,Fr,De)"
+    "name": "Diddy Kong Racing (Europe) (En,Fr,De)",
+    "ref": "6D96743D46F8C0CD0EDB0EC5600B003C89B93755"
   },
   "B7F628073237B3D211D40406AA0884FF8FDD70D5": {
-    "name": "Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)"
+    "name": "Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)",
+    "ref": "6D96743D46F8C0CD0EDB0EC5600B003C89B93755"
   },
   "23BA3D302025153D111416E751027CEF11213A19": {
-    "name": "Diddy Kong Racing (Japan)"
+    "name": "Diddy Kong Racing (Japan)",
+    "ref": "6D96743D46F8C0CD0EDB0EC5600B003C89B93755"
   },
   "0CB115D8716DBBC2922FDA38E533B9FE63BB9670": {
-    "name": "Diddy Kong Racing (USA) (En,Fr)"
+    "name": "Diddy Kong Racing (USA) (En,Fr)",
+    "ref": "6D96743D46F8C0CD0EDB0EC5600B003C89B93755"
   },
   "6D96743D46F8C0CD0EDB0EC5600B003C89B93755": {
     "name": "Diddy Kong Racing (USA) (En,Fr) (Rev 1)",
@@ -677,10 +753,12 @@
     "name": "Dongwu Senlin (China) (iQue)"
   },
   "F96AF883845308106600D84E0618C1A066DC6676": {
-    "name": "Donkey Kong 64 (Europe) (En,Fr,De,Es)"
+    "name": "Donkey Kong 64 (Europe) (En,Fr,De,Es)",
+    "ref": "CF806FF2603640A748FCA5026DED28802F1F4A50"
   },
   "F0AD2B2BBF04D574ED7AFBB1BB6A4F0511DCD87D": {
-    "name": "Donkey Kong 64 (Japan)"
+    "name": "Donkey Kong 64 (Japan)",
+    "ref": "CF806FF2603640A748FCA5026DED28802F1F4A50"
   },
   "CF806FF2603640A748FCA5026DED28802F1F4A50": {
     "name": "Donkey Kong 64 (USA)",
@@ -688,16 +766,20 @@
     "logo": "Qmb5GhYwXm18kvhGAouq9SXQUgc1NUvnweqa6zCJPGHCvi"
   },
   "B4717E602F07CA9BE0D4822813C658CD8B99F993": {
-    "name": "Donkey Kong 64 (USA) (Demo) (Kiosk)"
+    "name": "Donkey Kong 64 (USA) (Demo) (Kiosk)",
+    "ref": "CF806FF2603640A748FCA5026DED28802F1F4A50"
   },
   "B63060F69BB4E1547DA1D762E740D19393977055": {
-    "name": "Doom 64 (Europe)"
+    "name": "Doom 64 (Europe)",
+    "ref": "6FB0CE9C75BBE54B6E1EDE337652B0221E5F2AAD"
   },
   "6B0D65E62626A92AA59EE4BFF3F02715F6247692": {
-    "name": "Doom 64 (Japan)"
+    "name": "Doom 64 (Japan)",
+    "ref": "6FB0CE9C75BBE54B6E1EDE337652B0221E5F2AAD"
   },
   "799A588D73DA3FCCE8031026A8187DA92B91C817": {
-    "name": "Doom 64 (USA)"
+    "name": "Doom 64 (USA)",
+    "ref": "6FB0CE9C75BBE54B6E1EDE337652B0221E5F2AAD"
   },
   "6FB0CE9C75BBE54B6E1EDE337652B0221E5F2AAD": {
     "name": "Doom 64 (USA) (Rev 1)",
@@ -731,10 +813,12 @@
     "name": "Dragon Sword 64 (USA) (Proto) (1999-08-25)"
   },
   "061B7956C3AADDDC6FDC11AAB885F95A71B7F463": {
-    "name": "Dual Heroes (Europe)"
+    "name": "Dual Heroes (Europe)",
+    "ref": "8FD879CE53E211D33A689015A78CFF3FDD39DB09"
   },
   "CFD5992BCC3E0D90966D8A6FC6E0813E75473B14": {
-    "name": "Dual Heroes (Japan)"
+    "name": "Dual Heroes (Japan)",
+    "ref": "8FD879CE53E211D33A689015A78CFF3FDD39DB09"
   },
   "8FD879CE53E211D33A689015A78CFF3FDD39DB09": {
     "name": "Dual Heroes (USA)",
@@ -747,13 +831,16 @@
     "logo": "QmcVKMoxNV1nBkbdTaCLNoF6UzsvXFhgbHfmEyyKWcpLpU"
   },
   "145E0CB7F3A0E866945631DCF633D31B26C7E6BC": {
-    "name": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07)"
+    "name": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07)",
+    "ref": "2C840E2991D6A2AF63C4EFE830240FC49D93FC9A"
   },
   "C18AD90FB889F95773FEF48C204CE06CFF9E6BE3": {
-    "name": "Duke Nukem - Zero Hour (Europe)"
+    "name": "Duke Nukem - Zero Hour (Europe)",
+    "ref": "DE4DB292CC6CF5DD1DD1D3C9700CF8E5C3078410"
   },
   "E69A4DDA8CCA88D4C149F2B00640DA0FF04FA9C8": {
-    "name": "Duke Nukem - Zero Hour (France)"
+    "name": "Duke Nukem - Zero Hour (France)",
+    "ref": "DE4DB292CC6CF5DD1DD1D3C9700CF8E5C3078410"
   },
   "DE4DB292CC6CF5DD1DD1D3C9700CF8E5C3078410": {
     "name": "Duke Nukem - Zero Hour (USA)",
@@ -761,10 +848,12 @@
     "logo": "QmebnnqqoKgRzNjabLaqkaKTGNQjNHhz6SiVu3Qkwn93KU"
   },
   "6CC06F6097F90228BD7D7784FA7D20BA17E82EEF": {
-    "name": "Duke Nukem 64 (Europe)"
+    "name": "Duke Nukem 64 (Europe)",
+    "ref": "98D6778004BECC672EBA0A5E887F6E3F3D1B5C15"
   },
   "2C48706C4280A51E52691331543606E4170A19A9": {
-    "name": "Duke Nukem 64 (France)"
+    "name": "Duke Nukem 64 (France)",
+    "ref": "98D6778004BECC672EBA0A5E887F6E3F3D1B5C15"
   },
   "98D6778004BECC672EBA0A5E887F6E3F3D1B5C15": {
     "name": "Duke Nukem 64 (USA)",
@@ -772,10 +861,12 @@
     "logo": "QmZ2YDGJZAV1x9DoF4b9zayVsC9cp99uc73rrFYdcKs5D6"
   },
   "BD6ED4A342290EAB3D99BE392986E085E91315AC": {
-    "name": "Duke Nukem 64 (Europe) (Beta)"
+    "name": "Duke Nukem 64 (Europe) (Beta)",
+    "ref": "98D6778004BECC672EBA0A5E887F6E3F3D1B5C15"
   },
   "F02C1AFD18C1CBE309472CBE5B3B3F04B22DB7EE": {
-    "name": "Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)"
+    "name": "Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)",
+    "ref": "EAB14F23640CD6148D4888902CDCC00DD6111BF9"
   },
   "EAB14F23640CD6148D4888902CDCC00DD6111BF9": {
     "name": "Earthworm Jim 3D (USA)",
@@ -783,7 +874,8 @@
     "logo": "QmWKz5A6SdaVUBrWSHoFBeBRAgUDDAoBKZHSQgEYqx71fQ"
   },
   "226CAD0C48E9E0D1DC928298518CA8B2D6EAE5ED": {
-    "name": "ECW Hardcore Revolution (Europe)"
+    "name": "ECW Hardcore Revolution (Europe)",
+    "ref": "D460DC1EB24EF3E1E27C6B125C8C8D8324A64125"
   },
   "D460DC1EB24EF3E1E27C6B125C8C8D8324A64125": {
     "name": "ECW Hardcore Revolution (USA)",
@@ -791,7 +883,8 @@
     "logo": "QmW58W7rQWds4Wx7jhqoV9kF1xMbiFswVBoN1H42zQTvRJ"
   },
   "CDABB42BE0755D186AD6CAE6427FB7C0A12B2E7B": {
-    "name": "ECW Hardcore Revolution (Germany)"
+    "name": "ECW Hardcore Revolution (Germany)",
+    "ref": "D460DC1EB24EF3E1E27C6B125C8C8D8324A64125"
   },
   "5686B49AC9A60EBFC1D1ABF6214F7BC06849ABF4": {
     "name": "Eikou no Saint Andrews (Japan)"
@@ -800,10 +893,12 @@
     "name": "Eltale Monsters (Japan)"
   },
   "5ABFB6024F935EF5FE0067F39FD594C50697C749": {
-    "name": "Excitebike 64 (Europe)"
+    "name": "Excitebike 64 (Europe)",
+    "ref": "A847DD011E98204AD198CADEB6C80DDA10D9A40E"
   },
   "E2C8D01FC66C0A575E79CB338678F1FD065226D6": {
-    "name": "Excitebike 64 (Japan)"
+    "name": "Excitebike 64 (Japan)",
+    "ref": "A847DD011E98204AD198CADEB6C80DDA10D9A40E"
   },
   "A847DD011E98204AD198CADEB6C80DDA10D9A40E": {
     "name": "Excitebike 64 (USA)",
@@ -811,16 +906,20 @@
     "logo": "QmUQxA6JQm2no4xc5eRUjdYwf3qiq9FyGwrpTw5aRiU5J2"
   },
   "DAAF564815E9EEF3FC163B9546B5880EE256274B": {
-    "name": "Excitebike 64 (USA) (Demo) (Kiosk)"
+    "name": "Excitebike 64 (USA) (Demo) (Kiosk)",
+    "ref": "A847DD011E98204AD198CADEB6C80DDA10D9A40E"
   },
   "C2FAC422AF135409C1B38569B309F9D452C81C35": {
-    "name": "Excitebike 64 (USA) (Rev 1)"
+    "name": "Excitebike 64 (USA) (Rev 1)",
+    "ref": "A847DD011E98204AD198CADEB6C80DDA10D9A40E"
   },
   "E7120856ECC9A7F29C21F45130ECA0ECA8A7BFEC": {
-    "name": "Extreme-G (Europe) (En,Fr,De,Es,It)"
+    "name": "Extreme-G (Europe) (En,Fr,De,Es,It)",
+    "ref": "EB9B273431970A6124319A8FD125F0B2CACD8966"
   },
   "D9D6F7CC456B530FD3233EF2D8D6B9F845CEE043": {
-    "name": "Extreme-G (Japan)"
+    "name": "Extreme-G (Japan)",
+    "ref": "EB9B273431970A6124319A8FD125F0B2CACD8966"
   },
   "EB9B273431970A6124319A8FD125F0B2CACD8966": {
     "name": "Extreme-G (USA)",
@@ -828,10 +927,12 @@
     "logo": "QmZD1LvjJVpzWVzZZaKyFdNh6YdsurfZWsGmcNYGU9rhiA"
   },
   "CA6DB450D29A6CC0D4A6FBB3468A1ED725CEF51E": {
-    "name": "Extreme-G XG2 (Europe) (En,Fr,De,Es,It)"
+    "name": "Extreme-G XG2 (Europe) (En,Fr,De,Es,It)",
+    "ref": "ED0A50086EF9A89F5B445C20AB6F365165959630"
   },
   "94EFB5D7247A075A9CC782D39B5E8AF56D5F434F": {
-    "name": "Extreme-G XG2 (Japan)"
+    "name": "Extreme-G XG2 (Japan)",
+    "ref": "ED0A50086EF9A89F5B445C20AB6F365165959630"
   },
   "ED0A50086EF9A89F5B445C20AB6F365165959630": {
     "name": "Extreme-G XG2 (USA)",
@@ -839,16 +940,20 @@
     "logo": "QmTPeZmcYh5ihFvpJx9KfZLmDsLWNVfwQHeNduVWWf8ZQW"
   },
   "D812098662C4F8F73DEB06D140E46A7754CE3B42": {
-    "name": "F-1 World Grand Prix (Europe)"
+    "name": "F-1 World Grand Prix (Europe)",
+    "ref": "DD17545ADC8FE2AF2A713AB48C5F71801222EDAF"
   },
   "DD68B3624F2F8A0F821A391B690ECC5BB4FEF2FD": {
-    "name": "F-1 World Grand Prix (France)"
+    "name": "F-1 World Grand Prix (France)",
+    "ref": "DD17545ADC8FE2AF2A713AB48C5F71801222EDAF"
   },
   "2AE85DB9D6E9F3B85E4478577D5EB049EC4040C9": {
-    "name": "F-1 World Grand Prix (Germany)"
+    "name": "F-1 World Grand Prix (Germany)",
+    "ref": "DD17545ADC8FE2AF2A713AB48C5F71801222EDAF"
   },
   "595BFA62EC34F7884FF46137C92771CDE4D8D6FE": {
-    "name": "F-1 World Grand Prix (Japan)"
+    "name": "F-1 World Grand Prix (Japan)",
+    "ref": "DD17545ADC8FE2AF2A713AB48C5F71801222EDAF"
   },
   "DD17545ADC8FE2AF2A713AB48C5F71801222EDAF": {
     "name": "F-1 World Grand Prix (USA)",
@@ -856,7 +961,8 @@
     "logo": "QmUhHdpWTPzjmEy2BBkKSTxsRH4sC6dq2wW9GqUW2MutQt"
   },
   "63BD69C382ECA5E569EDDF7456F6435A7DCE484F": {
-    "name": "F-1 World Grand Prix (Europe) (Beta)"
+    "name": "F-1 World Grand Prix (Europe) (Beta)",
+    "ref": "DD17545ADC8FE2AF2A713AB48C5F71801222EDAF"
   },
   "53ED343A757B8A14814732393D02B3D780BCCAB5": {
     "name": "F-1 World Grand Prix II (Europe) (En,Fr,De,Es)",
@@ -864,10 +970,12 @@
     "logo": "QmUi4hgqafKGdt5jSmJXeHLVuieGzbXAUbM9NppzLpnRPu"
   },
   "AF9038BCB543A2B4FAAAB876DBDAB4663859E092": {
-    "name": "F-Zero X (Europe)"
+    "name": "F-Zero X (Europe)",
+    "ref": "5F658E88FFA9DE23CBA6986A8FD3D3A90D7B4340"
   },
   "A418B0151521B76691FA03F8658C8B567C69498B": {
-    "name": "F-Zero X (Japan)"
+    "name": "F-Zero X (Japan)",
+    "ref": "5F658E88FFA9DE23CBA6986A8FD3D3A90D7B4340"
   },
   "5F658E88FFA9DE23CBA6986A8FD3D3A90D7B4340": {
     "name": "F-Zero X (USA)",
@@ -887,7 +995,8 @@
     "name": "F-Zero X + The Legend of Zelda Ocarina of Time (USA) (Beta)"
   },
   "685FEB2E8615D5D50944093EB0552858D3E12583": {
-    "name": "F1 Pole Position 64 (Europe) (En,Fr,De)"
+    "name": "F1 Pole Position 64 (Europe) (En,Fr,De)",
+    "ref": "6E6BDAEFC9980F066CD2ABC5FA7F29F2353CA8B1"
   },
   "6E6BDAEFC9980F066CD2ABC5FA7F29F2353CA8B1": {
     "name": "F1 Pole Position 64 (USA) (En,Fr,De)",
@@ -900,13 +1009,15 @@
     "logo": "Qmd53pQgKXgTej8pmSFZXvMPmxsENCiVwgKaocTT4CGTDM"
   },
   "4C95CEE963C9F8B477C41C03AFCCB3362A14E7CE": {
-    "name": "F1 Racing Championship (Brazil) (En,Fr)"
+    "name": "F1 Racing Championship (Brazil) (En,Fr)",
+    "ref": "3BCE20F58EF9F377299858B7F2DABD0A02D2E9B9"
   },
   "F4ACB365C8A0DFFDF2E93A726FD5E805AB857C56": {
     "name": "Famista 64 (Japan)"
   },
   "676B4D14AD74CCC92EE4B19AA9130DDCE42E0E9C": {
-    "name": "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+    "name": "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+    "ref": "148D6424D2135AFEFECDE74092701C491027C23E"
   },
   "148D6424D2135AFEFECDE74092701C491027C23E": {
     "name": "FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)",
@@ -920,7 +1031,8 @@
     "name": "FIFA 64 (Europe) (En,Fr,De)"
   },
   "07400C53AEF501887F73EF6A45CE04FE2F170FB0": {
-    "name": "FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)"
+    "name": "FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+    "ref": "735062E593715F128D3AAD435DE0E7A899AED127"
   },
   "735062E593715F128D3AAD435DE0E7A899AED127": {
     "name": "FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)",
@@ -938,13 +1050,16 @@
     "logo": "Qmdu3PLwFB27Z57c7mhLWEKYWSN3UNsAbQQGUbtunC6rGN"
   },
   "2763731085A9D86D357D8FEF775C2D21D3C9F2B4": {
-    "name": "Fighters Destiny (Europe)"
+    "name": "Fighters Destiny (Europe)",
+    "ref": "F87E1677602E38BAC962424042E289EC58EC37B2"
   },
   "F183F2B7E8D8FBEA7ED239FC8EA6C902234BBA41": {
-    "name": "Fighters Destiny (France)"
+    "name": "Fighters Destiny (France)",
+    "ref": "F87E1677602E38BAC962424042E289EC58EC37B2"
   },
   "AEF7792324C262C956E91EE01F57BED0C36BD825": {
-    "name": "Fighters Destiny (Germany)"
+    "name": "Fighters Destiny (Germany)",
+    "ref": "F87E1677602E38BAC962424042E289EC58EC37B2"
   },
   "F87E1677602E38BAC962424042E289EC58EC37B2": {
     "name": "Fighters Destiny (USA)",
@@ -955,7 +1070,8 @@
     "name": "Fighting Cup (Japan)"
   },
   "705D2B553FAB526C908E46C048BE3A3338AE2A86": {
-    "name": "Fighting Force 64 (Europe)"
+    "name": "Fighting Force 64 (Europe)",
+    "ref": "6B4E78201AD5C5D0BD932652F233D9732316CDC2"
   },
   "6B4E78201AD5C5D0BD932652F233D9732316CDC2": {
     "name": "Fighting Force 64 (USA)",
@@ -963,7 +1079,8 @@
     "logo": "QmPLqLzsF96GR41jCwT8Mrb5HHJuKtd1D3phZTAHzjYxGi"
   },
   "3F4462D85D5B5DDC6EDAEEF45B682EEFF7F4B144": {
-    "name": "Flying Dragon (Europe)"
+    "name": "Flying Dragon (Europe)",
+    "ref": "5472FE1DCAAACAECBA8D1BED8EAB4A2146E58665"
   },
   "5472FE1DCAAACAECBA8D1BED8EAB4A2146E58665": {
     "name": "Flying Dragon (USA)",
@@ -1036,10 +1153,12 @@
     "name": "Getter Love!! - Cho Renai Party Game Tanjou (Japan)"
   },
   "54653BA26A12521CCD886212FFFDF2F6427C2FEA": {
-    "name": "Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)"
+    "name": "Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)",
+    "ref": "467BC88942E02D542E1A4705DCAB98AB7281819F"
   },
   "4BCD958526D9145ACF4E3EE7EE484E62DC1BB4BA": {
-    "name": "Gex 3 - Deep Cover Gecko (Europe) (Fr,De)"
+    "name": "Gex 3 - Deep Cover Gecko (Europe) (Fr,De)",
+    "ref": "467BC88942E02D542E1A4705DCAB98AB7281819F"
   },
   "467BC88942E02D542E1A4705DCAB98AB7281819F": {
     "name": "Gex 3 - Deep Cover Gecko (USA)",
@@ -1047,7 +1166,8 @@
     "logo": "QmYPie9JijhHEQPayG35VGJmh2aRcBMHKYbRQayEu65bDb"
   },
   "C5318E2660FED61782BB170E780B89305AA8C3DC": {
-    "name": "Gex 64 - Enter the Gecko (Europe)"
+    "name": "Gex 64 - Enter the Gecko (Europe)",
+    "ref": "16042CD0DFA5439CA436F1BF05EBFB7E9F730CDA"
   },
   "16042CD0DFA5439CA436F1BF05EBFB7E9F730CDA": {
     "name": "Gex 64 - Enter the Gecko (USA)",
@@ -1055,7 +1175,8 @@
     "logo": "QmVyZmCqJ4KN4CHeGSuVpYxhwHL1MpnKFv9uGyd6QEPVr8"
   },
   "A5209925761C4EF08E5D446A55BC957505308A31": {
-    "name": "Glover (Europe) (En,Fr,De)"
+    "name": "Glover (Europe) (En,Fr,De)",
+    "ref": "270BE17B3C8DA9B88A7B99C2A545B0BCE16837F4"
   },
   "270BE17B3C8DA9B88A7B99C2A545B0BCE16837F4": {
     "name": "Glover (USA)",
@@ -1063,10 +1184,12 @@
     "logo": "Qma2zwB9kDRcLcGSTURcaHwpiTDQZkuWcBcyiSaUxqp13k"
   },
   "A60BB3856218B554BEEE25D30DCF05E6D0308F52": {
-    "name": "Glover (USA) (Beta) (1998-07-16) [b]"
+    "name": "Glover (USA) (Beta) (1998-07-16) [b]",
+    "ref": "270BE17B3C8DA9B88A7B99C2A545B0BCE16837F4"
   },
   "3DA3074FE998DBC6C47791A5B6DCBB5143B0FAD8": {
-    "name": "Glover (USA) (Rev 1) (Proto)"
+    "name": "Glover (USA) (Rev 1) (Proto)",
+    "ref": "270BE17B3C8DA9B88A7B99C2A545B0BCE16837F4"
   },
   "B65FA904660F1921EA4D1481F200A2DE0655221D": {
     "name": "Glover 2 (USA) (Unk Proto)"
@@ -1091,10 +1214,12 @@
     "logo": "QmQJxDhheqhZguwPQzESdPtLpfdJE7PMmdKwpfU8EeaFKk"
   },
   "167C3C433DEC1F1EB921736F7D53FAC8CB45EE31": {
-    "name": "GoldenEye 007 (Europe)"
+    "name": "GoldenEye 007 (Europe)",
+    "ref": "ABE01E4AEB033B6C0836819F549C791B26CFDE83"
   },
   "2A5DADE32F7FAD6C73C659D2026994632C1B3174": {
-    "name": "GoldenEye 007 (Japan)"
+    "name": "GoldenEye 007 (Japan)",
+    "ref": "ABE01E4AEB033B6C0836819F549C791B26CFDE83"
   },
   "ABE01E4AEB033B6C0836819F549C791B26CFDE83": {
     "name": "GoldenEye 007 (USA)",
@@ -1102,7 +1227,8 @@
     "logo": "QmQu1Bh6p9z1V9e7pvSVFrMaTAvHFwwNpoR1NqoHYFsDpA"
   },
   "A4D0D694F521CEF69F64ACAEE3EB420A64F28E4D": {
-    "name": "GT 64 - Championship Edition (Europe) (En,Fr,De)"
+    "name": "GT 64 - Championship Edition (Europe) (En,Fr,De)",
+    "ref": "B941246AF78748F4E081F496DAC0A9E2056D3D8D"
   },
   "B941246AF78748F4E081F496DAC0A9E2056D3D8D": {
     "name": "GT 64 - Championship Edition (USA)",
@@ -1110,7 +1236,8 @@
     "logo": "QmPGMkg5CUtScKGWLx51rWPSPCJZcFXF8QsFV61BzvU2dC"
   },
   "6B58306825EF85A3A128DD5BC0BC0C21F517B3A2": {
-    "name": "GT 64 - Championship Edition (USA) (Beta) (1998-05-25)"
+    "name": "GT 64 - Championship Edition (USA) (Beta) (1998-05-25)",
+    "ref": "B941246AF78748F4E081F496DAC0A9E2056D3D8D"
   },
   "436627174830FB9941BD4F25EFA6FA1024498A97": {
     "name": "Hamster Monogatari 64 (Japan)"
@@ -1127,7 +1254,8 @@
     "name": "Heiwa Pachinko World 64 (Japan)"
   },
   "D2E26F4AECF488F87E1AB36395280385B060D229": {
-    "name": "Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "5C3C4345BE505763FC51A9E3713F5787E4044646"
   },
   "5C3C4345BE505763FC51A9E3713F5787E4044646": {
     "name": "Hercules - The Legendary Journeys (USA)",
@@ -1135,16 +1263,20 @@
     "logo": "QmbNa1vh2jTqoUEgPiveyt3rf5XC6bSW8TJA1coL2ZgMki"
   },
   "1A929AE2A7930CF4B762FA28A9D20338C5FED847": {
-    "name": "Hexen (Europe)"
+    "name": "Hexen (Europe)",
+    "ref": "A602839132F6CCA71F175FB72039897705BA4661"
   },
   "476D3B340BA2A1B1ACC1D0CC97AC6E25A5136CA2": {
-    "name": "Hexen (France)"
+    "name": "Hexen (France)",
+    "ref": "A602839132F6CCA71F175FB72039897705BA4661"
   },
   "8D10CA2860D72C3C1ADB409485936C4BA3F18396": {
-    "name": "Hexen (Germany)"
+    "name": "Hexen (Germany)",
+    "ref": "A602839132F6CCA71F175FB72039897705BA4661"
   },
   "3E3E2B012BBB873338B0573F6E11426E38F8B5CD": {
-    "name": "Hexen (Japan)"
+    "name": "Hexen (Japan)",
+    "ref": "A602839132F6CCA71F175FB72039897705BA4661"
   },
   "A602839132F6CCA71F175FB72039897705BA4661": {
     "name": "Hexen (USA)",
@@ -1179,7 +1311,8 @@
     "name": "Hoshi no Kirby 64 (Japan) (Rev 3)"
   },
   "FBCFD6D466931E5CB71FE880C52EA692C3F84D75": {
-    "name": "Hot Wheels - Turbo Racing (Europe) (En,Fr,De)"
+    "name": "Hot Wheels - Turbo Racing (Europe) (En,Fr,De)",
+    "ref": "94913A07E49005FFD43DFDFA16FF5862BDB93748"
   },
   "94913A07E49005FFD43DFDFA16FF5862BDB93748": {
     "name": "Hot Wheels - Turbo Racing (USA)",
@@ -1193,10 +1326,12 @@
     "name": "Human Grand Prix - The New Generation (Japan)"
   },
   "D2210D492BAD952B055A4269E45FD89631C32D25": {
-    "name": "Hybrid Heaven (Europe) (En,Fr,De)"
+    "name": "Hybrid Heaven (Europe) (En,Fr,De)",
+    "ref": "16DBC21620B52DEAB5C5ABF8A309AC60ADFBEE85"
   },
   "09F4D3200B0BD4B984A80248AF07DE3C40B5CC26": {
-    "name": "Hybrid Heaven (Japan)"
+    "name": "Hybrid Heaven (Japan)",
+    "ref": "16DBC21620B52DEAB5C5ABF8A309AC60ADFBEE85"
   },
   "16DBC21620B52DEAB5C5ABF8A309AC60ADFBEE85": {
     "name": "Hybrid Heaven (USA)",
@@ -1204,10 +1339,12 @@
     "logo": "QmZJQSCPHvpBfijbUbcHnSrzdqMdL45qGc9pwojbiWbSCH"
   },
   "0661B1B0E47BC02D9B0D87D1688FD466793C074B": {
-    "name": "Hydro Thunder (Europe)"
+    "name": "Hydro Thunder (Europe)",
+    "ref": "F5D5054F97DA0D68857F9824130147EC38EE7A76"
   },
   "03FA91AEC0819654F1AD0D12BB81CE3F5D7D08AE": {
-    "name": "Hydro Thunder (France)"
+    "name": "Hydro Thunder (France)",
+    "ref": "F5D5054F97DA0D68857F9824130147EC38EE7A76"
   },
   "F5D5054F97DA0D68857F9824130147EC38EE7A76": {
     "name": "Hydro Thunder (USA)",
@@ -1224,7 +1361,8 @@
     "name": "Iggy-kun no Bura Bura Poyon (Japan)"
   },
   "DA3C5BA5849E104383EA4C3DF1FBDB8253F184C9": {
-    "name": "Iggy's Reckin' Balls (Europe)"
+    "name": "Iggy's Reckin' Balls (Europe)",
+    "ref": "1A32230E0EF147B3C8C07ECE5AEC96458286B4AF"
   },
   "1A32230E0EF147B3C8C07ECE5AEC96458286B4AF": {
     "name": "Iggy's Reckin' Balls (USA)",
@@ -1232,7 +1370,8 @@
     "logo": "QmQ5K1buuRhsiK4CVz3vV8X38d9ZWKusrZXfNpksxtyVP3"
   },
   "D36374BE227E972B1C0B6F2CFBB8FDD724AA1074": {
-    "name": "In-Fisherman - Bass Hunter 64 (Europe)"
+    "name": "In-Fisherman - Bass Hunter 64 (Europe)",
+    "ref": "4AA373E23876C89A549C98036F456B564D779217"
   },
   "4AA373E23876C89A549C98036F456B564D779217": {
     "name": "In-Fisherman - Bass Hunter 64 (USA)",
@@ -1251,7 +1390,8 @@
     "logo": "QmWAo3G8V6Nwog9HpX1W62gECptLBdaZvgCiGjgNsDwQ5b"
   },
   "CCAFFEE3A793A0C3A5E7C48FBC4A4759EF29153F": {
-    "name": "International Superstar Soccer '98 (Europe)"
+    "name": "International Superstar Soccer '98 (Europe)",
+    "ref": "053735184D414E0A1BBD888F3C931252EA1B92FD"
   },
   "053735184D414E0A1BBD888F3C931252EA1B92FD": {
     "name": "International Superstar Soccer '98 (USA)",
@@ -1259,16 +1399,20 @@
     "logo": "QmRSYGsrLcVyHhSS8Sak3QcBLtVgBe6ge96otoeeb1z7Yt"
   },
   "2FB15E4517EBE84F4A354E555716105FE69DD993": {
-    "name": "International Superstar Soccer '98 (Europe) (Beta) (1998-03-02)"
+    "name": "International Superstar Soccer '98 (Europe) (Beta) (1998-03-02)",
+    "ref": "053735184D414E0A1BBD888F3C931252EA1B92FD"
   },
   "47A993FE1316DFD9E208603370D3DDDAE05F1D1B": {
-    "name": "International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)"
+    "name": "International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)",
+    "ref": "E7BD36C410CE881D8B8DC853CB4B7B7961BF6A62"
   },
   "E7078E5F1E899382B1CC145DF43EE8CFAA924297": {
-    "name": "International Superstar Soccer 2000 (Europe) (En,De)"
+    "name": "International Superstar Soccer 2000 (Europe) (En,De)",
+    "ref": "E7BD36C410CE881D8B8DC853CB4B7B7961BF6A62"
   },
   "B0505E13BA0F029EA735378C50B224FD618BE302": {
-    "name": "International Superstar Soccer 2000 (Europe) (Fr,It)"
+    "name": "International Superstar Soccer 2000 (Europe) (Fr,It)",
+    "ref": "E7BD36C410CE881D8B8DC853CB4B7B7961BF6A62"
   },
   "E7BD36C410CE881D8B8DC853CB4B7B7961BF6A62": {
     "name": "International Superstar Soccer 2000 (USA) (En,Es)",
@@ -1276,7 +1420,8 @@
     "logo": "QmP8crxms4sRhmo9PqdsaxvELfkm1VCWqvZbgYwLbuP9tY"
   },
   "3B53FD76BB37B923B0FE61E50057AE773A25170A": {
-    "name": "International Superstar Soccer 64 (Europe)"
+    "name": "International Superstar Soccer 64 (Europe)",
+    "ref": "D2C258EE3844BE77049E4AF5208F8F2BB073A86E"
   },
   "D2C258EE3844BE77049E4AF5208F8F2BB073A86E": {
     "name": "International Superstar Soccer 64 (USA)",
@@ -1319,7 +1464,8 @@
     "logo": "QmRAnVPySqZ4t2VvJcAPgsc9Aaku9xbeNiRQ6cNykQaiUD"
   },
   "7804A688C9F7ED39D9C1A33C0339F4317D3918DC": {
-    "name": "Jeremy McGrath Supercross 2000 (Europe)"
+    "name": "Jeremy McGrath Supercross 2000 (Europe)",
+    "ref": "278AD55333B7B75970812ECB9E691111CA3CFC46"
   },
   "278AD55333B7B75970812ECB9E691111CA3CFC46": {
     "name": "Jeremy McGrath Supercross 2000 (USA)",
@@ -1327,7 +1473,8 @@
     "logo": "QmUbEQELx6A53mUCDhJ7t1XCJjA15AQJd8CyDnabcKeJ5v"
   },
   "50651C4E0C46332F7F0B45870263F0A8B9A49602": {
-    "name": "Jet Force Gemini (Europe) (En,Fr,De,Es)"
+    "name": "Jet Force Gemini (Europe) (En,Fr,De,Es)",
+    "ref": "493CED9008DBE932D6E91179B68E8630CF23A023"
   },
   "493CED9008DBE932D6E91179B68E8630CF23A023": {
     "name": "Jet Force Gemini (USA)",
@@ -1335,7 +1482,8 @@
     "logo": "Qmbx1gzeimUag3CuVa6DKcp5zgmXvqZHT6291fiKhYRh8A"
   },
   "F00F7C7FB085D0DF57DCB649793ACED5BE4E8562": {
-    "name": "Jet Force Gemini (USA) (Demo) (Kiosk)"
+    "name": "Jet Force Gemini (USA) (Demo) (Kiosk)",
+    "ref": "493CED9008DBE932D6E91179B68E8630CF23A023"
   },
   "EB7B24BAC29DF362CAB562662AE9A5DE7D5FB0C3": {
     "name": "Jikkyou G1 Stable (Japan)"
@@ -1410,10 +1558,12 @@
     "name": "Jinsei Game 64 (Japan)"
   },
   "0278C3F9B2780890C4C2A3EE8A10C550A1EDA346": {
-    "name": "John Romero's Daikatana (Europe) (En,Fr,De)"
+    "name": "John Romero's Daikatana (Europe) (En,Fr,De)",
+    "ref": "08709013D512F3A2BED65B98AB451EC8B839D3B4"
   },
   "4ED2EC28997865E301C5693639C2EC717C79A5BC": {
-    "name": "John Romero's Daikatana (Japan)"
+    "name": "John Romero's Daikatana (Japan)",
+    "ref": "08709013D512F3A2BED65B98AB451EC8B839D3B4"
   },
   "08709013D512F3A2BED65B98AB451EC8B839D3B4": {
     "name": "John Romero's Daikatana (USA)",
@@ -1429,13 +1579,16 @@
     "logo": "QmdVwmFr8jLszUzPZGyzjbQwNhuaKq1dhz2bWEzERMtBuD"
   },
   "E0ED97C7310B012A5CF81C6F6678A75B8601B47E": {
-    "name": "Killer Instinct Gold (Europe)"
+    "name": "Killer Instinct Gold (Europe)",
+    "ref": "AAEB492B1E538AF65A3544A97240675EF438A04F"
   },
   "BA52E91B44450C548467044B26951353DC491E04": {
-    "name": "Killer Instinct Gold (USA)"
+    "name": "Killer Instinct Gold (USA)",
+    "ref": "AAEB492B1E538AF65A3544A97240675EF438A04F"
   },
   "BCC599ED0F0B8B75A8068269958A2230EC7CB34C": {
-    "name": "Killer Instinct Gold (USA) (Rev 1)"
+    "name": "Killer Instinct Gold (USA) (Rev 1)",
+    "ref": "AAEB492B1E538AF65A3544A97240675EF438A04F"
   },
   "AAEB492B1E538AF65A3544A97240675EF438A04F": {
     "name": "Killer Instinct Gold (USA) (Rev 2)",
@@ -1449,7 +1602,8 @@
     "name": "Kiratto Kaiketsu! 64 Tanteidan (Japan)"
   },
   "52E8382252EC9B629662153EAE6F87AE3675B700": {
-    "name": "Kirby 64 - The Crystal Shards (Europe)"
+    "name": "Kirby 64 - The Crystal Shards (Europe)",
+    "ref": "6CEA2D46B929A3BB347B060A77FCCC83526FB855"
   },
   "6CEA2D46B929A3BB347B060A77FCCC83526FB855": {
     "name": "Kirby 64 - The Crystal Shards (USA)",
@@ -1457,10 +1611,12 @@
     "logo": "QmauNbQyFm1QEjmRvfirGN742yiXoavRk5kgzSTVrcCBPq"
   },
   "5359C747E91C9119FDE3A7920333A9D0C04D251D": {
-    "name": "Knife Edge - Nose Gunner (Europe)"
+    "name": "Knife Edge - Nose Gunner (Europe)",
+    "ref": "B247167E37E7F62924BE6B0D2362A091FD2352AC"
   },
   "B3242226237A401436D9D7A8D533296333E64240": {
-    "name": "Knife Edge - Nose Gunner (Japan)"
+    "name": "Knife Edge - Nose Gunner (Japan)",
+    "ref": "B247167E37E7F62924BE6B0D2362A091FD2352AC"
   },
   "B247167E37E7F62924BE6B0D2362A091FD2352AC": {
     "name": "Knife Edge - Nose Gunner (USA)",
@@ -1468,7 +1624,8 @@
     "logo": "Qmd3sjx9vw939dRCQnddsxy3nuM7iMB6AKiZB7Y8oFoYsQ"
   },
   "181D220EFAA3E06AC5A7BAAC4B6A351B762EC384": {
-    "name": "Knockout Kings 2000 (Europe)"
+    "name": "Knockout Kings 2000 (Europe)",
+    "ref": "AE7229676DA9ACB39BECB03246969693585B7728"
   },
   "AE7229676DA9ACB39BECB03246969693585B7728": {
     "name": "Knockout Kings 2000 (USA)",
@@ -1476,7 +1633,8 @@
     "logo": "Qmef6pBXebK3SbTjnePqxn7fkTnhhTB8CBpKxhmsyz5FME"
   },
   "6390DC1CD4600CA57069D92F39F108A4CC1B62F1": {
-    "name": "Kobe Bryant in NBA Courtside (Europe)"
+    "name": "Kobe Bryant in NBA Courtside (Europe)",
+    "ref": "49346B3124750C14DDDF56B9BB2FE38B618F28F2"
   },
   "49346B3124750C14DDDF56B9BB2FE38B618F28F2": {
     "name": "Kobe Bryant in NBA Courtside (USA)",
@@ -1487,10 +1645,12 @@
     "name": "Last Legion UX (Japan)"
   },
   "C04599CDAFEE1C84A7AF9A71DF68F139179ADA84": {
-    "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)"
+    "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)",
+    "ref": "D6133ACE5AFAA0882CF214CF88DABA39E266C078"
   },
   "BB4E4757D10727C7584C59C1F2E5F44196E9C293": {
-    "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1)"
+    "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1)",
+    "ref": "D6133ACE5AFAA0882CF214CF88DABA39E266C078"
   },
   "D6133ACE5AFAA0882CF214CF88DABA39E266C078": {
     "name": "Legend of Zelda, The - Majora's Mask (USA)",
@@ -1498,31 +1658,40 @@
     "logo": "QmRyYueTL7zeMJSErebYeHoiAYkSNJHDTeYZYQLvBGyxGo"
   },
   "2F0744F2422B0421697A74B305CB1EF27041AB11": {
-    "name": "Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk)"
+    "name": "Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk)",
+    "ref": "D6133ACE5AFAA0882CF214CF88DABA39E266C078"
   },
   "55541662A192C66E34A011D4BF6F4A0EC69899AE": {
-    "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)"
+    "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)",
+    "ref": "D6133ACE5AFAA0882CF214CF88DABA39E266C078"
   },
   "9743AA026E9269B339EB0E3044CD5830A440C1FD": {
-    "name": "Legend of Zelda, The - Majora's Mask (USA) (GameCube)"
+    "name": "Legend of Zelda, The - Majora's Mask (USA) (GameCube)",
+    "ref": "D6133ACE5AFAA0882CF214CF88DABA39E266C078"
   },
   "A849A65E56D57D4DD98B550524150F898DF90A9F": {
-    "name": "Legend of Zelda, The - Majora's Mask (Europe) (GameCube)"
+    "name": "Legend of Zelda, The - Majora's Mask (Europe) (GameCube)",
+    "ref": "D6133ACE5AFAA0882CF214CF88DABA39E266C078"
   },
   "C487DB55C2C3A97CCD39DED13EF9FD9121DAE729": {
-    "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)"
+    "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)",
+    "ref": "D6133ACE5AFAA0882CF214CF88DABA39E266C078"
   },
   "328A1F1BEBA30CE5E178F031662019EB32C5F3B5": {
-    "name": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)"
+    "name": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)",
+    "ref": "41B3BDC48D98C48529219919015A1AF22F5057C2"
   },
   "CFBB98D392E4A9D39DA8285D10CBEF3974C2F012": {
-    "name": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)"
+    "name": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)",
+    "ref": "41B3BDC48D98C48529219919015A1AF22F5057C2"
   },
   "AD69C91157F6705E8AB06C79FE08AAD47BB57BA7": {
-    "name": "Legend of Zelda, The - Ocarina of Time (USA)"
+    "name": "Legend of Zelda, The - Ocarina of Time (USA)",
+    "ref": "41B3BDC48D98C48529219919015A1AF22F5057C2"
   },
   "D3ECB253776CD847A5AA63D859D8C89A2F37B364": {
-    "name": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)"
+    "name": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)",
+    "ref": "41B3BDC48D98C48529219919015A1AF22F5057C2"
   },
   "41B3BDC48D98C48529219919015A1AF22F5057C2": {
     "name": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)",
@@ -1530,19 +1699,24 @@
     "logo": "QmPebEuSgdSkVrEg7JWiamMwbEtuMs4jx1BPzAhy96Vh94"
   },
   "B82710BA2BD3B4C6EE8AA1A7E9ACF787DFC72E9B": {
-    "name": "Legend of Zelda, The - Ocarina of Time (USA) (GameCube)"
+    "name": "Legend of Zelda, The - Ocarina of Time (USA) (GameCube)",
+    "ref": "41B3BDC48D98C48529219919015A1AF22F5057C2"
   },
   "0227D7C0074F2D0AC935631990DA8EC5914597B4": {
-    "name": "Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)"
+    "name": "Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)",
+    "ref": "41B3BDC48D98C48529219919015A1AF22F5057C2"
   },
   "70537A3144C8813B115252C40065C117CB139DCD": {
-    "name": "Legend of Zelda, The - Ocarina of Time (USA) (Beta)"
+    "name": "Legend of Zelda, The - Ocarina of Time (USA) (Beta)",
+    "ref": "41B3BDC48D98C48529219919015A1AF22F5057C2"
   },
   "DA19CA4AAC723C155D55AE371107B8462044E350": {
-    "name": "Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)"
+    "name": "Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)",
+    "ref": "41B3BDC48D98C48529219919015A1AF22F5057C2"
   },
   "CEE6BC3C2A634B41728F2AF8DA54D9BF8CC14099": {
-    "name": "Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube)"
+    "name": "Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube)",
+    "ref": "41B3BDC48D98C48529219919015A1AF22F5057C2"
   },
   "50BEBEDAD9E0F10746A52B07239E47FA6C284D03": {
     "name": "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug) (GameCube)"
@@ -1554,7 +1728,8 @@
     "name": "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube)"
   },
   "6E9C4B097628F0147E9E79393DBA6D7B4E59986F": {
-    "name": "LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"
+    "name": "LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+    "ref": "8DECC41869926E20DA2EB3DA526E6395AA33CECE"
   },
   "8DECC41869926E20DA2EB3DA526E6395AA33CECE": {
     "name": "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
@@ -1565,10 +1740,12 @@
     "name": "Let's Smash (Japan)"
   },
   "3B198C0117DA808B25FBC4E543D282228BB4780A": {
-    "name": "Lode Runner 3-D (Europe) (En,Fr,De,Es,It)"
+    "name": "Lode Runner 3-D (Europe) (En,Fr,De,Es,It)",
+    "ref": "D3A13C0CFDFF835FDF87D5DC7C5149FBA564877F"
   },
   "A115C19E1DEA438861437A326124C0E7A482DE3B": {
-    "name": "Lode Runner 3-D (Japan)"
+    "name": "Lode Runner 3-D (Japan)",
+    "ref": "D3A13C0CFDFF835FDF87D5DC7C5149FBA564877F"
   },
   "D3A13C0CFDFF835FDF87D5DC7C5149FBA564877F": {
     "name": "Lode Runner 3-D (USA)",
@@ -1582,7 +1759,8 @@
     "name": "Lylatwars (Europe) (En,Fr,De)"
   },
   "19FC1FE13A3C50A5D03D44D2E93440967C7F3618": {
-    "name": "Mace - The Dark Age (Europe)"
+    "name": "Mace - The Dark Age (Europe)",
+    "ref": "05D82A2C73AC536180B68137DBB9972A9E8E883E"
   },
   "05D82A2C73AC536180B68137DBB9972A9E8E883E": {
     "name": "Mace - The Dark Age (USA)",
@@ -1590,10 +1768,12 @@
     "logo": "QmaK2CUVPTTc5tpsCCMVaX5hduAR6NbhAsGZAxFjkyJgHw"
   },
   "C515895FAAA5EBF0D043D285AAF51046B5E28B8F": {
-    "name": "Mace - The Dark Age (Unknown) (Beta)"
+    "name": "Mace - The Dark Age (Unknown) (Beta)",
+    "ref": "05D82A2C73AC536180B68137DBB9972A9E8E883E"
   },
   "ACF22B715B11609F42DF24ABAC143BC0221D12F4": {
-    "name": "Madden Football 64 (Europe)"
+    "name": "Madden Football 64 (Europe)",
+    "ref": "B0DE34B759F18AD86D39A4C68C9840D35CE25809"
   },
   "B0DE34B759F18AD86D39A4C68C9840D35CE25809": {
     "name": "Madden Football 64 (USA)",
@@ -1616,7 +1796,8 @@
     "logo": "QmTWRYGh3aQAcAVgmLKobCKEwyjCLXVHuBvPCBA1PhEuhW"
   },
   "7C55BA6741DCF96208432507B8191B3C15F666DF": {
-    "name": "Madden NFL 99 (Europe)"
+    "name": "Madden NFL 99 (Europe)",
+    "ref": "2E8595C6EA0267A0344C0E203B4B08F00A42B13A"
   },
   "2E8595C6EA0267A0344C0E203B4B08F00A42B13A": {
     "name": "Madden NFL 99 (USA)",
@@ -1624,16 +1805,20 @@
     "logo": "QmamxWwQBtyibCbaKopbGQocU9tXu5Cajb9pdxM9En46Xb"
   },
   "80236FC4CE2BB95DE513F3B2BE74ACEC9DA4804C": {
-    "name": "Madden NFL 99 (USA) (Beta) (1998-08-05)"
+    "name": "Madden NFL 99 (USA) (Beta) (1998-08-05)",
+    "ref": "2E8595C6EA0267A0344C0E203B4B08F00A42B13A"
   },
   "68C0C53489B790568ACB1D863B74B89975DB4A62": {
-    "name": "Madden NFL 99 (USA) (Rev 1)"
+    "name": "Madden NFL 99 (USA) (Rev 1)",
+    "ref": "2E8595C6EA0267A0344C0E203B4B08F00A42B13A"
   },
   "ECC73F8A0A530EE42A56B46611DA6F74B728FE7D": {
-    "name": "Magical Tetris Challenge (Europe)"
+    "name": "Magical Tetris Challenge (Europe)",
+    "ref": "CA3FBD17406031A88E04BB79959D851550B641D0"
   },
   "ACE81319209D50D074418934554CBFB261D27288": {
-    "name": "Magical Tetris Challenge (Germany)"
+    "name": "Magical Tetris Challenge (Germany)",
+    "ref": "CA3FBD17406031A88E04BB79959D851550B641D0"
   },
   "CA3FBD17406031A88E04BB79959D851550B641D0": {
     "name": "Magical Tetris Challenge (USA)",
@@ -1653,7 +1838,8 @@
     "name": "Mahjong Master (Japan)"
   },
   "E300E8ACB110D72BC5BFEE4FC4981E09B881300E": {
-    "name": "Major League Baseball Featuring Ken Griffey Jr. (Australia)"
+    "name": "Major League Baseball Featuring Ken Griffey Jr. (Australia)",
+    "ref": "54B8C97523089D92754C2582A7B7A43246947122"
   },
   "54B8C97523089D92754C2582A7B7A43246947122": {
     "name": "Major League Baseball Featuring Ken Griffey Jr. (USA)",
@@ -1661,7 +1847,8 @@
     "logo": "QmQ3xxDaT7A4keimDtoUzsqUkpZ1JPtcPSav27fpkfiZd2"
   },
   "A3F057212E134C411258837271DB8A08A6A7921E": {
-    "name": "Mario Golf (Europe)"
+    "name": "Mario Golf (Europe)",
+    "ref": "E2C4E7A905B29529B49A1619A401FE699224829B"
   },
   "E2C4E7A905B29529B49A1619A401FE699224829B": {
     "name": "Mario Golf (USA)",
@@ -1687,16 +1874,20 @@
     "name": "Mario Kadingche (China) (v6) (iQue) (Manual)"
   },
   "A729039453210B84F17019DDA3F248D5888F7690": {
-    "name": "Mario Kart 64 (Europe)"
+    "name": "Mario Kart 64 (Europe)",
+    "ref": "579C48E211AE952530FFC8738709F078D5DD215E"
   },
   "F6B5F519DD57EA59E9F013CC64816E9D273B2329": {
-    "name": "Mario Kart 64 (Europe) (Rev 1)"
+    "name": "Mario Kart 64 (Europe) (Rev 1)",
+    "ref": "579C48E211AE952530FFC8738709F078D5DD215E"
   },
   "AFEEEC65B9A03F0CB8EC92F9BA7A9F0122E8BD0E": {
-    "name": "Mario Kart 64 (Japan)"
+    "name": "Mario Kart 64 (Japan)",
+    "ref": "579C48E211AE952530FFC8738709F078D5DD215E"
   },
   "9F439457585146A4E1DA7E1DD9104F7F94381688": {
-    "name": "Mario Kart 64 (Japan) (Rev 1)"
+    "name": "Mario Kart 64 (Japan) (Rev 1)",
+    "ref": "579C48E211AE952530FFC8738709F078D5DD215E"
   },
   "579C48E211AE952530FFC8738709F078D5DD215E": {
     "name": "Mario Kart 64 (USA)",
@@ -1707,10 +1898,12 @@
     "name": "Mario no Photopie (Japan)"
   },
   "D7BA071C220A71F5E4503E55C98C91FF8F027848": {
-    "name": "Mario Party (Europe) (En,Fr,De)"
+    "name": "Mario Party (Europe) (En,Fr,De)",
+    "ref": "1159BD56730094BFC71BE30113E1CFC8BACF34F3"
   },
   "37FD6D27F55C468DC36EFB92A255F7AB04FFC0A8": {
-    "name": "Mario Party (Japan)"
+    "name": "Mario Party (Japan)",
+    "ref": "1159BD56730094BFC71BE30113E1CFC8BACF34F3"
   },
   "1159BD56730094BFC71BE30113E1CFC8BACF34F3": {
     "name": "Mario Party (USA)",
@@ -1718,10 +1911,12 @@
     "logo": "QmSup3mKtQ8tEhDvmoMdWrjSnkNtj5o9hahUir2WbmV7LL"
   },
   "FA5D1426488B298A1C5C383360A78F1A3DE18DC7": {
-    "name": "Mario Party 2 (Europe) (En,Fr,De,Es,It)"
+    "name": "Mario Party 2 (Europe) (En,Fr,De,Es,It)",
+    "ref": "166EDA1C05670D337E2C3F15A5DB528AE1E5D6E3"
   },
   "26F4637167AAAA0E420BB4FDB26A965FD34F8D19": {
-    "name": "Mario Party 2 (Japan)"
+    "name": "Mario Party 2 (Japan)",
+    "ref": "166EDA1C05670D337E2C3F15A5DB528AE1E5D6E3"
   },
   "166EDA1C05670D337E2C3F15A5DB528AE1E5D6E3": {
     "name": "Mario Party 2 (USA)",
@@ -1729,19 +1924,24 @@
     "logo": "QmcCUdNH5cB8U2LZFFzGzW1wuLMek6wGN5jwpy5V25aUtd"
   },
   "3DB98872699002F3E9FB82CF9A3F79F1B52E2A51": {
-    "name": "Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)"
+    "name": "Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)",
+    "ref": "166EDA1C05670D337E2C3F15A5DB528AE1E5D6E3"
   },
   "3DA1DFDDF2117830B9F43C006970C9D78D0F1B6A": {
-    "name": "Mario Party 2 (Japan) (Wii Virtual Console)"
+    "name": "Mario Party 2 (Japan) (Wii Virtual Console)",
+    "ref": "166EDA1C05670D337E2C3F15A5DB528AE1E5D6E3"
   },
   "6B950EA20EDCFC2B0C30EF3EEF0DA5AAD628F9FA": {
-    "name": "Mario Party 2 (USA) (Wii Virtual Console)"
+    "name": "Mario Party 2 (USA) (Wii Virtual Console)",
+    "ref": "166EDA1C05670D337E2C3F15A5DB528AE1E5D6E3"
   },
   "9E1DDFE872C6D43AE51010A9E8A6FE2D2E634B50": {
-    "name": "Mario Party 3 (Europe) (En,Fr,De,Es)"
+    "name": "Mario Party 3 (Europe) (En,Fr,De,Es)",
+    "ref": "6BEB80FF822B96BCF85DCDB512E8B2B7969D8259"
   },
   "43CF5EB8BD68EF57BA1C9B4CAE7BD18F1826E543": {
-    "name": "Mario Party 3 (Japan)"
+    "name": "Mario Party 3 (Japan)",
+    "ref": "6BEB80FF822B96BCF85DCDB512E8B2B7969D8259"
   },
   "6BEB80FF822B96BCF85DCDB512E8B2B7969D8259": {
     "name": "Mario Party 3 (USA)",
@@ -1752,7 +1952,8 @@
     "name": "Mario Story (Japan)"
   },
   "B5E4AA1ABF8FC8022FC47F30CD6D4AC6A6B21684": {
-    "name": "Mario Tennis (Europe)"
+    "name": "Mario Tennis (Europe)",
+    "ref": "999047F07CEC931FFBDCC7B33B8502EF602807EE"
   },
   "999047F07CEC931FFBDCC7B33B8502EF602807EE": {
     "name": "Mario Tennis (USA)",
@@ -1760,10 +1961,12 @@
     "logo": "QmVnp98GNuS31rMEUzKvZBAMntNHZ5nujibU5C79PhPjvp"
   },
   "E1F1EC3BB2DEEA60EBEA05A846C2EF4E5CE5D90F": {
-    "name": "Mario Tennis (Europe) (Wii Virtual Console)"
+    "name": "Mario Tennis (Europe) (Wii Virtual Console)",
+    "ref": "999047F07CEC931FFBDCC7B33B8502EF602807EE"
   },
   "36BCBB5B9B5592D05482AC677A0C54DF51B122A1": {
-    "name": "Mario Tennis (USA) (Wii Virtual Console)"
+    "name": "Mario Tennis (USA) (Wii Virtual Console)",
+    "ref": "999047F07CEC931FFBDCC7B33B8502EF602807EE"
   },
   "8AA424795BBE87C659F777D0843E236340B12E16": {
     "name": "Mario Tennis 64 (Japan)"
@@ -1786,7 +1989,8 @@
     "logo": "QmUoshiVTaFCvH15WQVVZgVMupLm8NsBtRt1zo3Tb2v11J"
   },
   "7FC1DB2B88CD43A5E76697EE449BC946E9A48C03": {
-    "name": "Mega Man 64 (USA) (Beta)"
+    "name": "Mega Man 64 (USA) (Beta)",
+    "ref": "F24FE0AFF01AEC018E2DD558EC4F076CF328129F"
   },
   "62CE9D1C1F4CF7BEAA1EF7C456C155F63F13F057": {
     "name": "Mia Hamm Soccer 64 (USA) (En,Es)",
@@ -1800,7 +2004,8 @@
     "name": "Mickey no Racing Challenge USA (Japan)"
   },
   "C583ED998A6B422A22FFD3F8376C3CEF0C3710D9": {
-    "name": "Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)"
+    "name": "Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)",
+    "ref": "507341C0A40CA3E9A7CEE969B396EE53FACFB548"
   },
   "507341C0A40CA3E9A7CEE969B396EE53FACFB548": {
     "name": "Mickey's Speedway USA (USA)",
@@ -1808,7 +2013,8 @@
     "logo": "QmUhFTcwwnEPapWRsh386LLMbAUz4nA4hSVg28Zpjqbqqz"
   },
   "E5E2D6169AF2663E5519795B28BEC018934E86EE": {
-    "name": "Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It)"
+    "name": "Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It)",
+    "ref": "9672FA010A06ADF01074C9720EE46031F5D9E101"
   },
   "9672FA010A06ADF01074C9720EE46031F5D9E101": {
     "name": "Micro Machines 64 Turbo (USA)",
@@ -1833,10 +2039,12 @@
     "name": "Mini Racers (USA) (Ja) (Proto)"
   },
   "E5405AAD683959EDAB641B5DA05B8159CAC93E63": {
-    "name": "Mischief Makers (Europe)"
+    "name": "Mischief Makers (Europe)",
+    "ref": "811709C6473F74CBF283AA61F056E1DE3046EC73"
   },
   "5EB5A9D6F413A379FE297FE1542D21F728393A27": {
-    "name": "Mischief Makers (USA)"
+    "name": "Mischief Makers (USA)",
+    "ref": "811709C6473F74CBF283AA61F056E1DE3046EC73"
   },
   "811709C6473F74CBF283AA61F056E1DE3046EC73": {
     "name": "Mischief Makers (USA) (Rev 1)",
@@ -1847,19 +2055,24 @@
     "ref": "811709C6473F74CBF283AA61F056E1DE3046EC73"
   },
   "1A406D19F527D1E394FA140290FDE04D81D3E639": {
-    "name": "Mission - Impossible (Europe)"
+    "name": "Mission - Impossible (Europe)",
+    "ref": "7546D5DF1FC93FED8205A066F1333FD7DD50C1E1"
   },
   "EA934F931124DB891F12E92726FAAE5EDDE39C45": {
-    "name": "Mission - Impossible (France)"
+    "name": "Mission - Impossible (France)",
+    "ref": "7546D5DF1FC93FED8205A066F1333FD7DD50C1E1"
   },
   "906FFAB2F8E8EECE17E0846FFBD9EA32370206DA": {
-    "name": "Mission - Impossible (Germany)"
+    "name": "Mission - Impossible (Germany)",
+    "ref": "7546D5DF1FC93FED8205A066F1333FD7DD50C1E1"
   },
   "9EE0E754B7AFAF751DF281B9411EC1D8F30A894D": {
-    "name": "Mission - Impossible (Italy)"
+    "name": "Mission - Impossible (Italy)",
+    "ref": "7546D5DF1FC93FED8205A066F1333FD7DD50C1E1"
   },
   "D79C313B8581B558DBECA29F797D91A8B3122841": {
-    "name": "Mission - Impossible (Spain)"
+    "name": "Mission - Impossible (Spain)",
+    "ref": "7546D5DF1FC93FED8205A066F1333FD7DD50C1E1"
   },
   "7546D5DF1FC93FED8205A066F1333FD7DD50C1E1": {
     "name": "Mission - Impossible (USA)",
@@ -1867,7 +2080,8 @@
     "logo": "QmXzNZbCPizTPf2wf9ycYaiuv7RpXKF34ZmNJMBvs3qNpx"
   },
   "E195BDE1941F16F5BC693DCC4E47D63E770B18EB": {
-    "name": "Mission - Impossible (Spain) (Rev 1)"
+    "name": "Mission - Impossible (Spain) (Rev 1)",
+    "ref": "7546D5DF1FC93FED8205A066F1333FD7DD50C1E1"
   },
   "477F945DC38F930336E0D05CFDCBA2C4C30F6A31": {
     "name": "Monaco Grand Prix (USA)",
@@ -1883,7 +2097,8 @@
     "logo": "QmSndaAsrAm4bfVuW6ziDUdD4JfxLbbFAexmbWU1zsSxTh"
   },
   "A702B0616030BFC5FEB78FEAF365EAB74F1A8B6E": {
-    "name": "Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)"
+    "name": "Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)",
+    "ref": "F8C7AE14DF7341881346B1CEAF838D2219291279"
   },
   "F8C7AE14DF7341881346B1CEAF838D2219291279": {
     "name": "Monster Truck Madness 64 (USA)",
@@ -1894,7 +2109,8 @@
     "name": "Morita Shougi 64 (Japan)"
   },
   "34A25CC52F0D2B5FF3A65552F9D43D8714A8E10C": {
-    "name": "Mortal Kombat 4 (Europe)"
+    "name": "Mortal Kombat 4 (Europe)",
+    "ref": "F47D05BBD1BCADDDFF2EC7A21BC2E795CBEF9F9B"
   },
   "F47D05BBD1BCADDDFF2EC7A21BC2E795CBEF9F9B": {
     "name": "Mortal Kombat 4 (USA)",
@@ -1902,7 +2118,8 @@
     "logo": "QmVr6fgiRUQjgx3w9oC8jVEpSAcKuKguMKKwZcEGbxQgUW"
   },
   "E674E0F08D7218136F31CA99A9C5323F0D2BB4D4": {
-    "name": "Mortal Kombat Mythologies - Sub-Zero (Europe)"
+    "name": "Mortal Kombat Mythologies - Sub-Zero (Europe)",
+    "ref": "EF3DF4E1496260D44C44AB7DD145751141F11C60"
   },
   "EF3DF4E1496260D44C44AB7DD145751141F11C60": {
     "name": "Mortal Kombat Mythologies - Sub-Zero (USA)",
@@ -1910,10 +2127,12 @@
     "logo": "QmemgnoLJoKvw6AmiCwSx8AbGm6WNao85DMVG871FC9rHA"
   },
   "5796AAF21BFA0E8532EF225BA4BE3B39EEF1BE63": {
-    "name": "Mortal Kombat Trilogy (Europe)"
+    "name": "Mortal Kombat Trilogy (Europe)",
+    "ref": "11F2488B21F9F7185C25905DD02C2955C35AD5C1"
   },
   "39B3CB20417C503F1C047D5037DF814D1CCF90DD": {
-    "name": "Mortal Kombat Trilogy (USA)"
+    "name": "Mortal Kombat Trilogy (USA)",
+    "ref": "11F2488B21F9F7185C25905DD02C2955C35AD5C1"
   },
   "11F2488B21F9F7185C25905DD02C2955C35AD5C1": {
     "name": "Mortal Kombat Trilogy (USA) (Rev 2)",
@@ -1921,16 +2140,20 @@
     "logo": "QmRMGnet3PoZJt6WvD87nQAJAjg7XXsNsii9uNF874Ab2k"
   },
   "2A10CB20332BEAA067D61E5923CD18BEDD6436D7": {
-    "name": "Mortal Kombat Trilogy (USA) (Rev 1)"
+    "name": "Mortal Kombat Trilogy (USA) (Rev 1)",
+    "ref": "11F2488B21F9F7185C25905DD02C2955C35AD5C1"
   },
   "2F95CE7F8233F1DF82E0AD39AD5BA6A5EBFB6DB7": {
-    "name": "Mortal Kombat Trilogy (USA) (Beta) (1996-05-13)"
+    "name": "Mortal Kombat Trilogy (USA) (Beta) (1996-05-13)",
+    "ref": "11F2488B21F9F7185C25905DD02C2955C35AD5C1"
   },
   "6D8600A1326C39B4B80BB1D4A6500C3F0C6202A1": {
-    "name": "MRC - Multi-Racing Championship (Europe) (En,Fr,De)"
+    "name": "MRC - Multi-Racing Championship (Europe) (En,Fr,De)",
+    "ref": "8BEA68833D63B2F17DAAD4477A572C274A9468BE"
   },
   "B0992A8029622DF74D3165814AA40DF19A14B4A4": {
-    "name": "MRC - Multi-Racing Championship (Japan)"
+    "name": "MRC - Multi-Racing Championship (Japan)",
+    "ref": "8BEA68833D63B2F17DAAD4477A572C274A9468BE"
   },
   "8BEA68833D63B2F17DAAD4477A572C274A9468BE": {
     "name": "MRC - Multi-Racing Championship (USA)",
@@ -1946,7 +2169,8 @@
     "name": "Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)"
   },
   "F7304934BA4E8D98A71500C249BACB168BCA5AF0": {
-    "name": "Mystical Ninja Starring Goemon (Europe)"
+    "name": "Mystical Ninja Starring Goemon (Europe)",
+    "ref": "DF8083A54296B8C151917C5333E1C85F014A2A66"
   },
   "DF8083A54296B8C151917C5333E1C85F014A2A66": {
     "name": "Mystical Ninja Starring Goemon (USA)",
@@ -1954,7 +2178,8 @@
     "logo": "QmXFsjBsuFGGn5W1P2LMpkc1FoxZU16r7KF6QhzeiA6DvF"
   },
   "8FACA645020857B87ED3842BD26CCCBDF31BEC39": {
-    "name": "Nagano Winter Olympics '98 (Europe)"
+    "name": "Nagano Winter Olympics '98 (Europe)",
+    "ref": "EAF543E195731031A84F4136B506449209E3A8F5"
   },
   "EAF543E195731031A84F4136B506449209E3A8F5": {
     "name": "Nagano Winter Olympics '98 (USA)",
@@ -1972,7 +2197,8 @@
     "logo": "QmZTPExMkGuKUq1PzfbvJZ9XircsCde8RpU1zxfeFUUoit"
   },
   "CB43EE3D86A7B85BEFEC8D068D72192FA8174EB0": {
-    "name": "NASCAR 99 (Europe) (En,Fr,De)"
+    "name": "NASCAR 99 (Europe) (En,Fr,De)",
+    "ref": "0FBBAEB4C286D45D27C977D5722E38415EFD1A74"
   },
   "0FBBAEB4C286D45D27C977D5722E38415EFD1A74": {
     "name": "NASCAR 99 (USA)",
@@ -1983,7 +2209,8 @@
     "name": "NBA Courtside 2 featuring Kobe Bryant (USA)"
   },
   "2BCBDD92CCB4C72757739D32557098F4EEC36312": {
-    "name": "NBA Hangtime (Europe)"
+    "name": "NBA Hangtime (Europe)",
+    "ref": "3C96741DB636938F140E9592AD34E93AC25C7762"
   },
   "3C96741DB636938F140E9592AD34E93AC25C7762": {
     "name": "NBA Hangtime (USA)",
@@ -1991,7 +2218,8 @@
     "logo": "QmWaH1zNu79fq1MvcRMsKJfAtMgEh7nisimjmKk2gPANAB"
   },
   "C4DC9049094100D48A010D39F2901E1AB164A8FA": {
-    "name": "NBA in the Zone '98 (Japan)"
+    "name": "NBA in the Zone '98 (Japan)",
+    "ref": "A306D80F483F8BB5891A543919C53FAC61D9348F"
   },
   "A306D80F483F8BB5891A543919C53FAC61D9348F": {
     "name": "NBA in the Zone '98 (USA)",
@@ -2007,7 +2235,8 @@
     "name": "NBA in the Zone 2 (Japan)"
   },
   "255AADF60E9DE652247BB1F7C63B50415D6C4354": {
-    "name": "NBA in the Zone 2000 (Europe)"
+    "name": "NBA in the Zone 2000 (Europe)",
+    "ref": "7E838C203F29336CBDABA77051EBE48D9EAE798D"
   },
   "7E838C203F29336CBDABA77051EBE48D9EAE798D": {
     "name": "NBA in the Zone 2000 (USA)",
@@ -2015,7 +2244,8 @@
     "logo": "QmSSXKmYfooEjK1S1Y81p6jyVXZJieMQbBLH6Q264w6u2L"
   },
   "A91C52AC8AF8DE6172411C5BF8E57F5795BE7F78": {
-    "name": "NBA Jam 2000 (Europe)"
+    "name": "NBA Jam 2000 (Europe)",
+    "ref": "94139439D6C234A560FC5D0E5D9C0AA4508FC7B6"
   },
   "94139439D6C234A560FC5D0E5D9C0AA4508FC7B6": {
     "name": "NBA Jam 2000 (USA)",
@@ -2023,7 +2253,8 @@
     "logo": "Qmd4JeZDVuQkQRBaNxSJuDX5UnZZyZhWMpZ9vcLu14yYLc"
   },
   "CF6C46785B75F9BC1D5B1FD08DAFB72DD595F68A": {
-    "name": "NBA Jam 99 (Europe)"
+    "name": "NBA Jam 99 (Europe)",
+    "ref": "2E306D2123AD4220E672D8A07874CA7B515D57E0"
   },
   "2E306D2123AD4220E672D8A07874CA7B515D57E0": {
     "name": "NBA Jam 99 (USA)",
@@ -2031,7 +2262,8 @@
     "logo": "QmUUeYnmCBZP2PfQXGXJQerLKsCwJ36HU5mAQxhC91JfYg"
   },
   "D4CB60EB3645AE803A1EFC234CEFFD8F424DC8F7": {
-    "name": "NBA Live 2000 (Europe) (En,Fr,De,Es)"
+    "name": "NBA Live 2000 (Europe) (En,Fr,De,Es)",
+    "ref": "4BA671A132125BCAA6552542B7FC2C7F6DC56A0E"
   },
   "4BA671A132125BCAA6552542B7FC2C7F6DC56A0E": {
     "name": "NBA Live 2000 (USA) (En,Fr,De,Es)",
@@ -2039,7 +2271,8 @@
     "logo": "QmTKCQnDYYYsBd8GijqZTuPQipnwAtzrM4vtZawmv16mPP"
   },
   "530EF95C12F0CA73BC4E178A397CE677A57AD858": {
-    "name": "NBA Live 99 (Europe) (En,Fr,De,Es,It)"
+    "name": "NBA Live 99 (Europe) (En,Fr,De,Es,It)",
+    "ref": "89E47FFAC3EAE25B37E1A20CE66CA24E343912DD"
   },
   "89E47FFAC3EAE25B37E1A20CE66CA24E343912DD": {
     "name": "NBA Live 99 (USA) (En,Fr,De,Es,It)",
@@ -2059,7 +2292,8 @@
     "name": "Neon Genesis Evangelion (Japan)"
   },
   "2392F403B0993F838912CEFA83AEFD35D34A05A0": {
-    "name": "New Tetris, The (Europe)"
+    "name": "New Tetris, The (Europe)",
+    "ref": "83FFF25E82181A6993F28C91B9EEB8430396838B"
   },
   "83FFF25E82181A6993F28C91B9EEB8430396838B": {
     "name": "New Tetris, The (USA)",
@@ -2082,7 +2316,8 @@
     "logo": "Qmc6rxpr15TJYJtLEDTxh1ECi9BMqPdVeVRaBk14Cnx7LP"
   },
   "3754C8FDF5CDCE5DE62685CE9BE73E06BA5E3577": {
-    "name": "NFL Blitz 2000 (USA) (Rev 1)"
+    "name": "NFL Blitz 2000 (USA) (Rev 1)",
+    "ref": "36E124746A842A2E1F72480F122DFE9188FC5575"
   },
   "279BC9ED596663610265A618A1656DBB8EA4237A": {
     "name": "NFL Blitz 2001 (USA)",
@@ -2095,7 +2330,8 @@
     "logo": "QmXQHmdZZB2KaEgUpYiCcLRYBpNJQQiALFcsA9x4BKYjnC"
   },
   "CD97AECE871F0AE5D29AF9F92142A470A34273B9": {
-    "name": "NFL Quarterback Club 2000 (Europe)"
+    "name": "NFL Quarterback Club 2000 (Europe)",
+    "ref": "390FEA44C8DF84F601B20A3E506FDD611AB34A8B"
   },
   "390FEA44C8DF84F601B20A3E506FDD611AB34A8B": {
     "name": "NFL Quarterback Club 2000 (USA)",
@@ -2103,7 +2339,8 @@
     "logo": "QmXhRB8appMJFkquEW7G72cRfE9tbbQbUAUgkccw4jx3wp"
   },
   "1F00635179FB741FBBCF31FFAFF399469DA16ECF": {
-    "name": "NFL Quarterback Club 98 (Europe)"
+    "name": "NFL Quarterback Club 98 (Europe)",
+    "ref": "8E53DE9EB6DCECB3B0BB3E707EF01690DE7EFAB2"
   },
   "8E53DE9EB6DCECB3B0BB3E707EF01690DE7EFAB2": {
     "name": "NFL Quarterback Club 98 (USA)",
@@ -2117,7 +2354,8 @@
     "name": "NFL Quarterback Club 99 (USA)"
   },
   "87CD5ECFF93D5B34C246CB96A6249B78B5B90126": {
-    "name": "NHL 99 (Europe) (En,De,Sv,Fi)"
+    "name": "NHL 99 (Europe) (En,De,Sv,Fi)",
+    "ref": "D730540D8C447420DE4AA81F6A2776C2E310D12A"
   },
   "D730540D8C447420DE4AA81F6A2776C2E310D12A": {
     "name": "NHL 99 (USA)",
@@ -2136,7 +2374,8 @@
     "name": "NHL Breakaway 98 (USA)"
   },
   "46147DB00BD9D80F0D22E8EB1B00603106DE2692": {
-    "name": "NHL Breakaway 99 (Europe)"
+    "name": "NHL Breakaway 99 (Europe)",
+    "ref": "65C0F8BF81D8DEC3E5D719B167A61A73B2436E84"
   },
   "65C0F8BF81D8DEC3E5D719B167A61A73B2436E84": {
     "name": "NHL Breakaway 99 (USA)",
@@ -2158,10 +2397,12 @@
     "name": "Nintendo All-Star! Dairantou Smash Brothers (Japan)"
   },
   "34A23CFA247DE4E8ECDB8D72431AF93D35C69753": {
-    "name": "Nuclear Strike 64 (Europe) (En,Fr)"
+    "name": "Nuclear Strike 64 (Europe) (En,Fr)",
+    "ref": "6A8B0B450E87FBFBADEEE3854ADA0731DEB6E8B5"
   },
   "141AAFB638F782809943FFF526DDB2E542E6DF52": {
-    "name": "Nuclear Strike 64 (Germany)"
+    "name": "Nuclear Strike 64 (Germany)",
+    "ref": "6A8B0B450E87FBFBADEEE3854ADA0731DEB6E8B5"
   },
   "6A8B0B450E87FBFBADEEE3854ADA0731DEB6E8B5": {
     "name": "Nuclear Strike 64 (USA)",
@@ -2169,7 +2410,8 @@
     "logo": "QmY7tw1Cg4FL984e56HB7XRmgYb7zWWvqfHTS5WVufupnq"
   },
   "FB1C682546B02B5D76FD83CF5B24E2A3C8285ADF": {
-    "name": "Nuclear Strike 64 (Germany) (Beta) (1999-11-17)"
+    "name": "Nuclear Strike 64 (Germany) (Beta) (1999-11-17)",
+    "ref": "6A8B0B450E87FBFBADEEE3854ADA0731DEB6E8B5"
   },
   "5F20D41669458E1C981292F17CD8B29032406287": {
     "name": "Nushi Zuri 64 (Japan)"
@@ -2187,7 +2429,8 @@
     "name": "O.D.T. (USA) (En,Fr,Es) (Proto)"
   },
   "3476E0EB4048C76107BD2B404D19A136BFC15AD9": {
-    "name": "Off Road Challenge (Europe)"
+    "name": "Off Road Challenge (Europe)",
+    "ref": "9E754CA37D69424E9F82A421D5E69D4AD73046C1"
   },
   "9E754CA37D69424E9F82A421D5E69D4AD73046C1": {
     "name": "Off Road Challenge (USA)",
@@ -2195,7 +2438,8 @@
     "logo": "QmXYF5n6Fq5w2hQudQetsPukTn7BdBETymB5jZMYvfm47R"
   },
   "244A92DF46863964EC507C78B72C226F48754967": {
-    "name": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1)"
+    "name": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1)",
+    "ref": "9CD0CFB50B883EDB068E0C30D213193B9CF89895"
   },
   "9CD0CFB50B883EDB068E0C30D213193B9CF89895": {
     "name": "Ogre Battle 64 - Person of Lordly Caliber (USA)",
@@ -2206,19 +2450,24 @@
     "ref": "9CD0CFB50B883EDB068E0C30D213193B9CF89895"
   },
   "D26B14BEE422A09581CE438D45BA9FEC9783FBB8": {
-    "name": "Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)"
+    "name": "Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)",
+    "ref": "9CD0CFB50B883EDB068E0C30D213193B9CF89895"
   },
   "604C5BC450D0C33B536C185F53725C2BAF622F3B": {
-    "name": "Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)"
+    "name": "Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)",
+    "ref": "9CD0CFB50B883EDB068E0C30D213193B9CF89895"
   },
   "127B7A9FDCA399494DB8409A99874672CA200CB6": {
-    "name": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)"
+    "name": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)",
+    "ref": "9CD0CFB50B883EDB068E0C30D213193B9CF89895"
   },
   "E01404FAC7E9AFC02D48BF889ABA51F843165B7C": {
-    "name": "Olympic Hockey 98 (Europe) (En,Fr,De,Es)"
+    "name": "Olympic Hockey 98 (Europe) (En,Fr,De,Es)",
+    "ref": "02310067DEFD4C7EAC235DFF5E71EF0566CE916C"
   },
   "A5359E35839B40C414EAE498CA633B28176629AA": {
-    "name": "Olympic Hockey 98 (Japan)"
+    "name": "Olympic Hockey 98 (Japan)",
+    "ref": "02310067DEFD4C7EAC235DFF5E71EF0566CE916C"
   },
   "02310067DEFD4C7EAC235DFF5E71EF0566CE916C": {
     "name": "Olympic Hockey 98 (USA)",
@@ -2235,7 +2484,8 @@
     "name": "Pachinko 365 Nichi (Japan)"
   },
   "1273275142B79F7443F55BD35679A19670ADFE3A": {
-    "name": "Paper Mario (Europe) (En,Fr,De,Es)"
+    "name": "Paper Mario (Europe) (En,Fr,De,Es)",
+    "ref": "3837F44CDA784B466C9A2D99DF70D77C322B97A0"
   },
   "3837F44CDA784B466C9A2D99DF70D77C322B97A0": {
     "name": "Paper Mario (USA)",
@@ -2243,7 +2493,8 @@
     "logo": "QmPXMadyyc7bVJHr4svZLZ4bZzp2q3HBrGNionn6BmRmog"
   },
   "7DB4808042B9651B47592E814AC4C125B51D4D2F": {
-    "name": "Paperboy (Europe)"
+    "name": "Paperboy (Europe)",
+    "ref": "B043C47B9758FA6BB289CA7DBA2068BDA6CAFA3A"
   },
   "B043C47B9758FA6BB289CA7DBA2068BDA6CAFA3A": {
     "name": "Paperboy (USA)",
@@ -2257,7 +2508,8 @@
     "name": "PD Ultraman Battle Collection 64 (Japan)"
   },
   "9848CC288B388D23E0AE026EF58DA8FC936D7605": {
-    "name": "Penny Racers (Europe)"
+    "name": "Penny Racers (Europe)",
+    "ref": "1D4FCE8AD6B1F0072D89AEB4C3187BC853B750A0"
   },
   "1D4FCE8AD6B1F0072D89AEB4C3187BC853B750A0": {
     "name": "Penny Racers (USA)",
@@ -2265,13 +2517,16 @@
     "logo": "QmZsT6b9pKXPhVeMMVNw2Q8V2aVTNYv6ezRBdhcRUsbGB6"
   },
   "A663D3F4EEE0B198471132DB92E9639A9EDD1985": {
-    "name": "Perfect Dark (Europe) (En,Fr,De,Es,It)"
+    "name": "Perfect Dark (Europe) (En,Fr,De,Es,It)",
+    "ref": "AF8788AC4D1A57260EAE9C53FFE851FCF2A3319B"
   },
   "99BCAAA4841B09C845E1094006DF8F637862F02E": {
-    "name": "Perfect Dark (Japan)"
+    "name": "Perfect Dark (Japan)",
+    "ref": "AF8788AC4D1A57260EAE9C53FFE851FCF2A3319B"
   },
   "60DFE17923C03875B499B3CD3200F05CB538B7AD": {
-    "name": "Perfect Dark (USA)"
+    "name": "Perfect Dark (USA)",
+    "ref": "AF8788AC4D1A57260EAE9C53FFE851FCF2A3319B"
   },
   "AF8788AC4D1A57260EAE9C53FFE851FCF2A3319B": {
     "name": "Perfect Dark (USA) (Rev 1)",
@@ -2279,10 +2534,12 @@
     "logo": "QmQWapjwfRR3ea2HsRFvhPkVGY62HoEWpxFVUedyHNcXB7"
   },
   "79E3213BBAC19B8E196E97E6348006C0506B27A9": {
-    "name": "Perfect Dark (Europe) (Debug Version) (2000-04-26)"
+    "name": "Perfect Dark (Europe) (Debug Version) (2000-04-26)",
+    "ref": "AF8788AC4D1A57260EAE9C53FFE851FCF2A3319B"
   },
   "C831DC3D3068E0F2098DB55889DA0D6A08F26080": {
-    "name": "Perfect Dark (USA) (Debug Version) (2000-03-22)"
+    "name": "Perfect Dark (USA) (Debug Version) (2000-03-22)",
+    "ref": "AF8788AC4D1A57260EAE9C53FFE851FCF2A3319B"
   },
   "6E8DFCCFE93318A597E99C9186D5E8CDCA3BE987": {
     "name": "PGA European Tour (USA)",
@@ -2296,10 +2553,12 @@
     "name": "Pikachuu Genki de Chuu (Japan)"
   },
   "FA4E0A1941EEA83E09CA00197569E2464D70ECB0": {
-    "name": "Pilotwings 64 (Europe) (En,Fr,De)"
+    "name": "Pilotwings 64 (Europe) (En,Fr,De)",
+    "ref": "EC771AEDF54EE1B214C25404FB4EC51CFD43191A"
   },
   "892A5472D9A6811B881D093020DE81F72BAEEEC9": {
-    "name": "Pilotwings 64 (Japan)"
+    "name": "Pilotwings 64 (Japan)",
+    "ref": "EC771AEDF54EE1B214C25404FB4EC51CFD43191A"
   },
   "EC771AEDF54EE1B214C25404FB4EC51CFD43191A": {
     "name": "Pilotwings 64 (USA)",
@@ -2331,28 +2590,36 @@
     "name": "Pokemon Puzzle League (France) (Wii Virtual Console)"
   },
   "635BE62B427BE4C2DAB9617AA9F58CDDEA9D4155": {
-    "name": "Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console)"
+    "name": "Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console)",
+    "ref": "EDC7C49CC568C045FE48BE0D18011C30F393CBAF"
   },
   "5D7B3B8D4BB64DA5B7AE5E1F132B26A282C33909": {
-    "name": "Pokemon Snap (Japan)"
+    "name": "Pokemon Snap (Japan)",
+    "ref": "EDC7C49CC568C045FE48BE0D18011C30F393CBAF"
   },
   "EB388731BB7530F60E3AD4A1652F79296B5063EC": {
-    "name": "Pokemon Snap (Australia)"
+    "name": "Pokemon Snap (Australia)",
+    "ref": "EDC7C49CC568C045FE48BE0D18011C30F393CBAF"
   },
   "D575B393812A0A59FBB52F3CE55CE4D7BC5F3225": {
-    "name": "Pokemon Snap (Europe)"
+    "name": "Pokemon Snap (Europe)",
+    "ref": "EDC7C49CC568C045FE48BE0D18011C30F393CBAF"
   },
   "9EE1ED91AD6E00CC50E1A1513A256CCCEB9A41DF": {
-    "name": "Pokemon Snap (France)"
+    "name": "Pokemon Snap (France)",
+    "ref": "EDC7C49CC568C045FE48BE0D18011C30F393CBAF"
   },
   "F1FE20E26C3803C0E4EA33711BE5E0EDF8E9C4BE": {
-    "name": "Pokemon Snap (Germany)"
+    "name": "Pokemon Snap (Germany)",
+    "ref": "EDC7C49CC568C045FE48BE0D18011C30F393CBAF"
   },
   "A4DAE7F86E463FE5351B3E74A1D044A95F3CBF41": {
-    "name": "Pokemon Snap (Italy)"
+    "name": "Pokemon Snap (Italy)",
+    "ref": "EDC7C49CC568C045FE48BE0D18011C30F393CBAF"
   },
   "24DA787140662D1FB40D8E17199CE6412D72DEDC": {
-    "name": "Pokemon Snap (Spain)"
+    "name": "Pokemon Snap (Spain)",
+    "ref": "EDC7C49CC568C045FE48BE0D18011C30F393CBAF"
   },
   "EDC7C49CC568C045FE48BE0D18011C30F393CBAF": {
     "name": "Pokemon Snap (USA)",
@@ -2363,28 +2630,36 @@
     "name": "Pokemon Snap Station (USA) (Demo) (Kiosk)"
   },
   "8BC8D2FF7DF25B26BD0C353D2ADFE83E4E3A7A87": {
-    "name": "Pokemon Stadium (Japan)"
+    "name": "Pokemon Stadium (Japan)",
+    "ref": "488BB6D112427823D77FCECDD9297FD86875263D"
   },
   "6F26E3C8B35C3232058375E30D19665FACB23123": {
-    "name": "Pokemon Stadium (Europe)"
+    "name": "Pokemon Stadium (Europe)",
+    "ref": "488BB6D112427823D77FCECDD9297FD86875263D"
   },
   "9470F899AD0107677B7DFD24E1DD567723A5F84F": {
-    "name": "Pokemon Stadium (Europe) (Rev 1)"
+    "name": "Pokemon Stadium (Europe) (Rev 1)",
+    "ref": "488BB6D112427823D77FCECDD9297FD86875263D"
   },
   "4F7267CCABA4A8A9B0AE2CB89E191BC69B153DDC": {
-    "name": "Pokemon Stadium (France)"
+    "name": "Pokemon Stadium (France)",
+    "ref": "488BB6D112427823D77FCECDD9297FD86875263D"
   },
   "6A25903E733F071E7D6EA54529B7FD60B760CDA3": {
-    "name": "Pokemon Stadium (Germany)"
+    "name": "Pokemon Stadium (Germany)",
+    "ref": "488BB6D112427823D77FCECDD9297FD86875263D"
   },
   "DB5F2797C377FA8957B97465FC5738D6999FF240": {
-    "name": "Pokemon Stadium (Italy)"
+    "name": "Pokemon Stadium (Italy)",
+    "ref": "488BB6D112427823D77FCECDD9297FD86875263D"
   },
   "F39911AD0BEDCCC3E44D4338507C73BFA97856BF": {
-    "name": "Pokemon Stadium (Spain)"
+    "name": "Pokemon Stadium (Spain)",
+    "ref": "488BB6D112427823D77FCECDD9297FD86875263D"
   },
   "ED7BEF5A306F88C0A6E96B15E71FEE2EF32058F3": {
-    "name": "Pokemon Stadium (USA)"
+    "name": "Pokemon Stadium (USA)",
+    "ref": "488BB6D112427823D77FCECDD9297FD86875263D"
   },
   "488BB6D112427823D77FCECDD9297FD86875263D": {
     "name": "Pokemon Stadium (USA) (Rev 1)",
@@ -2395,25 +2670,32 @@
     "ref": "488BB6D112427823D77FCECDD9297FD86875263D"
   },
   "0D3B1D740C6EE6DA6923550BF24AD827262FD8C0": {
-    "name": "Pokemon Stadium (USA) (Rev 2)"
+    "name": "Pokemon Stadium (USA) (Rev 2)",
+    "ref": "488BB6D112427823D77FCECDD9297FD86875263D"
   },
   "074582744C71D7F0569CE960964A7BBE947EFD3C": {
-    "name": "Pokemon Stadium 2 (Japan)"
+    "name": "Pokemon Stadium 2 (Japan)",
+    "ref": "D8343E69A7DC63B869CF6361D87CDE64444281D3"
   },
   "F6A7E8146433A48BF101722E30BF86311A641F7B": {
-    "name": "Pokemon Stadium 2 (Europe)"
+    "name": "Pokemon Stadium 2 (Europe)",
+    "ref": "D8343E69A7DC63B869CF6361D87CDE64444281D3"
   },
   "D7E13535B671024A92822DB01507E87BD42F68EC": {
-    "name": "Pokemon Stadium 2 (France)"
+    "name": "Pokemon Stadium 2 (France)",
+    "ref": "D8343E69A7DC63B869CF6361D87CDE64444281D3"
   },
   "6DE05180D77E73DCF32D57AF7C8C1529C7ACDA59": {
-    "name": "Pokemon Stadium 2 (Germany)"
+    "name": "Pokemon Stadium 2 (Germany)",
+    "ref": "D8343E69A7DC63B869CF6361D87CDE64444281D3"
   },
   "4926DB649C76521F61AE51C13E452A2C8001354C": {
-    "name": "Pokemon Stadium 2 (Italy)"
+    "name": "Pokemon Stadium 2 (Italy)",
+    "ref": "D8343E69A7DC63B869CF6361D87CDE64444281D3"
   },
   "AB1CDF753BED70487923EA3129278E45D6325773": {
-    "name": "Pokemon Stadium 2 (Spain)"
+    "name": "Pokemon Stadium 2 (Spain)",
+    "ref": "D8343E69A7DC63B869CF6361D87CDE64444281D3"
   },
   "D8343E69A7DC63B869CF6361D87CDE64444281D3": {
     "name": "Pokemon Stadium 2 (USA)",
@@ -2432,7 +2714,8 @@
     "name": "Power League 64 (Japan)"
   },
   "C7FEC2A9D57F656B8D0B4404C8797C46136FD971": {
-    "name": "Power Rangers - Lightspeed Rescue (Europe)"
+    "name": "Power Rangers - Lightspeed Rescue (Europe)",
+    "ref": "9C0B970DFA344A8CDEA9B775D7F95ACEC2CCF79F"
   },
   "9C0B970DFA344A8CDEA9B775D7F95ACEC2CCF79F": {
     "name": "Power Rangers - Lightspeed Rescue (USA)",
@@ -2468,7 +2751,8 @@
     "name": "Puzzle Bobble 64 (Japan)"
   },
   "C1B4FC22A1699BE0BC8CEA170AC4F8B6BF8F41D1": {
-    "name": "Quake (Europe)"
+    "name": "Quake (Europe)",
+    "ref": "25A7FE0342490D3C23328040BB34F8748995537A"
   },
   "25A7FE0342490D3C23328040BB34F8748995537A": {
     "name": "Quake (USA)",
@@ -2476,7 +2760,8 @@
     "logo": "QmTPbD37gxKwU3J5m19Ynd8P9fHVExDkwWCFacDsVoE3iH"
   },
   "F99CC966965E8FA0BEB9FD768C646E6686E19916": {
-    "name": "Quake II (Europe)"
+    "name": "Quake II (Europe)",
+    "ref": "2EDB00E602E7C2813A5D6A04DFEC80487627237A"
   },
   "2EDB00E602E7C2813A5D6A04DFEC80487627237A": {
     "name": "Quake II (USA)",
@@ -2497,7 +2782,8 @@
     "logo": "QmZYgYhpTtZVLenTSakqWWFSN14Z7NxWCav8iAqcRQLpwX"
   },
   "43596236CC1A4A4B671D0586FB42518A009427A5": {
-    "name": "Rakugakids (Japan)"
+    "name": "Rakugakids (Japan)",
+    "ref": "A2846CB316DC980DD0040CA95C20ABFC8CCCE212"
   },
   "8D3659925433B9D4C37D06ABD2E1C4662AA80E1F": {
     "name": "Rally '99 (Japan)"
@@ -2508,7 +2794,8 @@
     "logo": "QmSWKtp4eggUuMEPaTuyf4B7E2i3EU229gN5aBAfsNMb5C"
   },
   "C8DB2A3669B08050F42AF47BAE9FD5146B8C87BB": {
-    "name": "Rampage - World Tour (Europe)"
+    "name": "Rampage - World Tour (Europe)",
+    "ref": "7A6C8758E67FD3DA99E3420983C0D6DF83E41C6B"
   },
   "7A6C8758E67FD3DA99E3420983C0D6DF83E41C6B": {
     "name": "Rampage - World Tour (USA)",
@@ -2516,7 +2803,8 @@
     "logo": "QmbXXd3rnMqgogkiZkgm62BfrSxYP6kNvE8z9eeoJaeXGz"
   },
   "0C18A10807A5F910CE7337812770B4FE18994A60": {
-    "name": "Rampage 2 - Universal Tour (Europe)"
+    "name": "Rampage 2 - Universal Tour (Europe)",
+    "ref": "36D1B741F6EA896B05AB7CEEAC8B78684CBDAC6B"
   },
   "36D1B741F6EA896B05AB7CEEAC8B78684CBDAC6B": {
     "name": "Rampage 2 - Universal Tour (USA)",
@@ -2530,7 +2818,8 @@
     "name": "Rat Attack! (USA) (En,Fr,De,Es,It,Nl)"
   },
   "619AB27EA1645399439AD324566361D3E7FF020E": {
-    "name": "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)"
+    "name": "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)",
+    "ref": "50558356B059AD3FBAF5FE95380512B9DCEAAF52"
   },
   "50558356B059AD3FBAF5FE95380512B9DCEAAF52": {
     "name": "Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)",
@@ -2546,7 +2835,8 @@
     "logo": "QmVTDrMthndmzZ6xJNdwwH7614HgjNo7DoacbN6dySRjrN"
   },
   "5ED3CD3888FEC080D44FFE345DD50D75E471FF8F": {
-    "name": "Re-Volt (Europe) (En,Fr,De,Es)"
+    "name": "Re-Volt (Europe) (En,Fr,De,Es)",
+    "ref": "667FDC39112599BD904F5E7D8D692973E554BD88"
   },
   "667FDC39112599BD904F5E7D8D692973E554BD88": {
     "name": "Re-Volt (USA)",
@@ -2554,7 +2844,8 @@
     "logo": "QmNNJ7yGWkTsi6hRy7i4Y2xZmotBnpw4dZdQRuYQrqycAy"
   },
   "E18477D858C623A834F24DC2717D0EF340E63364": {
-    "name": "Ready 2 Rumble Boxing (Europe) (En,Fr,De)"
+    "name": "Ready 2 Rumble Boxing (Europe) (En,Fr,De)",
+    "ref": "E60FEDD535A72FDA5C424B846421BBDAD17C6CAA"
   },
   "E60FEDD535A72FDA5C424B846421BBDAD17C6CAA": {
     "name": "Ready 2 Rumble Boxing (USA)",
@@ -2582,7 +2873,8 @@
     "name": "Resident Evil 2 (USA)"
   },
   "816824CB5DC62EE54DC52C0EBB9B2564ECB88133": {
-    "name": "Road Rash 64 (Europe)"
+    "name": "Road Rash 64 (Europe)",
+    "ref": "87727A298F583EC8325F5655088FF21E37B335B2"
   },
   "87727A298F583EC8325F5655088FF21E37B335B2": {
     "name": "Road Rash 64 (USA)",
@@ -2590,10 +2882,12 @@
     "logo": "Qmemt7jKZ92gZy8aB2iCFqBQm1CUAqjdyMLuv3mLji5nK9"
   },
   "615FED220A13096BB6FC4C5D7902C66FC5A044D7": {
-    "name": "Road Rash 64 (Europe) (Beta) (1999-10-12)"
+    "name": "Road Rash 64 (Europe) (Beta) (1999-10-12)",
+    "ref": "87727A298F583EC8325F5655088FF21E37B335B2"
   },
   "2AD3BCCD29DC879A873C926AF03002E36582525A": {
-    "name": "Roadsters (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Roadsters (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "D896FFCBA44696BDB7E2048841F287EA5951AD2A"
   },
   "D896FFCBA44696BDB7E2048841F287EA5951AD2A": {
     "name": "Roadsters (USA) (En,Fr,Es)",
@@ -2610,7 +2904,8 @@
     "name": "Robotech - Crystal Dreams (USA) (Proto 1)"
   },
   "D86A7ED2F203BA9DF0CE5B18D9E4E2E2D9B62A3F": {
-    "name": "Robotron 64 (Europe)"
+    "name": "Robotron 64 (Europe)",
+    "ref": "44D158BC2AEEFB111A620B61E043B2703E6C5808"
   },
   "44D158BC2AEEFB111A620B61E043B2703E6C5808": {
     "name": "Robotron 64 (USA)",
@@ -2618,7 +2913,8 @@
     "logo": "QmSREE7cewZUvpURe18vSWci1gvga3v8Y1bpQor2SymvVx"
   },
   "A1AA086F0826BEE4BE71C16BC67468B8D8A49065": {
-    "name": "Rocket - Robot on Wheels (Europe) (En,Fr,De)"
+    "name": "Rocket - Robot on Wheels (Europe) (En,Fr,De)",
+    "ref": "622D71A44DA0B81EA68092CAC9198C66154A4F4A"
   },
   "622D71A44DA0B81EA68092CAC9198C66154A4F4A": {
     "name": "Rocket - Robot on Wheels (USA)",
@@ -2626,7 +2922,8 @@
     "logo": "QmWsyBB2FnLwszfH1z6oChu79YPjaZ8DuwawZUhtnkMzmU"
   },
   "0786E5BE0EA6522A1E9F1A9052DACAF01169298E": {
-    "name": "Rocket - Robot on Wheels (Europe) (Beta) (1999-09-29)"
+    "name": "Rocket - Robot on Wheels (Europe) (Beta) (1999-09-29)",
+    "ref": "622D71A44DA0B81EA68092CAC9198C66154A4F4A"
   },
   "E807ED78DB0B3440F76B445BF989A943BC05E0AD": {
     "name": "Rockman Dash - Hagane no Boukenshin (Japan)"
@@ -2635,7 +2932,8 @@
     "name": "Ronaldinho's Soccer 64 (Brazil) (Unl) (Pirate)"
   },
   "FAA21C8E0282D21EAC2D1B35B020F40381E18FC4": {
-    "name": "RR64 - Ridge Racer 64 (Europe)"
+    "name": "RR64 - Ridge Racer 64 (Europe)",
+    "ref": "5F079CD9827B24D12AF4961482A0FCC679E53042"
   },
   "5F079CD9827B24D12AF4961482A0FCC679E53042": {
     "name": "RR64 - Ridge Racer 64 (USA)",
@@ -2657,7 +2955,8 @@
     "name": "Rugrats - Treasure Hunt (Europe)"
   },
   "FDDA27E7C418728391A5EC53F62FDB5E1B21A0DF": {
-    "name": "Rugrats in Paris - The Movie (Europe)"
+    "name": "Rugrats in Paris - The Movie (Europe)",
+    "ref": "7A80199973C42B08490DA1F6255B5F17569BA15E"
   },
   "7A80199973C42B08490DA1F6255B5F17569BA15E": {
     "name": "Rugrats in Paris - The Movie (USA)",
@@ -2665,7 +2964,8 @@
     "logo": "QmWy8C2EYVVEEEwmWBrPM2EgKoRpqUi7zv4byLGyzFEpAD"
   },
   "090A027612140E90FFBBD7C48DEC77005F7B0A69": {
-    "name": "Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "01B0A31B1ACCC18061E8C85F6C5EDF0DBD79F097"
   },
   "01B0A31B1ACCC18061E8C85F6C5EDF0DBD79F097": {
     "name": "Rush 2 - Extreme Racing USA (USA)",
@@ -2673,7 +2973,8 @@
     "logo": "QmevUDYCV17Zy7aoMkMYYfJUXmM4jY3cSG52zDV5vgQ3yp"
   },
   "8B4EBAD8B7F50381BA2E16D0C475332837BB5780": {
-    "name": "S.C.A.R.S. (Europe) (En,Fr,De)"
+    "name": "S.C.A.R.S. (Europe) (En,Fr,De)",
+    "ref": "1E87E7BC5B7BC877ABC790EBFF122ED6E2BE828E"
   },
   "1E87E7BC5B7BC877ABC790EBFF122ED6E2BE828E": {
     "name": "S.C.A.R.S. (USA)",
@@ -2684,7 +2985,8 @@
     "name": "Saikyou Habu Shougi (Japan)"
   },
   "BC8D37E3A3B9EDB4C8465ED7E477C6434C31B47D": {
-    "name": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)"
+    "name": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)",
+    "ref": "CC62539CB30B180C3C7E0AA927786ED061D8D9AB"
   },
   "CC62539CB30B180C3C7E0AA927786ED061D8D9AB": {
     "name": "San Francisco Rush - Extreme Racing (USA) (En,Fr,De)",
@@ -2692,10 +2994,12 @@
     "logo": "QmV3DfU5dUedGByP2kPCbeiHcQKafFE351HGeshZ93MtUX"
   },
   "8AC2DC63AFDE2DA90811CE1A3A951B8C0B19A0E7": {
-    "name": "San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)"
+    "name": "San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)",
+    "ref": "CC62539CB30B180C3C7E0AA927786ED061D8D9AB"
   },
   "61373D4758ECA3FA831BEAC27B4D4C250845F80C": {
-    "name": "San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "3F99351D7BB61656614BDB2AA1A90CFE55D1922C"
   },
   "3F99351D7BB61656614BDB2AA1A90CFE55D1922C": {
     "name": "San Francisco Rush 2049 (USA)",
@@ -2703,7 +3007,8 @@
     "logo": "QmSfVCCMsg9Ke83GouUvUSdrM7YxwdWX2UMYLSRVxx6Cue"
   },
   "FA2D39392750E160F2C41733777C64D8DF1127AF": {
-    "name": "Scooby-Doo! - Classic Creep Capers (Europe)"
+    "name": "Scooby-Doo! - Classic Creep Capers (Europe)",
+    "ref": "FA22BD1216094124C84987414DDE1B50AF90D928"
   },
   "FA22BD1216094124C84987414DDE1B50AF90D928": {
     "name": "Scooby-Doo! - Classic Creep Capers (USA)",
@@ -2711,7 +3016,8 @@
     "logo": "QmeDC7dsM1N4UNvoa6fubvp9xF1qXEmnpFP56JoQgYYHUd"
   },
   "44DC4F2A148E56FE8088805CB5A860DBC3A638E2": {
-    "name": "Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)"
+    "name": "Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)",
+    "ref": "FA22BD1216094124C84987414DDE1B50AF90D928"
   },
   "79CFB5A29B2CBD4F35966F209385B389233CF8CF": {
     "name": "SD Hiryuu no Ken Densetsu (Japan)"
@@ -2727,13 +3033,16 @@
     "logo": "QmfNJX2QaKXyJiNBrghmCRZdsLia2UuoGuREhqNfnUVyew"
   },
   "39ECE3F37C1F54AF4274A9733419EB693EAC1740": {
-    "name": "Shadow Man (Europe) (En,Es,It)"
+    "name": "Shadow Man (Europe) (En,Es,It)",
+    "ref": "CFB99DD949FDB2B2A0002EF595AB1813FE865B2C"
   },
   "1F0B03C80C6449DE78EE8403CFA84FE8CF759341": {
-    "name": "Shadow Man (France)"
+    "name": "Shadow Man (France)",
+    "ref": "CFB99DD949FDB2B2A0002EF595AB1813FE865B2C"
   },
   "8768F0EC0B7A0B4F5FF0DA6F4D790EDEF5E3FE9C": {
-    "name": "Shadow Man (Germany)"
+    "name": "Shadow Man (Germany)",
+    "ref": "CFB99DD949FDB2B2A0002EF595AB1813FE865B2C"
   },
   "CFB99DD949FDB2B2A0002EF595AB1813FE865B2C": {
     "name": "Shadow Man (USA)",
@@ -2741,19 +3050,24 @@
     "logo": "QmdNERcqDS9YXajQTphwTUqg8PFXDuh9wYJLFerqFmqa1o"
   },
   "93B2F3423C0AF3510E36785622A6DDE425DD136C": {
-    "name": "Shadow Man (Brazil)"
+    "name": "Shadow Man (Brazil)",
+    "ref": "CFB99DD949FDB2B2A0002EF595AB1813FE865B2C"
   },
   "F2844B3421779A997C96231D25275DA4E2D1018B": {
-    "name": "Shadowgate 64 - Trials of the Four Towers (Europe)"
+    "name": "Shadowgate 64 - Trials of the Four Towers (Europe)",
+    "ref": "4397729F8143EA9A39F319E1F31F2E0B84335A24"
   },
   "9F1A413F686032DDA73BE3312F452991A4E29EC9": {
-    "name": "Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It)"
+    "name": "Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It)",
+    "ref": "4397729F8143EA9A39F319E1F31F2E0B84335A24"
   },
   "31DE2E29DCE21341E1958B32A7D8B1B03FC56E3B": {
-    "name": "Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)"
+    "name": "Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)",
+    "ref": "4397729F8143EA9A39F319E1F31F2E0B84335A24"
   },
   "706524AFF9BD84972D4E095AFD0317D5BACC525F": {
-    "name": "Shadowgate 64 - Trials of the Four Towers (Japan)"
+    "name": "Shadowgate 64 - Trials of the Four Towers (Japan)",
+    "ref": "4397729F8143EA9A39F319E1F31F2E0B84335A24"
   },
   "4397729F8143EA9A39F319E1F31F2E0B84335A24": {
     "name": "Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)",
@@ -2791,7 +3105,8 @@
     "name": "Snow Speeder (Japan)"
   },
   "B26802748F4CC15F44492BCC6941A487E75BBCA6": {
-    "name": "Snowboard Kids (Europe, Australia)"
+    "name": "Snowboard Kids (Europe, Australia)",
+    "ref": "1583BACC9046A360DF8EA4D536942155247E154C"
   },
   "1583BACC9046A360DF8EA4D536942155247E154C": {
     "name": "Snowboard Kids (USA)",
@@ -2799,7 +3114,8 @@
     "logo": "QmdkQsKs5TtdZd4mR78ApEtgbwVkyxzyGjRzBuu3qM2oi9"
   },
   "E807F0FA1D6FDE619A83F0926B2294123F34501C": {
-    "name": "Snowboard Kids 2 (Australia)"
+    "name": "Snowboard Kids 2 (Australia)",
+    "ref": "5CE896FD64276948BC2B8CCCD8CD51C25A9F32AA"
   },
   "5CE896FD64276948BC2B8CCCD8CD51C25A9F32AA": {
     "name": "Snowboard Kids 2 (USA)",
@@ -2810,10 +3126,12 @@
     "name": "Sonic Wings Assault (Japan)"
   },
   "C70C9FD6EBF1AE9F79155F9384AB1C4B29DC6882": {
-    "name": "South Park (Europe) (En,Fr,Es)"
+    "name": "South Park (Europe) (En,Fr,Es)",
+    "ref": "42D7350D1F9040C5546F481C4D650B99A23AADBC"
   },
   "3260DB8FBC90370603FC07AB2E48E02C029573FB": {
-    "name": "South Park (Germany)"
+    "name": "South Park (Germany)",
+    "ref": "42D7350D1F9040C5546F481C4D650B99A23AADBC"
   },
   "42D7350D1F9040C5546F481C4D650B99A23AADBC": {
     "name": "South Park (USA)",
@@ -2821,10 +3139,12 @@
     "logo": "QmTwq1EuqZMGUKXawL4yxtonXKs5tBhHgaNCEApMkk98dB"
   },
   "26623418F8C6F271BA36B68EAECB18DB19563B2B": {
-    "name": "South Park (Brazil)"
+    "name": "South Park (Brazil)",
+    "ref": "42D7350D1F9040C5546F481C4D650B99A23AADBC"
   },
   "5AEEC40C04AE9F7BC286F38E5250712C5FEAD191": {
-    "name": "South Park - Chef's Luv Shack (Europe)"
+    "name": "South Park - Chef's Luv Shack (Europe)",
+    "ref": "0344B569E8410A860CD54165BC33130E80760896"
   },
   "0344B569E8410A860CD54165BC33130E80760896": {
     "name": "South Park - Chef's Luv Shack (USA)",
@@ -2832,7 +3152,8 @@
     "logo": "QmSWhWGpTunm1oCq4uU45bs8nGGREiBgPXXkeebToK3ao4"
   },
   "E16B5B16E41C66FEFB3BC82BD6A82F9EF4D709FD": {
-    "name": "South Park Rally (Europe)"
+    "name": "South Park Rally (Europe)",
+    "ref": "E0B9E2358B09D430A100A14A6CB19E30B55FAEA2"
   },
   "E0B9E2358B09D430A100A14A6CB19E30B55FAEA2": {
     "name": "South Park Rally (USA)",
@@ -2840,7 +3161,8 @@
     "logo": "QmYVvfTMKf1MuZAnZM9Vdg7ws53bP6MedbwA6LUhN42Jbt"
   },
   "0A12D66E1014E55F216C8693774494C85915103B": {
-    "name": "South Park Rally (Europe) (Beta)"
+    "name": "South Park Rally (Europe) (Beta)",
+    "ref": "E0B9E2358B09D430A100A14A6CB19E30B55FAEA2"
   },
   "DEF172A1B2D17A6EBBBC0551172DE4AE46B88E48": {
     "name": "Space Dynamites (Japan)"
@@ -2849,10 +3171,12 @@
     "name": "Space Invaders (USA)"
   },
   "23710541BB3394072740B0F0236A7CB1A7D41531": {
-    "name": "SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)"
+    "name": "SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)",
+    "ref": "E5E09205AA743A9E5043A42DF72ADC379C746B0B"
   },
   "7320F08474C011FC7781093BF1A6818C37CE51E2": {
-    "name": "SpaceStation Silicon Valley (Japan) (Proto)"
+    "name": "SpaceStation Silicon Valley (Japan) (Proto)",
+    "ref": "E5E09205AA743A9E5043A42DF72ADC379C746B0B"
   },
   "E5E09205AA743A9E5043A42DF72ADC379C746B0B": {
     "name": "SpaceStation Silicon Valley (USA)",
@@ -2860,7 +3184,8 @@
     "logo": "QmfJc8HrnMntVmXNZugzi3aJHebcaGfYemPzdNV7HRMJzQ"
   },
   "C968BBA6A90DB9ECBD957E910684A80726B0497D": {
-    "name": "SpaceStation Silicon Valley (USA) (Rev 1)"
+    "name": "SpaceStation Silicon Valley (USA) (Rev 1)",
+    "ref": "E5E09205AA743A9E5043A42DF72ADC379C746B0B"
   },
   "382C9C5D4E416444C4F6F9F4F6A5914D679FEDF1": {
     "name": "Spider-Man (USA)",
@@ -2868,10 +3193,12 @@
     "logo": "QmNPtiBptruWfbF6BXreXwu9e7U3WDtFFJLtmprZkLfDqP"
   },
   "9BD71AFBECF4D0A43146E4E7A893395E19BF3220": {
-    "name": "Star Fox 64 (Japan)"
+    "name": "Star Fox 64 (Japan)",
+    "ref": "09F0D105F476B00EFA5303A3EBC42E60A7753B7A"
   },
   "D8B1088520F7C5F81433292A9258C1184AFA1457": {
-    "name": "Star Fox 64 (USA)"
+    "name": "Star Fox 64 (USA)",
+    "ref": "09F0D105F476B00EFA5303A3EBC42E60A7753B7A"
   },
   "09F0D105F476B00EFA5303A3EBC42E60A7753B7A": {
     "name": "Star Fox 64 (USA) (Rev 1)",
@@ -2879,10 +3206,12 @@
     "logo": "QmQJRgyWR2iJNuA5thzbqS76b5y4aNFD36wsT5HU11rA52"
   },
   "A39F14F0D1224095717FABC021023203CB7561D5": {
-    "name": "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)"
+    "name": "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)",
+    "ref": "09F0D105F476B00EFA5303A3EBC42E60A7753B7A"
   },
   "0B34BDDD00C49530E0EF47330A05DC70EBE5F8B7": {
-    "name": "Star Soldier - Vanishing Earth (Japan)"
+    "name": "Star Soldier - Vanishing Earth (Japan)",
+    "ref": "14DFD0172567B47C819B3E61D1CE13281E0FFED6"
   },
   "14DFD0172567B47C819B3E61D1CE13281E0FFED6": {
     "name": "Star Soldier - Vanishing Earth (USA)",
@@ -2905,13 +3234,16 @@
     "name": "Star Wars - Rogue Squadron (USA) (Rev 1)"
   },
   "E014F60BEA29BBC7FBD7F3BA4FCC6BDD228C8FE5": {
-    "name": "Star Wars - Shadows of the Empire (Europe)"
+    "name": "Star Wars - Shadows of the Empire (Europe)",
+    "ref": "9AB85626C27372EE614B7C5301C2C4EB187FD9F6"
   },
   "271C285F6E5069133AB27A2A8324D4651591E35D": {
-    "name": "Star Wars - Shadows of the Empire (USA)"
+    "name": "Star Wars - Shadows of the Empire (USA)",
+    "ref": "9AB85626C27372EE614B7C5301C2C4EB187FD9F6"
   },
   "DED8F972D1E1D662614B1EC79822D649A8CE5430": {
-    "name": "Star Wars - Shadows of the Empire (USA) (Rev 1)"
+    "name": "Star Wars - Shadows of the Empire (USA) (Rev 1)",
+    "ref": "9AB85626C27372EE614B7C5301C2C4EB187FD9F6"
   },
   "9AB85626C27372EE614B7C5301C2C4EB187FD9F6": {
     "name": "Star Wars - Shadows of the Empire (USA) (Rev 2)",
@@ -2919,7 +3251,8 @@
     "logo": "QmSsgfUxpFZcu3Y6bRxDoFtpsPpBVve9nD5PeTGWfZuVUj"
   },
   "0F642F17693ADF1B97121A61BBECA37DF59BB55A": {
-    "name": "Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15)"
+    "name": "Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15)",
+    "ref": "9AB85626C27372EE614B7C5301C2C4EB187FD9F6"
   },
   "D8BDDB9727264C14BF3BC20B2FE983FB86EADA32": {
     "name": "Star Wars - Shutsugeki! Rogue Chuutai (Japan)"
@@ -2934,10 +3267,12 @@
     "name": "Star Wars Episode I - Battle for Naboo (USA)"
   },
   "899A8245DA017289C88E97327FDCD6694B770A25": {
-    "name": "Star Wars Episode I - Racer (Europe) (En,Fr,De)"
+    "name": "Star Wars Episode I - Racer (Europe) (En,Fr,De)",
+    "ref": "3542D5597C8A56EA8F5C63BCEAE97A24C4C08D58"
   },
   "9577CCD2D069D0E7E306CF21DDB0E4765A308072": {
-    "name": "Star Wars Episode I - Racer (Japan)"
+    "name": "Star Wars Episode I - Racer (Japan)",
+    "ref": "3542D5597C8A56EA8F5C63BCEAE97A24C4C08D58"
   },
   "3542D5597C8A56EA8F5C63BCEAE97A24C4C08D58": {
     "name": "Star Wars Episode I - Racer (USA)",
@@ -2945,7 +3280,8 @@
     "logo": "QmdAWXjX6J8J3zmnFiNrJe1BUMiBRHwLn9w7mnYrhQgmus"
   },
   "BD8AB8994BE02368C844234006E5C11509CE2894": {
-    "name": "StarCraft 64 (Australia)"
+    "name": "StarCraft 64 (Australia)",
+    "ref": "A36D91B5AAC7BB95DF0D7DE5F9814F5270E25C2B"
   },
   "A36D91B5AAC7BB95DF0D7DE5F9814F5270E25C2B": {
     "name": "StarCraft 64 (USA)",
@@ -2953,13 +3289,16 @@
     "logo": "QmZ8Ljp5ARsw6zjZzKR5an99YmV75QVzcXCLQtZiSSxMGt"
   },
   "472573D057E42653B7413861319B9F7342F2467D": {
-    "name": "StarCraft 64 (USA) (Beta)"
+    "name": "StarCraft 64 (USA) (Beta)",
+    "ref": "A36D91B5AAC7BB95DF0D7DE5F9814F5270E25C2B"
   },
   "BC585DA421CABA45F5EB87CAA6D7A138A09E9B43": {
-    "name": "StarCraft 64 (Germany) (Proto)"
+    "name": "StarCraft 64 (Germany) (Proto)",
+    "ref": "A36D91B5AAC7BB95DF0D7DE5F9814F5270E25C2B"
   },
   "B92818C5FF6BE02BEC77EDCBE278D06785D00C78": {
-    "name": "Starshot - Space Circus Fever (Europe) (En,Fr,De)"
+    "name": "Starshot - Space Circus Fever (Europe) (En,Fr,De)",
+    "ref": "7DEF46651F55745D5BBD633C9002BDBFFC53A5E0"
   },
   "7DEF46651F55745D5BBD633C9002BDBFFC53A5E0": {
     "name": "Starshot - Space Circus Fever (USA) (En,Fr,Es)",
@@ -2973,7 +3312,8 @@
     "name": "Super B-Daman - Battle Phoenix 64 (Japan)"
   },
   "FAA5FFDFFEC1FA56125130BECB6E150032C6923E": {
-    "name": "Super Bowling (Japan)"
+    "name": "Super Bowling (Japan)",
+    "ref": "56937A9E9536AF55EBED06480413265848C4A04A"
   },
   "56937A9E9536AF55EBED06480413265848C4A04A": {
     "name": "Super Bowling (USA)",
@@ -2981,13 +3321,16 @@
     "logo": "QmaFMb971LERAqKCMQrrCaN1LACWMtRJ2ZEgcBN3uVwzs5"
   },
   "4AC5721683D0E0B6BBB561B58A71740845DCEEA9": {
-    "name": "Super Mario 64 (Europe) (En,Fr,De)"
+    "name": "Super Mario 64 (Europe) (En,Fr,De)",
+    "ref": "9BEF1128717F958171A4AFAC3ED78EE2BB4E86CE"
   },
   "8A20A5C83D6CEB0F0506CFC9FA20D8F438CAFE51": {
-    "name": "Super Mario 64 (Japan)"
+    "name": "Super Mario 64 (Japan)",
+    "ref": "9BEF1128717F958171A4AFAC3ED78EE2BB4E86CE"
   },
   "3F319AE697533A255A1003D09202379D78D5A2E0": {
-    "name": "Super Mario 64 (Japan) (Rev 3) (Shindou Edition)"
+    "name": "Super Mario 64 (Japan) (Rev 3) (Shindou Edition)",
+    "ref": "9BEF1128717F958171A4AFAC3ED78EE2BB4E86CE"
   },
   "9BEF1128717F958171A4AFAC3ED78EE2BB4E86CE": {
     "name": "Super Mario 64 (USA)",
@@ -3004,10 +3347,12 @@
     "name": "Super Robot Taisen 64 (Japan)"
   },
   "A9BF83FE73361E8D042C33ED48B3851D7D46712C": {
-    "name": "Super Smash Bros. (Australia)"
+    "name": "Super Smash Bros. (Australia)",
+    "ref": "E2929E10FCCC0AA84E5776227E798ABC07CEDABF"
   },
   "6EE8A41FEF66280CE3E3F0984D00B96079442FB9": {
-    "name": "Super Smash Bros. (Europe) (En,Fr,De)"
+    "name": "Super Smash Bros. (Europe) (En,Fr,De)",
+    "ref": "E2929E10FCCC0AA84E5776227E798ABC07CEDABF"
   },
   "E2929E10FCCC0AA84E5776227E798ABC07CEDABF": {
     "name": "Super Smash Bros. (USA)",
@@ -3018,7 +3363,8 @@
     "name": "Super Speed Race 64 (Japan)"
   },
   "3FA3F859048A65E1E810ED7BE98ADA0A0B4E49AD": {
-    "name": "Supercross 2000 (Europe) (En,Fr,De)"
+    "name": "Supercross 2000 (Europe) (En,Fr,De)",
+    "ref": "8D726C2EF6BC74B0D516067FFD92DA00EFA07993"
   },
   "8D726C2EF6BC74B0D516067FFD92DA00EFA07993": {
     "name": "Supercross 2000 (USA)",
@@ -3049,13 +3395,16 @@
     "name": "Tamiya Racing 64 (USA) (Proto)"
   },
   "7623ACEECD244F4352A7D9346A607AC183B32CD6": {
-    "name": "Tarzan (Europe)"
+    "name": "Tarzan (Europe)",
+    "ref": "44C63A89E1E8F9EEEE0AA4B45442822FEB3CC579"
   },
   "1CF1F0F8217BA4E1691427F97EF62B15DC02A1C3": {
-    "name": "Tarzan (France)"
+    "name": "Tarzan (France)",
+    "ref": "44C63A89E1E8F9EEEE0AA4B45442822FEB3CC579"
   },
   "4FC7DED9601A78DB964ED5B1A585BB716F6D636C": {
-    "name": "Tarzan (Germany)"
+    "name": "Tarzan (Germany)",
+    "ref": "44C63A89E1E8F9EEEE0AA4B45442822FEB3CC579"
   },
   "44C63A89E1E8F9EEEE0AA4B45442822FEB3CC579": {
     "name": "Tarzan (USA)",
@@ -3068,7 +3417,8 @@
     "logo": "QmQ2VHzuAm1Ve1zZmtXbbdYZUoscoYffZ6ZPtDWBMNSgNf"
   },
   "674F73FE81E9121751ADD1E24991993B8DDE1B9B": {
-    "name": "Taz Express (USA) (Proto) (2000-05-15)"
+    "name": "Taz Express (USA) (Proto) (2000-05-15)",
+    "ref": "E1D8121986652ED180505AF21456C180C8B29FAB"
   },
   "FFC1F3271929B0E7D6467FDCBED9E0CCF2EBA0A5": {
     "name": "Telefoot Soccer 2000 (France)"
@@ -3077,7 +3427,8 @@
     "name": "Tetris 64 (Japan) (En)"
   },
   "A730D8DD3B00C22F8FA4C6E74299E5CC2BBB8207": {
-    "name": "Tetrisphere (Europe)"
+    "name": "Tetrisphere (Europe)",
+    "ref": "32ADAA274CEED246AEEE9F53592D642A121F3BDB"
   },
   "32ADAA274CEED246AEEE9F53592D642A121F3BDB": {
     "name": "Tetrisphere (USA)",
@@ -3088,7 +3439,8 @@
     "name": "TG Rally 2 (Europe)"
   },
   "53944F6C63B2E971ABF756EFECCAB24FA0B96E78": {
-    "name": "Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)"
+    "name": "Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)",
+    "ref": "98DB3A0F9025893107E9FB1BB8D0B6BC0EF3E280"
   },
   "98DB3A0F9025893107E9FB1BB8D0B6BC0EF3E280": {
     "name": "Tigger's Honey Hunt (USA)",
@@ -3096,7 +3448,8 @@
     "logo": "QmNMkA5P7h9seDT6NfEX6uzQjehK7SXpC63Ev1ncft58a5"
   },
   "96C874C4556B4872269E41339A1CBAC53CC5B052": {
-    "name": "Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "D8980A34ECE4A8933D439D0378E0CFF8F03994A7"
   },
   "D8980A34ECE4A8933D439D0378E0CFF8F03994A7": {
     "name": "Tom and Jerry in Fists of Furry (USA)",
@@ -3104,13 +3457,16 @@
     "logo": "QmNhsZVAu8KKMWge7iMw6kk5csxDiy3Qm47eymJ9wo2mRS"
   },
   "64105F5C17BA7E2E0350F20E18ADDCC0A4766BD8": {
-    "name": "Tom Clancy's Rainbow Six (Europe)"
+    "name": "Tom Clancy's Rainbow Six (Europe)",
+    "ref": "F785674C670C01E31C77B3034525D43FD6703B9A"
   },
   "EC38196491AEEE7AD2FB4A0A7F139C0839E864C6": {
-    "name": "Tom Clancy's Rainbow Six (France)"
+    "name": "Tom Clancy's Rainbow Six (France)",
+    "ref": "F785674C670C01E31C77B3034525D43FD6703B9A"
   },
   "E41C7B71284976EA5D51B42593973A1D3CE58508": {
-    "name": "Tom Clancy's Rainbow Six (Germany)"
+    "name": "Tom Clancy's Rainbow Six (Germany)",
+    "ref": "F785674C670C01E31C77B3034525D43FD6703B9A"
   },
   "F785674C670C01E31C77B3034525D43FD6703B9A": {
     "name": "Tom Clancy's Rainbow Six (USA)",
@@ -3121,7 +3477,8 @@
     "name": "Tommy Thunder (USA) (Proto) (1997-10-01)"
   },
   "81909104362BAEB7AE3793C08C3D138E96105BBF": {
-    "name": "Tonic Trouble (Europe) (En,Fr,De,Es,It)"
+    "name": "Tonic Trouble (Europe) (En,Fr,De,Es,It)",
+    "ref": "38F9837159D6AA69CA656D8005ECCF099C129537"
   },
   "38F9837159D6AA69CA656D8005ECCF099C129537": {
     "name": "Tonic Trouble (USA) (Rev 1)",
@@ -3129,7 +3486,8 @@
     "logo": "QmV1C9nYYv9Zgp9B9Neb64HucqktXKJfT6YKpK5KZjBAiN"
   },
   "FC1B4DEC85E6874FA7321EDC24F5A1E78600D9D0": {
-    "name": "Tony Hawk's Pro Skater (USA)"
+    "name": "Tony Hawk's Pro Skater (USA)",
+    "ref": "4900B6C92FB8DF1765E91E891DCCC525BB102FE1"
   },
   "4900B6C92FB8DF1765E91E891DCCC525BB102FE1": {
     "name": "Tony Hawk's Pro Skater (USA) (Rev 1)",
@@ -3137,16 +3495,20 @@
     "logo": "QmQebjLA6FmWyDRX3c4k2K1TNP2gVJgCUbqYDynSD5iLan"
   },
   "839BE141AF2F5CD717B264C8167C72CEBD87EF29": {
-    "name": "Tony Hawk's Pro Skater (USA) (Beta)"
+    "name": "Tony Hawk's Pro Skater (USA) (Beta)",
+    "ref": "4900B6C92FB8DF1765E91E891DCCC525BB102FE1"
   },
   "134289253CCCCBCABBF52660F28A49449C399EDE": {
-    "name": "Tony Hawk's Pro Skater 2 (USA) (v012) (Beta) (2001-06-04)"
+    "name": "Tony Hawk's Pro Skater 2 (USA) (v012) (Beta) (2001-06-04)",
+    "ref": "458AC754CD8E08C46F4C5C9204192ECDE84A179D"
   },
   "FAB693F9DA784837D10A3281D16EC5A1D3D733C9": {
-    "name": "Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20)"
+    "name": "Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20)",
+    "ref": "458AC754CD8E08C46F4C5C9204192ECDE84A179D"
   },
   "803672C1FFA7860536D8B35DCA8B59F637F4165E": {
-    "name": "Tony Hawk's Pro Skater 2 (Europe)"
+    "name": "Tony Hawk's Pro Skater 2 (Europe)",
+    "ref": "458AC754CD8E08C46F4C5C9204192ECDE84A179D"
   },
   "458AC754CD8E08C46F4C5C9204192ECDE84A179D": {
     "name": "Tony Hawk's Pro Skater 2 (USA)",
@@ -3176,13 +3538,16 @@
     "logo": "QmWwC1NCdqCk3cyutCTwnad2WunpgDYJiGTPrvPrYd7NJ6"
   },
   "D3AE07E2C4360EC4EB06A70C6E48D848EEC532DD": {
-    "name": "Top Gear Hyper-Bike (USA) (Beta)"
+    "name": "Top Gear Hyper-Bike (USA) (Beta)",
+    "ref": "C7593B3D0D793CF03616DF02501735221624AC04"
   },
   "BAD781B7A3FE73A0127223CD807FAFBC4007DCCF": {
-    "name": "Top Gear Overdrive (Europe)"
+    "name": "Top Gear Overdrive (Europe)",
+    "ref": "75EBBE451906CE68B0DD43EEF9EE44416452A4F1"
   },
   "BE62D75C7AC1067111CD213365A9583550F897F3": {
-    "name": "Top Gear Overdrive (Japan)"
+    "name": "Top Gear Overdrive (Japan)",
+    "ref": "75EBBE451906CE68B0DD43EEF9EE44416452A4F1"
   },
   "75EBBE451906CE68B0DD43EEF9EE44416452A4F1": {
     "name": "Top Gear Overdrive (USA)",
@@ -3190,10 +3555,12 @@
     "logo": "Qmbgqg1h2JczgtxUpRnXCpXLcPpeRN14DYoZ1TQFhGtaoR"
   },
   "9FAE5D98FE3464F00D59034690DF90118646EB95": {
-    "name": "Top Gear Rally (Europe)"
+    "name": "Top Gear Rally (Europe)",
+    "ref": "BFC51F086EBDB78904DC24AD0C3A2D946E26D022"
   },
   "E0415B87C5A5B69AC581E79137406BDAA79B354A": {
-    "name": "Top Gear Rally (Japan)"
+    "name": "Top Gear Rally (Japan)",
+    "ref": "BFC51F086EBDB78904DC24AD0C3A2D946E26D022"
   },
   "BFC51F086EBDB78904DC24AD0C3A2D946E26D022": {
     "name": "Top Gear Rally (USA)",
@@ -3201,16 +3568,20 @@
     "logo": "QmNTsFrzifdgPr6tSS78qHkzZvWajNZb5rZZYZcTb1Di3u"
   },
   "7E36A98F6FAFE3FF7E72D14E0FAE16418458DA47": {
-    "name": "Top Gear Rally (Asia) (En)"
+    "name": "Top Gear Rally (Asia) (En)",
+    "ref": "BFC51F086EBDB78904DC24AD0C3A2D946E26D022"
   },
   "168DD383EDD88A921D25CF7EAEB18B2DA29C744A": {
-    "name": "Top Gear Rally 2 (Europe) (Beta) (1999-08-31)"
+    "name": "Top Gear Rally 2 (Europe) (Beta) (1999-08-31)",
+    "ref": "FED36B2202B28FC7FF6446ECBA541413660D0630"
   },
   "CC140D2A8BAB74109D34FDA97F4DA21F8C3CD083": {
-    "name": "Top Gear Rally 2 (Europe)"
+    "name": "Top Gear Rally 2 (Europe)",
+    "ref": "FED36B2202B28FC7FF6446ECBA541413660D0630"
   },
   "D78DF79985BFDC7C77F7ED0338E86E852BB3F45A": {
-    "name": "Top Gear Rally 2 (Japan)"
+    "name": "Top Gear Rally 2 (Japan)",
+    "ref": "FED36B2202B28FC7FF6446ECBA541413660D0630"
   },
   "FED36B2202B28FC7FF6446ECBA541413660D0630": {
     "name": "Top Gear Rally 2 (USA)",
@@ -3221,7 +3592,8 @@
     "name": "Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)"
   },
   "92015E5254CBBAD1BC668ECB13A4B568E5F55052": {
-    "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)"
+    "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)",
+    "ref": "982AD2E1E44C6662C88A77367BC5DF91C51531BF"
   },
   "982AD2E1E44C6662C88A77367BC5DF91C51531BF": {
     "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA)",
@@ -3229,7 +3601,8 @@
     "logo": "QmY4tfkVr5MikULHUU4jchVviJr5xK31y9EZYLoDFRMe9T"
   },
   "486DBB2E6068065A7B354A21089E889DE0970EC8": {
-    "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)"
+    "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)",
+    "ref": "982AD2E1E44C6662C88A77367BC5DF91C51531BF"
   },
   "F8FBB100227015BE8629243F53D70F29A2A14315": {
     "name": "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany)"
@@ -3254,22 +3627,28 @@
     "name": "Tsumi to Batsu - Hoshi no Keishousha (Japan)"
   },
   "88916D5D2E2470F395AD8F4245D34138EF2D156A": {
-    "name": "Turok - Dinosaur Hunter (Europe)"
+    "name": "Turok - Dinosaur Hunter (Europe)",
+    "ref": "C7ED00DEE20F4235823BCF50D32FA5D6862D6FCE"
   },
   "90809F3D30BF085F5EACBD12136672216AA7B88B": {
-    "name": "Turok - Dinosaur Hunter (Europe) (Rev 1)"
+    "name": "Turok - Dinosaur Hunter (Europe) (Rev 1)",
+    "ref": "C7ED00DEE20F4235823BCF50D32FA5D6862D6FCE"
   },
   "0B3CD4FCB03C704E1F8EB3BBD109C82F4BE50075": {
-    "name": "Turok - Dinosaur Hunter (Europe) (Rev 2)"
+    "name": "Turok - Dinosaur Hunter (Europe) (Rev 2)",
+    "ref": "C7ED00DEE20F4235823BCF50D32FA5D6862D6FCE"
   },
   "698760178EDFBB8293A536D4960AA9566F1A1871": {
-    "name": "Turok - Dinosaur Hunter (Germany)"
+    "name": "Turok - Dinosaur Hunter (Germany)",
+    "ref": "C7ED00DEE20F4235823BCF50D32FA5D6862D6FCE"
   },
   "40FB0250C095740031278FB1F82B9937A3895E01": {
-    "name": "Turok - Dinosaur Hunter (USA)"
+    "name": "Turok - Dinosaur Hunter (USA)",
+    "ref": "C7ED00DEE20F4235823BCF50D32FA5D6862D6FCE"
   },
   "6E67DCB49F700F01B18B7B4FD9AEB6BD911F1850": {
-    "name": "Turok - Dinosaur Hunter (USA) (Rev 1)"
+    "name": "Turok - Dinosaur Hunter (USA) (Rev 1)",
+    "ref": "C7ED00DEE20F4235823BCF50D32FA5D6862D6FCE"
   },
   "C7ED00DEE20F4235823BCF50D32FA5D6862D6FCE": {
     "name": "Turok - Dinosaur Hunter (USA) (Rev 2)",
@@ -3277,19 +3656,23 @@
     "logo": "QmfR1ehMvxVdPG9cvJHaN49i8KmvcupiAAuqwYvwh92NVm"
   },
   "803BBC3CB2663AA24A88EC277D93C8DDD4EC34E3": {
-    "name": "Turok - Dinosaur Hunter (Germany) (Rev 1)"
+    "name": "Turok - Dinosaur Hunter (Germany) (Rev 1)",
+    "ref": "C7ED00DEE20F4235823BCF50D32FA5D6862D6FCE"
   },
   "0AD61791FB8FB1E0A3BD2A286F32E1967DC79309": {
-    "name": "Turok - Dinosaur Hunter (Germany) (Rev 2)"
+    "name": "Turok - Dinosaur Hunter (Germany) (Rev 2)",
+    "ref": "C7ED00DEE20F4235823BCF50D32FA5D6862D6FCE"
   },
   "A6DAACBD0E7F77C73208CF494AEFC24703060B17": {
     "name": "Turok - Legenden des Verlorenen Landes (Germany)"
   },
   "46B474FAC79A4B21535BB6C78CE3039A2C202359": {
-    "name": "Turok - Rage Wars (Europe)"
+    "name": "Turok - Rage Wars (Europe)",
+    "ref": "9F8CB190831945F6F707AA8C2B20E04FA4276795"
   },
   "0B54615930A55675955EEF8D8A22F1DFC34D2B44": {
-    "name": "Turok - Rage Wars (Europe) (En,Fr,It)"
+    "name": "Turok - Rage Wars (Europe) (En,Fr,It)",
+    "ref": "9F8CB190831945F6F707AA8C2B20E04FA4276795"
   },
   "9F8CB190831945F6F707AA8C2B20E04FA4276795": {
     "name": "Turok - Rage Wars (USA)",
@@ -3297,25 +3680,32 @@
     "logo": "QmTWvsmX2ZsEAxX5zMmxkDFZ6wVxrpTF2986KTLM7z9sRx"
   },
   "037FB397CEE2669048ED6B762A64698DE4A4D88A": {
-    "name": "Turok - Rage Wars (USA) (Rev 1)"
+    "name": "Turok - Rage Wars (USA) (Rev 1)",
+    "ref": "9F8CB190831945F6F707AA8C2B20E04FA4276795"
   },
   "1A0B36D9FD95DB483C846D0D604D2549D6CE4CC3": {
-    "name": "Turok 2 - Seeds of Evil (Europe)"
+    "name": "Turok 2 - Seeds of Evil (Europe)",
+    "ref": "A86AF6C2AC9F6D837181F07C0A27F7EE59E7DF68"
   },
   "FB20F8E540C01D321BF805922B05E7A448521E1E": {
-    "name": "Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)"
+    "name": "Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)",
+    "ref": "A86AF6C2AC9F6D837181F07C0A27F7EE59E7DF68"
   },
   "BFC04B6C5C300D39BBABE0B42227AEF45CC41D3F": {
-    "name": "Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk)"
+    "name": "Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk)",
+    "ref": "A86AF6C2AC9F6D837181F07C0A27F7EE59E7DF68"
   },
   "D09353C551F5309F29B6FF964B583A54E3D63C5F": {
-    "name": "Turok 2 - Seeds of Evil (Germany)"
+    "name": "Turok 2 - Seeds of Evil (Germany)",
+    "ref": "A86AF6C2AC9F6D837181F07C0A27F7EE59E7DF68"
   },
   "FB0400F21E3F043939AB56500C7B12A3231006F1": {
-    "name": "Turok 2 - Seeds of Evil (USA)"
+    "name": "Turok 2 - Seeds of Evil (USA)",
+    "ref": "A86AF6C2AC9F6D837181F07C0A27F7EE59E7DF68"
   },
   "68D1C5B79CC243804FCE3C993D9C93A10A58CAB8": {
-    "name": "Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk)"
+    "name": "Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk)",
+    "ref": "A86AF6C2AC9F6D837181F07C0A27F7EE59E7DF68"
   },
   "A86AF6C2AC9F6D837181F07C0A27F7EE59E7DF68": {
     "name": "Turok 2 - Seeds of Evil (USA) (Rev 1)",
@@ -3323,7 +3713,8 @@
     "logo": "QmZXNg4SyQffwEfYb3qAUVUP2fLBG7A5WtrjB8n579y1gC"
   },
   "F3FDC0B58D0AE8111F033C5F61C364E6A9425F91": {
-    "name": "Turok 3 - Shadow of Oblivion (Europe)"
+    "name": "Turok 3 - Shadow of Oblivion (Europe)",
+    "ref": "A2E0A28DC0D3A48C7C02CB9E4C4B38FE04B2D436"
   },
   "A2E0A28DC0D3A48C7C02CB9E4C4B38FE04B2D436": {
     "name": "Turok 3 - Shadow of Oblivion (USA)",
@@ -3331,22 +3722,28 @@
     "logo": "QmYjmN6eB1x4KErpfq8UVSrrbSjGWcZkixGJES5KtLyvqi"
   },
   "22BD7985055C08DA0D9885772FE65C2F78A5F9AC": {
-    "name": "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-10) [b]"
+    "name": "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-10) [b]",
+    "ref": "A2E0A28DC0D3A48C7C02CB9E4C4B38FE04B2D436"
   },
   "DF10C5D421AEAB2AF438648588600839CD82B5E0": {
-    "name": "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31)"
+    "name": "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31)",
+    "ref": "A2E0A28DC0D3A48C7C02CB9E4C4B38FE04B2D436"
   },
   "823F0FEC1AFB1F2B734D558A09568E17B9E1B0E7": {
-    "name": "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16)"
+    "name": "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16)",
+    "ref": "A2E0A28DC0D3A48C7C02CB9E4C4B38FE04B2D436"
   },
   "F3CDDFC1BFCE0348C41217F9F4E053F8AB3DD4CA": {
-    "name": "Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-06-26)"
+    "name": "Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-06-26)",
+    "ref": "A2E0A28DC0D3A48C7C02CB9E4C4B38FE04B2D436"
   },
   "0BAC8AA24D636F1B8E5A65A7FD95B9C282C3E495": {
-    "name": "Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21)"
+    "name": "Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21)",
+    "ref": "A2E0A28DC0D3A48C7C02CB9E4C4B38FE04B2D436"
   },
   "08EC9170B67AFE259104977DEF70FBCC706729F9": {
-    "name": "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-06-06) [b]"
+    "name": "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-06-06) [b]",
+    "ref": "A2E0A28DC0D3A48C7C02CB9E4C4B38FE04B2D436"
   },
   "8888228AD423DF143C2C820130FB0658DF64C930": {
     "name": "Twisted Edge - Extreme Snowboarding (USA)",
@@ -3360,10 +3757,12 @@
     "name": "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)"
   },
   "DA3F262DFB86CFF1376C9A1AA081212E5A7AAD64": {
-    "name": "V-Rally Edition 99 (Europe) (En,Fr,De)"
+    "name": "V-Rally Edition 99 (Europe) (En,Fr,De)",
+    "ref": "891C64C871993C043BF47745FCCE16CD7E6AA76F"
   },
   "B23ADB839AC7BB51CC080FF531E42AB0BC86DD13": {
-    "name": "V-Rally Edition 99 (Japan)"
+    "name": "V-Rally Edition 99 (Japan)",
+    "ref": "891C64C871993C043BF47745FCCE16CD7E6AA76F"
   },
   "891C64C871993C043BF47745FCCE16CD7E6AA76F": {
     "name": "V-Rally Edition 99 (USA)",
@@ -3374,13 +3773,16 @@
     "name": "Viewpoint 2064 (Japan) (Proto)"
   },
   "37603E7AFBA0D0EBEBE64782EFD135B096D4CADC": {
-    "name": "Vigilante 8 (Europe)"
+    "name": "Vigilante 8 (Europe)",
+    "ref": "22B7D7B4F1722EFD52D3C8BEBA8CF5D07340569B"
   },
   "16688EAC55153332D49A62696294F38D6C1AFEFA": {
-    "name": "Vigilante 8 (France)"
+    "name": "Vigilante 8 (France)",
+    "ref": "22B7D7B4F1722EFD52D3C8BEBA8CF5D07340569B"
   },
   "39E4FC6D553D370EFC0710DE2E99D8BC8A020A7C": {
-    "name": "Vigilante 8 (Germany)"
+    "name": "Vigilante 8 (Germany)",
+    "ref": "22B7D7B4F1722EFD52D3C8BEBA8CF5D07340569B"
   },
   "22B7D7B4F1722EFD52D3C8BEBA8CF5D07340569B": {
     "name": "Vigilante 8 (USA)",
@@ -3388,7 +3790,8 @@
     "logo": "QmP2Wg3meB8ePsbfzuPrJiLggMzctYfXLKntpyFYYsyW1c"
   },
   "A2841A8B4C29481D05B52227442C0E419C574E2D": {
-    "name": "Vigilante 8 - 2nd Offense (Europe)"
+    "name": "Vigilante 8 - 2nd Offense (Europe)",
+    "ref": "9634247CA456C82A65BB33F552DB036BA6F33F79"
   },
   "9634247CA456C82A65BB33F552DB036BA6F33F79": {
     "name": "Vigilante 8 - 2nd Offense (USA)",
@@ -3399,7 +3802,8 @@
     "name": "Violence Killer - Turok New Generation (Japan)"
   },
   "0899017B0A5231ECBB084ABFF2303D9C25342828": {
-    "name": "Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "B3F84937813EB76F94DFCF1DBEA69B11BDBF7E4F"
   },
   "B3F84937813EB76F94DFCF1DBEA69B11BDBF7E4F": {
     "name": "Virtual Chess 64 (USA) (En,Fr,Es)",
@@ -3407,7 +3811,8 @@
     "logo": "QmVXqtxs4aZmTNhV6zSV1rtESvZj57gzFEZnZAvnsc8cmr"
   },
   "70BD9ECE445D6B66EF65AFC19B5EA9DF5A75DBA4": {
-    "name": "Virtual Pool 64 (Europe)"
+    "name": "Virtual Pool 64 (Europe)",
+    "ref": "4FED63F7EE35F4D3941F0D61175057481D91D2E0"
   },
   "4FED63F7EE35F4D3941F0D61175057481D91D2E0": {
     "name": "Virtual Pool 64 (USA)",
@@ -3421,13 +3826,16 @@
     "name": "Virtual Pro Wrestling 64 (Japan)"
   },
   "A06F905F4466637012ADB5EB56CCDCBEE2E7AC72": {
-    "name": "Waialae Country Club - True Golf Classics (Europe)"
+    "name": "Waialae Country Club - True Golf Classics (Europe)",
+    "ref": "45C9E0CA0D41B47BB59D36CEBB1D2A9DB7C8278B"
   },
   "074D13DA1AC91167654A8047EB72D732FBCB5121": {
-    "name": "Waialae Country Club - True Golf Classics (Europe) (Rev 1)"
+    "name": "Waialae Country Club - True Golf Classics (Europe) (Rev 1)",
+    "ref": "45C9E0CA0D41B47BB59D36CEBB1D2A9DB7C8278B"
   },
   "F8609F518D60C87CB6A4E257633E8A1BE957311C": {
-    "name": "Waialae Country Club - True Golf Classics (USA)"
+    "name": "Waialae Country Club - True Golf Classics (USA)",
+    "ref": "45C9E0CA0D41B47BB59D36CEBB1D2A9DB7C8278B"
   },
   "45C9E0CA0D41B47BB59D36CEBB1D2A9DB7C8278B": {
     "name": "Waialae Country Club - True Golf Classics (USA) (Rev 1)",
@@ -3435,7 +3843,8 @@
     "logo": "QmX615VKxqtqdJb44arS8Uh3aZv7FSKuoxdpiocjCwZHq9"
   },
   "C9BDD7E5AF853135FC4CBD72E461FC227F7498E3": {
-    "name": "War Gods (Europe)"
+    "name": "War Gods (Europe)",
+    "ref": "829C4F0F1CAA72A2FBABAEE5651E2ACC695D3921"
   },
   "829C4F0F1CAA72A2FBABAEE5651E2ACC695D3921": {
     "name": "War Gods (USA)",
@@ -3443,16 +3852,20 @@
     "logo": "QmeejwGxjEBCJCogdddqC4VqYKHunGFeN8uGgQsh2RMMkH"
   },
   "C20AA97DC25AEC7A9B9C6889286BBD216FC7CAA4": {
-    "name": "Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)"
+    "name": "Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)",
+    "ref": "508DFC2D4CAA42B6F6DE5263D0AED5E44AC7966A"
   },
   "05D40E57C9CB29A8992595AFDDE6653936E16729": {
-    "name": "Wave Race 64 - Kawasaki Jet Ski (Japan)"
+    "name": "Wave Race 64 - Kawasaki Jet Ski (Japan)",
+    "ref": "508DFC2D4CAA42B6F6DE5263D0AED5E44AC7966A"
   },
   "445ECB4904CC0AB6B81FB415A35072E99F18B545": {
-    "name": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)"
+    "name": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)",
+    "ref": "508DFC2D4CAA42B6F6DE5263D0AED5E44AC7966A"
   },
   "887AB588C2ECC64C52FB2065F06B0A1EE4AF13DC": {
-    "name": "Wave Race 64 - Kawasaki Jet Ski (USA)"
+    "name": "Wave Race 64 - Kawasaki Jet Ski (USA)",
+    "ref": "508DFC2D4CAA42B6F6DE5263D0AED5E44AC7966A"
   },
   "508DFC2D4CAA42B6F6DE5263D0AED5E44AC7966A": {
     "name": "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)",
@@ -3460,16 +3873,20 @@
     "logo": "QmZLYyh3q8hfTEMwpnDcfcJBDY5AECS9bM8eHGKcpWEHuL"
   },
   "4B6CD84B40DD2F4FBE55C6E10F298F33F9184A9A": {
-    "name": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1)"
+    "name": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1)",
+    "ref": "508DFC2D4CAA42B6F6DE5263D0AED5E44AC7966A"
   },
   "D9A6BA9A6E75A198E995AF3C4C81F4CFB3830C64": {
-    "name": "Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)"
+    "name": "Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)",
+    "ref": "91F33097C5DA2C3480E0A9F04F7463CEA16B176B"
   },
   "D8EDC3B462BF80B48C98FB36032B8ACA95164055": {
-    "name": "Wayne Gretzky's 3D Hockey (Japan)"
+    "name": "Wayne Gretzky's 3D Hockey (Japan)",
+    "ref": "91F33097C5DA2C3480E0A9F04F7463CEA16B176B"
   },
   "400AA84811F1F2F6C62C756B43B54D534D5A5EC8": {
-    "name": "Wayne Gretzky's 3D Hockey (USA)"
+    "name": "Wayne Gretzky's 3D Hockey (USA)",
+    "ref": "91F33097C5DA2C3480E0A9F04F7463CEA16B176B"
   },
   "91F33097C5DA2C3480E0A9F04F7463CEA16B176B": {
     "name": "Wayne Gretzky's 3D Hockey (USA) (Rev 1)",
@@ -3477,7 +3894,8 @@
     "logo": "QmStqSnko4rMw8fcyo55bwnS8N3ceeNazZ2VbwULRjaC2h"
   },
   "3EB1A78C0480AF0CC6F2180F87260790C37367D0": {
-    "name": "Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)"
+    "name": "Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)",
+    "ref": "1AF0BE9568F8ACE865D5CF76FD241DA741154B0F"
   },
   "1AF0BE9568F8ACE865D5CF76FD241DA741154B0F": {
     "name": "Wayne Gretzky's 3D Hockey '98 (USA)",
@@ -3488,7 +3906,8 @@
     "name": "WCW Backstage Assault (USA)"
   },
   "594B273EE9D6E174CFD9B33D4FD6AA86CD3E2442": {
-    "name": "WCW Mayhem (Europe)"
+    "name": "WCW Mayhem (Europe)",
+    "ref": "83382EE31DB3DCCD598D8AF55607E70DB1BCBBB6"
   },
   "83382EE31DB3DCCD598D8AF55607E70DB1BCBBB6": {
     "name": "WCW Mayhem (USA)",
@@ -3501,10 +3920,12 @@
     "logo": "QmVu3AEoRvnXgmMBq1X2Xb5V3RRucqFiJRrmwsSW9jyVuQ"
   },
   "840B8B6303ACACEB49619EB1533CB4221CDEC474": {
-    "name": "WCW vs. nWo - World Tour (Europe)"
+    "name": "WCW vs. nWo - World Tour (Europe)",
+    "ref": "60814FB3AD2DD206BADBEEE47C07636357DD0D7E"
   },
   "5AD2D8359058C8BB71F08E3D3433B7A50D3BB645": {
-    "name": "WCW vs. nWo - World Tour (USA)"
+    "name": "WCW vs. nWo - World Tour (USA)",
+    "ref": "60814FB3AD2DD206BADBEEE47C07636357DD0D7E"
   },
   "60814FB3AD2DD206BADBEEE47C07636357DD0D7E": {
     "name": "WCW vs. nWo - World Tour (USA) (Rev 1)",
@@ -3512,7 +3933,8 @@
     "logo": "QmVsPEk9NRULahGsjrij3HuPtDt6gQgTNebtBZCtw4rwhR"
   },
   "C59315A3E7A6E8124495477656A77E4619DAC104": {
-    "name": "WCW-nWo Revenge (Europe)"
+    "name": "WCW-nWo Revenge (Europe)",
+    "ref": "E1711A2511394B9357B5F1AC8CA5CC17BD674836"
   },
   "E1711A2511394B9357B5F1AC8CA5CC17BD674836": {
     "name": "WCW-nWo Revenge (USA)",
@@ -3520,10 +3942,12 @@
     "logo": "QmQfU1W7KMwqUZr6G67Epi1NFDGiyPjhwbapRh3VcPF7Jb"
   },
   "4CC1B6E3AA150CD79093F21E3FBE91A72FB86AD6": {
-    "name": "Wetrix (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Wetrix (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "6E40312CF88A9182E93B396B9D82457B1ABA7CD6"
   },
   "1B1635546CB973EBAA0A4A0940A363EC2C074053": {
-    "name": "Wetrix (Japan)"
+    "name": "Wetrix (Japan)",
+    "ref": "6E40312CF88A9182E93B396B9D82457B1ABA7CD6"
   },
   "6E40312CF88A9182E93B396B9D82457B1ABA7CD6": {
     "name": "Wetrix (USA) (En,Fr,De,Es,It,Nl)",
@@ -3556,7 +3980,8 @@
     "logo": "QmYYLMP8qQV7Vtf9iWxvdREmw1aHM1UkzyV9jvoMAWBp7c"
   },
   "3EEF8EC7D0009EE67D604AACA2BB61B7397BA862": {
-    "name": "Wipeout 64 (Europe)"
+    "name": "Wipeout 64 (Europe)",
+    "ref": "54E4795ABA4FC326F79D0703FFDB51A212DD4B5C"
   },
   "54E4795ABA4FC326F79D0703FFDB51A212DD4B5C": {
     "name": "Wipeout 64 (USA)",
@@ -3564,13 +3989,15 @@
     "logo": "QmUjKJD5vjEbvUGNXBKZcUgeeHHBoy8oU5SJz3WRyCUjro"
   },
   "A05A1F4C9F4EE67159DB0CD15C37E05F255D35D0": {
-    "name": "Wipeout 64 (Europe) (Beta)"
+    "name": "Wipeout 64 (Europe) (Beta)",
+    "ref": "54E4795ABA4FC326F79D0703FFDB51A212DD4B5C"
   },
   "3A311EC0D77D4E0FC425A99CB6B9416F072E268E": {
     "name": "Wonder Project J2 - Koruro no Mori no Jozet (Japan)"
   },
   "CD92B2CBB253411FC66544649567D9B1C44BB210": {
-    "name": "World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"
+    "name": "World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+    "ref": "B496EDEE84E5E84EAD8DA6F57A765936B2AF2F9F"
   },
   "B496EDEE84E5E84EAD8DA6F57A765936B2AF2F9F": {
     "name": "World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)",
@@ -3584,7 +4011,8 @@
     "name": "World Driver Championship (USA)"
   },
   "34042046E3CFA44723C32F6D366052483EDB80D7": {
-    "name": "Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "3B17B36BA91737B86AA56ECB1B48A89444B53572"
   },
   "3B17B36BA91737B86AA56ECB1B48A89444B53572": {
     "name": "Worms Armageddon (USA) (En,Fr,Es)",
@@ -3592,10 +4020,12 @@
     "logo": "QmeXJxnKLingMAqmA7Dtpd9nn6PhvwL1r1sDJxJbmAVnHt"
   },
   "880D3AACAE0B3792235404DECD294AFDAD51A0A6": {
-    "name": "WWF Attitude (Europe)"
+    "name": "WWF Attitude (Europe)",
+    "ref": "259973EB0BA1D01F1A5FBF3039ED511E6B705F26"
   },
   "40C2C6309589755C4CFDBF3E4E39B3788820B199": {
-    "name": "WWF Attitude (Germany)"
+    "name": "WWF Attitude (Germany)",
+    "ref": "259973EB0BA1D01F1A5FBF3039ED511E6B705F26"
   },
   "259973EB0BA1D01F1A5FBF3039ED511E6B705F26": {
     "name": "WWF Attitude (USA)",
@@ -3603,13 +4033,16 @@
     "logo": "QmZJaBsLGLjfXq8LXSEa8G9znbFQy36ZpSqK5QJ4wt4135"
   },
   "15AD0A48DBB2DA32B39601E6BFB5D7B381853529": {
-    "name": "WWF No Mercy (Europe)"
+    "name": "WWF No Mercy (Europe)",
+    "ref": "91CEE3D096F4A76644D8B35B9AEAD6448909ABD1"
   },
   "CC8B9863C0E96D1B6A611D6AC2238E38B247EA5D": {
-    "name": "WWF No Mercy (Europe) (Rev 1)"
+    "name": "WWF No Mercy (Europe) (Rev 1)",
+    "ref": "91CEE3D096F4A76644D8B35B9AEAD6448909ABD1"
   },
   "3566D9B5723291937582453AD0453CE517CFC358": {
-    "name": "WWF No Mercy (USA)"
+    "name": "WWF No Mercy (USA)",
+    "ref": "91CEE3D096F4A76644D8B35B9AEAD6448909ABD1"
   },
   "91CEE3D096F4A76644D8B35B9AEAD6448909ABD1": {
     "name": "WWF No Mercy (USA) (Rev 1)",
@@ -3617,7 +4050,8 @@
     "logo": "QmTVNcWJjx8N3NLHmpBs1tRkWiUdneYQB9w4jtHrhrzvEU"
   },
   "808A8997AA8D717AAC2A9A0C476B901338AC626E": {
-    "name": "WWF War Zone (Europe)"
+    "name": "WWF War Zone (Europe)",
+    "ref": "8700F89CD7CFA873452117F6B2A648D32796111C"
   },
   "8700F89CD7CFA873452117F6B2A648D32796111C": {
     "name": "WWF War Zone (USA)",
@@ -3625,10 +4059,12 @@
     "logo": "Qma8wT9sV2CKrXqe9wQQqTSUdTpXuUkWX7bJhJELpzED2o"
   },
   "D37C4100D967CB8B71852993B947619467FFCAF7": {
-    "name": "WWF WrestleMania 2000 (Europe)"
+    "name": "WWF WrestleMania 2000 (Europe)",
+    "ref": "442D417A52ED672CA1A47E7261A5414DEBB1E27A"
   },
   "E020C26DEDE0C349181CF08A3541816DC47F63A8": {
-    "name": "WWF WrestleMania 2000 (Japan)"
+    "name": "WWF WrestleMania 2000 (Japan)",
+    "ref": "442D417A52ED672CA1A47E7261A5414DEBB1E27A"
   },
   "442D417A52ED672CA1A47E7261A5414DEBB1E27A": {
     "name": "WWF WrestleMania 2000 (USA)",
@@ -3636,7 +4072,8 @@
     "logo": "QmTseXktF9qsHs3q6TCKVUqUL1w57a6ESvpDLoqDSMveMp"
   },
   "2FA884F36BD370D844ED1E57C4357510584FE3E2": {
-    "name": "Xena - Warrior Princess - The Talisman of Fate (Europe)"
+    "name": "Xena - Warrior Princess - The Talisman of Fate (Europe)",
+    "ref": "E3316269B8466FE1FB968AC9338E6ACDC0379970"
   },
   "E3316269B8466FE1FB968AC9338E6ACDC0379970": {
     "name": "Xena - Warrior Princess - The Talisman of Fate (USA)",
@@ -3671,7 +4108,8 @@
     "name": "Yoshi Story (Japan)"
   },
   "5B56EC1DA78456F968129BADDC1F233E1FB4F4F3": {
-    "name": "Yoshi's Story (Europe) (En,Fr,De)"
+    "name": "Yoshi's Story (Europe) (En,Fr,De)",
+    "ref": "B13072FEF6C6DF48C07D8822C01E5BC59036F6DA"
   },
   "B13072FEF6C6DF48C07D8822C01E5BC59036F6DA": {
     "name": "Yoshi's Story (USA) (En,Ja)",

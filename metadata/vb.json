@@ -23,7 +23,8 @@
     "logo": "QmQPUUg8cHNUmbwChaYV8ejbdoo8kW3G6smRsauUVKectJ"
   },
   "322DC4C2DF74BF19D8A30D43C489401BE5E76CA5": {
-    "name": "Hyper Fighting (World) (Beta) (Aftermarket) (Unl) (Pirate)"
+    "name": "Hyper Fighting (World) (Beta) (Aftermarket) (Unl) (Pirate)",
+    "ref": "578355DE83822CE67522033DD7545631124A71AB"
   },
   "37E06E53CE2810E870835C48DECDD6C72079BFDA": {
     "name": "Innsmouth no Yakata (Japan)",
@@ -62,7 +63,8 @@
     "logo": "Qmf9kBpHUhQwzRV43ChazPudR82N3wyTDh4rZsWj2UAma2"
   },
   "F5057FA9BFD9D60B9DCFC004CFDD12AA8EB1CB4A": {
-    "name": "Red Alarm (Japan)"
+    "name": "Red Alarm (Japan)",
+    "ref": "494FA60CB8997880B4E8CD3270B21D6C2768A48A"
   },
   "494FA60CB8997880B4E8CD3270B21D6C2768A48A": {
     "name": "Red Alarm (USA)",
@@ -107,7 +109,8 @@
     "logo": "QmSYrvARB5C2QFF1MjTjGnrr3Vwh42iXXd9uXFKbYHF1tm"
   },
   "C7204BA5CFE7D26394B5E22BADC580C8ED8C0B37": {
-    "name": "Vertical Force (Japan)"
+    "name": "Vertical Force (Japan)",
+    "ref": "38F9008F60B09DEEF1151D46B905B090A0338200"
   },
   "A5BE7654037050F0A781E70EFEA0191F43D26F06": {
     "name": "Virtual Bowling (Japan)",

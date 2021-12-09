@@ -49,10 +49,12 @@
     "logo": "QmV2TceVCsa13tEWdGVzVxGhU84mJSX3BkD3oQ3k3i5fbt"
   },
   "A8C4F423429A8683CFEBD05370EA122613349033": {
-    "name": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1)"
+    "name": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1)",
+    "ref": "3B62FD2841602F1077270848AB7A3AAD58712EE9"
   },
   "F7A65E95A8E97F35EC2419897AD96AF1E1D49676": {
-    "name": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3)"
+    "name": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3)",
+    "ref": "3B62FD2841602F1077270848AB7A3AAD58712EE9"
   },
   "EB538B82C5516FAE8CE38778E41FB118AA5C830F": {
     "name": "Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4)",
@@ -106,7 +108,8 @@
     "logo": "QmRkxASXHfgUHDEMCwYq6TPqkJsCV6Kjht8Fr5ixsmPvMV"
   },
   "C49BD00C95BCA49A183D59F85E81815EFB1A2FB9": {
-    "name": "Digimon Adventure - Anode Tamer (Japan)"
+    "name": "Digimon Adventure - Anode Tamer (Japan)",
+    "ref": "9DB54826C2887DEA07AAC774BD15E092596E37AF"
   },
   "0B54CC1D350AB92C42CE8214784389B994562BF6": {
     "name": "Digimon Adventure - Cathode Tamer (Japan)",
@@ -119,7 +122,8 @@
     "logo": "QmciySrTc1E1QKuTQqPzrHWfZRULt2HXtK86dLGoVAUBn7"
   },
   "521754084AFC6321AE329421B9D2AB0F0CAC8C70": {
-    "name": "Digimon Adventure 02 - Tag Tamers (Japan)"
+    "name": "Digimon Adventure 02 - Tag Tamers (Japan)",
+    "ref": "44A5502B70EA75926B87377E3F634C8093BC574A"
   },
   "ECEA24DB6E65254AB4D6E312DE0EB951C7DF716F": {
     "name": "Digital Monster - Ver. WonderSwan (Japan) (Rev 1)",
@@ -205,7 +209,8 @@
     "logo": "Qmad8A4anpm75rtw6V5JQepYNno6tb4CRpgix6bp12Rxgf"
   },
   "ECBAF210F92C75A55DF9DFF4777EA364596AE0C9": {
-    "name": "Harobots (Japan) (Rev 1)"
+    "name": "Harobots (Japan) (Rev 1)",
+    "ref": "1F42C5694A798DE8FF3C68F63DFC7395BE1669A5"
   },
   "57B4278FC5812F52413CA65F45225922D4F2EC3D": {
     "name": "Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2)",
@@ -213,7 +218,8 @@
     "logo": "Qmas36vQwsqBmf4BKEKvYmH1VDSqdSoCm6LUUdoBW8hh9H"
   },
   "43D985B31848E1AE58D07231DA80EE7AA8D3F686": {
-    "name": "Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 1)"
+    "name": "Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 1)",
+    "ref": "57B4278FC5812F52413CA65F45225922D4F2EC3D"
   },
   "B40FBC7B72921C9AC31330831C0F77E4133EC7D6": {
     "name": "Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)",
@@ -276,7 +282,8 @@
     "logo": "QmfRywjE7hvZQeabf7UWXJc5v1SZHS7yDsd8gVuZuydwLP"
   },
   "748CA335D39515A6650352449972684BE749052A": {
-    "name": "Mahjong Touryuumon (Japan) (Rev 1)"
+    "name": "Mahjong Touryuumon (Japan) (Rev 1)",
+    "ref": "281079B22CB213EE4DDA5C304B5B5BE028130929"
   },
   "5EAEAB859E5F647FAC354DAD285A311387EA126B": {
     "name": "Makaimura for WonderSwan (Japan)",
@@ -397,7 +404,8 @@
     "logo": "QmfLDWLyE5vkgf3eJoD14oq8bdAWKEgkq5EWM6N67aPh5r"
   },
   "4D4D4A3FDE6B1DBBC8F008FBD035FB59624DFBA7": {
-    "name": "Robot Works (Japan)"
+    "name": "Robot Works (Japan)",
+    "ref": "2117ED92E8CB4AE61868535F1D4D16851B480890"
   },
   "2117ED92E8CB4AE61868535F1D4D16851B480890": {
     "name": "Robot Works (Hong Kong) (En,Ja) (Rev 1)",
@@ -428,7 +436,8 @@
     "logo": "QmcQj19V99vxAtat9W8q4th8FEHFKvuBQvP7exuRhmKKNn"
   },
   "B3B4CF8E996C2A1FB149074725DC4B07922B3133": {
-    "name": "SD Gundam - Emotional Jam (Japan) (Rev 2)"
+    "name": "SD Gundam - Emotional Jam (Japan) (Rev 2)",
+    "ref": "AE54A1F8916A2D37A1E0C82C5A9B5D8FE0EEAE51"
   },
   "5E5DB8B066E1B41C5C12A2D4FFA97B73ED6C3F03": {
     "name": "SD Gundam G Generation - Gather Beat (Japan)",
@@ -441,7 +450,8 @@
     "logo": "Qmc25sn3KjtK1KVEbSuQ5kmHQc2KL23KmRT9Q7yJSco9jG"
   },
   "80EFF574C75C2168FD0991C0EFD16F9A9CADC24C": {
-    "name": "SD Gundam Gashapon Senki - Episode 1 (Japan) (Alt)"
+    "name": "SD Gundam Gashapon Senki - Episode 1 (Japan) (Alt)",
+    "ref": "E6899DE5B53F73C8978E3330DCA0F2DAAF95F140"
   },
   "FC8B0B9B7EFEAC54812E7AE54153B7AE0CB9C12F": {
     "name": "Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan)",
@@ -499,10 +509,12 @@
     "logo": "QmTPA3WCFhuufLXc3uX3Doo5iipHBWjSTaLBKFvDNfjDfM"
   },
   "A957111681951EB6A971A6B4F75BCA7F89B29628": {
-    "name": "Super Robot Taisen Compact (Japan)"
+    "name": "Super Robot Taisen Compact (Japan)",
+    "ref": "E93D58AB5819992E54223F5D1C4D5AEB6983D6A3"
   },
   "C4A21084BFF1F2A63784FE7D11E046F305AD310A": {
-    "name": "Super Robot Taisen Compact (Japan) (Rev 1)"
+    "name": "Super Robot Taisen Compact (Japan) (Rev 1)",
+    "ref": "E93D58AB5819992E54223F5D1C4D5AEB6983D6A3"
   },
   "E6911E5BB0A742BA299E05B20EE81F2FAA4854A5": {
     "name": "Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)",
@@ -622,7 +634,8 @@
     "logo": "QmUYTrCho5kbRDwkHTduviV5m1BiwfLhT4mB9TNrMK7s7a"
   },
   "A1691EF96097C409B56C77F1D4C731FBFB3F386B": {
-    "name": "WonderSwan Handy Sonar (Japan) (Rev 2)"
+    "name": "WonderSwan Handy Sonar (Japan) (Rev 2)",
+    "ref": "70D65A936EE1DFC2B89C543312C205285D955EFB"
   },
   "E8B8562D0D63EFF76581782647D455CB94B58C77": {
     "name": "WonderWitch (Japan) (FreyaOS 1.0.0) (Program)"
@@ -698,7 +711,8 @@
     "logo": "QmciySrTc1E1QKuTQqPzrHWfZRULt2HXtK86dLGoVAUBn7"
   },
   "6FBB07BFEFAC7832436EC56E4D95678428B0F7BA": {
-    "name": "Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1)"
+    "name": "Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1)",
+    "ref": "18D3DFE25D82964AB7BB61AF363D368FD12F4D4B"
   },
   "757E92177385A14D979227EDEE1CB544B4C56BD6": {
     "name": "Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja)"
@@ -721,10 +735,12 @@
     "logo": "Qmcv2Zve8adx19PmAagbuj4U9fXHCRt266kRyifm4tCHVN"
   },
   "7DAB09DF13E65AA778E3BC9100EFFFB10B93B8A9": {
-    "name": "Digital Monster - D-Project (Japan) (Rev 1)"
+    "name": "Digital Monster - D-Project (Japan) (Rev 1)",
+    "ref": "3E8FFFE1F607EA5F855397D9D877CECB285507F7"
   },
   "016DE32719E920FD9996C52D7EB81F2A60A24D7A": {
-    "name": "Digital Monster - D-Project (Japan) (Rev 2)"
+    "name": "Digital Monster - D-Project (Japan) (Rev 2)",
+    "ref": "3E8FFFE1F607EA5F855397D9D877CECB285507F7"
   },
   "BA16A0770F7A71DD49E2879799FD04A4F04F7E60": {
     "name": "Digital Monster Card Game - Ver. WonderSwan Color (Japan)"
@@ -798,7 +814,8 @@
     "logo": "QmUwJVF2f9XdRd1fyjP7ca275SwYZ8pRxVSoxg3ZeFW7Mf"
   },
   "55088795164170C24B243A1B572506F123064C0F": {
-    "name": "From TV Animation One Piece - Treasure Wars (Japan) (Rev 1)"
+    "name": "From TV Animation One Piece - Treasure Wars (Japan) (Rev 1)",
+    "ref": "DD1E6E5467B72FCB5848F07A9747AA66BB207D45"
   },
   "B7775E8F60FD62DC07F2865F8FAD29A11E12DBB5": {
     "name": "From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan)",
@@ -861,7 +878,8 @@
     "logo": "Qmc2r6328TzMnbtdk2YZx5rzZwg329e1twYrk2TSQpucKz"
   },
   "E26410D4EEE4CC8CEC5E2E369604AEDF26D69D0C": {
-    "name": "Hunter X Hunter - Greed Island (Japan) (Rev 1)"
+    "name": "Hunter X Hunter - Greed Island (Japan) (Rev 1)",
+    "ref": "F66335B5AF87E7CB72AE311EB9B339534722F738"
   },
   "BC591FC24D3F8E94B70503FD8B6A35FA58151139": {
     "name": "Hunter X Hunter - Michibikareshi Mono (Japan)",
@@ -1019,15 +1037,18 @@
   },
   "152C4D63B1B17F2C717A43EFC75D718B614F9DDC": {
     "name": "SD Gundam - Operation U.C. (Japan)",
-    "vid": "QmVqk67ngJrbG3nAHgWYvgVSEfyQDgwG8kSszQqfyvgbNc"
+    "vid": "QmVqk67ngJrbG3nAHgWYvgVSEfyQDgwG8kSszQqfyvgbNc",
+    "ref": "152C4D63B1B17F2C717A43EFC75D718B614F9DDC"
   },
   "EBD4B37ADE6DF717F7B637747A4D3C45A6CCA037": {
     "name": "SD Gundam Eiyuu Den - Kishi Densetsu (Japan)",
-    "vid": "QmbCVvHQvntmeW1KYVJj5eD9bNK3S2NZ65UY5XXpuRc5rQ"
+    "vid": "QmbCVvHQvntmeW1KYVJj5eD9bNK3S2NZ65UY5XXpuRc5rQ",
+    "ref": "EBD4B37ADE6DF717F7B637747A4D3C45A6CCA037"
   },
   "D8097E25431F0AD5183B2479EE0837599677A300": {
     "name": "SD Gundam Eiyuu Den - Musha Densetsu (Japan)",
-    "vid": "QmRXgurpnAkca8yWjiEv37SJFfFi8NXAJqm8DBGYiaoPgn"
+    "vid": "QmRXgurpnAkca8yWjiEv37SJFfFi8NXAJqm8DBGYiaoPgn",
+    "ref": "D8097E25431F0AD5183B2479EE0837599677A300"
   },
   "016FF46509CBFE57A7440A1755D3A41EF49C048F": {
     "name": "SD Gundam G Generation - Gather Beat 2 (Japan)"
@@ -1065,11 +1086,13 @@
   },
   "BF212CECBBC51EE32EE2655A072F55E7BF70B9EC": {
     "name": "Super Robot Taisen Compact for WonderSwan Color (Japan)",
-    "vid": "QmPTB8UQPH2C5cagmgd5n8iM52diKQ7xhnbnWUXfLHTo2b"
+    "vid": "QmPTB8UQPH2C5cagmgd5n8iM52diKQ7xhnbnWUXfLHTo2b",
+    "ref": "BF212CECBBC51EE32EE2655A072F55E7BF70B9EC"
   },
   "9532113E14B03C95F034C015168E21273D42EFF1": {
     "name": "Terrors 2 (Japan)",
-    "vid": "Qmdpm3vhXxJ5eFLHKGF72popmSW4zFFq4s4JC4szj1f3WU"
+    "vid": "Qmdpm3vhXxJ5eFLHKGF72popmSW4zFFq4s4JC4szj1f3WU",
+    "ref": "9532113E14B03C95F034C015168E21273D42EFF1"
   },
   "1A86403D7896D60FCB7A4C09367F5A976C7EA5A5": {
     "name": "Tetris (Japan)",
@@ -1093,7 +1116,8 @@
   },
   "EA878A485A20ABD5251065FD66E82D9D8B8A669D": {
     "name": "Wild Card (Japan)",
-    "vid": "QmRDGN1FLmawERSu7j4ofeeXx4vCdYfqoc4ZpyqJZgXWq3"
+    "vid": "QmRDGN1FLmawERSu7j4ofeeXx4vCdYfqoc4ZpyqJZgXWq3",
+    "ref": "EA878A485A20ABD5251065FD66E82D9D8B8A669D"
   },
   "6A4F4A03C367CCF00AA7462191C929A2736EB44B": {
     "name": "With You - Mitsumete Itai (Japan)"

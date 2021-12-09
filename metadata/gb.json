@@ -51,7 +51,8 @@
     "name": "4 in 1 (Taiwan) (En,Zh) (4B-003, Sachen-Commin) (Unl)"
   },
   "F1CF115DF0246F08D4E886CB046EBD2AA431A6C9": {
-    "name": "4-in-1 Fun Pak (Japan)"
+    "name": "4-in-1 Fun Pak (Japan)",
+    "ref": "B1443C09EE3F2BEE5437111A635B6D84155F600E"
   },
   "B1443C09EE3F2BEE5437111A635B6D84155F600E": {
     "name": "4-in-1 Fun Pak (USA, Europe)",
@@ -72,10 +73,12 @@
     "name": "Aa Harimanada (Japan)"
   },
   "2246DBDB6C58C77814CF034AE9224BE8E73C5084": {
-    "name": "Addams Family, The (Europe) (En,Fr,De)"
+    "name": "Addams Family, The (Europe) (En,Fr,De)",
+    "ref": "8710CEECBE3E7ADE67C0362CC3B455ACEB67A90D"
   },
   "10A7D1491001657272755559ED593CC4400014EE": {
-    "name": "Addams Family, The (Japan)"
+    "name": "Addams Family, The (Japan)",
+    "ref": "8710CEECBE3E7ADE67C0362CC3B455ACEB67A90D"
   },
   "8710CEECBE3E7ADE67C0362CC3B455ACEB67A90D": {
     "name": "Addams Family, The (USA)",
@@ -116,7 +119,8 @@
     "logo": "QmUrejQvKPoR3VJv8pRv2YbjJbtn7a463YCJQam5Mz5kGY"
   },
   "1088817172C10A9080AB6859DA85A074569E2CBA": {
-    "name": "Aerostar (Japan)"
+    "name": "Aerostar (Japan)",
+    "ref": "2CB231E616008F2C809E0B2CAF40F477689E6D07"
   },
   "2CB231E616008F2C809E0B2CAF40F477689E6D07": {
     "name": "Aerostar (USA, Europe)",
@@ -139,7 +143,8 @@
     "name": "Akumajou Special - Boku Dracula-kun (Japan)"
   },
   "A40694A808C5A0D3EEB386F81AD5B0C11163238F": {
-    "name": "Aladdin (Europe) (SGB Enhanced)"
+    "name": "Aladdin (Europe) (SGB Enhanced)",
+    "ref": "81B4E56AE235FBB123D7AD4BD7C1D96C3B69EB72"
   },
   "81B4E56AE235FBB123D7AD4BD7C1D96C3B69EB72": {
     "name": "Aladdin (USA) (SGB Enhanced)",
@@ -147,16 +152,20 @@
     "logo": "QmVdbTEECinuqf89XEvheM3uKnNZB5M9qmgnH51xrFj7q6"
   },
   "C59C44051E41DC6AC8C2F693CFF2BA1FEFFD32F0": {
-    "name": "Aladdin (World) (Disney Classic Games) (SGB Enhanced)"
+    "name": "Aladdin (World) (Disney Classic Games) (SGB Enhanced)",
+    "ref": "81B4E56AE235FBB123D7AD4BD7C1D96C3B69EB72"
   },
   "6D925762A46E1996CF3702DFB85BE09F546B2137": {
-    "name": "Aladdin (Europe) (Sample)"
+    "name": "Aladdin (Europe) (Sample)",
+    "ref": "81B4E56AE235FBB123D7AD4BD7C1D96C3B69EB72"
   },
   "BC7327008DE518DDFAD0AD5C69896921DC2378E0": {
-    "name": "Alfred Chicken (Europe)"
+    "name": "Alfred Chicken (Europe)",
+    "ref": "80C39D93CA58D0D6144FE7F7BDD47C3A4FCF0438"
   },
   "E04DDF4DF8B5EF70D85E0523D277ABFC68C61496": {
-    "name": "Alfred Chicken (Japan) (SGB Enhanced)"
+    "name": "Alfred Chicken (Japan) (SGB Enhanced)",
+    "ref": "80C39D93CA58D0D6144FE7F7BDD47C3A4FCF0438"
   },
   "80C39D93CA58D0D6144FE7F7BDD47C3A4FCF0438": {
     "name": "Alfred Chicken (USA)",
@@ -164,7 +173,8 @@
     "logo": "QmQS9UvUrPPS9EaUG6AvujxUXNVCr22La2ZvDGjcVF6my6"
   },
   "4A3E7EB0EDAEFEC096BAA0019B3CBA28B4796689": {
-    "name": "Alien 3 (Japan)"
+    "name": "Alien 3 (Japan)",
+    "ref": "AB4D11EEE7FAEA42C637505469E0671C9D4A83F8"
   },
   "AB4D11EEE7FAEA42C637505469E0671C9D4A83F8": {
     "name": "Alien 3 (USA, Europe)",
@@ -195,10 +205,12 @@
     "logo": "QmTdSYmgVipBRU5TCxZDY9Pjv28m1tZwscRvFZjjaSdmSD"
   },
   "218DA72E38A847BC5152A226C98E843B4941A8A6": {
-    "name": "Altered Space - A 3-D Alien Adventure (Europe)"
+    "name": "Altered Space - A 3-D Alien Adventure (Europe)",
+    "ref": "CA586C59B2473A8BEC2F0F37504CB74E3A1E4D11"
   },
   "6D19DFEDF2C916F13A524ACFD7C4E26DE040E655": {
-    "name": "Altered Space - A 3-D Alien Adventure (Japan)"
+    "name": "Altered Space - A 3-D Alien Adventure (Japan)",
+    "ref": "CA586C59B2473A8BEC2F0F37504CB74E3A1E4D11"
   },
   "CA586C59B2473A8BEC2F0F37504CB74E3A1E4D11": {
     "name": "Altered Space - A 3-D Alien Adventure (USA)",
@@ -240,7 +252,8 @@
     "name": "Animal Breeder 2 (Japan) (SGB Enhanced)"
   },
   "031421F49F98A15187012DC3F15960B260B9979F": {
-    "name": "Animaniacs (Europe) (SGB Enhanced)"
+    "name": "Animaniacs (Europe) (SGB Enhanced)",
+    "ref": "A0732F81E0C4F1BBA592563BDC0EAAE9D759EF28"
   },
   "A0732F81E0C4F1BBA592563BDC0EAAE9D759EF28": {
     "name": "Animaniacs (USA) (SGB Enhanced)",
@@ -264,7 +277,8 @@
     "logo": "QmZRLSvxUJXgAAsmPbLGX188dG2wGpBuu7u78spwrEn9Rp"
   },
   "59EA594AF8520732F78C337F5C96A5BA2BDDF1CB": {
-    "name": "Arcade Classic No. 3 - Galaga & Galaxian (Europe) (SGB Enhanced)"
+    "name": "Arcade Classic No. 3 - Galaga & Galaxian (Europe) (SGB Enhanced)",
+    "ref": "739671D6CF151FA5527D68F78345197D278CDF19"
   },
   "739671D6CF151FA5527D68F78345197D278CDF19": {
     "name": "Arcade Classic No. 3 - Galaga & Galaxian (USA) (SGB Enhanced)",
@@ -299,10 +313,12 @@
     "logo": "QmWprtJ61WeoEDux3xLSswSJUHK2yofmcm21ybuqYjtfFE"
   },
   "54CD67EA3C3E7646FB5286A6274A40A77F0730CC": {
-    "name": "Asterix (USA) (Proto)"
+    "name": "Asterix (USA) (Proto)",
+    "ref": "7D4CA6925826C0FFCA3E3004479B5E9A5B6B311B"
   },
   "70472CBE59CFD426B0969150085CC97D31BD6470": {
-    "name": "Asterix & Obelix (Europe) (Fr,De) (Beta) (SGB Enhanced)"
+    "name": "Asterix & Obelix (Europe) (Fr,De) (Beta) (SGB Enhanced)",
+    "ref": "B6CD446962357D0F560A5C9FAE4C917E039FBB77"
   },
   "B6CD446962357D0F560A5C9FAE4C917E039FBB77": {
     "name": "Asterix & Obelix (Spain) (En,Es) (SGB Enhanced)",
@@ -310,7 +326,8 @@
     "logo": "QmUbRrGBJFYuAjoXMwoB3fhDrUo3Zdysq4A8DBt1htVag7"
   },
   "EBC68B180680C7037B151B9A1B511B681499BA30": {
-    "name": "Asterix & Obelix (Europe) (Fr,De) (SGB Enhanced)"
+    "name": "Asterix & Obelix (Europe) (Fr,De) (SGB Enhanced)",
+    "ref": "B6CD446962357D0F560A5C9FAE4C917E039FBB77"
   },
   "435DBDAA9B9D2E0D0BC7C1C010CDC5EC9BD9F359": {
     "name": "Asteroids (USA, Europe)",
@@ -326,7 +343,8 @@
     "logo": "QmWk32hmPRyXkMFvmQtGRdhcDHTBQPuXte9YtZnxLD1fEb"
   },
   "96CD454513DFB363CDA20BF0E72C6D74132A9487": {
-    "name": "Attack of the Killer Tomatoes (Japan)"
+    "name": "Attack of the Killer Tomatoes (Japan)",
+    "ref": "CBBBA5D4F80F2B4AB3E882CEB4F79C293A17904F"
   },
   "CBBBA5D4F80F2B4AB3E882CEB4F79C293A17904F": {
     "name": "Attack of the Killer Tomatoes (USA, Europe)",
@@ -415,7 +433,8 @@
     "name": "Bataille Navale (France) (En,Fr,De,Es)"
   },
   "149586120C3AE9C9614FA6E6A5E298CCEAE16C4D": {
-    "name": "Batman - Return of the Joker (Japan)"
+    "name": "Batman - Return of the Joker (Japan)",
+    "ref": "345A332175F58304F91111A13B770662E5EA92C3"
   },
   "345A332175F58304F91111A13B770662E5EA92C3": {
     "name": "Batman - Return of the Joker (USA, Europe)",
@@ -433,7 +452,8 @@
     "logo": "QmNx2QTBZ7z8Dpdd94jhuRZh6KugTT1aBGvWWAh6k4Sjpe"
   },
   "4FAB046D18ADDAFBC625FE4CEFEC37098747D716": {
-    "name": "Batman Forever (Japan)"
+    "name": "Batman Forever (Japan)",
+    "ref": "CB76B6D3EC9903A734F70FF11195F40F13F4D83F"
   },
   "CB76B6D3EC9903A734F70FF11195F40F13F4D83F": {
     "name": "Batman Forever (USA, Europe)",
@@ -441,7 +461,8 @@
     "logo": "QmURsXY6uRbKw2KRZVASh6GtH8XaKZsVJCvtT14VhFvtyf"
   },
   "F4CC9193CA0B98C69C966CC32E37EAE444A8D53B": {
-    "name": "Battle Arena Toshinden (Europe) (SGB Enhanced)"
+    "name": "Battle Arena Toshinden (Europe) (SGB Enhanced)",
+    "ref": "9C337D3F56938AA46CFC8B85C0DB4631BCBE217C"
   },
   "9C337D3F56938AA46CFC8B85C0DB4631BCBE217C": {
     "name": "Battle Arena Toshinden (USA) (SGB Enhanced)",
@@ -449,7 +470,8 @@
     "logo": "QmYAZKwKgkDwL6HTiE6usPCYezvsvLQuHtjqK8VcJBvHcc"
   },
   "74ED574D2179BDF34A6E618A86BE9B3E70155370": {
-    "name": "Battle Bull (Japan)"
+    "name": "Battle Bull (Japan)",
+    "ref": "A553B2CF2A5D223B6AC8ACA4E9FD65B65087A1F4"
   },
   "A553B2CF2A5D223B6AC8ACA4E9FD65B65087A1F4": {
     "name": "Battle Bull (USA)",
@@ -477,7 +499,8 @@
     "name": "Battle Space (Japan)"
   },
   "35413F3D4B4E68F521A90C3A48D4BD2B5BF90E09": {
-    "name": "Battle Unit Zeoth (Japan)"
+    "name": "Battle Unit Zeoth (Japan)",
+    "ref": "EBA09C60CD60FEBA0A7A9E82597DAD080CE78D22"
   },
   "EBA09C60CD60FEBA0A7A9E82597DAD080CE78D22": {
     "name": "Battle Unit Zeoth (USA, Europe)",
@@ -493,7 +516,8 @@
     "logo": "QmPDdYWRaURFkHYFKJRi7tT1BXNJkf6SzVimYRgDvewXWU"
   },
   "666ED5D34F508C8805A67F4400FC01A1F2817E03": {
-    "name": "Battletoads (Japan)"
+    "name": "Battletoads (Japan)",
+    "ref": "BA839BEA8F76BF955E3EDF7083D2CBE780244ADD"
   },
   "BA839BEA8F76BF955E3EDF7083D2CBE780244ADD": {
     "name": "Battletoads (USA, Europe)",
@@ -501,7 +525,8 @@
     "logo": "QmV1G6eYnxNKczpav1zMh4qw1FcTR5YcbPf14Gtpen9kaM"
   },
   "1852BD23644E28109B66FA937053C689A63F7729": {
-    "name": "Battletoads in Ragnarok's World (Europe)"
+    "name": "Battletoads in Ragnarok's World (Europe)",
+    "ref": "3DF1384E699B91689F015D7ABA65AB42410E24F5"
   },
   "3DF1384E699B91689F015D7ABA65AB42410E24F5": {
     "name": "Battletoads in Ragnarok's World (USA)",
@@ -509,7 +534,8 @@
     "logo": "QmTP3MuLFX9oyke4tV4xWVvw9MAb3ouWEvq8t22hCHJXaY"
   },
   "5A834E0DC81703906EB441555E1AA31DE22D39D6": {
-    "name": "Battletoads-Double Dragon (Europe)"
+    "name": "Battletoads-Double Dragon (Europe)",
+    "ref": "CE68DF4DC2D604625164430266017B237B72303D"
   },
   "CE68DF4DC2D604625164430266017B237B72303D": {
     "name": "Battletoads-Double Dragon (USA)",
@@ -532,7 +558,8 @@
     "logo": "QmSVA4gL3e9r8SY8xgpLxan3eRDim56Dz4MUT6HzzpSjF9"
   },
   "351446B94176360C0D9AD3CEE43166FFBD9A51FA": {
-    "name": "Best of the Best - Championship Karate (Europe)"
+    "name": "Best of the Best - Championship Karate (Europe)",
+    "ref": "BA7D64C606CC0F654217E54A0BD5B8DDA455A060"
   },
   "BA7D64C606CC0F654217E54A0BD5B8DDA455A060": {
     "name": "Best of the Best - Championship Karate (USA)",
@@ -558,10 +585,12 @@
     "logo": "QmdUkdoEci5fquByBknmHPRJBpWamqTxLmMgCMan9VF9E7"
   },
   "A8AB419B049AEF5A04800EFD6DF58E4B3C3ABBE3": {
-    "name": "Bionic Commando (Europe)"
+    "name": "Bionic Commando (Europe)",
+    "ref": "E0EF47568A017CCDD3DBE0DB5D7654822B4E5CE1"
   },
   "12DC5B05751214BE3CE55DA0FECAF23A41EB1881": {
-    "name": "Bionic Commando (Japan)"
+    "name": "Bionic Commando (Japan)",
+    "ref": "E0EF47568A017CCDD3DBE0DB5D7654822B4E5CE1"
   },
   "E0EF47568A017CCDD3DBE0DB5D7654822B4E5CE1": {
     "name": "Bionic Commando (USA)",
@@ -580,7 +609,8 @@
     "logo": "QmV1fdcN69KgVd9P5izdugbuZ21EYHdzoWEAnQL7sUy6Hh"
   },
   "D030C46BC225FC92AA431276D9AE5812A30D6007": {
-    "name": "Blades of Steel (Europe)"
+    "name": "Blades of Steel (Europe)",
+    "ref": "82761DBF5ABE276F8E0C82F575356AED87155141"
   },
   "82761DBF5ABE276F8E0C82F575356AED87155141": {
     "name": "Blades of Steel (USA)",
@@ -648,7 +678,8 @@
     "name": "Bomberman Collection (Japan) (SGB Enhanced)"
   },
   "5B989983C2F80A71DFC7CCE29395DE3E174FA848": {
-    "name": "Bomberman GB (Japan) (SGB Enhanced)"
+    "name": "Bomberman GB (Japan) (SGB Enhanced)",
+    "ref": "F7058F31DDAEC63F3B9C45EE9CAF3C8E2CAE1CA8"
   },
   "F7058F31DDAEC63F3B9C45EE9CAF3C8E2CAE1CA8": {
     "name": "Bomberman GB (USA, Europe) (SGB Enhanced)",
@@ -688,7 +719,8 @@
     "logo": "Qmceow7tjWDAKqi65GdEE54tkdppdppxfeHFRyqRnuVz5y"
   },
   "F5A4A5CCDA4F559CE85567C4B68F758216AEE2D4": {
-    "name": "Boulder Dash (Japan)"
+    "name": "Boulder Dash (Japan)",
+    "ref": "01CC570A16BAD4C2C33B393620EC9E25F131D1F4"
   },
   "5AF3A0B6E54CA67C3A4CAB8833368725CC68E99F": {
     "name": "Boxing (Japan)"
@@ -699,7 +731,8 @@
     "logo": "QmUv6pD5Nf2dUMrNyKsgcDUbYbUNNC7SgPBfqqG8HuzHkK"
   },
   "3E169F1DB16CC1C3FFBC8645AA7CE28194033D26": {
-    "name": "Boxxle (USA)"
+    "name": "Boxxle (USA)",
+    "ref": "F9D5287BC9D6EDA9EC36E9B5A8DBC38CF2CFFECF"
   },
   "36315DAB12915D2D2FAD7A37FCB5CE6809118C8A": {
     "name": "Boxxle II (USA, Europe)",
@@ -707,7 +740,8 @@
     "logo": "QmUG8rEypd772Sokc6hpMUwxxWkKppHEEJSkCdCgCUxGj5"
   },
   "9502181C62D8343B98CEF9B881C29E4573E4FBC9": {
-    "name": "Brain Bender (Europe)"
+    "name": "Brain Bender (Europe)",
+    "ref": "56FF8684284765A56918D14620AD38477AAAF0AD"
   },
   "56FF8684284765A56918D14620AD38477AAAF0AD": {
     "name": "Brain Bender (USA)",
@@ -715,10 +749,12 @@
     "logo": "QmezdsnCD2FPT4gQsPd8ytN9eDJZRuvudQqfLaSCoCswHS"
   },
   "67E1796ED410ECC19EFC2F73EF7F5226414CC8BB": {
-    "name": "Brain Drain (Europe) (SGB Enhanced)"
+    "name": "Brain Drain (Europe) (SGB Enhanced)",
+    "ref": "DA11B3909BEF958ABC9B3B184771F4F8FE498456"
   },
   "225C25D94854F509611B8C0B4B415DAF48D51310": {
-    "name": "Brain Drain (Japan) (SGB Enhanced)"
+    "name": "Brain Drain (Japan) (SGB Enhanced)",
+    "ref": "DA11B3909BEF958ABC9B3B184771F4F8FE498456"
   },
   "DA11B3909BEF958ABC9B3B184771F4F8FE498456": {
     "name": "Brain Drain (USA) (SGB Enhanced)",
@@ -736,7 +772,8 @@
     "logo": "QmWr6EP7UqvCFguEwgyqcvg4xBDX5HQEyKLbMzkedcDhpi"
   },
   "3F2E741E0DBDCC65E960F44A322E85748272F3F3": {
-    "name": "Bubble Bobble (Japan)"
+    "name": "Bubble Bobble (Japan)",
+    "ref": "569881BEA21CF5FD542FF3DFC40E1626C6748CEB"
   },
   "569881BEA21CF5FD542FF3DFC40E1626C6748CEB": {
     "name": "Bubble Bobble (USA, Europe)",
@@ -752,7 +789,8 @@
     "logo": "QmPKtbWSCJqcwR75GssanvNxew8DGJ1WzGEDBNwMpF5w4o"
   },
   "F93E37B60025C67D7FBFC035ED727C9A39D8C9F1": {
-    "name": "Bubble Ghost (Japan)"
+    "name": "Bubble Ghost (Japan)",
+    "ref": "B08B8A9BF742F7CA4B355A866B4167741252DCF6"
   },
   "B08B8A9BF742F7CA4B355A866B4167741252DCF6": {
     "name": "Bubble Ghost (USA, Europe)",
@@ -760,7 +798,8 @@
     "logo": "QmNtft4j99uEbQa29RNxPQaiKDPGMh27hLffLVCworzpG9"
   },
   "F59306DA42C5D8BBF41C870828C83BBCF1E2F0AC": {
-    "name": "Bubsy II (Europe)"
+    "name": "Bubsy II (Europe)",
+    "ref": "1AC9BF5043CAF428994BCA3E80158CA697E94C58"
   },
   "1AC9BF5043CAF428994BCA3E80158CA697E94C58": {
     "name": "Bubsy II (USA)",
@@ -818,13 +857,16 @@
     "name": "Cadillac II (Japan)"
   },
   "6D77CE1B212406BA9737DD99FFD9443A3887EF79": {
-    "name": "Caesars Palace (Europe) (En,Fr,De,Es,It)"
+    "name": "Caesars Palace (Europe) (En,Fr,De,Es,It)",
+    "ref": "126E9EF9E975BBBC6303D5D62A379D4DBD404CF0"
   },
   "2CF0E21F7BE55E3246D615550C8459A3659094EF": {
-    "name": "Caesars Palace (Japan)"
+    "name": "Caesars Palace (Japan)",
+    "ref": "126E9EF9E975BBBC6303D5D62A379D4DBD404CF0"
   },
   "C1ED80F33FC3603EDABA1BDF5C317F1A205DA3DC": {
-    "name": "Caesars Palace (USA)"
+    "name": "Caesars Palace (USA)",
+    "ref": "126E9EF9E975BBBC6303D5D62A379D4DBD404CF0"
   },
   "126E9EF9E975BBBC6303D5D62A379D4DBD404CF0": {
     "name": "Caesars Palace (USA) (Rev 1)",
@@ -857,7 +899,8 @@
     "logo": "QmS3misjYxifzLjAecLV9omv6ce5gnPvexq7674JrBYrM9"
   },
   "1A3D272D8AFE81731862A240A77C0D3B80B1D62F": {
-    "name": "Casper (Europe)"
+    "name": "Casper (Europe)",
+    "ref": "18B90172789C87819FE4D606AA7874109BCD8024"
   },
   "18B90172789C87819FE4D606AA7874109BCD8024": {
     "name": "Casper (USA)",
@@ -865,7 +908,8 @@
     "logo": "QmUVME2E6t93Fkb6eMbnse7FSGWn9UNvnPgDfw3GcYjpT9"
   },
   "6720D86D420831A0A4865D4A59C4BA6FE98FA34D": {
-    "name": "Castelian (Europe)"
+    "name": "Castelian (Europe)",
+    "ref": "A03982E2FFA9AA368FE11BC09F024207BADA45EB"
   },
   "A03982E2FFA9AA368FE11BC09F024207BADA45EB": {
     "name": "Castelian (USA)",
@@ -873,7 +917,8 @@
     "logo": "QmaWunJCv58U1SuYdUiFjdZ8Zcc87swFHTqWyDz2rv5PXL"
   },
   "0C69CEE488D7589C6BF0A1B7E2C3D20F2B4D3042": {
-    "name": "Castelian (USA) (Beta)"
+    "name": "Castelian (USA) (Beta)",
+    "ref": "A03982E2FFA9AA368FE11BC09F024207BADA45EB"
   },
   "45B38A334481F620BB7165FEE81391036A54A748": {
     "name": "Castle Quest (Europe)",
@@ -881,7 +926,8 @@
     "logo": "QmdeBrcyYvuiA2DM2DcMaR14qP6ccuTGRGqw8XPzNj1tWX"
   },
   "D54888039344597FA038F2C5EEDC0726DD35CC46": {
-    "name": "Castlevania - The Adventure (Europe)"
+    "name": "Castlevania - The Adventure (Europe)",
+    "ref": "FD9116EFCD8EB9698F483CC5745F83B3674D7D13"
   },
   "FD9116EFCD8EB9698F483CC5745F83B3674D7D13": {
     "name": "Castlevania - The Adventure (USA)",
@@ -889,10 +935,12 @@
     "logo": "QmSgSYiHAw1rDAYDyYvYn8L5Qif42idQexETZ9UvVPDyTv"
   },
   "0D1A75CF0E6E7F6B106CFED7AA0B716DAF5F9DC8": {
-    "name": "Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)"
+    "name": "Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)",
+    "ref": "FD9116EFCD8EB9698F483CC5745F83B3674D7D13"
   },
   "823E3C0F2DE29F1F2548A9C4F74A956FB39DD3B8": {
-    "name": "Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection)"
+    "name": "Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection)",
+    "ref": "696B9AD1E9CFB7112977C9A7C05CF64FE8423D8A"
   },
   "696B9AD1E9CFB7112977C9A7C05CF64FE8423D8A": {
     "name": "Castlevania II - Belmont's Revenge (USA, Europe)",
@@ -910,13 +958,15 @@
     "logo": "QmetBGJszmS1Ke8DxwPLYhc2TYLM6FBvrREipMrAhSWJhn"
   },
   "928B9B3CB2ED5E6D6FC754679B3C994F7ED803C3": {
-    "name": "Catrap (USA) (Beta)"
+    "name": "Catrap (USA) (Beta)",
+    "ref": "171E4D54F22F8DC137D12828FCC2DA9874C56970"
   },
   "6ACDF05AAC8E3792A98A199CB6E90180E95230CD": {
     "name": "Cave Noire (Japan)"
   },
   "A3A5755020C9CBE13FC1A815288830D2E143367F": {
-    "name": "Centipede (USA)"
+    "name": "Centipede (USA)",
+    "ref": "0106C3DC8016398E9D24E2472C867487C3BD376F"
   },
   "0106C3DC8016398E9D24E2472C867487C3BD376F": {
     "name": "Centipede (USA, Europe)",
@@ -943,13 +993,16 @@
     "logo": "QmdvwCMqt33WxjTAacZcHvjMYPaVULiPvqQyeetmNw761n"
   },
   "26F1D9CBB392FF07EAFB8CD59526470849DE9F38": {
-    "name": "Chessmaster, The (Europe)"
+    "name": "Chessmaster, The (Europe)",
+    "ref": "F0351FAAB8B912967552684D4160F5CF94540D41"
   },
   "092D878BB8431AC1334DFA9CB91C4B12F1A4F365": {
-    "name": "Chessmaster, The (Japan)"
+    "name": "Chessmaster, The (Japan)",
+    "ref": "F0351FAAB8B912967552684D4160F5CF94540D41"
   },
   "0E167C8BA379103775AE8E18EC9E0B819BDD5897": {
-    "name": "Chessmaster, The (USA, Europe)"
+    "name": "Chessmaster, The (USA, Europe)",
+    "ref": "F0351FAAB8B912967552684D4160F5CF94540D41"
   },
   "F0351FAAB8B912967552684D4160F5CF94540D41": {
     "name": "Chessmaster, The (USA) (Rev 1)",
@@ -984,7 +1037,8 @@
     "name": "Choplifter II (Japan)"
   },
   "08F5CDBCB650BE51FE3998A28174E40997618349": {
-    "name": "Choplifter II - Rescue & Survive (Europe)"
+    "name": "Choplifter II - Rescue & Survive (Europe)",
+    "ref": "76EF770B9C75485CC29869FCA6118887AEE208DA"
   },
   "76EF770B9C75485CC29869FCA6118887AEE208DA": {
     "name": "Choplifter II - Rescue & Survive (USA)",
@@ -1052,7 +1106,8 @@
     "name": "Cool Hand (Europe) (Fr,De)"
   },
   "51EFA64A6047879B4B9E6E521E65C9D7F191556F": {
-    "name": "Cool Spot (Europe)"
+    "name": "Cool Spot (Europe)",
+    "ref": "B23F3259FDEC43CE004E536D30255E1C2A642FFC"
   },
   "B23F3259FDEC43CE004E536D30255E1C2A642FFC": {
     "name": "Cool Spot (USA)",
@@ -1065,7 +1120,8 @@
     "logo": "QmdWGHuaZ6vAvfaSsbaLMgxv3vk7pqfu5dJfBmwQUm5Y8C"
   },
   "0D6A0A95F4FC9F2C61E2FCCEE0321236D3A6F5E5": {
-    "name": "Cosmo Tank (Japan)"
+    "name": "Cosmo Tank (Japan)",
+    "ref": "48A8F5C50A237F11C8E18EFD03A5282F493312BC"
   },
   "48A8F5C50A237F11C8E18EFD03A5282F493312BC": {
     "name": "Cosmo Tank (USA)",
@@ -1073,7 +1129,8 @@
     "logo": "QmehyZpuBN3dMAdUSkSf2AvUBg5tRaNu9Ed9NfmfYHhgjR"
   },
   "8963C2E8E42C452528078F10DF699FD266F01749": {
-    "name": "Cosmo Tank (Japan) (Beta)"
+    "name": "Cosmo Tank (Japan) (Beta)",
+    "ref": "48A8F5C50A237F11C8E18EFD03A5282F493312BC"
   },
   "1DBD23B639B8A4B20ED28C3637608E03EBF59DAD": {
     "name": "Crayon Shin-chan - Ora no Gokigen Collection (Japan) (SGB Enhanced)"
@@ -1117,7 +1174,8 @@
     "logo": "Qmc1x8mmr1RQpHUX8z1gzN5fARknHo2dz6Jps9jz1papQR"
   },
   "75B384222D07947BAED2213C288385C4B91E1911": {
-    "name": "Daffy Duck (USA, Europe) (SGB Enhanced)"
+    "name": "Daffy Duck (USA, Europe) (SGB Enhanced)",
+    "ref": "344C3409410FE5F88796AAFD125C522319B78012"
   },
   "344C3409410FE5F88796AAFD125C522319B78012": {
     "name": "Daffy Duck (Europe)",
@@ -1145,7 +1203,8 @@
     "logo": "QmW2c4Bs7RYxyaR9rRJXd7aSyqhsGB4FnHjZ1gkRnvJT81"
   },
   "4E51919597AA72DD32182F9AFEE34F148036655F": {
-    "name": "Darkwing Duck (Europe)"
+    "name": "Darkwing Duck (Europe)",
+    "ref": "CC1F12F3EC3852657A14D11C13D1EF91FBDDA5BB"
   },
   "CC1F12F3EC3852657A14D11C13D1EF91FBDDA5BB": {
     "name": "Darkwing Duck (USA)",
@@ -1153,13 +1212,16 @@
     "logo": "QmTdEdJuk1gWEKqqJPT3y68XmNBjj88z7V2mdVCGkw5DDh"
   },
   "5960DC01E06F19E166646504BC3097248F4A22CB": {
-    "name": "Darkwing Duck (Germany)"
+    "name": "Darkwing Duck (Germany)",
+    "ref": "CC1F12F3EC3852657A14D11C13D1EF91FBDDA5BB"
   },
   "3D4B301AAB995BDF19B15ED5040DF7426A2E8057": {
-    "name": "Darkwing Duck (Spain)"
+    "name": "Darkwing Duck (Spain)",
+    "ref": "CC1F12F3EC3852657A14D11C13D1EF91FBDDA5BB"
   },
   "4800E5D5A4230918EC751CEEAE7AC9342E0B8D83": {
-    "name": "David Crane's The Rescue of Princess Blobette (Europe)"
+    "name": "David Crane's The Rescue of Princess Blobette (Europe)",
+    "ref": "0A45D1B98646FD7832B5119B04BC8D6D6D0F657A"
   },
   "0A45D1B98646FD7832B5119B04BC8D6D6D0F657A": {
     "name": "David Crane's The Rescue of Princess Blobette (USA)",
@@ -1172,7 +1234,8 @@
     "logo": "QmPxbX4hgi3A9Z3buQos5YDwmL9WuTpd3ZPJp58BZAMC68"
   },
   "395C0C80AD5C9A24C00D6D8DFE5894E73E672639": {
-    "name": "Dead Heat Scramble (Japan)"
+    "name": "Dead Heat Scramble (Japan)",
+    "ref": "71E560DD2B5F5C4F4DCCA0837C74BB1B843A15AA"
   },
   "71E560DD2B5F5C4F4DCCA0837C74BB1B843A15AA": {
     "name": "Dead Heat Scramble (USA)",
@@ -1194,7 +1257,8 @@
     "logo": "QmPmPGnbJYXtu5Kf1UYRKnpJMqsPZqXyYAVeZdoKkPS7dS"
   },
   "B49BC8F5D292F0E2B71957C8C4AF37B20CFEAD80": {
-    "name": "Desert Strike - Return to the Gulf (Europe) (SGB Enhanced)"
+    "name": "Desert Strike - Return to the Gulf (Europe) (SGB Enhanced)",
+    "ref": "325EE739ECF5AA403741E8DAD36ABCFA441DD26B"
   },
   "325EE739ECF5AA403741E8DAD36ABCFA441DD26B": {
     "name": "Desert Strike - Return to the Gulf (USA) (SGB Enhanced)",
@@ -1215,7 +1279,8 @@
     "logo": "Qmdqgr2E6uEwfQGQZq6ZfbrkTJTCmxSgzqQNC7rqukzjae"
   },
   "9E008EE24C627309B22BF42EC5A3E08AF0AF8EFE": {
-    "name": "Dig Dug (Europe)"
+    "name": "Dig Dug (Europe)",
+    "ref": "951753904389332412D4B0A80B48D7AC61A494FC"
   },
   "951753904389332412D4B0A80B48D7AC61A494FC": {
     "name": "Dig Dug (USA)",
@@ -1238,7 +1303,8 @@
     "name": "Dodge Boy (Japan)"
   },
   "6ED661BD1D6D8CDD48E1C10F8CA4E8DCBA49128E": {
-    "name": "Donkey Kong (Japan, USA) (SGB Enhanced)"
+    "name": "Donkey Kong (Japan, USA) (SGB Enhanced)",
+    "ref": "397AD2FF25627B83E02C71B54C72BB4DEB39E0C0"
   },
   "397AD2FF25627B83E02C71B54C72BB4DEB39E0C0": {
     "name": "Donkey Kong (World) (Rev 1) (SGB Enhanced)",
@@ -1246,7 +1312,8 @@
     "logo": "QmXQVoffQPXFNJWMT84Fk9VZa5sP6a4aDj9ZwGn6Tr4iwK"
   },
   "18FD3FCF90E60122DA92079669942B0363049D8F": {
-    "name": "Donkey Kong Land (Japan) (SGB Enhanced)"
+    "name": "Donkey Kong Land (Japan) (SGB Enhanced)",
+    "ref": "4E6D8F085CA197479D59912C1D58E4F3B40C28AC"
   },
   "4E6D8F085CA197479D59912C1D58E4F3B40C28AC": {
     "name": "Donkey Kong Land (USA, Europe) (SGB Enhanced)",
@@ -1259,7 +1326,8 @@
     "logo": "QmZb7iYo28R4GkyKofng8Vp5EMaRTfobbNy1nS4S2LD8DR"
   },
   "A33F10194B5B228863C04ABD0E65C7CC5D73FC3E": {
-    "name": "Donkey Kong Land III (USA, Europe) (SGB Enhanced)"
+    "name": "Donkey Kong Land III (USA, Europe) (SGB Enhanced)",
+    "ref": "A6CE883727212E1AFB45B48431A46CFBC6F7F6EF"
   },
   "A6CE883727212E1AFB45B48431A46CFBC6F7F6EF": {
     "name": "Donkey Kong Land III (USA, Europe) (Rev 1) (SGB Enhanced)",
@@ -1267,7 +1335,8 @@
     "logo": "QmfXyPwKCeSvWwaKtcq7tAMK78P2M17zNqyXQXYHyCyW43"
   },
   "9D17BC07BD3C48F8BB8A3315FAF817D055417F53": {
-    "name": "Donkey Kong Land III (USA, Europe) (Beta)"
+    "name": "Donkey Kong Land III (USA, Europe) (Beta)",
+    "ref": "A6CE883727212E1AFB45B48431A46CFBC6F7F6EF"
   },
   "5E89E34A2CEC89E0ABA4E12D18D96671151730EC": {
     "name": "Doraemon - Taiketsu HimitsuDougu!! (Japan)"
@@ -1300,7 +1369,8 @@
     "name": "Doraemon no Study Boy 6 - Gakushuu Kanji Master 1006 (Japan)"
   },
   "7DCCD7D3CA7223815E7B00A3B664F5E7D7D433B2": {
-    "name": "Double Dragon (Japan)"
+    "name": "Double Dragon (Japan)",
+    "ref": "6565A3D89827717D8E5D2E041C743266BA14B412"
   },
   "6565A3D89827717D8E5D2E041C743266BA14B412": {
     "name": "Double Dragon (USA, Europe)",
@@ -1338,10 +1408,12 @@
     "name": "Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)"
   },
   "BA5AAAC92C4A2CA2D6A752C521E4D95108444A4E": {
-    "name": "Dr. Franken (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+    "name": "Dr. Franken (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+    "ref": "2B136EF8E3DD082CCB4716035545FB2E03438C66"
   },
   "6350EC30E51F388E0E290F387989CB1C7A24A91C": {
-    "name": "Dr. Franken (Japan)"
+    "name": "Dr. Franken (Japan)",
+    "ref": "2B136EF8E3DD082CCB4716035545FB2E03438C66"
   },
   "2B136EF8E3DD082CCB4716035545FB2E03438C66": {
     "name": "Dr. Franken (USA)",
@@ -1349,7 +1421,8 @@
     "logo": "Qma54TkJ7EX8VseT5uVnDCdb5pFxNJy6mZCDFKiMV6Hx8s"
   },
   "440EB30E54BF257246923149D44BAB3DFAFED2AA": {
-    "name": "Dr. Franken (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta)"
+    "name": "Dr. Franken (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta)",
+    "ref": "2B136EF8E3DD082CCB4716035545FB2E03438C66"
   },
   "8D578CE74907131114279854A0DC376F4426120C": {
     "name": "Dr. Franken II (USA, Europe) (En,Fr,De,Es,It,Nl,Sv)",
@@ -1357,7 +1430,8 @@
     "logo": "QmVTmdcVkFWH5q7phGhwknXcNeVpkywXQ3Cxwyo59Q7vVx"
   },
   "F1006D6CF77469092F3B9F266D0A65DA9C91AC42": {
-    "name": "Dr. Mario (World)"
+    "name": "Dr. Mario (World)",
+    "ref": "D31D67D0682515C7C85DEAA1752B02231150E5BF"
   },
   "D31D67D0682515C7C85DEAA1752B02231150E5BF": {
     "name": "Dr. Mario (World) (Rev 1)",
@@ -1365,7 +1439,8 @@
     "logo": "QmXNKmPCcoFVUxKBS1pDiN5HRDsmsgtxVpjSFXVr2XmvKA"
   },
   "4B2343F40E7CA3C583108ED70A870C7BD906B108": {
-    "name": "Dr. Mario (World) (Beta)"
+    "name": "Dr. Mario (World) (Beta)",
+    "ref": "D31D67D0682515C7C85DEAA1752B02231150E5BF"
   },
   "5A79F9D5D6B710216921A89450B727A9741E0D83": {
     "name": "Dracula Densetsu (Japan) (Castlevania Anniversary Collection)"
@@ -1398,7 +1473,8 @@
     "name": "Dragon's Lair (Japan)"
   },
   "BABC3C70D5B73DF268CD5C9E5E841FE277B57003": {
-    "name": "Dragon's Lair - The Legend (Europe)"
+    "name": "Dragon's Lair - The Legend (Europe)",
+    "ref": "4E947908FDE7EF9892C59021C6EEA0607771F6D2"
   },
   "4E947908FDE7EF9892C59021C6EEA0607771F6D2": {
     "name": "Dragon's Lair - The Legend (USA)",
@@ -1412,7 +1488,8 @@
     "name": "Dragonborne (World) (Demo) (Aftermarket) (Unl)"
   },
   "6B01E78DF8A7DC3FB171D488CAE38501FCE3B660": {
-    "name": "DragonHeart (France)"
+    "name": "DragonHeart (France)",
+    "ref": "1800CEEBA6ED491E5F85997C945AB52B09F6E4BA"
   },
   "1800CEEBA6ED491E5F85997C945AB52B09F6E4BA": {
     "name": "DragonHeart (USA, Europe)",
@@ -1428,10 +1505,12 @@
     "name": "Druaga no Tou (Japan)"
   },
   "04AA9C515C2EDE8FDF37B29E69C44481F8A8630C": {
-    "name": "DuckTales (Europe)"
+    "name": "DuckTales (Europe)",
+    "ref": "93460364E33E8FB09A0659738044D0297CD4DF69"
   },
   "CE734CC3548F1D5A0CB26017B29B714F23D80C0F": {
-    "name": "DuckTales (Japan)"
+    "name": "DuckTales (Japan)",
+    "ref": "93460364E33E8FB09A0659738044D0297CD4DF69"
   },
   "93460364E33E8FB09A0659738044D0297CD4DF69": {
     "name": "DuckTales (USA)",
@@ -1439,10 +1518,12 @@
     "logo": "QmceDxGjEkfF485GrDE1rebr9Et2rbm1eJmacfdU7tz2To"
   },
   "68113DCD6482A8A54E48C69223FCF2E2DEDEA844": {
-    "name": "DuckTales 2 (Europe)"
+    "name": "DuckTales 2 (Europe)",
+    "ref": "C9D5B7A71BADCC7B198897B4888482F663F03504"
   },
   "D7C33C30E9921D119C4F4C9A77BE9406207368EB": {
-    "name": "DuckTales 2 (Japan)"
+    "name": "DuckTales 2 (Japan)",
+    "ref": "C9D5B7A71BADCC7B198897B4888482F663F03504"
   },
   "C9D5B7A71BADCC7B198897B4888482F663F03504": {
     "name": "DuckTales 2 (USA)",
@@ -1462,7 +1543,8 @@
     "name": "Dynablaster (Europe)"
   },
   "4249ABE39285B02CCB0E739B5A2CF96ACE1281FF": {
-    "name": "Earthworm Jim (Europe)"
+    "name": "Earthworm Jim (Europe)",
+    "ref": "F5D3085DE17A5181C07739E49BE7637FAA5FF932"
   },
   "F5D3085DE17A5181C07739E49BE7637FAA5FF932": {
     "name": "Earthworm Jim (USA)",
@@ -1476,7 +1558,8 @@
     "name": "Eddie's Puzzle Time (USA) (Proto)"
   },
   "16DBF00DF012C1216D9D4ABEC9ABCD5512D053A3": {
-    "name": "Elevator Action (Japan)"
+    "name": "Elevator Action (Japan)",
+    "ref": "C0C9DE672A31F314E98392160FC343CF46EE98B9"
   },
   "C0C9DE672A31F314E98392160FC343CF46EE98B9": {
     "name": "Elevator Action (USA, Europe)",
@@ -1497,7 +1580,8 @@
     "logo": "QmYEsjPw5FuTL5SjJ29CwVH9BLDdExp8E7yfTUSfJnbSBs"
   },
   "96490BE847AEEDED0B635F45B05683A6DEFDF2E8": {
-    "name": "F-1 Race (World)"
+    "name": "F-1 Race (World)",
+    "ref": "0256082F482AF57E0472F5713A432A22BFA4D2FC"
   },
   "0256082F482AF57E0472F5713A432A22BFA4D2FC": {
     "name": "F-1 Race (World) (Rev 1)",
@@ -1547,7 +1631,8 @@
     "name": "Famista 3 (Japan)"
   },
   "25BF89B112C9B134B2E4D07354D1A762AB0D4E92": {
-    "name": "Fastest Lap (USA)"
+    "name": "Fastest Lap (USA)",
+    "ref": "F1ABE89A52E4F06E0479277D8681FEAA09FCFF2F"
   },
   "F1ABE89A52E4F06E0479277D8681FEAA09FCFF2F": {
     "name": "Fastest Lap (Japan) (En)",
@@ -1560,7 +1645,8 @@
     "logo": "QmRL5AE7vwtkAPcNpFsDQ2ENK4wLXoR7Fcw7kahwMAQKMJ"
   },
   "66FE01233643FB63E758D1F2E9932F63D545E288": {
-    "name": "Felix the Cat (USA, Europe) (Beta)"
+    "name": "Felix the Cat (USA, Europe) (Beta)",
+    "ref": "C4A0D02D5964335A18839C7C30AC05B6F40C33B3"
   },
   "F9883AF35E5F49736F9DC073CE00F3779E93CF3F": {
     "name": "Ferrari (Japan)"
@@ -1571,7 +1657,8 @@
     "logo": "QmWc2EkUYdKQGQTyeYPDsDZuqLcxUVXSvDuwadUR8HxvZW"
   },
   "C701CE4C62C414AADA502F8C17AA9261DD635685": {
-    "name": "Fidgetts, The (Japan)"
+    "name": "Fidgetts, The (Japan)",
+    "ref": "1100F259FE30857D1103BEB116B888497F6FBDAA"
   },
   "1100F259FE30857D1103BEB116B888497F6FBDAA": {
     "name": "Fidgetts, The (USA, Europe) (En,Fr,De,Es,It,Nl,Sv)",
@@ -1584,7 +1671,8 @@
     "logo": "QmbNarFngqej8rdWYNxVJW9ii48S5rXNa9HVEyiEEYVaMd"
   },
   "8DC3AB8F020E4377AF1E1F636396CC3881268A1F": {
-    "name": "FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced)"
+    "name": "FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced)",
+    "ref": "5EF615A919EA967E749FEBB046F9D097D91FAB0D"
   },
   "6F0AFFDEC339D7BEB9C565DC51ABE59EE0398B7B": {
     "name": "FIFA International Soccer (USA, Europe) (En,Fr,De,Es) (SGB Enhanced)",
@@ -1612,10 +1700,12 @@
     "logo": "QmfDcmRdifEGMBA518bsQTGcWgJSNtRWwoHMkL7kP5dSam"
   },
   "BD8369977CFBBAF3CC57F6268B564D6B11C27D45": {
-    "name": "Final Fantasy Adventure (World) (Collection of Mana)"
+    "name": "Final Fantasy Adventure (World) (Collection of Mana)",
+    "ref": "8B93C55EE2660C60CF86DD70058F96ACE98782C8"
   },
   "EEDF962D01B733B5EAF2413905E59E671E04A51C": {
-    "name": "Final Fantasy Legend II (World) (Collection of SaGa)"
+    "name": "Final Fantasy Legend II (World) (Collection of SaGa)",
+    "ref": "6AB6890E8F688BCD87E97886A1748A4D9D341909"
   },
   "6AB6890E8F688BCD87E97886A1748A4D9D341909": {
     "name": "Final Fantasy Legend II (USA)",
@@ -1628,10 +1718,12 @@
     "logo": "Qmf6WVGFBEsDvE35PLDcHWqfimtjepZwmLnZDSdRGDD1Fu"
   },
   "5190B0EF6264E26AF21DC0097FD5608CB619FB63": {
-    "name": "Final Fantasy Legend III (World) (Collection of SaGa)"
+    "name": "Final Fantasy Legend III (World) (Collection of SaGa)",
+    "ref": "3864AFA48A97DB826FFDA1D31A7FF9C6C315D5C9"
   },
   "42450483C9894863C7543F9695C0CBAFFDCB7E99": {
-    "name": "Final Fantasy Legend, The (World) (Collection of SaGa)"
+    "name": "Final Fantasy Legend, The (World) (Collection of SaGa)",
+    "ref": "901DFC83C72E172D35A376835807FC788444A9BB"
   },
   "901DFC83C72E172D35A376835807FC788444A9BB": {
     "name": "Final Fantasy Legend, The (USA)",
@@ -1678,7 +1770,8 @@
     "logo": "QmaVV6W1iwV9fMC9DMuxAhKAX3FutuHbPbnjZM7fE3Tbi2"
   },
   "BF6BA87BBC9CE4252C91F0E72121AB7C496A7DEC": {
-    "name": "Flintstones, The - King Rock Treasure Island (Japan) (Proto)"
+    "name": "Flintstones, The - King Rock Treasure Island (Japan) (Proto)",
+    "ref": "4EA1609DC273623C677AAA0ACCD0CD8D4A03EFCA"
   },
   "54CF45A997D390729DD23B9ED46A967B77CB7664": {
     "name": "Flipull (USA)",
@@ -1692,7 +1785,8 @@
     "name": "Football International (Europe)"
   },
   "835B3208458E8CA1956E27A693FAB036D4B25974": {
-    "name": "Foreman for Real (Japan)"
+    "name": "Foreman for Real (Japan)",
+    "ref": "7B088C7B3A0AD275D340CA27F64A99C1BD6C34E6"
   },
   "7B088C7B3A0AD275D340CA27F64A99C1BD6C34E6": {
     "name": "Foreman for Real (USA, Europe)",
@@ -1745,10 +1839,12 @@
     "name": "Galaga & Galaxian (Japan) (SGB Enhanced)"
   },
   "31186CFF6BB548ECD0C91C07F16DC98DE9C19EA2": {
-    "name": "Game & Watch Gallery (Europe) (SGB Enhanced)"
+    "name": "Game & Watch Gallery (Europe) (SGB Enhanced)",
+    "ref": "4E4DA0ED89C2BAAED64600F7EACA90AEEADC084E"
   },
   "F8C5AD6D6BF1A5A90DFFEBADA1DBD69A93720C83": {
-    "name": "Game & Watch Gallery (USA) (SGB Enhanced)"
+    "name": "Game & Watch Gallery (USA) (SGB Enhanced)",
+    "ref": "4E4DA0ED89C2BAAED64600F7EACA90AEEADC084E"
   },
   "4E4DA0ED89C2BAAED64600F7EACA90AEEADC084E": {
     "name": "Game & Watch Gallery (USA) (Rev 1) (SGB Enhanced)",
@@ -1837,7 +1933,8 @@
     "logo": "QmYfB9xbeFwqs3WNTkN6gp8acYGJcBNi1qq6jG9JEiFw53"
   },
   "21FBE39014FFED80D0DE2092517522D3CB9B03F9": {
-    "name": "Gargoyle's Quest (Europe) (Rev 1)"
+    "name": "Gargoyle's Quest (Europe) (Rev 1)",
+    "ref": "1DA5834CD7CEA711195CD8581614C5022DA768B7"
   },
   "1534F0A1806A69D408E702EDA5B2D67FEF05B1ED": {
     "name": "Gargoyle's Quest II - The Demon Darkness (USA) (Proto)"
@@ -1902,7 +1999,8 @@
     "logo": "QmWX6ApxCTE1iWYU1SoT92HCWw9c28iDEPowcSswoeYtW4"
   },
   "0CA645C40CA8DC6102B4F3CF56F0E9AE5D1FFC03": {
-    "name": "Ghostbusters II (Japan)"
+    "name": "Ghostbusters II (Japan)",
+    "ref": "1E2AA42B7E0F974F45FBCA35160CDA6D5964F0AD"
   },
   "1E2AA42B7E0F974F45FBCA35160CDA6D5964F0AD": {
     "name": "Ghostbusters II (USA, Europe)",
@@ -1925,7 +2023,8 @@
     "name": "Go! Go! Hitchhike (Japan) (SGB Enhanced)"
   },
   "6A60D5B550355E634BA54D8BD83B51CA55D6874B": {
-    "name": "Go! Go! Tank (Japan)"
+    "name": "Go! Go! Tank (Japan)",
+    "ref": "7F3408C951A161F93394812D34F6D2534658B7D3"
   },
   "7F3408C951A161F93394812D34F6D2534658B7D3": {
     "name": "Go! Go! Tank (USA)",
@@ -1933,10 +2032,12 @@
     "logo": "Qme7twEZPApCtJBQ7k13zeBk4vtpkePnfS5RnkAdXVBAw9"
   },
   "18BBEE226858AF45A81F7DA1186938F53511EF73": {
-    "name": "Go! Go! Tank (Japan) (Beta)"
+    "name": "Go! Go! Tank (Japan) (Beta)",
+    "ref": "7F3408C951A161F93394812D34F6D2534658B7D3"
   },
   "24FFFA3DB4153895546A346A38971B6946011679": {
-    "name": "Goal! (Europe)"
+    "name": "Goal! (Europe)",
+    "ref": "9BB15769B2674D41075B45256DBFFFC18483FD84"
   },
   "9BB15769B2674D41075B45256DBFFFC18483FD84": {
     "name": "Goal! (USA)",
@@ -2109,7 +2210,8 @@
     "logo": "Qmauv6an48xQ3mQjw4g6TiH2e8SkCyBDG4aVGfZGq1VzPS"
   },
   "6AC35A017FD1F61C19086765107E3940426A2A66": {
-    "name": "HAL Wrestling (USA) (Beta)"
+    "name": "HAL Wrestling (USA) (Beta)",
+    "ref": "861F1CD6EA513A003AB8364B37FA73C63B555E38"
   },
   "05490AB94AE5E01DD02B4A578BFCCC5647816408": {
     "name": "Hammerin' Harry (Europe)",
@@ -2194,7 +2296,8 @@
     "name": "Hokuto no Ken - Seizetsu Juuban Shoubu (Japan)"
   },
   "24C58E7B4BCCE704AB0976C18919066582E6DAF2": {
-    "name": "Home Alone (Japan)"
+    "name": "Home Alone (Japan)",
+    "ref": "A3142C83F391EDA6F445226F2D49BD8A384BE411"
   },
   "A3142C83F391EDA6F445226F2D49BD8A384BE411": {
     "name": "Home Alone (USA, Europe)",
@@ -2222,10 +2325,12 @@
     "name": "Honoo no Toukyuuji - Dodge Danpei (Japan)"
   },
   "0E0784C238B8A16666157E1AC99CEE17FEB52C63": {
-    "name": "Hook (Europe)"
+    "name": "Hook (Europe)",
+    "ref": "570D7CC03E80E199E856160912431C21A6CA0F6C"
   },
   "90EEE3E0434BDF63D00B0E9C5CF6F62626974CA4": {
-    "name": "Hook (Japan)"
+    "name": "Hook (Japan)",
+    "ref": "570D7CC03E80E199E856160912431C21A6CA0F6C"
   },
   "570D7CC03E80E199E856160912431C21A6CA0F6C": {
     "name": "Hook (USA)",
@@ -2242,7 +2347,8 @@
     "name": "Hoshi no Kirby 2 (Japan) (SGB Enhanced)"
   },
   "6DFC4F8269DCCEC1653854B98FA5C8627CD50CE0": {
-    "name": "Hudson Hawk (Japan)"
+    "name": "Hudson Hawk (Japan)",
+    "ref": "EFDBB5F86D6FF3B3F248B0360AB548AC1CEB1E0E"
   },
   "EFDBB5F86D6FF3B3F248B0360AB548AC1CEB1E0E": {
     "name": "Hudson Hawk (USA)",
@@ -2256,7 +2362,8 @@
     "name": "Hugo 2 (Germany)"
   },
   "DAA810CF09EAE39867339B7615C6FFCF4BFD701A": {
-    "name": "Humans, The (Europe) (En,Fr,De,Es,It)"
+    "name": "Humans, The (Europe) (En,Fr,De,Es,It)",
+    "ref": "39B7F8F6ABB213BB5727379B864106CA2947FE6F"
   },
   "39B7F8F6ABB213BB5727379B864106CA2947FE6F": {
     "name": "Humans, The (USA)",
@@ -2288,7 +2395,8 @@
     "logo": "QmTRzb4u17xTESziMqHTZvnWz86qq4R3AyRYsMqtZiA8p4"
   },
   "37D0F2CBAC0F95AF8B22DEA0C882612681EC5CC8": {
-    "name": "Hyper Lode Runner (Japan) (En) (Possible Proto)"
+    "name": "Hyper Lode Runner (Japan) (En) (Possible Proto)",
+    "ref": "261DA795C7B4155F1B8083ACC55DA78699C8A0DE"
   },
   "039DA1616E1A179AEDA7186D6CC1955149F49581": {
     "name": "Ikari no Yousai (Japan)"
@@ -2355,7 +2463,8 @@
     "name": "Ishida Yoshio Tsumego Paradise (Japan)"
   },
   "75768FA6C719B96E6642BCA5439A78CD3696761F": {
-    "name": "Ishido - The Way of Stones (Japan)"
+    "name": "Ishido - The Way of Stones (Japan)",
+    "ref": "41A00B379864CC0BE08DE75AE0DE5BB2C6FBB045"
   },
   "41A00B379864CC0BE08DE75AE0DE5BB2C6FBB045": {
     "name": "Ishido - The Way of Stones (USA)",
@@ -2378,7 +2487,8 @@
     "name": "J.League Winning Goal (Japan)"
   },
   "2BC2C3A95A49498347C49D5DD7182A1387AB531E": {
-    "name": "Jack Nicklaus Golf (France)"
+    "name": "Jack Nicklaus Golf (France)",
+    "ref": "BAC74527DBD276F395D5C89F14450BB5BC2BAAB1"
   },
   "BAC74527DBD276F395D5C89F14450BB5BC2BAAB1": {
     "name": "Jack Nicklaus Golf (USA, Europe)",
@@ -2439,10 +2549,12 @@
     "name": "Jet Pack (USA, Europe) (Beta)"
   },
   "38B5EC2C74316696B7731CD88E56BE4519084168": {
-    "name": "Jetsons, The - Robot Panic (USA) (Rev 1) (Possible Proto)"
+    "name": "Jetsons, The - Robot Panic (USA) (Rev 1) (Possible Proto)",
+    "ref": "1790C7462907F803E9641A330DF6F06AA5E4E985"
   },
   "6035EE9364413B9EAC7EB2290A806FFB57DC25CC": {
-    "name": "Jetsons, The - Robot Panic (Japan) (Proto)"
+    "name": "Jetsons, The - Robot Panic (Japan) (Proto)",
+    "ref": "1790C7462907F803E9641A330DF6F06AA5E4E985"
   },
   "1790C7462907F803E9641A330DF6F06AA5E4E985": {
     "name": "Jetsons, The - Robot Panic (USA, Europe)",
@@ -2478,7 +2590,8 @@
     "name": "John Madden Football (USA) (Proto) (SGB Enhanced)"
   },
   "E498C76C6367DAED183CC3B185557078832AA5D9": {
-    "name": "Jordan vs Bird - One on One (Japan)"
+    "name": "Jordan vs Bird - One on One (Japan)",
+    "ref": "C07FAC4E1F29C4216ED94A2CDC7659DC3121B76E"
   },
   "C07FAC4E1F29C4216ED94A2CDC7659DC3121B76E": {
     "name": "Jordan vs Bird - One on One (USA, Europe)",
@@ -2489,7 +2602,8 @@
     "name": "Joshua & the Battle of Jericho (USA) (Unl)"
   },
   "CB5D6F34F5289C16782EDEE0257649BFCB82C096": {
-    "name": "Judge Dredd (Japan)"
+    "name": "Judge Dredd (Japan)",
+    "ref": "36266C67C4FB095566401C25B11981785AC20A7D"
   },
   "36266C67C4FB095566401C25B11981785AC20A7D": {
     "name": "Judge Dredd (USA, Europe)",
@@ -2510,13 +2624,15 @@
     "logo": "QmPRTzKM3jSJm2mJ1dCSTp5j2kLWrNd7SsbuzXqp39QMqB"
   },
   "EA8B7A5D8D16B4448A3D758FFF1F91F27DB60292": {
-    "name": "Jungle Strike (USA)"
+    "name": "Jungle Strike (USA)",
+    "ref": "B4C53804F6D7ED230C092232148E69B53F9EB597"
   },
   "3835A7821C11197FCA87564B8D51A82C81FA7286": {
     "name": "Jungle Wars (Japan)"
   },
   "EFBC825BAE50C0498E56B53E9D02F00C400FF6D9": {
-    "name": "Jurassic Park (Europe) (En,Fr,De,Es,It)"
+    "name": "Jurassic Park (Europe) (En,Fr,De,Es,It)",
+    "ref": "66273F0B52F9FF2BE875B1428ADD267A5F01ADB0"
   },
   "66273F0B52F9FF2BE875B1428ADD267A5F01ADB0": {
     "name": "Jurassic Park (USA)",
@@ -2621,7 +2737,8 @@
     "name": "King James Bible (USA) (Unl)"
   },
   "27EEB37F7BE07381B6E4E01B5AE0D32F2EC209C0": {
-    "name": "King of Fighters '95, The (Europe) (SGB Enhanced)"
+    "name": "King of Fighters '95, The (Europe) (SGB Enhanced)",
+    "ref": "59C11DD527D47B24323F84FB8A1BB3D06A531F32"
   },
   "59C11DD527D47B24323F84FB8A1BB3D06A531F32": {
     "name": "King of Fighters '95, The (USA) (SGB Enhanced)",
@@ -2700,7 +2817,8 @@
     "name": "Kizuchi da Quiz da Gen-san da! (Japan)"
   },
   "0BC9AF06D21B01BBECBE616C57E9A22F51DA3EFF": {
-    "name": "Klax (Japan) (Hudson Soft)"
+    "name": "Klax (Japan) (Hudson Soft)",
+    "ref": "85F6B02815E7131FDD96F3802EB0A17D93277E75"
   },
   "85F6B02815E7131FDD96F3802EB0A17D93277E75": {
     "name": "Klax (USA) (Mindscape)",
@@ -2708,7 +2826,8 @@
     "logo": "QmUoZzhu9qNBPySeJpTAMZXxNF66tyusy8ESbHqdgtciYY"
   },
   "717C65392A5ED9F19FCE995BE08685DF5FA0978B": {
-    "name": "Knight Quest (Japan)"
+    "name": "Knight Quest (Japan)",
+    "ref": "99EB275DF25BAA6D1B53F5518E93C5F5913A2B6A"
   },
   "99EB275DF25BAA6D1B53F5518E93C5F5913A2B6A": {
     "name": "Knight Quest (USA)",
@@ -2816,22 +2935,28 @@
     "logo": "Qmeg5ptHSbfwXGudJeCDu9Ha9WrBCGtDY5tAXf4VNnLi9S"
   },
   "87274E8C0D2DAAAC2E0DDA94651C35D6A0617C0F": {
-    "name": "Legend of the River King GB (Australia) (SGB Enhanced)"
+    "name": "Legend of the River King GB (Australia) (SGB Enhanced)",
+    "ref": "D2E8A9ACEEC8639B528F712532A38FE0C2B0EDEF"
   },
   "4BBD38A4548E0C7922D0A6719AC5D16791E9535B": {
-    "name": "Legend of Zelda, The - Link's Awakening (Canada)"
+    "name": "Legend of Zelda, The - Link's Awakening (Canada)",
+    "ref": "5AB63DEF958728933571C3B4F6AF54DB14F3F8B2"
   },
   "AF93E1B3140F61FCD614F1EF9266D6892224767F": {
-    "name": "Legend of Zelda, The - Link's Awakening (France)"
+    "name": "Legend of Zelda, The - Link's Awakening (France)",
+    "ref": "5AB63DEF958728933571C3B4F6AF54DB14F3F8B2"
   },
   "CC468442508A8BA6C4661238AA1925A3132F1630": {
-    "name": "Legend of Zelda, The - Link's Awakening (Germany)"
+    "name": "Legend of Zelda, The - Link's Awakening (Germany)",
+    "ref": "5AB63DEF958728933571C3B4F6AF54DB14F3F8B2"
   },
   "602167F897B4F56FE8CEE837933DA3BED5882BBD": {
-    "name": "Legend of Zelda, The - Link's Awakening (USA, Europe)"
+    "name": "Legend of Zelda, The - Link's Awakening (USA, Europe)",
+    "ref": "5AB63DEF958728933571C3B4F6AF54DB14F3F8B2"
   },
   "5259E68522225A7A830E29EA17DFDDC33263CED5": {
-    "name": "Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 1)"
+    "name": "Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 1)",
+    "ref": "5AB63DEF958728933571C3B4F6AF54DB14F3F8B2"
   },
   "5AB63DEF958728933571C3B4F6AF54DB14F3F8B2": {
     "name": "Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2)",
@@ -2839,10 +2964,12 @@
     "logo": "QmaHipK5a1a5x17u7UF6MDDrzdKnyzvhr1u299zze8P5uS"
   },
   "8EDB7E1A1A7289D4C393FBA6D27776AB6AF441FF": {
-    "name": "Lemmings (Europe)"
+    "name": "Lemmings (Europe)",
+    "ref": "1754FDE0B1C40752A5716A291E842E38401BAF08"
   },
   "0A4FEF2A6A09BB66B1B34B5294FF737530CFF4E1": {
-    "name": "Lemmings (Japan)"
+    "name": "Lemmings (Japan)",
+    "ref": "1754FDE0B1C40752A5716A291E842E38401BAF08"
   },
   "1754FDE0B1C40752A5716A291E842E38401BAF08": {
     "name": "Lemmings (USA)",
@@ -2850,10 +2977,12 @@
     "logo": "QmXBtZDq9QKaMUpYZhuK3mLEsFWSwT53EMNyoNRFKyPXgH"
   },
   "C156D7EE57860A23754E87D42F952B17077994AD": {
-    "name": "Lemmings (Europe) (Rev 1)"
+    "name": "Lemmings (Europe) (Rev 1)",
+    "ref": "1754FDE0B1C40752A5716A291E842E38401BAF08"
   },
   "4F23D9DCC315F5DBD5EF2350F6623B6CD077B393": {
-    "name": "Lemmings (Europe) (Beta) (1993-05-19)"
+    "name": "Lemmings (Europe) (Beta) (1993-05-19)",
+    "ref": "1754FDE0B1C40752A5716A291E842E38401BAF08"
   },
   "76CCF9AC82FAEBC7F9C4A4C8B5CD47DDEA46C486": {
     "name": "Lemmings 2 - The Tribes (Europe)",
@@ -2876,10 +3005,12 @@
     "logo": "QmZ3MuGhMAcy7oYznkGk2akMhkfAwXfiCPrFw4g4Aq4hF5"
   },
   "043D29EDE2AF013C000FF650231C10B3F62D7ACA": {
-    "name": "Lion King, The (Europe)"
+    "name": "Lion King, The (Europe)",
+    "ref": "FBBDB1D2073BAFA45943CB5F4D4AAE5648120089"
   },
   "170C071DB25DA7A2B39DD1FB2675ACEB8EEB87A1": {
-    "name": "Lion King, The (World) (Disney Classic Games)"
+    "name": "Lion King, The (World) (Disney Classic Games)",
+    "ref": "FBBDB1D2073BAFA45943CB5F4D4AAE5648120089"
   },
   "D958C99EBE387B1BA489F4FFDA943C00345D2F4E": {
     "name": "Litti's Summer Sports (Germany)"
@@ -2891,7 +3022,8 @@
     "name": "Little Master 2 - Raikou no Kishi (Japan)"
   },
   "62A5BEEA93D48445A0F16F5582FC4FC61BA9FC1B": {
-    "name": "Little Mermaid, The (Europe)"
+    "name": "Little Mermaid, The (Europe)",
+    "ref": "9C7D7A82D0EEB4D7B4F4B7AE35E5EBD80C93D780"
   },
   "9C7D7A82D0EEB4D7B4F4B7AE35E5EBD80C93D780": {
     "name": "Little Mermaid, The (USA)",
@@ -3100,7 +3232,8 @@
     "name": "Medarot - Parts Collection 2 (Japan) (SGB Enhanced)"
   },
   "11255A24344E9FED53B8F1F6F894D21E161A0D5E": {
-    "name": "Mega Man - Dr. Wily's Revenge (Europe)"
+    "name": "Mega Man - Dr. Wily's Revenge (Europe)",
+    "ref": "277EDB3C844E812BA4B3EB9A96C9C30414541858"
   },
   "277EDB3C844E812BA4B3EB9A96C9C30414541858": {
     "name": "Mega Man - Dr. Wily's Revenge (USA)",
@@ -3108,7 +3241,8 @@
     "logo": "Qmegnwxwn4mstgHv7f3b3e81pXsa3Lik1Mrx8HzBTmnE9h"
   },
   "D19993A4630E7F9450FF6469115F4095F6F29667": {
-    "name": "Mega Man II (Europe)"
+    "name": "Mega Man II (Europe)",
+    "ref": "334F1A93346D55E1BE2967F0AF952E37AA52FCA7"
   },
   "334F1A93346D55E1BE2967F0AF952E37AA52FCA7": {
     "name": "Mega Man II (USA)",
@@ -3116,7 +3250,8 @@
     "logo": "Qma2HqHZ9bHvD7E6UybAjYXKuUwJj1befKbUQNqy2qRg1y"
   },
   "ECADBC9E273E4D99CCD87F98BBBD912AEC43C077": {
-    "name": "Mega Man III (Europe)"
+    "name": "Mega Man III (Europe)",
+    "ref": "57347305AB297DAA4332564623C4A098E6DBB1A3"
   },
   "57347305AB297DAA4332564623C4A098E6DBB1A3": {
     "name": "Mega Man III (USA)",
@@ -3124,10 +3259,12 @@
     "logo": "QmUHWjc5r1dDjCe4SDyMJGXDuc21onXUio6epUHR6V5f2C"
   },
   "7EEA8A96BF64537B041B96CE2CB5DD13CDEBB789": {
-    "name": "Mega Man III (USA) (Sample)"
+    "name": "Mega Man III (USA) (Sample)",
+    "ref": "57347305AB297DAA4332564623C4A098E6DBB1A3"
   },
   "A15A05593BF9BDDDB5826B148E25182E7B90F268": {
-    "name": "Mega Man IV (Europe)"
+    "name": "Mega Man IV (Europe)",
+    "ref": "6F0901DB2B5DCAACE0215C0ABDC21A914FA21B65"
   },
   "6F0901DB2B5DCAACE0215C0ABDC21A914FA21B65": {
     "name": "Mega Man IV (USA)",
@@ -3135,7 +3272,8 @@
     "logo": "QmNpDgGpY8gyVb3sVZbP49oA65bPzZHtB5kCqLx1JgCbPN"
   },
   "1A377BB0571BBE48A58B5006CCB02046EC64B076": {
-    "name": "Mega Man V (Europe) (SGB Enhanced)"
+    "name": "Mega Man V (Europe) (SGB Enhanced)",
+    "ref": "9A7DA0E4D3F49E4A0B94E85CD64E28A687D81260"
   },
   "9A7DA0E4D3F49E4A0B94E85CD64E28A687D81260": {
     "name": "Mega Man V (USA) (SGB Enhanced)",
@@ -3143,7 +3281,8 @@
     "logo": "QmS7DwkXQWATRzK7m5dEWXHQo6Hhz969QfRyawdwmBVpGo"
   },
   "C40E35CF3C7AF6CFF9E079543650F51CF9777018": {
-    "name": "Megalit (Japan)"
+    "name": "Megalit (Japan)",
+    "ref": "7F3F6B1CC543228BCDD336DFCD1865A3C8D7D177"
   },
   "7F3F6B1CC543228BCDD336DFCD1865A3C8D7D177": {
     "name": "Megalit (USA, Europe)",
@@ -3216,7 +3355,8 @@
     "name": "Mickey's Chase (Japan)"
   },
   "1F749B9A805B28EE2F130DA9E0E941A0427683D4": {
-    "name": "Mickey's Dangerous Chase (Europe)"
+    "name": "Mickey's Dangerous Chase (Europe)",
+    "ref": "37D0737BE3773AD62664645D34505A136F0BE99B"
   },
   "37D0737BE3773AD62664645D34505A136F0BE99B": {
     "name": "Mickey's Dangerous Chase (USA)",
@@ -3341,10 +3481,12 @@
     "name": "Money Idol Exchanger (Japan) (SGB Enhanced)"
   },
   "D7BB71F20396B6E65E6396CA75A6D1F992A05B08": {
-    "name": "Monopoly (Europe) (En,Fr,De)"
+    "name": "Monopoly (Europe) (En,Fr,De)",
+    "ref": "FF54EF03CB4DDA14890AE0394DD7BA5E00130D08"
   },
   "F6E72820E7D397528A1B225081DE96F297E12093": {
-    "name": "Monopoly (Japan)"
+    "name": "Monopoly (Japan)",
+    "ref": "FF54EF03CB4DDA14890AE0394DD7BA5E00130D08"
   },
   "FF54EF03CB4DDA14890AE0394DD7BA5E00130D08": {
     "name": "Monopoly (USA)",
@@ -3393,7 +3535,8 @@
     "name": "Mortal Kombat - Shinken Kourin Densetsu (Japan)"
   },
   "CF6CA53E1DF526C73BAB62743085257119865107": {
-    "name": "Mortal Kombat & Mortal Kombat II (Japan)"
+    "name": "Mortal Kombat & Mortal Kombat II (Japan)",
+    "ref": "E337489255B33367CE26194FC4038346D3388BD9"
   },
   "E337489255B33367CE26194FC4038346D3388BD9": {
     "name": "Mortal Kombat & Mortal Kombat II (USA, Europe)",
@@ -3401,7 +3544,8 @@
     "logo": "QmRG7uw66cCr7pcTc5uEaP1oYQqnXChiio2cGXRVNvxfdj"
   },
   "73D10C377EAB9BF73B1824AC1FE4A1855DEE7303": {
-    "name": "Mortal Kombat 3 (Europe)"
+    "name": "Mortal Kombat 3 (Europe)",
+    "ref": "B43626E2F20FA865783892AB8A012AA86E1DCEE2"
   },
   "B43626E2F20FA865783892AB8A012AA86E1DCEE2": {
     "name": "Mortal Kombat 3 (USA, Europe)",
@@ -3417,10 +3561,12 @@
     "name": "Mortal Kombat II - Kyuukyoku Shinken (Japan)"
   },
   "956A12A65A1C39948C312303719895BD6F141A61": {
-    "name": "Motocross Maniacs (Europe)"
+    "name": "Motocross Maniacs (Europe)",
+    "ref": "80575304CCEDBD26C0366D8F6F0F0FAAE09A4F13"
   },
   "DE3FBB541ACAC5E4FCD828E9CF4EEF7541E95645": {
-    "name": "Motocross Maniacs (Japan)"
+    "name": "Motocross Maniacs (Japan)",
+    "ref": "80575304CCEDBD26C0366D8F6F0F0FAAE09A4F13"
   },
   "80575304CCEDBD26C0366D8F6F0F0FAAE09A4F13": {
     "name": "Motocross Maniacs (USA)",
@@ -3428,7 +3574,8 @@
     "logo": "QmSD1uLmcrrtnjwpZVXEprxv8iirArZramvQYHzdiLyQHt"
   },
   "D21F2A4DDB69C408A370B6768F83914C11012C71": {
-    "name": "Motocross Maniacs (Europe) (Rev 1)"
+    "name": "Motocross Maniacs (Europe) (Rev 1)",
+    "ref": "80575304CCEDBD26C0366D8F6F0F0FAAE09A4F13"
   },
   "301658FD29B1A9277690A3C6E43DC68C8A277C1D": {
     "name": "Mouse Trap Hotel (USA)",
@@ -3441,7 +3588,8 @@
     "logo": "QmYxV5pQmV1pSYhZksBsroM4AtqFfoHMvcqLS4BxnrhFo9"
   },
   "83663A2D49CFE41E6D9A6AAD6157D7D8F024E969": {
-    "name": "Mr. Do! (Europe)"
+    "name": "Mr. Do! (Europe)",
+    "ref": "1262A3119E7D7CB724863AFA0AC467756F2FE611"
   },
   "1262A3119E7D7CB724863AFA0AC467756F2FE611": {
     "name": "Mr. Do! (USA)",
@@ -3457,7 +3605,8 @@
     "logo": "QmRHbXuhEsNFD64Y1o9gveaYUW3pogQVbdCGDJrB5EjRmS"
   },
   "C3388250F3FD3E18289EDBAF0063AC563E2DFEC0": {
-    "name": "Ms. Pac-Man (Europe)"
+    "name": "Ms. Pac-Man (Europe)",
+    "ref": "FCC05F0625D52ACE28D21FD8270E71246229CBAD"
   },
   "FCC05F0625D52ACE28D21FD8270E71246229CBAD": {
     "name": "Ms. Pac-Man (USA)",
@@ -3475,13 +3624,15 @@
     "logo": "QmSsmBqrMy2BwUTCSb99Mt1ckPEdp2m36UmaKpmiEJesfm"
   },
   "7832FCC373FF752E757550079519B39583665C82": {
-    "name": "Mulan (USA) (SGB Enhanced)"
+    "name": "Mulan (USA) (SGB Enhanced)",
+    "ref": "B039F13D7A4EAC290AB2D0BF4A4A740CFC517959"
   },
   "F0D921D13689D2AFE7838EEE127BF670439C8D8D": {
     "name": "MVP Baseball (Japan)"
   },
   "775E1CEAC81306F0198153920223FCEBEDFC6616": {
-    "name": "Mysterium (Japan)"
+    "name": "Mysterium (Japan)",
+    "ref": "382C346AF83E3CB9F95192378843D4E15EF93716"
   },
   "382C346AF83E3CB9F95192378843D4E15EF93716": {
     "name": "Mysterium (USA)",
@@ -3507,7 +3658,8 @@
     "name": "Mystic Quest (World) (De) (Collection of Mana)"
   },
   "6A47EC0C2A81741D93687B85F966C6BFCA039770": {
-    "name": "Mystical Ninja Starring Goemon (Europe) (SGB Enhanced)"
+    "name": "Mystical Ninja Starring Goemon (Europe) (SGB Enhanced)",
+    "ref": "6674BAAAE85A8EB6E950F1EA30527321C942A9BC"
   },
   "6674BAAAE85A8EB6E950F1EA30527321C942A9BC": {
     "name": "Mystical Ninja Starring Goemon (USA) (SGB Enhanced)",
@@ -3563,7 +3715,8 @@
     "logo": "QmSD866dRQYrsPwcQhVMSDKbaotvYpu6USfCsH8RUkF3Lu"
   },
   "A19B5FCFF89E5E58EFB19449ACE3D8F83A18EA78": {
-    "name": "NBA All-Star Challenge 2 (Japan)"
+    "name": "NBA All-Star Challenge 2 (Japan)",
+    "ref": "A07672471909CACE9E9765BCE6A05A8AB74D55D4"
   },
   "A07672471909CACE9E9765BCE6A05A8AB74D55D4": {
     "name": "NBA All-Star Challenge 2 (USA, Europe)",
@@ -3576,7 +3729,8 @@
     "logo": "QmUwNnM7QZkzdRSpnAms9ViUddzaP6W9K6e5WJcrXcmS8H"
   },
   "ED3DE869011CCF636A7BE0949CA08D029C7873E2": {
-    "name": "NBA Jam - Tournament Edition (Japan)"
+    "name": "NBA Jam - Tournament Edition (Japan)",
+    "ref": "981DE2C70A2DFB5AE829D39CC5F302815780E771"
   },
   "981DE2C70A2DFB5AE829D39CC5F302815780E771": {
     "name": "NBA Jam - Tournament Edition (USA, Europe)",
@@ -3607,10 +3761,12 @@
     "name": "Nekojara Monogatari (Japan)"
   },
   "E95E7A476A160BC0A685112D80239A5D669FD192": {
-    "name": "Nemesis (Europe)"
+    "name": "Nemesis (Europe)",
+    "ref": "0AD4A8F156BC6899E2337417CEDF9E279F8ABC08"
   },
   "DA54433D91970421A87C6595E0F77EEFED750AC1": {
-    "name": "Nemesis (Japan)"
+    "name": "Nemesis (Japan)",
+    "ref": "0AD4A8F156BC6899E2337417CEDF9E279F8ABC08"
   },
   "0AD4A8F156BC6899E2337417CEDF9E279F8ABC08": {
     "name": "Nemesis (USA)",
@@ -3657,7 +3813,8 @@
     "name": "Nettou World Heroes 2 Jet (Japan) (Rev 1) (SGB Enhanced)"
   },
   "5D0A22B99FFA528003997C59C54AC9D1C8920D6F": {
-    "name": "New Chessmaster, The (Japan) (En,Ja)"
+    "name": "New Chessmaster, The (Japan) (En,Ja)",
+    "ref": "23458FE9E811F2F9ADE1ACC527024BAB0B892BAC"
   },
   "23458FE9E811F2F9ADE1ACC527024BAB0B892BAC": {
     "name": "New Chessmaster, The (USA, Europe)",
@@ -3704,7 +3861,8 @@
     "name": "Nick Faldo Championship Golf (Europe) (Proto)"
   },
   "DB7919CD2E31084AE569821D5ACB18140B3CFEF4": {
-    "name": "Nigel Mansell's World Championship (Europe)"
+    "name": "Nigel Mansell's World Championship (Europe)",
+    "ref": "BEEBC29EF505916A525FB9A5AB0D6D11BCBBFB47"
   },
   "BEEBC29EF505916A525FB9A5AB0D6D11BCBBFB47": {
     "name": "Nigel Mansell's World Championship (USA)",
@@ -3747,7 +3905,8 @@
     "logo": "QmVVZovz1kzxA2dXPVmSAmybNMUDUJh2zXw7GmYCdaKYpA"
   },
   "D93B6718E9C8A2505F4DA73B99F57866111948AF": {
-    "name": "Ninja Taro (USA) (Beta)"
+    "name": "Ninja Taro (USA) (Beta)",
+    "ref": "BD472ED88042E032A57041EB0A889DA6AA3D1598"
   },
   "44B35AE3AA21D42D67B04A8581A0C83DC96521CE": {
     "name": "Ninku (Japan) (SGB Enhanced)"
@@ -3822,7 +3981,8 @@
     "logo": "QmVJjw4puK1jGM1DPnTSfhfWcVMUXxtwckcwnaieNpCVAC"
   },
   "BD528F1B20051502E2B4418845E0C6698E1C5B4B": {
-    "name": "Operation C (World) (Contra Anniversary Collection)"
+    "name": "Operation C (World) (Contra Anniversary Collection)",
+    "ref": "1DC3E1C62E62F77AC633408B544AC1D02B3761EB"
   },
   "1CDCF9810E98BA04378B2D6B555654722CB0ACF6": {
     "name": "Osawagase! Penguin Boy (Japan)"
@@ -3833,7 +3993,8 @@
     "logo": "QmWFasYNwq7oAxPLB7vsK6Nyvth6bqcwuwv3fHWj8bT12w"
   },
   "60A427C5DC6DAD226C80B120AA2E52725D719D16": {
-    "name": "Othello (Japan)"
+    "name": "Othello (Japan)",
+    "ref": "03848A74502F4571BEC20B42ADAB86DED357AF81"
   },
   "089013EB2DAC79C5525C442BFC9CDA74E8660597": {
     "name": "Othello World (Japan) (SGB Enhanced)"
@@ -3852,7 +4013,8 @@
     "logo": "QmeDiRFcG4sr96ty9Pfd8F2jK59HLy9c2NUw9LQP5ner42"
   },
   "FF90B89B413437B5E3360E28B6A62573619B4558": {
-    "name": "Out of Gas (USA) (Beta)"
+    "name": "Out of Gas (USA) (Beta)",
+    "ref": "770AC35C0780CF432235593BD5674E72EDD6CF7D"
   },
   "2D5A27B675A1F3C0BE43E6F662F0159A3B3BF92B": {
     "name": "Outburst (Japan)"
@@ -3869,10 +4031,12 @@
     "logo": "QmVcDFMenVx3htrZxiAABJhVcpY56HXDTYk2nUE8LakFBK"
   },
   "282F9BBABD5A57D5E7755E5D00F4D65094F816D5": {
-    "name": "Pac-In-Time (USA) (SGB Enhanced)"
+    "name": "Pac-In-Time (USA) (SGB Enhanced)",
+    "ref": "63419FD7AF5FE2BA2F26A6CDAAD5ED9C399FE44A"
   },
   "A804E8FC2614C55154B1A904639244BCA6553997": {
-    "name": "Pac-In-Time (Japan) (SGB Enhanced)"
+    "name": "Pac-In-Time (Japan) (SGB Enhanced)",
+    "ref": "63419FD7AF5FE2BA2F26A6CDAAD5ED9C399FE44A"
   },
   "63419FD7AF5FE2BA2F26A6CDAAD5ED9C399FE44A": {
     "name": "Pac-In-Time (Europe) (SGB Enhanced)",
@@ -3880,13 +4044,16 @@
     "logo": "QmRXTK4NiWc2d1rxPp2m6BxfpK3fT4asGiSLNcrKJRYxXy"
   },
   "F30108B8E422C4B9776C90C884710194508545EA": {
-    "name": "Pac-In-Time (Europe) (Rev 1) (Possible Proto) (SGB Enhanced)"
+    "name": "Pac-In-Time (Europe) (Rev 1) (Possible Proto) (SGB Enhanced)",
+    "ref": "63419FD7AF5FE2BA2F26A6CDAAD5ED9C399FE44A"
   },
   "8D9FDA32419CA7030BA15F67FF8F857C1A119916": {
-    "name": "Pac-Man (Europe)"
+    "name": "Pac-Man (Europe)",
+    "ref": "A05F50D3571C0572EB0433474A99C966A67A2D1B"
   },
   "AE088BBA7147780AFAF5CFF9E5B296F893DB823B": {
-    "name": "Pac-Man (Japan)"
+    "name": "Pac-Man (Japan)",
+    "ref": "A05F50D3571C0572EB0433474A99C966A67A2D1B"
   },
   "A05F50D3571C0572EB0433474A99C966A67A2D1B": {
     "name": "Pac-Man (USA)",
@@ -3948,7 +4115,8 @@
     "name": "Pachio-kun Game Gallery (Japan)"
   },
   "9B3063350581CEC9CF595A78FAA8D415B75BE399": {
-    "name": "Pagemaster, The (Europe) (SGB Enhanced)"
+    "name": "Pagemaster, The (Europe) (SGB Enhanced)",
+    "ref": "1D1DFDAB693FDB1A3A1388CAE34AF017F79C41AB"
   },
   "1D1DFDAB693FDB1A3A1388CAE34AF017F79C41AB": {
     "name": "Pagemaster, The (USA) (SGB Enhanced)",
@@ -3964,7 +4132,8 @@
     "logo": "QmP1Mew7SYMjNJ6tZ3kpRUYuUBoqiB33UCHcBH8aMF3zL1"
   },
   "789694FCE114BF076F77DDA4858C1AB53B35E6A4": {
-    "name": "Palamedes (Japan)"
+    "name": "Palamedes (Japan)",
+    "ref": "F93F5B939985935B9CCE1364119344B9DC236F57"
   },
   "527AEAAA52722605C98314CB7E522BB3A95A3B29": {
     "name": "Panel Action Bingo (USA)",
@@ -4085,7 +4254,8 @@
     "name": "Pingu - Sekai de 1ban Genki na Penguin (Japan)"
   },
   "7716809645E00BE2FDBBBFD05823A14856F01183": {
-    "name": "Pinocchio (Europe)"
+    "name": "Pinocchio (Europe)",
+    "ref": "E17C15325A1EAF5BB365AE4923C660E8C98A1D6B"
   },
   "E17C15325A1EAF5BB365AE4923C660E8C98A1D6B": {
     "name": "Pinocchio (USA)",
@@ -4093,7 +4263,8 @@
     "logo": "QmZneYi7VPcAhAbJKAiAzAs4ACjoECmb3vLjrAMffF5okC"
   },
   "64A58AAFECB0ACEED2DDE843A19A28B2BB000B2F": {
-    "name": "Pipe Dream (Japan)"
+    "name": "Pipe Dream (Japan)",
+    "ref": "12A2C76EC96CC94A4C7EEAD6536EDDD5F3F9998F"
   },
   "12A2C76EC96CC94A4C7EEAD6536EDDD5F3F9998F": {
     "name": "Pipe Dream (USA)",
@@ -4130,7 +4301,8 @@
     "logo": "QmSgjAXmUEaivi71MdBBsLfJo7nKcXbd6n1N52PqhrYDLo"
   },
   "83D1C2420AE69D2A7CA9880C9B84F0BA948E39EB": {
-    "name": "Pocket Bomberman (Japan) (SGB Enhanced)"
+    "name": "Pocket Bomberman (Japan) (SGB Enhanced)",
+    "ref": "34F377A6DE2961FE16BFB854E0CEBC7FDBA7CF4B"
   },
   "912205EA22E1DD735ED4F41D247039EEBF39DDDC": {
     "name": "Pocket Camera (Japan) (Rev 1) (SGB Enhanced)"
@@ -4285,10 +4457,12 @@
     "name": "Popeye (USA) (Proto)"
   },
   "D3078FCEADF469AB976422707A24B396530AAE05": {
-    "name": "Popeye 2 (Europe)"
+    "name": "Popeye 2 (Europe)",
+    "ref": "DD673EE4DD847A3A217F5F5B6E76FF4D418F2D41"
   },
   "D59986195BD74DDE865245FAE9C4081A8A24EFB0": {
-    "name": "Popeye 2 (Japan)"
+    "name": "Popeye 2 (Japan)",
+    "ref": "DD673EE4DD847A3A217F5F5B6E76FF4D418F2D41"
   },
   "DD673EE4DD847A3A217F5F5B6E76FF4D418F2D41": {
     "name": "Popeye 2 (USA)",
@@ -4296,7 +4470,8 @@
     "logo": "QmeNrB9ytdpN53wFk9cmR6HAS5mMXWXqx29XJbCaxfsnPx"
   },
   "7C4AC88E7A9F034DA08EE84F299D9093E40213FD": {
-    "name": "Popeye 2 (Japan) (Rev 1)"
+    "name": "Popeye 2 (Japan) (Rev 1)",
+    "ref": "DD673EE4DD847A3A217F5F5B6E76FF4D418F2D41"
   },
   "4E3976FE32F4DB8F2E56EAE539D7CAE04D1B64CB": {
     "name": "Populous (Europe)",
@@ -4304,16 +4479,19 @@
     "logo": "QmSKmShVZXxWwpV9xhQT76r9eFMSWE5qu6B9n9DVYLRZBG"
   },
   "76A08B4A0448641A263CE4DC65A2181192A0A621": {
-    "name": "Populous (Europe) (Sample)"
+    "name": "Populous (Europe) (Sample)",
+    "ref": "4E3976FE32F4DB8F2E56EAE539D7CAE04D1B64CB"
   },
   "FDE1789EB253309CAE80FAF4FE7241C6F9D72F29": {
     "name": "Populous Gaiden (Japan)"
   },
   "EF28356E7A3B82F64E62CB9A7B4C121AA626FF7C": {
-    "name": "Power Mission (Japan)"
+    "name": "Power Mission (Japan)",
+    "ref": "7EB044E49C370C8E85619CFE42A5B4FB41CBCF17"
   },
   "89B2306AD9C9E296884354EC3BE039B944D52D13": {
-    "name": "Power Mission (Japan) (Rev 1)"
+    "name": "Power Mission (Japan) (Rev 1)",
+    "ref": "7EB044E49C370C8E85619CFE42A5B4FB41CBCF17"
   },
   "7EB044E49C370C8E85619CFE42A5B4FB41CBCF17": {
     "name": "Power Mission (USA)",
@@ -4335,7 +4513,8 @@
     "logo": "QmcBhLpKZ6wHrusftzHAnw6Gz28RZPo7FXBj9yhsY13fyH"
   },
   "C0C8F28A9B66B6C08A0ED4D31A186C3382160C3D": {
-    "name": "Power Racer (USA)"
+    "name": "Power Racer (USA)",
+    "ref": "6E10F59BB4090C0D0E79B57A2E39D9577CE0282E"
   },
   "1139D6B799B8585BBB7868BD3BCA5BA9DEA4EEF5": {
     "name": "Prehistorik Man (USA, Europe)",
@@ -4351,13 +4530,16 @@
     "logo": "QmSfYk5jErwPdQb7WLHGTm32owNuH8QHpFvWj1mzipojvn"
   },
   "2AA5B610058E8676126C35AD123FCBD5B4CE99A4": {
-    "name": "Primal Rage (USA, Europe) (Beta)"
+    "name": "Primal Rage (USA, Europe) (Beta)",
+    "ref": "8561D62CD7DF59082D6B3C048CA3B85A30D769B7"
   },
   "FD4DA10C0A7AF510B026007FB66A22672634E2D4": {
-    "name": "Prince of Persia (Europe) (En,Fr,De,Es,It)"
+    "name": "Prince of Persia (Europe) (En,Fr,De,Es,It)",
+    "ref": "EF3EF15B791CEFF34D7D9BB5B3AF2E05842C8323"
   },
   "9D6DEAAFED4328E485D7A9368E0BB4859760EDF7": {
-    "name": "Prince of Persia (Japan)"
+    "name": "Prince of Persia (Japan)",
+    "ref": "EF3EF15B791CEFF34D7D9BB5B3AF2E05842C8323"
   },
   "EF3EF15B791CEFF34D7D9BB5B3AF2E05842C8323": {
     "name": "Prince of Persia (USA)",
@@ -4365,7 +4547,8 @@
     "logo": "QmcahqVwfwEF8y5cZdouoBJXaNB2jtbyNZy6xiVKcMVQVw"
   },
   "42B6DFBF283946998CAA6C383FA70BF1B646217E": {
-    "name": "Prince of Persia (Europe) (En,Fr,De,Es,It) (Beta)"
+    "name": "Prince of Persia (Europe) (En,Fr,De,Es,It) (Beta)",
+    "ref": "EF3EF15B791CEFF34D7D9BB5B3AF2E05842C8323"
   },
   "CC691EEEF80423BB55B442CC1D9E5ABD8BB80148": {
     "name": "Pro Action Replay (Europe) (Unl)"
@@ -4392,7 +4575,8 @@
     "name": "Probotector 2 (Europe) (Beta)"
   },
   "DDED3DB8437BA2342599E9DBDE3AA20CE83E15CA": {
-    "name": "Prophecy - The Viking Child (Europe) (En,Fr,De,Es,It)"
+    "name": "Prophecy - The Viking Child (Europe) (En,Fr,De,Es,It)",
+    "ref": "A6FCA2FD143C605DD166E7462729599AD0143457"
   },
   "A6FCA2FD143C605DD166E7462729599AD0143457": {
     "name": "Prophecy - The Viking Child (USA)",
@@ -4446,7 +4630,8 @@
     "logo": "QmfCHfnjfu1AQ18h2oCnrU3FmqBnDjFrmB2SBpiCPwDksE"
   },
   "6344D6F2EEFA56655C39C65C0595425799826498": {
-    "name": "Q Billion (Japan)"
+    "name": "Q Billion (Japan)",
+    "ref": "CFC54888F1BA368463009983F3CB3F6DA66F3AEC"
   },
   "CFC54888F1BA368463009983F3CB3F6DA66F3AEC": {
     "name": "Q Billion (USA)",
@@ -4454,7 +4639,8 @@
     "logo": "QmZvJKzZWTybHfHhVP4wb2UgGA7AtKb17tPtG5RqZRH9Zx"
   },
   "44665169FDB96C685646613A82719276E7F07763": {
-    "name": "Q-bert for Game Boy (Japan)"
+    "name": "Q-bert for Game Boy (Japan)",
+    "ref": "BD56A1E96C3D310B522E25D7B72CEEF26AF87F2E"
   },
   "BD56A1E96C3D310B522E25D7B72CEEF26AF87F2E": {
     "name": "Q-bert for Game Boy (USA, Europe)",
@@ -4467,7 +4653,8 @@
     "logo": "QmdBNfUZhazAY58k8HwPjGkjdBk9uq1fy6Dq2EEhq3oyMK"
   },
   "DE0F86FDF63461BA0B01DF3839416F834133F2C9": {
-    "name": "Quarth (Japan)"
+    "name": "Quarth (Japan)",
+    "ref": "89448B17700A6016A3F81DE09A15E097C060D103"
   },
   "89448B17700A6016A3F81DE09A15E097C060D103": {
     "name": "Quarth (USA, Europe)",
@@ -4481,7 +4668,8 @@
     "name": "Quiz Sekai wa Show by Shoubai!! (Japan)"
   },
   "440573CE4EA3BAB679E25315CD3F05C5530F6BD1": {
-    "name": "R-Type (Japan)"
+    "name": "R-Type (Japan)",
+    "ref": "28531A4EB668477DF98CAF0E87CEDC0E5FDFE53B"
   },
   "28531A4EB668477DF98CAF0E87CEDC0E5FDFE53B": {
     "name": "R-Type (USA, Europe)",
@@ -4494,13 +4682,16 @@
     "logo": "QmRu41NRP7fc2mauuRrkxLqPbeefah7cEjFLRgx5qqmc8U"
   },
   "28E13DB505CBB5C178002ACF02E5C0BFCFC6B08F": {
-    "name": "R-Type II (Japan)"
+    "name": "R-Type II (Japan)",
+    "ref": "F19436DFED41B9C2E94E070A76C5BDBCC7F993C3"
   },
   "DA727E9541C9885365651FC6EECE3F0075A59FE4": {
-    "name": "R-Type II (Europe) (Beta)"
+    "name": "R-Type II (Europe) (Beta)",
+    "ref": "F19436DFED41B9C2E94E070A76C5BDBCC7F993C3"
   },
   "750143B2057B604123972A978A51A14A7E8621BF": {
-    "name": "Race Days (USA)"
+    "name": "Race Days (USA)",
+    "ref": "EEE5FEB39AF996804177F4A269D2A41F692120F9"
   },
   "EEE5FEB39AF996804177F4A269D2A41F692120F9": {
     "name": "Race Days (Europe)",
@@ -4526,7 +4717,8 @@
     "logo": "QmaChbBCkQjvdv3bWfbzhbvnd29TLKaAPzsbDSE7BtsfA7"
   },
   "0E196236A21FC4558F3EAB92BA38A574A1FDE918": {
-    "name": "Rampart (Japan)"
+    "name": "Rampart (Japan)",
+    "ref": "51E5408E5E8243C762F4218FD4138C849EE7D625"
   },
   "51E5408E5E8243C762F4218FD4138C849EE7D625": {
     "name": "Rampart (USA, Europe)",
@@ -4581,7 +4773,8 @@
     "logo": "QmVdbFcZtSLAVJRjn3xc9wa5YKEuBXwiJ4T8SbqEJVqJoT"
   },
   "261A6272560E04BEF0819FD38E70607D7E23EEA5": {
-    "name": "Riddick Bowe Boxing (Europe)"
+    "name": "Riddick Bowe Boxing (Europe)",
+    "ref": "93A8A28244461B564E828CCA876821FB7A60FC89"
   },
   "93A8A28244461B564E828CCA876821FB7A60FC89": {
     "name": "Riddick Bowe Boxing (USA)",
@@ -4589,7 +4782,8 @@
     "logo": "QmZE5V7KJP3TdGSVz4BCoHnktgEEKw7NFyn4SwnWcCmsb3"
   },
   "C6689E9DF7312DDFF14F3E7B483FB02107C7B84B": {
-    "name": "Ring Rage (Japan)"
+    "name": "Ring Rage (Japan)",
+    "ref": "EB9509415D08792A29712814A7887824F11624C0"
   },
   "EB9509415D08792A29712814A7887824F11624C0": {
     "name": "Ring Rage (USA)",
@@ -4602,22 +4796,27 @@
     "logo": "QmRaKzTv7TwBzTY8grAgEFa2qsBErKALmCVgX1czrgEU6P"
   },
   "5CC1416EEDEABC32D8D0A7A42D170B70C6117B19": {
-    "name": "Road Rash (USA, Europe) (Beta)"
+    "name": "Road Rash (USA, Europe) (Beta)",
+    "ref": "488E699490598234E762ECF864C75EDCB1BC6066"
   },
   "685C31496DE738C27160D1F75408DA6B95DAAAE8": {
     "name": "Roadster (Japan)"
   },
   "7E7B7508F810D0CAB2D0873B7CB8DCB61F4B493A": {
-    "name": "Robin Hood - Prince of Thieves (Europe)"
+    "name": "Robin Hood - Prince of Thieves (Europe)",
+    "ref": "999BB7878472B657375E04B75ED86EFA90933A55"
   },
   "0C74624F8D2F6F7F1A969C4FA9B621734877FBBD": {
-    "name": "Robin Hood - Prince of Thieves (France)"
+    "name": "Robin Hood - Prince of Thieves (France)",
+    "ref": "999BB7878472B657375E04B75ED86EFA90933A55"
   },
   "98FBE26F7C05121DD3A2C8F3CDC4ADD3E2F81BC1": {
-    "name": "Robin Hood - Prince of Thieves (Germany)"
+    "name": "Robin Hood - Prince of Thieves (Germany)",
+    "ref": "999BB7878472B657375E04B75ED86EFA90933A55"
   },
   "C9AFA1AFAFB05289B5E26B2C3E3D9744067384E7": {
-    "name": "Robin Hood - Prince of Thieves (Spain)"
+    "name": "Robin Hood - Prince of Thieves (Spain)",
+    "ref": "999BB7878472B657375E04B75ED86EFA90933A55"
   },
   "999BB7878472B657375E04B75ED86EFA90933A55": {
     "name": "Robin Hood - Prince of Thieves (USA)",
@@ -4625,10 +4824,12 @@
     "logo": "QmZzrNVcgtJTJstmYnGrzGNdHDG6gVyEZ5cBxT6cXvro9E"
   },
   "11B22799A4FE7A605C54C7D5FB9B9F61ECEFFD08": {
-    "name": "RoboCop (Japan)"
+    "name": "RoboCop (Japan)",
+    "ref": "B858E5A7B5B87578FB14A60A2D9A330A6C8A10EB"
   },
   "39B92E019134DFD4480B957509C3EB64920CECB3": {
-    "name": "RoboCop (USA)"
+    "name": "RoboCop (USA)",
+    "ref": "B858E5A7B5B87578FB14A60A2D9A330A6C8A10EB"
   },
   "B858E5A7B5B87578FB14A60A2D9A330A6C8A10EB": {
     "name": "RoboCop (USA, Europe) (Rev 1)",
@@ -4636,7 +4837,8 @@
     "logo": "QmStNsqDSMR6TDwD4EdHdAYkGxFtrZ19cYRV8qpkFZMPvu"
   },
   "AA5FA94C51CE454D76FAA8BF5B3729557D064904": {
-    "name": "RoboCop 2 (Japan)"
+    "name": "RoboCop 2 (Japan)",
+    "ref": "B4B78CB9B606D64E8EBB80E047B3B4B4767C019C"
   },
   "B4B78CB9B606D64E8EBB80E047B3B4B4767C019C": {
     "name": "RoboCop 2 (USA, Europe)",
@@ -4644,7 +4846,8 @@
     "logo": "QmWNjT4FgDiwqQ9DSeDudovsCjhnusfaEudaLo8zh8boEi"
   },
   "A5ABFFF1026FC65C8DA95B40423C4D136F4BCFBA": {
-    "name": "RoboCop versus The Terminator (Europe)"
+    "name": "RoboCop versus The Terminator (Europe)",
+    "ref": "CA0484363D1D427474DE028F037C7D566E9C1FEA"
   },
   "CA0484363D1D427474DE028F037C7D566E9C1FEA": {
     "name": "RoboCop versus The Terminator (USA)",
@@ -4686,7 +4889,8 @@
     "logo": "Qme1buvXPp8HpmLpjDQbiomGDNwGZc9juvgWi515ksxRvh"
   },
   "678EA6EC765C467862BE861D2C61FBB3A582C1F2": {
-    "name": "Roger Clemens' MVP Baseball (USA) (Rev 1)"
+    "name": "Roger Clemens' MVP Baseball (USA) (Rev 1)",
+    "ref": "2B37B40AB05BEE2B23B30B898AF6197A35278C10"
   },
   "D5EEB34B24691EB6895D3349A05E2A75D910CF16": {
     "name": "Rolan's Curse (USA)",
@@ -4745,7 +4949,8 @@
     "logo": "QmSneQgVb6FCNthUfKwCZgvGc8hGi35SH1poqr4X7QCzWo"
   },
   "1DDB05F7237E792DDA9924AC0C525D8D1950CB44": {
-    "name": "Samurai Shodown (USA, Europe) (Beta) (SGB Enhanced)"
+    "name": "Samurai Shodown (USA, Europe) (Beta) (SGB Enhanced)",
+    "ref": "D696BA3562BED549A144FFE0B97FBF4C528F325F"
   },
   "E94128D58341CAAEE595ED75292908A9AC5A466D": {
     "name": "Sangokushi - Game Boy Ban (Japan)"
@@ -4806,7 +5011,8 @@
     "logo": "QmWJzzj96piNjEPAfaHiE1QfJsv9tJraxb4qEgxR6MBYbV"
   },
   "0DBE828E797458A99A37E93BBD34D2547D99523C": {
-    "name": "seaQuest DSV (USA, Europe) (Beta)"
+    "name": "seaQuest DSV (USA, Europe) (Beta)",
+    "ref": "E9572941B35F119746B995F7FE578C31EF778026"
   },
   "42EC788B74B03000164533C87CAB0292B0D37995": {
     "name": "Seaside Volley (Japan)"
@@ -4843,10 +5049,12 @@
     "name": "Shadow Warriors (Europe)"
   },
   "7756E8C955E3BD4FE9B007C9EA4C83F914A100AE": {
-    "name": "Shanghai (Japan) (HAL Laboratory)"
+    "name": "Shanghai (Japan) (HAL Laboratory)",
+    "ref": "D5CC81D0379982FE69E8FE30868FDCC621DD1BAE"
   },
   "2569352EA796864FCD769CC9B25C6497516134C6": {
-    "name": "Shanghai (Japan) (Activision)"
+    "name": "Shanghai (Japan) (Activision)",
+    "ref": "D5CC81D0379982FE69E8FE30868FDCC621DD1BAE"
   },
   "D5CC81D0379982FE69E8FE30868FDCC621DD1BAE": {
     "name": "Shanghai (USA)",
@@ -4933,7 +5141,8 @@
     "logo": "Qma5PSKp3JgpDpcDsKz3uRSUkj5LUhuz3uYz4vJZVPY2Jy"
   },
   "11508D5834EEA7352493D193A097C95E38EC4A55": {
-    "name": "Skate or Die - Bad 'N Rad (Europe)"
+    "name": "Skate or Die - Bad 'N Rad (Europe)",
+    "ref": "6A128648584AE17AC6DEE5A2BDBA10B0BB220434"
   },
   "6A128648584AE17AC6DEE5A2BDBA10B0BB220434": {
     "name": "Skate or Die - Bad 'N Rad (USA)",
@@ -4964,7 +5173,8 @@
     "logo": "QmR3as6NgX1KVnVCMk9n3nVBpaLRbsUygBLL9xzfooXDXg"
   },
   "9FC50648C18F7F8F0E567BA8791B1D9A43C9F044": {
-    "name": "Smurfs, The (Europe) (En,Fr,De,Es)"
+    "name": "Smurfs, The (Europe) (En,Fr,De,Es)",
+    "ref": "A0D6A85331FB034F68F05629A5FF85E13ADAB205"
   },
   "A0D6A85331FB034F68F05629A5FF85E13ADAB205": {
     "name": "Smurfs, The (USA, Europe) (En,Fr,De) (Rev 1) (SGB Enhanced)",
@@ -4991,7 +5201,8 @@
     "name": "Snow Bros. Jr. (Japan)"
   },
   "FE6754976F6758A91D2594D7CB9781CA0A340A90": {
-    "name": "Snow Brothers (Europe)"
+    "name": "Snow Brothers (Europe)",
+    "ref": "3798924873D76952810B28925662F9CF805A17CC"
   },
   "3798924873D76952810B28925662F9CF805A17CC": {
     "name": "Snow Brothers (USA)",
@@ -5029,10 +5240,12 @@
     "logo": "QmPj5uKSRF8oveztp2vDYQhjbs4vFjnpDgDTrku3Aekin4"
   },
   "9E4A1C2608DA3E245FE3C35C8A9F626C1BD6152E": {
-    "name": "Solomon's Club (Europe)"
+    "name": "Solomon's Club (Europe)",
+    "ref": "36ABF2BE4A16DF8E9FE30307CBD8CB949A9B9BDB"
   },
   "DC60824A69856A162AEE6F7FA86BD2D283FADD32": {
-    "name": "Solomon's Club (Japan)"
+    "name": "Solomon's Club (Japan)",
+    "ref": "36ABF2BE4A16DF8E9FE30307CBD8CB949A9B9BDB"
   },
   "36ABF2BE4A16DF8E9FE30307CBD8CB949A9B9BDB": {
     "name": "Solomon's Club (USA)",
@@ -5055,10 +5268,12 @@
     "name": "Space Date (Europe) (Proto)"
   },
   "6395CA055DE6B6538B915D0CB69BD829D7AA2E2A": {
-    "name": "Space Invaders (Europe) (SGB Enhanced)"
+    "name": "Space Invaders (Europe) (SGB Enhanced)",
+    "ref": "DA48687F3A5EE547510A0EA9EB05859B4EA9531D"
   },
   "9E94553ECB76E95EB85A5F8FBBB201B96271710A": {
-    "name": "Space Invaders (Japan)"
+    "name": "Space Invaders (Japan)",
+    "ref": "DA48687F3A5EE547510A0EA9EB05859B4EA9531D"
   },
   "DA48687F3A5EE547510A0EA9EB05859B4EA9531D": {
     "name": "Space Invaders (USA) (SGB Enhanced)",
@@ -5066,7 +5281,8 @@
     "logo": "QmYwEkNRy4N49pvovzHZAwFuJJ16iqDEqPzTPZ26B9W56S"
   },
   "7708270675979F25453E680BC8A6D45B5929AFA8": {
-    "name": "Spanky's Quest (Europe)"
+    "name": "Spanky's Quest (Europe)",
+    "ref": "8F448EAB7E6A05266D62F3564A00813F79314736"
   },
   "8F448EAB7E6A05266D62F3564A00813F79314736": {
     "name": "Spanky's Quest (USA)",
@@ -5102,7 +5318,8 @@
     "logo": "QmSKSMB5Dg7KEaoyL8XKs7UTab3n89ARpJvAEbhqby6jt9"
   },
   "08DC8867239FFA6BF31C61E568D0F29BEAB7955D": {
-    "name": "Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe) (Beta)"
+    "name": "Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe) (Beta)",
+    "ref": "D9687896481316D873046DACA43CC0E259C32929"
   },
   "A777C399BB4B8D3E55EE0E8B29890E20B859D5E4": {
     "name": "Spirit of F-1, The (Europe)"
@@ -5116,7 +5333,8 @@
     "logo": "QmYLbQZ8xmgmmAkbZwskfpN3K6itc4vhbGTk7eSFFz1vPg"
   },
   "556641FC79700C5CCB4F8FEAEC1D7FAFE99C31C4": {
-    "name": "Spirou (Europe) (En,Fr,De,Es) (Beta) (SGB Enhanced)"
+    "name": "Spirou (Europe) (En,Fr,De,Es) (Beta) (SGB Enhanced)",
+    "ref": "5EEF57753B7FAAE2B9710E38BE30662B0B77383A"
   },
   "27A8C04BF7126D2B9F564B5F8F709C08817D9692": {
     "name": "Splitz (Europe)",
@@ -5124,7 +5342,8 @@
     "logo": "QmZmpzWaWFcBeY24dHLW1Kta2mohTxH8o44SJGqfGmbwpy"
   },
   "5F36290557F23C48CA7F2F17A1AF9B691EDE5BFF": {
-    "name": "Splitz (Europe) (Beta)"
+    "name": "Splitz (Europe) (Beta)",
+    "ref": "27A8C04BF7126D2B9F564B5F8F709C08817D9692"
   },
   "C71D031DA8206798A56BEAE6A90F143174A76947": {
     "name": "Splitz - Nigaoe 15 Game (Japan)"
@@ -5159,7 +5378,8 @@
     "logo": "QmQ4JShi23UerRBxRLWBKftADWt5jVbwTyXJhDfFKwULoD"
   },
   "10577304FAE59B9C5D8B72BBF710BA97EF85AC90": {
-    "name": "Spot - The Video Game (Europe)"
+    "name": "Spot - The Video Game (Europe)",
+    "ref": "1A1AE34A3EC668D9A69C9C851C0291752DC63238"
   },
   "1A1AE34A3EC668D9A69C9C851C0291752DC63238": {
     "name": "Spot - The Video Game (USA)",
@@ -5172,7 +5392,8 @@
     "logo": "QmSeaBzkEaUwqNFkm4G6hJJxGk3h6B6xSHC3yA7BvmRUox"
   },
   "F3405AB4E07570DB790850C928A2D338478B93FF": {
-    "name": "Spy vs Spy - Operation Boobytrap (Europe)"
+    "name": "Spy vs Spy - Operation Boobytrap (Europe)",
+    "ref": "1A84BB71A8E655F9741F825D515CB9CE02CFAB9A"
   },
   "1A84BB71A8E655F9741F825D515CB9CE02CFAB9A": {
     "name": "Spy vs Spy - Operation Boobytrap (USA)",
@@ -5193,10 +5414,12 @@
     "logo": "QmbusrqkhRnpYXE5P7myAQqnsKFLVKVuf6SquoYGM1tNFh"
   },
   "1B89DB710C22C563C764B667C3897D817B05F18A": {
-    "name": "Star Trek - The Next Generation (Germany)"
+    "name": "Star Trek - The Next Generation (Germany)",
+    "ref": "8A50EB7863BF6ABF329F218AEA8BBD354A1BD970"
   },
   "890ED0AA9453FD1A38EEFE77F761155382471A56": {
-    "name": "Star Trek - The Next Generation (Spain)"
+    "name": "Star Trek - The Next Generation (Spain)",
+    "ref": "8A50EB7863BF6ABF329F218AEA8BBD354A1BD970"
   },
   "8A50EB7863BF6ABF329F218AEA8BBD354A1BD970": {
     "name": "Star Trek - The Next Generation (USA, Europe)",
@@ -5204,7 +5427,8 @@
     "logo": "QmZKX9h1gTrLsXchQi6sNR7E8SfRho9D4L2ctPykTQaNx6"
   },
   "47AF2970D4FEADA0B59DB59AF6130B1999BB5F3F": {
-    "name": "Star Trek Generations - Beyond the Nexus (Europe) (SGB Enhanced)"
+    "name": "Star Trek Generations - Beyond the Nexus (Europe) (SGB Enhanced)",
+    "ref": "86A97AD95738BBCBBE94FC9911D6FD6A92A7A636"
   },
   "86A97AD95738BBCBBE94FC9911D6FD6A92A7A636": {
     "name": "Star Trek Generations - Beyond the Nexus (USA) (SGB Enhanced)",
@@ -5212,10 +5436,12 @@
     "logo": "QmQBrgRnRijGQJNWfeFoFREjPjHwdJGDfiNjrsCRxzHRhv"
   },
   "3A6028708D9FB23A27104201FA8725A5DFB3B161": {
-    "name": "Star Wars (Europe)"
+    "name": "Star Wars (Europe)",
+    "ref": "F6563F526FC786C8666D75DFBA9E6D42D787EA89"
   },
   "82C4114312EFDC86C578E8683941A950FC2BB4C3": {
-    "name": "Star Wars (USA)"
+    "name": "Star Wars (USA)",
+    "ref": "F6563F526FC786C8666D75DFBA9E6D42D787EA89"
   },
   "F6563F526FC786C8666D75DFBA9E6D42D787EA89": {
     "name": "Star Wars (USA, Europe) (Rev 1)",
@@ -5223,7 +5449,8 @@
     "logo": "QmWgceQrcRtr1sVdGjBj2K3KwoPwZGcu1EqzAqypWRvBVq"
   },
   "C8458C870E6AC535AAFF6BF97EC47FB3CB0DAA8A": {
-    "name": "Star Wars - The Empire Strikes Back (USA, Europe)"
+    "name": "Star Wars - The Empire Strikes Back (USA, Europe)",
+    "ref": "9CA1D6D479F5A3BEB32F2461637B489F245323FF"
   },
   "9CA1D6D479F5A3BEB32F2461637B489F245323FF": {
     "name": "Star Wars - The Empire Strikes Back (USA)",
@@ -5246,7 +5473,8 @@
     "logo": "QmSUrdwDncjdz8P1Cy4ZiU6mbZznASLAReL4pdKiMenzuK"
   },
   "52FDAC69097E9323AB867E0139E860B9AD55D500": {
-    "name": "Street Fighter II (Japan) (SGB Enhanced)"
+    "name": "Street Fighter II (Japan) (SGB Enhanced)",
+    "ref": "3B6ECF34043C0BCF2AC279EAF30B9D1B0D941E91"
   },
   "3B6ECF34043C0BCF2AC279EAF30B9D1B0D941E91": {
     "name": "Street Fighter II (USA, Europe) (Rev 1) (SGB Enhanced)",
@@ -5254,10 +5482,12 @@
     "logo": "QmZth4pPP72vkQWe7sBHP5a8mT65Qi92XonuegyK6iMZfF"
   },
   "05711638648654E75CA6A563411DAEC3251C2EF0": {
-    "name": "Street Fighter II (USA) (SGB Enhanced)"
+    "name": "Street Fighter II (USA) (SGB Enhanced)",
+    "ref": "3B6ECF34043C0BCF2AC279EAF30B9D1B0D941E91"
   },
   "2E5E0610A7C535980B6A185CAB83248F6D6096B3": {
-    "name": "Street Racer (Japan)"
+    "name": "Street Racer (Japan)",
+    "ref": "4E1D17772EB939CB0A3BCE73E4378384D96836CE"
   },
   "4E1D17772EB939CB0A3BCE73E4378384D96836CE": {
     "name": "Street Racer (USA, Europe)",
@@ -5281,7 +5511,8 @@
     "name": "Super B-Daman - Fighting Phoenix (Japan) (SGB Enhanced)"
   },
   "4931B578626ABF8FD2E7B6E344234E7E688A1406": {
-    "name": "Super Battletank (Europe)"
+    "name": "Super Battletank (Europe)",
+    "ref": "7AD8CB997676B30BEFDEBB7FAE2A341D3712CEF1"
   },
   "7AD8CB997676B30BEFDEBB7FAE2A341D3712CEF1": {
     "name": "Super Battletank (USA)",
@@ -5332,10 +5563,12 @@
     "name": "Super Donkey Kong GB (Japan) (SGB Enhanced)"
   },
   "9EA125F907FA610205E9C09A08802B1A128E4FF7": {
-    "name": "Super Hunchback (Europe)"
+    "name": "Super Hunchback (Europe)",
+    "ref": "9D53FBFEEEC5A1A8352177C157CE615621C4B30C"
   },
   "608092D4BE5D32D5B8B4D50C2D9284A00EA885CB": {
-    "name": "Super Hunchback (Japan)"
+    "name": "Super Hunchback (Japan)",
+    "ref": "9D53FBFEEEC5A1A8352177C157CE615621C4B30C"
   },
   "9D53FBFEEEC5A1A8352177C157CE615621C4B30C": {
     "name": "Super Hunchback (USA)",
@@ -5353,7 +5586,8 @@
     "logo": "QmbVrwRfNj2b7gUBzDxuHBK3qkk3m41QP5fFmZPyYSLec4"
   },
   "3A4DDB39B234A67FFB361EE7ABC3D23E0A8B1C89": {
-    "name": "Super Mario Land (World)"
+    "name": "Super Mario Land (World)",
+    "ref": "418203621B887CAA090215D97E3F509B79AFFD3E"
   },
   "418203621B887CAA090215D97E3F509B79AFFD3E": {
     "name": "Super Mario Land (World) (Rev 1)",
@@ -5361,10 +5595,12 @@
     "logo": "QmYaq6v7GEbXXSHT4e3PkihQYGPG3rj5TNwCpxECbzoFV2"
   },
   "BBA408539ECBF8D322324956D859BC86E2A9977B": {
-    "name": "Super Mario Land 2 - 6 Golden Coins (USA, Europe)"
+    "name": "Super Mario Land 2 - 6 Golden Coins (USA, Europe)",
+    "ref": "D11D94FA3C36B9F72E925070B66BB4F16D31001E"
   },
   "96E3A314561FB394CDF51101F9178A32713C2313": {
-    "name": "Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 1)"
+    "name": "Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 1)",
+    "ref": "D11D94FA3C36B9F72E925070B66BB4F16D31001E"
   },
   "D11D94FA3C36B9F72E925070B66BB4F16D31001E": {
     "name": "Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2)",
@@ -5392,7 +5628,8 @@
     "logo": "QmSxHKjzmaBcFWzvw1AGc3MvBgxnTjz5Lx7jWWBPTW9vqx"
   },
   "742C33E45D3B79101D34FDC6537371AE96084235": {
-    "name": "Super Off Road (USA, Europe) (Beta)"
+    "name": "Super Off Road (USA, Europe) (Beta)",
+    "ref": "ACDE7750BCF99D7BB76B895534FDA43ECE222DFA"
   },
   "642F4F6B043D8886D02552430BF3B3C87142AD2D": {
     "name": "Super Pachinko Taisen (Japan) (SGB Enhanced)"
@@ -5446,13 +5683,16 @@
     "logo": "QmZccejpTqaaWxZUXTyCPqbaiNtQTW7i15zSznq1PRFSUK"
   },
   "4D442BDA629F64A277D0F6BCC7E7FA640294BD7E": {
-    "name": "Sword of Hope, The (Germany)"
+    "name": "Sword of Hope, The (Germany)",
+    "ref": "5F30147162E2A38DBB90A233F22DF0A6AA3D99FB"
   },
   "DBD0FD8F870B883D19455F2D276EDC1028C9D916": {
-    "name": "Sword of Hope, The (Spain)"
+    "name": "Sword of Hope, The (Spain)",
+    "ref": "5F30147162E2A38DBB90A233F22DF0A6AA3D99FB"
   },
   "FDA0CC9B3C02F6DBC1FB44636C98DCC4DFBCE5EC": {
-    "name": "Sword of Hope, The (Sweden)"
+    "name": "Sword of Hope, The (Sweden)",
+    "ref": "5F30147162E2A38DBB90A233F22DF0A6AA3D99FB"
   },
   "5F30147162E2A38DBB90A233F22DF0A6AA3D99FB": {
     "name": "Sword of Hope, The (USA)",
@@ -5460,7 +5700,8 @@
     "logo": "Qma8Nt9y52Q5AUcmxSZ9gJpDswmMiRqdhxg75V8ZgEAuyU"
   },
   "363EDD30041B562CE522F68E451FEEE5E94EF03F": {
-    "name": "T2 - The Arcade Game (Japan)"
+    "name": "T2 - The Arcade Game (Japan)",
+    "ref": "A362A05B2616BCA1375D3F4F979D12BDB9BCA53A"
   },
   "A362A05B2616BCA1375D3F4F979D12BDB9BCA53A": {
     "name": "T2 - The Arcade Game (USA, Europe)",
@@ -5497,7 +5738,8 @@
     "name": "Takeda Nobuhiro no Ace Striker (Japan)"
   },
   "4CA2962C76F9015246663564B9C7006B5FA37A03": {
-    "name": "TaleSpin (Europe)"
+    "name": "TaleSpin (Europe)",
+    "ref": "155EB5458C971A9A84E3BE19711994CA2A4C24D8"
   },
   "155EB5458C971A9A84E3BE19711994CA2A4C24D8": {
     "name": "TaleSpin (USA)",
@@ -5505,7 +5747,8 @@
     "logo": "QmSPSvxHvivKvqasKBMxhbfSFD1Ex6rh7ZMVAQ4B6BSX8s"
   },
   "0F4E508F90E52A869EFB245894A362E5F677C2ED": {
-    "name": "Tamagotchi (France) (SGB Enhanced)"
+    "name": "Tamagotchi (France) (SGB Enhanced)",
+    "ref": "7368EC190BED39429812A26E18B2D3E153CF4E81"
   },
   "7368EC190BED39429812A26E18B2D3E153CF4E81": {
     "name": "Tamagotchi (USA, Europe) (SGB Enhanced)",
@@ -5606,7 +5849,8 @@
     "logo": "QmWavKWfpmdeoscuvEmqSH5zZYehGJnUMQoqWVKf4xFCWs"
   },
   "69C2D689C52A3430A84AA8C9F020A2CE3D9A3C55": {
-    "name": "Tesserae (Europe) (En,Fr,De,Es,It)"
+    "name": "Tesserae (Europe) (En,Fr,De,Es,It)",
+    "ref": "9506A7EA6664BB6C65DFCF0476F209B65D9306FB"
   },
   "9506A7EA6664BB6C65DFCF0476F209B65D9306FB": {
     "name": "Tesserae (USA)",
@@ -5614,7 +5858,8 @@
     "logo": "QmZoQbW4YGzvj8FHQMoDmf2xmCgw75QNAG2Cjn5VLNHeAh"
   },
   "3F2A6407C9900AD5817EE1CFB3609C5EE17400FC": {
-    "name": "Tetris (Japan) (En)"
+    "name": "Tetris (Japan) (En)",
+    "ref": "74591CC9501AF93873F9A5D3EB12DA12C0723BBC"
   },
   "74591CC9501AF93873F9A5D3EB12DA12C0723BBC": {
     "name": "Tetris (World) (Rev 1)",
@@ -5627,13 +5872,16 @@
     "logo": "QmVoNkagcz87FCAidL3x3oWecsLADyTjTqSbUMCFE9g4QD"
   },
   "EC7B3419C08F1A5713AFFF2B26C1534D91602338": {
-    "name": "Tetris 2 (USA)"
+    "name": "Tetris 2 (USA)",
+    "ref": "1F88BE9DEA864EAA74C3B5CE3488E61139818E8D"
   },
   "51BDCEED8FC384B593444A5306B6A46A4672C96B": {
-    "name": "Tetris 2 (USA, Europe) (Rev 1) (SGB Enhanced)"
+    "name": "Tetris 2 (USA, Europe) (Rev 1) (SGB Enhanced)",
+    "ref": "1F88BE9DEA864EAA74C3B5CE3488E61139818E8D"
   },
   "3DE8D7F30322BC50008AB0D917ACD0A934B5B195": {
-    "name": "Tetris Attack (USA) (SGB Enhanced)"
+    "name": "Tetris Attack (USA) (SGB Enhanced)",
+    "ref": "85B4B0D5A5A0417E10FED853419FE65975A6071F"
   },
   "85B4B0D5A5A0417E10FED853419FE65975A6071F": {
     "name": "Tetris Attack (USA, Europe) (Rev 1) (SGB Enhanced)",
@@ -5649,7 +5897,8 @@
     "name": "Tetris Flash (Japan) (SGB Enhanced)"
   },
   "DBB20951409739F1E11FFBCD8B0AF1E802BF693A": {
-    "name": "Tetris Plus (Japan) (SGB Enhanced)"
+    "name": "Tetris Plus (Japan) (SGB Enhanced)",
+    "ref": "DFAB75AB6BDC0765BA9A5D33A93FFDB114A49CBF"
   },
   "DFAB75AB6BDC0765BA9A5D33A93FFDB114A49CBF": {
     "name": "Tetris Plus (USA, Europe) (SGB Enhanced)",
@@ -5667,10 +5916,12 @@
     "logo": "QmfZKC8pRvzxzVroPwrwL3MmViCHSKx9pJptNf4wQVicU3"
   },
   "A69BEE8C26A520B648A780C67E4A73D54E1BF812": {
-    "name": "Tintin in Tibet (Europe) (En,Es,It,Sv) (SGB Enhanced)"
+    "name": "Tintin in Tibet (Europe) (En,Es,It,Sv) (SGB Enhanced)",
+    "ref": "8D8978FBD5A5634E2CCE940122039D575E7B3646"
   },
   "63070514F0A692CEF70E9344CA0A973F6AF510C9": {
-    "name": "Tintin in Tibet (Europe) (En,Es,It,Sv) (Beta) (SGB Enhanced)"
+    "name": "Tintin in Tibet (Europe) (En,Es,It,Sv) (Beta) (SGB Enhanced)",
+    "ref": "8D8978FBD5A5634E2CCE940122039D575E7B3646"
   },
   "08948315649160C62546F541F173808595F75149": {
     "name": "Tiny Toon Adventures (Japan)"
@@ -5681,7 +5932,8 @@
     "logo": "QmSjdiS7mTEfpnFyParLKbUK7g54PFd5pVGcM1ht7X7A85"
   },
   "5B3E522F92C87E67A6D6C1922CE8DF4314F7F504": {
-    "name": "Tiny Toon Adventures - Wacky Sports (Europe)"
+    "name": "Tiny Toon Adventures - Wacky Sports (Europe)",
+    "ref": "F44ADC4A41331E31627D23305579BD4E493610DE"
   },
   "F44ADC4A41331E31627D23305579BD4E493610DE": {
     "name": "Tiny Toon Adventures - Wacky Sports (USA)",
@@ -5751,7 +6003,8 @@
     "name": "Top Ranking Tennis (Europe)"
   },
   "4CD1702228D3D82ABDA1672F21B79446385A2C68": {
-    "name": "Torpedo Range (Japan)"
+    "name": "Torpedo Range (Japan)",
+    "ref": "0AAC562F0F62916839CFFE472AA21E0CEE6269F0"
   },
   "0AAC562F0F62916839CFFE472AA21E0CEE6269F0": {
     "name": "Torpedo Range (USA)",
@@ -5778,10 +6031,12 @@
     "logo": "Qmdy5cSeGhN618ojEnuoAbrqmms3KjfgbMfZGvW73tLG2J"
   },
   "0120D5097F06EA6E222E5CEB31484F3375AF6F5B": {
-    "name": "Toy Story (Europe) (SGB Enhanced)"
+    "name": "Toy Story (Europe) (SGB Enhanced)",
+    "ref": "04227FCD3E049465F4499FEFE6519322EE492A82"
   },
   "AC2CDBD6AE42EDCF407F02150ADD2C0442EC116C": {
-    "name": "Toy Story (USA) (SGB Enhanced)"
+    "name": "Toy Story (USA) (SGB Enhanced)",
+    "ref": "04227FCD3E049465F4499FEFE6519322EE492A82"
   },
   "04227FCD3E049465F4499FEFE6519322EE492A82": {
     "name": "Toy Story (USA) (Rev 1) (SGB Enhanced)",
@@ -5815,7 +6070,8 @@
     "logo": "QmaSTbYjv5hMyCfWJkFHWGubfzXVtwco24hUoqAFmUK6E4"
   },
   "AC19D49906E72AAEBEFFA9AB7106EB346A5EFA07": {
-    "name": "Trip World (Japan)"
+    "name": "Trip World (Japan)",
+    "ref": "ADC10A23DD33D40740F5C8C086DFCB97B8389286"
   },
   "61964DC324B57349C23D471F6887FAD66F64E969": {
     "name": "TripleA (USA) (Proto)"
@@ -5856,7 +6112,8 @@
     "name": "Tsuri Sensei (Japan) (SGB Enhanced)"
   },
   "84A97F2DB289951CBA2EB6F7369BD6629C2687B2": {
-    "name": "Tumble Pop (Japan)"
+    "name": "Tumble Pop (Japan)",
+    "ref": "1B5A9B71BC14F9725B37FA0A166253F1047943B1"
   },
   "1B5A9B71BC14F9725B37FA0A166253F1047943B1": {
     "name": "Tumble Pop (USA, Europe)",
@@ -5869,7 +6126,8 @@
     "logo": "QmRaGBG5agFsiekJHi9KP6ZY27NSsMDDuoTYvRijLQnYJN"
   },
   "332517218856313559C483C57256977E0CE07AD7": {
-    "name": "Turok - Battle of the Bionosaurs (Japan)"
+    "name": "Turok - Battle of the Bionosaurs (Japan)",
+    "ref": "8DCECC535909EF9D1B6DAC658FA41DDCBB75C208"
   },
   "8DCECC535909EF9D1B6DAC658FA41DDCBB75C208": {
     "name": "Turok - Battle of the Bionosaurs (USA, Europe) (En,Fr,De,Es)",
@@ -6046,7 +6304,8 @@
     "logo": "QmVd4N5eW6xtztNvKd6n8tNB9Rg6M1GKfFTLSn4Ab9hmCo"
   },
   "4D59882150FC28733902E5E6DE8F19A751BD7913": {
-    "name": "Who Framed Roger Rabbit (Europe)"
+    "name": "Who Framed Roger Rabbit (Europe)",
+    "ref": "7E52D507B96FB06C46EF2C885FE58238A3BCF4A8"
   },
   "7E52D507B96FB06C46EF2C885FE58238A3BCF4A8": {
     "name": "Who Framed Roger Rabbit (USA)",
@@ -6054,7 +6313,8 @@
     "logo": "QmT5gmXHc2dYusiaPqRpvybED3w3yhtvpPmzCaMjfr7B9A"
   },
   "D92515A09D78099238565BB0F1873F57F00B6728": {
-    "name": "Who Framed Roger Rabbit (Spain)"
+    "name": "Who Framed Roger Rabbit (Spain)",
+    "ref": "7E52D507B96FB06C46EF2C885FE58238A3BCF4A8"
   },
   "0EA5C37262BA60EF97DD14F8F673F951534CCD38": {
     "name": "Wild Snake (USA) (SGB Enhanced)",
@@ -6090,7 +6350,8 @@
     "logo": "QmV2deznVx5VsrSMP154rHGZPy2FeuZqLbaMdw9pQFGvYA"
   },
   "97544A78925F6BB095C7B2F14878B2E1467DC7D1": {
-    "name": "Wordtris (USA) (Beta)"
+    "name": "Wordtris (USA) (Beta)",
+    "ref": "AB68498646FB2CA1DF9443E6A80062C30B3EA4F9"
   },
   "3B38771E97EB6CD5E053AC8908482F59DC07248B": {
     "name": "WordZap (USA)",
@@ -6106,7 +6367,8 @@
     "logo": "QmTiVk1iaYUibMbfNJtLi7uq5PAcTxGkvew4LdYq4U9odU"
   },
   "C99595DE26E63E65D61446DC0338256B9831601A": {
-    "name": "World Bowling (Japan)"
+    "name": "World Bowling (Japan)",
+    "ref": "F579890B04B33965C009DD3B7300623691AE206A"
   },
   "F579890B04B33965C009DD3B7300623691AE206A": {
     "name": "World Bowling (USA)",
@@ -6132,7 +6394,8 @@
     "logo": "QmQRRVX4TkbRcn9i8vamKTbTrofbENSzH5hbEVgwWN2aX9"
   },
   "6F9FB96A4551B4C5B3C6D8928B9A561D1CC28ACD": {
-    "name": "World Cup USA 94 (Japan) (En,Fr,De,Es,It,Nl,Pt,Sv)"
+    "name": "World Cup USA 94 (Japan) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+    "ref": "1BD9910825A1BA3A9A9AD9084C8BE0AF04F2545F"
   },
   "3C5F213104E1BF968A01E0CFFBE7B5B5120E0458": {
     "name": "World Heroes 2 Jet (USA, Europe) (SGB Enhanced)",
@@ -6151,7 +6414,8 @@
     "logo": "QmNXexYonZXnNi4kKfDezNkX1Dg8tuU3iN7518sFtupyre"
   },
   "3751261D8113C7B937F9E077803AF514F443AFBC": {
-    "name": "WWF King of the Ring (Japan)"
+    "name": "WWF King of the Ring (Japan)",
+    "ref": "FD17015D8F85F407427C8AA3E68FB0A32DC072A8"
   },
   "FD17015D8F85F407427C8AA3E68FB0A32DC072A8": {
     "name": "WWF King of the Ring (USA, Europe)",
@@ -6164,7 +6428,8 @@
     "logo": "QmcTPEYjqSuvCR7pmziL9cPfRoJRzBx4v29btUSfdzPmQD"
   },
   "F3101BB0F1FE3F9160E7892DFD70582325E1C44F": {
-    "name": "WWF Superstars (Japan)"
+    "name": "WWF Superstars (Japan)",
+    "ref": "957A7D33A1569158F7B1882362262A6AB391FF5B"
   },
   "957A7D33A1569158F7B1882362262A6AB391FF5B": {
     "name": "WWF Superstars (USA, Europe)",
@@ -6172,7 +6437,8 @@
     "logo": "Qmaa6hjAxtNjZ3pWQvr8i8pmsoLEnnG6gjqrmWFfWMXYnn"
   },
   "9B0DAA79A455B46F13A7866B575CB229EC9DADF8": {
-    "name": "WWF Superstars 2 (Japan)"
+    "name": "WWF Superstars 2 (Japan)",
+    "ref": "F5F2A16A9EA5694E3198CB6A9A16BCBCA75BE12F"
   },
   "F5F2A16A9EA5694E3198CB6A9A16BCBCA75BE12F": {
     "name": "WWF Superstars 2 (USA, Europe)",
@@ -6205,7 +6471,8 @@
     "name": "Yannick Noah Tennis (France)"
   },
   "4E9452FEAFFA508CF40CD89FBC28F215060D28E5": {
-    "name": "Yogi Bear's Gold Rush (Europe)"
+    "name": "Yogi Bear's Gold Rush (Europe)",
+    "ref": "D701B98B34C61EA230DF1CA9561E1C9474928EBF"
   },
   "D701B98B34C61EA230DF1CA9561E1C9474928EBF": {
     "name": "Yogi Bear's Gold Rush (USA)",
@@ -6262,7 +6529,8 @@
     "name": "Zelda no Densetsu - Yume o Miru Shima (Japan) (Rev 1)"
   },
   "0E753ED48E28A0E6A820AC9B8403C50C004F22E2": {
-    "name": "Zen - Intergalactic Ninja (Europe)"
+    "name": "Zen - Intergalactic Ninja (Europe)",
+    "ref": "47BBC472071770783B3D930141390F48741176AF"
   },
   "47BBC472071770783B3D930141390F48741176AF": {
     "name": "Zen - Intergalactic Ninja (USA)",
@@ -6288,7 +6556,8 @@
     "name": "Zool (Japan) (Proto)"
   },
   "6DF1086910AE33D6A699DF3AD428B901AB851BB4": {
-    "name": "Zool - Ninja of the 'Nth' Dimension (Europe)"
+    "name": "Zool - Ninja of the 'Nth' Dimension (Europe)",
+    "ref": "5C1B1AF8E70CD23F5F72848D03FCC56869D18BE7"
   },
   "5C1B1AF8E70CD23F5F72848D03FCC56869D18BE7": {
     "name": "Zool - Ninja of the 'Nth' Dimension (USA)",
@@ -6296,7 +6565,8 @@
     "logo": "QmPE1K9YbzzQ1FqsAUoWq9enWxJLRNLwbvjDwvxqbE5PxH"
   },
   "89A74970761700D591C2AFFC47C9306F49D22BA8": {
-    "name": "Zoop (Japan)"
+    "name": "Zoop (Japan)",
+    "ref": "1E0390D456066B9FBE1FAFF5F7404D4593A2B839"
   },
   "1E0390D456066B9FBE1FAFF5F7404D4593A2B839": {
     "name": "Zoop (USA, Europe)",

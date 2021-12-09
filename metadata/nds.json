@@ -413,7 +413,8 @@
     "logo": "QmXWs9ZSdwgQfL3RhALCobjMiFCpZXteP2PhxguyV4r8qm"
   },
   "9B144D75A109F0C9F392AFBB02713BD897FC26FC": {
-    "name": "Ace Attorney Investigations - Miles Edgeworth (Europe)"
+    "name": "Ace Attorney Investigations - Miles Edgeworth (Europe)",
+    "ref": "740105DD2F9719D88B73053BC1638681E6AE9042"
   },
   "7391E57C8B91C0F0946FB884729EF802081A7B32": {
     "name": "AceKard 2 (World) (Unl)"
@@ -490,7 +491,8 @@
     "logo": "QmZUHhdbJv4EosVnphsom8hEedvdENvp6TDNtc4945hpWE"
   },
   "03B63875930BD8FDEA50902D7D2E0A4614AC36EB": {
-    "name": "Advance Wars - Dual Strike (Europe) (En,Fr,De,Es,It)"
+    "name": "Advance Wars - Dual Strike (Europe) (En,Fr,De,Es,It)",
+    "ref": "5A8D22D41CAA2C0FF41FB4A2B885A6BE607E22D9"
   },
   "6F984E11F9F0E0F542D34B3908C75836B0006B71": {
     "name": "Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA)"
@@ -528,7 +530,8 @@
     "ref": "1CA981AF55AFE0D05AEE25D85F66786C325AFE67"
   },
   "B0CA794E9B89C899B671EF18DC2AEFEE77A37448": {
-    "name": "Age of Empires - Mythologies (Europe) (En,Fr,De,Es,It)"
+    "name": "Age of Empires - Mythologies (Europe) (En,Fr,De,Es,It)",
+    "ref": "1CA981AF55AFE0D05AEE25D85F66786C325AFE67"
   },
   "E92B412DD09B826F3D0978BD9C4058E4FC310EEE": {
     "name": "Age of Empires - The Age of Kings (USA)",
@@ -536,10 +539,12 @@
     "logo": "QmfDVyCggptQbosFC1eeTYEoxDR9YovYrgza88V7fxJtKp"
   },
   "2D9A1A8827B303AF241E35964D2EAADD60C2AF5A": {
-    "name": "Age of Empires - The Age of Kings (Europe) (En,Fr,De)"
+    "name": "Age of Empires - The Age of Kings (Europe) (En,Fr,De)",
+    "ref": "E92B412DD09B826F3D0978BD9C4058E4FC310EEE"
   },
   "12F6C3A21011E25FD544D413BCCE6AE6B5CBB2CA": {
-    "name": "Age of Empires - The Age of Kings (Europe) (En,Es,It)"
+    "name": "Age of Empires - The Age of Kings (Europe) (En,Es,It)",
+    "ref": "E92B412DD09B826F3D0978BD9C4058E4FC310EEE"
   },
   "E5E93D21A086D52D59F8EB24ABCDFEE48E83E926": {
     "name": "Aibou DS (Japan)"
@@ -782,7 +787,8 @@
     "name": "Animal Boxing (USA)"
   },
   "77FDE3E30E1E6068395D1F96EA63BE569B61C351": {
-    "name": "Animal Crossing - Wild World (USA) (Rev 1)"
+    "name": "Animal Crossing - Wild World (USA) (Rev 1)",
+    "ref": "F1BEF752B30DC158D55B48518C80840A7C4586AF"
   },
   "F1BEF752B30DC158D55B48518C80840A7C4586AF": {
     "name": "Animal Crossing - Wild World (USA)",
@@ -790,10 +796,12 @@
     "logo": "QmXP5K65ypmEwTpU4Vpz4mvNC6roHhbufqSUcWxDYZ47pF"
   },
   "858DA57A18852E75304E423519DDE6A548D5264B": {
-    "name": "Animal Crossing - Wild World (Europe) (En,Fr,De,Es,It)"
+    "name": "Animal Crossing - Wild World (Europe) (En,Fr,De,Es,It)",
+    "ref": "F1BEF752B30DC158D55B48518C80840A7C4586AF"
   },
   "1DC4BCDB5C2C4C448788A26C0120546F6C633CAA": {
-    "name": "Animal Crossing - Wild World (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
+    "name": "Animal Crossing - Wild World (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+    "ref": "F1BEF752B30DC158D55B48518C80840A7C4586AF"
   },
   "2826108ECB4EB317AE11677FEE33321A6DBAAE9D": {
     "name": "Animal Crossing - Wild World - Broadcast Version (Europe) (Demo) (Wi-Fi Kiosk)"
@@ -889,7 +897,8 @@
     "name": "Anno - Create a New World (Europe) (En,Fr,De,Es,It)"
   },
   "4AD5E1B09CE0503E407678D570955BB043200D89": {
-    "name": "Anno 1701 - Dawn of Discovery (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Anno 1701 - Dawn of Discovery (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "AA9B2FA71F6C83CA578B4460BC4DBED9D5299FC8"
   },
   "AA9B2FA71F6C83CA578B4460BC4DBED9D5299FC8": {
     "name": "Anno 1701 - Dawn of Discovery (USA) (En,Fr,Es)",
@@ -953,13 +962,16 @@
     "logo": "QmTY9ASYKifBhqWFJTNNeBwAA1ftPfZ7ftn2QmGzNQybwK"
   },
   "5BA9442B141BB4E48EBFA0308058B13F3053CB14": {
-    "name": "Apollo Justice - Ace Attorney (Europe) (Fr,De)"
+    "name": "Apollo Justice - Ace Attorney (Europe) (Fr,De)",
+    "ref": "E76B2CCC4143F53847738C9AEA434D63F2F836DB"
   },
   "B48CAEBFAE02635B99D5077FD8C0A8FBD849C4B7": {
-    "name": "Apollo Justice - Ace Attorney (Europe) (Es,It)"
+    "name": "Apollo Justice - Ace Attorney (Europe) (Es,It)",
+    "ref": "E76B2CCC4143F53847738C9AEA434D63F2F836DB"
   },
   "B17F9C5403555939C0F62CFCA5ED9CBE0300FA10": {
-    "name": "Apollo Justice - Ace Attorney (Europe)"
+    "name": "Apollo Justice - Ace Attorney (Europe)",
+    "ref": "E76B2CCC4143F53847738C9AEA434D63F2F836DB"
   },
   "09B9483351E39DBD7E8FC6EC280D7148AB13FD73": {
     "name": "Appare! Shougi Jiisan - Washi to Shoubu ja (Japan)"
@@ -2087,10 +2099,12 @@
     "name": "Bolt - Be-Awesome Edition (USA) (En,Fr,Es)"
   },
   "3124D78125511E5EAAA3D389E05607C862AE1A41": {
-    "name": "Bomberman (Japan) (Rev 1)"
+    "name": "Bomberman (Japan) (Rev 1)",
+    "ref": "C88A441CF460A8A863FC31719EF0F56EE86B4E05"
   },
   "CF96E7FBB20D7E79C70FA7FC1EABA4B41EBA82EB": {
-    "name": "Bomberman (Japan)"
+    "name": "Bomberman (Japan)",
+    "ref": "C88A441CF460A8A863FC31719EF0F56EE86B4E05"
   },
   "C88A441CF460A8A863FC31719EF0F56EE86B4E05": {
     "name": "Bomberman (USA)",
@@ -2098,7 +2112,8 @@
     "logo": "QmdzcS12ZRWsHggZAvUxCnre5JmLxsiDnmd89KxLM4V3a1"
   },
   "68161CAFFB9F81BE109C1335EEF33E9EEA63566D": {
-    "name": "Bomberman (Europe) (En,Fr,De,Es,It)"
+    "name": "Bomberman (Europe) (En,Fr,De,Es,It)",
+    "ref": "C88A441CF460A8A863FC31719EF0F56EE86B4E05"
   },
   "DFF35C97E654F67D96B6ACB13CA7A6E4573FD488": {
     "name": "Bomberman 2 (Europe) (En,Fr,De,Es,It)"
@@ -2701,10 +2716,12 @@
     "name": "Casper's Scare School - Spooky Sports Day (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)"
   },
   "90C45C285A4EC7EA4BF05972DCFC69268970CDA6": {
-    "name": "Castlevania - Dawn of Sorrow (USA) (Demo) (Kiosk)"
+    "name": "Castlevania - Dawn of Sorrow (USA) (Demo) (Kiosk)",
+    "ref": "47530FF87E608F88105A314FDF36DC385F8DEC94"
   },
   "926EB2E2D794667615A5FF0AE371B751A70388E0": {
-    "name": "Castlevania - Dawn of Sorrow (Europe) (En,Fr,De,Es,It)"
+    "name": "Castlevania - Dawn of Sorrow (Europe) (En,Fr,De,Es,It)",
+    "ref": "47530FF87E608F88105A314FDF36DC385F8DEC94"
   },
   "47530FF87E608F88105A314FDF36DC385F8DEC94": {
     "name": "Castlevania - Dawn of Sorrow (USA)",
@@ -2712,7 +2729,8 @@
     "logo": "QmY8ppT4yaohnscA2mGwnDq36mXfMraNt3M1fXZTFRQAry"
   },
   "B62E2D0CD63BDB16E32F2D4A1D0AC90A242C8481": {
-    "name": "Castlevania - Order of Ecclesia (Europe) (En,Fr,De,Es,It)"
+    "name": "Castlevania - Order of Ecclesia (Europe) (En,Fr,De,Es,It)",
+    "ref": "F9EBF006A489B8C9391E8D1FD05EC6B9CEF6FD7B"
   },
   "F9EBF006A489B8C9391E8D1FD05EC6B9CEF6FD7B": {
     "name": "Castlevania - Order of Ecclesia (USA) (En,Fr)",
@@ -2723,7 +2741,8 @@
     "ref": "F9EBF006A489B8C9391E8D1FD05EC6B9CEF6FD7B"
   },
   "07C923490BC537BA7573B78DD2639EC1D67006F9": {
-    "name": "Castlevania - Order of Ecclesia (Korea) [b]"
+    "name": "Castlevania - Order of Ecclesia (Korea) [b]",
+    "ref": "F9EBF006A489B8C9391E8D1FD05EC6B9CEF6FD7B"
   },
   "382602E3615B2282EEAD584014125E71B5B0F033": {
     "name": "Castlevania - Portrait of Ruin (USA)",
@@ -2731,7 +2750,8 @@
     "logo": "QmYdeWxCrGkDujHzbMZQDgJ9BAHD5qG6Jjz7c4or2AovC4"
   },
   "26FE05FA12019FACEA91556E4E6B00BA6989E15D": {
-    "name": "Castlevania - Portrait of Ruin (Europe) (En,Fr,De,Es,It)"
+    "name": "Castlevania - Portrait of Ruin (Europe) (En,Fr,De,Es,It)",
+    "ref": "382602E3615B2282EEAD584014125E71B5B0F033"
   },
   "2910584C80C2B9CAB1440E5A8A50D0939BD6839C": {
     "name": "Casual Classics (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)"
@@ -2982,7 +3002,8 @@
     "logo": "QmdfeNG9qHR4CnbV2Fadcqx9tRAg9Rve9U8hQWQCs3tTn8"
   },
   "B284D3BE981D7DEBC339285CC47383A9CBDF557E": {
-    "name": "Children of Mana (Europe) (En,Fr,De,Es,It)"
+    "name": "Children of Mana (Europe) (En,Fr,De,Es,It)",
+    "ref": "7CFAD9872D9EFC49928204A007C124C89BB90CCD"
   },
   "7DCEA44A281B1671FBE00D61B99B740CC1334E03": {
     "name": "Chishiki-ou Series - Train Master (Japan)"
@@ -3108,10 +3129,12 @@
     "name": "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (Europe) (En,Fr,Es,It,Nl)"
   },
   "AFC91A3F1F6C1BD02845B76416239E4DABFAE19F": {
-    "name": "Chrono Trigger (Japan) (En,Ja)"
+    "name": "Chrono Trigger (Japan) (En,Ja)",
+    "ref": "A6C69D789A6F2E31B27FBA950423BEA3C2F30A37"
   },
   "11F9E8204E484EAB42181B210C9F214584BE75BF": {
-    "name": "Chrono Trigger (USA) (En,Fr)"
+    "name": "Chrono Trigger (USA) (En,Fr)",
+    "ref": "A6C69D789A6F2E31B27FBA950423BEA3C2F30A37"
   },
   "A6C69D789A6F2E31B27FBA950423BEA3C2F30A37": {
     "name": "Chrono Trigger (Europe) (En,Fr)",
@@ -4078,7 +4101,8 @@
     "logo": "QmdzXR8NxUMAhQ6BnEGLV3hiaDTH1tRb9ZhdzR52YZeF6a"
   },
   "77FF0A8574343D73BA3A09F0E1D9E08B3BFC6AB1": {
-    "name": "Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It)"
+    "name": "Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It)",
+    "ref": "BC1C8994E2AE67F7E30C28516DC9717EDA790DF9"
   },
   "7E58C5D5B4115A32D6B9A6A8FA74C45DE8723210": {
     "name": "Diego's Build and Rescue (Europe) (En,Fr,Nl)"
@@ -5769,10 +5793,12 @@
     "logo": "QmSFZS6p7ZjKmVKmAdjjJFJSS1zeK5Myfu4iwDYz1UVodX"
   },
   "06A564FC71E8A6D73582B8ACE2EED292046B7B3F": {
-    "name": "Final Fantasy - The 4 Heroes of Light (Europe)"
+    "name": "Final Fantasy - The 4 Heroes of Light (Europe)",
+    "ref": "8D5F999F6932E94ED17454995377BB7B2FB51081"
   },
   "550BF617BC36058F8641EA6F435E04403A499A0E": {
-    "name": "Final Fantasy Crystal Chronicles - Echoes of Time (Japan)"
+    "name": "Final Fantasy Crystal Chronicles - Echoes of Time (Japan)",
+    "ref": "1DF23D5A3A655BDD587C360B581202931D0F66E1"
   },
   "1DF23D5A3A655BDD587C360B581202931D0F66E1": {
     "name": "Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es)",
@@ -5783,13 +5809,16 @@
     "ref": "1DF23D5A3A655BDD587C360B581202931D0F66E1"
   },
   "18F7004F74C83FEBA40F003641EC00571E52A301": {
-    "name": "Final Fantasy Crystal Chronicles - Echoes of Time (Europe) (En,Fr,De,Es)"
+    "name": "Final Fantasy Crystal Chronicles - Echoes of Time (Europe) (En,Fr,De,Es)",
+    "ref": "1DF23D5A3A655BDD587C360B581202931D0F66E1"
   },
   "C2A1613F6C979915968BC5A120F99FFC5DDBE050": {
-    "name": "Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es) (Demo) (Kiosk)"
+    "name": "Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es) (Demo) (Kiosk)",
+    "ref": "F116A31FCBC11E07C7C9ADE17861F83584CFD9C8"
   },
   "0D6CD427B3ED11BFDB4423FD06E3832B476C5DD5": {
-    "name": "Final Fantasy Crystal Chronicles - Ring of Fates (Japan)"
+    "name": "Final Fantasy Crystal Chronicles - Ring of Fates (Japan)",
+    "ref": "F116A31FCBC11E07C7C9ADE17861F83584CFD9C8"
   },
   "F116A31FCBC11E07C7C9ADE17861F83584CFD9C8": {
     "name": "Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es)",
@@ -5797,7 +5826,8 @@
     "logo": "QmRmjuEVE5byUW3ZXcx7bvjskYXMQghvUsW5DBRyUmsmif"
   },
   "E7AA73AFFC4106081C2C04A63540937AF399BB25": {
-    "name": "Final Fantasy Crystal Chronicles - Ring of Fates (Europe) (En,Fr,De,Es)"
+    "name": "Final Fantasy Crystal Chronicles - Ring of Fates (Europe) (En,Fr,De,Es)",
+    "ref": "F116A31FCBC11E07C7C9ADE17861F83584CFD9C8"
   },
   "770B0F16B4CF21315893C806BF2599383C852C55": {
     "name": "Final Fantasy Fables - Chocobo Tales (USA)",
@@ -5808,13 +5838,16 @@
     "ref": "770B0F16B4CF21315893C806BF2599383C852C55"
   },
   "FBF6C8390D4A2C6369F396CF421807A84CEB9C32": {
-    "name": "Final Fantasy Fables - Chocobo Tales (Europe) (En,Fr,De,Es,It)"
+    "name": "Final Fantasy Fables - Chocobo Tales (Europe) (En,Fr,De,Es,It)",
+    "ref": "770B0F16B4CF21315893C806BF2599383C852C55"
   },
   "A224DD341F0FA131C3E2C83BFBDE8A67A586F2D6": {
-    "name": "Final Fantasy III (Europe) (En,Fr,De,Es,It)"
+    "name": "Final Fantasy III (Europe) (En,Fr,De,Es,It)",
+    "ref": "9ED0244AFBF9DCBE022A40C32026FB746CB6E850"
   },
   "DFB60307C3987041CA06B7E3642400A09BD8B45F": {
-    "name": "Final Fantasy III (Japan)"
+    "name": "Final Fantasy III (Japan)",
+    "ref": "9ED0244AFBF9DCBE022A40C32026FB746CB6E850"
   },
   "9ED0244AFBF9DCBE022A40C32026FB746CB6E850": {
     "name": "Final Fantasy III (USA)",
@@ -5825,7 +5858,8 @@
     "ref": "9ED0244AFBF9DCBE022A40C32026FB746CB6E850"
   },
   "11400E26610E9247871AC963576A83EBBEBD6CF1": {
-    "name": "Final Fantasy IV (USA) (En,Fr,Es)"
+    "name": "Final Fantasy IV (USA) (En,Fr,Es)",
+    "ref": "36D44994DC87BEE4524F35E91C3F95E59422F404"
   },
   "36D44994DC87BEE4524F35E91C3F95E59422F404": {
     "name": "Final Fantasy IV (Europe) (En,Fr,De,Es,It)",
@@ -5833,13 +5867,15 @@
     "logo": "QmWJ3q5HgBwaKFYMqfmiKSfcdt5Dw5R5EMtHCM3WCH5pba"
   },
   "3F4DD18C83136935C879FA53F96FB77B699DF47D": {
-    "name": "Final Fantasy IV (Japan)"
+    "name": "Final Fantasy IV (Japan)",
+    "ref": "36D44994DC87BEE4524F35E91C3F95E59422F404"
   },
   "2B640AD9C7E6C5945BD93C2D9B24B657ACFDA1BC": {
     "name": "Final Fantasy Tactics A2 - Fuuketsu no Grimoire (Japan)"
   },
   "09A4A90EB05D187E7CD896497866D58DA36353B0": {
-    "name": "Final Fantasy Tactics A2 - Grimoire of the Rift (Europe) (En,Fr,De,Es)"
+    "name": "Final Fantasy Tactics A2 - Grimoire of the Rift (Europe) (En,Fr,De,Es)",
+    "ref": "7EC7646C527BE6AF87E3C7AB0ED454F952842001"
   },
   "7EC7646C527BE6AF87E3C7AB0ED454F952842001": {
     "name": "Final Fantasy Tactics A2 - Grimoire of the Rift (USA) (En,Fr,Es)",
@@ -5847,10 +5883,12 @@
     "logo": "QmdUaWdV6weviHP2HFurEg11djGskd5G49iWNTjLbanMhz"
   },
   "B75F226EA6698AC28DEC97218336D080CAA06702": {
-    "name": "Final Fantasy XII - Revenant Wings (Europe) (En,Fr,De,Es,It)"
+    "name": "Final Fantasy XII - Revenant Wings (Europe) (En,Fr,De,Es,It)",
+    "ref": "73B487A3410F9180FDFBA14EE37C5FFFA9602FE3"
   },
   "AAA4DF3748BCB87E98BD9C179D98F9E41C709BB4": {
-    "name": "Final Fantasy XII - Revenant Wings (Japan)"
+    "name": "Final Fantasy XII - Revenant Wings (Japan)",
+    "ref": "73B487A3410F9180FDFBA14EE37C5FFFA9602FE3"
   },
   "73B487A3410F9180FDFBA14EE37C5FFFA9602FE3": {
     "name": "Final Fantasy XII - Revenant Wings (USA)",
@@ -6304,7 +6342,8 @@
     "logo": "QmNNCWrzjEorAXqUT8o4ChDF98i5k7WpnaLV3SVdncPYpw"
   },
   "484CC23C710BD529AF13EAB6088459565B9DCE30": {
-    "name": "Game & Watch Collection (USA, Europe) (Club Nintendo)"
+    "name": "Game & Watch Collection (USA, Europe) (Club Nintendo)",
+    "ref": "91D38E6DAA1063E995F5F43B4C5E2F6EF0A740F3"
   },
   "DF838A91193C69634A7B2A7879510D548BB671ED": {
     "name": "Game & Watch Collection 2 (Japan) (Club Nintendo)",
@@ -6312,7 +6351,8 @@
     "logo": "QmZ8ZoYSDmy3oy3EDjtXQV9L9fL7Kop9YuKCmKGWjeEhjb"
   },
   "73B5F715B882E4BBCC528679D4945FCF4377F681": {
-    "name": "Game & Watch Collection 2 (USA) (Club Nintendo)"
+    "name": "Game & Watch Collection 2 (USA) (Club Nintendo)",
+    "ref": "DF838A91193C69634A7B2A7879510D548BB671ED"
   },
   "3CEB4F1BE9181A629FE61F5A7C0BDA08064C5D42": {
     "name": "Game Center CX - Arino no Chousenjou (Japan)"
@@ -6495,7 +6535,8 @@
     "name": "Ghost Trick (Japan)"
   },
   "BCFE74E5592EEF3255FD23758B772226960A1B0B": {
-    "name": "Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It)"
+    "name": "Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It)",
+    "ref": "52CA1554A8A4C5F7391C8332B78D17CEA781747E"
   },
   "52CA1554A8A4C5F7391C8332B78D17CEA781747E": {
     "name": "Ghost Trick - Phantom Detective (Europe) (En,Fr,De,Es,It)",
@@ -6503,7 +6544,8 @@
     "logo": "Qmd3jJyAJW6JnijktrtAPFhSjPWpg7Jg4AE26SF2W6mAo7"
   },
   "29645E44B0F2AB2CD89CE9A99C4A50D95C35D223": {
-    "name": "Ghostbusters - The Video Game (USA) (En,Fr,Es)"
+    "name": "Ghostbusters - The Video Game (USA) (En,Fr,Es)",
+    "ref": "332D8EA3C00A1BA19E9FEB87207B3D71A8EFA912"
   },
   "332D8EA3C00A1BA19E9FEB87207B3D71A8EFA912": {
     "name": "Ghostbusters - The Video Game (Europe) (En,Fr,De,Es,It,Nl)",
@@ -6730,7 +6772,8 @@
     "name": "Grand Galop (Europe) (En,Fr)"
   },
   "E0074B1E9D2415D77832CBD8330B8CB100D8ED73": {
-    "name": "Grand Theft Auto - Chinatown Wars (Japan)"
+    "name": "Grand Theft Auto - Chinatown Wars (Japan)",
+    "ref": "C490E1E9AABD09AAD89F1EB836F4327DD74F9FD2"
   },
   "C490E1E9AABD09AAD89F1EB836F4327DD74F9FD2": {
     "name": "Grand Theft Auto - Chinatown Wars (USA) (En,Fr,De,Es,It)",
@@ -6741,7 +6784,8 @@
     "ref": "C490E1E9AABD09AAD89F1EB836F4327DD74F9FD2"
   },
   "7658B39FEDE7DDCD27D27046DD2EC699C082B7D6": {
-    "name": "Grand Theft Auto - Chinatown Wars (Europe) (En,Fr,De,Es,It)"
+    "name": "Grand Theft Auto - Chinatown Wars (Europe) (En,Fr,De,Es,It)",
+    "ref": "C490E1E9AABD09AAD89F1EB836F4327DD74F9FD2"
   },
   "D9BEEBB91B2822806E7890A51B2AD26C7001C834": {
     "name": "Grand Trucker Aniki - Shigoto to Kenka to Koi Moyou (Japan)"
@@ -7172,16 +7216,19 @@
     "ref": "1803922A340133098C5FAF1BE21E3971C02FB2A4"
   },
   "07FC9DC48D7A7CF8C43D4A49E08C480B04EFC7D9": {
-    "name": "Harvest Moon - Frantic Farming (Europe)"
+    "name": "Harvest Moon - Frantic Farming (Europe)",
+    "ref": "1803922A340133098C5FAF1BE21E3971C02FB2A4"
   },
   "626C67FA76A54A50B550C8638EC8ADCCBE0DB9E2": {
-    "name": "Harvest Moon - Frantic Farming (Europe) (En,De)"
+    "name": "Harvest Moon - Frantic Farming (Europe) (En,De)",
+    "ref": "1803922A340133098C5FAF1BE21E3971C02FB2A4"
   },
   "577467BB9C54A92AA25B6B7E757EAE71740ED196": {
     "name": "Harvest Moon - The Tale of Two Towns (Europe) (En,Fr,De)"
   },
   "98106E876DB71627E5330FA288E2857B3CEDD18E": {
-    "name": "Harvest Moon DS (Europe) (En,Fr,De,Es,It) (Rev 1)"
+    "name": "Harvest Moon DS (Europe) (En,Fr,De,Es,It) (Rev 1)",
+    "ref": "857234A11B4A8BDB20FF60D0B83DBEB9D8E3512E"
   },
   "857234A11B4A8BDB20FF60D0B83DBEB9D8E3512E": {
     "name": "Harvest Moon DS (USA)",
@@ -7189,10 +7236,12 @@
     "logo": "Qmdn66hQdwkBzN4RKXaTHTY2pCL3oFDQKXHSRXTPcwiKrV"
   },
   "C7613DA82C02D41607A5B4BA44D08CF0CBEE8846": {
-    "name": "Harvest Moon DS (Europe) (En,Fr,De,Es,It)"
+    "name": "Harvest Moon DS (Europe) (En,Fr,De,Es,It)",
+    "ref": "857234A11B4A8BDB20FF60D0B83DBEB9D8E3512E"
   },
   "3201E573C02319851B7F19CD87DAE5817E63DA14": {
-    "name": "Harvest Moon DS (USA) (Rev 1)"
+    "name": "Harvest Moon DS (USA) (Rev 1)",
+    "ref": "857234A11B4A8BDB20FF60D0B83DBEB9D8E3512E"
   },
   "6D7012AFA7FECEB984610ED1D13AB139374B588D": {
     "name": "Harvest Moon DS - Grand Bazaar (Europe) (En,Fr,De,Es,It)"
@@ -7201,7 +7250,8 @@
     "name": "Harvest Moon DS - Grand Bazaar (USA)"
   },
   "1D3AFA3BB17E3DBF0C1A2726AA0A29D4FC7301A9": {
-    "name": "Harvest Moon DS - Island of Happiness (Europe) (En,Fr,De,Es,It)"
+    "name": "Harvest Moon DS - Island of Happiness (Europe) (En,Fr,De,Es,It)",
+    "ref": "5B30601C44106C8B125DB4C7BC20A82A8DFB0CF0"
   },
   "5B30601C44106C8B125DB4C7BC20A82A8DFB0CF0": {
     "name": "Harvest Moon DS - Island of Happiness (USA)",
@@ -7212,7 +7262,8 @@
     "ref": "5B30601C44106C8B125DB4C7BC20A82A8DFB0CF0"
   },
   "16C2AB582000D4757F82299C4933DAA909E17E79": {
-    "name": "Harvest Moon DS - Sunshine Islands (Europe) (En,Fr,De,Es,It)"
+    "name": "Harvest Moon DS - Sunshine Islands (Europe) (En,Fr,De,Es,It)",
+    "ref": "BBB18E8A4AA9FD845223D679C0E9207DC9374477"
   },
   "BBB18E8A4AA9FD845223D679C0E9207DC9374477": {
     "name": "Harvest Moon DS - Sunshine Islands (USA)",
@@ -7378,7 +7429,8 @@
     "logo": "QmeBmL6kVwKAUCazWZESwiKv5kg8Awv5FCvJMSi75Q3URd"
   },
   "1CD64CE27274A74B9E807412BCB6B514E4AADE59": {
-    "name": "Heroes of Mana (Europe)"
+    "name": "Heroes of Mana (Europe)",
+    "ref": "71D040AC7C41B58C24C5022DB75ABD3E3C5111CC"
   },
   "8F89071A0D986CC7653348819D82C333048DBD7F": {
     "name": "Hexe Lilli Entdeckt Europa (Germany)"
@@ -9483,16 +9535,20 @@
     "ref": "F40F9C226FA2E2B7B54E092B2CAE73352ED31F86"
   },
   "6FAE8F5BBE80114B4E2535260EAB5F4D0FC8A844": {
-    "name": "Kingdom Hearts - 358-2 Days (Europe) (En,Fr,De,Es,It)"
+    "name": "Kingdom Hearts - 358-2 Days (Europe) (En,Fr,De,Es,It)",
+    "ref": "F40F9C226FA2E2B7B54E092B2CAE73352ED31F86"
   },
   "379A700AB347131AB38202281F804F3A49D26926": {
-    "name": "Kingdom Hearts - 358-2 Days (Japan)"
+    "name": "Kingdom Hearts - 358-2 Days (Japan)",
+    "ref": "F40F9C226FA2E2B7B54E092B2CAE73352ED31F86"
   },
   "ABC13E5854D49465F55937254B247D819CFD7F28": {
-    "name": "Kingdom Hearts - 358-2 Days (Japan) (Rev 1)"
+    "name": "Kingdom Hearts - 358-2 Days (Japan) (Rev 1)",
+    "ref": "F40F9C226FA2E2B7B54E092B2CAE73352ED31F86"
   },
   "DA757493BEB39DABD19BC762B502059EB2775BB8": {
-    "name": "Kingdom Hearts - Re-coded (Japan)"
+    "name": "Kingdom Hearts - Re-coded (Japan)",
+    "ref": "3E5E84D606BD3951C6D5572E3AA143E6CBBD5611"
   },
   "3E5E84D606BD3951C6D5572E3AA143E6CBBD5611": {
     "name": "Kingdom Hearts - Re-coded (USA) (En,Fr,Es)",
@@ -9503,7 +9559,8 @@
     "ref": "3E5E84D606BD3951C6D5572E3AA143E6CBBD5611"
   },
   "B9D45DCD654265FC7B8BA83F1BB3C15F011D6ACF": {
-    "name": "Kingdom Hearts - Re-coded (Europe) (En,Fr,De,Es,It)"
+    "name": "Kingdom Hearts - Re-coded (Europe) (En,Fr,De,Es,It)",
+    "ref": "3E5E84D606BD3951C6D5572E3AA143E6CBBD5611"
   },
   "5CF1E9773C9B5707D9091F84B21AD4A4BD628F88": {
     "name": "Kira Kira Pop Princess (Europe) (En,Fr,It)"
@@ -9553,7 +9610,8 @@
     "logo": "QmaRiCQHUym9bFo6CBUH88UvmLY2dXbVKrz3krTUDzPZuq"
   },
   "384923366AAC7F0722663C12A5FDBD5A420833F1": {
-    "name": "Kirby Mass Attack (Europe) (En,Fr,De,Es,It)"
+    "name": "Kirby Mass Attack (Europe) (En,Fr,De,Es,It)",
+    "ref": "90052239CB1598DA0A44CE70D516FB82BD1A83D5"
   },
   "0BEC02A27800DA1194A48BC92E35DE8EDEE02AEE": {
     "name": "Kirby Super Star Ultra (USA)",
@@ -9564,10 +9622,12 @@
     "ref": "0BEC02A27800DA1194A48BC92E35DE8EDEE02AEE"
   },
   "EE9243BB2FBF8D1B002A0A6686ACA3EBA28B9A34": {
-    "name": "Kirby Super Star Ultra (Europe) (En,Fr,De,Es,It)"
+    "name": "Kirby Super Star Ultra (Europe) (En,Fr,De,Es,It)",
+    "ref": "0BEC02A27800DA1194A48BC92E35DE8EDEE02AEE"
   },
   "5C8C58B8E95C258E7A3CC98D17A8542BC0026D82": {
-    "name": "Kirby Super Star Ultra (USA) (Demo) (Kiosk)"
+    "name": "Kirby Super Star Ultra (USA) (Demo) (Kiosk)",
+    "ref": "0BEC02A27800DA1194A48BC92E35DE8EDEE02AEE"
   },
   "3D79AD89D2232A1B42F288F6335198C2513D1CA1": {
     "name": "Kirby Ultra Super Deluxe (Korea)"
@@ -10129,25 +10189,32 @@
     "logo": "QmRZH4rbWtianVJ51XEUcZgxvRnjNa435RW2AiBnVFBzvD"
   },
   "02BE55DB55CF254BD064D2B3EB368B92A5B4156D": {
-    "name": "Legend of Zelda, The - Phantom Hourglass (Europe) (En,Fr,De,Es,It)"
+    "name": "Legend of Zelda, The - Phantom Hourglass (Europe) (En,Fr,De,Es,It)",
+    "ref": "4C8F52DD719918BBCD46E73A8BAE8628139C1B85"
   },
   "FD425C9F76A26BD85EF880568F481BCD09A3D6EF": {
-    "name": "Legend of Zelda, The - Phantom Hourglass (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
+    "name": "Legend of Zelda, The - Phantom Hourglass (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+    "ref": "4C8F52DD719918BBCD46E73A8BAE8628139C1B85"
   },
   "AECC1ACBA0457F3EDDDB10DC31EAC0B7121F1E07": {
-    "name": "Legend of Zelda, The - Phantom Hourglass (USA) (Demo) (Kiosk)"
+    "name": "Legend of Zelda, The - Phantom Hourglass (USA) (Demo) (Kiosk)",
+    "ref": "4C8F52DD719918BBCD46E73A8BAE8628139C1B85"
   },
   "1F0921B5E99DB9D92D24710F1B004E4F3C997B73": {
-    "name": "Legend of Zelda, The - Spirit Tracks (USA, Australia) (En,Fr,Es)"
+    "name": "Legend of Zelda, The - Spirit Tracks (USA, Australia) (En,Fr,Es)",
+    "ref": "9953BCE6CE32C35D084300C32B555B40AA013047"
   },
   "9E99CC803A14CE038EB908DB585431F8254F09EE": {
-    "name": "Legend of Zelda, The - Spirit Tracks (Europe) (En,Fr,De,Es,It)"
+    "name": "Legend of Zelda, The - Spirit Tracks (Europe) (En,Fr,De,Es,It)",
+    "ref": "9953BCE6CE32C35D084300C32B555B40AA013047"
   },
   "4177EE31BE8FA557AD2BB79BCE51D9759FFDDFA7": {
-    "name": "Legend of Zelda, The - Spirit Tracks (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
+    "name": "Legend of Zelda, The - Spirit Tracks (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+    "ref": "9953BCE6CE32C35D084300C32B555B40AA013047"
   },
   "DCB221A89ACB894503A461C2C7D4CFDAD9A06B68": {
-    "name": "Legend of Zelda, The - Spirit Tracks (Europe) (En,Fr,De,Es,It) (Rev 1)"
+    "name": "Legend of Zelda, The - Spirit Tracks (Europe) (En,Fr,De,Es,It) (Rev 1)",
+    "ref": "9953BCE6CE32C35D084300C32B555B40AA013047"
   },
   "9953BCE6CE32C35D084300C32B555B40AA013047": {
     "name": "Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es) (Rev 1)",
@@ -10158,7 +10225,8 @@
     "ref": "9953BCE6CE32C35D084300C32B555B40AA013047"
   },
   "BD4C01F5C853B818B3CA24453C9484750AB6E605": {
-    "name": "Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es) (Demo) (Kiosk)"
+    "name": "Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es) (Demo) (Kiosk)",
+    "ref": "9953BCE6CE32C35D084300C32B555B40AA013047"
   },
   "74518C26FFB83B1790AA4E18CE7600F3A2C1F93F": {
     "name": "Legend of Zelda, The - Twilight Princess - Preview Trailer (USA) (Promo)"
@@ -11283,7 +11351,8 @@
     "name": "Mario & Luigi - Bowser's Inside Story (USA) (Demo) (Kiosk)"
   },
   "E23DB7FF44D38299A6F1C377780378B191592A7E": {
-    "name": "Mario & Luigi - Partners in Time (USA) (Rev 1)"
+    "name": "Mario & Luigi - Partners in Time (USA) (Rev 1)",
+    "ref": "89C9136DB3C3975C451A907E8BD6861CE6B81557"
   },
   "89C9136DB3C3975C451A907E8BD6861CE6B81557": {
     "name": "Mario & Luigi - Partners in Time (USA)",
@@ -11291,13 +11360,16 @@
     "logo": "Qmf62GB4GjvF7FMLjhbYPuXhc66USyby4wqP1CJPpzkzPE"
   },
   "BA4EC2F99B4F2E0047601552BCCF00AA73E28701": {
-    "name": "Mario & Luigi - Partners in Time (Europe) (En,Fr,De,Es,It)"
+    "name": "Mario & Luigi - Partners in Time (Europe) (En,Fr,De,Es,It)",
+    "ref": "89C9136DB3C3975C451A907E8BD6861CE6B81557"
   },
   "16A252DAFA066F12092641D7668B2808535DA8D5": {
-    "name": "Mario & Luigi - Partners in Time (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
+    "name": "Mario & Luigi - Partners in Time (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+    "ref": "89C9136DB3C3975C451A907E8BD6861CE6B81557"
   },
   "6F52C4B75A46FCAD54B0363D615009BB5D94D7B3": {
-    "name": "Mario & Luigi - Partners in Time (USA) (Demo) (Kiosk)"
+    "name": "Mario & Luigi - Partners in Time (USA) (Demo) (Kiosk)",
+    "ref": "89C9136DB3C3975C451A907E8BD6861CE6B81557"
   },
   "6C34E0068CFF0C972A1A68F16B41E7C2CF3B058E": {
     "name": "Mario & Luigi RPG - Siganui Partner (Korea)"
@@ -11344,22 +11416,28 @@
     "logo": "QmTzbNpbaLADsp7wUhYod1ZiMDWvu8hd7kMr77tTf7gHV2"
   },
   "CE97D9B43F0D3CA0D48B781983E8A16F6393378F": {
-    "name": "Mario Kart DS (Europe) (En,Fr,De,Es,It)"
+    "name": "Mario Kart DS (Europe) (En,Fr,De,Es,It)",
+    "ref": "691E00D9A5DD80B04F80CC7559503E8B06848785"
   },
   "A4C790B6CD1E45A9728001081845C17F06985A17": {
-    "name": "Mario Kart DS (Japan)"
+    "name": "Mario Kart DS (Japan)",
+    "ref": "691E00D9A5DD80B04F80CC7559503E8B06848785"
   },
   "473BB49FF114D9204AA3EA4FEF052B786DB7A615": {
-    "name": "Mario Kart DS (Korea)"
+    "name": "Mario Kart DS (Korea)",
+    "ref": "691E00D9A5DD80B04F80CC7559503E8B06848785"
   },
   "35D0AC392376B8D310A1F8FFB4F0E6E495A2865B": {
-    "name": "Mario Kart DS (USA) (Demo) (Kiosk)"
+    "name": "Mario Kart DS (USA) (Demo) (Kiosk)",
+    "ref": "691E00D9A5DD80B04F80CC7559503E8B06848785"
   },
   "C0F195771A9D171090FF30556001EAA9BBDF3FCE": {
-    "name": "Mario Kart DS (Japan) (Demo) (Kiosk)"
+    "name": "Mario Kart DS (Japan) (Demo) (Kiosk)",
+    "ref": "691E00D9A5DD80B04F80CC7559503E8B06848785"
   },
   "381223586BEA95763A6698BB13215A02BA2BE5E1": {
-    "name": "Mario Kart DS (Europe) (Demo) (Kiosk, Multiplayer)"
+    "name": "Mario Kart DS (Europe) (Demo) (Kiosk, Multiplayer)",
+    "ref": "691E00D9A5DD80B04F80CC7559503E8B06848785"
   },
   "34F218EFF027E34B0FD29756FC14CC691F937409": {
     "name": "Mario Party DS (USA) (Rev 1)"
@@ -11766,10 +11844,12 @@
     "logo": "Qmbwd9PfiGhFb54RX19VUGk77AJUT8nEFFacfFqypCFVPt"
   },
   "6A3FA2B57D2FF148DED3222BC87EAF7DB03FC095": {
-    "name": "Mega Man Zero Collection (Europe)"
+    "name": "Mega Man Zero Collection (Europe)",
+    "ref": "D06F77EF716044F17B1BE49732356E2D60836CFF"
   },
   "8D588AAAF35DEC880D1F14CE83D2E4B0B382BE58": {
-    "name": "Mega Man ZX (Europe) (En,Ja,Fr,De,Es,It)"
+    "name": "Mega Man ZX (Europe) (En,Ja,Fr,De,Es,It)",
+    "ref": "5DAFBD6FF4C22A009A56166A40021E81A1653E23"
   },
   "5DAFBD6FF4C22A009A56166A40021E81A1653E23": {
     "name": "Mega Man ZX (USA)",
@@ -11782,7 +11862,8 @@
     "logo": "QmPdstbkjQodzD5FvuSSvWvALcw2riCY6ydPAZv55wC3Wz"
   },
   "67C35422710D327204E599854B93CBAD243DA3D0": {
-    "name": "Mega Man ZX - Advent (Europe) (En,Ja,Fr,De,Es,It)"
+    "name": "Mega Man ZX - Advent (Europe) (En,Ja,Fr,De,Es,It)",
+    "ref": "9CF3B54A11EB8D7628CF817EA9C2D25D67A65406"
   },
   "8A514D7B6034A6A319E4B9528F253A182CD6AA27": {
     "name": "Mega Mindy (Europe) (Fr,Nl) (Rev 1)"
@@ -11911,10 +11992,12 @@
     "name": "Metal Saga - Hagane no Kisetsu (Japan)"
   },
   "DF23052C3B8D152C9E05F195CFBD709C3F3E5E62": {
-    "name": "Metal Slug 7 (Japan)"
+    "name": "Metal Slug 7 (Japan)",
+    "ref": "F537675DE2B50AE7B940D206D06C38F0452E385C"
   },
   "1241D1DDD91FB4C2A3FA3D99AFA622FEC30DAC7B": {
-    "name": "Metal Slug 7 (USA)"
+    "name": "Metal Slug 7 (USA)",
+    "ref": "F537675DE2B50AE7B940D206D06C38F0452E385C"
   },
   "F537675DE2B50AE7B940D206D06C38F0452E385C": {
     "name": "Metal Slug 7 (Europe) (En,Fr,De,Es,It)",
@@ -11922,7 +12005,8 @@
     "logo": "QmdYnCF6mSxJZPDALQcDivRpSNg7QY5WKwCFhfizinPtJb"
   },
   "5DC33A1260E5C873B829EAEA54080CE8DFA1E24B": {
-    "name": "Metal Slug 7 (Korea) [b]"
+    "name": "Metal Slug 7 (Korea) [b]",
+    "ref": "F537675DE2B50AE7B940D206D06C38F0452E385C"
   },
   "8A64240D5DBF396C4403383FDCBE2F5CCEC909F2": {
     "name": "Metcha! Taiko no Tatsujin DS - 7-tsu no Shima no Daibouken (Japan)"
@@ -11984,10 +12068,12 @@
     "logo": "QmWPkQ4HcSaYUuNQZiiNRYAXXfUuRDH82RFS2XTcBX88S5"
   },
   "B1891BDD475B924F67D16B55E48EAC10D6EF86A1": {
-    "name": "Metroid Prime Pinball (Japan)"
+    "name": "Metroid Prime Pinball (Japan)",
+    "ref": "3F790C7E1F22C99315549ED5CB8FFB30F76A159C"
   },
   "788AED806B117BCA9B6F14809ACDA04409AED781": {
-    "name": "Metroid Prime Pinball (Europe) (En,Fr,De,Es,It)"
+    "name": "Metroid Prime Pinball (Europe) (En,Fr,De,Es,It)",
+    "ref": "3F790C7E1F22C99315549ED5CB8FFB30F76A159C"
   },
   "BC22C63FF4F5269530E2B280D6A607E424DC2691": {
     "name": "Metropolis Crime$ (Europe) (En,Fr,De,Es,It)"
@@ -12059,7 +12145,8 @@
     "name": "Michael Jackson - The Experience (USA) (En,Fr,Es)"
   },
   "CA02790053C0E75906CB41DD79E17878C1FE28AE": {
-    "name": "Micro Machines V4 (Europe) (En,Fr,De,Es,It)"
+    "name": "Micro Machines V4 (Europe) (En,Fr,De,Es,It)",
+    "ref": "E4E91DE582443C17954081C1ACAC2B514993BE6F"
   },
   "E4E91DE582443C17954081C1ACAC2B514993BE6F": {
     "name": "Micro Machines V4 (USA)",
@@ -12612,10 +12699,12 @@
     "logo": "QmQXnpTzs4w6dx6ycfo7vVQw66jXwC6YoD4TgUJgShSt5H"
   },
   "29A7297BE7482CF96B0525470E5F3A6354C9CB93": {
-    "name": "Mr. Driller - Drill Spirits (Japan)"
+    "name": "Mr. Driller - Drill Spirits (Japan)",
+    "ref": "591DFA3112C2D98E18B5B9EAE2E0F2F7F77F5278"
   },
   "6349550FFF3164A6EC2D95CF523B08C69F733F9F": {
-    "name": "Mr. Driller - Drill Spirits (Europe)"
+    "name": "Mr. Driller - Drill Spirits (Europe)",
+    "ref": "591DFA3112C2D98E18B5B9EAE2E0F2F7F77F5278"
   },
   "4E21F6315DBBB86DBA91E49F77C7D3653B8D6C32": {
     "name": "Mr. Incredible - Kyouteki Underminer Toujou (Japan)"
@@ -13605,10 +13694,12 @@
     "name": "New Shikakui Atama o Maruku Suru. DS - Kanzen Seiha Ketteiban (Japan)"
   },
   "A22713711B5CD58DFBAFC9688DADEA66C59888CE": {
-    "name": "New Super Mario Bros. (USA)"
+    "name": "New Super Mario Bros. (USA)",
+    "ref": "B0F7886720E842ED922569E1BB5C39C0FA090331"
   },
   "2B1D4C6AEAFDD163AF34A7B1281CAECE834A8F57": {
-    "name": "New Super Mario Bros. (Japan)"
+    "name": "New Super Mario Bros. (Japan)",
+    "ref": "B0F7886720E842ED922569E1BB5C39C0FA090331"
   },
   "B0F7886720E842ED922569E1BB5C39C0FA090331": {
     "name": "New Super Mario Bros. (Europe) (En,Fr,De,Es,It)",
@@ -13616,19 +13707,24 @@
     "logo": "QmZsjTcan9qBi3HL95w3V1ih6i9ov7HrwzKaEzjpcnitCg"
   },
   "DCB195F10FC08E028004301AF1B0B59F535192E6": {
-    "name": "New Super Mario Bros. (Korea)"
+    "name": "New Super Mario Bros. (Korea)",
+    "ref": "B0F7886720E842ED922569E1BB5C39C0FA090331"
   },
   "D7C8F08D57EDD33DFBEC62BC2136AF137BE9B50E": {
-    "name": "New Super Mario Bros. (Japan) (Demo) (Kiosk)"
+    "name": "New Super Mario Bros. (Japan) (Demo) (Kiosk)",
+    "ref": "B0F7886720E842ED922569E1BB5C39C0FA090331"
   },
   "CDEB4E97EA688EC2EBBC12856BCE72B071DE57D3": {
-    "name": "New Super Mario Bros. (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk, Y78P)"
+    "name": "New Super Mario Bros. (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk, Y78P)",
+    "ref": "B0F7886720E842ED922569E1BB5C39C0FA090331"
   },
   "F19EFD437F225ED7FBE42BB6ADC9284E7DBF3709": {
-    "name": "New Super Mario Bros. (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
+    "name": "New Super Mario Bros. (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+    "ref": "B0F7886720E842ED922569E1BB5C39C0FA090331"
   },
   "812D26A6B6A519231D6FEB4D9C8F51DB992DB10F": {
-    "name": "New Super Mario Bros. (USA) (Demo) (Kiosk)"
+    "name": "New Super Mario Bros. (USA) (Demo) (Kiosk)",
+    "ref": "B0F7886720E842ED922569E1BB5C39C0FA090331"
   },
   "037C837D5E14CE33C207A5D7D75A98C7C953722B": {
     "name": "New Touch Party Game (Europe)"
@@ -14318,7 +14414,8 @@
     "name": "Pac'n Ball (Korea)"
   },
   "98B686BA7D762F45148D811E43F4B31DBA2FA1F3": {
-    "name": "Pac'n Roll (Japan)"
+    "name": "Pac'n Roll (Japan)",
+    "ref": "3C1E8D8E584036C3A52EB3569F4D745938E0ABC3"
   },
   "3C1E8D8E584036C3A52EB3569F4D745938E0ABC3": {
     "name": "Pac'n Roll (USA)",
@@ -14326,7 +14423,8 @@
     "logo": "QmXNQbyXTroeUSgKRzXLU5fbpWfsZQHUgdTMA8VkXDpMY1"
   },
   "052A09EE7B8D360B4D09741271044A8E0605FFBB": {
-    "name": "Pac'n Roll (Europe) (En,Fr,De,Es,It)"
+    "name": "Pac'n Roll (Europe) (En,Fr,De,Es,It)",
+    "ref": "3C1E8D8E584036C3A52EB3569F4D745938E0ABC3"
   },
   "931B94BE8CC00CF5EE827987166E7EF019509371": {
     "name": "Pachi & Slot Hisshoubon DS (Japan)"
@@ -14808,10 +14906,12 @@
     "logo": "QmXihukLRT5WTpfYEG7ky9H9GNgSkqSLXhtAc2ZMWQwZ3Z"
   },
   "5F4BA90675E1D44BE3A9679076A697ADF695E5D3": {
-    "name": "Phoenix Wright - Ace Attorney (Europe) (En,Fr)"
+    "name": "Phoenix Wright - Ace Attorney (Europe) (En,Fr)",
+    "ref": "0631D0CD418AC4F1CBC387A85303C8AD8B104D58"
   },
   "335A45D32C9177BB110CFE94D5DAA37655DF3C5C": {
-    "name": "Phoenix Wright - Ace Attorney (Europe) (De,Es,It)"
+    "name": "Phoenix Wright - Ace Attorney (Europe) (De,Es,It)",
+    "ref": "0631D0CD418AC4F1CBC387A85303C8AD8B104D58"
   },
   "51EE2DDE4ADBD112E17780B4E5C8637CE5383418": {
     "name": "Phoenix Wright - Ace Attorney - Justice for All (USA)",
@@ -14819,19 +14919,24 @@
     "logo": "QmfDPZN4dvtsQY59N5GGDXCcR7b6kczakNNQLNbcZbZekW"
   },
   "FF2E3E693A103F4BA251ABFA6832DC8ED229E1A1": {
-    "name": "Phoenix Wright - Ace Attorney - Justice for All (Europe) (En,Fr,De)"
+    "name": "Phoenix Wright - Ace Attorney - Justice for All (Europe) (En,Fr,De)",
+    "ref": "51EE2DDE4ADBD112E17780B4E5C8637CE5383418"
   },
   "4FE1C75FF115F2F671954C7C3F8C7A727D04FD8B": {
-    "name": "Phoenix Wright - Ace Attorney - Justice for All (Europe) (Es,It)"
+    "name": "Phoenix Wright - Ace Attorney - Justice for All (Europe) (Es,It)",
+    "ref": "51EE2DDE4ADBD112E17780B4E5C8637CE5383418"
   },
   "1D6DEFA2088CA3A945CF1A92B9B339408A8041EC": {
-    "name": "Phoenix Wright - Ace Attorney - Trials and Tribulations (Europe) (Fr,De)"
+    "name": "Phoenix Wright - Ace Attorney - Trials and Tribulations (Europe) (Fr,De)",
+    "ref": "EBB295BF6D0CDCBA494A53531C89AC9A1369819A"
   },
   "08BE5916F9517F97CF3CCAE4E89AE1D3AB220981": {
-    "name": "Phoenix Wright - Ace Attorney - Trials and Tribulations (Europe) (Es,It)"
+    "name": "Phoenix Wright - Ace Attorney - Trials and Tribulations (Europe) (Es,It)",
+    "ref": "EBB295BF6D0CDCBA494A53531C89AC9A1369819A"
   },
   "1734C3BB6F0D8AC0DEB56272A7CE207802B6D4A1": {
-    "name": "Phoenix Wright - Ace Attorney - Trials and Tribulations (Europe)"
+    "name": "Phoenix Wright - Ace Attorney - Trials and Tribulations (Europe)",
+    "ref": "EBB295BF6D0CDCBA494A53531C89AC9A1369819A"
   },
   "EBB295BF6D0CDCBA494A53531C89AC9A1369819A": {
     "name": "Phoenix Wright - Ace Attorney - Trials and Tribulations (USA)",
@@ -15235,7 +15340,8 @@
     "name": "Pokemon - Goldene Edition HeartGold (Germany)"
   },
   "4FCDED0E2713DC03929845DE631D0932EA2B5A37": {
-    "name": "Pokemon - HeartGold Version (USA)"
+    "name": "Pokemon - HeartGold Version (USA)",
+    "ref": "EB47AB4BA0326AE842135F62C7EC68CF85C9785F"
   },
   "EB47AB4BA0326AE842135F62C7EC68CF85C9785F": {
     "name": "Pokemon - HeartGold Version (Europe)",
@@ -15255,7 +15361,8 @@
     "name": "Pokemon - Platin-Edition (Germany)"
   },
   "CE81046EDA7D232513069519CB2085349896DEC7": {
-    "name": "Pokemon - Platinum Version (USA)"
+    "name": "Pokemon - Platinum Version (USA)",
+    "ref": "8D15CD443D4E83E20493C79D3F9DC408C4F51AE0"
   },
   "8D15CD443D4E83E20493C79D3F9DC408C4F51AE0": {
     "name": "Pokemon - Platinum Version (Europe)",
@@ -15263,7 +15370,8 @@
     "logo": "QmNNFaTh21buA1FGyvbMndDaqXRKrCmp9aUEFoyNuC4rET"
   },
   "0862EC35B24DE5C7E2DCB88C9EEA0873110D755C": {
-    "name": "Pokemon - Platinum Version (USA) (Rev 1)"
+    "name": "Pokemon - Platinum Version (USA) (Rev 1)",
+    "ref": "8D15CD443D4E83E20493C79D3F9DC408C4F51AE0"
   },
   "F5688BD617BE7E67A150732F42CFAE6AE104B2CB": {
     "name": "Pokemon - Schwarze Edition (Germany) (NDSi Enhanced)"
@@ -15275,7 +15383,8 @@
     "name": "Pokemon - Silberne Edition SoulSilver (Germany)"
   },
   "F8DC38EA20C17541A43B58C5E6D18C1732C7E582": {
-    "name": "Pokemon - SoulSilver Version (USA)"
+    "name": "Pokemon - SoulSilver Version (USA)",
+    "ref": "27A25C23AA1C0ECABE48A30A004B96C9DBC97730"
   },
   "27A25C23AA1C0ECABE48A30A004B96C9DBC97730": {
     "name": "Pokemon - SoulSilver Version (Europe)",
@@ -15408,13 +15517,16 @@
     "logo": "QmR2E4c5ALa3MxpUupUyTpW4cb4ncCrZSgu2o3xpzw9VZD"
   },
   "6F01887356268DE39085DF01490347BBCC3AA330": {
-    "name": "Pokemon Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It)"
+    "name": "Pokemon Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It)",
+    "ref": "503EDEF4FE6088BCA00616EFCAC3B13DA90CD105"
   },
   "A955EBB548DC64498C438E7F3723282AB0F9A8C0": {
-    "name": "Pokemon Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
+    "name": "Pokemon Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+    "ref": "503EDEF4FE6088BCA00616EFCAC3B13DA90CD105"
   },
   "CF2ED16685164D650756B1061A66154163CA84E5": {
-    "name": "Pokemon Mystery Dungeon - Blue Rescue Team (USA) (Demo) (Kiosk)"
+    "name": "Pokemon Mystery Dungeon - Blue Rescue Team (USA) (Demo) (Kiosk)",
+    "ref": "503EDEF4FE6088BCA00616EFCAC3B13DA90CD105"
   },
   "EE69BB80FF278851FB5074A118039BD4A86F01E0": {
     "name": "Pokemon Mystery Dungeon - Explorers of Darkness (USA)",
@@ -15422,7 +15534,8 @@
     "logo": "QmbvhrCX6HDTPzpZcf1kpcQ2LNLmJZWpj7XwVf8u8Jj4Mr"
   },
   "B91A9716F08E2780AB4392331DE2349AAEC3D42A": {
-    "name": "Pokemon Mystery Dungeon - Explorers of Darkness (Europe) (En,Fr,De,Es,It)"
+    "name": "Pokemon Mystery Dungeon - Explorers of Darkness (Europe) (En,Fr,De,Es,It)",
+    "ref": "EE69BB80FF278851FB5074A118039BD4A86F01E0"
   },
   "5FA96CA8D8DD6405D6CD2BAD73ED68BC73A9D152": {
     "name": "Pokemon Mystery Dungeon - Explorers of Sky (USA)",
@@ -15433,13 +15546,16 @@
     "ref": "5FA96CA8D8DD6405D6CD2BAD73ED68BC73A9D152"
   },
   "C838A5ADF1ED32D2DA8454976E5B1A1AA189C139": {
-    "name": "Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)"
+    "name": "Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)",
+    "ref": "5FA96CA8D8DD6405D6CD2BAD73ED68BC73A9D152"
   },
   "E2C704D22D603E6D31903033544FFC3454224B1F": {
-    "name": "Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
+    "name": "Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+    "ref": "5FA96CA8D8DD6405D6CD2BAD73ED68BC73A9D152"
   },
   "73B4D8D9030E01593D65A3F059863240E7FF92AE": {
-    "name": "Pokemon Mystery Dungeon - Explorers of Sky (USA) (Demo) (Kiosk)"
+    "name": "Pokemon Mystery Dungeon - Explorers of Sky (USA) (Demo) (Kiosk)",
+    "ref": "5FA96CA8D8DD6405D6CD2BAD73ED68BC73A9D152"
   },
   "19763F0065A6B32F7B5C2A936404A65EAFB0238A": {
     "name": "Pokemon Mystery Dungeon - Explorers of Time (USA)",
@@ -15447,7 +15563,8 @@
     "logo": "QmTne7P6ATPGBY8uL5TgawrNQNM3tbFdQDuSkGBGvJ2UZV"
   },
   "B1917415190C8D5D9B65B17B75D350AC661959A2": {
-    "name": "Pokemon Mystery Dungeon - Explorers of Time (Europe) (En,Fr,De,Es,It)"
+    "name": "Pokemon Mystery Dungeon - Explorers of Time (Europe) (En,Fr,De,Es,It)",
+    "ref": "19763F0065A6B32F7B5C2A936404A65EAFB0238A"
   },
   "D2758A722075891A3981882A14895B8726DDA8CF": {
     "name": "Pokemon Mystery Dungeon - Explorers of Time + Pokemon Mystery Dungeon - Explorers of Darkness (USA) (Demo) (Kiosk)"
@@ -15915,7 +16032,8 @@
     "name": "Professor Layton and Pandora's Box (Europe) (Demo) (Kiosk)"
   },
   "3395291FD96FB7491C7B7211A627CD7A59356277": {
-    "name": "Professor Layton and the Curious Village (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
+    "name": "Professor Layton and the Curious Village (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+    "ref": "DD2841E98B0301831C617E401D8400F7ADC394B0"
   },
   "DD2841E98B0301831C617E401D8400F7ADC394B0": {
     "name": "Professor Layton and the Curious Village (USA, Australia)",
@@ -15923,10 +16041,12 @@
     "logo": "QmfQKJXgTrUaoBHb83Xmx6uZx3e1YbCWiFeKxhtayGgNwT"
   },
   "0D6265C63A9A30C119FE933CA1ABB91DF66E97F1": {
-    "name": "Professor Layton and the Curious Village (Europe) (En,Fr,De,Es,It)"
+    "name": "Professor Layton and the Curious Village (Europe) (En,Fr,De,Es,It)",
+    "ref": "DD2841E98B0301831C617E401D8400F7ADC394B0"
   },
   "B1E1F074C1277985FC792D22CB8E4E3669882A27": {
-    "name": "Professor Layton and the Curious Village (USA) (Demo) (Kiosk)"
+    "name": "Professor Layton and the Curious Village (USA) (Demo) (Kiosk)",
+    "ref": "DD2841E98B0301831C617E401D8400F7ADC394B0"
   },
   "7A8C97B9445C8D762DA9D19C8A23B557B1D0AB1F": {
     "name": "Professor Layton and the Diabolical Box (USA)",
@@ -15937,7 +16057,8 @@
     "ref": "7A8C97B9445C8D762DA9D19C8A23B557B1D0AB1F"
   },
   "5D12408833BE4F8D6D9CD3C692540E60C8C9A3A9": {
-    "name": "Professor Layton and the Diabolical Box (USA) (Demo) (Kiosk)"
+    "name": "Professor Layton and the Diabolical Box (USA) (Demo) (Kiosk)",
+    "ref": "7A8C97B9445C8D762DA9D19C8A23B557B1D0AB1F"
   },
   "BBF8261BF23F4744BB80231D21786C2B22507CA7": {
     "name": "Professor Layton and the Last Specter (USA)",
@@ -15954,7 +16075,8 @@
     "name": "Professor Layton and the Spectre's Call (Europe) (Demo) (Kiosk)"
   },
   "E26A46058CED211B5AA75287C35E21EB3A3811EF": {
-    "name": "Professor Layton and the Unwound Future (USA) (Video)"
+    "name": "Professor Layton and the Unwound Future (USA) (Video)",
+    "ref": "FE207950B3F537530C68D4A589E0271240CD29E4"
   },
   "FE207950B3F537530C68D4A589E0271240CD29E4": {
     "name": "Professor Layton and the Unwound Future (USA)",
@@ -16582,7 +16704,8 @@
     "logo": "Qmf8PNfhScbcsHcJuijB3WfpTBic3oqzXD3QNGoxyfzRwP"
   },
   "66CAAC54E2832796FF5FC130311B51C58466E09F": {
-    "name": "Resident Evil - Deadly Silence (Europe) (En,Fr,De,Es,It)"
+    "name": "Resident Evil - Deadly Silence (Europe) (En,Fr,De,Es,It)",
+    "ref": "B7DEE8C12078D347ED28D85F095AB3BDD0E4D87F"
   },
   "268E93B87913BA23A8870824D58CD793FCC225A6": {
     "name": "Restaurant Tycoon (Europe) (En,Fr,De,Es,It,Nl)"
@@ -16852,7 +16975,8 @@
     "logo": "QmZZGM9RUSEBcWQWbVm5HoUT9XqrfpTXh1twtviENkA3q3"
   },
   "30AA6C5CF92C6DDFA07C88CFB1C30CD11BE55952": {
-    "name": "Rune Factory 3 - A Fantasy Harvest Moon (Europe)"
+    "name": "Rune Factory 3 - A Fantasy Harvest Moon (Europe)",
+    "ref": "121B5DFDDE869E828F9DFBB2F139E970BF25A8B8"
   },
   "688890A231B617626F0DD8CAD95015A70FCF7101": {
     "name": "Rupupu Cube - Lup Salad DS (Japan)"
@@ -18114,22 +18238,28 @@
     "logo": "QmdYLRmd9g2RV1FgdpevV8FtTNgAT7uo6s6vM8va8AKDG9"
   },
   "52E5024EFCF7617A820FA23789B37E5168C3C4FC": {
-    "name": "Sonic Rush (Europe) (En,Ja,Fr,De,Es,It)"
+    "name": "Sonic Rush (Europe) (En,Ja,Fr,De,Es,It)",
+    "ref": "BC617530BB9B6E4179F2E54D7816C38676812DDE"
   },
   "8A5AF404F063ED0342E20DCB0AF0F42CE9509AC1": {
-    "name": "Sonic Rush (Japan) (En,Ja,Fr,De,Es,It)"
+    "name": "Sonic Rush (Japan) (En,Ja,Fr,De,Es,It)",
+    "ref": "BC617530BB9B6E4179F2E54D7816C38676812DDE"
   },
   "3CC80CA2F88D353510A3648EAF8CCFE5F4009046": {
-    "name": "Sonic Rush (Japan, USA) (En,Ja) (Beta) (E3 2005 demo)"
+    "name": "Sonic Rush (Japan, USA) (En,Ja) (Beta) (E3 2005 demo)",
+    "ref": "BC617530BB9B6E4179F2E54D7816C38676812DDE"
   },
   "4A2C44AED082B785EAC7E8A4DE6E20C0D8131222": {
-    "name": "Sonic Rush Adventure (Korea) [b]"
+    "name": "Sonic Rush Adventure (Korea) [b]",
+    "ref": "6C96C4A702B0B033661ACF5BE921F40225B36769"
   },
   "838C50FB80B3BD54B5DEF1F4439572222309D443": {
-    "name": "Sonic Rush Adventure (Europe) (En,Ja,Fr,De,Es,It) (Rev 1)"
+    "name": "Sonic Rush Adventure (Europe) (En,Ja,Fr,De,Es,It) (Rev 1)",
+    "ref": "6C96C4A702B0B033661ACF5BE921F40225B36769"
   },
   "F105F64DA60D7E0544A96B7C4C945B07FC5FA8A2": {
-    "name": "Sonic Rush Adventure (Europe) (En,Ja,Fr,De,Es,It)"
+    "name": "Sonic Rush Adventure (Europe) (En,Ja,Fr,De,Es,It)",
+    "ref": "6C96C4A702B0B033661ACF5BE921F40225B36769"
   },
   "6C96C4A702B0B033661ACF5BE921F40225B36769": {
     "name": "Sonic Rush Adventure (USA) (En,Ja,Fr,De,Es,It)",
@@ -18137,7 +18267,8 @@
     "logo": "QmXzxy3dM7DA5zfxL2WsAA1JbVfDaKG3gcMqM5j7Giyfme"
   },
   "2D3EF3F259F8D2CBB08529C7F07022461CFA5840": {
-    "name": "Sonic Rush Adventure (Japan) (En,Ja,Fr,De,Es,It)"
+    "name": "Sonic Rush Adventure (Japan) (En,Ja,Fr,De,Es,It)",
+    "ref": "6C96C4A702B0B033661ACF5BE921F40225B36769"
   },
   "9CCAE6DD7D0DC7F16926D848A6A9F71233FB61B5": {
     "name": "Sonny with a Chance (USA) (En,Fr,Es) (NDSi Enhanced)"
@@ -18920,19 +19051,24 @@
     "name": "Super Key (World) (v6.0) (Unl)"
   },
   "3AEDA3801FB59B4EEF8C016E6178A594C4383EA8": {
-    "name": "Super Mario 64 DS (USA) (Demo) (Kiosk)"
+    "name": "Super Mario 64 DS (USA) (Demo) (Kiosk)",
+    "ref": "A5B8BD846725965C588B6FC591F1FE822F7BBDBD"
   },
   "699D0EC20951256E8CCD56A2DC9FE107A82F74B8": {
-    "name": "Super Mario 64 DS (Japan) (Rev 1)"
+    "name": "Super Mario 64 DS (Japan) (Rev 1)",
+    "ref": "A5B8BD846725965C588B6FC591F1FE822F7BBDBD"
   },
   "D9847FBC412E68CB078B39C507D08CB73488F0C5": {
-    "name": "Super Mario 64 DS (Korea)"
+    "name": "Super Mario 64 DS (Korea)",
+    "ref": "A5B8BD846725965C588B6FC591F1FE822F7BBDBD"
   },
   "1367529F2CB23E76EF295CB1727333AE8F0A6CD7": {
-    "name": "Super Mario 64 DS (Europe) (En,Fr,De,Es,It)"
+    "name": "Super Mario 64 DS (Europe) (En,Fr,De,Es,It)",
+    "ref": "A5B8BD846725965C588B6FC591F1FE822F7BBDBD"
   },
   "B4FD22FFF422CF55FDB693E7EA471F46D23BB584": {
-    "name": "Super Mario 64 DS (Japan)"
+    "name": "Super Mario 64 DS (Japan)",
+    "ref": "A5B8BD846725965C588B6FC591F1FE822F7BBDBD"
   },
   "A5B8BD846725965C588B6FC591F1FE822F7BBDBD": {
     "name": "Super Mario 64 DS (USA)",
@@ -18940,7 +19076,8 @@
     "logo": "QmdAGwygaWzMxJcHWEZH6kKSXkf8x18Vpz3dL3wCfB3f8S"
   },
   "7BF8A92B259E303899851034D85C531CCDC532E2": {
-    "name": "Super Mario 64 DS (USA) (Rev 1)"
+    "name": "Super Mario 64 DS (USA) (Rev 1)",
+    "ref": "A5B8BD846725965C588B6FC591F1FE822F7BBDBD"
   },
   "B1B8EED5DB41C57B0C71B66C3709B42201ED65E7": {
     "name": "Super Monkey Ball - Touch & Roll (Europe) (En,Fr,De,Es,It)"
@@ -18952,7 +19089,8 @@
     "name": "Super Monkey Ball DS (Japan)"
   },
   "0F8C9B1FF62CBC8BCB611421D20908A1C8379750": {
-    "name": "Super Princess Peach (Japan)"
+    "name": "Super Princess Peach (Japan)",
+    "ref": "706958F81053BC54715AB3AFA1E80984B003C3F9"
   },
   "706958F81053BC54715AB3AFA1E80984B003C3F9": {
     "name": "Super Princess Peach (USA)",
@@ -18960,10 +19098,12 @@
     "logo": "QmYwk2G22KWagC4R884kKsiqKpbuh6rrGNyX5b4wCgT1cJ"
   },
   "AB7F9DB93F7517D4C6DB289FF2FED477E5BD0D0B": {
-    "name": "Super Princess Peach (Europe) (En,Fr,De,Es,It)"
+    "name": "Super Princess Peach (Europe) (En,Fr,De,Es,It)",
+    "ref": "706958F81053BC54715AB3AFA1E80984B003C3F9"
   },
   "CCEF4A26366E3B80A9DC193A54324079CB00F3D1": {
-    "name": "Super Princess Peach (Japan) (Demo) (Kiosk)"
+    "name": "Super Princess Peach (Japan) (Demo) (Kiosk)",
+    "ref": "706958F81053BC54715AB3AFA1E80984B003C3F9"
   },
   "675A40DDA8AFFEFFCF502B385CF3D5B2E44A75BD": {
     "name": "Super Robot Taisen K (Japan)"
@@ -19447,22 +19587,28 @@
     "logo": "QmQZjJd3toMsRtbfFgfJtWyA7JyixX5DS3pXJf1M7iHznY"
   },
   "062473BAF5678F40B8807C8E833F2E00726392E8": {
-    "name": "Tetris DS (Europe) (En,Fr,De,Es,It)"
+    "name": "Tetris DS (Europe) (En,Fr,De,Es,It)",
+    "ref": "13EB2E7E5357A6E31F94EA238826C111C965BC9B"
   },
   "A1681B6FAE63A962A432EF9390CA1952160A4079": {
-    "name": "Tetris DS (Japan)"
+    "name": "Tetris DS (Japan)",
+    "ref": "13EB2E7E5357A6E31F94EA238826C111C965BC9B"
   },
   "98C8917DE3C0673672358A88853DFD534DBFBDB1": {
-    "name": "Tetris DS (Korea)"
+    "name": "Tetris DS (Korea)",
+    "ref": "13EB2E7E5357A6E31F94EA238826C111C965BC9B"
   },
   "5ADD1DFF7B36B7AD1665ED9B2A010B5F589FFDFD": {
-    "name": "Tetris DS (USA) (Demo) (Kiosk)"
+    "name": "Tetris DS (USA) (Demo) (Kiosk)",
+    "ref": "13EB2E7E5357A6E31F94EA238826C111C965BC9B"
   },
   "A37B815AECC88D9F5CD9183B4FABE8FB2F3132F2": {
-    "name": "Tetris DS (Japan) (Demo) (Kiosk)"
+    "name": "Tetris DS (Japan) (Demo) (Kiosk)",
+    "ref": "13EB2E7E5357A6E31F94EA238826C111C965BC9B"
   },
   "947B618881986B0C148FA4202B1F74464A5378B7": {
-    "name": "Tetris DS (USA) (Proto) (THQ)"
+    "name": "Tetris DS (USA) (Proto) (THQ)",
+    "ref": "13EB2E7E5357A6E31F94EA238826C111C965BC9B"
   },
   "629D6BB731EB56D3C755D9A1A21CC2587365667C": {
     "name": "Tetris Party Deluxe (USA) (En,Fr,Es)"
@@ -21679,10 +21825,12 @@
     "name": "Yoshi Touch & Go (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
   },
   "2398EBDD33C1B0253AF52FBEDE6FE74EB60A3BF9": {
-    "name": "Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
+    "name": "Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+    "ref": "C1BFACEF2DAF516E358BCF6C43462EB912569347"
   },
   "767C752CD00B59280AACCA07BFB532EA622A2515": {
-    "name": "Yoshi's Island DS (USA) (Demo) (Kiosk)"
+    "name": "Yoshi's Island DS (USA) (Demo) (Kiosk)",
+    "ref": "C1BFACEF2DAF516E358BCF6C43462EB912569347"
   },
   "C1BFACEF2DAF516E358BCF6C43462EB912569347": {
     "name": "Yoshi's Island DS (USA)",
@@ -21690,16 +21838,20 @@
     "logo": "QmNbVriB7rWJeTRqqcqhfmDBuRLmsLSmGMBqmEQhxeukrf"
   },
   "425B5402AF510091A03815AF01CAC3FD25BDCB77": {
-    "name": "Yoshi's Island DS (Europe) (En,Fr,De,Es,It)"
+    "name": "Yoshi's Island DS (Europe) (En,Fr,De,Es,It)",
+    "ref": "C1BFACEF2DAF516E358BCF6C43462EB912569347"
   },
   "C684284970EEA6FF234B3295CE06E88F0C40DC1C": {
-    "name": "Yoshi's Island DS (Korea)"
+    "name": "Yoshi's Island DS (Korea)",
+    "ref": "C1BFACEF2DAF516E358BCF6C43462EB912569347"
   },
   "F15DF96D67699FD0AEA9854E4A72657C73FB57FE": {
-    "name": "Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Rev 1)"
+    "name": "Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Rev 1)",
+    "ref": "C1BFACEF2DAF516E358BCF6C43462EB912569347"
   },
   "513D3D758E1E73DC7979E97B770A4ED18E591BB3": {
-    "name": "Yoshi's Island DS (USA) (Rev 1)"
+    "name": "Yoshi's Island DS (USA) (Rev 1)",
+    "ref": "C1BFACEF2DAF516E358BCF6C43462EB912569347"
   },
   "D91F58B9BE23DD4E183C0BF97299B18C29B03A2E": {
     "name": "yoSumin. DS (Japan)"

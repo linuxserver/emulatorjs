@@ -26,13 +26,16 @@
     "logo": "QmcevUQ5YkCiWcNov4grof4VwqeqR8P2DH5kr7AG6E2kPM"
   },
   "80ED1EE5B8ACADDFB64A5C0BBDA2BFC14BDB5DA5": {
-    "name": "Alien vs Predator (World) (Beta) (1993-08-18)"
+    "name": "Alien vs Predator (World) (Beta) (1993-08-18)",
+    "ref": "FD8C89250EBC1E403838B2E589D1F69E3FE2FE02"
   },
   "261667E4AAB6239ECF3A416F5C2443BF092735CC": {
-    "name": "Alien vs Predator (World) (Beta) (1993-10-13)"
+    "name": "Alien vs Predator (World) (Beta) (1993-10-13)",
+    "ref": "FD8C89250EBC1E403838B2E589D1F69E3FE2FE02"
   },
   "1189AA22A427D81EA0BD68BF58258C8B1089614B": {
-    "name": "Alien vs Predator (World) (Beta) (1994-04-08)"
+    "name": "Alien vs Predator (World) (Beta) (1994-04-08)",
+    "ref": "FD8C89250EBC1E403838B2E589D1F69E3FE2FE02"
   },
   "542063A5B27659781A85821F61E85CD89EA59AB3": {
     "name": "Arena Football '95 (World)"
@@ -43,7 +46,8 @@
     "logo": "QmP4Lo8YAX9ZJ6rUJdGCoKfLByc4RKfqQt8Xd4C89J5wjy"
   },
   "1BDAAA42B38F4C93A4ABA34930E3CA406AC976C9": {
-    "name": "Atari Karts (World) (Beta)"
+    "name": "Atari Karts (World) (Beta)",
+    "ref": "9C96E6C2195CE56AA930E677A041B35BD9B8BC7E"
   },
   "01DC37E7A9D03246A93BCB8C6A3116CB6391ED31": {
     "name": "Attack of the Mutant Penguins (World)",
@@ -92,7 +96,8 @@
     "logo": "QmYKfShHBmErdpVQVdWaF1bwSb6xwexpjrPrKKjRextc9t"
   },
   "BF00EC1FCA2A97BEAF28D52140DF2006B1120C67": {
-    "name": "Checkered Flag (World) (Beta) (CES 1993)"
+    "name": "Checkered Flag (World) (Beta) (CES 1993)",
+    "ref": "4D0CC8D248A8BD0FC4B8169C5D5772E59C073C59"
   },
   "6588F7D677463D0EF10CF905D44A2581FD9DD055": {
     "name": "Club Drive (World)"
@@ -106,10 +111,12 @@
     "logo": "QmPAtutb1eQvfsnHRLRxk6Na5DUVNGfksxfCqsqi7CT6pE"
   },
   "C9AA59769DF207D85D9212D619C266C793C9063B": {
-    "name": "Cybermorph (World) (Rev B)"
+    "name": "Cybermorph (World) (Rev B)",
+    "ref": "E00AB55F555FD1FE63B4FCE66A9B8FFE3485963E"
   },
   "589EFBC772360FA51EDDC096A162C8D9FE7838D3": {
-    "name": "Cybermorph (World) (Beta) (1993-08-23)"
+    "name": "Cybermorph (World) (Beta) (1993-08-23)",
+    "ref": "E00AB55F555FD1FE63B4FCE66A9B8FFE3485963E"
   },
   "13A4084BD5BE1CCA21D83D4C26B5B8E5CF1A3E30": {
     "name": "Defender 2000 (World)",
@@ -117,7 +124,8 @@
     "logo": "QmVCsuGdk9mepCZiZ9iD7owQ4SKYSuQSomP7WMXvub5rfn"
   },
   "AE497F4839BDE6C12C87C651A80633A23D6D0713": {
-    "name": "Defender 2000 (World) (Beta)"
+    "name": "Defender 2000 (World) (Beta)",
+    "ref": "13A4084BD5BE1CCA21D83D4C26B5B8E5CF1A3E30"
   },
   "20DDF412E42A50D526CBBB6411BF0EC4516DB283": {
     "name": "Doom (World)",
@@ -135,10 +143,12 @@
     "logo": "QmWkpKyEEyizMT6vMyaUQcMpAWdW8x5ErjXqM8H84CkXZw"
   },
   "298148131AF2A86BA5D5430B1B8982710CE68874": {
-    "name": "Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26)"
+    "name": "Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26)",
+    "ref": "DA7F5DAC4317AB0258F54DA436ABB8D89E530F27"
   },
   "8F556976F42C393858127D99112264E6A5A9AE19": {
-    "name": "Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06)"
+    "name": "Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06)",
+    "ref": "DA7F5DAC4317AB0258F54DA436ABB8D89E530F27"
   },
   "179B511464ABCDA5A5DE9F971BD5CB5775D8C313": {
     "name": "Evolution - Dino Dudes (World)",
@@ -156,10 +166,12 @@
     "logo": "QmTGRDYyEoyCXgZrKXbC9F1K42JujeWeYhzux3qbW7vZxh"
   },
   "37FE344383D7991D19BF2C862D29A20EAF1DA8EF": {
-    "name": "Fight for Life (USA, Europe) (Beta) (1995-03-22)"
+    "name": "Fight for Life (USA, Europe) (Beta) (1995-03-22)",
+    "ref": "9F5B8844D58BB1C174DA4824EABBFD8616BA28D2"
   },
   "C92F1FF8EC83EBBE0F77F5A665169408DF53B528": {
-    "name": "Fight for Life (USA, Europe) (Beta) (1995-09-07)"
+    "name": "Fight for Life (USA, Europe) (Beta) (1995-09-07)",
+    "ref": "9F5B8844D58BB1C174DA4824EABBFD8616BA28D2"
   },
   "824613451BE0B99020FC02E5DBA15C45E76FC8C2": {
     "name": "Flashback - The Quest for Identity (World) (En,Fr)",
@@ -214,7 +226,8 @@
     "logo": "QmaCEAzbaV8gTJtEhwc7ewwQegMZbGjHAngC6jQfS6UF9T"
   },
   "3650143BD057DD39B96E0AD0207778353F17ABE7": {
-    "name": "Kasumi Ninja (World) (Demo)"
+    "name": "Kasumi Ninja (World) (Demo)",
+    "ref": "2327112B9C6F9B0E49C55DEF0ADB8119EE39CE29"
   },
   "3EA9053A63A3B0165CCEC91E85F0E699A998DC0A": {
     "name": "Missile Command 3D (World)",
@@ -273,10 +286,12 @@
     "logo": "QmXtq7N3BL8y2BkN2juk7Rk9FqJSFkj267XxKmP4hsNMY6"
   },
   "BA34DE71A8D278BA76BAD19964D2D886DDB94A2E": {
-    "name": "Rayman (World) (Beta 2)"
+    "name": "Rayman (World) (Beta 2)",
+    "ref": "D22912992FD966365A1221886E0FC5303EF04A59"
   },
   "DD6F15CDA5A84E0F93BB04D24F61727A8276AE58": {
-    "name": "Rayman (World) (Beta 1)"
+    "name": "Rayman (World) (Beta 1)",
+    "ref": "D22912992FD966365A1221886E0FC5303EF04A59"
   },
   "E0DB2FDEA7F95743C1EF452B7D289F5FE8158E33": {
     "name": "Ruiner Pinball (USA, Europe)"
@@ -293,7 +308,8 @@
     "logo": "QmYTz3N7NpzHJQYGZ1WJ4UhBe3wFcrWHL8YMwJcZBzBEZT"
   },
   "B615FE0F229EEE89ABE4A6FCE8E4CE63D2F92C6F": {
-    "name": "Soccer Kid (World)"
+    "name": "Soccer Kid (World)",
+    "ref": "A738A2DF47F09C3BFDEDDFC01B35F3E8B5C5D99C"
   },
   "6B010477155F30F1ECEC7EAB2C9A7544242BBD19": {
     "name": "Space War 2000 (World)",
@@ -341,7 +357,8 @@
     "logo": "QmZfJ4Z8e4CNcmLgPKQAWEqjpRt6sqkdoKRkNyDtYdXq8o"
   },
   "1EF1B86ABF725F32267BFA140DC049CE9BA92AEA": {
-    "name": "Total Carnage (World) (Beta)"
+    "name": "Total Carnage (World) (Beta)",
+    "ref": "4566B33799A7C65B3E9643383D0282172FF619A5"
   },
   "BBE7FFB97FC07CEBE53099C8ACCE01366D7F7E15": {
     "name": "Towers II - Plight of the Stargazer (USA, Europe)"
@@ -352,10 +369,12 @@
     "logo": "QmQkNeADHymrTFwyueXEemhWeZssNK8mkrqn5KQGipogox"
   },
   "2F0E950517D26C83408E5CF210098C0897725537": {
-    "name": "Trevor McFur in the Crescent Galaxy (World) (Beta)"
+    "name": "Trevor McFur in the Crescent Galaxy (World) (Beta)",
+    "ref": "88E86085932AF10DFB8C94032F73A5992A30B55C"
   },
   "489B0FE9F070AD27F63A17AA8F0D2AFAA4DABDB3": {
-    "name": "Trevor McFur in the Crescent Galaxy (World)"
+    "name": "Trevor McFur in the Crescent Galaxy (World)",
+    "ref": "88E86085932AF10DFB8C94032F73A5992A30B55C"
   },
   "4C6A6432EA0BC198F900F4EBDB8A3A7A34475D84": {
     "name": "Troy Aikman NFL Football (World)",
@@ -393,7 +412,8 @@
     "logo": "QmawCN7c7wHCrM4e6XHixQgDxLyQUXbfXWZk8Wc3Zakbeg"
   },
   "FB03CDB0B9C8171831C0E385C27BEC2D71C39400": {
-    "name": "Zero 5 (USA, Europe) (Beta)"
+    "name": "Zero 5 (USA, Europe) (Beta)",
+    "ref": "B68DE2CD49CB70E92F2415837EDFA7AB46770A78"
   },
   "32FF3811F8F6DF8A2BB56165C62227A3A480E55C": {
     "name": "Zool 2 (World)",

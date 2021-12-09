@@ -8,7 +8,8 @@
     "logo": "QmPZkw6kc8aJuxYSMd7vHqPcBpfcwXjscV2VmCxzDG6omT"
   },
   "BEBEDAC4DF5348E91122972FCC4259A7D1F7FC0F": {
-    "name": "2010 - The Graphic Action Game (USA) (Beta)"
+    "name": "2010 - The Graphic Action Game (USA) (Beta)",
+    "ref": "B1621D39A2A6D1CDA7ECEB882A612A4BAF3DA70C"
   },
   "9E331AC982A848988264F705B6DE4C0A8F5F1264": {
     "name": "A.E. (USA) (Proto)"
@@ -38,7 +39,8 @@
     "logo": "QmZNfCZAMvnytbEbpiAQs8wNmgooVgBBmXbchEP3HjtyeN"
   },
   "BE8A7DF4F3E1E1001785EB2326C26B4C301B4DBE": {
-    "name": "Antarctic Adventure (USA, Europe) (Beta)"
+    "name": "Antarctic Adventure (USA, Europe) (Beta)",
+    "ref": "00DB7CF9BD66AECAC3D9368DD205680781B2E542"
   },
   "4782F1D6225D9B6501A9AB1AB72F9E66F3FF66D8": {
     "name": "Aquattack (USA)",
@@ -56,10 +58,12 @@
     "logo": "QmPq2icPzTtWXTqwDkDmWyjwKnynNoNXPyVAVLTaNTKNuL"
   },
   "05FFCF0C84381FA26F504CB163B25A8670C6C4AC": {
-    "name": "BC's Quest for Tires (Canada)"
+    "name": "BC's Quest for Tires (Canada)",
+    "ref": "683973D7E24CB0383132ACF2562D3EBEF739018F"
   },
   "6C7C8CD782EB5A27DC5224679D4563978CB3280C": {
-    "name": "BC's Quest for Tires II - Grog's Revenge (Canada)"
+    "name": "BC's Quest for Tires II - Grog's Revenge (Canada)",
+    "ref": "57B145E2B88E29C6284754D3DA16E1CFFBAB38A5"
   },
   "57B145E2B88E29C6284754D3DA16E1CFFBAB38A5": {
     "name": "BC's Quest for Tires II - Grog's Revenge (USA)",
@@ -83,7 +87,8 @@
     "logo": "QmYBY8x3jWpXtuM3PwWRNxYCT9CSojotzeXxvDZGfuoBNn"
   },
   "BAD7A976F37DF875F4FA9646E5426C45344EC102": {
-    "name": "Boulder Dash (USA)"
+    "name": "Boulder Dash (USA)",
+    "ref": "AD266CA4D270EA35DEF306381EAF05D36C811218"
   },
   "AD266CA4D270EA35DEF306381EAF05D36C811218": {
     "name": "Boulder Dash (USA) (Beta)",
@@ -104,7 +109,8 @@
     "ref": "2E1FA3BC105B0FD8D10A5195FED63B9CB2773444"
   },
   "158F666AAC5CF48C77B62BEB77310A45F6C7E2EA": {
-    "name": "Bump 'n' Jump (USA, Europe) (Beta)"
+    "name": "Bump 'n' Jump (USA, Europe) (Beta)",
+    "ref": "8DF20C9C151B01B0D859C0AB4753D5CCE3956224"
   },
   "8DF20C9C151B01B0D859C0AB4753D5CCE3956224": {
     "name": "Bump 'n' Jump (USA, Europe)",
@@ -115,7 +121,8 @@
     "ref": "8DF20C9C151B01B0D859C0AB4753D5CCE3956224"
   },
   "B455E48F5462C8B27DD693E25113A8A28C28014B": {
-    "name": "BurgerTime (USA, Europe) (Beta)"
+    "name": "BurgerTime (USA, Europe) (Beta)",
+    "ref": "6EBF0D23F2D7CF60897BA6FE13B2293421C0A589"
   },
   "6EBF0D23F2D7CF60897BA6FE13B2293421C0A589": {
     "name": "BurgerTime (USA, Europe)",
@@ -123,7 +130,8 @@
     "logo": "QmZ8WA8NeuRzhfLX6TMioaADAvXjAjACS9K4KxSLZZeD8L"
   },
   "CA240633EC6ECF732CBC28C9394459A722D6EDCB": {
-    "name": "Cabbage Patch Kids - Adventures in the Park (USA, Europe)"
+    "name": "Cabbage Patch Kids - Adventures in the Park (USA, Europe)",
+    "ref": "6DCF2F3ACC4B221666DEFC6EBBC09286238E7A1B"
   },
   "6DCF2F3ACC4B221666DEFC6EBBC09286238E7A1B": {
     "name": "Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1)",
@@ -131,7 +139,8 @@
     "logo": "QmYXcesopwQDb5QEKvrsgqJyFwnpFytjzvZnC7odPtjPTz"
   },
   "57B4B045797B1F18CE22759D2ED1ACC36A2E2207": {
-    "name": "Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 2)"
+    "name": "Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 2)",
+    "ref": "6DCF2F3ACC4B221666DEFC6EBBC09286238E7A1B"
   },
   "E083B81F7A5D47571214EAC56B352E5A8A2B08B5": {
     "name": "Cabbage Patch Kids - Picture Show (USA)",
@@ -196,7 +205,8 @@
     "logo": "Qma3yGTaxhTFfxiWxUMhBbyV46JwHjAS158DjniUTbcyPg"
   },
   "84B3631078575C5FD490426271B7FC5941D38FC3": {
-    "name": "Dam Busters, The (USA)"
+    "name": "Dam Busters, The (USA)",
+    "ref": "BCB8C003A5C8ACDF62105C15D25163DFF017D6C3"
   },
   "6F65BBE13F13A70AEE79CE7970095AEF280ABEAA": {
     "name": "Dance Fantasy (USA)",
@@ -220,7 +230,8 @@
     "logo": "QmUkXaf1BjZFqeKwLFPCLh88ohTqSG9FR7QfY4euMAHtd5"
   },
   "795A63360E71E3A51317F108F504B21F5B11C3C9": {
-    "name": "Donkey Kong (USA)"
+    "name": "Donkey Kong (USA)",
+    "ref": "46B7AA1CEDAC273F2B96BAD4A0768554733972BF"
   },
   "113C1EAD67B2679DDAD9B99506E801526245AF05": {
     "name": "Donkey Kong Junior (USA, Europe)",
@@ -247,7 +258,8 @@
     "name": "Escape from the Mindmaster (USA) (Proto)"
   },
   "5C775DD65722BE72436D0B6DD99BD0143C938B33": {
-    "name": "Evolution (Canada)"
+    "name": "Evolution (Canada)",
+    "ref": "809BEFAAD2BB341241D58FCD4E0409D690E4B6CE"
   },
   "809BEFAAD2BB341241D58FCD4E0409D690E4B6CE": {
     "name": "Evolution (USA) (Unl)",
@@ -279,7 +291,8 @@
     "logo": "QmSHeYPKEmQV6okyUYBH77L5Wrn8M3MJrQyeQKKAjWwCHU"
   },
   "E78E370FC7B3138010606F2EB9DB1EA40FC37C5C": {
-    "name": "Flipper Slipper (USA, Europe)"
+    "name": "Flipper Slipper (USA, Europe)",
+    "ref": "65B532FE1F0D249E97117580638083731E1FF767"
   },
   "DD3461F5B79FE581B8E14685A5B8810B18D84DFE": {
     "name": "Fortune Builder (USA)",
@@ -315,7 +328,8 @@
     "logo": "QmRK8dBkZU8E5cR6nDoJNHE9hYVyHrevTaqrRBFyCoFg8v"
   },
   "68889D9410BE82CE20F1EEDFB5861DCE4BD270D0": {
-    "name": "Front Line (USA, Europe) (Green Version)"
+    "name": "Front Line (USA, Europe) (Green Version)",
+    "ref": "62CA275776E4184032224E61B6D01D0636D7E846"
   },
   "287013140F2896516ACB095157389F681D9C5150": {
     "name": "Galaxian (USA)",
@@ -343,7 +357,8 @@
     "logo": "QmSsqbpxDiEHzaG5SiNw5ytD4cY7yThir6bkjvgCB2yHyP"
   },
   "54279C45A95294626B7586F5110015B5D1FB94E6": {
-    "name": "Gyruss (USA) (Beta)"
+    "name": "Gyruss (USA) (Beta)",
+    "ref": "9D34B9A55F9B6C8443696114A8E69724E5106B5A"
   },
   "1FEBD0DE031402C2D2DC88F0C60D18C35FEEE6F3": {
     "name": "H.E.R.O. - Helicopter Emergency Rescue Operation (USA)",
@@ -437,7 +452,8 @@
     "logo": "Qmah9znCVnKJmmniPzChpgmMy2ELvbGETWeHx28DTQdfNH"
   },
   "591A08C17BBD716E13770E3B14E57A0C21229FC4": {
-    "name": "Miner 2049er Starring Bounty Bob (USA, Europe)"
+    "name": "Miner 2049er Starring Bounty Bob (USA, Europe)",
+    "ref": "B29CD441E9EDEBC37ABC08C3FD932F1D4185BACD"
   },
   "B29CD441E9EDEBC37ABC08C3FD932F1D4185BACD": {
     "name": "Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)",
@@ -450,7 +466,8 @@
     "logo": "QmbFHrHyZuWrSdQ1py4ufuAsoC4pbU5ZW9kuAYbBPLBkXm"
   },
   "5DE6442754C639C77045CE9F18D1B59F38AB07B3": {
-    "name": "Monkey Academy (USA) (Beta)"
+    "name": "Monkey Academy (USA) (Beta)",
+    "ref": "AC51F1A107B962E9322411D6233B3CE922E0FC15"
   },
   "44862334E171BCCD80D41A2AFBC5D7AF46D68D07": {
     "name": "Montezuma's Revenge (USA)",
@@ -528,7 +545,8 @@
     "logo": "QmQqHuZ3BLtydqCJu1wG71fQV6gm3nVUnMbnrixhvqyt4W"
   },
   "BC449BF923CC6B1695598B1FFA7A328618A4AD85": {
-    "name": "Pitstop (USA, Europe) (v1.1)"
+    "name": "Pitstop (USA, Europe) (v1.1)",
+    "ref": "F5A649238057FB354512DA2F5336BCB4B09216E5"
   },
   "F54F110BA5864BB3418F84E1C2CDC5C856DDA771": {
     "name": "Popeye (USA)",
@@ -655,7 +673,8 @@
     "logo": "QmYPfzgsWFznFaJ2Y5kBJ1tyUXQzC8pXCgwR3RKobJspcu"
   },
   "F95FB554B211BDE690A85D1F14FF5501CBCAF8BD": {
-    "name": "Spy Hunter (USA) (Beta)"
+    "name": "Spy Hunter (USA) (Beta)",
+    "ref": "97865D067BD531209857C3C8502C1260E0A30366"
   },
   "AE25507B840B15CA3A832BA0BD8E1CBFDF4634A6": {
     "name": "Squish'em Featuring Sam (USA)",
@@ -696,7 +715,8 @@
     "logo": "QmUuH9CZXoSvcyQz5KYtf9qDCUv5HVaB5DvwjGwP7ajhQL"
   },
   "5F43180C243039EECEF024AB1F4E70A2E2502FC1": {
-    "name": "Super Action Football (Europe)"
+    "name": "Super Action Football (Europe)",
+    "ref": "4C16F4E233DB50E3D9B3A191F4F408338640AC19"
   },
   "3BF730ACBFB0404D2E2411169C8FC6A81B907053": {
     "name": "Super Cobra (USA)",
@@ -815,7 +835,8 @@
     "logo": "QmbkmbHEVbWo3PdDq16Ye7WA79QEr59Jr2RHsHA6dHiKmr"
   },
   "5B6BDE9746D7B57291A9ACC519962717E2C12AAA": {
-    "name": "Zaxxon (Taiwan) (En) (Unl)"
+    "name": "Zaxxon (Taiwan) (En) (Unl)",
+    "ref": "1733B3407939F5C37E39D5494ABFA4137F500707"
   },
   "9119F3A485EB4215E7D41C7CF0E412D903458647": {
     "name": "Zenji (USA)",

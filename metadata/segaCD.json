@@ -6,7 +6,8 @@
     "name": "Dragon's Lair (Japan) (En,Ja,Fr,De,It)"
   },
   "1935BE471B5FA81F5A797BF27A58995E702A2131": {
-    "name": "Earthworm Jim - Special Edition (Europe)"
+    "name": "Earthworm Jim - Special Edition (Europe)",
+    "ref": "F3469E17F786178838C8D59F202FD9781EC444C7"
   },
   "6B3F27A1B17CC008B6988EF1BA6DDA48BDC6AC4A": {
     "name": "Fahrenheit (Europe)"
@@ -63,7 +64,8 @@
     "name": "Egawa Suguru no Super League CD (Japan)"
   },
   "7C953B026A90FF857444AE40B6455CFB3E23E3F5": {
-    "name": "After Burner III (Japan)"
+    "name": "After Burner III (Japan)",
+    "ref": "0A917485769F304599897A7E60EE50C5311765C2"
   },
   "3B6EB504B122113442BF5C21FE52E73E006A63AE": {
     "name": "Wakusei Woodstock - Funky Horror Band (Japan)"
@@ -72,7 +74,8 @@
     "name": "Sega Classic Arcade Collection - Limited Edition (Japan)"
   },
   "C7F3B4CE936FB6BFCFD87B3DE5260744876079C3": {
-    "name": "Wolfchild (Japan)"
+    "name": "Wolfchild (Japan)",
+    "ref": "9222F66A0B21017152C1EEA2F5F0B37198C09018"
   },
   "DEAEA82171091CCE66B1E72212D02B7C692A480D": {
     "name": "Earnest Evans (Japan)"
@@ -84,7 +87,8 @@
     "name": "F1 Circus CD (Japan)"
   },
   "48070D950351B4D01730049C90B20A2055B83E5A": {
-    "name": "Silpheed (Japan)"
+    "name": "Silpheed (Japan)",
+    "ref": "3BCAEABF76AE76435091325275D831F50AF08521"
   },
   "F8DA6A1D4E52C3407C386B7344119ECA712DFCAF": {
     "name": "Heavy Nova (Japan)"
@@ -147,7 +151,8 @@
     "name": "Eternal Champions - Challenge from the Dark Side (USA) (Beta)"
   },
   "131AB295B255134BAD5B3C1CE0306FBF836D799A": {
-    "name": "Ecco the Dolphin (Europe) (Rerelease)"
+    "name": "Ecco the Dolphin (Europe) (Rerelease)",
+    "ref": "CCBE12C45A099E6A51266D1EEA193C5484C48F01"
   },
   "8464CDD35ABFE18CBD5D43B5B3EDC360FFFB294D": {
     "name": "Switch (Japan)"
@@ -159,7 +164,8 @@
     "name": "Corpse Killer (USA) (Sega CD 32X)"
   },
   "0A9ABEA4006ED77CD5A578F4D81E68F4AC2E60D2": {
-    "name": "Sol-Feace (Japan)"
+    "name": "Sol-Feace (Japan)",
+    "ref": "76425F2E2F8812DA76BEBA73837A8F5F7A9B759E"
   },
   "9E00D74FC93760E66C8BD578AF38C22A9933C884": {
     "name": "Wonder Dog (Japan)"
@@ -234,13 +240,15 @@
     "name": "Cobra Command (Europe)"
   },
   "B094647C8F5BBB5EC79612E450609FB53159657B": {
-    "name": "Sol-Feace (Europe) (Alt)"
+    "name": "Sol-Feace (Europe) (Alt)",
+    "ref": "76425F2E2F8812DA76BEBA73837A8F5F7A9B759E"
   },
   "59AF7D2FD1C3B219C7C539064C29058715086C58": {
     "name": "Prince of Persia (Europe)"
   },
   "E4FD9CFA70FC909972EFF5E3E9E9A6B550BC9471": {
-    "name": "Wolfchild (Europe)"
+    "name": "Wolfchild (Europe)",
+    "ref": "9222F66A0B21017152C1EEA2F5F0B37198C09018"
   },
   "A9B32854DAF11D8CD1701F009DDA7E3205C81531": {
     "name": "Time Gal (Japan)"
@@ -301,7 +309,8 @@
     "name": "Tomcat Alley (Europe)"
   },
   "96393D8D5EDCCFDC915E20B6797006252EFF9FED": {
-    "name": "Silpheed (Europe)"
+    "name": "Silpheed (Europe)",
+    "ref": "3BCAEABF76AE76435091325275D831F50AF08521"
   },
   "48466BE6FA9F6BB1BEFCADA1735E50E15450A675": {
     "name": "Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A) (Alt)"
@@ -313,7 +322,8 @@
     "name": "Wheel of Fortune (USA)"
   },
   "1AB058C8228AF31A50DEF1B01F1F33961F2F23D7": {
-    "name": "Sonic CD (Europe)"
+    "name": "Sonic CD (Europe)",
+    "ref": "3C316AF52CC9EE8C30976A1CDB66339545DDA3BD"
   },
   "9183BC6B03065816DDE14C8FDCBA2AD062457A13": {
     "name": "Jurassic Park (Europe)"
@@ -340,13 +350,15 @@
     "name": "Shin Megami Tensei (Japan)"
   },
   "2E6997E434B03E9CDAF453CED97ADB4D9CF00CAE": {
-    "name": "Star Wars - Rebel Assault (Japan)"
+    "name": "Star Wars - Rebel Assault (Japan)",
+    "ref": "786BB1709349EF83DA583009B088EA711F598DAF"
   },
   "D12D78A06C1F136333086DC729BB35F1A1B61850": {
     "name": "Starblade (Japan)"
   },
   "87C0D88E6193B8D3314B3F004B0DAFA0BF5C130F": {
-    "name": "Wing Commander (Japan)"
+    "name": "Wing Commander (Japan)",
+    "ref": "89863D46871FD6A0F46C98B2BD5A9A8A8FF041F2"
   },
   "50ABFE6975AA37707FE2B4924EC950DC8289A790": {
     "name": "Pitfall - The Mayan Adventure (USA)"
@@ -382,16 +394,19 @@
     "name": "Tomcat Alley (Germany)"
   },
   "BFD3B48ED41CADCEE4D5B2C2727B87C3AD1316A0": {
-    "name": "Space Adventure, The - Cobra - The Legendary Bandit (Europe)"
+    "name": "Space Adventure, The - Cobra - The Legendary Bandit (Europe)",
+    "ref": "17F0B5029B446398C3AA460F12730FAD20B7569B"
   },
   "A7277B74F4E23397052BA393779FA3C0BF1EC6A9": {
-    "name": "SoulStar (Europe) (En,Fr,De)"
+    "name": "SoulStar (Europe) (En,Fr,De)",
+    "ref": "48E11204D1119CC064BA0706710323E763BFEFD5"
   },
   "118F0737B38E9784103CE0BD0AC331EFACF7D410": {
     "name": "Smurfs, The (Europe) (En,Fr,De,Es,It)"
   },
   "C6EB9B9A9B2ECD57B1F64FCD5D0C757642E9BCEE": {
-    "name": "Star Wars - Rebel Assault (Europe)"
+    "name": "Star Wars - Rebel Assault (Europe)",
+    "ref": "786BB1709349EF83DA583009B088EA711F598DAF"
   },
   "694213B0B0BB1F6C333EC4A06F8A90504B76D7BF": {
     "name": "Adventures of Batman and Robin, The (USA)"
@@ -478,7 +493,8 @@
     "name": "Night Trap (USA) (Disc 2) (Sega CD 32X) (RE-1)"
   },
   "B5D67E08F5B71E766AB9BC07BF459EB461A31F5E": {
-    "name": "Amazing Spider-Man vs. The Kingpin, The (Europe)"
+    "name": "Amazing Spider-Man vs. The Kingpin, The (Europe)",
+    "ref": "92AB5F04B311D7B4C14714241BA89C8FB54C4E31"
   },
   "1426CA11953BB57A973DC0611B51DEE4A024D086": {
     "name": "BC Racers (Europe) (En,Fr,De)"
@@ -596,7 +612,8 @@
     "logo": "QmYU7ZSdzvhDgeQJrMqkNzKscQsTXXsM6VtMtV9arPc1XS"
   },
   "15B4FE55E5CDD45B16C9F4C6FA2C145D4F919A87": {
-    "name": "Amazing Spider-Man vs. The Kingpin, The (USA)"
+    "name": "Amazing Spider-Man vs. The Kingpin, The (USA)",
+    "ref": "92AB5F04B311D7B4C14714241BA89C8FB54C4E31"
   },
   "018ED3B942F09E813131CA6C755834E58696F0D3": {
     "name": "Batman Returns (USA) (Alt)"
@@ -643,7 +660,8 @@
     "name": "A-X-101 (USA) (RE)"
   },
   "A5467EDDAF1F7FC2B13E4783228D2B08DF20C3F8": {
-    "name": "SoulStar (Europe) (Demo)"
+    "name": "SoulStar (Europe) (Demo)",
+    "ref": "48E11204D1119CC064BA0706710323E763BFEFD5"
   },
   "2AC66C9A6FD08C92B39567514429DCA41918EA6A": {
     "name": "Pitfall - The Mayan Adventure (Europe) (Demo)"
@@ -695,10 +713,12 @@
     "name": "Ecco the Dolphin CD (Japan) (Disc 2) (Ecco the Dolphin II)"
   },
   "06659A8B9BFC7FCD7700CA853EBB0663E8E2E4E6": {
-    "name": "Robo Aleste (Europe)"
+    "name": "Robo Aleste (Europe)",
+    "ref": "030AA41CF2603D622565FE66A5FE69E5B99F8DE6"
   },
   "5355836CCD1413E017C8A76EAEB96229C814B925": {
-    "name": "Terminator, The (Europe)"
+    "name": "Terminator, The (Europe)",
+    "ref": "049A79E3BA42AAA4F42747442272AB269AE91B40"
   },
   "AE7713A336417D92F23FD96E9BB3321D59ED9B31": {
     "name": "Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es)"
@@ -816,7 +836,8 @@
     "name": "Lunar - Eternal Blue (Japan) (Rev A)"
   },
   "89DC84608FB8DEFB2C86334021E96486BC3FB5B3": {
-    "name": "Secret of Monkey Island, The (Japan)"
+    "name": "Secret of Monkey Island, The (Japan)",
+    "ref": "A63FC8AAD1001064F16FDA2F57C4C59EB7994908"
   },
   "E02DEC273E65733350A5E32078004FF3A888ED51": {
     "name": "Final Fight CD (Japan) (Rev A)"
@@ -828,7 +849,8 @@
     "name": "PopfulMail (Japan) (Demo)"
   },
   "CCFD9D72F77D6D6D9D04013E13A4267C81B13426": {
-    "name": "Silpheed (Japan) (Demo)"
+    "name": "Silpheed (Japan) (Demo)",
+    "ref": "3BCAEABF76AE76435091325275D831F50AF08521"
   },
   "17CFD321B0C94CEF51C269177EAB81AFA88BC75C": {
     "name": "Night Trap (Japan) (Demo)"
@@ -921,7 +943,8 @@
     "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)"
   },
   "2CE9931F444CD78923EF8B0705B69FFD39F864CA": {
-    "name": "SoulStar (Japan)"
+    "name": "SoulStar (Japan)",
+    "ref": "48E11204D1119CC064BA0706710323E763BFEFD5"
   },
   "B360C16C7AA6B058DEFA7805E3B9A7A1540F93E8": {
     "name": "Psychic Detective Series Vol. 3 - Aya (Japan)"
@@ -948,7 +971,8 @@
     "name": "Chuck Rock (Europe)"
   },
   "DB387C48BED100A6FF029D3BFBD69B9AD5ABC35A": {
-    "name": "After Burner III (Europe)"
+    "name": "After Burner III (Europe)",
+    "ref": "0A917485769F304599897A7E60EE50C5311765C2"
   },
   "5D25A4CD27F775EA2EFC135E624E471C3A2BBC1C": {
     "name": "Hook (Europe)"
@@ -963,7 +987,8 @@
     "name": "Novastorm (Europe)"
   },
   "942ACAFA357BD967994A8DACC217BE795F73AB7A": {
-    "name": "Keio Flying Squadron (Europe)"
+    "name": "Keio Flying Squadron (Europe)",
+    "ref": "24A29DF8AAB6AF15388CAE4363E21828029AC369"
   },
   "CE658E9A98CB58C44665EE8F3FF3CDB80A4F3F00": {
     "name": "Software Toolworks' Star Wars Chess, The (Europe)"
@@ -990,7 +1015,8 @@
     "name": "Puggsy (Europe)"
   },
   "CD1C35713C57936E9A268DF3FA3A1E93B395DB0A": {
-    "name": "Snatcher (Europe)"
+    "name": "Snatcher (Europe)",
+    "ref": "1F4164205ED736A0D9A03EB7972868E9AA737D35"
   },
   "FC3180C962BCB5E00EF45A781742EE92179C1256": {
     "name": "Double Switch (Europe)"
@@ -1047,10 +1073,12 @@
     "name": "SoulStar & Battlecorps (Europe) (Demo)"
   },
   "477984360AF8C0436A6DA6A18401EFE3D079CF11": {
-    "name": "Star Wars - Rebel Assault (Europe) (Demo) (Sega Pro)"
+    "name": "Star Wars - Rebel Assault (Europe) (Demo) (Sega Pro)",
+    "ref": "786BB1709349EF83DA583009B088EA711F598DAF"
   },
   "F2ABAC22AE12D37D38ED44C6FE63CC1C8084E5B8": {
-    "name": "Star Wars - Rebel Assault (Europe) (Demo) (Mega Power)"
+    "name": "Star Wars - Rebel Assault (Europe) (Demo) (Mega Power)",
+    "ref": "786BB1709349EF83DA583009B088EA711F598DAF"
   },
   "8B024270C5CE3BA0904D42A3DCF0A0E5C4C3F2CB": {
     "name": "Mickey Mania (Europe) (Demo) (Mega Sega)"
@@ -1068,13 +1096,15 @@
     "name": "Flashback (Europe) (Demo)"
   },
   "DF15E64ADFEFC8A682317094E66C809705C73442": {
-    "name": "Keio Flying Squadron (Europe) (Demo)"
+    "name": "Keio Flying Squadron (Europe) (Demo)",
+    "ref": "24A29DF8AAB6AF15388CAE4363E21828029AC369"
   },
   "6AAF0F05F77DCE42B2EA9DBB29EE9A03ADCE7340": {
     "name": "Wonder Dog (USA) (RE)"
   },
   "40433093FF1053AC4C298A23F7D620692FDB582B": {
-    "name": "Flink (Europe)"
+    "name": "Flink (Europe)",
+    "ref": "B5194B6BACFCB5668E5DF1B6B6927FE1D5064267"
   },
   "BA09041AE84FC5798A0C88B688AC0C7B9D42B873": {
     "name": "Fresh Cleaner (Japan)"
@@ -1433,7 +1463,8 @@
     "name": "Super Strike Trilogy (USA) (Unl)"
   },
   "5DBB8388380D785049AAB7D7B60FC867348FF623": {
-    "name": "Ecco the Dolphin (Australia)"
+    "name": "Ecco the Dolphin (Australia)",
+    "ref": "CCBE12C45A099E6A51266D1EEA193C5484C48F01"
   },
   "D53086BC1585BAF7F2588D359E4B606654031482": {
     "name": "Pitfall - The Mayan Adventure (Europe)"
@@ -1512,7 +1543,8 @@
     "name": "Supreme Warrior (USA) (Disc 2) (Wind & Fang Tu)"
   },
   "606DC65DBA04FD95097D0CFC8FED22DE7122D786": {
-    "name": "Snatcher (Europe) (Beta)"
+    "name": "Snatcher (Europe) (Beta)",
+    "ref": "1F4164205ED736A0D9A03EB7972868E9AA737D35"
   },
   "C1F148EC5B4B98021A956674A95A4CD48EF6DD15": {
     "name": "Sega CD Demo (Japan) (Proto)"
@@ -1530,10 +1562,12 @@
     "name": "Sonic The Hedgehog CD (Japan) (Beta 1)"
   },
   "4A16084F5F3ABC8A7A28A4D08DC878488F9B890E": {
-    "name": "Sonic CD (Europe) (Beta 1)"
+    "name": "Sonic CD (Europe) (Beta 1)",
+    "ref": "3C316AF52CC9EE8C30976A1CDB66339545DDA3BD"
   },
   "3AA2E6A69EB392ECDC48E11CB517011D4457B0D6": {
-    "name": "Sonic CD (Europe) (Beta 2)"
+    "name": "Sonic CD (Europe) (Beta 2)",
+    "ref": "3C316AF52CC9EE8C30976A1CDB66339545DDA3BD"
   },
   "41D4EB1BA16433B214EEE48500D8919B1023D471": {
     "name": "What is X'Eye Multi Entertainment System (USA)"

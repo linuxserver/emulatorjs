@@ -113,10 +113,12 @@
     "logo": "QmUyGfTfdjkiKr7jvMDeXLJ7cLVF68Ev7TgP2gHMzNT3N5"
   },
   "44DEAEF747C572A4550681FCCCC1BBBDC46A1FFC": {
-    "name": "Antarctic Adventure (Europe) (Alt 1)"
+    "name": "Antarctic Adventure (Europe) (Alt 1)",
+    "ref": "2185BE579CB51729F66BF02BDF3A7B6A3CBD7B40"
   },
   "E894A38F3E2AD435CC5D17A66600E6016B5E47FB": {
-    "name": "Antarctic Adventure (Japan)"
+    "name": "Antarctic Adventure (Japan)",
+    "ref": "2185BE579CB51729F66BF02BDF3A7B6A3CBD7B40"
   },
   "1A00EEF3DF449D71ABF4BE5A4C8D01BA9DCD6B79": {
     "name": "Anty (Japan) (Alt 1)"
@@ -154,10 +156,12 @@
     "logo": "QmfUrWom7DaMU72CNM1fmNBaVsTaQLMvg3pTxfV8qjV7Q5"
   },
   "866CB3AB10F17E4FB356FBD7277BBF17C4E27EBE": {
-    "name": "Athletic Land (Japan) (Alt 1)"
+    "name": "Athletic Land (Japan) (Alt 1)",
+    "ref": "90BDD12D632D2E909AC5D69235AD0366F430B734"
   },
   "DE9EB0E9EF183F49E9D9B631F8818F9CAC5DF409": {
-    "name": "Athletic Land (Japan) (Beta)"
+    "name": "Athletic Land (Japan) (Beta)",
+    "ref": "90BDD12D632D2E909AC5D69235AD0366F430B734"
   },
   "C5F1897C416F62CD58CD6257282E3428155CD698": {
     "name": "Attack Four Volley Ball (Japan)"
@@ -243,7 +247,8 @@
     "logo": "QmZyyHLymBKAQR5j4SWAgsPbeHzyTR18KPtShZ1okfProq"
   },
   "1231984AE24BF35F9F38596B864420D8CCD3F30B": {
-    "name": "Beam Rider (Japan)"
+    "name": "Beam Rider (Japan)",
+    "ref": "F51F936887498D21F6EE9FE8A7701633BE67E79D"
   },
   "D69D4A6F2834B20DF3A2AFBD7A927220E96E31E1": {
     "name": "Becky (Japan)"
@@ -333,7 +338,8 @@
     "name": "Borfesu (Japan)"
   },
   "0BF7B432DC132F9A7BC74106261BCA07D5F99690": {
-    "name": "Bosconian (Japan) (Alt 2)"
+    "name": "Bosconian (Japan) (Alt 2)",
+    "ref": "33AD6D1BF1FB816B232EA706D149327E363C7B21"
   },
   "33AD6D1BF1FB816B232EA706D149327E363C7B21": {
     "name": "Bosconian (Japan) (Alt 1)",
@@ -341,7 +347,8 @@
     "logo": "QmR4wxoU8jARhFu3MdEp1sahW9EqyJZskgv23Zn72yuxff"
   },
   "451CBB072011B26A7E0BC9931E67995A71F5FD6F": {
-    "name": "Bosconian (Japan)"
+    "name": "Bosconian (Japan)",
+    "ref": "33AD6D1BF1FB816B232EA706D149327E363C7B21"
   },
   "B15E73A5FF1AE17AC67F2CEBB5862D5E5BD80BC0": {
     "name": "Bouken Roman - Dota (Japan)"
@@ -377,10 +384,12 @@
     "name": "Bruce Lee (Japan)"
   },
   "D1ECE8B5FFEB9B99230E640AF32CB488FEE51E35": {
-    "name": "Bubble Bobble (Korea) (Unl)"
+    "name": "Bubble Bobble (Korea) (Unl)",
+    "ref": "E73946F1F26589D77926276CA4F9DBEE60C53FDE"
   },
   "58551545E73C838A2E995E6951AB644ED2590786": {
-    "name": "Bubble Bobble (Korea) (Alt 1) (Unl)"
+    "name": "Bubble Bobble (Korea) (Alt 1) (Unl)",
+    "ref": "E73946F1F26589D77926276CA4F9DBEE60C53FDE"
   },
   "CE1376941359471CAE41887FE11F10D3B696A926": {
     "name": "Burgertime (Japan)"
@@ -406,7 +415,8 @@
     "logo": "QmatWJHJPTyiStFBEAXZDe2SKFuHG1Lk51caZwLif3Q8tN"
   },
   "C06DE0EDA82E1DAA3EA3CBC5EBA5D884FD0CE8E8": {
-    "name": "Cabbage Patch Kids (Japan)"
+    "name": "Cabbage Patch Kids (Japan)",
+    "ref": "2A0F9899A4D8DBA76DB501D6E3435546CC7CD9AA"
   },
   "77F3F6758BD4CF5D2B44C51DE958AA967C41A9D7": {
     "name": "Candoo Ninja (Japan) (Alt 1)"
@@ -526,7 +536,8 @@
     "name": "Choplifter (Japan) (Alt 2)"
   },
   "EE3CA231328534BBA92F9A908C4FAED865BCEA68": {
-    "name": "Choro Q (Japan) (Alt 1)"
+    "name": "Choro Q (Japan) (Alt 1)",
+    "ref": "99F9E9753EDBAEE820E36A1A58F1CD7AE2B26265"
   },
   "99F9E9753EDBAEE820E36A1A58F1CD7AE2B26265": {
     "name": "Choro Q (Japan)",
@@ -578,10 +589,12 @@
     "name": "Comet Tail (Japan)"
   },
   "8CF06F93D4E8BCF7BE04AE8532F72E6EEC8BA2F1": {
-    "name": "Comic Bakery (Japan) (Alt 2)"
+    "name": "Comic Bakery (Japan) (Alt 2)",
+    "ref": "FC327D3946366CA75DE0D0619EB0917A27E1BD61"
   },
   "D2604A1F76CADD36EDE570E23AD49B0885187E25": {
-    "name": "Comic Bakery (Japan) (Alt 1)"
+    "name": "Comic Bakery (Japan) (Alt 1)",
+    "ref": "FC327D3946366CA75DE0D0619EB0917A27E1BD61"
   },
   "FC327D3946366CA75DE0D0619EB0917A27E1BD61": {
     "name": "Comic Bakery (Japan)",
@@ -881,7 +894,8 @@
     "logo": "QmUVzkDtNoAGMNLGVjKmXA7TuGP5xRN9pvfd7DtyUwsTM8"
   },
   "42FBB18722DF3E34E5B0F935A2DC0CE0D85099E9": {
-    "name": "F-1 Spirit - The Way to Formula-1 (Japan) (Alt 1)"
+    "name": "F-1 Spirit - The Way to Formula-1 (Japan) (Alt 1)",
+    "ref": "FF72A1788D47F9876D9FABD720F6A289FB409090"
   },
   "5C7A13B64B48065231F05C35B4C8B209534F3A8B": {
     "name": "F16 Fighting Falcon (Japan)"
@@ -1009,7 +1023,8 @@
     "logo": "QmYptdp95W7YcuWCpas9Q54R5sFH9MMpeSbiQYBrfwrfmm"
   },
   "D8E9FD3E9420BCBB1DD530FDA1E9C718AA08D8E4": {
-    "name": "Frogger (Japan) (Alt 1)"
+    "name": "Frogger (Japan) (Alt 1)",
+    "ref": "A194B845857C8B33EF4FD5E53D7F38150B4FA4CF"
   },
   "883537F12814EE63C48A0AB744383F8D8E6A5CA2": {
     "name": "Front Line (Japan) (Alt 1)"
@@ -1143,10 +1158,12 @@
     "logo": "QmSzgXZmwaPV71rgoLhGLAmVRvCRpeDTewstJ7Wx7raSvq"
   },
   "B7B4D5C83D8C336DBFE32833BBA974CEA7F0CB8D": {
-    "name": "Goonies, The (Japan) (Alt 2)"
+    "name": "Goonies, The (Japan) (Alt 2)",
+    "ref": "B1248F7B9D4E16A894555C51C533D3FD9A90802E"
   },
   "250D0D6E646EAE4817802C49E367AD8C1C35A462": {
-    "name": "Goonies, The (Japan) (Alt 1)"
+    "name": "Goonies, The (Japan) (Alt 1)",
+    "ref": "B1248F7B9D4E16A894555C51C533D3FD9A90802E"
   },
   "EADF124B91B996B890B1AE84B75B21EE6568D1F3": {
     "name": "GP World (Japan)"
@@ -1157,10 +1174,12 @@
     "logo": "QmaprPuCqdFUcvcjuLjyFhYuT4ywtM8wnz98AMvAAmiUD1"
   },
   "ACD46021A228B2B612C82D04C124B78E7D4C25E3": {
-    "name": "Green Beret (Europe) (Alt 1)"
+    "name": "Green Beret (Europe) (Alt 1)",
+    "ref": "3EA788262557F578B25E4E36E61C1CF9FB1155D1"
   },
   "04325BFE5BC20A8F6D086933D138FB92CA200111": {
-    "name": "Grog's Revenge (Japan) (Alt 1)"
+    "name": "Grog's Revenge (Japan) (Alt 1)",
+    "ref": "32615267E8497DB3F5E6F5348EE309E73C80A1A7"
   },
   "32615267E8497DB3F5E6F5348EE309E73C80A1A7": {
     "name": "Grog's Revenge (Japan)",
@@ -1245,7 +1264,8 @@
     "name": "Helitank (Japan)"
   },
   "C0FA7D53B3E66BD1E1680BB135DB8F74ABBAC52E": {
-    "name": "High Way Star (Korea)"
+    "name": "High Way Star (Korea)",
+    "ref": "F72681F09B52D530EC905E8DF21C4A15E30201AB"
   },
   "F72681F09B52D530EC905E8DF21C4A15E30201AB": {
     "name": "High Way Star (Japan)",
@@ -1319,13 +1339,16 @@
     "name": "Hyper Olympic 2 (Japan)"
   },
   "D1A7CBAFF354B59003F0E297723B912CB6AD0B36": {
-    "name": "Hyper Rally (Japan) (Alt 2)"
+    "name": "Hyper Rally (Japan) (Alt 2)",
+    "ref": "7DFE091E02F6C1B21BD65E44EB5052D564D0EF92"
   },
   "3B13E164130CAB9B36C1A95E06F8D9FD707FC97F": {
-    "name": "Hyper Rally (Japan) (Alt 1)"
+    "name": "Hyper Rally (Japan) (Alt 1)",
+    "ref": "7DFE091E02F6C1B21BD65E44EB5052D564D0EF92"
   },
   "14393568469C74BD6F8BE7770149DB19F0553AB6": {
-    "name": "Hyper Rally (Japan) (Alt 3)"
+    "name": "Hyper Rally (Japan) (Alt 3)",
+    "ref": "7DFE091E02F6C1B21BD65E44EB5052D564D0EF92"
   },
   "7DFE091E02F6C1B21BD65E44EB5052D564D0EF92": {
     "name": "Hyper Rally (Japan)",
@@ -1338,7 +1361,8 @@
     "logo": "QmemgvwXZNfL5rUGpynXbFPn7FiNHvYm2nqbu2GFEWzcBj"
   },
   "9CAB6A793E39076E3F598AA54BFFD5585DDC7E3E": {
-    "name": "Hyper Sports 1 (Japan) (Alt 1)"
+    "name": "Hyper Sports 1 (Japan) (Alt 1)",
+    "ref": "2C85B993671DE612E9338D094565A4EB32A97EA0"
   },
   "9002AA0B2D49A9FC323180487FF591781867A99C": {
     "name": "Hyper Sports 2 (Japan)",
@@ -1351,10 +1375,12 @@
     "logo": "QmQARJARGvXdDgdDEEqz3xyubFA3VxhsjSLe97UtGfz69x"
   },
   "6842FB21ABB2531C17FE0687D77E012348D3DC2C": {
-    "name": "Hyper Sports 3 (Japan) (Alt 2)"
+    "name": "Hyper Sports 3 (Japan) (Alt 2)",
+    "ref": "AF4E0490C178A18A47B34831FB5E3CF8B61D34D9"
   },
   "EC76D4D9B61BDBDE9A4B5BE082DBDAE96321A591": {
-    "name": "Hyper Sports 3 (Japan) (Alt 1)"
+    "name": "Hyper Sports 3 (Japan) (Alt 1)",
+    "ref": "AF4E0490C178A18A47B34831FB5E3CF8B61D34D9"
   },
   "167B226B54CC5B681A69D2C1509116FFABA868E4": {
     "name": "Ice World (Japan)"
@@ -1492,13 +1518,16 @@
     "name": "King Knight (Japan)"
   },
   "43DC3911B9A336BB7B17BDBE6E48464E01F2C425": {
-    "name": "King's Valley (Japan, Europe) (Alt 2)"
+    "name": "King's Valley (Japan, Europe) (Alt 2)",
+    "ref": "07448FFB20F260DF159A19DF2CAE1EE5545A0AEF"
   },
   "8C9A9A9AFE13A58E4CFB72489AF2D6B080DFFAF6": {
-    "name": "King's Valley (Japan, Europe) (Alt 4)"
+    "name": "King's Valley (Japan, Europe) (Alt 4)",
+    "ref": "07448FFB20F260DF159A19DF2CAE1EE5545A0AEF"
   },
   "0CF26BF02C5B94DF118129A681A7F14ADD708177": {
-    "name": "King's Valley (Japan, Europe) (Alt 1)"
+    "name": "King's Valley (Japan, Europe) (Alt 1)",
+    "ref": "07448FFB20F260DF159A19DF2CAE1EE5545A0AEF"
   },
   "07448FFB20F260DF159A19DF2CAE1EE5545A0AEF": {
     "name": "King's Valley (Japan, Europe)",
@@ -1506,7 +1535,8 @@
     "logo": "QmdHkMmFVmfibTnfZvxbQE3gF1LvDWxhq6Ph3E22DZrF9s"
   },
   "A4383F789482A9E868A9F136AA722129673C2A81": {
-    "name": "King's Valley (Japan, Europe) (Alt 3)"
+    "name": "King's Valley (Japan, Europe) (Alt 3)",
+    "ref": "07448FFB20F260DF159A19DF2CAE1EE5545A0AEF"
   },
   "CFD872D005B7BD4CDD6E06C4C0162191F0B0415D": {
     "name": "King's Valley II (Japan, Europe)",
@@ -1523,10 +1553,12 @@
     "name": "Knight Lore (Japan)"
   },
   "DA8249452DA86C0BA44F0AE279CCFF82A1DDD756": {
-    "name": "Knightmare - Majou Densetsu (Japan) (Alt 1)"
+    "name": "Knightmare - Majou Densetsu (Japan) (Alt 1)",
+    "ref": "C8FF858D239C62A859F15C2F1BF44E1D657CEC13"
   },
   "1D6A355A9CE84C78E3BAFC27A4F1151E240F68F0": {
-    "name": "Knightmare - Majou Densetsu (Japan) (Alt 2)"
+    "name": "Knightmare - Majou Densetsu (Japan) (Alt 2)",
+    "ref": "C8FF858D239C62A859F15C2F1BF44E1D657CEC13"
   },
   "C8FF858D239C62A859F15C2F1BF44E1D657CEC13": {
     "name": "Knightmare - Majou Densetsu (Japan)",
@@ -1550,7 +1582,8 @@
     "logo": "QmSvdKAeUxS5xbGojdW911o5We8KJ9UZuutFkWq3KLzkQV"
   },
   "9BDFE44A7A0D5151346FF14ECE3216B5108CC775": {
-    "name": "Konami's Baseball (Japan) (Alt 1)"
+    "name": "Konami's Baseball (Japan) (Alt 1)",
+    "ref": "076D6F5B9F8427F6959F7A255ABB4ACAC0DD9D0C"
   },
   "FC6660A202DBD228C9E0D7C404340D1DCC1E2844": {
     "name": "Konami's Billiards (Europe)",
@@ -1563,16 +1596,20 @@
     "logo": "QmZsWGjcLEzYdkfMCMkzhYe7HEPo24fwfKnRMz1yXPDo5Z"
   },
   "5E349166FCE12D45F3CE3F69ECD6B2A70EF4D68B": {
-    "name": "Konami's Boxing (Japan) (Alt 1)"
+    "name": "Konami's Boxing (Japan) (Alt 1)",
+    "ref": "7ADB6812F3702B93AA2B2A872722BBD40915670D"
   },
   "9E190CF3CA52D85FD34EB5DF2C0DD8490448B9A2": {
-    "name": "Konami's Boxing (Japan) (Alt 2)"
+    "name": "Konami's Boxing (Japan) (Alt 2)",
+    "ref": "7ADB6812F3702B93AA2B2A872722BBD40915670D"
   },
   "10698EA6B0423F2E858A4C28C10F39646CA5495F": {
-    "name": "Konami's Football (Europe) (Alt 2)"
+    "name": "Konami's Football (Europe) (Alt 2)",
+    "ref": "8E9FB34B356B02A839DCE5139C12030593BE13A2"
   },
   "EAA6B787784BAE1C7F648B57DAA1C88CF2B1B095": {
-    "name": "Konami's Football (Europe) (Alt 1)"
+    "name": "Konami's Football (Europe) (Alt 1)",
+    "ref": "8E9FB34B356B02A839DCE5139C12030593BE13A2"
   },
   "8E9FB34B356B02A839DCE5139C12030593BE13A2": {
     "name": "Konami's Football (Europe)",
@@ -1585,22 +1622,27 @@
     "logo": "QmTdkv8fRJi26WkBkuEGF5hrhYV9deLahLRZJfSiAbrqaW"
   },
   "5C7971AA8688FFC429A3E315DD3D45C38F72DDEB": {
-    "name": "Konami's Golf (Japan) (Alt 2)"
+    "name": "Konami's Golf (Japan) (Alt 2)",
+    "ref": "6A3A68836A468CC761A268175C64D53C4C1C48BD"
   },
   "BCF72A4673C7982361DB4EFAF8EBC776B6539938": {
-    "name": "Konami's Golf (Japan) (Alt 1)"
+    "name": "Konami's Golf (Japan) (Alt 1)",
+    "ref": "6A3A68836A468CC761A268175C64D53C4C1C48BD"
   },
   "F415E4096FF3F6A9F17BFBF02F146E44F0D5FB66": {
     "name": "Konami's Mahjong (Japan)"
   },
   "9F4AC1287B8CAA286A847C86AC8601A711BE2D82": {
-    "name": "Konami's Ping-Pong (Japan) (Alt 1)"
+    "name": "Konami's Ping-Pong (Japan) (Alt 1)",
+    "ref": "AE5B8E69732A23AEE102BCD996AD06225F1B3EBA"
   },
   "6C68F7BE1EB46CCA6DCDBB9192CBFF9D59604357": {
-    "name": "Konami's Ping-Pong (Japan) (Alt 3)"
+    "name": "Konami's Ping-Pong (Japan) (Alt 3)",
+    "ref": "AE5B8E69732A23AEE102BCD996AD06225F1B3EBA"
   },
   "5E1A50AFFE1FA973F69E423A8827751B93FC53EE": {
-    "name": "Konami's Ping-Pong (Japan) (Alt 2)"
+    "name": "Konami's Ping-Pong (Japan) (Alt 2)",
+    "ref": "AE5B8E69732A23AEE102BCD996AD06225F1B3EBA"
   },
   "AE5B8E69732A23AEE102BCD996AD06225F1B3EBA": {
     "name": "Konami's Ping-Pong (Japan)",
@@ -1623,7 +1665,8 @@
     "name": "Konami's Synthesizer (Japan) (Program)"
   },
   "D5F5D2850B0BFDA45BA4DFFF70D3FD9986399A94": {
-    "name": "Konami's Tennis (Japan) (Alt 1)"
+    "name": "Konami's Tennis (Japan) (Alt 1)",
+    "ref": "5F6972E9E374753FAF092409F1EE10BBA5231B66"
   },
   "5F6972E9E374753FAF092409F1EE10BBA5231B66": {
     "name": "Konami's Tennis (Japan)",
@@ -1732,7 +1775,8 @@
     "logo": "QmaZanjL2xHnBJVDf8iU1dBjQH9p46oCSSQcYB9VWbyZ8S"
   },
   "BF5678F3C065A4507F71ED6206A63AC922AD93DD": {
-    "name": "Magical Tree (Japan) (Alt 1)"
+    "name": "Magical Tree (Japan) (Alt 1)",
+    "ref": "B82DC590AADC930B43DB303BB3E3458E7695E3B5"
   },
   "3243A5CC562451DE527917E9CA85657286B2852F": {
     "name": "Magnum Prohibition 1931 (Japan)"
@@ -1846,10 +1890,12 @@
     "name": "Mole Mole 2 (Japan)"
   },
   "E61F407E51EA4411145E236272842BDB3E0743E6": {
-    "name": "Monkey Academy (Japan) (Alt 1)"
+    "name": "Monkey Academy (Japan) (Alt 1)",
+    "ref": "8B2626F8DBBB3E97A5087B340A3F3D56C8EE84D1"
   },
   "6FEFE304CC8CD099456BBBBBCB23FF776CB113C9": {
-    "name": "Monkey Academy (Japan) (Alt 2)"
+    "name": "Monkey Academy (Japan) (Alt 2)",
+    "ref": "8B2626F8DBBB3E97A5087B340A3F3D56C8EE84D1"
   },
   "8B2626F8DBBB3E97A5087B340A3F3D56C8EE84D1": {
     "name": "Monkey Academy (Japan)",
@@ -1857,7 +1903,8 @@
     "logo": "QmZfSoivGzdUKtsJofR9QrHkiyboKeSdu84vY6cEf2Vg69"
   },
   "E0D84B3B2AC7675C3ED104797840D43BC2347A5B": {
-    "name": "Monkey Academy (Japan) (Alt 3)"
+    "name": "Monkey Academy (Japan) (Alt 3)",
+    "ref": "8B2626F8DBBB3E97A5087B340A3F3D56C8EE84D1"
   },
   "B6D39BBAEDB89F8C908CC2F44A0AB17E4B80CA4F": {
     "name": "Monster's Fair (Japan)"
@@ -1872,7 +1919,8 @@
     "name": "Moonsweeper (Japan)"
   },
   "14E7EF125CC902001995BBD8ACCA0EAE2F213DC1": {
-    "name": "Mopiranger (Japan) (Alt 4)"
+    "name": "Mopiranger (Japan) (Alt 4)",
+    "ref": "33EC3136DFB6FD44014C8BBFFC8AC79C3CAFE75C"
   },
   "33EC3136DFB6FD44014C8BBFFC8AC79C3CAFE75C": {
     "name": "Mopiranger (Japan)",
@@ -1880,13 +1928,16 @@
     "logo": "QmcKGtRLuRZY93DSVbmNAJ13KubjqEBMQySoaqzYV23cU1"
   },
   "4A185A3DB81C2CE20D176D13FA5F619C6B7A170C": {
-    "name": "Mopiranger (Japan) (Alt 1)"
+    "name": "Mopiranger (Japan) (Alt 1)",
+    "ref": "33EC3136DFB6FD44014C8BBFFC8AC79C3CAFE75C"
   },
   "DDC458BB3C70E0708841E516D9B89220C0E098A1": {
-    "name": "Mopiranger (Japan) (Alt 3)"
+    "name": "Mopiranger (Japan) (Alt 3)",
+    "ref": "33EC3136DFB6FD44014C8BBFFC8AC79C3CAFE75C"
   },
   "1B3059C7873765A476FB7791A4D6FC846AB05ADE": {
-    "name": "Mopiranger (Japan) (Alt 2)"
+    "name": "Mopiranger (Japan) (Alt 2)",
+    "ref": "33EC3136DFB6FD44014C8BBFFC8AC79C3CAFE75C"
   },
   "4DD934902907DB50BA76053F59AE7737D55824F4": {
     "name": "Morita Kazuo no Othello (Japan)"
@@ -1970,7 +2021,8 @@
     "name": "Nausicaa (Japan)"
   },
   "F0E4168EA18188FCA2581526C2503223B9A28581": {
-    "name": "Nemesis (Japan, Europe) (Alt 1)"
+    "name": "Nemesis (Japan, Europe) (Alt 1)",
+    "ref": "E31AC6520E912C27CE96431A1DFB112BF71CB7B9"
   },
   "E31AC6520E912C27CE96431A1DFB112BF71CB7B9": {
     "name": "Nemesis (Japan, Europe)",
@@ -1978,7 +2030,8 @@
     "logo": "QmNkMbp4KziAZh4BSeQecH8pKnLGnRs7pK4TMjmrcZHqYh"
   },
   "6844758FF5C2C410115D4D7CF12498C42E931732": {
-    "name": "Nemesis 2 (Japan) (Demo)"
+    "name": "Nemesis 2 (Japan) (Demo)",
+    "ref": "D63E20369F98487767810A0C57603BEF6A2A07E5"
   },
   "D63E20369F98487767810A0C57603BEF6A2A07E5": {
     "name": "Nemesis 2 (Japan, Europe)",
@@ -1986,13 +2039,16 @@
     "logo": "QmTzfGKTRaDPYofGzWgwYStoTzkAjZrcqh3GUQMD677Ae9"
   },
   "AB30CDEAACBDF14E6366D43D881338178FC665CB": {
-    "name": "Nemesis 2 (Japan, Europe) (Alt 1)"
+    "name": "Nemesis 2 (Japan, Europe) (Alt 1)",
+    "ref": "D63E20369F98487767810A0C57603BEF6A2A07E5"
   },
   "4C2F015685A17DB7A8C3893E868E0A84A8DBF1E5": {
-    "name": "Nemesis 2 (Japan, Europe) (Beta)"
+    "name": "Nemesis 2 (Japan, Europe) (Beta)",
+    "ref": "D63E20369F98487767810A0C57603BEF6A2A07E5"
   },
   "5692E41B3A4C5E767CF290FD6C24942D0FD7B2E3": {
-    "name": "Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 2)"
+    "name": "Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 2)",
+    "ref": "7393F677E0FAE5FC83071C6B74756117B7D75E2D"
   },
   "7393F677E0FAE5FC83071C6B74756117B7D75E2D": {
     "name": "Nemesis 3 - The Eve of Destruction (Japan, Europe)",
@@ -2000,7 +2056,8 @@
     "logo": "QmTDvvsX8L2JY14nDtHfkXxxG7AEAdefqf1AiQ7CcpPHVE"
   },
   "0413BB3AEACB0C28429B8C85B42796DBE48BEF6D": {
-    "name": "Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 1)"
+    "name": "Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 1)",
+    "ref": "7393F677E0FAE5FC83071C6B74756117B7D75E2D"
   },
   "B7FD07B7825C6BEEB19B1F38631D2869F60939FB": {
     "name": "Nessen Koushiyen (Japan)"
@@ -2092,7 +2149,8 @@
     "logo": "QmXqPxGrGBMfj68Z6z7axw2B6aWYKFbPC2vhkKYsc9BW8p"
   },
   "75D3B72D9CEEAA55C76223D935629A30AE4124D6": {
-    "name": "Parodius (Japan) (Alt 1)"
+    "name": "Parodius (Japan) (Alt 1)",
+    "ref": "2220363AE56EF707AB2471FCDB36F4816AD1D32C"
   },
   "A6B2FDAE9551EF3633926F6177C771D794D1E91B": {
     "name": "Pasokon Sakkyokuka (Japan) (Program)"
@@ -2149,7 +2207,8 @@
     "logo": "QmXpqQxWcDpxECGyj9hiXV2iL1m13gC551EEhhgGP71tAY"
   },
   "211E1F7E86495178FB2B05E163B04ED4B7455034": {
-    "name": "Pine Applin (Japan) (Alt 1)"
+    "name": "Pine Applin (Japan) (Alt 1)",
+    "ref": "878554D3B579E72B2D3C22E6330208EE0D1EE8A6"
   },
   "91BD6C21530654FAB12CD8A797044D494834C223": {
     "name": "Pingball Maker (Japan)"
@@ -2161,13 +2220,16 @@
     "name": "Pipi (Japan)"
   },
   "CF8E40315F34E30E1BE4776BBEBC08C0A8403523": {
-    "name": "Pippols (Japan) (Alt 3)"
+    "name": "Pippols (Japan) (Alt 3)",
+    "ref": "10E63EBA7D2B10D946822F21E7FD106F5DFAB632"
   },
   "0A9C576EABAF2651DDCA35BF17F96E509D6C6BA0": {
-    "name": "Pippols (Japan) (Alt 1)"
+    "name": "Pippols (Japan) (Alt 1)",
+    "ref": "10E63EBA7D2B10D946822F21E7FD106F5DFAB632"
   },
   "D621E2A2F0F924A17673F5D47F2182095074ACF4": {
-    "name": "Pippols (Japan) (Alt 2)"
+    "name": "Pippols (Japan) (Alt 2)",
+    "ref": "10E63EBA7D2B10D946822F21E7FD106F5DFAB632"
   },
   "10E63EBA7D2B10D946822F21E7FD106F5DFAB632": {
     "name": "Pippols (Japan)",
@@ -2180,7 +2242,8 @@
     "logo": "QmXTPBj4AZF86QjKLZKuP1hTnGfyJch5qoqHPNcDNbMBte"
   },
   "AE8C7355C829248305384243F78A870453367E77": {
-    "name": "Pitfall II - Lost Caverns (Japan) (Alt 1)"
+    "name": "Pitfall II - Lost Caverns (Japan) (Alt 1)",
+    "ref": "78079266711E60420480E4D95A39F0D7D974AD32"
   },
   "B88E9C548873DCFD190E0E38F7B279344EEA41EC": {
     "name": "Pitfall! (Japan)"
@@ -2234,7 +2297,8 @@
     "name": "Pyramid Warp (Japan)"
   },
   "2E16A588246743C9B901AFDBF1BA094A0B1C8B5D": {
-    "name": "Q-bert (Japan) (Alt 1)"
+    "name": "Q-bert (Japan) (Alt 1)",
+    "ref": "531A7F736D86095D791D6D0F267BE66EEF07949C"
   },
   "531A7F736D86095D791D6D0F267BE66EEF07949C": {
     "name": "Q-bert (Japan)",
@@ -2272,7 +2336,8 @@
     "name": "Rally-X (Japan) (Alt 1)"
   },
   "FE1D02284B0B051308E3C796E8E9EEE2F86521B8": {
-    "name": "Rambo (Japan) (Alt 3)"
+    "name": "Rambo (Japan) (Alt 3)",
+    "ref": "770805BD0BE8B09A3BE10030060D6AD8DC07D1C3"
   },
   "770805BD0BE8B09A3BE10030060D6AD8DC07D1C3": {
     "name": "Rambo (Japan)",
@@ -2280,10 +2345,12 @@
     "logo": "QmXUfp81vnEK1mcECrns9hihbkfyE9cM4xAwp5nmzNcK5H"
   },
   "4334ACC2BD5C921BC4DCB6DE9A1FCC79D843EE15": {
-    "name": "Rambo (Japan) (Alt 1)"
+    "name": "Rambo (Japan) (Alt 1)",
+    "ref": "770805BD0BE8B09A3BE10030060D6AD8DC07D1C3"
   },
   "AC381DFB4D0B52DEDB18A8DF7A4651ED2978D12F": {
-    "name": "Rambo (Japan) (Alt 2)"
+    "name": "Rambo (Japan) (Alt 2)",
+    "ref": "770805BD0BE8B09A3BE10030060D6AD8DC07D1C3"
   },
   "54A49A3C8B42B8B246E62ED45346CF52836DDCAC": {
     "name": "Real Tennis (Japan)"
@@ -2312,10 +2379,12 @@
     "logo": "QmeWP8jKef1bY5B6a11veULFnJSTphAf6ZcMbK2nAfnJQK"
   },
   "A1E14912D45944B9A6BAEF1D4D3A04C1AE8DF923": {
-    "name": "River Raid (Japan)"
+    "name": "River Raid (Japan)",
+    "ref": "33BE9017FAF173EAE04D0C91CA8D42D1C20596C0"
   },
   "7ABDF08E9C0A511B8182C502ED8C5F42778437E9": {
-    "name": "Road Fighter (Japan) (Alt 1)"
+    "name": "Road Fighter (Japan) (Alt 1)",
+    "ref": "BF4A0BAB1E8EAA70A8B12CD9A81D7A90A74C9E26"
   },
   "BF4A0BAB1E8EAA70A8B12CD9A81D7A90A74C9E26": {
     "name": "Road Fighter (Japan)",
@@ -2477,7 +2546,8 @@
     "name": "Space Walk (Europe)"
   },
   "B9C98B80216983F97E28293B576CA9BE3602C1A1": {
-    "name": "Sparkie (Japan)"
+    "name": "Sparkie (Japan)",
+    "ref": "4B996BDDF88605C432F73564922106A63D31F62C"
   },
   "4B996BDDF88605C432F73564922106A63D31F62C": {
     "name": "Sparkie (Japan) (Alt 1)",
@@ -2583,7 +2653,8 @@
     "logo": "QmNzZ9KwacdY57qGwPuAzio213TLz1NgRxA9c13PFgVaxB"
   },
   "7AD00597CEB5A02379055230D907C4421982329A": {
-    "name": "Super Cobra (Japan) (Alt 1)"
+    "name": "Super Cobra (Japan) (Alt 1)",
+    "ref": "A84608F1C2FE1AEA1A8A586F2E335CB64BB951FC"
   },
   "16553C30FCDD0E1D00A48FE1CB2DEF537C4A7C3F": {
     "name": "Super Columns (Japan)"
@@ -2700,10 +2771,12 @@
     "name": "Tetsuman (Japan) (Alt 1)"
   },
   "049E7DCCD3977049B5F68AAD7754105B014BA771": {
-    "name": "Thexder (Japan) (Alt 2)"
+    "name": "Thexder (Japan) (Alt 2)",
+    "ref": "A2109DA08B1921C4B3B47C6847598D424581B508"
   },
   "6420473EC647E4D750BC2247020B6722435B5211": {
-    "name": "Thexder (Japan) (Alt 1)"
+    "name": "Thexder (Japan) (Alt 1)",
+    "ref": "A2109DA08B1921C4B3B47C6847598D424581B508"
   },
   "A2109DA08B1921C4B3B47C6847598D424581B508": {
     "name": "Thexder (Japan)",
@@ -2726,7 +2799,8 @@
     "name": "Thunderbolt (Japan) (Alt 2)"
   },
   "B3C2DC4D1C940DDB4B9E742B8F5A47AB1E2D385F": {
-    "name": "Time Pilot (Japan) (Alt 1)"
+    "name": "Time Pilot (Japan) (Alt 1)",
+    "ref": "C1C5EC4042760880216F781EBD5E7174A3B0F9CA"
   },
   "C1C5EC4042760880216F781EBD5E7174A3B0F9CA": {
     "name": "Time Pilot (Japan)",
@@ -2785,13 +2859,16 @@
     "logo": "QmQGK4BBxUG8zrHBA3a7hhPs6zVPoNac3j6BLW44vvv3WF"
   },
   "8B828D33DCDFD324DF1827EF79F5CA9635968C6E": {
-    "name": "Twin Bee (Japan) (Alt 3)"
+    "name": "Twin Bee (Japan) (Alt 3)",
+    "ref": "D33FE18EDE20DA4DD3D6991A9C2995E149C8FC3F"
   },
   "751D722A4F36A03E88AC62118AE8D880E40C1C84": {
-    "name": "Twin Bee (Japan) (Alt 1)"
+    "name": "Twin Bee (Japan) (Alt 1)",
+    "ref": "D33FE18EDE20DA4DD3D6991A9C2995E149C8FC3F"
   },
   "ADB3977309D373AD1DC995AE7D2F8280F1673D66": {
-    "name": "Twin Bee (Japan) (Alt 2)"
+    "name": "Twin Bee (Japan) (Alt 2)",
+    "ref": "D33FE18EDE20DA4DD3D6991A9C2995E149C8FC3F"
   },
   "4FA5382DF5A8FF7D631BE22BB8445E7BC8018A11": {
     "name": "Twin Hammer (Europe)"
@@ -2865,13 +2942,16 @@
     "logo": "QmXisaVsLbpd1Em7Yaga6diUv96vyk8FEeurRGyeeJvp8x"
   },
   "8B3994AB39768F15617FB2CD9199000226B935BD": {
-    "name": "Yie Ar Kung-Fu (Japan) (Alt 1)"
+    "name": "Yie Ar Kung-Fu (Japan) (Alt 1)",
+    "ref": "A3090A15C95334DA3E0F94030EADEE02B5032C0C"
   },
   "5017ABECA8FBED43FF2FD1A936843ACDC7192DCC": {
-    "name": "Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Alt 2)"
+    "name": "Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Alt 2)",
+    "ref": "57827F8D49369E4DBF20A968E535374D35FF1648"
   },
   "609D0BAC4933D1BCC877746A3E14D82C204F40E7": {
-    "name": "Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Alt 1)"
+    "name": "Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Alt 1)",
+    "ref": "57827F8D49369E4DBF20A968E535374D35FF1648"
   },
   "57827F8D49369E4DBF20A968E535374D35FF1648": {
     "name": "Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan)",
@@ -2903,7 +2983,8 @@
     "name": "Zanac (Japan) (v2) (Alt 1)"
   },
   "3DA301B1082C158E505523FA22C19F1B3F4D851C": {
-    "name": "Zaxxon (Japan) (Alt 1)"
+    "name": "Zaxxon (Japan) (Alt 1)",
+    "ref": "D88F33EE40839F87CDCE6CC4820E1DD192A01776"
   },
   "D88F33EE40839F87CDCE6CC4820E1DD192A01776": {
     "name": "Zaxxon (Japan)",
@@ -2979,7 +3060,8 @@
     "name": "AshGuine Story III - Fukushuu no Honoo (Japan)"
   },
   "C5EDD1C74E72DDAEBA1027DA1E848E2C4FDA94F5": {
-    "name": "Bubble Bobble (Japan) (Alt 1)"
+    "name": "Bubble Bobble (Japan) (Alt 1)",
+    "ref": "E73946F1F26589D77926276CA4F9DBEE60C53FDE"
   },
   "E73946F1F26589D77926276CA4F9DBEE60C53FDE": {
     "name": "Bubble Bobble (Japan)",
@@ -3120,13 +3202,16 @@
     "name": "Garyuu Ou (Japan) (Alt 1)"
   },
   "D89922ED43EA4FC0B87D7E5BAEF3F072BB566849": {
-    "name": "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3)"
+    "name": "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3)",
+    "ref": "E22A6317747903475095008D0D5AD9427DDB34AF"
   },
   "B8F4EE146C3CDB8F506371D001E6398ECDA85251": {
-    "name": "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1)"
+    "name": "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1)",
+    "ref": "E22A6317747903475095008D0D5AD9427DDB34AF"
   },
   "AD995EDE603A28C72DAD06C245FC7D4DAD85D230": {
-    "name": "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2)"
+    "name": "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2)",
+    "ref": "E22A6317747903475095008D0D5AD9427DDB34AF"
   },
   "E22A6317747903475095008D0D5AD9427DDB34AF": {
     "name": "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)",
@@ -3134,7 +3219,8 @@
     "logo": "QmYTVzPPuwcPUpw275o6saED4fdGDS5emivxyzXvjY76Ky"
   },
   "DBED87A53C604F7140577D6707CA0FC8490463A6": {
-    "name": "Gekitotsu Pennant Race 2 (Japan) (English Menu)"
+    "name": "Gekitotsu Pennant Race 2 (Japan) (English Menu)",
+    "ref": "93B07E3CD5AE2F00B36824A74F83A3EF0D65D0D5"
   },
   "93B07E3CD5AE2F00B36824A74F83A3EF0D65D0D5": {
     "name": "Gekitotsu Pennant Race 2 (Japan)",
@@ -3159,7 +3245,8 @@
     "logo": "QmVTQa7UGnGZLKDKoVLDCyxvqhnPpi3NA1zFi9Exg185oV"
   },
   "AE3C3C2C022F566D2E790ABA193470D5826F36CF": {
-    "name": "Han Seimei Senki Andorogynus (Japan) (Alt 1)"
+    "name": "Han Seimei Senki Andorogynus (Japan) (Alt 1)",
+    "ref": "55183B7B7DF66950DBB65EF1065D7D987E0FDF5A"
   },
   "32151DDC4303290C09889BF8107493DD34296043": {
     "name": "Hard Ball (Japan)"
@@ -3182,10 +3269,12 @@
     "ref": "D723F2EB1C887DB5448FD56BE5E7C57E60D88E63"
   },
   "612C18616BC800D9EB69B9DA3CD29ECA31F50C1C": {
-    "name": "Hinotori - Houou Hen (Japan) (Alt 1)"
+    "name": "Hinotori - Houou Hen (Japan) (Alt 1)",
+    "ref": "D723F2EB1C887DB5448FD56BE5E7C57E60D88E63"
   },
   "300F20ADDE3941AB10EB158DB48250E8E856A911": {
-    "name": "Hinotori - Houou Hen (Japan) (Alt 2)"
+    "name": "Hinotori - Houou Hen (Japan) (Alt 2)",
+    "ref": "D723F2EB1C887DB5448FD56BE5E7C57E60D88E63"
   },
   "FACB967717C21FED9B375481908AA337B3361C45": {
     "name": "Hole in One Special (Japan)"
@@ -3280,7 +3369,8 @@
     "name": "Malaya no Hibou (Japan)"
   },
   "A52021F1B257C7C35D626D5D642134091C45E4F4": {
-    "name": "Metal Gear (Japan)"
+    "name": "Metal Gear (Japan)",
+    "ref": "B656BD19DF58FC1BA4628342B87BEEEC5948E0B3"
   },
   "B656BD19DF58FC1BA4628342B87BEEEC5948E0B3": {
     "name": "Metal Gear (Europe)",
@@ -3288,7 +3378,8 @@
     "logo": "QmTqRrdvgcRSAcxdPAL95K2EosvnH2FvXhmkyKHieywJPU"
   },
   "21AC0AE7DA47ABF30986B479489134C79405F95D": {
-    "name": "Metal Gear 2 - Solid Snake (Japan) (Demo)"
+    "name": "Metal Gear 2 - Solid Snake (Japan) (Demo)",
+    "ref": "AF567EA6E27912D6D5BF1C8E9BC18E9B393FD1AB"
   },
   "AF567EA6E27912D6D5BF1C8E9BC18E9B393FD1AB": {
     "name": "Metal Gear 2 - Solid Snake (Japan)",
@@ -3359,7 +3450,8 @@
     "logo": "QmX4inkpyqZR9hRB7jMSVhMYfDm924cHpz6JreBXog2DQc"
   },
   "788C53657D9EA180D04F29CCAF1F1C29A9B75519": {
-    "name": "Penguin-kun Wars 2 (Japan) (Alt 1)"
+    "name": "Penguin-kun Wars 2 (Japan) (Alt 1)",
+    "ref": "B7104477C8801FE54D1BA91F3A77AC6E4F399F52"
   },
   "AE6AD52D5EBCAD7722EA070109A286FE13B06CB7": {
     "name": "Predator (Japan)"
@@ -3377,10 +3469,12 @@
     "name": "Project A2 - Shijousaidai no Hyouteki (Japan)"
   },
   "2312BFF70C83E60D1CA0FB9CA78A50637D02771C": {
-    "name": "Quarth (Korea)"
+    "name": "Quarth (Korea)",
+    "ref": "0C62591033AA4E5E6B9EEB21EB2E5E60DCD8EE8E"
   },
   "1CCAC7CAEAAA1C5A89503221B0A5EEC2F34B1C91": {
-    "name": "Quarth (Japan) (Demo)"
+    "name": "Quarth (Japan) (Demo)",
+    "ref": "0C62591033AA4E5E6B9EEB21EB2E5E60DCD8EE8E"
   },
   "0C62591033AA4E5E6B9EEB21EB2E5E60DCD8EE8E": {
     "name": "Quarth (Japan)",
@@ -3486,7 +3580,8 @@
     "name": "Topple Zip (Japan)"
   },
   "632CB0834441626D20CC113CFAD2E3A7EC0E0DC7": {
-    "name": "Treasure of Usas, The (Japan, Europe) (Alt 1)"
+    "name": "Treasure of Usas, The (Japan, Europe) (Alt 1)",
+    "ref": "4FF2AAD8371E382E203C7F29B665612A8C9D937C"
   },
   "4FF2AAD8371E382E203C7F29B665612A8C9D937C": {
     "name": "Treasure of Usas, The (Japan, Europe)",
@@ -3506,13 +3601,16 @@
     "name": "Urusei Yatsura - Koi no Survival Birthday (Japan)"
   },
   "E78511A2B8CCA37A96AA396C938863C92A20C797": {
-    "name": "Vampire Killer (Japan, Europe) (Alt 3)"
+    "name": "Vampire Killer (Japan, Europe) (Alt 3)",
+    "ref": "5EF7D03B138A2023F6DEF241B671C666F97ED83B"
   },
   "5460A88C25386B1B950B57FC1325FD75587CC825": {
-    "name": "Vampire Killer (Japan, Europe) (Alt 1)"
+    "name": "Vampire Killer (Japan, Europe) (Alt 1)",
+    "ref": "5EF7D03B138A2023F6DEF241B671C666F97ED83B"
   },
   "B58E77F819DFBDE72845801CFF4B4E0A2F20EF5F": {
-    "name": "Vampire Killer (Japan, Europe) (Alt 2)"
+    "name": "Vampire Killer (Japan, Europe) (Alt 2)",
+    "ref": "5EF7D03B138A2023F6DEF241B671C666F97ED83B"
   },
   "5EF7D03B138A2023F6DEF241B671C666F97ED83B": {
     "name": "Vampire Killer (Japan, Europe)",
@@ -3552,7 +3650,8 @@
     "logo": "Qmaj7EUNYyQBjsYgwDSNreXJPaZC9g6u6wdPVvGjmPUd4r"
   },
   "9200FD6F1E92F78E3D9C6D082837F719AD0500D4": {
-    "name": "Zanac Ex (Japan) (Alt 1)"
+    "name": "Zanac Ex (Japan) (Alt 1)",
+    "ref": "23E702084E3031158A50A0560746767BBC1B7BEE"
   },
   "D526249C1A35CF1174300DF75BC28662F579290A": {
     "name": "Zoids - Chuuou Tairiku no Tatakai (Japan)"

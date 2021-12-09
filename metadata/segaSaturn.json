@@ -54,7 +54,8 @@
     "name": "Street Fighter Zero 2 (Japan)"
   },
   "Virtua Fighter 2 (Japan) (Rev B) (39B)": {
-    "name": "Virtua Fighter 2 (Japan) (Rev B) (39B)"
+    "name": "Virtua Fighter 2 (Japan) (Rev B) (39B)",
+    "ref": "Virtua Fighter 2 (USA)"
   },
   "Grandia - Digital Museum (Japan) (Rev A) (10M)": {
     "name": "Grandia - Digital Museum (Japan) (Rev A) (10M)"
@@ -117,7 +118,8 @@
     "name": "Rockman 8 - Metal Heroes (Japan)"
   },
   "Clockwork Knight - Pepperouchau's Adventure (Europe)": {
-    "name": "Clockwork Knight - Pepperouchau's Adventure (Europe)"
+    "name": "Clockwork Knight - Pepperouchau's Adventure (Europe)",
+    "ref": "Clockwork Knight - Pepperouchau's Adventure (USA)"
   },
   "World Cup Golf - In Hyatt Dorado Beach (Japan) (En,Ja)": {
     "name": "World Cup Golf - In Hyatt Dorado Beach (Japan) (En,Ja)"
@@ -141,10 +143,12 @@
     "name": "Chou Jikuu Yousai Macross - Ai Oboete Imasu ka (Japan) (Disc 2)"
   },
   "Alien Trilogy (Europe) (En,Fr,Es,It) (4S)": {
-    "name": "Alien Trilogy (Europe) (En,Fr,Es,It) (4S)"
+    "name": "Alien Trilogy (Europe) (En,Fr,Es,It) (4S)",
+    "ref": "Alien Trilogy (USA)"
   },
   "King of Fighters '95, The (Japan) (2M)": {
-    "name": "King of Fighters '95, The (Japan) (2M)"
+    "name": "King of Fighters '95, The (Japan) (2M)",
+    "ref": "King of Fighters '95, The (Europe)"
   },
   "Sega Ages - Galaxy Force II (Japan)": {
     "name": "Sega Ages - Galaxy Force II (Japan)"
@@ -164,7 +168,8 @@
     "name": "Die Hard Trilogy (Japan)"
   },
   "Virtua Cop 2 (Japan) (2M)": {
-    "name": "Virtua Cop 2 (Japan) (2M)"
+    "name": "Virtua Cop 2 (Japan) (2M)",
+    "ref": "Virtua Cop 2 (USA)"
   },
   "Sega Touring Car Championship (Japan)": {
     "name": "Sega Touring Car Championship (Japan)"
@@ -232,7 +237,8 @@
     "name": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) (Shokai Tokutenban) (3M, 4M, 5M, 6M)"
   },
   "Dead or Alive (Japan) (2M)": {
-    "name": "Dead or Alive (Japan) (2M)"
+    "name": "Dead or Alive (Japan) (2M)",
+    "ref": "Dead or Alive (Japan) (Rev A) (10M)"
   },
   "Marvel Super Heroes vs. Street Fighter (Japan)": {
     "name": "Marvel Super Heroes vs. Street Fighter (Japan)",
@@ -240,16 +246,19 @@
     "logo": "QmS681BudNUSdx9Zj73Ce4r4DDjsRDw8MGn8uJxFUvnPLp"
   },
   "Virtua Fighter (Japan)": {
-    "name": "Virtua Fighter (Japan)"
+    "name": "Virtua Fighter (Japan)",
+    "ref": "Virtua Fighter (USA)"
   },
   "Vampire Savior (Japan)": {
     "name": "Vampire Savior (Japan)"
   },
   "Panzer Dragoon (Japan) (5A)": {
-    "name": "Panzer Dragoon (Japan) (5A)"
+    "name": "Panzer Dragoon (Japan) (5A)",
+    "ref": "Panzer Dragoon (USA) (5S)"
   },
   "Panzer Dragoon II Zwei (Japan)": {
-    "name": "Panzer Dragoon II Zwei (Japan)"
+    "name": "Panzer Dragoon II Zwei (Japan)",
+    "ref": "Panzer Dragoon II Zwei (USA)"
   },
   "Airs Adventure (Japan)": {
     "name": "Airs Adventure (Japan)"
@@ -270,19 +279,23 @@
     "name": "Alone in the Dark - One-Eyed Jack's Revenge (USA)"
   },
   "Virtua Fighter 2 (Europe) (Rev A) (Made in EU)": {
-    "name": "Virtua Fighter 2 (Europe) (Rev A) (Made in EU)"
+    "name": "Virtua Fighter 2 (Europe) (Rev A) (Made in EU)",
+    "ref": "Virtua Fighter 2 (USA)"
   },
   "Dragon Force (Japan) (4M)": {
-    "name": "Dragon Force (Japan) (4M)"
+    "name": "Dragon Force (Japan) (4M)",
+    "ref": "Dragon Force (USA)"
   },
   "Jikkyou Powerful Pro Yakyuu '95 - Kaimakuban (Japan) (2M)": {
     "name": "Jikkyou Powerful Pro Yakyuu '95 - Kaimakuban (Japan) (2M)"
   },
   "Virtua Cop 2 (Europe)": {
-    "name": "Virtua Cop 2 (Europe)"
+    "name": "Virtua Cop 2 (Europe)",
+    "ref": "Virtua Cop 2 (USA)"
   },
   "Rayman (Europe) (En,Fr,De) (6S)": {
-    "name": "Rayman (Europe) (En,Fr,De) (6S)"
+    "name": "Rayman (Europe) (En,Fr,De) (6S)",
+    "ref": "Rayman (USA) (R2)"
   },
   "Bust-A-Move 3 (Europe)": {
     "name": "Bust-A-Move 3 (Europe)"
@@ -300,13 +313,15 @@
     "name": "Scorcher (Europe)"
   },
   "Sega Rally Championship (Europe) (Made in EU)": {
-    "name": "Sega Rally Championship (Europe) (Made in EU)"
+    "name": "Sega Rally Championship (Europe) (Made in EU)",
+    "ref": "Sega Rally Championship (USA)"
   },
   "Story of Thor 2, The (Europe)": {
     "name": "Story of Thor 2, The (Europe)"
   },
   "Sonic R (Europe)": {
-    "name": "Sonic R (Europe)"
+    "name": "Sonic R (Europe)",
+    "ref": "Sonic R (USA, Brazil)"
   },
   "Riglordsaga (Japan) (Made in U.S.A.) (4S)": {
     "name": "Riglordsaga (Japan) (Made in U.S.A.) (4S)"
@@ -315,13 +330,16 @@
     "name": "Touge King the Spirits (Japan)"
   },
   "Guardian Heroes (Europe)": {
-    "name": "Guardian Heroes (Europe)"
+    "name": "Guardian Heroes (Europe)",
+    "ref": "Guardian Heroes (USA)"
   },
   "Dark Savior (Europe)": {
-    "name": "Dark Savior (Europe)"
+    "name": "Dark Savior (Europe)",
+    "ref": "Dark Savior (USA)"
   },
   "Resident Evil (Europe)": {
-    "name": "Resident Evil (Europe)"
+    "name": "Resident Evil (Europe)",
+    "ref": "Resident Evil (USA)"
   },
   "Shining the Holy Ark (Europe)": {
     "name": "Shining the Holy Ark (Europe)"
@@ -338,7 +356,8 @@
     "logo": "QmTmHQECjskJZ9UN9s8HAs6qiKXwQJkHM8sXwiaZb228dT"
   },
   "Virtua Cop (Europe) (4S)": {
-    "name": "Virtua Cop (Europe) (4S)"
+    "name": "Virtua Cop (Europe) (4S)",
+    "ref": "Virtua Cop (USA) (7S)"
   },
   "Whizz (Europe)": {
     "name": "Whizz (Europe)"
@@ -353,7 +372,8 @@
     "name": "Myst (Europe) (En,Fr,De,Es)"
   },
   "WipEout (Europe)": {
-    "name": "WipEout (Europe)"
+    "name": "WipEout (Europe)",
+    "ref": "WipEout (USA)"
   },
   "Mystaria - The Realms of Lore (Europe)": {
     "name": "Mystaria - The Realms of Lore (Europe)"
@@ -373,19 +393,23 @@
     "ref": "Virtua Racing (USA) (12S)"
   },
   "Daytona USA (Japan)": {
-    "name": "Daytona USA (Japan)"
+    "name": "Daytona USA (Japan)",
+    "ref": "Daytona USA (USA)"
   },
   "Virtua Cop (Japan) (2M)": {
-    "name": "Virtua Cop (Japan) (2M)"
+    "name": "Virtua Cop (Japan) (2M)",
+    "ref": "Virtua Cop (USA) (7S)"
   },
   "Sega Rally Championship (Japan)": {
-    "name": "Sega Rally Championship (Japan)"
+    "name": "Sega Rally Championship (Japan)",
+    "ref": "Sega Rally Championship (USA)"
   },
   "Sakura Taisen (Japan) (Disc 1) (8M, 13M)": {
     "name": "Sakura Taisen (Japan) (Disc 1) (8M, 13M)"
   },
   "Dragon Force (Japan) (1M, 2M, 3M)": {
-    "name": "Dragon Force (Japan) (1M, 2M, 3M)"
+    "name": "Dragon Force (Japan) (1M, 2M, 3M)",
+    "ref": "Dragon Force (USA)"
   },
   "Thor - Seireioukiden (Japan)": {
     "name": "Thor - Seireioukiden (Japan)"
@@ -409,7 +433,8 @@
     "name": "Magic Knight Rayearth (Japan) (Genteiban) (1M)"
   },
   "Panzer Dragoon (Japan) (3A, 3B)": {
-    "name": "Panzer Dragoon (Japan) (3A, 3B)"
+    "name": "Panzer Dragoon (Japan) (3A, 3B)",
+    "ref": "Panzer Dragoon (USA) (5S)"
   },
   "Azel - Panzer Dragoon RPG (Japan) (Disc 1) (1M)": {
     "name": "Azel - Panzer Dragoon RPG (Japan) (Disc 1) (1M)"
@@ -427,7 +452,8 @@
     "name": "DecAthlete (Japan) (2M)"
   },
   "Guardian Heroes (Japan) (3M)": {
-    "name": "Guardian Heroes (Japan) (3M)"
+    "name": "Guardian Heroes (Japan) (3M)",
+    "ref": "Guardian Heroes (USA)"
   },
   "Kisuishou Densetsu Astal (Japan) (1M, 4M)": {
     "name": "Kisuishou Densetsu Astal (Japan) (1M, 4M)"
@@ -496,7 +522,8 @@
     "name": "Sotsugyou Crossworld (Japan)"
   },
   "Shining Force III (Europe) (R)": {
-    "name": "Shining Force III (Europe) (R)"
+    "name": "Shining Force III (Europe) (R)",
+    "ref": "Shining Force III (USA)"
   },
   "Wachenroeder (Japan)": {
     "name": "Wachenroeder (Japan)"
@@ -505,10 +532,12 @@
     "name": "Sega Ages - Space Harrier (Japan)"
   },
   "Sonic R (Japan) (1M)": {
-    "name": "Sonic R (Japan) (1M)"
+    "name": "Sonic R (Japan) (1M)",
+    "ref": "Sonic R (USA, Brazil)"
   },
   "Sonic Jam (Japan)": {
-    "name": "Sonic Jam (Japan)"
+    "name": "Sonic Jam (Japan)",
+    "ref": "Sonic Jam (USA)"
   },
   "Shining Force III - Scenario 3 - Hyouheki no Jashinguu (Japan)": {
     "name": "Shining Force III - Scenario 3 - Hyouheki no Jashinguu (Japan)"
@@ -571,7 +600,8 @@
     "name": "Sega Ages - Columns Arcade Collection (Japan)"
   },
   "Burning Rangers (Japan)": {
-    "name": "Burning Rangers (Japan)"
+    "name": "Burning Rangers (Japan)",
+    "ref": "Burning Rangers (USA)"
   },
   "Doom (Europe) (R)": {
     "name": "Doom (Europe) (R)"
@@ -583,7 +613,8 @@
     "name": "Puzzle Bobble 2X (Japan) (2M1, 2MB1)"
   },
   "Darius Gaiden (Japan) (3M)": {
-    "name": "Darius Gaiden (Japan) (3M)"
+    "name": "Darius Gaiden (Japan) (3M)",
+    "ref": "Darius Gaiden (USA)"
   },
   "Cleopatra Fortune (Japan)": {
     "name": "Cleopatra Fortune (Japan)"
@@ -616,7 +647,8 @@
     "name": "Capcom Generation - Dai-5-shuu Kakutouka-tachi (Japan)"
   },
   "Marvel Super Heroes (Japan)": {
-    "name": "Marvel Super Heroes (Japan)"
+    "name": "Marvel Super Heroes (Japan)",
+    "ref": "Marvel Super Heroes (USA)"
   },
   "Quiz Nanairo Dreams - Nijiirochou no Kiseki (Japan)": {
     "name": "Quiz Nanairo Dreams - Nijiirochou no Kiseki (Japan)"
@@ -652,7 +684,8 @@
     "name": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan)"
   },
   "X-Men - Children of the Atom (Japan)": {
-    "name": "X-Men - Children of the Atom (Japan)"
+    "name": "X-Men - Children of the Atom (Japan)",
+    "ref": "X-Men - Children of the Atom (USA)"
   },
   "Cyberbots - Fullmetal Madness (Japan) (1M)": {
     "name": "Cyberbots - Fullmetal Madness (Japan) (1M)"
@@ -664,7 +697,8 @@
     "name": "Dungeons & Dragons Collection (Japan) (Disc 2) (Shadow over Mystara)"
   },
   "Virtua Fighter Remix (Japan) (6M)": {
-    "name": "Virtua Fighter Remix (Japan) (6M)"
+    "name": "Virtua Fighter Remix (Japan) (6M)",
+    "ref": "Virtua Fighter Remix (USA)"
   },
   "Vampire Hunter - Darkstalkers' Revenge (Japan) (1M)": {
     "name": "Vampire Hunter - Darkstalkers' Revenge (Japan) (1M)"
@@ -748,7 +782,8 @@
     "name": "Shinrei Jusatsushi Taroumaru (Japan)"
   },
   "Tetris Plus (Japan)": {
-    "name": "Tetris Plus (Japan)"
+    "name": "Tetris Plus (Japan)",
+    "ref": "Tetris Plus (USA)"
   },
   "Waku Waku Puyo Puyo Dungeon (Japan) (4M)": {
     "name": "Waku Waku Puyo Puyo Dungeon (Japan) (4M)"
@@ -757,7 +792,8 @@
     "name": "Puyo Puyo Sun (Japan) (1M, 3M)"
   },
   "House of the Dead, The (Japan)": {
-    "name": "House of the Dead, The (Japan)"
+    "name": "House of the Dead, The (Japan)",
+    "ref": "House of the Dead, The (USA)"
   },
   "Albert Odyssey Gaiden - Legend of Eldean (Japan) (3M)": {
     "name": "Albert Odyssey Gaiden - Legend of Eldean (Japan) (3M)"
@@ -847,10 +883,12 @@
     "name": "Bubble Bobble also featuring Rainbow Islands (Europe)"
   },
   "Street Fighter Alpha - Warriors' Dreams (Europe)": {
-    "name": "Street Fighter Alpha - Warriors' Dreams (Europe)"
+    "name": "Street Fighter Alpha - Warriors' Dreams (Europe)",
+    "ref": "Street Fighter Alpha - Warriors' Dreams (USA)"
   },
   "Street Fighter Alpha 2 (Europe)": {
-    "name": "Street Fighter Alpha 2 (Europe)"
+    "name": "Street Fighter Alpha 2 (Europe)",
+    "ref": "Street Fighter Alpha 2 (USA)"
   },
   "Street Fighter - Real Battle on Film (Japan) (4M)": {
     "name": "Street Fighter - Real Battle on Film (Japan) (4M)"
@@ -877,16 +915,19 @@
     "name": "Command & Conquer (Japan) (Disc 2) (NOD Disc)"
   },
   "Road Rash (Europe)": {
-    "name": "Road Rash (Europe)"
+    "name": "Road Rash (Europe)",
+    "ref": "Road Rash (USA)"
   },
   "Kaitei Daisensou (Japan)": {
     "name": "Kaitei Daisensou (Japan)"
   },
   "Virtua Fighter Remix (Japan) (2M, 5M)": {
-    "name": "Virtua Fighter Remix (Japan) (2M, 5M)"
+    "name": "Virtua Fighter Remix (Japan) (2M, 5M)",
+    "ref": "Virtua Fighter Remix (USA)"
   },
   "Ultimate Mortal Kombat 3 (Europe)": {
-    "name": "Ultimate Mortal Kombat 3 (Europe)"
+    "name": "Ultimate Mortal Kombat 3 (Europe)",
+    "ref": "Ultimate Mortal Kombat 3 (USA)"
   },
   "J.League Pro Soccer Club o Tsukurou! (Japan) (Rev B)": {
     "name": "J.League Pro Soccer Club o Tsukurou! (Japan) (Rev B)"
@@ -901,16 +942,19 @@
     "name": "Exhumed (Europe) (En,Fr,De,Es)"
   },
   "Night Warriors - Darkstalkers' Revenge (Europe)": {
-    "name": "Night Warriors - Darkstalkers' Revenge (Europe)"
+    "name": "Night Warriors - Darkstalkers' Revenge (Europe)",
+    "ref": "Night Warriors - Darkstalkers' Revenge (USA)"
   },
   "Virtual Hydlide (Europe)": {
     "name": "Virtual Hydlide (Europe)"
   },
   "Croc - Legend of the Gobbos (Europe)": {
-    "name": "Croc - Legend of the Gobbos (Europe)"
+    "name": "Croc - Legend of the Gobbos (Europe)",
+    "ref": "Croc - Legend of the Gobbos (USA)"
   },
   "Sonic Jam (Europe)": {
-    "name": "Sonic Jam (Europe)"
+    "name": "Sonic Jam (Europe)",
+    "ref": "Sonic Jam (USA)"
   },
   "Gun Griffon (Europe)": {
     "name": "Gun Griffon (Europe)"
@@ -960,7 +1004,8 @@
     "name": "Mobile Suit Gundam (Japan)"
   },
   "Rayman (Japan)": {
-    "name": "Rayman (Japan)"
+    "name": "Rayman (Japan)",
+    "ref": "Rayman (USA) (R2)"
   },
   "Willy Wombat (Japan)": {
     "name": "Willy Wombat (Japan)"
@@ -972,7 +1017,8 @@
     "name": "Magical Hoppers (Japan)"
   },
   "Saturn Bomberman (Japan)": {
-    "name": "Saturn Bomberman (Japan)"
+    "name": "Saturn Bomberman (Japan)",
+    "ref": "Saturn Bomberman (Europe)"
   },
   "Saturn Bomberman Fight!! (Japan)": {
     "name": "Saturn Bomberman Fight!! (Japan)"
@@ -1058,7 +1104,8 @@
     "name": "Time Bokan Series - Bokan to Ippatsu! Doronboo Kanpekiban (Japan)"
   },
   "Dark Savior (Japan)": {
-    "name": "Dark Savior (Japan)"
+    "name": "Dark Savior (Japan)",
+    "ref": "Dark Savior (USA)"
   },
   "Gals Panic SS (Japan)": {
     "name": "Gals Panic SS (Japan)"
@@ -1312,7 +1359,8 @@
     "name": "Nanatsu no Hikan (Japan) (Disc 3) (1M, 2M)"
   },
   "Tomb Raider (Europe)": {
-    "name": "Tomb Raider (Europe)"
+    "name": "Tomb Raider (Europe)",
+    "ref": "Tomb Raider (USA)"
   },
   "WipEout 2097 (Europe)": {
     "name": "WipEout 2097 (Europe)",
@@ -1374,7 +1422,8 @@
     "name": "Christmas NiGHTS into Dreams... (Europe)"
   },
   "NiGHTS into Dreams... (Europe)": {
-    "name": "NiGHTS into Dreams... (Europe)"
+    "name": "NiGHTS into Dreams... (Europe)",
+    "ref": "NiGHTS into Dreams... (USA, Brazil)"
   },
   "Sonic 3D Blast (USA)": {
     "name": "Sonic 3D Blast (USA)",
@@ -1382,10 +1431,12 @@
     "logo": "QmZ5XzL15rRHUL738hr8WF8Fr8Na8YH7n6BU2JTLsXCUV4"
   },
   "Virtua Fighter 2 (USA) (RE)": {
-    "name": "Virtua Fighter 2 (USA) (RE)"
+    "name": "Virtua Fighter 2 (USA) (RE)",
+    "ref": "Virtua Fighter 2 (USA)"
   },
   "WipEout 2097 (Europe) (Demo)": {
-    "name": "WipEout 2097 (Europe) (Demo)"
+    "name": "WipEout 2097 (Europe) (Demo)",
+    "ref": "WipEout 2097 (Europe)"
   },
   "Pinball Graffiti (Europe) (Demo)": {
     "name": "Pinball Graffiti (Europe) (Demo)"
@@ -1418,7 +1469,8 @@
     "name": "Sega Flash Vol. 7 (Europe)"
   },
   "Panzer Dragoon (Europe) (Demo) (6S)": {
-    "name": "Panzer Dragoon (Europe) (Demo) (6S)"
+    "name": "Panzer Dragoon (Europe) (Demo) (6S)",
+    "ref": "Panzer Dragoon (USA) (5S)"
   },
   "Sega Flash Vol. 3 (Europe)": {
     "name": "Sega Flash Vol. 3 (Europe)"
@@ -1439,13 +1491,15 @@
     "name": "Street Fighter II Movie (Japan) (Disc 2)"
   },
   "Panzer Dragoon II Zwei (Europe)": {
-    "name": "Panzer Dragoon II Zwei (Europe)"
+    "name": "Panzer Dragoon II Zwei (Europe)",
+    "ref": "Panzer Dragoon II Zwei (USA)"
   },
   "Wing Arms (Europe)": {
     "name": "Wing Arms (Europe)"
   },
   "Battle Arena Toshinden Remix (Europe)": {
-    "name": "Battle Arena Toshinden Remix (Europe)"
+    "name": "Battle Arena Toshinden Remix (Europe)",
+    "ref": "Battle Arena Toshinden Remix (USA)"
   },
   "FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)": {
     "name": "FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)"
@@ -1457,7 +1511,8 @@
     "name": "FIFA 97 (Europe) (En,Fr,De,Es,It,Sv)"
   },
   "Burning Rangers (Europe)": {
-    "name": "Burning Rangers (Europe)"
+    "name": "Burning Rangers (Europe)",
+    "ref": "Burning Rangers (USA)"
   },
   "Panzer Dragoon Saga (Europe) (Disc 1)": {
     "name": "Panzer Dragoon Saga (Europe) (Disc 1)"
@@ -1483,13 +1538,15 @@
     "ref": "Virtual On - Cyber Troopers (Europe)"
   },
   "Earthworm Jim 2 (Europe)": {
-    "name": "Earthworm Jim 2 (Europe)"
+    "name": "Earthworm Jim 2 (Europe)",
+    "ref": "Earthworm Jim 2 (USA)"
   },
   "Winter Heat (Europe)": {
     "name": "Winter Heat (Europe)"
   },
   "Die Hard Arcade (Europe)": {
-    "name": "Die Hard Arcade (Europe)"
+    "name": "Die Hard Arcade (Europe)",
+    "ref": "Die Hard Arcade (USA)"
   },
   "Mighty Hits (Europe)": {
     "name": "Mighty Hits (Europe)"
@@ -1522,13 +1579,15 @@
     "name": "Enemy Zero (Europe) (Disc 3) (Game Disc)"
   },
   "Fighters Megamix (Europe)": {
-    "name": "Fighters Megamix (Europe)"
+    "name": "Fighters Megamix (Europe)",
+    "ref": "Fighters Megamix (USA)"
   },
   "Keio Flying Squadron 2 (Europe)": {
     "name": "Keio Flying Squadron 2 (Europe)"
   },
   "Sega Ages Volume 1 (Europe)": {
-    "name": "Sega Ages Volume 1 (Europe)"
+    "name": "Sega Ages Volume 1 (Europe)",
+    "ref": "Sega Ages Volume 1 (USA)"
   },
   "Saturn Bomberman (Europe)": {
     "name": "Saturn Bomberman (Europe)",
@@ -1605,7 +1664,8 @@
     "name": "Mass Destruction (Europe) (En,Fr,De,Es)"
   },
   "House of the Dead, The (Europe)": {
-    "name": "House of the Dead, The (Europe)"
+    "name": "House of the Dead, The (Europe)",
+    "ref": "House of the Dead, The (USA)"
   },
   "Sakura Tsuushin (Japan)": {
     "name": "Sakura Tsuushin (Japan)"
@@ -1625,16 +1685,19 @@
     "name": "Athlete Kings (Europe)"
   },
   "Daytona USA - Championship Circuit Edition (Europe) (Rev A)": {
-    "name": "Daytona USA - Championship Circuit Edition (Europe) (Rev A)"
+    "name": "Daytona USA - Championship Circuit Edition (Europe) (Rev A)",
+    "ref": "Daytona USA - Championship Circuit Edition (USA)"
   },
   "Tetris Plus (Europe)": {
-    "name": "Tetris Plus (Europe)"
+    "name": "Tetris Plus (Europe)",
+    "ref": "Tetris Plus (USA)"
   },
   "Fighting Vipers (Europe)": {
     "name": "Fighting Vipers (Europe)"
   },
   "Darius Gaiden (Europe)": {
-    "name": "Darius Gaiden (Europe)"
+    "name": "Darius Gaiden (Europe)",
+    "ref": "Darius Gaiden (USA)"
   },
   "Sonic 3D - Flickies' Island (Europe)": {
     "name": "Sonic 3D - Flickies' Island (Europe)"
@@ -1661,10 +1724,12 @@
     "name": "Shanghai - Banri no Choujou - The Great Wall (Japan) (1M)"
   },
   "Virtua Cop 2 (Japan) (Rev B) (23M)": {
-    "name": "Virtua Cop 2 (Japan) (Rev B) (23M)"
+    "name": "Virtua Cop 2 (Japan) (Rev B) (23M)",
+    "ref": "Virtua Cop 2 (USA)"
   },
   "Virtua Fighter Remix (Japan) (4M)": {
-    "name": "Virtua Fighter Remix (Japan) (4M)"
+    "name": "Virtua Fighter Remix (Japan) (4M)",
+    "ref": "Virtua Fighter Remix (USA)"
   },
   "DecAthlete (Japan) (1M)": {
     "name": "DecAthlete (Japan) (1M)"
@@ -1745,7 +1810,8 @@
     "name": "Nihon Daihyou Team no Kantoku ni Naruu! Sekaihatsu Soccer RPG - Become the Coach for the National Team! (Japan)"
   },
   "Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (3S)": {
-    "name": "Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (3S)"
+    "name": "Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (3S)",
+    "ref": "Clockwork Knight 2 - Pepperouchau's Adventure (USA, Brazil)"
   },
   "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Shokai Tokutenban)": {
     "name": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Shokai Tokutenban)"
@@ -1757,10 +1823,12 @@
     "name": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) (Shokai Tokutenban)"
   },
   "Virtua Fighter 2 (Japan) (Rev B)": {
-    "name": "Virtua Fighter 2 (Japan) (Rev B)"
+    "name": "Virtua Fighter 2 (Japan) (Rev B)",
+    "ref": "Virtua Fighter 2 (USA)"
   },
   "Fighters Megamix (Japan)": {
-    "name": "Fighters Megamix (Japan)"
+    "name": "Fighters Megamix (Japan)",
+    "ref": "Fighters Megamix (USA)"
   },
   "Godzilla - Rettou Shinkan (Japan)": {
     "name": "Godzilla - Rettou Shinkan (Japan)"
@@ -1832,13 +1900,15 @@
     "name": "Jantei Battle Cos-Player (Japan) (Disc 1)"
   },
   "Daytona USA (Europe) (2S)": {
-    "name": "Daytona USA (Europe) (2S)"
+    "name": "Daytona USA (Europe) (2S)",
+    "ref": "Daytona USA (USA)"
   },
   "Dragon Ball Z - Idainaru Dragon Ball Densetsu (Japan)": {
     "name": "Dragon Ball Z - Idainaru Dragon Ball Densetsu (Japan)"
   },
   "Fighters Megamix (Japan) (1M)": {
-    "name": "Fighters Megamix (Japan) (1M)"
+    "name": "Fighters Megamix (Japan) (1M)",
+    "ref": "Fighters Megamix (USA)"
   },
   "Last Bronx (Japan) (Disc 1) (Arcade Disc)": {
     "name": "Last Bronx (Japan) (Disc 1) (Arcade Disc)"
@@ -1850,7 +1920,8 @@
     "name": "Virtua Fighter Kids (Japan)"
   },
   "Virtua Fighter 2 (Japan) (Rev B) (32B, 37M)": {
-    "name": "Virtua Fighter 2 (Japan) (Rev B) (32B, 37M)"
+    "name": "Virtua Fighter 2 (Japan) (Rev B) (32B, 37M)",
+    "ref": "Virtua Fighter 2 (USA)"
   },
   "Funky Head Boxers (Japan)": {
     "name": "Funky Head Boxers (Japan)"
@@ -1885,10 +1956,12 @@
     "logo": "QmZCeErsSQT1uL4zWTmddRFT8baXa4y4iV64pSW3bRxtAm"
   },
   "Alien Trilogy (Japan)": {
-    "name": "Alien Trilogy (Japan)"
+    "name": "Alien Trilogy (Japan)",
+    "ref": "Alien Trilogy (USA)"
   },
   "Virtua Fighter 2 (Japan) (Rev B) (35C)": {
-    "name": "Virtua Fighter 2 (Japan) (Rev B) (35C)"
+    "name": "Virtua Fighter 2 (Japan) (Rev B) (35C)",
+    "ref": "Virtua Fighter 2 (USA)"
   },
   "Myst (Korea)": {
     "name": "Myst (Korea)"
@@ -1929,7 +2002,8 @@
     "name": "Riven - A Sequencia de Myst (Brazil) (Disc 4)"
   },
   "Panzer Dragoon (USA) (1S)": {
-    "name": "Panzer Dragoon (USA) (1S)"
+    "name": "Panzer Dragoon (USA) (1S)",
+    "ref": "Panzer Dragoon (USA) (5S)"
   },
   "X-Men - Children of the Atom (USA)": {
     "name": "X-Men - Children of the Atom (USA)",
@@ -1953,16 +2027,20 @@
     "logo": "QmNUaQhL63ZdpnKXRBpbc64dp6vr3kbCQLx9geU9U8dFg6"
   },
   "Panzer Dragoon (USA) (Demo) (4S)": {
-    "name": "Panzer Dragoon (USA) (Demo) (4S)"
+    "name": "Panzer Dragoon (USA) (Demo) (4S)",
+    "ref": "Panzer Dragoon (USA) (5S)"
   },
   "Rayman (USA) (Demo)": {
-    "name": "Rayman (USA) (Demo)"
+    "name": "Rayman (USA) (Demo)",
+    "ref": "Rayman (USA) (R2)"
   },
   "Ultimate Mortal Kombat 3 (Europe) (Rev A)": {
-    "name": "Ultimate Mortal Kombat 3 (Europe) (Rev A)"
+    "name": "Ultimate Mortal Kombat 3 (Europe) (Rev A)",
+    "ref": "Ultimate Mortal Kombat 3 (USA)"
   },
   "Dragon Force (Europe)": {
-    "name": "Dragon Force (Europe)"
+    "name": "Dragon Force (Europe)",
+    "ref": "Dragon Force (USA)"
   },
   "Street Fighter - The Movie (Europe) (4S)": {
     "name": "Street Fighter - The Movie (Europe) (4S)"
@@ -2019,7 +2097,8 @@
     "logo": "QmXhjJUqtHW4Cwo3L4MxYvdepeqZ34fkSGHMGUGaNSqdTW"
   },
   "Area 51 (Europe) (En,Fr,De,Es)": {
-    "name": "Area 51 (Europe) (En,Fr,De,Es)"
+    "name": "Area 51 (Europe) (En,Fr,De,Es)",
+    "ref": "Area 51 (USA)"
   },
   "Andretti Racing (Germany)": {
     "name": "Andretti Racing (Germany)"
@@ -2058,7 +2137,8 @@
     "name": "Incredible Hulk, The - The Pantheon Saga (Europe) (En,Fr,De,Es,It)"
   },
   "Virtua Cop (USA) (8S, 12S)": {
-    "name": "Virtua Cop (USA) (8S, 12S)"
+    "name": "Virtua Cop (USA) (8S, 12S)",
+    "ref": "Virtua Cop (USA) (7S)"
   },
   "FIFA Soccer 97 (USA)": {
     "name": "FIFA Soccer 97 (USA)"
@@ -2105,16 +2185,19 @@
     "name": "Alone in the Dark - Jack Is Back (Europe) (En,Fr,De,Es,It)"
   },
   "Alien Trilogy (Germany)": {
-    "name": "Alien Trilogy (Germany)"
+    "name": "Alien Trilogy (Germany)",
+    "ref": "Alien Trilogy (USA)"
   },
   "Virtua Fighter (Europe) (Made in USA)": {
-    "name": "Virtua Fighter (Europe) (Made in USA)"
+    "name": "Virtua Fighter (Europe) (Made in USA)",
+    "ref": "Virtua Fighter (USA)"
   },
   "Virtual Golf (Europe)": {
     "name": "Virtual Golf (Europe)"
   },
   "Virtual Open Tennis (Europe)": {
-    "name": "Virtual Open Tennis (Europe)"
+    "name": "Virtual Open Tennis (Europe)",
+    "ref": "Virtual Open Tennis (USA)"
   },
   "Victory Boxing (Europe)": {
     "name": "Victory Boxing (Europe)"
@@ -2159,7 +2242,8 @@
     "name": "D no Shokutaku (Japan) (Disc 2)"
   },
   "Rayman (Europe) (En,Fr,De) (1S)": {
-    "name": "Rayman (Europe) (En,Fr,De) (1S)"
+    "name": "Rayman (Europe) (En,Fr,De) (1S)",
+    "ref": "Rayman (USA) (R2)"
   },
   "Layer Section (Japan) (6M)": {
     "name": "Layer Section (Japan) (6M)"
@@ -2245,7 +2329,8 @@
     "name": "Eve - The Lost One (Japan) (Disc 4) (Extra Disc) (1M)"
   },
   "WipEout (Japan) (2M)": {
-    "name": "WipEout (Japan) (2M)"
+    "name": "WipEout (Japan) (2M)",
+    "ref": "WipEout (USA)"
   },
   "Last Gladiators - Digital Pinball (USA) (4S)": {
     "name": "Last Gladiators - Digital Pinball (USA) (4S)"
@@ -2345,7 +2430,8 @@
     "logo": "QmRFCkBe3L5gWmCFvw6GDyiz9rN4dB9rzkzy1LFNAJmx9k"
   },
   "NiGHTS into Dreams... (Japan)": {
-    "name": "NiGHTS into Dreams... (Japan)"
+    "name": "NiGHTS into Dreams... (Japan)",
+    "ref": "NiGHTS into Dreams... (USA, Brazil)"
   },
   "Christmas NiGHTS into Dreams... (Japan) (Rev A)": {
     "name": "Christmas NiGHTS into Dreams... (Japan) (Rev A)"
@@ -2401,7 +2487,8 @@
     "name": "Johnny Bazookatone (Europe)"
   },
   "3D Lemmings (Japan)": {
-    "name": "3D Lemmings (Japan)"
+    "name": "3D Lemmings (Japan)",
+    "ref": "3D Lemmings (Europe)"
   },
   "Myst (Japan)": {
     "name": "Myst (Japan)"
@@ -2452,7 +2539,8 @@
     "name": "Game of Life, The - DX Jinsei Game (Japan) (Rev A)"
   },
   "Virtua Cop (USA) (6S)": {
-    "name": "Virtua Cop (USA) (6S)"
+    "name": "Virtua Cop (USA) (6S)",
+    "ref": "Virtua Cop (USA) (7S)"
   },
   "Sega Worldwide Soccer '97 (USA)": {
     "name": "Sega Worldwide Soccer '97 (USA)"
@@ -2475,7 +2563,8 @@
     "name": "Firestorm - Thunderhawk 2 (Europe) (En,Fr)"
   },
   "Marvel Super Heroes (Europe)": {
-    "name": "Marvel Super Heroes (Europe)"
+    "name": "Marvel Super Heroes (Europe)",
+    "ref": "Marvel Super Heroes (USA)"
   },
   "Mouja (Japan)": {
     "name": "Mouja (Japan)"
@@ -2498,7 +2587,8 @@
     "name": "Madden NFL 98 (USA)"
   },
   "Panzer Dragoon (Europe) (En,Fr,De,Es,It)": {
-    "name": "Panzer Dragoon (Europe) (En,Fr,De,Es,It)"
+    "name": "Panzer Dragoon (Europe) (En,Fr,De,Es,It)",
+    "ref": "Panzer Dragoon (USA) (5S)"
   },
   "Defcon 5 (Europe)": {
     "name": "Defcon 5 (Europe)"
@@ -2531,7 +2621,8 @@
     "name": "Yuukyuu Gensoukyoku 2nd Album (Japan) (2M)"
   },
   "Virtua Fighter 2 (Europe) (Made in USA)": {
-    "name": "Virtua Fighter 2 (Europe) (Made in USA)"
+    "name": "Virtua Fighter 2 (Europe) (Made in USA)",
+    "ref": "Virtua Fighter 2 (USA)"
   },
   "True Pinball (Europe)": {
     "name": "True Pinball (Europe)"
@@ -2546,7 +2637,8 @@
     "name": "Machi (Japan) (Demo) (1M)"
   },
   "House of the Dead, The (Japan) (Demo)": {
-    "name": "House of the Dead, The (Japan) (Demo)"
+    "name": "House of the Dead, The (Japan) (Demo)",
+    "ref": "House of the Dead, The (USA)"
   },
   "Grandia - Prelude (Japan)": {
     "name": "Grandia - Prelude (Japan)"
@@ -2589,7 +2681,8 @@
     "name": "Spot Goes to Hollywood (USA)"
   },
   "Virtua Fighter Remix (Japan) (SegaNet)": {
-    "name": "Virtua Fighter Remix (Japan) (SegaNet)"
+    "name": "Virtua Fighter Remix (Japan) (SegaNet)",
+    "ref": "Virtua Fighter Remix (USA)"
   },
   "NiGHTS into Dreams... (USA, Brazil)": {
     "name": "NiGHTS into Dreams... (USA, Brazil)",
@@ -2638,7 +2731,8 @@
     "name": "FIFA Soccer 96 (USA)"
   },
   "Mortal Kombat Trilogy (Europe)": {
-    "name": "Mortal Kombat Trilogy (Europe)"
+    "name": "Mortal Kombat Trilogy (Europe)",
+    "ref": "Mortal Kombat Trilogy (USA)"
   },
   "Tanjou - Debut S (Japan) (1M)": {
     "name": "Tanjou - Debut S (Japan) (1M)"
@@ -2674,7 +2768,8 @@
     "name": "Wangan Dead Heat + Real Arrange (Japan) (Disc 2) (Addition)"
   },
   "Sega Rally Championship (Korea)": {
-    "name": "Sega Rally Championship (Korea)"
+    "name": "Sega Rally Championship (Korea)",
+    "ref": "Sega Rally Championship (USA)"
   },
   "Koi no Summer Fantasy - in Miyazaki Seagaia (Japan)": {
     "name": "Koi no Summer Fantasy - in Miyazaki Seagaia (Japan)"
@@ -2686,7 +2781,8 @@
     "name": "Tokimeki Mahjong Paradise - Koi no Tenpai Beat (Japan)"
   },
   "Virtua Fighter 2 (Europe) (Rev A) (Made in USA)": {
-    "name": "Virtua Fighter 2 (Europe) (Rev A) (Made in USA)"
+    "name": "Virtua Fighter 2 (Europe) (Rev A) (Made in USA)",
+    "ref": "Virtua Fighter 2 (USA)"
   },
   "Puyo Puyo Sun for SegaNet (Japan)": {
     "name": "Puyo Puyo Sun for SegaNet (Japan)"
@@ -2801,7 +2897,8 @@
     "logo": "QmS7TcjERRMycqQF5BT5wx4VeCHeYDbgsyUwCQuHEkJGcs"
   },
   "Saturn Bomberman (USA) (1S)": {
-    "name": "Saturn Bomberman (USA) (1S)"
+    "name": "Saturn Bomberman (USA) (1S)",
+    "ref": "Saturn Bomberman (Europe)"
   },
   "Mega Man 8 (USA)": {
     "name": "Mega Man 8 (USA)",
@@ -2815,7 +2912,8 @@
     "name": "Mega Man X4 (USA)"
   },
   "Duke Nukem 3D (USA)": {
-    "name": "Duke Nukem 3D (USA)"
+    "name": "Duke Nukem 3D (USA)",
+    "ref": "Duke Nukem 3D (Europe)"
   },
   "Burning Rangers (USA)": {
     "name": "Burning Rangers (USA)",
@@ -2869,13 +2967,15 @@
     "name": "Street Fighter Collection (USA) (Disc 2)"
   },
   "Virtual On - Cyber Troopers (USA)": {
-    "name": "Virtual On - Cyber Troopers (USA)"
+    "name": "Virtual On - Cyber Troopers (USA)",
+    "ref": "Virtual On - Cyber Troopers (Europe)"
   },
   "Myst (USA)": {
     "name": "Myst (USA)"
   },
   "Fighters Megamix (USA) (RE)": {
-    "name": "Fighters Megamix (USA) (RE)"
+    "name": "Fighters Megamix (USA) (RE)",
+    "ref": "Fighters Megamix (USA)"
   },
   "Dark Savior (USA)": {
     "name": "Dark Savior (USA)",
@@ -2891,7 +2991,8 @@
     "logo": "QmUuQXcmkoBVEqUpf99RUJr96D6bGFiMLwd4vDH5haMbhT"
   },
   "Astal (USA) (1S)": {
-    "name": "Astal (USA) (1S)"
+    "name": "Astal (USA) (1S)",
+    "ref": "Astal (USA) (3S)"
   },
   "Primal Rage (Europe) (En,Fr,De,Es,It,Pt)": {
     "name": "Primal Rage (Europe) (En,Fr,De,Es,It,Pt)"
@@ -2909,13 +3010,16 @@
   },
   "WipEout (USA)": {
     "name": "WipEout (USA)",
-    "logo": "Qma2VGCM2P68Mx2jZVyn3wD3Ryf39hpQF6FeHqjhSqGhvS"
+    "logo": "Qma2VGCM2P68Mx2jZVyn3wD3Ryf39hpQF6FeHqjhSqGhvS",
+    "ref": "WipEout (USA)"
   },
   "Panzer Dragoon (Europe) (Demo) (5S)": {
-    "name": "Panzer Dragoon (Europe) (Demo) (5S)"
+    "name": "Panzer Dragoon (Europe) (Demo) (5S)",
+    "ref": "Panzer Dragoon (USA) (5S)"
   },
   "Daytona USA (Europe) (1S)": {
-    "name": "Daytona USA (Europe) (1S)"
+    "name": "Daytona USA (Europe) (1S)",
+    "ref": "Daytona USA (USA)"
   },
   "Desire (Japan) (Disc 1)": {
     "name": "Desire (Japan) (Disc 1)"
@@ -2930,7 +3034,8 @@
     "name": "Virtua Fighter Kids (Korea)"
   },
   "NiGHTS into Dreams... (Korea)": {
-    "name": "NiGHTS into Dreams... (Korea)"
+    "name": "NiGHTS into Dreams... (Korea)",
+    "ref": "NiGHTS into Dreams... (USA, Brazil)"
   },
   "Advanced V.G. (Japan)": {
     "name": "Advanced V.G. (Japan)"
@@ -2951,7 +3056,8 @@
     "name": "Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (Japan) (2M)"
   },
   "House of the Dead, The (Japan) (Rev A)": {
-    "name": "House of the Dead, The (Japan) (Rev A)"
+    "name": "House of the Dead, The (Japan) (Rev A)",
+    "ref": "House of the Dead, The (USA)"
   },
   "Fully Cowled Mini Yonku - Super Factory (Japan) (Rev A) (10M)": {
     "name": "Fully Cowled Mini Yonku - Super Factory (Japan) (Rev A) (10M)"
@@ -3041,7 +3147,8 @@
     "name": "NFL Quarterback Club 97 (USA)"
   },
   "Panzer Dragoon (USA) (Demo) (3S)": {
-    "name": "Panzer Dragoon (USA) (Demo) (3S)"
+    "name": "Panzer Dragoon (USA) (Demo) (3S)",
+    "ref": "Panzer Dragoon (USA) (5S)"
   },
   "Impact Racing (USA)": {
     "name": "Impact Racing (USA)"
@@ -3182,7 +3289,8 @@
     "name": "Sega Saturn Choice Cuts (USA) (RE)"
   },
   "Virtua Racing (USA) (15S)": {
-    "name": "Virtua Racing (USA) (15S)"
+    "name": "Virtua Racing (USA) (15S)",
+    "ref": "Virtua Racing (USA) (12S)"
   },
   "Kidou Senshi Gundam - Gihren no Yabou - Kouryaku Shireisho (Japan)": {
     "name": "Kidou Senshi Gundam - Gihren no Yabou - Kouryaku Shireisho (Japan)"
@@ -3212,7 +3320,8 @@
     "name": "Soukyuu Gurentai - Otokuyou (Japan)"
   },
   "Sonic Jam (Japan) (Rev A)": {
-    "name": "Sonic Jam (Japan) (Rev A)"
+    "name": "Sonic Jam (Japan) (Rev A)",
+    "ref": "Sonic Jam (USA)"
   },
   "Three Dirty Dwarves (Japan) (2M)": {
     "name": "Three Dirty Dwarves (Japan) (2M)"
@@ -3236,7 +3345,8 @@
     "name": "Hexen (Europe) (En,Fr,De,Es,It)"
   },
   "Panzer Dragoon (Japan) (4B)": {
-    "name": "Panzer Dragoon (Japan) (4B)"
+    "name": "Panzer Dragoon (Japan) (4B)",
+    "ref": "Panzer Dragoon (USA) (5S)"
   },
   "G Vector (Japan)": {
     "name": "G Vector (Japan)"
@@ -3314,7 +3424,8 @@
     "name": "Voice Idol Maniacs - Pool Bar Story (Japan) (Disc 1) (2M)"
   },
   "Virtua Cop 2 (Japan) (3M)": {
-    "name": "Virtua Cop 2 (Japan) (3M)"
+    "name": "Virtua Cop 2 (Japan) (3M)",
+    "ref": "Virtua Cop 2 (USA)"
   },
   "Voice Idol Maniacs - Pool Bar Story (Japan) (Disc 2)": {
     "name": "Voice Idol Maniacs - Pool Bar Story (Japan) (Disc 2)"
@@ -3398,10 +3509,12 @@
     "name": "Command & Conquer (France) (Disc 2) (NOD)"
   },
   "Earthworm Jim 2 (Japan) (2M)": {
-    "name": "Earthworm Jim 2 (Japan) (2M)"
+    "name": "Earthworm Jim 2 (Japan) (2M)",
+    "ref": "Earthworm Jim 2 (USA)"
   },
   "Gex (Japan)": {
-    "name": "Gex (Japan)"
+    "name": "Gex (Japan)",
+    "ref": "Gex (USA)"
   },
   "Johnny Bazooka (Japan)": {
     "name": "Johnny Bazooka (Japan)"
@@ -3502,7 +3615,8 @@
     "name": "Winning Post EX (Japan) (2M)"
   },
   "Dragon Force (Japan) (Rev A) (10M)": {
-    "name": "Dragon Force (Japan) (Rev A) (10M)"
+    "name": "Dragon Force (Japan) (Rev A) (10M)",
+    "ref": "Dragon Force (USA)"
   },
   "Bulk Slash (Japan)": {
     "name": "Bulk Slash (Japan)"
@@ -3526,7 +3640,8 @@
     "name": "FIFA - En Route pour la Coupe du Monde 98 (France)"
   },
   "Galactic Attack (Europe)": {
-    "name": "Galactic Attack (Europe)"
+    "name": "Galactic Attack (Europe)",
+    "ref": "Galactic Attack (USA)"
   },
   "Hang On GP '96 (Europe)": {
     "name": "Hang On GP '96 (Europe)"
@@ -3574,7 +3689,8 @@
     "name": "Hang On GP '95 (Japan) (2M)"
   },
   "Road Rash (Japan)": {
-    "name": "Road Rash (Japan)"
+    "name": "Road Rash (Japan)",
+    "ref": "Road Rash (USA)"
   },
   "Destruction Derby (Japan)": {
     "name": "Destruction Derby (Japan)"
@@ -3583,7 +3699,8 @@
     "name": "F-1 Live Information (Japan)"
   },
   "Virtua Racing (Japan)": {
-    "name": "Virtua Racing (Japan)"
+    "name": "Virtua Racing (Japan)",
+    "ref": "Virtua Racing (USA) (12S)"
   },
   "Vatlva (Japan) (Rev A)": {
     "name": "Vatlva (Japan) (Rev A)"
@@ -3806,7 +3923,8 @@
     "name": "Assault Rigs (Japan)"
   },
   "Area 51 (Japan)": {
-    "name": "Area 51 (Japan)"
+    "name": "Area 51 (Japan)",
+    "ref": "Area 51 (USA)"
   },
   "Hexen - Beyond Heretic (Japan)": {
     "name": "Hexen - Beyond Heretic (Japan)"
@@ -3989,16 +4107,19 @@
     "name": "Super Robot Taisen F (Japan) (Rev B) (21M)"
   },
   "King of Fighters '95, The (Japan) (1M)": {
-    "name": "King of Fighters '95, The (Japan) (1M)"
+    "name": "King of Fighters '95, The (Japan) (1M)",
+    "ref": "King of Fighters '95, The (Europe)"
   },
   "King of Fighters '95, The (Japan) (3M)": {
-    "name": "King of Fighters '95, The (Japan) (3M)"
+    "name": "King of Fighters '95, The (Japan) (3M)",
+    "ref": "King of Fighters '95, The (Europe)"
   },
   "Real Sound - Kaze no Regret (Japan) (Disc 3) (1M)": {
     "name": "Real Sound - Kaze no Regret (Japan) (Disc 3) (1M)"
   },
   "Virtua Fighter 2 (Japan) (Rev B) (36B, 36C)": {
-    "name": "Virtua Fighter 2 (Japan) (Rev B) (36B, 36C)"
+    "name": "Virtua Fighter 2 (Japan) (Rev B) (36B, 36C)",
+    "ref": "Virtua Fighter 2 (USA)"
   },
   "QuoVadis 2 - Wakusei Kyoushuu Ovan Rei (Japan) (Disc 1)": {
     "name": "QuoVadis 2 - Wakusei Kyoushuu Ovan Rei (Japan) (Disc 1)"
@@ -4022,7 +4143,8 @@
     "name": "Sentimental Graffiti (Japan) (Disc 2) (Second Window) (1M, 2M)"
   },
   "Sonic R (Japan) (2M)": {
-    "name": "Sonic R (Japan) (2M)"
+    "name": "Sonic R (Japan) (2M)",
+    "ref": "Sonic R (USA, Brazil)"
   },
   "Arthur to Astaroth no Nazo Makaimura - Incredible Toons (Japan)": {
     "name": "Arthur to Astaroth no Nazo Makaimura - Incredible Toons (Japan)"
@@ -4088,7 +4210,8 @@
     "name": "Playboy - Karaoke Collection Volume 2 (Japan) (2M)"
   },
   "X-Men - Children of the Atom (Europe) (3S)": {
-    "name": "X-Men - Children of the Atom (Europe) (3S)"
+    "name": "X-Men - Children of the Atom (Europe) (3S)",
+    "ref": "X-Men - Children of the Atom (USA)"
   },
   "Crusader - No Remorse (Germany)": {
     "name": "Crusader - No Remorse (Germany)"
@@ -4109,7 +4232,8 @@
     "name": "Z (Europe)"
   },
   "Worms (Europe)": {
-    "name": "Worms (Europe)"
+    "name": "Worms (Europe)",
+    "ref": "Worms (USA)"
   },
   "Ghen War (Europe)": {
     "name": "Ghen War (Europe)"
@@ -4151,10 +4275,12 @@
     "name": "NASCAR 98 (Germany)"
   },
   "Super Puzzle Fighter II Turbo (Europe)": {
-    "name": "Super Puzzle Fighter II Turbo (Europe)"
+    "name": "Super Puzzle Fighter II Turbo (Europe)",
+    "ref": "Super Puzzle Fighter II Turbo (USA)"
   },
   "Virtua Racing (Europe)": {
-    "name": "Virtua Racing (Europe)"
+    "name": "Virtua Racing (Europe)",
+    "ref": "Virtua Racing (USA) (12S)"
   },
   "WWF In Your House (Europe)": {
     "name": "WWF In Your House (Europe)"
@@ -4163,7 +4289,8 @@
     "name": "Lost Vikings 2 - Norse by Norsewest (Europe) (En,Fr,De)"
   },
   "Virtua Cop (Europe) (2S)": {
-    "name": "Virtua Cop (Europe) (2S)"
+    "name": "Virtua Cop (Europe) (2S)",
+    "ref": "Virtua Cop (USA) (7S)"
   },
   "Blast Wind (Japan)": {
     "name": "Blast Wind (Japan)"
@@ -4185,13 +4312,15 @@
     "name": "Custom Web Browser (Version 2) (USA)"
   },
   "Sega Rally Championship (Europe) (Made in USA)": {
-    "name": "Sega Rally Championship (Europe) (Made in USA)"
+    "name": "Sega Rally Championship (Europe) (Made in USA)",
+    "ref": "Sega Rally Championship (USA)"
   },
   "Three Dirty Dwarves (Europe)": {
     "name": "Three Dirty Dwarves (Europe)"
   },
   "Gex (Europe)": {
-    "name": "Gex (Europe)"
+    "name": "Gex (Europe)",
+    "ref": "Gex (USA)"
   },
   "Slam 'n Jam '96 featuring Magic & Kareem - Signature Edition (Europe)": {
     "name": "Slam 'n Jam '96 featuring Magic & Kareem - Signature Edition (Europe)"
@@ -4239,7 +4368,8 @@
     "name": "Hissatsu! (Japan)"
   },
   "Sonic R (Japan) (Demo)": {
-    "name": "Sonic R (Japan) (Demo)"
+    "name": "Sonic R (Japan) (Demo)",
+    "ref": "Sonic R (USA, Brazil)"
   },
   "Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (Demo)": {
     "name": "Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (Demo)"
@@ -4275,7 +4405,8 @@
     "name": "Street Fighter - The Movie (Europe) (2S)"
   },
   "Daytona USA (Europe)": {
-    "name": "Daytona USA (Europe)"
+    "name": "Daytona USA (Europe)",
+    "ref": "Daytona USA (USA)"
   },
   "Momotarou Douchuuki (Japan) (Rev A) (11M)": {
     "name": "Momotarou Douchuuki (Japan) (Rev A) (11M)"
@@ -4338,7 +4469,8 @@
     "name": "Soukyuu Gurentai (Japan)"
   },
   "Darius II (Japan) (2M)": {
-    "name": "Darius II (Japan) (2M)"
+    "name": "Darius II (Japan) (2M)",
+    "ref": "Darius II (Europe)"
   },
   "Final Fight Revenge (Japan)": {
     "name": "Final Fight Revenge (Japan)"
@@ -4569,7 +4701,8 @@
     "name": "BrainDead 13 (Japan)"
   },
   "Worms (Japan)": {
-    "name": "Worms (Japan)"
+    "name": "Worms (Japan)",
+    "ref": "Worms (USA)"
   },
   "Chaos Control (Japan)": {
     "name": "Chaos Control (Japan)"
@@ -4683,7 +4816,8 @@
     "name": "SegaSaturn Internet Vol. 1 (Japan)"
   },
   "Saturn Bomberman (Japan) (SegaNet)": {
-    "name": "Saturn Bomberman (Japan) (SegaNet)"
+    "name": "Saturn Bomberman (Japan) (SegaNet)",
+    "ref": "Saturn Bomberman (Europe)"
   },
   "Puzzle Bobble 3 for SegaNet (Japan)": {
     "name": "Puzzle Bobble 3 for SegaNet (Japan)"
@@ -4731,7 +4865,8 @@
     "name": "Real Mahjong Adventure Umi e - Summer Waltz (Japan) (P's Club Genteiban)"
   },
   "Burning Rangers (Japan) (Demo)": {
-    "name": "Burning Rangers (Japan) (Demo)"
+    "name": "Burning Rangers (Japan) (Demo)",
+    "ref": "Burning Rangers (USA)"
   },
   "Solo Crisis (Japan) (Demo)": {
     "name": "Solo Crisis (Japan) (Demo)"
@@ -4782,7 +4917,8 @@
     "name": "Sega Worldwide Soccer '98 - Club Edition (Europe) (En,Fr,Es) (Rev B)"
   },
   "Tempest 2000 (Europe)": {
-    "name": "Tempest 2000 (Europe)"
+    "name": "Tempest 2000 (Europe)",
+    "ref": "Tempest 2000 (USA)"
   },
   "Dragon's Dream (Japan)": {
     "name": "Dragon's Dream (Japan)"
@@ -4848,7 +4984,8 @@
     "name": "Horde, The (Europe)"
   },
   "Rampage - World Tour (Europe)": {
-    "name": "Rampage - World Tour (Europe)"
+    "name": "Rampage - World Tour (Europe)",
+    "ref": "Rampage - World Tour (USA)"
   },
   "Arcade's Greatest Hits - The Atari Collection 1 (Europe)": {
     "name": "Arcade's Greatest Hits - The Atari Collection 1 (Europe)"
@@ -4857,7 +4994,8 @@
     "name": "NBA Action 98 (Europe)"
   },
   "Virtua Cop (Europe)": {
-    "name": "Virtua Cop (Europe)"
+    "name": "Virtua Cop (Europe)",
+    "ref": "Virtua Cop (USA) (7S)"
   },
   "D (Europe) (Disc I)": {
     "name": "D (Europe) (Disc I)"
@@ -4881,7 +5019,8 @@
     "name": "Frankenstein - Through the Eyes of the Monster (Europe)"
   },
   "Galaxy Fight (Europe)": {
-    "name": "Galaxy Fight (Europe)"
+    "name": "Galaxy Fight (Europe)",
+    "ref": "Galaxy Fight (USA)"
   },
   "Mr. Bones (Europe) (Disc 1)": {
     "name": "Mr. Bones (Europe) (Disc 1)"
@@ -4911,7 +5050,8 @@
     "name": "Street Fighter Collection (Europe) (Disc 2) (R)"
   },
   "Alien Trilogy (Europe) (En,Fr,Es,It) (7S)": {
-    "name": "Alien Trilogy (Europe) (En,Fr,Es,It) (7S)"
+    "name": "Alien Trilogy (Europe) (En,Fr,Es,It) (7S)",
+    "ref": "Alien Trilogy (USA)"
   },
   "Derby Analyst (Japan)": {
     "name": "Derby Analyst (Japan)"
@@ -5007,7 +5147,8 @@
     "name": "Maximum Force (Europe)"
   },
   "Virtua Fighter (Europe) (Made in EU)": {
-    "name": "Virtua Fighter (Europe) (Made in EU)"
+    "name": "Virtua Fighter (Europe) (Made in EU)",
+    "ref": "Virtua Fighter (USA)"
   },
   "BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)": {
     "name": "BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)"
@@ -5088,7 +5229,8 @@
     "name": "NHL Powerplay '96 (Japan)"
   },
   "Virtual Open Tennis (Japan)": {
-    "name": "Virtual Open Tennis (Japan)"
+    "name": "Virtual Open Tennis (Japan)",
+    "ref": "Virtual Open Tennis (USA)"
   },
   "TurfWind '96 - Take Yutaka Kyousouba Ikusei Game (Japan)": {
     "name": "TurfWind '96 - Take Yutaka Kyousouba Ikusei Game (Japan)"
@@ -5412,10 +5554,12 @@
     "name": "Vatlva (Japan) (Demo)"
   },
   "Panzer Dragoon (Japan) (Demo 2)": {
-    "name": "Panzer Dragoon (Japan) (Demo 2)"
+    "name": "Panzer Dragoon (Japan) (Demo 2)",
+    "ref": "Panzer Dragoon (USA) (5S)"
   },
   "Virtua Fighter 2 (Japan) (Demo)": {
-    "name": "Virtua Fighter 2 (Japan) (Demo)"
+    "name": "Virtua Fighter 2 (Japan) (Demo)",
+    "ref": "Virtua Fighter 2 (USA)"
   },
   "Big Thanks - Super Keirin - Dream with Keirin 50 Years (Japan)": {
     "name": "Big Thanks - Super Keirin - Dream with Keirin 50 Years (Japan)"
@@ -5478,7 +5622,8 @@
     "name": "Eyeful Home (Japan)"
   },
   "Shining Force III (USA) (Beta)": {
-    "name": "Shining Force III (USA) (Beta)"
+    "name": "Shining Force III (USA) (Beta)",
+    "ref": "Shining Force III (USA)"
   },
   "NBA Jam - Tournament Edition (Japan) (4S)": {
     "name": "NBA Jam - Tournament Edition (Japan) (4S)"
@@ -5493,7 +5638,8 @@
     "name": "NHL All-Star Hockey 98 (Europe)"
   },
   "Darius Gaiden (USA) (Beta)": {
-    "name": "Darius Gaiden (USA) (Beta)"
+    "name": "Darius Gaiden (USA) (Beta)",
+    "ref": "Darius Gaiden (USA)"
   },
   "Shining Wisdom (USA) (Beta)": {
     "name": "Shining Wisdom (USA) (Beta)"
@@ -5975,7 +6121,8 @@
     "name": "Flash SegaSaturn Vol. 4 (Japan)"
   },
   "Sega Rally Championship (Japan) (Demo)": {
-    "name": "Sega Rally Championship (Japan) (Demo)"
+    "name": "Sega Rally Championship (Japan) (Demo)",
+    "ref": "Sega Rally Championship (USA)"
   },
   "Lunar - Silver Star Story (Japan) (Demo)": {
     "name": "Lunar - Silver Star Story (Japan) (Demo)"
@@ -6034,7 +6181,8 @@
     "name": "Sega Touring Car Championship (Japan) (Demo)"
   },
   "NiGHTS into Dreams... (USA) (with 3D Control Pad) (RE)": {
-    "name": "NiGHTS into Dreams... (USA) (with 3D Control Pad) (RE)"
+    "name": "NiGHTS into Dreams... (USA) (with 3D Control Pad) (RE)",
+    "ref": "NiGHTS into Dreams... (USA, Brazil)"
   },
   "Scud - The Disposable Assassin (USA)": {
     "name": "Scud - The Disposable Assassin (USA)"
@@ -6046,7 +6194,8 @@
     "name": "SegaSaturn Internet 2 (Japan)"
   },
   "DonPachi (Japan) (Demo)": {
-    "name": "DonPachi (Japan) (Demo)"
+    "name": "DonPachi (Japan) (Demo)",
+    "ref": "DonPachi (Japan)"
   },
   "Flash SegaSaturn Vol. 8 (Japan)": {
     "name": "Flash SegaSaturn Vol. 8 (Japan)"
@@ -6203,7 +6352,8 @@
     "name": "Virtua Fighter Kids (USA)"
   },
   "NiGHTS into Dreams... (USA) (Demo)": {
-    "name": "NiGHTS into Dreams... (USA) (Demo)"
+    "name": "NiGHTS into Dreams... (USA) (Demo)",
+    "ref": "NiGHTS into Dreams... (USA, Brazil)"
   },
   "Deep Fear (USA) (Disc 1) (Unl)": {
     "name": "Deep Fear (USA) (Disc 1) (Unl)"
@@ -6302,7 +6452,8 @@
     "name": "In the Hunt (USA) (Beta)"
   },
   "Street Fighter Alpha - Warriors' Dreams (USA) (Beta)": {
-    "name": "Street Fighter Alpha - Warriors' Dreams (USA) (Beta)"
+    "name": "Street Fighter Alpha - Warriors' Dreams (USA) (Beta)",
+    "ref": "Street Fighter Alpha - Warriors' Dreams (USA)"
   },
   "Blazing Dragons (France)": {
     "name": "Blazing Dragons (France)"
@@ -6311,7 +6462,8 @@
     "name": "DJ Wars (Japan) (Demo)"
   },
   "Marvel Super Heroes (Japan) (Demo)": {
-    "name": "Marvel Super Heroes (Japan) (Demo)"
+    "name": "Marvel Super Heroes (Japan) (Demo)",
+    "ref": "Marvel Super Heroes (USA)"
   },
   "Street Fighter Collection (Japan) (Demo)": {
     "name": "Street Fighter Collection (Japan) (Demo)"
@@ -6335,7 +6487,8 @@
     "name": "Super Robot Taisen F (Japan) (Demo)"
   },
   "Virtua Fighter 2 (Japan) (Rev C) (42M)": {
-    "name": "Virtua Fighter 2 (Japan) (Rev C) (42M)"
+    "name": "Virtua Fighter 2 (Japan) (Rev C) (42M)",
+    "ref": "Virtua Fighter 2 (USA)"
   },
   "Gekitotsu Koushien (Japan) (Demo)": {
     "name": "Gekitotsu Koushien (Japan) (Demo)"
@@ -6347,7 +6500,8 @@
     "name": "Suiko Enbu - Fuuun Saiki (Japan) (Demo)"
   },
   "Alien Trilogy (Japan) (Demo)": {
-    "name": "Alien Trilogy (Japan) (Demo)"
+    "name": "Alien Trilogy (Japan) (Demo)",
+    "ref": "Alien Trilogy (USA)"
   },
   "Thunder Force V (Japan) (Demo)": {
     "name": "Thunder Force V (Japan) (Demo)"
@@ -6538,7 +6692,8 @@
     "name": "Creature Shock - Special Edition (USA) (Disc 2)"
   },
   "Fighters Megamix (Japan) (2M)": {
-    "name": "Fighters Megamix (Japan) (2M)"
+    "name": "Fighters Megamix (Japan) (2M)",
+    "ref": "Fighters Megamix (USA)"
   },
   "Shinobi Legions (USA)": {
     "name": "Shinobi Legions (USA)"
@@ -6571,10 +6726,12 @@
     "name": "Horde, The (France)"
   },
   "Daytona USA (Japan) (Demo) (2M)": {
-    "name": "Daytona USA (Japan) (Demo) (2M)"
+    "name": "Daytona USA (Japan) (Demo) (2M)",
+    "ref": "Daytona USA (USA)"
   },
   "Virtua Fighter (Japan) (Demo)": {
-    "name": "Virtua Fighter (Japan) (Demo)"
+    "name": "Virtua Fighter (Japan) (Demo)",
+    "ref": "Virtua Fighter (USA)"
   },
   "Keriotosse! (Japan) (Demo)": {
     "name": "Keriotosse! (Japan) (Demo)"
@@ -6616,7 +6773,8 @@
     "name": "Chaos Control (Europe) (En,Fr,De) (Beta)"
   },
   "Alien Trilogy (Europe) (En,Fr,Es,It) (Beta)": {
-    "name": "Alien Trilogy (Europe) (En,Fr,Es,It) (Beta)"
+    "name": "Alien Trilogy (Europe) (En,Fr,Es,It) (Beta)",
+    "ref": "Alien Trilogy (USA)"
   },
   "D (USA) (Disc I) (Beta)": {
     "name": "D (USA) (Disc I) (Beta)"
@@ -6661,7 +6819,8 @@
     "name": "Wizardry VI & VII Complete (Japan) (Sample-ban) (3M)"
   },
   "Virtua Fighter 2 (Europe) (Made in EU)": {
-    "name": "Virtua Fighter 2 (Europe) (Made in EU)"
+    "name": "Virtua Fighter 2 (Europe) (Made in EU)",
+    "ref": "Virtua Fighter 2 (USA)"
   },
   "Soukuu no Tsubasa - Gotha World (Japan) (Demo)": {
     "name": "Soukuu no Tsubasa - Gotha World (Japan) (Demo)"
@@ -6702,7 +6861,8 @@
     "name": "Yuukyuu Gensoukyoku (Japan) (Demo)"
   },
   "Panzer Dragoon (USA) (Demo) (2S)": {
-    "name": "Panzer Dragoon (USA) (Demo) (2S)"
+    "name": "Panzer Dragoon (USA) (Demo) (2S)",
+    "ref": "Panzer Dragoon (USA) (5S)"
   },
   "X-Men vs. Street Fighter (Japan) (2M)": {
     "name": "X-Men vs. Street Fighter (Japan) (2M)"
@@ -6717,7 +6877,8 @@
     "name": "Saturn Super Vol. 6 (Japan) (1M)"
   },
   "Virtua Cop (Japan) (1M, 5M)": {
-    "name": "Virtua Cop (Japan) (1M, 5M)"
+    "name": "Virtua Cop (Japan) (1M, 5M)",
+    "ref": "Virtua Cop (USA) (7S)"
   },
   "Baku Baku Animal - Sekai Shiiku Gakari Senshuken (Japan)": {
     "name": "Baku Baku Animal - Sekai Shiiku Gakari Senshuken (Japan)"
@@ -6729,7 +6890,8 @@
     "name": "Sega Saturn Choice Cuts (USA) (R2)"
   },
   "Dark Savior (Japan) (Demo)": {
-    "name": "Dark Savior (Japan) (Demo)"
+    "name": "Dark Savior (Japan) (Demo)",
+    "ref": "Dark Savior (USA)"
   },
   "Digital Pinball - Last Gladiators (Japan) (5M) (Demo)": {
     "name": "Digital Pinball - Last Gladiators (Japan) (5M) (Demo)"
@@ -6747,7 +6909,8 @@
     "name": "Message Navi (Japan) (Demo)"
   },
   "NiGHTS into Dreams... (Japan) (Demo)": {
-    "name": "NiGHTS into Dreams... (Japan) (Demo)"
+    "name": "NiGHTS into Dreams... (Japan) (Demo)",
+    "ref": "NiGHTS into Dreams... (USA, Brazil)"
   },
   "PriKura (Princess Kurara) Daisakusen (Japan) (Demo)": {
     "name": "PriKura (Princess Kurara) Daisakusen (Japan) (Demo)"
@@ -6759,7 +6922,8 @@
     "name": "Riglordsaga (Japan) (Demo)"
   },
   "Saturn Bomberman (Japan) (Demo)": {
-    "name": "Saturn Bomberman (Japan) (Demo)"
+    "name": "Saturn Bomberman (Japan) (Demo)",
+    "ref": "Saturn Bomberman (Europe)"
   },
   "Shining Wisdom (Japan) (Demo)": {
     "name": "Shining Wisdom (Japan) (Demo)"
@@ -6768,7 +6932,8 @@
     "name": "Strikers 1945 (Japan) (Demo)"
   },
   "X-Men - Children of the Atom (Japan) (Demo)": {
-    "name": "X-Men - Children of the Atom (Japan) (Demo)"
+    "name": "X-Men - Children of the Atom (Japan) (Demo)",
+    "ref": "X-Men - Children of the Atom (USA)"
   },
   "Dennou Senki - Virtual On - Cyber Troopers (Korea)": {
     "name": "Dennou Senki - Virtual On - Cyber Troopers (Korea)"
@@ -6813,7 +6978,8 @@
     "name": "Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (11M)"
   },
   "Panzer Dragoon (Japan) (Demo 1)": {
-    "name": "Panzer Dragoon (Japan) (Demo 1)"
+    "name": "Panzer Dragoon (Japan) (Demo 1)",
+    "ref": "Panzer Dragoon (USA) (5S)"
   },
   "Loaded (Europe) (En,Fr,De) (Alt)": {
     "name": "Loaded (Europe) (En,Fr,De) (Alt)"
@@ -6894,7 +7060,8 @@
     "name": "Victory Goal (Japan) (1A)"
   },
   "X-Men - Children of the Atom (Europe) (2S)": {
-    "name": "X-Men - Children of the Atom (Europe) (2S)"
+    "name": "X-Men - Children of the Atom (Europe) (2S)",
+    "ref": "X-Men - Children of the Atom (USA)"
   },
   "World Cup Golf - Professional Edition (Europe) (1S)": {
     "name": "World Cup Golf - Professional Edition (Europe) (1S)"
@@ -6927,7 +7094,8 @@
     "name": "Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 2)"
   },
   "Virtua Fighter Remix (Europe)": {
-    "name": "Virtua Fighter Remix (Europe)"
+    "name": "Virtua Fighter Remix (Europe)",
+    "ref": "Virtua Fighter Remix (USA)"
   },
   "Jewels of the Oracle (USA) (En,Ja,Fr,De) (Proto 1)": {
     "name": "Jewels of the Oracle (USA) (En,Ja,Fr,De) (Proto 1)"
@@ -6939,7 +7107,8 @@
     "name": "Zanma Chou Ougi - Valhollian (Japan)"
   },
   "Darius Gaiden (Japan) (2M)": {
-    "name": "Darius Gaiden (Japan) (2M)"
+    "name": "Darius Gaiden (Japan) (2M)",
+    "ref": "Darius Gaiden (USA)"
   },
   "Kochira Katsushikaku Kameari Kouenmae - Hashutsujo - Nakagawa Land Dai-Race! no Maki (Japan) (Satakore)": {
     "name": "Kochira Katsushikaku Kameari Kouenmae - Hashutsujo - Nakagawa Land Dai-Race! no Maki (Japan) (Satakore)"
@@ -6948,7 +7117,8 @@
     "name": "Pachi-Slot Kanzen Kouryaku Uni-Colle '97 - Universal Collection (Japan)"
   },
   "Astal (USA) (2S)": {
-    "name": "Astal (USA) (2S)"
+    "name": "Astal (USA) (2S)",
+    "ref": "Astal (USA) (3S)"
   },
   "Solo Crisis (Japan) (1M)": {
     "name": "Solo Crisis (Japan) (1M)"
@@ -7026,7 +7196,8 @@
     "name": "Hansha de Spark! (Japan) (Demo)"
   },
   "Virtua Cop (Europe) (7S)": {
-    "name": "Virtua Cop (Europe) (7S)"
+    "name": "Virtua Cop (Europe) (7S)",
+    "ref": "Virtua Cop (USA) (7S)"
   },
   "Super Real Mahjong P7 (Japan) (3M)": {
     "name": "Super Real Mahjong P7 (Japan) (3M)"
@@ -7101,7 +7272,8 @@
     "name": "Shutsudou! Miniskirt Police (Japan) (2M)"
   },
   "Dead or Alive (Japan) (1M)": {
-    "name": "Dead or Alive (Japan) (1M)"
+    "name": "Dead or Alive (Japan) (1M)",
+    "ref": "Dead or Alive (Japan) (Rev A) (10M)"
   },
   "Kiss yori... (Japan) (Rev A)": {
     "name": "Kiss yori... (Japan) (Rev A)"
@@ -7175,7 +7347,8 @@
     "name": "Prime Selection Vol. 1 (Japan)"
   },
   "Clockwork Knight 2 - Pepperouchau's Adventure (USA) (Beta)": {
-    "name": "Clockwork Knight 2 - Pepperouchau's Adventure (USA) (Beta)"
+    "name": "Clockwork Knight 2 - Pepperouchau's Adventure (USA) (Beta)",
+    "ref": "Clockwork Knight 2 - Pepperouchau's Adventure (USA, Brazil)"
   },
   "Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Beta)": {
     "name": "Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Beta)"
@@ -7196,7 +7369,8 @@
     "name": "Princess Crown (Japan) (Rev A) (13M)"
   },
   "Panzer Dragoon (Japan) (2M)": {
-    "name": "Panzer Dragoon (Japan) (2M)"
+    "name": "Panzer Dragoon (Japan) (2M)",
+    "ref": "Panzer Dragoon (USA) (5S)"
   },
   "Machi (Japan) (Demo) (2M)": {
     "name": "Machi (Japan) (Demo) (2M)"
@@ -7205,7 +7379,8 @@
     "name": "Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (Japan) (Demo)"
   },
   "Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (2S)": {
-    "name": "Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (2S)"
+    "name": "Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (2S)",
+    "ref": "Clockwork Knight 2 - Pepperouchau's Adventure (USA, Brazil)"
   },
   "Waku Waku 7 (Japan) (Demo)": {
     "name": "Waku Waku 7 (Japan) (Demo)"
@@ -7220,7 +7395,8 @@
     "name": "Samurai Spirits - Amakusa Kourin (Japan) (En,Ja,Es,Pt) (Demo)"
   },
   "Area 51 (USA) (Beta)": {
-    "name": "Area 51 (USA) (Beta)"
+    "name": "Area 51 (USA) (Beta)",
+    "ref": "Area 51 (USA)"
   },
   "Keiou Yuugekitai - Okiraku Tamatebako (Japan)": {
     "name": "Keiou Yuugekitai - Okiraku Tamatebako (Japan)"
@@ -7238,7 +7414,8 @@
     "name": "X Japan - Virtual Shock 001 (Japan) (3M)"
   },
   "Burning Rangers (Japan) (Proto)": {
-    "name": "Burning Rangers (Japan) (Proto)"
+    "name": "Burning Rangers (Japan) (Proto)",
+    "ref": "Burning Rangers (USA)"
   },
   "Real Bout Garou Densetsu (Japan) (Ja,Es) (Demo)": {
     "name": "Real Bout Garou Densetsu (Japan) (Ja,Es) (Demo)"

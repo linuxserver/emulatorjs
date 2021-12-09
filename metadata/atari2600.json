@@ -44,10 +44,12 @@
     "logo": "QmRbxzj4Lf6RHWYiMomGcYoG9AUuwD8o8RpbmqDeWEnkak"
   },
   "082FC914D6EBF415926FBB6CF781DE209A4D052D": {
-    "name": "Activision Decathlon, The (Europe)"
+    "name": "Activision Decathlon, The (Europe)",
+    "ref": "E0D47565DF935C064BC4055636F37A0432AB3727"
   },
   "7DA9CC2383D09835D345EC7D6E76D223591D2A2A": {
-    "name": "Activision Decathlon, The (France)"
+    "name": "Activision Decathlon, The (France)",
+    "ref": "E0D47565DF935C064BC4055636F37A0432AB3727"
   },
   "E07E48D463D30321239A8ACC00C490F27F1F7422": {
     "name": "Adventure (USA)",
@@ -55,7 +57,8 @@
     "logo": "QmT2uXAApGGR26bMP1ATwgS5wXCfEPjPAiFRhKBYLqJAc6"
   },
   "EC23BBEA83CF47277482E775AD58AC8E6D1483FE": {
-    "name": "Adventure (Europe)"
+    "name": "Adventure (Europe)",
+    "ref": "E07E48D463D30321239A8ACC00C490F27F1F7422"
   },
   "03A495C7BFA0671E24AA4D9460D232731F68CB43": {
     "name": "Adventures of TRON (USA)",
@@ -82,7 +85,8 @@
     "logo": "Qma3CscRR7T9g5o5PsPkFJpyMEoRax9X9DFEBaWw9Gp3go"
   },
   "FE70D356B84C9BEF28497332C6B36D9B52A0205D": {
-    "name": "Air-Sea Battle ~ Target Fun (Japan, USA) (Atari Anthology)"
+    "name": "Air-Sea Battle ~ Target Fun (Japan, USA) (Atari Anthology)",
+    "ref": "A746FDC82B336A9D499BF17F50B41E0193BA595E"
   },
   "0376C242819B785310B8AF43C03B1D1156BD5F02": {
     "name": "Airlock (USA)"
@@ -156,10 +160,12 @@
     "logo": "QmYTybUZcRDWWDEu3y6FBDcwBL6Ezn9Cmri16gERn3cQ5m"
   },
   "1CB8F057ACAD6DC65FEF07D3202088FF4AE355CD": {
-    "name": "Asteroids (Europe)"
+    "name": "Asteroids (Europe)",
+    "ref": "D68937E57A367E61EAA4B44550AE8B9D69456661"
   },
   "8423F99092B454AED89F89F5D7DA658CAF7AF016": {
-    "name": "Asteroids (USA) (Atari Anthology)"
+    "name": "Asteroids (USA) (Atari Anthology)",
+    "ref": "D68937E57A367E61EAA4B44550AE8B9D69456661"
   },
   "8E83FD77E198B27EB5B02A6DC02A5AB37B5A76BD": {
     "name": "Astroblast (USA) (v1.1)",
@@ -167,10 +173,12 @@
     "logo": "QmYEhG1Rh7aoDu7ukdxQBVAFTUJnBP2bujxUrk7aJDTt9L"
   },
   "AB8AF3C4E0D8858481F3E52B59B5040B18CEB4D7": {
-    "name": "Astroblast (Europe)"
+    "name": "Astroblast (Europe)",
+    "ref": "8E83FD77E198B27EB5B02A6DC02A5AB37B5A76BD"
   },
   "B850BD72D18906D9684E1C7251CB699588CBCF64": {
-    "name": "Astroblast (USA)"
+    "name": "Astroblast (USA)",
+    "ref": "8E83FD77E198B27EB5B02A6DC02A5AB37B5A76BD"
   },
   "B6F01797E3E8D80F4E33DA73E64AA2935AF96038": {
     "name": "Astrowar (Brazil) (Unl)"
@@ -187,7 +195,8 @@
     "logo": "QmcTsckFMyioSwoJSBkQs6vq4PGumEWS8LRYEoXZtWvLgu"
   },
   "7B9975DC1AABC34DEF2D19854B39F237E4AFE088": {
-    "name": "Atlantis (Europe)"
+    "name": "Atlantis (Europe)",
+    "ref": "C6B1DCDB2F024AB682316DB45763BACC6949C33C"
   },
   "F4E838DE9159C149AC080AB85E4F830D5B299963": {
     "name": "Atlantis II (USA)",
@@ -221,10 +230,12 @@
     "logo": "QmSszidc6w1p2mKakbd8nL8hU5ob1VnVsjESejV4dyACje"
   },
   "0E146B4081AE08D7A527BD0E7ABD23BB1D42DFFB": {
-    "name": "Barnstorming (Europe)"
+    "name": "Barnstorming (Europe)",
+    "ref": "372663097B419CED64F44EF743FE8D0AF4317F46"
   },
   "72F0BD35B49E4A35F6E51DF6EC8EA579B5A673EB": {
-    "name": "Barnstorming (Brazil) (Unl)"
+    "name": "Barnstorming (Brazil) (Unl)",
+    "ref": "372663097B419CED64F44EF743FE8D0AF4317F46"
   },
   "4E2CCB0AFE236A76193AD500BAB57ABB82632A5A": {
     "name": "Base Attack (Europe)"
@@ -253,13 +264,16 @@
     "logo": "QmYJBreLoCsMPqdY4G8JbP8NPbwgpBRgg9ynbSVKYFE6H9"
   },
   "D33A367FC4890BEA8C2D9A7283D84720B20CABF8": {
-    "name": "Battlezone (Europe)"
+    "name": "Battlezone (Europe)",
+    "ref": "E4134A3B4A065C856802BC935C12FA7E9868110A"
   },
   "FAFD522E36A4888DFC2A40B1D5879EE8A33D7931": {
-    "name": "Battlezone (Japan, USA) (Beta) (1983-05-02)"
+    "name": "Battlezone (Japan, USA) (Beta) (1983-05-02)",
+    "ref": "E4134A3B4A065C856802BC935C12FA7E9868110A"
   },
   "3E226D8FFA975B937D808F73F79B3F052C3B067E": {
-    "name": "Battlezone (Japan, USA) (Beta) (1983-05-12)"
+    "name": "Battlezone (Japan, USA) (Beta) (1983-05-12)",
+    "ref": "E4134A3B4A065C856802BC935C12FA7E9868110A"
   },
   "47619EDB352F7F955F811CBB03A00746C8E099B1": {
     "name": "Beamrider (USA)",
@@ -267,7 +281,8 @@
     "logo": "QmeZabaM89itTxZdo9KEHagW5Wq3J6fjWoJMS2GPJUFHwM"
   },
   "0AE5D0F01E63E053BABA4BDAAED8A82E59334AAF": {
-    "name": "Beamrider (Europe)"
+    "name": "Beamrider (Europe)",
+    "ref": "47619EDB352F7F955F811CBB03A00746C8E099B1"
   },
   "FAD0C97331A525A4AEBA67987552BA324629A7A0": {
     "name": "Beany Bopper (USA)"
@@ -299,10 +314,12 @@
     "logo": "QmcKKbqajqtG6TquQ7GPScTEBNm1jQzBPyw3TjosDQXpJQ"
   },
   "AFB983A2F881A017B2CFB593B0D32742093612DD": {
-    "name": "Berzerk (Europe)"
+    "name": "Berzerk (Europe)",
+    "ref": "08BCBC8954473E8F0242B881315B0AF4466998AE"
   },
   "6BFFBBE1207662DE89C7EA02C1FCD004071FB9E4": {
-    "name": "Berzerk (Brazil) (Unl)"
+    "name": "Berzerk (Brazil) (Unl)",
+    "ref": "08BCBC8954473E8F0242B881315B0AF4466998AE"
   },
   "5E4517DB83C061926130AB65975E3B83D9401CC9": {
     "name": "Big Bird's Egg Catch (Japan, USA)"
@@ -379,7 +396,8 @@
     "logo": "Qmc2KWANosyczeawkxyvsvmAKPsZeTfRe9r5kqxTBrJyNV"
   },
   "DA5ED7A4A100FA4830B635981774A11BA4B0A60D": {
-    "name": "Bowling (Europe)"
+    "name": "Bowling (Europe)",
+    "ref": "CF6CE244B3EDAAD7AD5E9CA5F01668135C2F93D0"
   },
   "DE7137596223F0E8D0F4E6CD675EA5344892C6F4": {
     "name": "Boxen (Germany) (En)"
@@ -390,10 +408,12 @@
     "logo": "QmWcVeTcj5VUThtxpfqSLaJ4UwgZnvThscED4nFiHcknQM"
   },
   "4F75780608148F51EDDB30CE2DA0C1A40BE7D37F": {
-    "name": "Boxing (Europe)"
+    "name": "Boxing (Europe)",
+    "ref": "14B9CD91188C7FB0D4566442D639870F8D6F174D"
   },
   "A7716AF544F0813CE7657BB8A1A55FF6088F09C3": {
-    "name": "Boxing (Brazil) (Unl)"
+    "name": "Boxing (Brazil) (Unl)",
+    "ref": "14B9CD91188C7FB0D4566442D639870F8D6F174D"
   },
   "238915CAFD26F69BC8A3B9AA7D880DDE59F6F12D": {
     "name": "Brain Games (USA)"
@@ -486,7 +506,8 @@
     "logo": "QmPFmzGVYFzGugmybZEcwqtTY1XApuaonEA5gNcVHdiJVt"
   },
   "0C7BA0272AC8684105DAA28843875017644DCDF9": {
-    "name": "Carnival (Europe)"
+    "name": "Carnival (Europe)",
+    "ref": "E1ACF7A845B56E4B3D18192A75A81C7AFA6F341A"
   },
   "0A7C41B4215F792E499D20FF86FD6DA9C2648D17": {
     "name": "Casino (Europe)"
@@ -506,10 +527,12 @@
     "logo": "QmWFjbGkRALA4iBC9C2wufX5yJwaeS5kZGft79trHY29TE"
   },
   "1841CE27FC14CC2AA741D67E91F64F7924E3BF3E": {
-    "name": "Centipede (Europe)"
+    "name": "Centipede (Europe)",
+    "ref": "0B5914BC1526A9BEAF54D7FD11408175CD8FCC72"
   },
   "C5FF64D7593F0D0103D6BB50A150E8A87D222EF3": {
-    "name": "Centipede (Europe) (Beta)"
+    "name": "Centipede (Europe) (Beta)",
+    "ref": "0B5914BC1526A9BEAF54D7FD11408175CD8FCC72"
   },
   "B2B1BD165B3C10CDE5316ED0F9F05A509AAC828D": {
     "name": "Challenge (Canada)"
@@ -546,7 +569,8 @@
     "logo": "QmdemGTmAyYWuCXkdHkHEdB7Wv3tetP5nrZb5gAPvbtQqk"
   },
   "A47BF3C35B47729330D3E1B0A1E0B5DEEC6BA213": {
-    "name": "Chopper Command (Europe)"
+    "name": "Chopper Command (Europe)",
+    "ref": "51A53BBFDBCC22925515AE0AF79DF434DF6EE68A"
   },
   "1637B6B9CD1A918339EC054CF95B924E7CE4789A": {
     "name": "Chuck Norris Superkicks (USA)"
@@ -557,7 +581,8 @@
     "logo": "QmVhBigyu3at6a7fVM6XrsJykT3sPQdeUqdg7PMs9AvLbN"
   },
   "342CABE30592DB8DCF692994666E40FB176C8D86": {
-    "name": "Circus Atari (Europe)"
+    "name": "Circus Atari (Europe)",
+    "ref": "8A91ECDBD8BF9D412DA051C3422ABB004EAB8603"
   },
   "3F56D1A376702B64B3992B2D5652A3842C56FFAD": {
     "name": "Coco Nuts (USA)"
@@ -1156,7 +1181,8 @@
     "logo": "QmdXTM4VYQc99fRjE124MdY9zGZNsW7s4mXT7VMmNaU6wn"
   },
   "3162259C6DBFBB57A2EA41D849155702151EE39B": {
-    "name": "Klax (USA)"
+    "name": "Klax (USA)",
+    "ref": "45623A1C8FB5074DE98C37F005EDD5B1D0937DAE"
   },
   "2F550743E237F6DC8C75C389A01B02E9A396FDAD": {
     "name": "Kool-Aid Man (USA)"
@@ -1356,7 +1382,8 @@
     "logo": "QmZGiAsX6MZoHftiTsNVgBXRQiycCdCPKxZBh1DjmhNQ4Q"
   },
   "48B5CBFD0016961711777036148FA7D1B038FD18": {
-    "name": "Mouse Trap (Europe)"
+    "name": "Mouse Trap (Europe)",
+    "ref": "CF6347DEDCFEC213C28DD92111EC6F41E74B6F64"
   },
   "E4C912199779BBA25F1B9950007F14DCA3D19C84": {
     "name": "Mr. Do! (USA)"
@@ -2042,7 +2069,8 @@
     "logo": "QmXuEfcW3RSfp3764Nxt6vLt2HRTYmjLaifEMAnxenCUAN"
   },
   "E380E243C671E954E86AA1A3A0BFEB36D5E0C3E2": {
-    "name": "Super Breakout (USA, Europe) (Atari Anthology)"
+    "name": "Super Breakout (USA, Europe) (Atari Anthology)",
+    "ref": "AC2AAD2196C155C1D87D6F42FA88891825F4FDE6"
   },
   "DFCE4D6436F91D8D385F8B01F0D8E3488400407B": {
     "name": "Super Challenge Baseball (USA)"

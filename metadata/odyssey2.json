@@ -86,7 +86,8 @@
   },
   "7162359313F66FE759BDD8A34755A5F62F3CADFB": {
     "name": "Chess (Europe)",
-    "logo": "QmewYqyhoDhc6z1o1toaLaJhWZDbXKviwA8GSoXSrBPjNr"
+    "logo": "QmewYqyhoDhc6z1o1toaLaJhWZDbXKviwA8GSoXSrBPjNr",
+    "ref": "7162359313F66FE759BDD8A34755A5F62F3CADFB"
   },
   "431BD5B4EE86E62500EAB263E073A585656D16C6": {
     "name": "Chinese Logic (Europe)",
@@ -111,7 +112,8 @@
   },
   "913C1961DFA17B5873428F57429E3809580FF906": {
     "name": "Computer Programmer (Europe)",
-    "vid": "QmPgX36XLvreFtsC4BoeYWNh8NxNgZGLdYkmD8cXrcENf9"
+    "vid": "QmPgX36XLvreFtsC4BoeYWNh8NxNgZGLdYkmD8cXrcENf9",
+    "ref": "913C1961DFA17B5873428F57429E3809580FF906"
   },
   "E54FE13EE27884524255063AA6FD69E4598A5104": {
     "name": "Conflit Cosmique (Canada)"
@@ -122,10 +124,12 @@
     "logo": "Qme1GQNK31DMd5UrtM9XYkPSUvZBbnTxnhbFC5f3WYq9kY"
   },
   "9F8F10C9E6E1A5E07EB5A6EEE4E0FE19FCAEE17F": {
-    "name": "Cosmic Conflict (Europe) (Alt 1)"
+    "name": "Cosmic Conflict (Europe) (Alt 1)",
+    "ref": "DCCBF881E21DD02CBAF15EC049E0801118FB9C96"
   },
   "A22F99DCC4ABA3126F5B5BBBF2A3890878AC953B": {
-    "name": "Cosmic Conflict (Europe)"
+    "name": "Cosmic Conflict (Europe)",
+    "ref": "DCCBF881E21DD02CBAF15EC049E0801118FB9C96"
   },
   "DCCBF881E21DD02CBAF15EC049E0801118FB9C96": {
     "name": "Cosmic Conflict (USA)",
@@ -177,7 +181,8 @@
     "logo": "QmPVSNyrgB6CSpkk9Vhq8CvbCCxMTiAFfASTtEjQ3ytMoi"
   },
   "BEDB714C88B9AA7A02DA9EBCDE12446EC8350D18": {
-    "name": "Frogger (Brazil)"
+    "name": "Frogger (Brazil)",
+    "ref": "0BEDA7B36259B3BE84D34206A77A35CD3F04892F"
   },
   "C2BF8D92B8827E3071D6CE4C43E34B21AFC54F8D": {
     "name": "Golf (Europe)"
@@ -244,7 +249,8 @@
   },
   "9B73685F7D2008467D4449A3BFEDEF6E763B5948": {
     "name": "Kinder im Verkehr 1 (Germany)",
-    "logo": "QmNjwM8bsk4H2aBbEbgCg6i53mvmUvuKQt6WEwpbZkPiss"
+    "logo": "QmNjwM8bsk4H2aBbEbgCg6i53mvmUvuKQt6WEwpbZkPiss",
+    "ref": "9B73685F7D2008467D4449A3BFEDEF6E763B5948"
   },
   "04543BDBEA8112F7CC55CAEF5DA9445D08D65E46": {
     "name": "La Quete des Anneaux (France)"
@@ -271,7 +277,8 @@
     "logo": "QmYu64wji73KsGiBXYnvFAEwCnBNhbScNWYkWFNWLp15YP"
   },
   "D6A3F2DEF966B798099DBF3C754AB12F69BB4EE8": {
-    "name": "Martian Threat (Europe) (Proto) (Alt 1)"
+    "name": "Martian Threat (Europe) (Proto) (Alt 1)",
+    "ref": "4266CA9AA34ACE118EDD8153E2847CFA94A9A2F0"
   },
   "4266CA9AA34ACE118EDD8153E2847CFA94A9A2F0": {
     "name": "Martian Threat (Europe) (Proto)",
@@ -300,7 +307,8 @@
     "logo": "QmdKY5ZYSQGUjNW4The7ADuRtgJH6LSR6a9JsUfxEjq5Td"
   },
   "11065DFBC22DD9ED7609CBCC7F8C6D3BC5B004EE": {
-    "name": "Morse (France)"
+    "name": "Morse (France)",
+    "ref": "8431F56359D80FF6A67C83C50C12FA5D8BC46FF3"
   },
   "8431F56359D80FF6A67C83C50C12FA5D8BC46FF3": {
     "name": "Morse (Europe)",
@@ -333,7 +341,8 @@
   },
   "EC364634C2A8160DA1916A43246B76D78932BE1D": {
     "name": "Nightfighter (Europe) (Proto)",
-    "logo": "QmXa7GK23tjfhkpCX437vy6rcK8i6E9kg4MPb8XTGAAU8j"
+    "logo": "QmXa7GK23tjfhkpCX437vy6rcK8i6E9kg4MPb8XTGAAU8j",
+    "ref": "EC364634C2A8160DA1916A43246B76D78932BE1D"
   },
   "3CC218587116EB105E95FFCE9EB1B5E268258D4A": {
     "name": "Nightmare (Europe)",
@@ -368,7 +377,8 @@
   },
   "7EA8E5FF3B9F86914774DE2AA6F7A4652ADCF47A": {
     "name": "Pairs + Space Rendezvous + Logic (Europe)",
-    "logo": "Qma3MMDgwTuUWbkQVq3wYo7K1vPdGhFmuTN7XpPciAQ1gR"
+    "logo": "Qma3MMDgwTuUWbkQVq3wYo7K1vPdGhFmuTN7XpPciAQ1gR",
+    "ref": "7EA8E5FF3B9F86914774DE2AA6F7A4652ADCF47A"
   },
   "B979ED0C2B8947F764786FCF4444463B3D3AE87D": {
     "name": "Pick Axe Pete (USA, Europe)",
@@ -396,10 +406,12 @@
     "logo": "QmXC3Pja5arPYDdCD5G3ACGMTA8CYxyj4keiKAa3Ym8Jdv"
   },
   "D12197942A99D5902DE1352BBB5475AB4396C7D0": {
-    "name": "Popeye (Brazil)"
+    "name": "Popeye (Brazil)",
+    "ref": "A13E7B338BA15820949F51EB862B381DDC6870AF"
   },
   "21931AB2B959ED532BE36563CC84297FB53C8A21": {
-    "name": "Power Lords (USA) (Alt 1)"
+    "name": "Power Lords (USA) (Alt 1)",
+    "ref": "E81570282B8ADE6B7C0D126C819A95C7011CD063"
   },
   "E81570282B8ADE6B7C0D126C819A95C7011CD063": {
     "name": "Power Lords (USA)",
@@ -416,7 +428,8 @@
   },
   "32759C8D502CD8B959DA5F03351DB7CD46C8F96A": {
     "name": "Quest for the Rings (USA, Europe)",
-    "logo": "QmeT5aTUT8Rtxeeh3KkmoXCz4EDeX7W5FEL2AYMchbAAmg"
+    "logo": "QmeT5aTUT8Rtxeeh3KkmoXCz4EDeX7W5FEL2AYMchbAAmg",
+    "ref": "32759C8D502CD8B959DA5F03351DB7CD46C8F96A"
   },
   "50EBA68915B0CCC95F07719F80D9011CA2CF67C9": {
     "name": "Red Baron (Europe) (Proto)",
@@ -424,7 +437,8 @@
     "logo": "QmV7HQY1acngi7UiTwJzfptsCtkBvEwjtoPKWQBEyoiezV"
   },
   "2FC0080D132E0063E21FD72D501EEF94D3EEFAB8": {
-    "name": "Red Baron (Europe) (Proto) (Alt 1)"
+    "name": "Red Baron (Europe) (Proto) (Alt 1)",
+    "ref": "50EBA68915B0CCC95F07719F80D9011CA2CF67C9"
   },
   "FF92B024EF80919146E822CE947882D0744AC09F": {
     "name": "Robot City (Europe) (Proto)",
@@ -476,7 +490,8 @@
     "logo": "QmQ7FRjP7yffqSP7tRPe7nMr6H13qSRLaT6AYRn3WZ1Bbg"
   },
   "69661C91C984AA26BB971E989FE3AACA93AB718C": {
-    "name": "Spider-Man (Europe) (Proto) (Alt 1)"
+    "name": "Spider-Man (Europe) (Proto) (Alt 1)",
+    "ref": "4B1D675CB1FBF72ED35681E2B2E6E99FED7154CD"
   },
   "50763429D12206D7BF9FAD6A6BD6076A34D54B51": {
     "name": "Stone Sling (Europe)"
@@ -487,7 +502,8 @@
     "logo": "QmYX3Bkgz7fHHJWqRCCAFhwRRQ27vjVhLSK4jMPxz61Nui"
   },
   "98C1F3A9726FE1BA880D43F0BA004821C4CBEC6C": {
-    "name": "Super Bee (Brazil)"
+    "name": "Super Bee (Brazil)",
+    "ref": "DFCFD9C019773E703AA130BC55F5B2F972ECE8F0"
   },
   "5521FF83E3BE32C38205472B2DF49EB507249DC2": {
     "name": "Super Cobra (Europe)",
@@ -495,7 +511,8 @@
     "logo": "QmdTp9S5eAZVtxP8B6L6pmFxQUm5nv8o5EHzygWeNAuorX"
   },
   "46716A927B902759BFE252022F84186098FB5863": {
-    "name": "Super Cobra (Brazil)"
+    "name": "Super Cobra (Brazil)",
+    "ref": "5521FF83E3BE32C38205472B2DF49EB507249DC2"
   },
   "8C181F4835D53A358ECB8E4385E087EE942B4B4F": {
     "name": "Take the Money and Run (USA, Europe)",
@@ -513,7 +530,8 @@
     "logo": "QmYVcBctmcs8NgrCRD721me2Ca95BrwtH1NqgYLUPhD7h4"
   },
   "1FDCA749675F62212D0B79C5F0911BCABC4E4E11": {
-    "name": "Turtles (Europe)"
+    "name": "Turtles (Europe)",
+    "ref": "EE456305397ECBD54FFFA0BB7A894F53976D2A7C"
   },
   "C4985A344BE7DA3D78656B6473A3A1AD3EBE6497": {
     "name": "Tutankham (Europe) (Proto)",
@@ -532,7 +550,8 @@
   },
   "E90F2A33E41D9BD4C50E96EACC483BC99E53993B": {
     "name": "Verkehrsspiele 1 (Germany)",
-    "vid": "Qma86cxwZmrDyt621MwcYFSUyZXay5Aegme7DYhQt1C5ZS"
+    "vid": "Qma86cxwZmrDyt621MwcYFSUyZXay5Aegme7DYhQt1C5ZS",
+    "ref": "E90F2A33E41D9BD4C50E96EACC483BC99E53993B"
   },
   "0904EA45C011D12857477DB04B4D1C87544F27E6": {
     "name": "Verkehrsspiele 2 (Germany)"

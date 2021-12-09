@@ -35,7 +35,8 @@
     "name": "Adventure Island (Japan)"
   },
   "748EC92246140565D95F6FB727DE6167227B85D3": {
-    "name": "Aero Blasters (Japan)"
+    "name": "Aero Blasters (Japan)",
+    "ref": "23B7DA6A6067563AF5FDF303D83ADEAE818CDCDF"
   },
   "23B7DA6A6067563AF5FDF303D83ADEAE818CDCDF": {
     "name": "Aero Blasters (USA)",
@@ -58,7 +59,8 @@
     "logo": "QmfV1S1tb21AmaUtiD4ifARMTo23bdKgt7oSjyoQfwykAS"
   },
   "A1E6AD82B66A82C25E0A9E25FB8BE370F49C8C2D": {
-    "name": "Alien Crush (Japan)"
+    "name": "Alien Crush (Japan)",
+    "ref": "1BFA4B5139612B0C33E3282C23E56C1DFC08ED52"
   },
   "3B66B7273E7B04CDB16D6E333E764F9462DD8F26": {
     "name": "All Star Power League (Japan)"
@@ -101,7 +103,8 @@
     "logo": "QmQ1rBq68ibgPwFDVqPh7QWAb86ru7ppxRnhj1xXSt2EbR"
   },
   "E687ABEB0F94E85FAFA52E92B0BEB82542F0C368": {
-    "name": "Ballistix (Japan)"
+    "name": "Ballistix (Japan)",
+    "ref": "8F65C5B459B477ADC97AB7809CA8E85329F25769"
   },
   "8F65C5B459B477ADC97AB7809CA8E85329F25769": {
     "name": "Ballistix (USA)",
@@ -167,10 +170,12 @@
     "logo": "QmaHBrpBxHetkv5daN2hNGGH5YBjF4MbjvzpHTRVtsSusu"
   },
   "738BBCED47D87CD438D7972EBA58C08F5C031A74": {
-    "name": "Bomberman (Japan)"
+    "name": "Bomberman (Japan)",
+    "ref": "DC63680E579764BBACB7F07514F4F49AB888D3B1"
   },
   "98AD40E638AB27BCB8EC19B2189CE505F63F2749": {
-    "name": "Bomberman (USA) (Bomberman Collection)"
+    "name": "Bomberman (USA) (Bomberman Collection)",
+    "ref": "DC63680E579764BBACB7F07514F4F49AB888D3B1"
   },
   "96BA02050843CACB149859128A8F3313BFF44358": {
     "name": "Bomberman - Users Battle (Japan)",
@@ -178,7 +183,8 @@
     "logo": "QmWD9GKoz5ZLDuSi4kd869VX8C5Rzb4zQ8jCkv7pPUYQP6"
   },
   "64131AEB6753BFFDE2910D641C73B56108874320": {
-    "name": "Bomberman '93 (Japan)"
+    "name": "Bomberman '93 (Japan)",
+    "ref": "709B47DE6E0EBC18FB80C951D5CFAA6CE82D6CE0"
   },
   "709B47DE6E0EBC18FB80C951D5CFAA6CE82D6CE0": {
     "name": "Bomberman '93 (USA)",
@@ -186,7 +192,8 @@
     "logo": "QmQc6JFr1VCrRBTG1VtMmm86LWeptkSBEvD75TbTsf2jqo"
   },
   "B5E2FC745723634D9955A3D3418BA21859893A7B": {
-    "name": "Bomberman '93 (USA, Europe) (Virtual Console)"
+    "name": "Bomberman '93 (USA, Europe) (Virtual Console)",
+    "ref": "709B47DE6E0EBC18FB80C951D5CFAA6CE82D6CE0"
   },
   "79AF6D5987267238CF8F729AF79E25349CB0BF03": {
     "name": "Bomberman '93 - Special Version (Japan)"
@@ -207,7 +214,8 @@
     "logo": "QmQehg6dL3Zby37Zfya8WXxnVHV766BKtK24GTYk5jERmS"
   },
   "A9908331D835CE3F6AE301E2A6232FE59861C454": {
-    "name": "Bonk's Revenge (USA, Europe) (Virtual Console)"
+    "name": "Bonk's Revenge (USA, Europe) (Virtual Console)",
+    "ref": "1F6C2766507D72FB55FBF84D2A8B45CF86709C0B"
   },
   "1F6C2766507D72FB55FBF84D2A8B45CF86709C0B": {
     "name": "Bonk's Revenge (USA)",
@@ -258,7 +266,8 @@
     "logo": "QmQwh2JEn4CkHEqGTNHsxPtET7x1CAzL5aJ6LrEKUuFMCE"
   },
   "3755CB2B883BC106E58019E1CD82708A63394F35": {
-    "name": "Cadash (Japan)"
+    "name": "Cadash (Japan)",
+    "ref": "31C9692BA8C7EAB995A6D3AB1E2079B69B47847F"
   },
   "C865834D69B765BFB9F7730D98DFC167C360E964": {
     "name": "Champion Wrestler (Japan)",
@@ -325,7 +334,8 @@
     "logo": "QmPWLnERLdRrujD1sJwAmPMp6JsVkcWSScu3HA9NKkftAT"
   },
   "75BBD695E55A01A423A6C2404335D75F5BB65437": {
-    "name": "Cyber Core (Japan)"
+    "name": "Cyber Core (Japan)",
+    "ref": "D0765259B06B12DFDA66D8B861954EBC62022440"
   },
   "D0765259B06B12DFDA66D8B861954EBC62022440": {
     "name": "Cyber Core (USA)",
@@ -431,7 +441,8 @@
     "logo": "QmSV8ogKieneCByw1JfsJghrWd8e4qNHEWCg2GSnpJrDcH"
   },
   "A5A032283F24A4E487715FFB36B3FC4615656B37": {
-    "name": "Double Dungeons (Japan)"
+    "name": "Double Dungeons (Japan)",
+    "ref": "4E81F6CFA47ED941922492889BE432041FF99E25"
   },
   "847BD22CCCDF929DEF8FC348B973FAEE2688E648": {
     "name": "Download (Japan)",
@@ -449,7 +460,8 @@
     "logo": "QmQwMUmrT2VnnYdTK1SmpbPwYVS51EfVCg4eYUz6wEtfge"
   },
   "09B037FDE801B71D1FF343C40FF5A58372B9A514": {
-    "name": "Dragon Spirit (Japan)"
+    "name": "Dragon Spirit (Japan)",
+    "ref": "3BDD082360335232715633B469DA71AB2597279D"
   },
   "3BDD082360335232715633B469DA71AB2597279D": {
     "name": "Dragon Spirit (USA)",
@@ -470,7 +482,8 @@
     "name": "Drop Rock Hora Hora (Japan)"
   },
   "77CAECE9655A0E14330884673FFB41FF2BB625C4": {
-    "name": "Dungeon Explorer (Japan)"
+    "name": "Dungeon Explorer (Japan)",
+    "ref": "D6D18128D55D886A9B6A8C8EA65AF76E783001F9"
   },
   "D6D18128D55D886A9B6A8C8EA65AF76E783001F9": {
     "name": "Dungeon Explorer (USA)",
@@ -533,7 +546,8 @@
     "logo": "QmNQFKE8jy3Jne6vZDRKXHo6ciRaejxfsphKASCykHm6fw"
   },
   "9DFC979FDF65D6425504AFF68DC80E83C69E7B40": {
-    "name": "Fantasy Zone (Japan)"
+    "name": "Fantasy Zone (Japan)",
+    "ref": "7C419163D860691DFEA9720639921190E20E3C97"
   },
   "FDD2962412B401CD2D72A85DDB516071468BD9FF": {
     "name": "Fighting Run (Japan)",
@@ -546,7 +560,8 @@
     "logo": "QmVp6EpUWyVe8x38rBPzuoduRwjtwPRYvgWEx4NPGBh2Cv"
   },
   "AD695B7D1FB8BAC7D9E13045BF229DBA98D56A71": {
-    "name": "Final Lap Twin (Japan)"
+    "name": "Final Lap Twin (Japan)",
+    "ref": "7EC6E816C4D89943D06DC88108EE415ED1F57BE9"
   },
   "7EC6E816C4D89943D06DC88108EE415ED1F57BE9": {
     "name": "Final Lap Twin (USA)",
@@ -810,10 +825,12 @@
     "logo": "QmVhMVTCsGW8Ld8fAHVgQgo7wYRUnzykAqR4HjdZAK6PE4"
   },
   "2F635986A785F7B00954236E3EC5FECE6FEDEC23": {
-    "name": "King of Casino (Japan)"
+    "name": "King of Casino (Japan)",
+    "ref": "B3BCA08F73E6E1949B1F969A3D3E8A71B705673A"
   },
   "CF952C23DFD771BFBA50DF645BA27782D3C44C16": {
-    "name": "Klax (Japan)"
+    "name": "Klax (Japan)",
+    "ref": "4F032FDF7D836D021315BCD9B9903FDAD4907F31"
   },
   "4F032FDF7D836D021315BCD9B9903FDAD4907F31": {
     "name": "Klax (USA)",
@@ -865,7 +882,8 @@
     "logo": "QmfHkzm5BgDUUtNsMCaPyzBoBjFq8yyHhsAt4FY4M81T4E"
   },
   "352E91337DB64BC7EDD788E4CCB9C240C7040898": {
-    "name": "Legend of Hero Tonma (Japan)"
+    "name": "Legend of Hero Tonma (Japan)",
+    "ref": "A87586AE18BD36F1C32E08B8B7A55AFC6532FB3E"
   },
   "3D537FBD2A7181639D297B829CE3F7D7556E831B": {
     "name": "Legendary Axe II (USA)",
@@ -894,7 +912,8 @@
     "ref": "04175B93E52653FA61111210538A5582BA152180"
   },
   "9E15320BEA2FE067AD46A34F602905B9F8962D27": {
-    "name": "Magical Chase (Japan)"
+    "name": "Magical Chase (Japan)",
+    "ref": "50C940CC9B52167CB99DD760C25079A19FC0AA2B"
   },
   "50C940CC9B52167CB99DD760C25079A19FC0AA2B": {
     "name": "Magical Chase (USA)",
@@ -984,7 +1003,8 @@
     "logo": "QmcTkJXm79UsZVZp4gzkHgjHtBq2gVdP5mP7Yqa4sAQN5J"
   },
   "9737BD5A9D4F28544AD1CB25592E428BEA98AA27": {
-    "name": "Moto Roader (Japan)"
+    "name": "Moto Roader (Japan)",
+    "ref": "BD92A8E6A1E860305A0943878A3B4A56DDDE5478"
   },
   "101F6E3C90B314496B73EE9FEAB9A98F8D9B7821": {
     "name": "Moto Roader II (Japan)",
@@ -1029,7 +1049,8 @@
     "logo": "QmYSZhJrbfQjTddNMS46xvxfnsKjUVEBUmcuGP2UQdqkTu"
   },
   "338E0FA3DA1DF9CC2F3AC30FAA67467C74B6CB07": {
-    "name": "Neutopia (Japan)"
+    "name": "Neutopia (Japan)",
+    "ref": "95D5FDBD6C9D6DA2F288312309C2BADD92F89CF4"
   },
   "95D5FDBD6C9D6DA2F288312309C2BADD92F89CF4": {
     "name": "Neutopia (USA)",
@@ -1042,7 +1063,8 @@
     "logo": "Qma7vqd5g12d64xs1kGkmTx734C19eu6sJxtngAcQA8Ggj"
   },
   "D0AC1550B271EAA1D475D2E3829B4B2DF0AC9F16": {
-    "name": "Neutopia II (Japan)"
+    "name": "Neutopia II (Japan)",
+    "ref": "D916C84955438B6FDFAEA5B7696472CE479D4FF1"
   },
   "BEA7A4E5445D3A4F8610524471B83216E57F48E2": {
     "name": "New Adventure Island (USA)",
@@ -1096,7 +1118,8 @@
     "logo": "QmXHRGjSZevWZDqMfaejsJNmJkh7AzhFhDPoxjTeAfxnyG"
   },
   "6B1E419C77F72D3588B52343989727B5A069DF3A": {
-    "name": "Ordyne (Japan)"
+    "name": "Ordyne (Japan)",
+    "ref": "06880CFEAF9A495CEFA49E8C4FC2E94887D1543B"
   },
   "06880CFEAF9A495CEFA49E8C4FC2E94887D1543B": {
     "name": "Ordyne (USA)",
@@ -1127,7 +1150,8 @@
     "logo": "QmS7nZFDuqZonB6auJGosGPBcjfzRAWD9xwzHxHyKeBeYQ"
   },
   "FC0166DA82ED3CF4A4E06FC6C73FD3184BA8BB3B": {
-    "name": "Pac-Land (Japan)"
+    "name": "Pac-Land (Japan)",
+    "ref": "FF74F1812196EC5C64DF4B9A78A4697D3B53EF1A"
   },
   "67749FC1C067C16000223FD3B7555FD85C9F9EBD": {
     "name": "Pachio-kun - Juuban Shoubu (Japan)"
@@ -1136,7 +1160,8 @@
     "name": "Paranoia (Japan)"
   },
   "94A4C4B16435B043B0B985AF446D8767602F5041": {
-    "name": "Parasol Stars - The Story of Bubble Bobble III (Japan)"
+    "name": "Parasol Stars - The Story of Bubble Bobble III (Japan)",
+    "ref": "C87524B4BD6E628E6F0551E8E50FDED206EBE137"
   },
   "C87524B4BD6E628E6F0551E8E50FDED206EBE137": {
     "name": "Parasol Stars - The Story of Bubble Bobble III (USA)",
@@ -1195,7 +1220,8 @@
     "logo": "QmQrD77VVjP9FgdqV3cDcZJLUkmTtXS2W4j8orCRGzXRQJ"
   },
   "FF0A18094DAECD56091F04F76B35551C303520B9": {
-    "name": "Power Golf (Japan)"
+    "name": "Power Golf (Japan)",
+    "ref": "A9A05CACBCAE9031FC95B54ACE08864A97AFFD6E"
   },
   "4E50A6C422B4D8C8EA0CCE64E5ACCA7BF13ADAF6": {
     "name": "Power League (Japan)"
@@ -1297,7 +1323,8 @@
     "logo": "QmScirde9CPoxmvdKuXm2t8hjWPSC1FpvgLaUiFMBrwgUj"
   },
   "CEF25446294884053442A4214434D7D97319DDCA": {
-    "name": "Raiden (Japan)"
+    "name": "Raiden (Japan)",
+    "ref": "910E7346976B7A6E83DDB7E68B49D33CED9DBC2C"
   },
   "910E7346976B7A6E83DDB7E68B49D33CED9DBC2C": {
     "name": "Raiden (USA)",
@@ -1384,7 +1411,8 @@
     "name": "SideArms - Hyper Dyne (Japan)"
   },
   "9101F738A37C9FCBC69308449CDFB94C928F64C6": {
-    "name": "Silent Debuggers (Japan)"
+    "name": "Silent Debuggers (Japan)",
+    "ref": "C010BA9FF55A2558BBA94AC39AA0160C76DAFF0C"
   },
   "C010BA9FF55A2558BBA94AC39AA0160C76DAFF0C": {
     "name": "Silent Debuggers (USA)",
@@ -1410,7 +1438,8 @@
     "logo": "QmcEYdUiST57BhoqsR97y2J2DsPeDf5UeqJmgaJTvTeiAp"
   },
   "BB6259ECFEE3CC28DDBF1B1C1416F281ECCCBE31": {
-    "name": "Soldier Blade (Japan)"
+    "name": "Soldier Blade (Japan)",
+    "ref": "3B4CC242F68A1D61C83A1A0DBDEE23D2AE8F1427"
   },
   "328A85924778D742CC5B191AC60D79A7ED9B0620": {
     "name": "Soldier Blade - Special Version (Japan)"
@@ -1437,7 +1466,8 @@
     "name": "Soukoban World (Japan)"
   },
   "B59CCAB8F7E73D4A9B29CCD8BEFB78CBCD491FA4": {
-    "name": "Space Harrier (Japan)"
+    "name": "Space Harrier (Japan)",
+    "ref": "948E6A5C30DCF945AB8332009AE4FA3AB231255A"
   },
   "948E6A5C30DCF945AB8332009AE4FA3AB231255A": {
     "name": "Space Harrier (USA)",
@@ -1458,7 +1488,8 @@
     "name": "Spiral Wave (Japan)"
   },
   "B0BDBB7729D775496581DC3141C4447614AAAC46": {
-    "name": "Splatterhouse (Japan) (En)"
+    "name": "Splatterhouse (Japan) (En)",
+    "ref": "E2167B5D67A065EC97763D3EE843AC2B2328C082"
   },
   "E2167B5D67A065EC97763D3EE843AC2B2328C082": {
     "name": "Splatterhouse (USA)",
@@ -1493,7 +1524,8 @@
     "name": "Super Momotarou Dentetsu II (Japan)"
   },
   "4220516A17BC32A3F68ED51EF2AF63E496E79F7D": {
-    "name": "Super Star Soldier (Japan)"
+    "name": "Super Star Soldier (Japan)",
+    "ref": "E0C487782E155B1CF50F5FB4C8D6A24BE0301A6E"
   },
   "E0C487782E155B1CF50F5FB4C8D6A24BE0301A6E": {
     "name": "Super Star Soldier (USA)",
@@ -1538,7 +1570,8 @@
     "logo": "QmX6tSrFb29UNy7PgfPTANN34QTS3tWB55xxoEdiMZqvGL"
   },
   "C36FB68B7FDA1E4E1D021F6AE00522C9832BD225": {
-    "name": "Tatsujin (Japan) (Beta)"
+    "name": "Tatsujin (Japan) (Beta)",
+    "ref": "DDA768075FBF8C0624E2C1F217B1092513B1C942"
   },
   "F0DE077362365D8216EEBA0F89CEC9CAE4CDC132": {
     "name": "Tatsunoko Fighter (Japan)",
@@ -1634,7 +1667,8 @@
     "logo": "QmeqHyEm7eczGDZWYQ7YkBqt7NvoAd2DGfxU4rcuS44HrX"
   },
   "A4B8766DB8ACC6E8F76772B278609F80E55AF67F": {
-    "name": "TV Sports Basketball (Japan)"
+    "name": "TV Sports Basketball (Japan)",
+    "ref": "6C0FDEAFA9DC1C4B7F935866E5BC620DD3151F3C"
   },
   "B73F44AD60E0F4B13C6B80F5509CB51245CC8106": {
     "name": "TV Sports Football (USA)",
@@ -1642,7 +1676,8 @@
     "logo": "QmSUyj4QXiEvR1CsYZPsANvG1CLqHW98aFpBpFMvn9c9ok"
   },
   "2BA8E2DA6E2AA26722CDC5F1646163444B2BB98F": {
-    "name": "TV Sports Football (Japan)"
+    "name": "TV Sports Football (Japan)",
+    "ref": "B73F44AD60E0F4B13C6B80F5509CB51245CC8106"
   },
   "F5CDE3AF4FAC59E402A9C96C4ADBBC9E55CE5936": {
     "name": "TV Sports Hockey (USA)",
@@ -1650,7 +1685,8 @@
     "logo": "QmW5byiJpoHeP2xvNMZUhZ6vEJ6CgUiBhciVMJ7AAkx5WK"
   },
   "7EF8BC6E42C4BF023802A659C7856670DAE02449": {
-    "name": "TV Sports Hockey (Japan)"
+    "name": "TV Sports Hockey (Japan)",
+    "ref": "F5CDE3AF4FAC59E402A9C96C4ADBBC9E55CE5936"
   },
   "62F3E0C56D22C015BEA15FE04CD16FAE380FEFCD": {
     "name": "USA Pro Basketball (Japan)"
@@ -1666,7 +1702,8 @@
     "logo": "QmVgWQn6EQU6r14LbDYBj6zHzPwvWxUAeqjp2vjTu3Wh9o"
   },
   "DA66C085ECBB317CB160CB192142A3D2C044F26F": {
-    "name": "Veigues - Tactical Gladiator (Japan)"
+    "name": "Veigues - Tactical Gladiator (Japan)",
+    "ref": "88A858FEEBA77031E7D2FB85E563AAFCBD9B0B39"
   },
   "BAB16031A16490415CEDD5BA47CBE4CADC3D8727": {
     "name": "Victory Run (USA)",
@@ -1677,7 +1714,8 @@
     "name": "Victory Run - Eikou no 13,000km (Japan)"
   },
   "A43DDB6B9D70C7597788ABD363B5DF719B70BC46": {
-    "name": "Vigilante (Japan)"
+    "name": "Vigilante (Japan)",
+    "ref": "F77D83AF4F1E733FAF813B5E78ECC2CBB19D3B25"
   },
   "F77D83AF4F1E733FAF813B5E78ECC2CBB19D3B25": {
     "name": "Vigilante (USA)",
@@ -1720,7 +1758,8 @@
     "name": "World Circuit (Japan)"
   },
   "F4396A9BCAAF94A02B6C77D0B45FB3EA55AFDD84": {
-    "name": "World Class Baseball (USA, Europe) (Virtual Console)"
+    "name": "World Class Baseball (USA, Europe) (Virtual Console)",
+    "ref": "FAB372A908533FD444B6C829F881F2DE103D93B6"
   },
   "FAB372A908533FD444B6C829F881F2DE103D93B6": {
     "name": "World Class Baseball (USA)",
@@ -1761,7 +1800,8 @@
     "logo": "QmQtnQApZTJk1Y1ggctXvaJcEr9Vv7innusr9GeNGEDkyD"
   },
   "79D9878E285E426B9CA58E15249A1BC98186D4E9": {
-    "name": "Zero4 Champ (Japan)"
+    "name": "Zero4 Champ (Japan)",
+    "ref": "2B664760931CC6011D31CAE310410DAB7CBA2067"
   },
   "2B664760931CC6011D31CAE310410DAB7CBA2067": {
     "name": "Zero4 Champ (Japan) (Alt 1)",
@@ -1900,7 +1940,8 @@
     "name": "Valis IV (Japan)"
   },
   "Sherlock Holmes - Consulting Detective (Japan)": {
-    "name": "Sherlock Holmes - Consulting Detective (Japan)"
+    "name": "Sherlock Holmes - Consulting Detective (Japan)",
+    "ref": "Sherlock Holmes - Consulting Detective (USA)"
   },
   "Sherlock Holmes - Consulting Detective Vol. II (Japan)": {
     "name": "Sherlock Holmes - Consulting Detective Vol. II (Japan)"
@@ -1924,13 +1965,15 @@
     "name": "Bakushou Yoshimoto Shinkigeki (Japan) (FABT)"
   },
   "SimEarth - The Living Planet (Japan)": {
-    "name": "SimEarth - The Living Planet (Japan)"
+    "name": "SimEarth - The Living Planet (Japan)",
+    "ref": "SimEarth - The Living Planet (USA)"
   },
   "Dragon Slayer - The Legend of Heroes II (Japan)": {
     "name": "Dragon Slayer - The Legend of Heroes II (Japan)"
   },
   "Dragon Slayer - The Legend of Heroes (Japan)": {
-    "name": "Dragon Slayer - The Legend of Heroes (Japan)"
+    "name": "Dragon Slayer - The Legend of Heroes (Japan)",
+    "ref": "Dragon Slayer - The Legend of Heroes (USA)"
   },
   "Atlas, The - Renaissance Voyager (Japan)": {
     "name": "Atlas, The - Renaissance Voyager (Japan)"
@@ -1954,7 +1997,8 @@
     "name": "Mahjong Vanilla Syndrome (Japan) (Alt)"
   },
   "Prince of Persia (Japan)": {
-    "name": "Prince of Persia (Japan)"
+    "name": "Prince of Persia (Japan)",
+    "ref": "Prince of Persia (USA)"
   },
   "Forgotten Worlds (Japan)": {
     "name": "Forgotten Worlds (Japan)",
@@ -2091,7 +2135,8 @@
     "name": "Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen (Japan)"
   },
   "Valis II (Japan)": {
-    "name": "Valis II (Japan)"
+    "name": "Valis II (Japan)",
+    "ref": "Valis II (USA)"
   },
   "Sugoroku, The '92 - Nari Tore - Nariagari Trendy (Japan)": {
     "name": "Sugoroku, The '92 - Nari Tore - Nariagari Trendy (Japan)"
@@ -2100,7 +2145,8 @@
     "name": "Exile - Toki no Hasama e (Japan)"
   },
   "Fighting Street (Japan) (Rev 5)": {
-    "name": "Fighting Street (Japan) (Rev 5)"
+    "name": "Fighting Street (Japan) (Rev 5)",
+    "ref": "Fighting Street (USA)"
   },
   "Black Hole Assault (Japan)": {
     "name": "Black Hole Assault (Japan)"
@@ -2175,7 +2221,8 @@
     "logo": "QmVSWA5igjAdhZpQQzEXk3BPtzUxxPkacVaB879Cij1meL"
   },
   "Dungeon Explorer II (Japan)": {
-    "name": "Dungeon Explorer II (Japan)"
+    "name": "Dungeon Explorer II (Japan)",
+    "ref": "Dungeon Explorer II (USA)"
   },
   "World Heroes 2 (Japan)": {
     "name": "World Heroes 2 (Japan)"
@@ -2222,7 +2269,8 @@
     "name": "Doukyuusei (Japan) (Rev 3)"
   },
   "Vasteel (Japan)": {
-    "name": "Vasteel (Japan)"
+    "name": "Vasteel (Japan)",
+    "ref": "Vasteel (USA)"
   },
   "Emerald Dragon (Japan) (Rev 1)": {
     "name": "Emerald Dragon (Japan) (Rev 1)"
@@ -2269,7 +2317,8 @@
     "logo": "QmSSDf9RxizcMJo2tHfE6AiK1Q7Wryubgzo9T4BCmWJRtS"
   },
   "Super Darius (Japan) (Alt)": {
-    "name": "Super Darius (Japan) (Alt)"
+    "name": "Super Darius (Japan) (Alt)",
+    "ref": "Super Darius (Japan)"
   },
   "Mitsubachi Gakuen (Japan)": {
     "name": "Mitsubachi Gakuen (Japan)"
@@ -2317,7 +2366,8 @@
     "name": "Rising Sun (Japan)"
   },
   "Dungeon Master - Theron's Quest (Japan)": {
-    "name": "Dungeon Master - Theron's Quest (Japan)"
+    "name": "Dungeon Master - Theron's Quest (Japan)",
+    "ref": "Dungeon Master - Theron's Quest (USA)"
   },
   "Quiz Tonosama no Yabou (Japan)": {
     "name": "Quiz Tonosama no Yabou (Japan)"
@@ -2395,10 +2445,12 @@
     "name": "Mahjong Vanilla Syndrome (Japan)"
   },
   "Juuouki (Japan) (Rev 4)": {
-    "name": "Juuouki (Japan) (Rev 4)"
+    "name": "Juuouki (Japan) (Rev 4)",
+    "ref": "8B274906E2488FA3A6BE467C5BD8A2AC150D5801"
   },
   "Juuouki (Japan) (Rev 5)": {
-    "name": "Juuouki (Japan) (Rev 5)"
+    "name": "Juuouki (Japan) (Rev 5)",
+    "ref": "8B274906E2488FA3A6BE467C5BD8A2AC150D5801"
   },
   "Doukyuusei (Japan) (Rev 3) (Alt 2)": {
     "name": "Doukyuusei (Japan) (Rev 3) (Alt 2)"
@@ -2455,10 +2507,12 @@
     "name": "Wizardry III, IV (Japan)"
   },
   "Valis III (Japan)": {
-    "name": "Valis III (Japan)"
+    "name": "Valis III (Japan)",
+    "ref": "Valis III (USA)"
   },
   "Valis III (Japan) (Alt)": {
-    "name": "Valis III (Japan) (Alt)"
+    "name": "Valis III (Japan) (Alt)",
+    "ref": "Valis III (USA)"
   },
   "CD Battle - Hikari no Yuusha-tachi (Japan)": {
     "name": "CD Battle - Hikari no Yuusha-tachi (Japan)"
@@ -2511,7 +2565,8 @@
     "name": "Megami Paradise (Japan)"
   },
   "Valis II (Japan) (Alt 2)": {
-    "name": "Valis II (Japan) (Alt 2)"
+    "name": "Valis II (Japan) (Alt 2)",
+    "ref": "Valis II (USA)"
   },
   "Minesweeper (Japan)": {
     "name": "Minesweeper (Japan)"
@@ -2533,7 +2588,8 @@
     "logo": "QmNiUi8aY5r1eMRZMg23hRCgAY5hT53ftUsk1GeXv3tG9W"
   },
   "Fantastic Night Dreams - Cotton (Japan) (En,Ja)": {
-    "name": "Fantastic Night Dreams - Cotton (Japan) (En,Ja)"
+    "name": "Fantastic Night Dreams - Cotton (Japan) (En,Ja)",
+    "ref": "Fantastic Night Dreams - Cotton (USA)"
   },
   "Patlabor - Chapter of Griffon (Japan)": {
     "name": "Patlabor - Chapter of Griffon (Japan)"
@@ -2620,13 +2676,15 @@
     "name": "Uchuu Senkan Yamato (Japan)"
   },
   "Might and Magic III - Isles of Terra (Japan)": {
-    "name": "Might and Magic III - Isles of Terra (Japan)"
+    "name": "Might and Magic III - Isles of Terra (Japan)",
+    "ref": "Might and Magic III - Isles of Terra (USA)"
   },
   "Mirai Shounen Conan (Japan)": {
     "name": "Mirai Shounen Conan (Japan)"
   },
   "Final Zone II (Japan)": {
-    "name": "Final Zone II (Japan)"
+    "name": "Final Zone II (Japan)",
+    "ref": "Final Zone II (USA)"
   },
   "Pachio-kun 3 - Pachi-Slot & Pachinko (Japan)": {
     "name": "Pachio-kun 3 - Pachi-Slot & Pachinko (Japan)"
@@ -2686,7 +2744,8 @@
     "name": "Horror Story (Japan)"
   },
   "Loom (Japan)": {
-    "name": "Loom (Japan)"
+    "name": "Loom (Japan)",
+    "ref": "Loom (USA)"
   },
   "Zan - Kagerou no Toki (Japan)": {
     "name": "Zan - Kagerou no Toki (Japan)"
@@ -2958,7 +3017,8 @@
     "name": "Sol Moonarge (Japan)"
   },
   "Valis II (Japan) (Alt 1)": {
-    "name": "Valis II (Japan) (Alt 1)"
+    "name": "Valis II (Japan) (Alt 1)",
+    "ref": "Valis II (USA)"
   },
   "Faussete Amour (Japan)": {
     "name": "Faussete Amour (Japan)"
@@ -3000,7 +3060,8 @@
     "name": "Ys I & II (Japan) (Alt)"
   },
   "Bomberman '94 (Japan) (Demo)": {
-    "name": "Bomberman '94 (Japan) (Demo)"
+    "name": "Bomberman '94 (Japan) (Demo)",
+    "ref": "9085B474199531259B4EBBC05A279AE96CB7C5BD"
   },
   "Ruin - Kami no Isan (Japan)": {
     "name": "Ruin - Kami no Isan (Japan)"
@@ -3068,13 +3129,15 @@
     "name": "Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FAAT)"
   },
   "Fighting Street (Japan) (Rev 4)": {
-    "name": "Fighting Street (Japan) (Rev 4)"
+    "name": "Fighting Street (Japan) (Rev 4)",
+    "ref": "Fighting Street (USA)"
   },
   "Chiki Chiki Boys (Japan)": {
     "name": "Chiki Chiki Boys (Japan)"
   },
   "Wonder Boy III - Monster Lair (Japan) (Rev 4)": {
-    "name": "Wonder Boy III - Monster Lair (Japan) (Rev 4)"
+    "name": "Wonder Boy III - Monster Lair (Japan) (Rev 4)",
+    "ref": "Wonder Boy III - Monster Lair (Japan) (Rev 3)"
   },
   "Ryuuko no Ken (Japan) (En,Ja,Es) (Demo)": {
     "name": "Ryuuko no Ken (Japan) (En,Ja,Es) (Demo)"
@@ -3184,7 +3247,8 @@
     "name": "Ginga Fukei Densetsu Sapphire (Japan)"
   },
   "Doraemon - Nobita no Dorabian Night (Japan)": {
-    "name": "Doraemon - Nobita no Dorabian Night (Japan)"
+    "name": "Doraemon - Nobita no Dorabian Night (Japan)",
+    "ref": "FEEA7CB74D4E256EB75AB46FCFC40C21743D5487"
   },
   "Develo - Starter Kit - Assembler-hen (Japan)": {
     "name": "Develo - Starter Kit - Assembler-hen (Japan)"
@@ -3206,7 +3270,8 @@
     "logo": "QmV2GVeUszD8T8TXde91ST8tGdnH7pkp7wiWUfBZhmaF7f"
   },
   "Forgotten Worlds (USA) (En,Ja)": {
-    "name": "Forgotten Worlds (USA) (En,Ja)"
+    "name": "Forgotten Worlds (USA) (En,Ja)",
+    "ref": "Forgotten Worlds (Japan)"
   },
   "Godzilla (USA)": {
     "name": "Godzilla (USA)",

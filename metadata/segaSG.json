@@ -3,7 +3,8 @@
     "name": "[BIOS] Othello Multivision (Japan)"
   },
   "F0B594FA0D371B31BC517AFEC8E28D4917193F0E": {
-    "name": "007 James Bond (Taiwan) (Othello Multivision)"
+    "name": "007 James Bond (Taiwan) (Othello Multivision)",
+    "ref": "88D8C1F56F06EC76BE285C29F41322A748F7C4DB"
   },
   "88D8C1F56F06EC76BE285C29F41322A748F7C4DB": {
     "name": "007 James Bond (Japan) (Othello Multivision)",
@@ -11,10 +12,12 @@
     "logo": "QmNUwDb7EaN1McCdyfn1zs8zkM3etXmoS8LmwXAnmU6ZaC"
   },
   "C4C947A00155412C4E8B492E19AC229CC61FB401": {
-    "name": "007 James Bond (Japan) (Alt 1) (Othello Multivision)"
+    "name": "007 James Bond (Japan) (Alt 1) (Othello Multivision)",
+    "ref": "88D8C1F56F06EC76BE285C29F41322A748F7C4DB"
   },
   "18F7AB9FE95AEACCEAB36297CDF9374DC7E3233F": {
-    "name": "Bank Panic (Taiwan)"
+    "name": "Bank Panic (Taiwan)",
+    "ref": "8E1DC4D79C5BC45FC6112969EA9A2C68B3C86666"
   },
   "8E1DC4D79C5BC45FC6112969EA9A2C68B3C86666": {
     "name": "Bank Panic (Japan)",
@@ -41,16 +44,20 @@
     "logo": "QmeeD6Jiz1d4oAGoPSEwxoc9E5C57BPAT2GfdzBWykWza8"
   },
   "8D7B786283E5B42E34432ECF1B3744EAE00575DE": {
-    "name": "Bomb Jack (Taiwan) (English Logo)"
+    "name": "Bomb Jack (Taiwan) (English Logo)",
+    "ref": "7859B9EE5614C595CB57A832EF7A8F1AB473B45B"
   },
   "AC94DDC1839DCD2ADE443DA0E8667E643B11F3E7": {
-    "name": "Bomb Jack (Taiwan) (Chinese Logo)"
+    "name": "Bomb Jack (Taiwan) (Chinese Logo)",
+    "ref": "7859B9EE5614C595CB57A832EF7A8F1AB473B45B"
   },
   "835D0EA1C0CF1723AE95BA60EA0A929780EBAF71": {
-    "name": "Bomb Jack (Korea) (English Logo) (Unl)"
+    "name": "Bomb Jack (Korea) (English Logo) (Unl)",
+    "ref": "7859B9EE5614C595CB57A832EF7A8F1AB473B45B"
   },
   "B6B36A0280344214BDB8D9184244E21E9FB7371F": {
-    "name": "Bomb Jack (Korea) (Korean Logo) (Unl)"
+    "name": "Bomb Jack (Korea) (Korean Logo) (Unl)",
+    "ref": "7859B9EE5614C595CB57A832EF7A8F1AB473B45B"
   },
   "D1D56BCD996DF94458F5901DC537A5E30021256B": {
     "name": "Bomberman Special (Taiwan) (English Logo) (Unl)"
@@ -64,7 +71,8 @@
     "logo": "QmfL7et2VokvkjbLEkZdnGVM7wZremcU93L372rjcS2yYz"
   },
   "7101C42289815D7E0D04B523F8F0E833F2F089B3": {
-    "name": "C_So! (Taiwan)"
+    "name": "C_So! (Taiwan)",
+    "ref": "D45A230B3CBF2D2DCFE7B94691FC7F1A5D747625"
   },
   "D45A230B3CBF2D2DCFE7B94691FC7F1A5D747625": {
     "name": "C_So! (Japan)",
@@ -75,7 +83,8 @@
     "name": "Cabbage Patch Kids (Taiwan)"
   },
   "5A81D5103487695CABD811AABD9E71F48B9E7996": {
-    "name": "Castle, The (Taiwan) (Unl) (Pirate)"
+    "name": "Castle, The (Taiwan) (Unl) (Pirate)",
+    "ref": "2681786BFFCCF58B59410C331865D30A4D027087"
   },
   "2681786BFFCCF58B59410C331865D30A4D027087": {
     "name": "Castle, The (Japan)",
@@ -88,7 +97,8 @@
     "logo": "QmU9YizD6QJUcZW91QjsrEznSTmKp8otQQZDnrg6uVzLcU"
   },
   "75855A3148A57B102C15A436E7E4FFD1AB4808C3": {
-    "name": "Chack'n Pop (Taiwan)"
+    "name": "Chack'n Pop (Taiwan)",
+    "ref": "08B5C1135F9678465ECE6A886C948CE091637372"
   },
   "8A5E6C9B10C9A99C1EAAEE48374D1FEDE5966340": {
     "name": "Challenge Derby (Japan) (Othello Multivision)",
@@ -96,10 +106,12 @@
     "logo": "QmdaJ21e8Wo621hLjpE96cYjt3ZU2x6L5NEeX4ZR55vrXH"
   },
   "47239898CC2AD5C4AEAE1815DC54DE6F87A8AA35": {
-    "name": "Challenge Derby (Japan) (Rev 1) (Othello Multivision)"
+    "name": "Challenge Derby (Japan) (Rev 1) (Othello Multivision)",
+    "ref": "8A5E6C9B10C9A99C1EAAEE48374D1FEDE5966340"
   },
   "6C0FFD66695E8BD4BC503C40EE49834C3F95082B": {
-    "name": "Challenge Derby (Japan) (Rev 1) (Alt 1) (Othello Multivision)"
+    "name": "Challenge Derby (Japan) (Rev 1) (Alt 1) (Othello Multivision)",
+    "ref": "8A5E6C9B10C9A99C1EAAEE48374D1FEDE5966340"
   },
   "85E5C2F354B9110E5F7C7DFCC7AB9814598B7956": {
     "name": "Champion Baseball (Japan, Australia, New Zealand)",
@@ -107,13 +119,16 @@
     "logo": "QmegL4nAEXqm38zX3nvMHiQGWVSrfUzhYQPuBL4sKy1pEQ"
   },
   "B674EA2EA50F45B20C60D9DEC5BF2E88E2B1CBA5": {
-    "name": "Champion Baseball (Taiwan)"
+    "name": "Champion Baseball (Taiwan)",
+    "ref": "85E5C2F354B9110E5F7C7DFCC7AB9814598B7956"
   },
   "737B9478C4CE6DF2AFCD36F78011019F5D669226": {
-    "name": "Champion Baseball (Japan)"
+    "name": "Champion Baseball (Japan)",
+    "ref": "85E5C2F354B9110E5F7C7DFCC7AB9814598B7956"
   },
   "37DC5E7B3EBC3A3B0480B16D27BC394D57AAC697": {
-    "name": "Champion Billiards (Taiwan)"
+    "name": "Champion Billiards (Taiwan)",
+    "ref": "F517E6A6123643A5E7E5FFF6B413139AFA412D8E"
   },
   "F517E6A6123643A5E7E5FFF6B413139AFA412D8E": {
     "name": "Champion Billiards (Japan)",
@@ -121,7 +136,8 @@
     "logo": "QmXqDj69uCCTA7WM7BUhBVSeCDikqs2qT16zNzuNNtxesE"
   },
   "E55396BE42C6CFBF47FF43D3E8FAEE1DC8FAD807": {
-    "name": "Champion Boxing (Taiwan)"
+    "name": "Champion Boxing (Taiwan)",
+    "ref": "8CD55EE1EFCAB917087B80629CA18B4629EDC15D"
   },
   "8CD55EE1EFCAB917087B80629CA18B4629EDC15D": {
     "name": "Champion Boxing (Japan, New Zealand)",
@@ -129,7 +145,8 @@
     "logo": "QmR1Z83WMnAAYw18BLFLkXeAzkngesV4QErqQsmx4eyh3n"
   },
   "7A7ACE132090F11BAC4F4AEC58BCBF6A2A1C6168": {
-    "name": "Champion Boxing (Japan) (Rev 1)"
+    "name": "Champion Boxing (Japan) (Rev 1)",
+    "ref": "8CD55EE1EFCAB917087B80629CA18B4629EDC15D"
   },
   "05DEB000F24B7D8625C6E9332DCC91416ED3258F": {
     "name": "Champion Golf (Japan, Europe, Australia, New Zealand)",
@@ -137,13 +154,16 @@
     "logo": "QmUuZtFv7tUUuXwSFwDAHdh2STvH2U8DneEW5dtou1wCeh"
   },
   "F58F14581919C431AC85DA72FD1A39BBE1DA5E66": {
-    "name": "Champion Golf (Japan) (Rev 1)"
+    "name": "Champion Golf (Japan) (Rev 1)",
+    "ref": "05DEB000F24B7D8625C6E9332DCC91416ED3258F"
   },
   "40AC48EF0BA23653D1763CD04774B00ABC49F9A4": {
-    "name": "Champion Golf (Korea) (Unl)"
+    "name": "Champion Golf (Korea) (Unl)",
+    "ref": "05DEB000F24B7D8625C6E9332DCC91416ED3258F"
   },
   "A316058604EB47B547986FEC8EF18C6017694746": {
-    "name": "Champion Ice Hockey (Taiwan)"
+    "name": "Champion Ice Hockey (Taiwan)",
+    "ref": "FF6440FC7E5C5FAA0B9868D5CB5110D1D8635284"
   },
   "FF6440FC7E5C5FAA0B9868D5CB5110D1D8635284": {
     "name": "Champion Ice Hockey (Japan)",
@@ -151,10 +171,12 @@
     "logo": "Qmc9VpBxkuBfvgAzyLCmTC4tbkxm1Z86d7vy4X7FzRsbPW"
   },
   "3EFBEF93040FFFBECB8E1D00B8470AC92F002C9B": {
-    "name": "Champion Ice Hockey (Korea) (Unl)"
+    "name": "Champion Ice Hockey (Korea) (Unl)",
+    "ref": "FF6440FC7E5C5FAA0B9868D5CB5110D1D8635284"
   },
   "621CF09649E9244714FA01652B066CD1A477279E": {
-    "name": "Champion Kendou (Taiwan)"
+    "name": "Champion Kendou (Taiwan)",
+    "ref": "8565FC398D0206100DA785D10E008F7F6A3C225E"
   },
   "8565FC398D0206100DA785D10E008F7F6A3C225E": {
     "name": "Champion Kendou (Japan)",
@@ -172,7 +194,8 @@
     "logo": "QmcAozn2q4VcWJdWdxqQyU2wj6KXyvNHeHftDQ8GWZjRgE"
   },
   "AD2A72DFF1959E3E148C48962AB382897BC06627": {
-    "name": "Champion Soccer (Taiwan)"
+    "name": "Champion Soccer (Taiwan)",
+    "ref": "0B3CF82F020AC9249EA52766FFBAD41515D0B8B4"
   },
   "8B90300DCABC2CF8D58EE4800DCE3084B739886B": {
     "name": "Champion Tennis (Japan, Europe, Australia, New Zealand)",
@@ -180,7 +203,8 @@
     "logo": "QmRfkEUVSRdMJVsW1NR54qhB9NvCLivc5SxANLRYk6sPDR"
   },
   "321E2C97645DD9AF3E52C66B5DB06304250D1BF2": {
-    "name": "Championship Lode Runner (Taiwan)"
+    "name": "Championship Lode Runner (Taiwan)",
+    "ref": "A0DAD095489DA2BDF8EC03F1ACC83F809DB2371F"
   },
   "A0DAD095489DA2BDF8EC03F1ACC83F809DB2371F": {
     "name": "Championship Lode Runner (Japan, Australia)",
@@ -188,19 +212,24 @@
     "logo": "QmW6HWCoE3VLRtjAp19rA7Xk8Wqomis7WwaFSHgXmsPEvh"
   },
   "DA92459E64ED6CC0CE93B03A60FAD049E13A505F": {
-    "name": "Choplifter (Japan, Australia) (Beta)"
+    "name": "Choplifter (Japan, Australia) (Beta)",
+    "ref": "E0828517FDC9A5537FDA39DBC49942494EB3196D"
   },
   "EF746A242FFD4D624EA378B6D9F20A6BC206F859": {
-    "name": "Choplifter (Korea) (Unl)"
+    "name": "Choplifter (Korea) (Unl)",
+    "ref": "E0828517FDC9A5537FDA39DBC49942494EB3196D"
   },
   "DAF36C050B0E507D2F2470050299A648716C9158": {
-    "name": "Choplifter (Taiwan) (No Logo)"
+    "name": "Choplifter (Taiwan) (No Logo)",
+    "ref": "E0828517FDC9A5537FDA39DBC49942494EB3196D"
   },
   "AF6C40FEBE02FE2B424EA99E666CF3F451EB5A1F": {
-    "name": "Choplifter (Taiwan) (Chinese Logo)"
+    "name": "Choplifter (Taiwan) (Chinese Logo)",
+    "ref": "E0828517FDC9A5537FDA39DBC49942494EB3196D"
   },
   "61D1AFE62B2BE0DA26D8A185828387063DD4B06E": {
-    "name": "Choplifter (Taiwan) (English Logo)"
+    "name": "Choplifter (Taiwan) (English Logo)",
+    "ref": "E0828517FDC9A5537FDA39DBC49942494EB3196D"
   },
   "E0828517FDC9A5537FDA39DBC49942494EB3196D": {
     "name": "Choplifter (Japan, Australia)",
@@ -244,10 +273,12 @@
     "name": "Complete Arcade Pack Collection, The (New Zealand) (SF-7000)"
   },
   "9E153C7822A36230E85E9AC0DDC53D6FEE810089": {
-    "name": "Congo Bongo (Japan)"
+    "name": "Congo Bongo (Japan)",
+    "ref": "4EA22B9A655C4CFE13500BEB97E84DA451752148"
   },
   "47ABA6A295E5695DB4C3AAA1DEA8AD8AC961B5F9": {
-    "name": "Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1)"
+    "name": "Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1)",
+    "ref": "4EA22B9A655C4CFE13500BEB97E84DA451752148"
   },
   "4EA22B9A655C4CFE13500BEB97E84DA451752148": {
     "name": "Congo Bongo (Japan) (Rev 1) (Alt 1)",
@@ -255,7 +286,8 @@
     "logo": "QmRLbmNnuBQMjiLHnZ8RdsUhZEZyTivNMzdwBU1yLdc7GZ"
   },
   "3FE3272374135E8B5E849BDCD12812A90BB9901C": {
-    "name": "Congo Bongo (Taiwan) (Rev 1)"
+    "name": "Congo Bongo (Taiwan) (Rev 1)",
+    "ref": "4EA22B9A655C4CFE13500BEB97E84DA451752148"
   },
   "037C3D09B3D9E898A79514C3885BF6E42D28DD4E": {
     "name": "Disk BASIC (Japan) (Rev 1) (SF-7000) (Program)"
@@ -272,13 +304,16 @@
     "logo": "QmQpPidCtzgwFhpfdFL4yHSw3RiE6GcaRvev69m9bnRRmA"
   },
   "176E2D2648B20E6FAC823021697138803EF38B27": {
-    "name": "Doki Doki Penguin Land (Taiwan)"
+    "name": "Doki Doki Penguin Land (Taiwan)",
+    "ref": "F49C43B1F9A0B19EF5F30D9BF2B222AF7AEB9FBF"
   },
   "78F26D0A1D4F08A6378700B81AB38FC7C0F6BDC0": {
-    "name": "Dragon Wang (Japan)"
+    "name": "Dragon Wang (Japan)",
+    "ref": "43807C9F634B8CF85AA5C3B2459885EEDBB99955"
   },
   "B2A3C886677BA3926CB56A1A781E7926852499C7": {
-    "name": "Dragon Wang (Taiwan) (English Logo)"
+    "name": "Dragon Wang (Taiwan) (English Logo)",
+    "ref": "43807C9F634B8CF85AA5C3B2459885EEDBB99955"
   },
   "43807C9F634B8CF85AA5C3B2459885EEDBB99955": {
     "name": "Dragon Wang (Japan) (Rev 1)",
@@ -286,10 +321,12 @@
     "logo": "QmRZqLgPR4EAXD9477tUbv66piJESQcxLc3HkhT2b6NKgT"
   },
   "57ADE81EAA044D69621741D8C5F5C5E8650F6C2B": {
-    "name": "Dragon Wang (Taiwan) (Chinese Logo)"
+    "name": "Dragon Wang (Taiwan) (Chinese Logo)",
+    "ref": "43807C9F634B8CF85AA5C3B2459885EEDBB99955"
   },
   "8BB117DF0A86508CF3FC139BD070C0AA8C6487DD": {
-    "name": "Drol (Taiwan)"
+    "name": "Drol (Taiwan)",
+    "ref": "607B2B9A946EAAEBB938800BD3B1DF7D9342388C"
   },
   "607B2B9A946EAAEBB938800BD3B1DF7D9342388C": {
     "name": "Drol (Japan, Australia)",
@@ -297,7 +334,8 @@
     "logo": "QmevdP8TDGZPS84sfTa46YsXEU93RwV8tZFzpfKzwW3UZz"
   },
   "37BAF9AAC77436B4939C80D6A575E23A7D5CD76D": {
-    "name": "Drol (Korea) (Unl)"
+    "name": "Drol (Korea) (Unl)",
+    "ref": "607B2B9A946EAAEBB938800BD3B1DF7D9342388C"
   },
   "EDB9C6EB389DF4165E81658A21C0A8B18A0457D4": {
     "name": "Electronic Salesman (Japan) (Proto) (SC-3000) (Program)"
@@ -308,7 +346,8 @@
     "logo": "QmNs4HKko8DotEaddBLZT7kXGe7fbHFwRBn8cPsyxTUQiP"
   },
   "0C419FDD769371F97C66030C51B21C786B89A105": {
-    "name": "Elevator Action (Taiwan)"
+    "name": "Elevator Action (Taiwan)",
+    "ref": "F72B3E44309E7C2E447C46928CE795453102F717"
   },
   "839E19487B96D02222FF397B047CBC6A0FBC08FF": {
     "name": "Exerion (Japan, Europe, Australia, New Zealand)",
@@ -316,10 +355,12 @@
     "logo": "QmVYBTeobZdj29N7tzieZNrkDoqZh4kQF7fL5kdZyyQddg"
   },
   "75555C1A05A14401E4136BFFB9FB52F88A17ECFC": {
-    "name": "Exerion (Taiwan)"
+    "name": "Exerion (Taiwan)",
+    "ref": "839E19487B96D02222FF397B047CBC6A0FBC08FF"
   },
   "3F569C9D95BC83896BC44DBA7C469356961D659C": {
-    "name": "Exerion (Korea) (Unl)"
+    "name": "Exerion (Korea) (Unl)",
+    "ref": "839E19487B96D02222FF397B047CBC6A0FBC08FF"
   },
   "51947FC0AE2BC3442B0FEE2CCCF2344B7A94A167": {
     "name": "Flicky (Japan) (Rev 1)",
@@ -327,13 +368,16 @@
     "logo": "QmfEC2Rs8vW8hwF7QipxrwTmizkvuJyHdUoCHWoJZf9vgs"
   },
   "A04CE8C70EDDFAC0ADBF9489C0ABBAAAE613037C": {
-    "name": "Flicky (Taiwan) (Rev 1)"
+    "name": "Flicky (Taiwan) (Rev 1)",
+    "ref": "51947FC0AE2BC3442B0FEE2CCCF2344B7A94A167"
   },
   "39A91B5AD6B139CA5D8AC60B78520210E84944BD": {
-    "name": "Flicky (Japan, New Zealand)"
+    "name": "Flicky (Japan, New Zealand)",
+    "ref": "51947FC0AE2BC3442B0FEE2CCCF2344B7A94A167"
   },
   "94089BE091AF476C5628225E0262396FAA5394F1": {
-    "name": "Girl's Garden (Taiwan)"
+    "name": "Girl's Garden (Taiwan)",
+    "ref": "0E08786587FB76909B3F9806BA1F5D57EA17728C"
   },
   "0E08786587FB76909B3F9806BA1F5D57EA17728C": {
     "name": "Girl's Garden (Japan, Australia)",
@@ -351,10 +395,12 @@
     "logo": "Qmd22TmX73RvksJd3y8CkAF8kKWQ9RAFqBcqQ6sDcZsesb"
   },
   "40AE9C24C61188C6F02EBA1B83109C5C4D86E64B": {
-    "name": "GP World (Japan)"
+    "name": "GP World (Japan)",
+    "ref": "37AA4812D37445C9E86BC4E02F056FB50D19DC6A"
   },
   "11773E7EB2DCA727EA293B5AA50ED8094DF29F41": {
-    "name": "GP World (Taiwan)"
+    "name": "GP World (Taiwan)",
+    "ref": "37AA4812D37445C9E86BC4E02F056FB50D19DC6A"
   },
   "3FB197D16B25BC128A2866C4B78B0535AB8DC412": {
     "name": "Gulkave (Japan)",
@@ -362,10 +408,12 @@
     "logo": "QmVzJChURKC3mpJQfGDaBv978CzFaCNtinGsG8nDjyVpLp"
   },
   "DEABFE970BB450E51909C181430E7DE2BD1B1A9E": {
-    "name": "Gulkave (Korea) (Unl)"
+    "name": "Gulkave (Korea) (Unl)",
+    "ref": "3FB197D16B25BC128A2866C4B78B0535AB8DC412"
   },
   "5C51F9846FB8220AB7DD6DB5D6911CF4E985BFE9": {
-    "name": "Guzzler (Taiwan) (Othello Multivision)"
+    "name": "Guzzler (Taiwan) (Othello Multivision)",
+    "ref": "D42B2C5F1DA4E0FBD29FCEA91BFC092AE46DA4B8"
   },
   "D42B2C5F1DA4E0FBD29FCEA91BFC092AE46DA4B8": {
     "name": "Guzzler (Japan) (Othello Multivision)",
@@ -373,7 +421,8 @@
     "logo": "QmZmoe5jndG1pCdxtfV8QBixhhEdnyH1zi4Ugckm5JhL2f"
   },
   "3B2D3DFE948A734C3D18B504C89C61B7B1F3D81B": {
-    "name": "H.E.R.O. (Taiwan) (Chinese Logo)"
+    "name": "H.E.R.O. (Taiwan) (Chinese Logo)",
+    "ref": "19ACB69B7B64DA5083349D8BC40A47BEACC88C41"
   },
   "19ACB69B7B64DA5083349D8BC40A47BEACC88C41": {
     "name": "H.E.R.O. (Japan)",
@@ -381,10 +430,12 @@
     "logo": "QmRZGftSjfKdJnqpSkSnaBPgh5fpXs9wLrgtUHMWXWcPCo"
   },
   "82B530FEEF7C011361E21B62D2C359C626AB8A9C": {
-    "name": "H.E.R.O. (Taiwan) (English Logo)"
+    "name": "H.E.R.O. (Taiwan) (English Logo)",
+    "ref": "19ACB69B7B64DA5083349D8BC40A47BEACC88C41"
   },
   "154669944D899FAA1DB1CEA3FECCE9EB162EB3FD": {
-    "name": "Hang-On II (Taiwan) (Chinese Logo)"
+    "name": "Hang-On II (Taiwan) (Chinese Logo)",
+    "ref": "E636E889D4E81C024EE7DAE8943C2B8D9D4A5414"
   },
   "E636E889D4E81C024EE7DAE8943C2B8D9D4A5414": {
     "name": "Hang-On II (Japan, Australia)",
@@ -392,7 +443,8 @@
     "logo": "QmRsY4BFmQzzDP4UHP6hTTRvosQjofrttjptvLSqGk52NN"
   },
   "1E25FC699BAA715710F3F6375DBCB107BFC044F5": {
-    "name": "Hang-On II (Taiwan) (English Logo)"
+    "name": "Hang-On II (Taiwan) (English Logo)",
+    "ref": "E636E889D4E81C024EE7DAE8943C2B8D9D4A5414"
   },
   "F1E1E7E9687CF4F9F498779A44134C2D70BB8D4B": {
     "name": "Home BASIC (Japan) (SC-3000) (Program)"
@@ -403,10 +455,12 @@
     "logo": "QmbETUxZy7aybrDP1ozLuMZiCnxUyH5TX6CPenf8coVYu8"
   },
   "DB98D7461E88CEF8160089C44FCD432388E3C9DF": {
-    "name": "Home Mahjong (Taiwan)"
+    "name": "Home Mahjong (Taiwan)",
+    "ref": "AC38A279F24E132ACF6AC9FD27B53D1B939D2E7E"
   },
   "0202C0D86C4B793C58AF021EDFB3C077AE3169A5": {
-    "name": "Home Mahjong (Japan)"
+    "name": "Home Mahjong (Japan)",
+    "ref": "AC38A279F24E132ACF6AC9FD27B53D1B939D2E7E"
   },
   "1F1BAD94B2D869C10A2373CA40D4076D227CC302": {
     "name": "Hustle Chumy (Japan)",
@@ -414,7 +468,8 @@
     "logo": "QmXL3uRLSLA9dtCSgjVCpnWxKgMTf8q3Rx4n1xzroio3wW"
   },
   "E7800D107EF0A7773EEA2D482B5DB9D866BA74F9": {
-    "name": "Hustle Chumy (Taiwan)"
+    "name": "Hustle Chumy (Taiwan)",
+    "ref": "1F1BAD94B2D869C10A2373CA40D4076D227CC302"
   },
   "8A13EE297F861F436B9529A5E2193CB697BAA56F": {
     "name": "Hyper Sports (Japan)",
@@ -422,10 +477,12 @@
     "logo": "QmWmVqmiRVaKsSXacvZdymC7dgNXy9vb3z1AwUsJZPJbxn"
   },
   "BF4218AEBC07AA7179CC52853A55436DB985B81E": {
-    "name": "Hyper Sports (Taiwan)"
+    "name": "Hyper Sports (Taiwan)",
+    "ref": "8A13EE297F861F436B9529A5E2193CB697BAA56F"
   },
   "43D67E8C386012D0694F09A2FE31A46D32D39F17": {
-    "name": "Hyper Sports (Korea) (Unl)"
+    "name": "Hyper Sports (Korea) (Unl)",
+    "ref": "8A13EE297F861F436B9529A5E2193CB697BAA56F"
   },
   "33072BAFC25B83577886E91A75D0B6439A80374C": {
     "name": "Hyper Sports 2 (Taiwan)"
@@ -452,7 +509,8 @@
     "name": "LinkWord (Japan) (Proto) (SC3000) (Program)"
   },
   "FB226A489E5A47EB0182A067FA1031EC944AB455": {
-    "name": "Lode Runner (Taiwan)"
+    "name": "Lode Runner (Taiwan)",
+    "ref": "F14F216EDFDA7DFD113F5CB32375A27BE8A6409D"
   },
   "F14F216EDFDA7DFD113F5CB32375A27BE8A6409D": {
     "name": "Lode Runner (Japan, Europe, Australia)",
@@ -460,7 +518,8 @@
     "logo": "QmRu5wQzmGCxyRsfEtAGDoA583xRgXJ12HaQDpn47QZbPD"
   },
   "23F22B407DF4AE8D7931051EB229EFD862BEA5F7": {
-    "name": "Lode Runner (Korea) (Unl)"
+    "name": "Lode Runner (Korea) (Unl)",
+    "ref": "F14F216EDFDA7DFD113F5CB32375A27BE8A6409D"
   },
   "FD24B501046CF811B04386129BE0362A1EABF6B3": {
     "name": "Magical Kid Wiz (Taiwan)"
@@ -469,10 +528,12 @@
     "name": "Magical Tree (Taiwan)"
   },
   "81015CEA7E5FF08BD7D20953A702D47EFDB8C11C": {
-    "name": "Mahjong (Japan) (Rev 1)"
+    "name": "Mahjong (Japan) (Rev 1)",
+    "ref": "2E6810C0C0C02C0FDDA6FCAEAE835CF94AB9BCBA"
   },
   "BD5130D36FC0AD008ABFC524BB0C37290E7D0189": {
-    "name": "Mahjong (Taiwan) (Rev 1)"
+    "name": "Mahjong (Taiwan) (Rev 1)",
+    "ref": "2E6810C0C0C02C0FDDA6FCAEAE835CF94AB9BCBA"
   },
   "2E6810C0C0C02C0FDDA6FCAEAE835CF94AB9BCBA": {
     "name": "Mahjong (Japan)",
@@ -480,10 +541,12 @@
     "logo": "QmYZinf3akZ632RFxapg8BXEareKvxKrEBPQXbHC1P39wh"
   },
   "4CA8182B8F7C798D7222295978E2556FF115B848": {
-    "name": "Monaco GP (Japan) (Rev 1)"
+    "name": "Monaco GP (Japan) (Rev 1)",
+    "ref": "694228631D09ED06C8850FD164C6D99B12FF173D"
   },
   "BEA768B27C09BEC805F0C70545D2F1435E3A3DDF": {
-    "name": "Monaco GP (Japan, Europe, Australia, New Zealand)"
+    "name": "Monaco GP (Japan, Europe, Australia, New Zealand)",
+    "ref": "694228631D09ED06C8850FD164C6D99B12FF173D"
   },
   "694228631D09ED06C8850FD164C6D99B12FF173D": {
     "name": "Monaco GP (Japan, Europe) (Rev 2)",
@@ -491,7 +554,8 @@
     "logo": "QmXDGQv486US267YErvdvPuCh9tzSahTvYtrvVN6tyxEjP"
   },
   "464EC3C9ACFEFD0AD244A43033985E88798905F9": {
-    "name": "Monaco GP (Taiwan) (Rev 1)"
+    "name": "Monaco GP (Taiwan) (Rev 1)",
+    "ref": "694228631D09ED06C8850FD164C6D99B12FF173D"
   },
   "A2137E818242E8B361D5D5677797034C55FB1A2D": {
     "name": "Music (Japan) (SC-3000) (Program)"
@@ -500,10 +564,12 @@
     "name": "Music (Europe, Australia, New Zealand) (SC-3000) (Program)"
   },
   "55A36C77CBDF87530611FECCF2F1807BDD2AC0EC": {
-    "name": "N-Sub (Taiwan)"
+    "name": "N-Sub (Taiwan)",
+    "ref": "AA3EAE849553A5A176762466B101F312B8B968E4"
   },
   "2640E267441BF25463A19273C46F3EDB5E459496": {
-    "name": "N-Sub (Japan, Europe, Australia, New Zealand, Taiwan)"
+    "name": "N-Sub (Japan, Europe, Australia, New Zealand, Taiwan)",
+    "ref": "AA3EAE849553A5A176762466B101F312B8B968E4"
   },
   "AA3EAE849553A5A176762466B101F312B8B968E4": {
     "name": "N-Sub (Japan) (Alt 1)",
@@ -519,10 +585,12 @@
     "logo": "QmcKMsZEN6jsVrHAXFYt8hLZDDEmxaTAV3L6zB2L18bDrg"
   },
   "DAC76D52C9D88F7B6BF71FC897669D7E6440D143": {
-    "name": "Ninja Princess (Taiwan)"
+    "name": "Ninja Princess (Taiwan)",
+    "ref": "F142BB823CEBC4E31488E7A9A94644AF24186D99"
   },
   "543046650E07B10DBD2DCA6F20BCAFB9DD6DDA77": {
-    "name": "Okamoto Ayako no Match Play Golf (Taiwan) (Rev 1) (Othello Multivision)"
+    "name": "Okamoto Ayako no Match Play Golf (Taiwan) (Rev 1) (Othello Multivision)",
+    "ref": "BCB03AFD3BBD5DADF00474EAC44BB66A5DF419CF"
   },
   "BCB03AFD3BBD5DADF00474EAC44BB66A5DF419CF": {
     "name": "Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision)",
@@ -530,7 +598,8 @@
     "logo": "QmWwEoSVnur1qd9Z2F82ytQq2waHy6YVyYCewLfvoPaabT"
   },
   "2FE5E6811AA340F10B67F78EE9ED566A94326BAD": {
-    "name": "Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)"
+    "name": "Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)",
+    "ref": "BCB03AFD3BBD5DADF00474EAC44BB66A5DF419CF"
   },
   "C50B133DAC95718E3A92A7ED45B6C7E83927ABB0": {
     "name": "Orguss (Japan, Europe, Australia, New Zealand, Taiwan)",
@@ -543,13 +612,16 @@
     "logo": "QmZNc7xEUaHaPFhdGMupLzQLDrGh5drLgiXCr4ManXeFgo"
   },
   "242C29989149B94FF27D59A94F067D0F1C84B4A7": {
-    "name": "Othello (Taiwan)"
+    "name": "Othello (Taiwan)",
+    "ref": "D0CD594DDB321F707DDBA8A044FA3E9B906E720A"
   },
   "0833BE2743608983012CAB6E3BDD6FD56453114E": {
-    "name": "Pacar (Taiwan)"
+    "name": "Pacar (Taiwan)",
+    "ref": "5E89857A374CBF3EFA32EFB62D26973D46A856AE"
   },
   "91FD213308B83BB1BDA1DFC7E971E576CAACE291": {
-    "name": "Pacar (Japan, Europe, Australia, New Zealand)"
+    "name": "Pacar (Japan, Europe, Australia, New Zealand)",
+    "ref": "5E89857A374CBF3EFA32EFB62D26973D46A856AE"
   },
   "5E89857A374CBF3EFA32EFB62D26973D46A856AE": {
     "name": "Pacar (Japan) (Alt 1)",
@@ -562,7 +634,8 @@
     "logo": "QmVpuD9vBb1b4ahB6tcTqVBUTxvnwm5zqTcsrvYccgL8Xe"
   },
   "CA0C66B4D48D6ADE38E7F9093EEA74AD090ECDB7": {
-    "name": "Pachinko II (Taiwan)"
+    "name": "Pachinko II (Taiwan)",
+    "ref": "1DBC4BABBBB377A1FF59A11E550A9B1B5E742B02"
   },
   "1DBC4BABBBB377A1FF59A11E550A9B1B5E742B02": {
     "name": "Pachinko II (Japan)",
@@ -589,7 +662,8 @@
     "logo": "QmRdLdd9kYv3srSc9WAcYBoSghKEB49piAmuPAgvQGD8ET"
   },
   "356DB6EDCD337A06063957BD8CB27EDEB7160F6C": {
-    "name": "Pitfall II - The Lost Caverns (Japan)"
+    "name": "Pitfall II - The Lost Caverns (Japan)",
+    "ref": "A14453650B6B2EF85E03B9637F08F691878ACFF4"
   },
   "84B59A9F855EF5E953C43495D7A15DD78386D0A8": {
     "name": "Pop Flamer (Japan, Europe, Australia, New Zealand)",
@@ -597,7 +671,8 @@
     "logo": "QmfCnk82jw6b3ndGApKEE7uUqrv7WS1tLCq74pGi785Nxr"
   },
   "25D5CDC7FDD5CBA97ABBD9D32F61A39AACCEB2C0": {
-    "name": "Pop Flamer (Taiwan)"
+    "name": "Pop Flamer (Taiwan)",
+    "ref": "84B59A9F855EF5E953C43495D7A15DD78386D0A8"
   },
   "909D6335034CF9E241D7FC4C8074A280B5C4112F": {
     "name": "Poseidon Wars + Space Panic + Rambo (France) (SF-7000)"
@@ -625,13 +700,16 @@
     "logo": "QmNjoddZBYUhqjEtsi2jC2fqmB7gdNVATNAvjsVLLzRDxt"
   },
   "18A6B34D071FEAAD416704D5E6FD7680374DD669": {
-    "name": "Rock n' Bolt (Taiwan) (Chinese Logo)"
+    "name": "Rock n' Bolt (Taiwan) (Chinese Logo)",
+    "ref": "D5E8E7CA7623521D4291AE5AB2740816FC674389"
   },
   "E3BE08BDA8459FC60836ABE332E9864E7C596202": {
-    "name": "Rock n' Bolt (Taiwan) (English Logo)"
+    "name": "Rock n' Bolt (Taiwan) (English Logo)",
+    "ref": "D5E8E7CA7623521D4291AE5AB2740816FC674389"
   },
   "E3AA37F4C9F213A673E369F62561F3F80513E4F3": {
-    "name": "Safari Hunting (Taiwan)"
+    "name": "Safari Hunting (Taiwan)",
+    "ref": "902DBABBFA98D71299ADDA0638B87152188E1CF1"
   },
   "902DBABBFA98D71299ADDA0638B87152188E1CF1": {
     "name": "Safari Hunting (Japan, Europe, Australia, New Zealand)",
@@ -644,7 +722,8 @@
     "logo": "QmQ4vnwxCsCXhbCyQ8tANmNrYT3jgyX5HRjcALNRHCj2W8"
   },
   "06FE09074BEF542B590761BA585911D0998AF646": {
-    "name": "Safari Race (Taiwan)"
+    "name": "Safari Race (Taiwan)",
+    "ref": "ECBBA909F2227786E7BA3360D2DD158F6513CFD4"
   },
   "75DD13EA139A91F4E471E658AB19F9847E15576C": {
     "name": "San-nin Mahjong (Japan) (Othello Multivision)",
@@ -652,13 +731,16 @@
     "logo": "QmcVSdxDQ2bqW429yPPS2BoPrxerQPhLFZHz4Jt7CWPyCV"
   },
   "245E9ADF0FDB33849F1E6EF872C1B204CBED5754": {
-    "name": "San-nin Mahjong (Taiwan) (Othello Multivision)"
+    "name": "San-nin Mahjong (Taiwan) (Othello Multivision)",
+    "ref": "75DD13EA139A91F4E471E658AB19F9847E15576C"
   },
   "A5C2ACBA93CD3809577F401C00FA9D728627ED60": {
-    "name": "San-nin Mahjong (Japan) (Alt 1) (Othello Multivision)"
+    "name": "San-nin Mahjong (Japan) (Alt 1) (Othello Multivision)",
+    "ref": "75DD13EA139A91F4E471E658AB19F9847E15576C"
   },
   "B7EB254A014772A83829E1991DCD32396E8DD9CC": {
-    "name": "Sega Flipper (Taiwan)"
+    "name": "Sega Flipper (Taiwan)",
+    "ref": "D713DCBD79A3DB8F1EF2CFB27DA31A286FFF16D1"
   },
   "D713DCBD79A3DB8F1EF2CFB27DA31A286FFF16D1": {
     "name": "Sega Flipper (Japan) (Alt 1)",
@@ -672,7 +754,8 @@
     "name": "Sega Logo (Japan) (SF-7000) (Program)"
   },
   "6C049DAA08AF7B1F08B98D6998BA52D7CF3CC4DE": {
-    "name": "Sega-Galaga (Taiwan)"
+    "name": "Sega-Galaga (Taiwan)",
+    "ref": "9B093878F92CE8B918BEAA44DCC8A41282F9F267"
   },
   "9B093878F92CE8B918BEAA44DCC8A41282F9F267": {
     "name": "Sega-Galaga (Japan)",
@@ -680,7 +763,8 @@
     "logo": "QmSo4ojsfbXd4K6Bx9FBXJYoNtiou6UT6CZxXGmzQwTJok"
   },
   "32E776B3A17F7C0DF0FA9EB49A3E451CFE702BFD": {
-    "name": "Sega-Galaga (Japan, Australia)"
+    "name": "Sega-Galaga (Japan, Australia)",
+    "ref": "9B093878F92CE8B918BEAA44DCC8A41282F9F267"
   },
   "388FDFF0CF2AD276E07A419239710632C376E1DB": {
     "name": "Sekaishi Nenpyou (Japan) (SC-3000) (Program)"
@@ -699,7 +783,8 @@
     "logo": "QmXh87oZ9byk8UngQrFcMsytgnWTntbPAHxtXoLKhZfycG"
   },
   "E47E56BE455D46C6CC5334895E54069A85DA6C3B": {
-    "name": "Shinnyushain Tooru-kun (Taiwan)"
+    "name": "Shinnyushain Tooru-kun (Taiwan)",
+    "ref": "83784E8248E2367546115382DAC157CA8E6FE3AB"
   },
   "90BB8B8337866339F32B3FD48B4D25D78D682B55": {
     "name": "Sindbad Mystery (Japan, Europe, Australia, New Zealand)",
@@ -707,10 +792,12 @@
     "logo": "QmTBvM5hBWpvS4HEMZgiyDNctAnbkHxQ26RQD3yFbqdaMv"
   },
   "9A4E44CCD3CABD092AAE59FCABDA8F047609A675": {
-    "name": "Sindbad Mystery (Taiwan)"
+    "name": "Sindbad Mystery (Taiwan)",
+    "ref": "90BB8B8337866339F32B3FD48B4D25D78D682B55"
   },
   "4216770EFBAF49F832FF7A78FBC9CD2C8300F52C": {
-    "name": "Soukoban (Taiwan)"
+    "name": "Soukoban (Taiwan)",
+    "ref": "94E79B4A8B4A5FB77C837EA0A1E28BC5993D36AF"
   },
   "94E79B4A8B4A5FB77C837EA0A1E28BC5993D36AF": {
     "name": "Soukoban (Japan, Australia)",
@@ -718,13 +805,16 @@
     "logo": "QmdsCwQrxTe8j6sAnHYW1d1RM8fxTzacGciuTgrXoENE83"
   },
   "A9D77C6DEE31956BB382ABD14245FF581369578D": {
-    "name": "Soukoban (Korea) (Unl)"
+    "name": "Soukoban (Korea) (Unl)",
+    "ref": "94E79B4A8B4A5FB77C837EA0A1E28BC5993D36AF"
   },
   "3C3B59321321061642F8CF609AE3E2CAB56EB83B": {
-    "name": "Space Armor (Japan, Taiwan) (Rev 1) (Othello Multivision)"
+    "name": "Space Armor (Japan, Taiwan) (Rev 1) (Othello Multivision)",
+    "ref": "A968B1DEBB39909CD83203244CC60DA1E0003F71"
   },
   "BBFFE62F8F851E3C4A62981437FACB518054A8AB": {
-    "name": "Space Armor (Japan) (Othello Multivision)"
+    "name": "Space Armor (Japan) (Othello Multivision)",
+    "ref": "A968B1DEBB39909CD83203244CC60DA1E0003F71"
   },
   "A968B1DEBB39909CD83203244CC60DA1E0003F71": {
     "name": "Space Armor (Japan) (Rev 2) (Othello Multivision)",
@@ -732,7 +822,8 @@
     "logo": "QmQUh3qA8Dk8ZSdD2yHiLAZtKB4GLWgjYiaB8srEQ5S5au"
   },
   "5A7904697EA8A360066EA8403793227021735969": {
-    "name": "Space Invaders (Taiwan)"
+    "name": "Space Invaders (Taiwan)",
+    "ref": "A4E4B0C2967E39C4931FBA8BC87428F296E461C5"
   },
   "A4E4B0C2967E39C4931FBA8BC87428F296E461C5": {
     "name": "Space Invaders (Japan)",
@@ -750,7 +841,8 @@
     "logo": "QmdjnPRmwrDnPxnPz4gAwyFskeBk1pSe8B8VmaqxZBTAAz"
   },
   "FF6E3BDB830E6F74F9997B4D36604FD07D7E6019": {
-    "name": "Star Force (Taiwan) (Alt 1)"
+    "name": "Star Force (Taiwan) (Alt 1)",
+    "ref": "D38875CB08DE0EA892E5EF80F93987BBC445EF8F"
   },
   "D38875CB08DE0EA892E5EF80F93987BBC445EF8F": {
     "name": "Star Force (Japan, Australia)",
@@ -758,10 +850,12 @@
     "logo": "QmNSsoppGoqFUnPTVBSSYHRaW1qCzrCDcTtS6JszThvCmc"
   },
   "F3DDF97DDF0E40289E38D9105300F15EC7EAB78C": {
-    "name": "Star Force (Taiwan)"
+    "name": "Star Force (Taiwan)",
+    "ref": "D38875CB08DE0EA892E5EF80F93987BBC445EF8F"
   },
   "2BC990615A6EA7F005E8458C9791F0098C4D4A85": {
-    "name": "Star Jacker (Taiwan) (Rev 1)"
+    "name": "Star Jacker (Taiwan) (Rev 1)",
+    "ref": "A2A06E7545CA1E0D522D0EB75A72B5B520F42330"
   },
   "A2A06E7545CA1E0D522D0EB75A72B5B520F42330": {
     "name": "Star Jacker (Japan, Europe) (Rev 2)",
@@ -769,10 +863,12 @@
     "logo": "QmdN8G82e3x1UsP1UVRLGYDYWxV73cwFh2BWnYH6sEchmz"
   },
   "BE078BFA5340F2E1D307B85D3648192972529E46": {
-    "name": "Star Jacker (Japan, Europe, Australia, New Zealand) (Rev 1)"
+    "name": "Star Jacker (Japan, Europe, Australia, New Zealand) (Rev 1)",
+    "ref": "A2A06E7545CA1E0D522D0EB75A72B5B520F42330"
   },
   "5D074708EDF6C40DC6D80032CD91FF6197AA79C7": {
-    "name": "Star Jacker (Japan)"
+    "name": "Star Jacker (Japan)",
+    "ref": "A2A06E7545CA1E0D522D0EB75A72B5B520F42330"
   },
   "C1984257809EC5BCE80A65D22B9B32561E04922C": {
     "name": "Star Soldier (Taiwan)",
@@ -785,10 +881,12 @@
     "logo": "QmcSV1yqakHjwUpiLBjAKHpHPBmNsLqtFzAMSiCt3KpAnm"
   },
   "0D014FC9DB775B62FF55196B85B8E91C5E3249F3": {
-    "name": "Super Tank (Taiwan)"
+    "name": "Super Tank (Taiwan)",
+    "ref": "58D7D51B91B763D812376D56643A4F8A331E826B"
   },
   "0A49DE909B07B69A24B5C02AD08446E2CD1787D2": {
-    "name": "Super Tank (Korea) (Unl)"
+    "name": "Super Tank (Korea) (Unl)",
+    "ref": "58D7D51B91B763D812376D56643A4F8A331E826B"
   },
   "0CA3B740B28266A2A606127ED8967C684B67CB44": {
     "name": "Tank Battalion (Taiwan)"
@@ -824,7 +922,8 @@
     "name": "Uranai Angel Cutie (Japan) (SC-3000) (Program)"
   },
   "4A54933135CDFF546FD79CBC61A38355F7335F3F": {
-    "name": "Wonder Boy (Japan)"
+    "name": "Wonder Boy (Japan)",
+    "ref": "240600A0DDA16809F49B173F731C7FDAF921466A"
   },
   "240600A0DDA16809F49B173F731C7FDAF921466A": {
     "name": "Wonder Boy (Japan) (Rev 1)",
@@ -832,7 +931,8 @@
     "logo": "Qme2dR9P5QgwPxtBHhSWGCQhYmQefCa5HHzGrNNpyrJvuQ"
   },
   "8F261B955162C179FE4C936ECE767BBF25C4888C": {
-    "name": "Wonder Boy (Taiwan) (Rev 1)"
+    "name": "Wonder Boy (Taiwan) (Rev 1)",
+    "ref": "240600A0DDA16809F49B173F731C7FDAF921466A"
   },
   "4D746558FB699C5CB480BA26130518105B2E2031": {
     "name": "Yamato (Japan, Europe, Australia, New Zealand)",
@@ -840,10 +940,12 @@
     "logo": "Qma7QGZCQd6qNZsqtqidAp41sgr1uudUmE3MVqz9SoZdy6"
   },
   "FE86E669F3E4B808236D7B80AEB5A83172EDB9AC": {
-    "name": "Yamato (Japan) (Alt 1)"
+    "name": "Yamato (Japan) (Alt 1)",
+    "ref": "4D746558FB699C5CB480BA26130518105B2E2031"
   },
   "6FBDC967F5C7C39EB1FDEA08D2DCABFD64B8E7EE": {
-    "name": "Yamato (Taiwan)"
+    "name": "Yamato (Taiwan)",
+    "ref": "4D746558FB699C5CB480BA26130518105B2E2031"
   },
   "0A6157837AF2E5DEC2E9B30D475B48FA7C14CC3E": {
     "name": "Yie Ar Kung-Fu (Taiwan)"
@@ -857,7 +959,8 @@
     "logo": "QmWNkkERMxQApxmeUBdut4QjrPWE97bkd6aQwok1j1jAuf"
   },
   "172A8FF1A574D7920906C5CF60E1D39F31B9B639": {
-    "name": "Zaxxon (Taiwan)"
+    "name": "Zaxxon (Taiwan)",
+    "ref": "E32F536C3576D41AB485E07809C4404E6B462443"
   },
   "8C48DBE187FF4B26D6244D38075565F284536D0C": {
     "name": "Zippy Race (Japan, Australia)",
@@ -865,7 +968,8 @@
     "logo": "QmYd6wrYDs3nCdgksy1VGtrgT92aaQgJmcFKohwANPTWzi"
   },
   "F6926D0C3C654A038CD5EEC9AAA6876BCE86FDAA": {
-    "name": "Zippy Race (Taiwan)"
+    "name": "Zippy Race (Taiwan)",
+    "ref": "8C48DBE187FF4B26D6244D38075565F284536D0C"
   },
   "09552AAA7140F9FC780B5F7D541478B534320075": {
     "name": "Zoom 909 (Japan, Taiwan)",
@@ -873,7 +977,8 @@
     "logo": "QmbVQRvetkmdVchx8pwpPMnrJSYCrCaStv7BB5ui7STiFP"
   },
   "7A998A0DA19471F7E3E5BD82A9FBAF82A966EE40": {
-    "name": "Zoom 909 (Taiwan)"
+    "name": "Zoom 909 (Taiwan)",
+    "ref": "09552AAA7140F9FC780B5F7D541478B534320075"
   },
   "2E2BAEE16A34839770587D5FAB890080BBCD9550": {
     "ref": "7ECB9AC646346900046A61FF0242D6C90A812EDA"

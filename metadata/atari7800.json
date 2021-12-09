@@ -17,7 +17,8 @@
     "logo": "QmV5Xpe28gVU1vPWvinGGRsyrsyp1B9LX49DpVXsc1oGx1"
   },
   "C43249BA2D38441461E5FFE07AD2E0B46AB1C6DF": {
-    "name": "Ace of Aces (Europe)"
+    "name": "Ace of Aces (Europe)",
+    "ref": "EFD20BD321A81D67FB6430D9BA93D23FB90D8029"
   },
   "A8629FAC962CC20B263A60BB2D2386D605713387": {
     "name": "Alien Brigade (USA)",
@@ -25,7 +26,8 @@
     "logo": "QmPo7hvDJBcxKpKVuYFiL49t6Np9BFkyoGfdtL3MXjVYxr"
   },
   "990711AE451D901A960AF8AD9AE70813F16257B1": {
-    "name": "Alien Brigade (Europe)"
+    "name": "Alien Brigade (Europe)",
+    "ref": "A8629FAC962CC20B263A60BB2D2386D605713387"
   },
   "D96EC4E043FCDACAB367D8A69D29904B3B2896F1": {
     "name": "Asteroids (USA)",
@@ -33,7 +35,8 @@
     "logo": "QmYTybUZcRDWWDEu3y6FBDcwBL6Ezn9Cmri16gERn3cQ5m"
   },
   "85D9CE187497877005E991F2BF139D21034CCF9D": {
-    "name": "Asteroids (USA) (Beta)"
+    "name": "Asteroids (USA) (Beta)",
+    "ref": "D96EC4E043FCDACAB367D8A69D29904B3B2896F1"
   },
   "4DF3657F57E3086BEE26FB5C6EA946C509D08553": {
     "name": "Atari 7800 Development Card (USA)"
@@ -44,7 +47,8 @@
     "logo": "QmPUxp3kdsiUx1A4gHffUYsFRBpxb3BfjVaGRfYdnjvn7u"
   },
   "1AA1A508ADA1521AE1D373A6860681093E3F851C": {
-    "name": "Ballblazer (Europe)"
+    "name": "Ballblazer (Europe)",
+    "ref": "4EB5424360691A38B199D91A0E2C9095D0862DBE"
   },
   "CBCDE3D85C8778DEA402394568677884CD781DE3": {
     "name": "Barnyard Blaster (USA)"
@@ -61,10 +65,12 @@
     "logo": "QmeJmg8iMMGYju6me7Y44beJaLKopXsqB3DmfYarPLcUwz"
   },
   "E7EF6B11BB6836FF7D11A25F8D4E2C9361FA69B3": {
-    "name": "Basketbrawl (Europe)"
+    "name": "Basketbrawl (Europe)",
+    "ref": "39877A4C88498BF6656451E3D1ACAF7E8638BDFD"
   },
   "323F9FC4FDE9AA6FCBAAC8AE300AAA06BAFA745A": {
-    "name": "Centipede (Europe)"
+    "name": "Centipede (Europe)",
+    "ref": "C8377AD7FB6AFEC5C88C14A23A68E2ECEBBA4E5A"
   },
   "C8377AD7FB6AFEC5C88C14A23A68E2ECEBBA4E5A": {
     "name": "Centipede (USA)",
@@ -72,7 +78,8 @@
     "logo": "QmRp1dAj7tjfkmnX7ykegpCsMWxAbqhtXkCfzbvvNw4iyg"
   },
   "F2FE1C82E5B333F4C59F76A28A9D379228596D89": {
-    "name": "Choplifter! (Europe)"
+    "name": "Choplifter! (Europe)",
+    "ref": "6DF15E73494D0A498DD044753A27544214210B14"
   },
   "6DF15E73494D0A498DD044753A27544214210B14": {
     "name": "Choplifter! (USA)",
@@ -85,10 +92,12 @@
     "logo": "QmVJBoAaUB54jVL7AZSMFEQ3bherM82ku9iDPUWWWE1Rdn"
   },
   "2BDAD24967FE4F5492AE294B1CCF8F148930A419": {
-    "name": "Commando (Europe)"
+    "name": "Commando (Europe)",
+    "ref": "F8AE7DA650AD38675B81675B77096794A9CD52E8"
   },
   "0C1A7806E431EFBF0C826A11B92D74EB45E08661": {
-    "name": "Crack'ed (Europe)"
+    "name": "Crack'ed (Europe)",
+    "ref": "664D267D1245D5698CBF6FF0622EE0D629DA3A11"
   },
   "664D267D1245D5698CBF6FF0622EE0D629DA3A11": {
     "name": "Crack'ed (USA)",
@@ -96,7 +105,8 @@
     "logo": "QmSsEFKRxrHv6v1C4hHTt6Y2BWnumnzHFCGBBB7h2nL4qo"
   },
   "F26D292210A91A714B4B87712FF53B8E49DA611E": {
-    "name": "Crossbow (Europe)"
+    "name": "Crossbow (Europe)",
+    "ref": "D5E47DA88E232CD9EA059E133E7C0F13D921A04C"
   },
   "D5E47DA88E232CD9EA059E133E7C0F13D921A04C": {
     "name": "Crossbow (USA)",
@@ -109,10 +119,12 @@
     "logo": "QmerHNLAhmvW7Dhi7aMkdAULV8QWUbSHHCSuARa2od55NX"
   },
   "2B888C95B31109FFD0441F586BA18F21A3A4F22E": {
-    "name": "Dark Chambers (Europe)"
+    "name": "Dark Chambers (Europe)",
+    "ref": "848077F15114FEC31F8290BE2583566F4486FE65"
   },
   "185D104614E23699E074E850D5AB8C36A159071C": {
-    "name": "Desert Falcon (Europe)"
+    "name": "Desert Falcon (Europe)",
+    "ref": "725F893F9A98926C627EF37EACC3F241620C3FFC"
   },
   "725F893F9A98926C627EF37EACC3F241620C3FFC": {
     "name": "Desert Falcon (USA)",
@@ -126,7 +138,8 @@
     "name": "Diagnostic Test Cartrige (USA) (Beta)"
   },
   "CE05D3270B0E0D36D80A4F0731D0173CB5921BCE": {
-    "name": "Dig Dug (Europe)"
+    "name": "Dig Dug (Europe)",
+    "ref": "19CEE8DC40FABD7022BEDC27E4896C09E3CADFDD"
   },
   "19CEE8DC40FABD7022BEDC27E4896C09E3CADFDD": {
     "name": "Dig Dug (USA)",
@@ -139,10 +152,12 @@
     "logo": "QmUGX5fASbwA652LTtxkjtww4a3FrD975z8GzfuMjeS1eQ"
   },
   "DC69FA8FDF3FCBA8557195358B8D206463652E0F": {
-    "name": "Donkey Kong (Europe)"
+    "name": "Donkey Kong (Europe)",
+    "ref": "820C852CAA7957179BF7D6FAF2E6922DDE5A1A8E"
   },
   "2626A9CD3326B8CE0EE0E834E17A0EEDAE005669": {
-    "name": "Donkey Kong Junior (Europe)"
+    "name": "Donkey Kong Junior (Europe)",
+    "ref": "E9392259FFF682FCC3476009771A3CFD7D5BDB6D"
   },
   "E9392259FFF682FCC3476009771A3CFD7D5BDB6D": {
     "name": "Donkey Kong Junior (USA)",
@@ -155,7 +170,8 @@
     "logo": "QmZu8BFUf1BizjqatkKND67gLu4mUj5miXP6FHMg2Ti5nu"
   },
   "210F3AC989549E89425E7677127715AEE713AF32": {
-    "name": "Double Dragon (Europe)"
+    "name": "Double Dragon (Europe)",
+    "ref": "C3FB140836A4ED84CDA7A999832703E8B72C0D21"
   },
   "13A18A6B85DB6222B01D37800E5E57DB616A85A6": {
     "name": "F-18 Hornet (USA)",
@@ -163,10 +179,12 @@
     "logo": "Qmbj6BRNb1MTkB6CcdsYVecSTTpiqwvVyToEc77Q9ob7FU"
   },
   "673D912B2F9AB7A43F95E0E90BD80249B360FE0D": {
-    "name": "F-18 Hornet (Europe)"
+    "name": "F-18 Hornet (Europe)",
+    "ref": "13A18A6B85DB6222B01D37800E5E57DB616A85A6"
   },
   "F23173D2E42BCA0767F3D8ECB6BB1C0D23DDE996": {
-    "name": "Fatal Run (Europe)"
+    "name": "Fatal Run (Europe)",
+    "ref": "69AAB1E6EF332C6844C693AC41965E4C33FF822A"
   },
   "69AAB1E6EF332C6844C693AC41965E4C33FF822A": {
     "name": "Fatal Run (USA)",
@@ -179,7 +197,8 @@
     "logo": "QmbQnquM6qGrtdFFwTSN42xbKTtKsdEUN5CPLqG4hrxj6X"
   },
   "DED89F3A4AC0D95AA158C98302B7939E5B89E4C6": {
-    "name": "Fight Night (Europe)"
+    "name": "Fight Night (Europe)",
+    "ref": "1E8A8704A77B15E70CBC72B0AE9BC25FB91D7C21"
   },
   "3F5F42D5AAF6CCD4979658A1387AAC5933549357": {
     "name": "Food Fight (USA)",
@@ -187,13 +206,16 @@
     "logo": "QmSXxrMkP6ktUv5estwWvhYiLBhYLtedG6iUXDzCxtdZRn"
   },
   "40B8E5EEB9E9AD7239963ED79DC085092CCBEC4C": {
-    "name": "Food Fight (Europe)"
+    "name": "Food Fight (Europe)",
+    "ref": "3F5F42D5AAF6CCD4979658A1387AAC5933549357"
   },
   "CA47CAFF9CB976DA34192E4FB9EEA8DEDF2222CD": {
-    "name": "Food Fight (USA) (Beta)"
+    "name": "Food Fight (USA) (Beta)",
+    "ref": "3F5F42D5AAF6CCD4979658A1387AAC5933549357"
   },
   "F1AE5DF03CF90041380D77C1B49C94611443330B": {
-    "name": "Galaga (Europe)"
+    "name": "Galaga (Europe)",
+    "ref": "33178D682564D70955E13D0633359E87B512253B"
   },
   "33178D682564D70955E13D0633359E87B512253B": {
     "name": "Galaga (USA)",
@@ -204,7 +226,8 @@
     "name": "GATO (USA) (Proto)"
   },
   "0E9FA678BB4AEDC7BB7CF5D38FE27556C4C2BBBD": {
-    "name": "Hat Trick (Europe)"
+    "name": "Hat Trick (Europe)",
+    "ref": "14C0CFD01DF1C725F399C23810E4854A639FCE52"
   },
   "14C0CFD01DF1C725F399C23810E4854A639FCE52": {
     "name": "Hat Trick (USA)",
@@ -215,7 +238,8 @@
     "name": "High Score Cartridge (USA) (Proto)"
   },
   "275CAE6C693D9BD1906FDC684460EC596869BBAD": {
-    "name": "Ikari Warriors (Europe)"
+    "name": "Ikari Warriors (Europe)",
+    "ref": "E368C6C7FFCA5FFAC314DEC1EFFEA4E2C809519A"
   },
   "E368C6C7FFCA5FFAC314DEC1EFFEA4E2C809519A": {
     "name": "Ikari Warriors (USA)",
@@ -223,7 +247,8 @@
     "logo": "QmeetyXe8W1zgUsrYvEYC68jdpnwJVXYLg9zQRkBhqjrzn"
   },
   "9770B61472510ABA1CF3EA35CECA1859C3493676": {
-    "name": "Impossible Mission (Europe)"
+    "name": "Impossible Mission (Europe)",
+    "ref": "5437C0EFB63A349953EC047EFE6EC24144ED6914"
   },
   "5437C0EFB63A349953EC047EFE6EC24144ED6914": {
     "name": "Impossible Mission (USA)",
@@ -236,7 +261,8 @@
     "logo": "QmcfnS7U13aDhGtKivyYD8fhekuN3qK6AmmzNrUAkqJyQu"
   },
   "EB16DE0C3D5C4E769AE2314BA21C4DD3BCA33C88": {
-    "name": "Jinks (Europe)"
+    "name": "Jinks (Europe)",
+    "ref": "472BC12C437B015A9E317BAC092529F3295033B8"
   },
   "1CCD7C232BCFD5A65D26B9DECFE4ECEADCBE314C": {
     "name": "Joust (USA)",
@@ -244,10 +270,12 @@
     "logo": "QmP6HxFgNSu4pHkgKZXR48MJoVrTnjvh7DcPyhGcQy42w3"
   },
   "AAE5B9EE00C39D577858ABA9D1FD791194BE2C0C": {
-    "name": "Joust (Europe)"
+    "name": "Joust (Europe)",
+    "ref": "1CCD7C232BCFD5A65D26B9DECFE4ECEADCBE314C"
   },
   "C5F25C88EEFE0C7B3571AB3C3EC5185E537EB151": {
-    "name": "Karateka (Europe)"
+    "name": "Karateka (Europe)",
+    "ref": "9FB97BBC7DCC610251CEE1695C48B82A087F32D2"
   },
   "9FB97BBC7DCC610251CEE1695C48B82A087F32D2": {
     "name": "Karateka (USA)",
@@ -260,7 +288,8 @@
     "logo": "QmeWd8718qDzakBwFZP2NhgxFjfpQxDmKbHdKwFoBwiwvM"
   },
   "0F0E24246D9E684B7F900A362FB08878B232580C": {
-    "name": "Kung-Fu Master (Europe)"
+    "name": "Kung-Fu Master (Europe)",
+    "ref": "8824BFFDF4F30A8191E581752A75259A663092CA"
   },
   "8824BFFDF4F30A8191E581752A75259A663092CA": {
     "name": "Kung-Fu Master (USA)",
@@ -273,7 +302,8 @@
     "logo": "QmPWhVtwwqqPnTaPENDsQ9uCdJLexHgBBpGcBBdFurkhYG"
   },
   "881BEFF5103713E655FED80B32E0BBD774E78EE8": {
-    "name": "Mario Bros. (Europe)"
+    "name": "Mario Bros. (Europe)",
+    "ref": "12E04B67094AF622641C536379C69ECAD2EE98ED"
   },
   "BB849B603CF1091E4F032936B209FF33FC3B714E": {
     "name": "Mat Mania Challenge (USA)",
@@ -281,10 +311,12 @@
     "logo": "QmTRLuHTnpHZ8fLrNAAqXSBLLAMEaLMi659NRUFxTr3d1P"
   },
   "119BB784F1A0638CC6778841131CA1766E94A112": {
-    "name": "Mat Mania Challenge (Europe)"
+    "name": "Mat Mania Challenge (Europe)",
+    "ref": "BB849B603CF1091E4F032936B209FF33FC3B714E"
   },
   "47702EE71C64AF4ADA09CD41122C779C7D8D94F1": {
-    "name": "Mean 18 Ultimate Golf (Europe)"
+    "name": "Mean 18 Ultimate Golf (Europe)",
+    "ref": "A3E50C0E56C9675FFB1B6439F40789BC64C606B2"
   },
   "A3E50C0E56C9675FFB1B6439F40789BC64C606B2": {
     "name": "Mean 18 Ultimate Golf (USA)",
@@ -297,10 +329,12 @@
     "logo": "QmY7xhTXWCemmK79hRexDobSzbhRqEfdM37wf14Bsp3nsC"
   },
   "AC448F369C3C6334415095E4FF344FDD73B473BE": {
-    "name": "Meltdown (Europe)"
+    "name": "Meltdown (Europe)",
+    "ref": "E601C45AAA1CC25F01493867664C8B9FEFECA70E"
   },
   "85F0E0556DF65C0732F71AB3F2BBDE3615355F72": {
-    "name": "Midnight Mutants (Europe)"
+    "name": "Midnight Mutants (Europe)",
+    "ref": "DB5EA4C1456F3B403F6B8978432ECBCDAC89D432"
   },
   "DB5EA4C1456F3B403F6B8978432ECBCDAC89D432": {
     "name": "Midnight Mutants (USA)",
@@ -316,10 +350,12 @@
     "logo": "Qmad3zsdoD1MPrVEutCwGEZbWz2PSuG1KsVFbDw5Ce4ejS"
   },
   "3B72D6B3E28CA9182F1F25DC57115D2EC33AA63E": {
-    "name": "Motor Psycho (Europe)"
+    "name": "Motor Psycho (Europe)",
+    "ref": "B9381F4D0413B6C48E27F26ED94C7A9EB1A49624"
   },
   "A5B0826A130ACF8B8DBC59EF980D40B802C22B30": {
-    "name": "Ms. Pac-Man (Europe)"
+    "name": "Ms. Pac-Man (Europe)",
+    "ref": "FF22E21FC953A288453C40EB6FC5378D42B871F6"
   },
   "FF22E21FC953A288453C40EB6FC5378D42B871F6": {
     "name": "Ms. Pac-Man (USA)",
@@ -332,7 +368,8 @@
     "logo": "QmbYMr4iWKoJVFvwk68bx8WAcsaPPn18gzYuCGZEhTLMry"
   },
   "99CE5711E38FF7EF3311216F954CF0AB70E289CF": {
-    "name": "Ninja Golf (Europe)"
+    "name": "Ninja Golf (Europe)",
+    "ref": "96D0E59E703770EEA8D8D9C2C4E5A87CE6F2DE76"
   },
   "5173F892A8D70AECA6C324C138C56208E0DB2B98": {
     "name": "One-on-One Basketball (USA)",
@@ -340,7 +377,8 @@
     "logo": "QmTQeCBnhvAg8v6FnwBoBRijKRTF2vFUi6jWsTrEsoX3ym"
   },
   "01DFC5E4E615CF20EE4F07245285F85684EE445D": {
-    "name": "One-on-One Basketball (Europe)"
+    "name": "One-on-One Basketball (Europe)",
+    "ref": "5173F892A8D70AECA6C324C138C56208E0DB2B98"
   },
   "FFB4FBED8D8F28EA71668542B7EBD019955C5A11": {
     "name": "Pete Rose Baseball (USA)",
@@ -351,7 +389,8 @@
     "name": "Pit Fighter (USA) (Proto)"
   },
   "F12CBB576607EC38D6111F4346412CCC5BFBCF42": {
-    "name": "Planet Smashers (Europe)"
+    "name": "Planet Smashers (Europe)",
+    "ref": "503B975FC1F8EDC16110AC2C5B884C4E8B2B6EFB"
   },
   "503B975FC1F8EDC16110AC2C5B884C4E8B2B6EFB": {
     "name": "Planet Smashers (USA)",
@@ -367,10 +406,12 @@
     "logo": "QmbhFnpqEVAZiokGnrSbERtyZPSNjp7fGx6Jcneaix3Hhm"
   },
   "268E53B5B2117BF853E0AAE6ADB0B2D3AAD8AD5C": {
-    "name": "Pole Position II (Europe)"
+    "name": "Pole Position II (Europe)",
+    "ref": "CCFA6F3F83DDBED2A2FB32735FEA316A718FBAAA"
   },
   "E65E2BBF62F902C4DEE3F2E95EC5A222D151BEB4": {
-    "name": "Pole Position II (USA) (Beta)"
+    "name": "Pole Position II (USA) (Beta)",
+    "ref": "CCFA6F3F83DDBED2A2FB32735FEA316A718FBAAA"
   },
   "13745B5EAAAB7E2C992F3312285E112CDEB424F6": {
     "name": "Rampage (USA)",
@@ -397,7 +438,8 @@
     "logo": "QmXhv57eb81a3GrR8whhqwz7gT6XzugVD5vPeff7jTa4Cn"
   },
   "EBFED67CFEEBC6A558DBB087E4784E5E5258C2E1": {
-    "name": "Scrapyard Dog (Europe)"
+    "name": "Scrapyard Dog (Europe)",
+    "ref": "F2249321D0CC296B9F9E516BBC5ECC9AAB56CA22"
   },
   "F2249321D0CC296B9F9E516BBC5ECC9AAB56CA22": {
     "name": "Scrapyard Dog (USA)",
@@ -430,7 +472,8 @@
     "logo": "QmbVUo4JGhGQtAiK9NUTbTTaxLF3oLG6xpGb8gQyApegUJ"
   },
   "FAB349584AF7B6B3F9B034AF3034F43257E2C25F": {
-    "name": "Super Skateboardin' (Europe)"
+    "name": "Super Skateboardin' (Europe)",
+    "ref": "666D9383C112B66026898E6002B803801E269C51"
   },
   "1D2975D754806416A25A821DB6A9FE389BF5D946": {
     "name": "Tank Command (USA)",
@@ -443,10 +486,12 @@
     "logo": "QmXTY9qxU59D2MnpFuAURPfSWaSLhr2wx5T3Cou7YN31HH"
   },
   "7AB281C9B69692823B3B6B594856172363C507B5": {
-    "name": "Title Match Pro Wrestling (Europe)"
+    "name": "Title Match Pro Wrestling (Europe)",
+    "ref": "80D11BCBB953CCD8BF3C3E64162711E7EDB95090"
   },
   "825381773593365B5CA7EECA968CCA00879EEE71": {
-    "name": "Tomcat - The F-14 Fighter Simulator (Europe)"
+    "name": "Tomcat - The F-14 Fighter Simulator (Europe)",
+    "ref": "80C615FB60D0004C1ACCDE25E42759572E030928"
   },
   "80C615FB60D0004C1ACCDE25E42759572E030928": {
     "name": "Tomcat - The F-14 Fighter Simulator (USA)",
@@ -480,10 +525,12 @@
     "logo": "QmVLde6iUW3LSepohq3LozpARL4tseuLa21uvkcPyTAxEQ"
   },
   "B2CF7D6164D6E5ACD47E9F6D7CF60BB0F775B4A3": {
-    "name": "Xenophobe (Europe)"
+    "name": "Xenophobe (Europe)",
+    "ref": "867ADBFD7539FF81E68726ED6F5FF7326409539F"
   },
   "81647C8CE432F891328631B57DD3268DD315F8E8": {
-    "name": "Xevious (Europe)"
+    "name": "Xevious (Europe)",
+    "ref": "1D4F0335B152239553534FCBBACDCA273802E3BD"
   },
   "1D4F0335B152239553534FCBBACDCA273802E3BD": {
     "name": "Xevious (USA)",
@@ -491,7 +538,8 @@
     "logo": "QmXK7TWni4ZuWK3Nz5NHU4xGx2uqL9SH6VAitPYsefHeaL"
   },
   "5F7D2D52ED8C9A3263EE0AEFB3BC05A2847665DD": {
-    "name": "Xevious (USA) (Beta)"
+    "name": "Xevious (USA) (Beta)",
+    "ref": "1D4F0335B152239553534FCBBACDCA273802E3BD"
   },
   "762FA119F08CE674AAA1CE4F52D64582188B1261": {
     "name": "Astro Blaster",

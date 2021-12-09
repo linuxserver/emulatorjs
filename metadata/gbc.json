@@ -19,7 +19,8 @@
     "logo": "QmbwSPP5RcB1uD1L9Bcda1xtfnQdaHSkAcFVVL5bWceKFB"
   },
   "90D78BF2F51EED998002D8733D6E223B6478F487": {
-    "name": "10-Pin Bowling (Europe)"
+    "name": "10-Pin Bowling (Europe)",
+    "ref": "EB0A65DC3069AE5261B04437FFAC5EFC12697C2A"
   },
   "EAF3BD27CF7CB084068C5A139DA5383A74105FFA": {
     "name": "102 Dalmatas - Cachorros Al Rescate (Spain)"
@@ -90,7 +91,8 @@
     "logo": "Qmec5heiN7dzTeB9R3GCVuwokreLZ84smooFrmAXWevDfY"
   },
   "593DF751CC6B1A7AF7F50A9C9CFCEDF8287384DC": {
-    "name": "AirForce Delta (Japan)"
+    "name": "AirForce Delta (Japan)",
+    "ref": "82530325B940E14EDEA459879289B4DCE1818066"
   },
   "82530325B940E14EDEA459879289B4DCE1818066": {
     "name": "AirForce Delta (USA)",
@@ -98,7 +100,8 @@
     "logo": "QmQn34jMSjsD16jZ2QL5qLWTqVw1TWHwzis2XT6Qb8qbaP"
   },
   "23335B9654766275831115A54F5142C4CB9183FE": {
-    "name": "Aladdin (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Aladdin (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "97B46BF9862C9A1EF73D41F18B3693C6D9C73C06"
   },
   "97B46BF9862C9A1EF73D41F18B3693C6D9C73C06": {
     "name": "Aladdin (USA)",
@@ -111,7 +114,8 @@
     "logo": "QmUJToYxo4Fpq3B9Tqav2vBUaWmPtxKhbcduKsjoiUrde2"
   },
   "EA8647CCE2D4B5F7993190C6E485669CC6046A29": {
-    "name": "Alice in Wonderland (Europe) (En,Fr,De,Es)"
+    "name": "Alice in Wonderland (Europe) (En,Fr,De,Es)",
+    "ref": "02C49003D5EB1498F239149089A517CDFB6BDA0B"
   },
   "02C49003D5EB1498F239149089A517CDFB6BDA0B": {
     "name": "Alice in Wonderland (USA)",
@@ -139,7 +143,8 @@
     "logo": "QmXJyND2NsRhjuWevi7AhMNyvn73jNGcH66fwezy5PyU8Y"
   },
   "818259159B5E7D3775584B478D4FD36F6A25FCAA": {
-    "name": "Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "A348AEAC500D0D8FDAF90F5277631A026504FF44"
   },
   "A348AEAC500D0D8FDAF90F5277631A026504FF44": {
     "name": "Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)",
@@ -159,7 +164,8 @@
     "name": "Animastar GB (Japan)"
   },
   "C936A5B3C005F72DE5032C4A067A7D95AB2735FA": {
-    "name": "Animorphs (Europe) (En,Fr,De,Es,It)"
+    "name": "Animorphs (Europe) (En,Fr,De,Es,It)",
+    "ref": "B3E5B34D5E97C49720861FABB6A29D557029279C"
   },
   "B3E5B34D5E97C49720861FABB6A29D557029279C": {
     "name": "Animorphs (USA)",
@@ -170,7 +176,8 @@
     "name": "Anpfiff - Der RTL Fussball-Manager (Germany)"
   },
   "2CBA2B024EDB4B702D2ACABEFBCB310F4D6E2075": {
-    "name": "Antz (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
+    "name": "Antz (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)",
+    "ref": "85684D5891E4EC0F9FDF61B644BDF0FFBF1BA219"
   },
   "85684D5891E4EC0F9FDF61B644BDF0FFBF1BA219": {
     "name": "Antz (USA) (En,Fr,Es) (GB Compatible)",
@@ -178,7 +185,8 @@
     "logo": "QmSmaWeCgeUJK9fLvv65pasj6xS3uxey2TBj34h7ZCFmMN"
   },
   "E4FF55112A76DA72F30582476F15358527518CFD": {
-    "name": "Antz Racing (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Antz Racing (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "806E641B911B302F5BE2A80B6003F473D1A10A88"
   },
   "806E641B911B302F5BE2A80B6003F473D1A10A88": {
     "name": "Antz Racing (USA) (En,Fr,De,Es,It,Nl)",
@@ -252,10 +260,12 @@
     "logo": "QmNveyUz5SriMBFn1eznaQ2JDhdtQizyBqEzuTDjoLDQZC"
   },
   "EF4AB0DD852FFD1418C803C05DDCB245B3A4348D": {
-    "name": "Atlantis - The Lost Empire (Europe) (En,Es,It)"
+    "name": "Atlantis - The Lost Empire (Europe) (En,Es,It)",
+    "ref": "AB5DD8EFA36B33CE9AA090B3D990E8FC8828F7E2"
   },
   "19DF06E2A8BE1336A6AEC8C86649B95B206DC54F": {
-    "name": "Atlantis - The Lost Empire (Europe) (Fr,De,Nl)"
+    "name": "Atlantis - The Lost Empire (Europe) (Fr,De,Nl)",
+    "ref": "AB5DD8EFA36B33CE9AA090B3D990E8FC8828F7E2"
   },
   "AB5DD8EFA36B33CE9AA090B3D990E8FC8828F7E2": {
     "name": "Atlantis - The Lost Empire (USA, Europe)",
@@ -275,7 +285,8 @@
     "name": "ATV Racing & Karate Joe (Europe) (Alt) (Unl)"
   },
   "A5D29D48B9BC3E1FA476E475DA24C2D80985188D": {
-    "name": "Austin Powers - Oh, Behave! (Europe) (En,Fr,De,Es,It)"
+    "name": "Austin Powers - Oh, Behave! (Europe) (En,Fr,De,Es,It)",
+    "ref": "AA6CB6AB4FE083CBE0274C40BD30E0013A2F7645"
   },
   "AA6CB6AB4FE083CBE0274C40BD30E0013A2F7645": {
     "name": "Austin Powers - Oh, Behave! (USA)",
@@ -283,7 +294,8 @@
     "logo": "QmafdAzYVyLUAKMtfS7dmuAP4eBRxF3saXHVaFabafFCT2"
   },
   "02C7C61928AB82B4A8A07BB067D5F5CA32511DF7": {
-    "name": "Austin Powers - Welcome to my Underground Lair! (Europe) (En,Fr,De,Es,It)"
+    "name": "Austin Powers - Welcome to my Underground Lair! (Europe) (En,Fr,De,Es,It)",
+    "ref": "69B5106A124BDE38184875C0DD08DE437360BC14"
   },
   "69B5106A124BDE38184875C0DD08DE437360BC14": {
     "name": "Austin Powers - Welcome to my Underground Lair! (USA)",
@@ -303,7 +315,8 @@
     "name": "Azarashi Sentai Inazuma - Dokidoki Daisakusen! (Japan)"
   },
   "81D9ACD0E27639F90E38E918A4B0A96FA565D1D9": {
-    "name": "Azure Dreams (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)"
+    "name": "Azure Dreams (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)",
+    "ref": "1EBC365058DBB4D4F7CCAD6185F4364D584BF250"
   },
   "1EBC365058DBB4D4F7CCAD6185F4364D584BF250": {
     "name": "Azure Dreams (USA) (SGB Enhanced) (GB Compatible)",
@@ -317,7 +330,8 @@
     "name": "B-Daman Bakugaiden V - Final Mega Tune (Japan)"
   },
   "52A560185B7E77E5286771F7851F69323512658E": {
-    "name": "Babe and Friends (Europe) (En,Fr,De,Es,It) (GB Compatible)"
+    "name": "Babe and Friends (Europe) (En,Fr,De,Es,It) (GB Compatible)",
+    "ref": "51A4FD838903039B60BF5C13677CBEA6BBB7D368"
   },
   "51A4FD838903039B60BF5C13677CBEA6BBB7D368": {
     "name": "Babe and Friends (USA) (GB Compatible)",
@@ -338,7 +352,8 @@
     "logo": "QmYbYc4wtn6b3fivs2wySmGURADswrw6DL8JSfp2HPZDTJ"
   },
   "EB8B70E445174A812044CA5B101BDCB00C389940": {
-    "name": "Backgammon (Japan) (GB Compatible)"
+    "name": "Backgammon (Japan) (GB Compatible)",
+    "ref": "B634A2980EFE1378ECB26A761241D48F4604E5F0"
   },
   "DA06158A4D3AED781E77A5F69FAAF522B0A98CBD": {
     "name": "Bad Badtz-Maru Robo Battle (Japan)"
@@ -389,7 +404,8 @@
     "name": "Barbie - Meeres Abenteuer (Germany) (GB Compatible)"
   },
   "C0C37864E17F11FFFA8B8A61A0ABE4B2B80C235C": {
-    "name": "Barbie - Ocean Discovery (Europe) (GB Compatible)"
+    "name": "Barbie - Ocean Discovery (Europe) (GB Compatible)",
+    "ref": "FAB988692A19D53E71FC754DEA3A01506B104D9F"
   },
   "FAB988692A19D53E71FC754DEA3A01506B104D9F": {
     "name": "Barbie - Ocean Discovery (USA) (GB Compatible)",
@@ -397,7 +413,8 @@
     "logo": "QmP3HbGegdJyhSkFB91tvXxS45pTWEJypdjB5UErmno78N"
   },
   "191A42E0EAF6AFB58BC8AACA0EE8DAD0641594D4": {
-    "name": "Barbie - Pet Rescue (Europe) (En,Fr,De,Es,It)"
+    "name": "Barbie - Pet Rescue (Europe) (En,Fr,De,Es,It)",
+    "ref": "FFED44AB063C4181D5DF85FF1304DE10FA6392CD"
   },
   "FFED44AB063C4181D5DF85FF1304DE10FA6392CD": {
     "name": "Barbie - Pet Rescue (USA)",
@@ -419,7 +436,8 @@
     "logo": "QmYidyCFvcUAsKs7QfTEbVCYKuvuwBXCBWgeMmAuhpkoHC"
   },
   "DBC6C729DDE21ABF324E2A055D819F088E696C0C": {
-    "name": "Batman - Chaos in Gotham (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Batman - Chaos in Gotham (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "DE2D6A53316011B60FBC9A946F510EFFE42EDE5E"
   },
   "DE2D6A53316011B60FBC9A946F510EFFE42EDE5E": {
     "name": "Batman - Chaos in Gotham (USA)",
@@ -427,7 +445,8 @@
     "logo": "QmZEEk5hsRN9bdqgRwGnCdmBLB584X3y296FBdtzZmdBB6"
   },
   "47C8A56FA67D4982ED36FCA56EF0F33C451A0C49": {
-    "name": "Batman Beyond - Return of the Joker (Japan) (NP)"
+    "name": "Batman Beyond - Return of the Joker (Japan) (NP)",
+    "ref": "8C69EB7EC5BC809EDC8CAA255576F919EA722DAD"
   },
   "8C69EB7EC5BC809EDC8CAA255576F919EA722DAD": {
     "name": "Batman Beyond - Return of the Joker (USA)",
@@ -446,7 +465,8 @@
     "logo": "QmRFswmC9CeKppzednjZBPAiZLphLb4YqY7PNT4BRQ7iVv"
   },
   "D9F52594F79257DC616428A694C1F2C808797361": {
-    "name": "BattleTanx (Europe) (En,Fr,De)"
+    "name": "BattleTanx (Europe) (En,Fr,De)",
+    "ref": "5078584E86C0B6F4687C424CC00BBD762BA6573A"
   },
   "5078584E86C0B6F4687C424CC00BBD762BA6573A": {
     "name": "BattleTanx (USA)",
@@ -469,7 +489,8 @@
     "name": "Beatmania GB 2 - Gotcha Mix (Japan) (SGB Enhanced) (GB Compatible)"
   },
   "2DD29D52972948724F989008F7896D0ADCBA67C4": {
-    "name": "Beauty and the Beast - A Board Game Adventure (Europe) (En,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)"
+    "name": "Beauty and the Beast - A Board Game Adventure (Europe) (En,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)",
+    "ref": "6D389C7AFF887D7FFE3739E78753CF81CC71D04C"
   },
   "6D389C7AFF887D7FFE3739E78753CF81CC71D04C": {
     "name": "Beauty and the Beast - A Board Game Adventure (USA, Australia) (SGB Enhanced) (GB Compatible)",
@@ -536,13 +557,16 @@
     "logo": "QmawNhpAB5hcGSdPjGwu28H5guJ7gScyLgws2vR2S8hNmR"
   },
   "167561998C356253C7092AD200DD1BC5386446A7": {
-    "name": "Bob the Builder - Fix it Fun! (Europe) (En,Fr,De,Es,Nl)"
+    "name": "Bob the Builder - Fix it Fun! (Europe) (En,Fr,De,Es,Nl)",
+    "ref": "68BD9A1932D4E5333AB5B4DFE0D28F126E5D470F"
   },
   "476C75CBC05431E692DEC8F4E10BCEE9D3F5431A": {
-    "name": "Bob the Builder - Fix it Fun! (Europe) (En,Fr,It)"
+    "name": "Bob the Builder - Fix it Fun! (Europe) (En,Fr,It)",
+    "ref": "68BD9A1932D4E5333AB5B4DFE0D28F126E5D470F"
   },
   "DF4993587CFF869C4824A5A771DB5C26A748C9EA": {
-    "name": "Bob the Builder - Fix it Fun! (Europe) (En,Sv,No,Da,Fi)"
+    "name": "Bob the Builder - Fix it Fun! (Europe) (En,Sv,No,Da,Fi)",
+    "ref": "68BD9A1932D4E5333AB5B4DFE0D28F126E5D470F"
   },
   "68BD9A1932D4E5333AB5B4DFE0D28F126E5D470F": {
     "name": "Bob the Builder - Fix it Fun! (USA)",
@@ -581,10 +605,12 @@
     "name": "Bomberman Max - Yami no Senshi (Japan)"
   },
   "088ACE0CFD6B3AA637B96C01106F6B1D88BA53FA": {
-    "name": "Bomberman Quest (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)"
+    "name": "Bomberman Quest (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)",
+    "ref": "4436F6EE03F7A8B2F235B64E26400C0E951D8A3A"
   },
   "B1187036734C40606CB1D5E35A6C120EE618E491": {
-    "name": "Bomberman Quest (Japan) (SGB Enhanced) (GB Compatible)"
+    "name": "Bomberman Quest (Japan) (SGB Enhanced) (GB Compatible)",
+    "ref": "4436F6EE03F7A8B2F235B64E26400C0E951D8A3A"
   },
   "4436F6EE03F7A8B2F235B64E26400C0E951D8A3A": {
     "name": "Bomberman Quest (USA) (SGB Enhanced) (GB Compatible)",
@@ -609,7 +635,8 @@
     "logo": "Qmc6APBjAbA3RLPk2L93RWoHNxKkkRXSKLqo38Z8kR2ozZ"
   },
   "DFC7B45C8F2D45CBF5C7578294CA569D2CF22DCD": {
-    "name": "Bug's Life, A (Europe) (SGB Enhanced) (GB Compatible)"
+    "name": "Bug's Life, A (Europe) (SGB Enhanced) (GB Compatible)",
+    "ref": "4C689CE3B99A5B585A452B095D72A688391EA0EB"
   },
   "4C689CE3B99A5B585A452B095D72A688391EA0EB": {
     "name": "Bug's Life, A (USA) (SGB Enhanced) (GB Compatible)",
@@ -617,7 +644,8 @@
     "logo": "QmeCk293pud3YCpEpX9Sx3FrMcSRnUqXg1U8JDhaKhdWXZ"
   },
   "403356D76A267D79FA5B72158DE4E280B970160B": {
-    "name": "Bugs Bunny - Crazy Castle 3 (Japan) (GB Compatible)"
+    "name": "Bugs Bunny - Crazy Castle 3 (Japan) (GB Compatible)",
+    "ref": "F4AC94B7F59191F8D4ADC1B5B5AC39BEE5DFD064"
   },
   "F4AC94B7F59191F8D4ADC1B5B5AC39BEE5DFD064": {
     "name": "Bugs Bunny - Crazy Castle 3 (USA, Europe) (GB Compatible)",
@@ -634,7 +662,8 @@
     "name": "Bugs Bunny et le Chateau des Catastrophes (France)"
   },
   "3654F532A77035B3FC5BF7B0E1AE6941FC649B6A": {
-    "name": "Bugs Bunny in - Crazy Castle 4 (Europe)"
+    "name": "Bugs Bunny in - Crazy Castle 4 (Europe)",
+    "ref": "A22B9765E901B2A23A48C44B0B829AB73B9C1A82"
   },
   "A22B9765E901B2A23A48C44B0B829AB73B9C1A82": {
     "name": "Bugs Bunny in - Crazy Castle 4 (USA)",
@@ -674,7 +703,8 @@
     "logo": "QmQxpqKYBwwnMGadwynQDigZ82mTUmpRNaBydj1eF2YSx1"
   },
   "9A6901CAD65E6D0CE89AF8442688FEC6A9FEDD43": {
-    "name": "Cannon Fodder (Europe) (En,Fr,De,Es,It)"
+    "name": "Cannon Fodder (Europe) (En,Fr,De,Es,It)",
+    "ref": "CC601984A2B52B44CF135E42BCAC1BEC44B7A6A3"
   },
   "CC601984A2B52B44CF135E42BCAC1BEC44B7A6A3": {
     "name": "Cannon Fodder (USA) (En,Fr,De,Es,It)",
@@ -682,7 +712,8 @@
     "logo": "QmQYy5HMNeawV2VXRooHtpoQ6pED59fxNMEiHdVig8fg2q"
   },
   "CEE465F6987C2D580CC96FAC703025989208E683": {
-    "name": "Cannon Fodder (Europe) (En,Fr,De,Es,It) (Beta)"
+    "name": "Cannon Fodder (Europe) (En,Fr,De,Es,It) (Beta)",
+    "ref": "CC601984A2B52B44CF135E42BCAC1BEC44B7A6A3"
   },
   "376BCD39491FE275A3773716FFAF0259E4852340": {
     "name": "Captain Buzz Lightyear - Star Command (Germany)"
@@ -703,7 +734,8 @@
     "name": "Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan)"
   },
   "76E898C00F47628710EAEF7551A7D1FE04E2A2BC": {
-    "name": "Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "0A94857F23640B36117B7BFE4CE7CC291DA63C58"
   },
   "0A94857F23640B36117B7BFE4CE7CC291DA63C58": {
     "name": "Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)",
@@ -711,10 +743,12 @@
     "logo": "QmUxVBjgd188TkiToCx9PQziRMsxQ1nj4hMBfGAEgHshuz"
   },
   "9F41F86214031DAD6440206863BFFC13C3E61FC4": {
-    "name": "Carmageddon - Carpocalypse Now (USA, Europe) (En,Es) (Beta)"
+    "name": "Carmageddon - Carpocalypse Now (USA, Europe) (En,Es) (Beta)",
+    "ref": "DF37636BBD57A426E23D21581376D7E3A87C7933"
   },
   "505B29E070CE034B179169D834ABB3969E84C7E0": {
-    "name": "Carmageddon - Carpocalypse Now (Germany)"
+    "name": "Carmageddon - Carpocalypse Now (Germany)",
+    "ref": "DF37636BBD57A426E23D21581376D7E3A87C7933"
   },
   "DF37636BBD57A426E23D21581376D7E3A87C7933": {
     "name": "Carmageddon - Carpocalypse Now (USA, Europe) (En,Fr,Es,It)",
@@ -725,10 +759,12 @@
     "name": "Carnivale (USA) (Proto)"
   },
   "1A964811C1D808403C4BAE1ADC7B7F78BF610399": {
-    "name": "Casper (Europe) (En,Es,It)"
+    "name": "Casper (Europe) (En,Es,It)",
+    "ref": "82AC50380C3ED39FAD13CC0BBE35E6457806A294"
   },
   "0A8560A35157DC5270309A7B4C0227E2F2A8C461": {
-    "name": "Casper (Europe) (En,Fr,De)"
+    "name": "Casper (Europe) (En,Fr,De)",
+    "ref": "82AC50380C3ED39FAD13CC0BBE35E6457806A294"
   },
   "82AC50380C3ED39FAD13CC0BBE35E6457806A294": {
     "name": "Casper (USA)",
@@ -741,7 +777,8 @@
     "logo": "QmYDstVg67QBgyVs3pUu9HDQn3R9ooPbSXCg2DQXBRmyGB"
   },
   "E2446731ABEF2A3C78A0BFA5D2BBDA0084B7B3EA": {
-    "name": "Catwoman (Europe)"
+    "name": "Catwoman (Europe)",
+    "ref": "C6F364D15FE9C0982B6A03EE67FD463DC32E7ED0"
   },
   "C6F364D15FE9C0982B6A03EE67FD463DC32E7ED0": {
     "name": "Catwoman (USA)",
@@ -749,7 +786,8 @@
     "logo": "QmZobpfuyvLV57yvzZ5Mqzqi7KwQohNBT36DJjtNgSL9yp"
   },
   "16B749D0C57C6D837364B3C55A353647304A55A0": {
-    "name": "Catz (Europe)"
+    "name": "Catz (Europe)",
+    "ref": "5C3C9A4D85A92779C7E8304F2C122296F62F9A9C"
   },
   "5C3C9A4D85A92779C7E8304F2C122296F62F9A9C": {
     "name": "Catz (USA)",
@@ -757,7 +795,8 @@
     "logo": "QmUtSBAuA9yVwjw2784Eys2qc8diG88tzyfNmHxUtwc7ez"
   },
   "F8D2A8EAB2A8A76A51006D438849509837F008D3": {
-    "name": "Centipede (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
+    "name": "Centipede (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)",
+    "ref": "3E964FB53517C286B97375E6988208987F7BFA21"
   },
   "3E964FB53517C286B97375E6988208987F7BFA21": {
     "name": "Centipede (USA) (GB Compatible)",
@@ -773,7 +812,8 @@
     "logo": "QmQMmJDxGFZ9t9oLVF4PEe6zoMozcmmKRwAhnXhCgmcfqz"
   },
   "E8770AEB76042FE5001DD48F55379350FA092A6F": {
-    "name": "Chase H.Q. - Secret Police (Europe) (SGB Enhanced) (GB Compatible)"
+    "name": "Chase H.Q. - Secret Police (Europe) (SGB Enhanced) (GB Compatible)",
+    "ref": "030B45EB8929C1512826F288E4BA035E0083505C"
   },
   "030B45EB8929C1512826F288E4BA035E0083505C": {
     "name": "Chase H.Q. - Secret Police (USA) (SGB Enhanced) (GB Compatible)",
@@ -809,7 +849,8 @@
     "name": "Choro Q - Hyper Customable GB (Japan) (SGB Enhanced) (GB Compatible)"
   },
   "3C52B09072077C210AF93E4B13C3EE0886676F83": {
-    "name": "Classic Bubble Bobble (Europe) (SGB Enhanced) (GB Compatible)"
+    "name": "Classic Bubble Bobble (Europe) (SGB Enhanced) (GB Compatible)",
+    "ref": "6E3739C0538467C220750F2E8D474433692BAC09"
   },
   "6E3739C0538467C220750F2E8D474433692BAC09": {
     "name": "Classic Bubble Bobble (USA) (SGB Enhanced) (GB Compatible)",
@@ -985,10 +1026,12 @@
     "name": "Deja Vu I & II (Japan)"
   },
   "10C2ED4098A07979426D359DA57A5289C6BC73FE": {
-    "name": "Deja Vu I & II - The Casebooks of Ace Harding (Europe) (En,Fr)"
+    "name": "Deja Vu I & II - The Casebooks of Ace Harding (Europe) (En,Fr)",
+    "ref": "63266FC1F0A14678D5CD5DD1C5E3658EF4A944C3"
   },
   "ED1A11E2A02FC11D6B58DEDF65CE57EEB430E6E3": {
-    "name": "Deja Vu I & II - The Casebooks of Ace Harding (Europe) (Fr,De)"
+    "name": "Deja Vu I & II - The Casebooks of Ace Harding (Europe) (Fr,De)",
+    "ref": "63266FC1F0A14678D5CD5DD1C5E3658EF4A944C3"
   },
   "63266FC1F0A14678D5CD5DD1C5E3658EF4A944C3": {
     "name": "Deja Vu I & II - The Casebooks of Ace Harding (USA)",
@@ -1021,7 +1064,8 @@
     "name": "Dino Breeder 4 (Japan) (SGB Enhanced) (GB Compatible)"
   },
   "9123D3528BF295C5CBA4284CA276AF23A32EC725": {
-    "name": "Dinosaur (Europe) (En,Fr,De,Es,It)"
+    "name": "Dinosaur (Europe) (En,Fr,De,Es,It)",
+    "ref": "F566C37AB95537D88F6D1AB91804F47F7C0B4027"
   },
   "F566C37AB95537D88F6D1AB91804F47F7C0B4027": {
     "name": "Dinosaur (USA)",
@@ -1029,7 +1073,8 @@
     "logo": "QmZ2jvBqZAiHGBqrQQKx8v6HXUEL6m1w2NwxakTpGE7GYG"
   },
   "E8042138B56777733E8E9E397EA084CF61383CD9": {
-    "name": "Dinosaur (USA) (Beta)"
+    "name": "Dinosaur (USA) (Beta)",
+    "ref": "F566C37AB95537D88F6D1AB91804F47F7C0B4027"
   },
   "D0CAF4B5172651AEE2BBE38EFDAE084CE3D7A7FF": {
     "name": "Dinosaur'us (Europe) (En,Fr,De,Es,It,Nl)",
@@ -1051,7 +1096,8 @@
     "logo": "QmcBX2n2HDC5znrnMhMqHbCs326Rhdtosvbdr5rvQtJmaJ"
   },
   "AD1E238F180EAA55B4C76CD39A03A88F28DC9649": {
-    "name": "Dogz (Europe)"
+    "name": "Dogz (Europe)",
+    "ref": "D0D4C661E2CED3664FF07B15F2FB2C57A63D2DAD"
   },
   "D0D4C661E2CED3664FF07B15F2FB2C57A63D2DAD": {
     "name": "Dogz (USA)",
@@ -1087,7 +1133,8 @@
     "logo": "Qmc63syuiWzijwe9BsJF1jyJi98tut1YCMtfWs5yw9jay6"
   },
   "6B21D4D43FE8AC234E7FB81A167F313CF044D5B6": {
-    "name": "Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It) (Sample)"
+    "name": "Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It) (Sample)",
+    "ref": "32522DFCE902D564E69348541348AFC054307F65"
   },
   "55B133B739A5472D477336647CB9EC97B7FA85A2": {
     "name": "Donkey Kong GB - Dinky Kong & Dixie Kong (Japan)"
@@ -1126,7 +1173,8 @@
     "name": "Doug - La Grande Aventure (France)"
   },
   "DF95173E91CD83BF7CB617629541C815E1AD3577": {
-    "name": "Doug's Big Game (Germany)"
+    "name": "Doug's Big Game (Germany)",
+    "ref": "BE8B0F966A43954084244CCD636AD3BB5A8B721C"
   },
   "BE8B0F966A43954084244CCD636AD3BB5A8B721C": {
     "name": "Doug's Big Game (USA)",
@@ -1134,13 +1182,15 @@
     "logo": "QmWYxqpksVN3xRZp19qVKFnQXpYct7ZXxrgf26FQT6yxdk"
   },
   "E9C207BB9B03B5762AFD53C8F5295703CC1474B1": {
-    "name": "Doug's Big Game (Europe)"
+    "name": "Doug's Big Game (Europe)",
+    "ref": "BE8B0F966A43954084244CCD636AD3BB5A8B721C"
   },
   "7810EA39EDD661D2A9E95F57C9847D7E5A172FF6": {
     "name": "Dr. Rin ni Kiitemite! - Koi no Rin Fuusui (Japan)"
   },
   "815F252F761E0FD3F29B7ACF32B2360264AEFAB1": {
-    "name": "Dracula - Crazy Vampire (Europe) (En,Fr,De,Es,It)"
+    "name": "Dracula - Crazy Vampire (Europe) (En,Fr,De,Es,It)",
+    "ref": "049727B428B01C5309A86039007C97BED7BF856A"
   },
   "049727B428B01C5309A86039007C97BED7BF856A": {
     "name": "Dracula - Crazy Vampire (USA)",
@@ -1160,7 +1210,8 @@
     "name": "Dragon Ball Z - Legendaere Superkaempfer (Germany)"
   },
   "C190D34BEAC5157E98076D6A94FFA3033579B7A2": {
-    "name": "Dragon Ball Z - Legendary Super Warriors (Europe)"
+    "name": "Dragon Ball Z - Legendary Super Warriors (Europe)",
+    "ref": "E8184E1AE44D744AA54A082BD9979A46E144E6FB"
   },
   "E8184E1AE44D744AA54A082BD9979A46E144E6FB": {
     "name": "Dragon Ball Z - Legendary Super Warriors (USA)",
@@ -1205,7 +1256,8 @@
     "logo": "QmTMbj8whbo2SH29UZNcFEWEmhropnEwQgyW5yErSDgBKY"
   },
   "FA30510EB396143B3B0025005EE82DE207562E65": {
-    "name": "Dragon Tales - Dragon Wings (Europe)"
+    "name": "Dragon Tales - Dragon Wings (Europe)",
+    "ref": "DE220565BFDD27E48DE4BA886CD3C135953140E5"
   },
   "DE220565BFDD27E48DE4BA886CD3C135953140E5": {
     "name": "Dragon Tales - Dragon Wings (USA)",
@@ -1259,7 +1311,8 @@
     "name": "DT - Lords of Genomes (Japan) (SGB Enhanced) (GB Compatible)"
   },
   "665961E875350D9335E467C2AD752A4DD3DCAEF4": {
-    "name": "Duke Nukem (Europe) (En,Fr,De,Es,It)"
+    "name": "Duke Nukem (Europe) (En,Fr,De,Es,It)",
+    "ref": "B9BD0CFE64A7F40C243BC65E0489B5187AD11560"
   },
   "B9BD0CFE64A7F40C243BC65E0489B5187AD11560": {
     "name": "Duke Nukem (USA) (En,Fr,De,Es,It)",
@@ -1267,7 +1320,8 @@
     "logo": "QmXgU2bqqhvbGT5HTSzxQj4Co63PsmVc9rDY825YeXGZuz"
   },
   "782337F5338A242BC8CBAEB69CE7F1E87BB0F6B9": {
-    "name": "Dukes of Hazzard, The - Racing for Home (Europe) (En,Fr,De)"
+    "name": "Dukes of Hazzard, The - Racing for Home (Europe) (En,Fr,De)",
+    "ref": "6A39DFBCE8B86DB84615CDB5FB24012CBBAC7B36"
   },
   "6A39DFBCE8B86DB84615CDB5FB24012CBBAC7B36": {
     "name": "Dukes of Hazzard, The - Racing for Home (USA)",
@@ -1292,7 +1346,8 @@
     "logo": "QmVULQ2YQC8FmuxEhHzCZDSPMQaYr3EKtzueSA1K25ETzm"
   },
   "95FD6B8F5B4F550D6E28F21F23E2E0794176D9B7": {
-    "name": "E.T. - The Extra-Terrestrial - Escape from Planet Earth (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "E.T. - The Extra-Terrestrial - Escape from Planet Earth (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "D90E6A76A6CADC4B364F36C01345A26E086ADB73"
   },
   "D90E6A76A6CADC4B364F36C01345A26E086ADB73": {
     "name": "E.T. - The Extra-Terrestrial - Escape from Planet Earth (USA)",
@@ -1300,7 +1355,8 @@
     "logo": "QmUzUjfUz2nTjuBnS2GM3nLN5LQ5PXNbq5T48bMEdwTYru"
   },
   "C4F4179F391FC57EA4DB3688D95F2D53533DB995": {
-    "name": "E.T. - The Extra-Terrestrial and the Cosmic Garden (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "E.T. - The Extra-Terrestrial and the Cosmic Garden (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "DA71B581F7415B6535AC4AF2E8FCCD2040C54215"
   },
   "DA71B581F7415B6535AC4AF2E8FCCD2040C54215": {
     "name": "E.T. - The Extra-Terrestrial and the Cosmic Garden (USA)",
@@ -1330,7 +1386,8 @@
     "name": "Elie no Atelier GB (Japan) (SGB Enhanced) (GB Compatible)"
   },
   "2F53318AA7F1C82DF95BF3DA6B29701A2C563D13": {
-    "name": "Emperor's New Groove, The (Europe) (En,Fr,De,Es,It)"
+    "name": "Emperor's New Groove, The (Europe) (En,Fr,De,Es,It)",
+    "ref": "BA663289BD5D9D09BC8B9AC2C1D38293DCBA9C02"
   },
   "BA663289BD5D9D09BC8B9AC2C1D38293DCBA9C02": {
     "name": "Emperor's New Groove, The (USA)",
@@ -1363,7 +1420,8 @@
     "name": "EuroSport XS Racing (Europe) (Proto) (Unl)"
   },
   "0841F55E18FE6E4A50DF826703DB22681169F2E7": {
-    "name": "Evel Knievel (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)"
+    "name": "Evel Knievel (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)",
+    "ref": "24CAC6AB0151B33D2B1FD06EE01931802FB98267"
   },
   "24CAC6AB0151B33D2B1FD06EE01931802FB98267": {
     "name": "Evel Knievel (USA) (GB Compatible)",
@@ -1386,7 +1444,8 @@
     "logo": "QmZc8PbAGQg1kSqcxjLCK4DoWFhjjfEsnZWzLPaNkQDPUt"
   },
   "9285BB4FBAB8678B65CC8736F43E4EA3895C1CF4": {
-    "name": "F-1 World Grand Prix (Europe) (Beta)"
+    "name": "F-1 World Grand Prix (Europe) (Beta)",
+    "ref": "16AA2E02E9B7F236F12A49C3224CA4CC89CDF98C"
   },
   "530AECAE5B89E580BE8A8D4827BE95522D8319C4": {
     "name": "F-18 Thunder Strike (USA, Europe)",
@@ -1404,7 +1463,8 @@
     "logo": "QmWHPpo4hvMhNj1AHoLKDRchFFvaJzzf9Z3xuDwdzRH7ZQ"
   },
   "4731A7442BBFF31C6D470B84938A3F148A4F1F6C": {
-    "name": "F1 Championship Season 2000 (Brazil) (En,Fr,De,Es,It)"
+    "name": "F1 Championship Season 2000 (Brazil) (En,Fr,De,Es,It)",
+    "ref": "DC566028E0E86F32D99D5B0846D4B113525BE0A2"
   },
   "E9616A53AB9474C0BB85451FF19B62BED9E7F1A4": {
     "name": "F1 Racing Championship (Europe) (En,Fr,De,Es,It) (Beta) (February, 2000)",
@@ -1412,13 +1472,16 @@
     "logo": "QmafWtFX1uB9bfXPsXUDKY13muUmJLkafpu2QMhxy3Wzsn"
   },
   "EA844051C0B5C6F9A6A8C472F4F67EE6B9B3D8E7": {
-    "name": "F1 Racing Championship (Europe) (En,Fr,De,Es,It)"
+    "name": "F1 Racing Championship (Europe) (En,Fr,De,Es,It)",
+    "ref": "E9616A53AB9474C0BB85451FF19B62BED9E7F1A4"
   },
   "CE114896DA10C8A0A14164CD9958922523491A59": {
-    "name": "F1 World Grand Prix II for Game Boy Color (Europe) (En,Fr,De,Es)"
+    "name": "F1 World Grand Prix II for Game Boy Color (Europe) (En,Fr,De,Es)",
+    "ref": "C39E33FD9D5F06BC8F0F74EAFB45FA0C254F9C84"
   },
   "B4D5E42C10C2BCD9204D282E9D91312F34FF768A": {
-    "name": "F1 World Grand Prix II for Game Boy Color (Japan) (En,Ja)"
+    "name": "F1 World Grand Prix II for Game Boy Color (Japan) (En,Ja)",
+    "ref": "C39E33FD9D5F06BC8F0F74EAFB45FA0C254F9C84"
   },
   "C39E33FD9D5F06BC8F0F74EAFB45FA0C254F9C84": {
     "name": "F1 World Grand Prix II for Game Boy Color (USA) (En,Fr,De,Es)",
@@ -1453,7 +1516,8 @@
     "logo": "QmZofrX9PxyVVVDdfeiBE4fLSmLvYUmrEauP7TP2zFfWYV"
   },
   "80EC102F3CF45602C6FACFFCDD44232650897DAB": {
-    "name": "Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It) (Beta)"
+    "name": "Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It) (Beta)",
+    "ref": "065851358F6720D4926FAA42B015DA68CAFA6C28"
   },
   "065851358F6720D4926FAA42B015DA68CAFA6C28": {
     "name": "Flintstones, The - Burgertime in Bedrock (USA)",
@@ -1461,7 +1525,8 @@
     "logo": "Qmc4LA1HY3qDBAoKpKAZEyRGkEDf5D4hAq2GV9qPe5bo4w"
   },
   "2F7FB1AFEDD6C9657715B45397DC5492E40DFE45": {
-    "name": "Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It)"
+    "name": "Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It)",
+    "ref": "065851358F6720D4926FAA42B015DA68CAFA6C28"
   },
   "3D538B78EF5F1238F47531C069921056B00E33B3": {
     "name": "Flipper & Lopaka (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)",
@@ -1495,13 +1560,16 @@
     "logo": "QmbEgKd2uBHDGVf9kPNsLYxgTU99gTHjaiEyrx4zLXSzvA"
   },
   "DB3D21977C17A505936D1E2FC3626A0B43ADDF16": {
-    "name": "Frogger (USA) (Rev 1) (GB Compatible)"
+    "name": "Frogger (USA) (Rev 1) (GB Compatible)",
+    "ref": "CF4801C7F82519344A50A25E35B1F5C7EE45C9A6"
   },
   "538D2FA68E2E877A80BBDF4D58B2B4DCF051C17C": {
-    "name": "Frogger (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
+    "name": "Frogger (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)",
+    "ref": "CF4801C7F82519344A50A25E35B1F5C7EE45C9A6"
   },
   "5B7C097A12A8408FD20B81289E03AD9EA2FD2691": {
-    "name": "Frogger (USA) (GB Compatible)"
+    "name": "Frogger (USA) (GB Compatible)",
+    "ref": "CF4801C7F82519344A50A25E35B1F5C7EE45C9A6"
   },
   "566E0AFB3A6F25342399A3E39F3FBCACEF68EB72": {
     "name": "Frogger 2 (USA)",
@@ -1509,7 +1577,8 @@
     "logo": "QmWpC2W2LhbB6PTTRVwmStQxKdMypY7Vxcv5jgBk8KESxS"
   },
   "0D5028CA6FCC10DF46D11CD4B56E5ADD1DC5E63E": {
-    "name": "Frogger 2 (USA) (Rev 1)"
+    "name": "Frogger 2 (USA) (Rev 1)",
+    "ref": "566E0AFB3A6F25342399A3E39F3FBCACEF68EB72"
   },
   "7FA5FBB94390876DEE807216C2097CDB42510EFE": {
     "name": "From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced) (GB Compatible)"
@@ -1667,7 +1736,8 @@
     "logo": "Qmawc9i3fkPmB3SonZ8VyB24wiiNK6PtHoj53RPiX8mjpG"
   },
   "A9E2D5E1FD5D3993ACB87888D287612A09ECAA8B": {
-    "name": "Gift (Europe) (Sample)"
+    "name": "Gift (Europe) (Sample)",
+    "ref": "A8C6B7CA2E4ED75CF037625B603CFC8AB67C0AEF"
   },
   "F92997128F6BCE74F5E5C0787F98FA3D2B6C3133": {
     "name": "Gifty (Germany) (En)"
@@ -1684,7 +1754,8 @@
     "logo": "QmUb3ovtrg2vGSkZsoaVsdMXKKnPyaZvsU6ZZ3cxGoGEx5"
   },
   "05942143AC24489FC61AD9F8385E4D02E216804D": {
-    "name": "Godzilla - The Series (Europe) (En,Fr,De) (GB Compatible)"
+    "name": "Godzilla - The Series (Europe) (En,Fr,De) (GB Compatible)",
+    "ref": "56EC20CF1F2613BC2DCDF88D27E8AF7378F7D334"
   },
   "56EC20CF1F2613BC2DCDF88D27E8AF7378F7D334": {
     "name": "Godzilla - The Series (USA) (En,Fr,De) (GB Compatible)",
@@ -1692,7 +1763,8 @@
     "logo": "QmVFGu8vMrsj6Y2dmm1APWqn7E1CaXEgjRD3u4vYrxekcK"
   },
   "829C7EFB45A9E32EE63CD6C9FE5716E457BE7222": {
-    "name": "Godzilla - The Series - Monster Wars (Europe) (En,Fr,De)"
+    "name": "Godzilla - The Series - Monster Wars (Europe) (En,Fr,De)",
+    "ref": "4137C24412DEB560F2DAB36F55C89253CA750B26"
   },
   "4137C24412DEB560F2DAB36F55C89253CA750B26": {
     "name": "Godzilla - The Series - Monster Wars (USA) (En,Fr,De)",
@@ -1700,7 +1772,8 @@
     "logo": "Qmanx1N9rMJnNSCp4V1yC4FXU5ZAGkLmxXbz6Ca9qoMESQ"
   },
   "89487F0B06A261BB2D3DD64D2A40C42ED9B4F63F": {
-    "name": "Gold and Glory - The Road to El Dorado (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Gold and Glory - The Road to El Dorado (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "D78B266757F8C2F53B0E8679161B1BF7828D9045"
   },
   "D78B266757F8C2F53B0E8679161B1BF7828D9045": {
     "name": "Gold and Glory - The Road to El Dorado (USA)",
@@ -1713,7 +1786,8 @@
     "logo": "QmXXRRJ1sffXQWcvYT1BS49TVinRdiGr6cf1wETwLbtGTq"
   },
   "ABA65E7ECA59F6FD90D4266DF1478BAD68D1E74E": {
-    "name": "Golden Goal (Germany) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)"
+    "name": "Golden Goal (Germany) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)",
+    "ref": "1501EA3BB5AA70562306F6DF40E5B61CEA93DE7E"
   },
   "D245A267B1B1D056E0F5AF4BA732C66C8DEADDE2": {
     "name": "Golf Daisuki! (Japan) (SGB Enhanced) (GB Compatible)"
@@ -1737,7 +1811,8 @@
     "name": "Grand Casino (Japan) (Proto)"
   },
   "B6C1693BA5BF2C914D910E94286BDA8F3FBD100E": {
-    "name": "Grand Theft Auto (Europe) (En,Fr,De,Es,It) (GB Compatible)"
+    "name": "Grand Theft Auto (Europe) (En,Fr,De,Es,It) (GB Compatible)",
+    "ref": "A0C9D9A95BF2CCECA7922F4375555B8EDEE9EA6B"
   },
   "A0C9D9A95BF2CCECA7922F4375555B8EDEE9EA6B": {
     "name": "Grand Theft Auto (USA) (GB Compatible)",
@@ -1745,7 +1820,8 @@
     "logo": "Qmdd1REhZ6A2ZpSFyuUjhCx2g5FSnQusHzVsoPyi2b22RA"
   },
   "A7577D81DE3AB03B93B364F9E775C303C842DAD2": {
-    "name": "Grand Theft Auto 2 (Europe) (En,Fr,De,Es,It)"
+    "name": "Grand Theft Auto 2 (Europe) (En,Fr,De,Es,It)",
+    "ref": "6FD4B31D410CA98452ADA0A1F3C0E2590E7DF099"
   },
   "6FD4B31D410CA98452ADA0A1F3C0E2590E7DF099": {
     "name": "Grand Theft Auto 2 (USA)",
@@ -1770,13 +1846,15 @@
     "logo": "QmVf1F49sHhppaMomRsiXZsh91HKVSX3LivYSvPiExUZqt"
   },
   "675623B58FA0D307355C77D7A4783AF7927681E9": {
-    "name": "Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt) (Beta)"
+    "name": "Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt) (Beta)",
+    "ref": "D18E30A434262F7BF46A8DB2E5F62CE19B7ECFAA"
   },
   "33412209EF2B952E82F5D0B3F7BB035EFEBCF480": {
     "name": "Grinch (Japan)"
   },
   "DF0ED2C6FAD2D511037AB9269571F24146103237": {
-    "name": "Grinch, The (Europe) (En,Fr,De)"
+    "name": "Grinch, The (Europe) (En,Fr,De)",
+    "ref": "84C2397FE07011511225B9D9F442F16C026576D3"
   },
   "84C2397FE07011511225B9D9F442F16C026576D3": {
     "name": "Grinch, The (USA)",
@@ -1834,7 +1912,8 @@
     "name": "Hamster Paradise 4 (Japan)"
   },
   "047D9DEDB77A448D31CD5DCE23F4C3DD8714DAFE": {
-    "name": "Hamtaro - Ham-Hams Unite! (Europe) (En,Fr,De,Es,It)"
+    "name": "Hamtaro - Ham-Hams Unite! (Europe) (En,Fr,De,Es,It)",
+    "ref": "9770BF59E932B41882839CE9EEC033F576094FEE"
   },
   "9770BF59E932B41882839CE9EEC033F576094FEE": {
     "name": "Hamtaro - Ham-Hams Unite! (USA)",
@@ -1877,10 +1956,12 @@
     "name": "Harry Potter to Kenja no Ishi (Japan)"
   },
   "4DC14FB6A6057B7FABBCF29BD21F331170F84420": {
-    "name": "Harvest Moon 2 GBC (Europe) (SGB Enhanced) (GB Compatible)"
+    "name": "Harvest Moon 2 GBC (Europe) (SGB Enhanced) (GB Compatible)",
+    "ref": "DA745AA63684F53FB3EE6C19463ED4C132441CCB"
   },
   "697179ECBFB138F1CEFF5DD3FF414DE06E12AD80": {
-    "name": "Harvest Moon 2 GBC (Germany) (SGB Enhanced) (GB Compatible)"
+    "name": "Harvest Moon 2 GBC (Germany) (SGB Enhanced) (GB Compatible)",
+    "ref": "DA745AA63684F53FB3EE6C19463ED4C132441CCB"
   },
   "DA745AA63684F53FB3EE6C19463ED4C132441CCB": {
     "name": "Harvest Moon 2 GBC (USA) (SGB Enhanced) (GB Compatible)",
@@ -1924,7 +2005,8 @@
     "logo": "QmawkV7fWYbZ628fKRiRfVgmRsdnRJbVYnhwUc419Tswz5"
   },
   "2225DA8A68E489C0F562AFCB8E90FC9387321AF0": {
-    "name": "Hello Kitty's Cube Frenzy (Europe) (Proto)"
+    "name": "Hello Kitty's Cube Frenzy (Europe) (Proto)",
+    "ref": "6F15379553A0EC8A8174B85A35EAA4085DEC6B43"
   },
   "AE521E5011B2B67DE489374C3E9C5EC8AD8C0EE6": {
     "name": "Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)",
@@ -1940,7 +2022,8 @@
     "logo": "QmPRYihNoPuh7NfKCaYpPraDtoYn63St7zALoJbqW4ds4v"
   },
   "D6471849187EDCF68E61ED98558D9326A44CF2DC": {
-    "name": "Heroes of Might and Magic (Europe) (En,Fr,De)"
+    "name": "Heroes of Might and Magic (Europe) (En,Fr,De)",
+    "ref": "209D8A9CDD240A8C73D03D8575373BFA53948869"
   },
   "1D6AE18073C8B789C288039B0F579EBF15D1F03C": {
     "name": "Heroes of Might and Magic II (USA) (En,Fr,De)",
@@ -1969,7 +2052,8 @@
     "logo": "Qmb2VaEsCGg88Q6qVZmyGfjFkZmGPwxgqUiF2s9FPuGm3i"
   },
   "FF77EC892F2331E895774555183FB1CFFB88CA6E": {
-    "name": "Hollywood Pinball (Japan) (GB Compatible)"
+    "name": "Hollywood Pinball (Japan) (GB Compatible)",
+    "ref": "2D179E034DBD19E48AEE31FFDC504305444CC84A"
   },
   "01AD2928E923C415671E6306D6D73016A1CA7BB9": {
     "name": "Holy Magic Century (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)"
@@ -2026,7 +2110,8 @@
     "logo": "QmRRtMZrs2cZ9cJ5ZdC3VNzMV728iUbNZhzoShK48RcXwQ"
   },
   "7C7DCA7C48DC478D0278C273BA37723B9E9DCE5B": {
-    "name": "Hype - The Time Quest (Brazil)"
+    "name": "Hype - The Time Quest (Brazil)",
+    "ref": "8E26E7E2E64D4BF866B67387586FC5C4A9C56855"
   },
   "B8B0EA6E8A1093E7171FFE0EFF73967A6CC00BCE": {
     "name": "Hyper Olympic - Winter 2000 (Japan)"
@@ -2046,7 +2131,8 @@
     "name": "Infinity (USA) (Proto) (2001-03-22)"
   },
   "55C02B81FA854938CA3CB3E5B725A6A72F711E7B": {
-    "name": "Inspector Gadget - Operation Madkactus (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Inspector Gadget - Operation Madkactus (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "B0FA81A35E605948DF3B7F1FCB5893BAB99D9D6A"
   },
   "B0FA81A35E605948DF3B7F1FCB5893BAB99D9D6A": {
     "name": "Inspector Gadget - Operation Madkactus (USA)",
@@ -2064,7 +2150,8 @@
     "logo": "QmNT8x4ERp2BdXmMCDJjkEGDwuxejgAjX2oHhKg3X7nSDo"
   },
   "3EF4ADAFF3A9D36DC6986A5944280162768C441D": {
-    "name": "International Superstar Soccer 2000 (Europe)"
+    "name": "International Superstar Soccer 2000 (Europe)",
+    "ref": "117415D3620FAB07066CD5A3FFB438D05BFD940A"
   },
   "117415D3620FAB07066CD5A3FFB438D05BFD940A": {
     "name": "International Superstar Soccer 2000 (USA)",
@@ -2077,10 +2164,12 @@
     "logo": "QmW9YNQBLrpc2RADSF9i1EoAh713yeNF14844pXbaxRo37"
   },
   "6F491E6F919A677627090F949B8E69ABB8BFD1DB": {
-    "name": "International Superstar Soccer 99 (USA) (SGB Enhanced) (GB Compatible)"
+    "name": "International Superstar Soccer 99 (USA) (SGB Enhanced) (GB Compatible)",
+    "ref": "D9D9FFFB463D4C35F8A1A753908CDDFBE17FC671"
   },
   "3AECAC0876DAC69E9E1FB6F6C311D0AF050F1F48": {
-    "name": "International Track & Field (Europe) (En,Fr,De,It) (SGB Enhanced) (GB Compatible)"
+    "name": "International Track & Field (Europe) (En,Fr,De,It) (SGB Enhanced) (GB Compatible)",
+    "ref": "80B7591470D0A26FE7CF5C80C8BFF5D34F79F569"
   },
   "80B7591470D0A26FE7CF5C80C8BFF5D34F79F569": {
     "name": "International Track & Field (USA) (SGB Enhanced) (GB Compatible)",
@@ -2134,7 +2223,8 @@
     "name": "Jibaku-kun - Rei no Itsuki no Kajitsu (Japan) (Proto)"
   },
   "A5C2BB5244FE0FD6D2710C832F66F8F8B8C2BBAB": {
-    "name": "Jim Henson's Bear in the Big Blue House (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Jim Henson's Bear in the Big Blue House (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "E4C1C58025A083C067F752490C1FBD816C93D072"
   },
   "E4C1C58025A083C067F752490C1FBD816C93D072": {
     "name": "Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)",
@@ -2142,7 +2232,8 @@
     "logo": "QmT4FMz7V5rCNgrNFRaRKQ4vayD7fRFUgT7fDBwQQ1yUz8"
   },
   "DC9288BC4B2A2093EA298514A91C3B2B4101691B": {
-    "name": "Jim Henson's Muppets (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+    "name": "Jim Henson's Muppets (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+    "ref": "77AD190AD107C57B167E3837757A4C7F990A867E"
   },
   "77AD190AD107C57B167E3837757A4C7F990A867E": {
     "name": "Jim Henson's Muppets (USA)",
@@ -2150,7 +2241,8 @@
     "logo": "QmR2j9gvXtMwhstVYbfBDYmaziK4vm8kFofRoftXNePG3i"
   },
   "6E042FC6029493A429557A6FDCE111C03F9EDE1B": {
-    "name": "Jim Henson's Muppets (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)"
+    "name": "Jim Henson's Muppets (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)",
+    "ref": "77AD190AD107C57B167E3837757A4C7F990A867E"
   },
   "ED9A76A235EDD862F642B4DC974CD37126A267A8": {
     "name": "Jimmy White's Cueball (Europe)",
@@ -2175,7 +2267,8 @@
     "logo": "QmZapUUYwuX19g3h7yBoQixuyWQJEdh6cnXLdrngM6rJ4e"
   },
   "B699FC3BC587E5DF25235A6C7F74FEC307F476FE": {
-    "name": "John Romero's Daikatana (Europe) (Fr,De,Es)"
+    "name": "John Romero's Daikatana (Europe) (Fr,De,Es)",
+    "ref": "A5C5B52247B2AB78CD9CAD19AA752E07C3DF86EF"
   },
   "A332817B9561DCAB7D1F3DC0CF300E1656B253C3": {
     "name": "Joryuu Janshi ni Chousen GB - Watashi-tachi ni Chousen Shitene! (Japan) (SGB Enhanced) (GB Compatible)"
@@ -2186,7 +2279,8 @@
     "logo": "Qmei4bZLbxXpouRa6hpzWhPv2AwjHC2BmPEEvQVJgBxc37"
   },
   "960F8E7E7C72F3466EED4EBFA87FBF3B18053745": {
-    "name": "Jungle Book, The - Mowgli's Wild Adventure (Europe) (En,Fr,De,Es,It)"
+    "name": "Jungle Book, The - Mowgli's Wild Adventure (Europe) (En,Fr,De,Es,It)",
+    "ref": "A76A8692246893545663BE9D1E4A6F2C1370ED09"
   },
   "A76A8692246893545663BE9D1E4A6F2C1370ED09": {
     "name": "Jungle Book, The - Mowgli's Wild Adventure (USA) (En,Fr,De,Es,It)",
@@ -2330,7 +2424,8 @@
     "logo": "QmXwWHtZ8446EEWMktv1AfFthmy2FjAEnK623ugiGzVfCo"
   },
   "B78D832E5D39180D84BF13DDE81B923717CB35AA": {
-    "name": "Klustar (Europe) (En,Fr,De,Es,It) (GB Compatible)"
+    "name": "Klustar (Europe) (En,Fr,De,Es,It) (GB Compatible)",
+    "ref": "096748F23F61E83837568C4070A34572D11FF48E"
   },
   "096748F23F61E83837568C4070A34572D11FF48E": {
     "name": "Klustar (USA) (GB Compatible)",
@@ -2338,7 +2433,8 @@
     "logo": "Qmam8F2fPzsQo8HAvvRSf1LFDYYEfMpBWHwxXAX58FxwZP"
   },
   "9C60C858F647B42007FC27C5D21F3F57923C4CDA": {
-    "name": "Klustar (Japan) (Proto)"
+    "name": "Klustar (Japan) (Proto)",
+    "ref": "096748F23F61E83837568C4070A34572D11FF48E"
   },
   "A04D86A384C5C417BF9F1219EB14829D0459F469": {
     "name": "Knockout Kings (USA, Europe)",
@@ -2396,7 +2492,8 @@
     "name": "Koushien Pocket (Japan) (SGB Enhanced) (GB Compatible)"
   },
   "9D7A8B923116093B9EE9415603A4AC9D15DCF8E3": {
-    "name": "Land Before Time, The (Europe) (En,Fr,De,Es,It)"
+    "name": "Land Before Time, The (Europe) (En,Fr,De,Es,It)",
+    "ref": "320524E7EE7061AF3BB6E89A0C4B68C517A75752"
   },
   "320524E7EE7061AF3BB6E89A0C4B68C517A75752": {
     "name": "Land Before Time, The (USA)",
@@ -2409,7 +2506,8 @@
     "logo": "QmfJ7it7WaH5r7qDW6z8VD7W3HyyYHgBEmbSVKrsRsarne"
   },
   "47E5C4C7FA447EFC8A0ABF019E8D2CD227C5E0E3": {
-    "name": "Laura (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"
+    "name": "Laura (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+    "ref": "3FE3EB99EE818C94E9A07E19640AF6A2AAD33903"
   },
   "3FE3EB99EE818C94E9A07E19640AF6A2AAD33903": {
     "name": "Laura (USA)",
@@ -2417,13 +2515,15 @@
     "logo": "QmYCQQhooWAV9WzDhvWMajRouKPEpYuBqjecyxJrCZKzYQ"
   },
   "772539821E4B703259B2E2AD535D74A03FA22760": {
-    "name": "Laura (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (Beta)"
+    "name": "Laura (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (Beta)",
+    "ref": "3FE3EB99EE818C94E9A07E19640AF6A2AAD33903"
   },
   "CB4847CD63C8CC52F04BF4D86D54954BE3D8FC1A": {
     "name": "Le Mans 24 Hours (Europe) (En,Fr,De,Es,It)"
   },
   "AE8EE704B968576CF2CD0A93DC5B42F8F63C48EB": {
-    "name": "Legend of the River King 2 (Europe) (SGB Enhanced) (GB Compatible)"
+    "name": "Legend of the River King 2 (Europe) (SGB Enhanced) (GB Compatible)",
+    "ref": "1155F2D5CC56C8275855B02A8B3826648CC5E904"
   },
   "1155F2D5CC56C8275855B02A8B3826648CC5E904": {
     "name": "Legend of the River King 2 (USA) (SGB Enhanced) (GB Compatible)",
@@ -2442,22 +2542,28 @@
     "logo": "QmZAbsvXQPwTJAkfgoaBW7gHP2TVudy8g2fEfwECZxkCUm"
   },
   "9A679E30B03E119A21AE7DAAC65E73E0EF4E0894": {
-    "name": "Legend of Zelda, The - Link's Awakening DX (France) (SGB Enhanced) (GB Compatible)"
+    "name": "Legend of Zelda, The - Link's Awakening DX (France) (SGB Enhanced) (GB Compatible)",
+    "ref": "1C091225688D966928CC74336DBEF2E07D12A47C"
   },
   "B5E4DF1A67432C609FA0F23519315297C6DCDC1D": {
-    "name": "Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (SGB Enhanced) (GB Compatible)"
+    "name": "Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (SGB Enhanced) (GB Compatible)",
+    "ref": "1C091225688D966928CC74336DBEF2E07D12A47C"
   },
   "8CD9D786547BFB3DDBE16AD2A84A36CF895AC16E": {
-    "name": "Legend of Zelda, The - Link's Awakening DX (Germany) (SGB Enhanced) (GB Compatible)"
+    "name": "Legend of Zelda, The - Link's Awakening DX (Germany) (SGB Enhanced) (GB Compatible)",
+    "ref": "1C091225688D966928CC74336DBEF2E07D12A47C"
   },
   "7F5C39FA297CB17ABF51C6F91FBDEBC9F07E3DE8": {
-    "name": "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (SGB Enhanced) (GB Compatible)"
+    "name": "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (SGB Enhanced) (GB Compatible)",
+    "ref": "1C091225688D966928CC74336DBEF2E07D12A47C"
   },
   "D90AC17E9BF17B6C61624AD9F05447BDB5EFC01A": {
-    "name": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (SGB Enhanced) (GB Compatible)"
+    "name": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (SGB Enhanced) (GB Compatible)",
+    "ref": "1C091225688D966928CC74336DBEF2E07D12A47C"
   },
   "363D184D9B1E9FAA5A2FACD80897B7E118446164": {
-    "name": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 1) (SGB Enhanced) (GB Compatible)"
+    "name": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 1) (SGB Enhanced) (GB Compatible)",
+    "ref": "1C091225688D966928CC74336DBEF2E07D12A47C"
   },
   "1C091225688D966928CC74336DBEF2E07D12A47C": {
     "name": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible)",
@@ -2465,7 +2571,8 @@
     "logo": "QmYcojTxE2pW76dW4zPTrTWYxhVr4nw68A8j1HqwXghucs"
   },
   "9F2DFF3C46406839F839A8D535353DFC1E3E8670": {
-    "name": "Legend of Zelda, The - Oracle of Ages (Europe) (En,Fr,De,Es,It)"
+    "name": "Legend of Zelda, The - Oracle of Ages (Europe) (En,Fr,De,Es,It)",
+    "ref": "880374FB978B18AF4AA529E2E32F7FFB4D7DD2F4"
   },
   "880374FB978B18AF4AA529E2E32F7FFB4D7DD2F4": {
     "name": "Legend of Zelda, The - Oracle of Ages (USA, Australia)",
@@ -2473,7 +2580,8 @@
     "logo": "QmVmnu4CRvWuvcHw54qmhRzBu1ZSiar8mNEdUYVLeiFkhd"
   },
   "360B9408E569BA826212EAC1EBEA1B09573CB48C": {
-    "name": "Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It)"
+    "name": "Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It)",
+    "ref": "BA1268290FB2B1B70505D2D7B5825FC8A4816A4B"
   },
   "BA1268290FB2B1B70505D2D7B5825FC8A4816A4B": {
     "name": "Legend of Zelda, The - Oracle of Seasons (USA, Australia)",
@@ -2481,7 +2589,8 @@
     "logo": "QmWHYsobQD1CJe8ANbfcSkToiC51qXw37wHXVTaGQtqUHZ"
   },
   "4BD3BF401E861FE9991A58B523622C68138274E6": {
-    "name": "LEGO Alpha Team (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)"
+    "name": "LEGO Alpha Team (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)",
+    "ref": "B5D521D5B7504442C886944A6FB7DD830A28B496"
   },
   "B5D521D5B7504442C886944A6FB7DD830A28B496": {
     "name": "LEGO Alpha Team (USA)",
@@ -2489,7 +2598,8 @@
     "logo": "QmdaxqnfFhzW3Ex7dydD2HrqzAdNUEoWsXMj55Ecmhjm32"
   },
   "B70A22669256735ABAE16A32BB5F8944CFF4A37C": {
-    "name": "LEGO Island 2 - The Brickster's Revenge (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)"
+    "name": "LEGO Island 2 - The Brickster's Revenge (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)",
+    "ref": "CD49BDE3C3641E34CFBC1D55FD08D54CCC5B099B"
   },
   "CD49BDE3C3641E34CFBC1D55FD08D54CCC5B099B": {
     "name": "LEGO Island 2 - The Brickster's Revenge (USA) (En,Fr,Es)",
@@ -2497,7 +2607,8 @@
     "logo": "QmXmMZqXgLKFGKG5HgZLfcdwTKGnjqjVGHjQ3dowHGU4Dr"
   },
   "25877740F157DB965A2CAF30F081A89B6C13DF23": {
-    "name": "LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)"
+    "name": "LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)",
+    "ref": "8E46D2920BCCC9A67FCFED404D0F8DD1BD9CB807"
   },
   "8E46D2920BCCC9A67FCFED404D0F8DD1BD9CB807": {
     "name": "LEGO Racers (USA) (En,Fr,Es)",
@@ -2505,7 +2616,8 @@
     "logo": "QmcXDG1X81qrwCpPr4b3k4VYpGQRidgjoWPUMkVeS3X6PY"
   },
   "32DC01DB6A5AF637E96A6D83895C352D920FBA04": {
-    "name": "LEGO Stunt Rally (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)"
+    "name": "LEGO Stunt Rally (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)",
+    "ref": "106CB59AC42C3573DCF27B448503AB4D3029D90A"
   },
   "106CB59AC42C3573DCF27B448503AB4D3029D90A": {
     "name": "LEGO Stunt Rally (USA)",
@@ -2534,7 +2646,8 @@
     "name": "Little Magic (Japan)"
   },
   "C84C653EADA20161C8D0AA966303B378FE5FEEF1": {
-    "name": "Little Mermaid II, The - Pinball Frenzy (Europe) (En,Fr,De,Es,It)"
+    "name": "Little Mermaid II, The - Pinball Frenzy (Europe) (En,Fr,De,Es,It)",
+    "ref": "0940A1A86127CF8228A6A015035D8189218F57DB"
   },
   "0940A1A86127CF8228A6A015035D8189218F57DB": {
     "name": "Little Mermaid II, The - Pinball Frenzy (USA) (En,Fr,De,Es,It) (Rumble Version)",
@@ -2542,7 +2655,8 @@
     "logo": "QmXGwMX1Cd7q7E2F5jGAJFYc7Wna9oRVeUtxWsfcsNbNQq"
   },
   "ED001B5792E1AFB35178E22D3ADF45BBF0C4D721": {
-    "name": "Little Mermaid II, The - Pinball Frenzy (Japan) (Proto)"
+    "name": "Little Mermaid II, The - Pinball Frenzy (Japan) (Proto)",
+    "ref": "0940A1A86127CF8228A6A015035D8189218F57DB"
   },
   "F2FA3AE6BB82EBF31C4863B64B330716BD839362": {
     "name": "Little Nicky (USA)",
@@ -2559,7 +2673,8 @@
     "name": "Lodoss-tou Senki - Eiyuu Kishiden GB (Japan) (SGB Enhanced) (GB Compatible)"
   },
   "BFCC97D28A0FE90521258DE9CDF75A8ABB5FBD0B": {
-    "name": "Logical (Europe)"
+    "name": "Logical (Europe)",
+    "ref": "3163071800753F29F2CE6142931356D8D6DFBE68"
   },
   "3163071800753F29F2CE6142931356D8D6DFBE68": {
     "name": "Logical (USA)",
@@ -2567,7 +2682,8 @@
     "logo": "QmTEV35z71QtH2G2M4AHW7yEEPyBW5FPcYjVG41AErKUVN"
   },
   "E631EAA8F7BE44A1F41E06878CA81BD3FA779F6B": {
-    "name": "Looney Tunes (Europe) (GB Compatible)"
+    "name": "Looney Tunes (Europe) (GB Compatible)",
+    "ref": "80A0E66754CE81A01385941459B9EA15A450B2B6"
   },
   "80A0E66754CE81A01385941459B9EA15A450B2B6": {
     "name": "Looney Tunes (USA) (GB Compatible)",
@@ -2602,7 +2718,8 @@
     "name": "Looney Tunes Collector - Martian Revenge! (Europe) (En,Fr,De,Es,It,Nl)"
   },
   "2552C1F0E864E1689E59F8D80837BFFDFFA211FA": {
-    "name": "Looney Tunes Racing (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Looney Tunes Racing (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "249759398FB9E484B00E0D5416DA2411C79D2D39"
   },
   "249759398FB9E484B00E0D5416DA2411C79D2D39": {
     "name": "Looney Tunes Racing (USA) (En,Fr,De,Es,It,Nl)",
@@ -2658,7 +2775,8 @@
     "name": "Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced) (GB Compatible)"
   },
   "36B59251751A55285DBEDC3BD4B33B2C73B811C9": {
-    "name": "Lucky Luke (Europe) (En,Fr,De,Es)"
+    "name": "Lucky Luke (Europe) (En,Fr,De,Es)",
+    "ref": "EBF61143A16BE4BFC0C99A7FEB9455685F86ACFA"
   },
   "EBF61143A16BE4BFC0C99A7FEB9455685F86ACFA": {
     "name": "Lucky Luke (USA) (En,Fr,De,Es)",
@@ -2671,7 +2789,8 @@
     "logo": "QmanYa9ZaG68FJR8eLeyhfQAhad184n6qd9cMsirrpACoz"
   },
   "10FAAEFBA4C97D8392BB0231CF898A77DB4F73F2": {
-    "name": "Lufia - The Legend Returns (Europe) (En,De)"
+    "name": "Lufia - The Legend Returns (Europe) (En,De)",
+    "ref": "9EB52C525620E7BDA619F2161961071E8996C0DB"
   },
   "9EB52C525620E7BDA619F2161961071E8996C0DB": {
     "name": "Lufia - The Legend Returns (USA)",
@@ -2679,10 +2798,12 @@
     "logo": "QmVJyAecroTmJ5zJm4vh2Bz9WhZciXzSrpmfZb5NvZgE3P"
   },
   "D0B18A3ACF9495DB5AF52B5C28DF4129F48010BF": {
-    "name": "M&M's Minis Madness (Europe)"
+    "name": "M&M's Minis Madness (Europe)",
+    "ref": "7CC20E133A66163C6DEC140E960B5BE3848CCD44"
   },
   "9CCC1F1F0B6BD65913E60E2F9B7D5F9859B46535": {
-    "name": "M&M's Minis Madness (Germany)"
+    "name": "M&M's Minis Madness (Germany)",
+    "ref": "7CC20E133A66163C6DEC140E960B5BE3848CCD44"
   },
   "7CC20E133A66163C6DEC140E960B5BE3848CCD44": {
     "name": "M&M's Minis Madness (USA)",
@@ -2690,7 +2811,8 @@
     "logo": "QmWF2kFygmjnw8huktdkYpt8vYs4fM66KTNGop4bWDC56F"
   },
   "2A0D0B7AA3B96B05BC020DA496F2CE08E8FAC190": {
-    "name": "M&M's Minis Madness (USA) (Sample)"
+    "name": "M&M's Minis Madness (USA) (Sample)",
+    "ref": "7CC20E133A66163C6DEC140E960B5BE3848CCD44"
   },
   "88746C361CFBDAC49E5D72807B396A6667C42229": {
     "name": "Macross 7 - Ginga no Heart o Furuwasero!! (Japan)"
@@ -2722,7 +2844,8 @@
     "name": "Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e (Japan)"
   },
   "8EF276F9C6A64D7CEC527BCBA8D1B7223DE0E01C": {
-    "name": "Magical Drop (Europe) (En,Fr,De)"
+    "name": "Magical Drop (Europe) (En,Fr,De)",
+    "ref": "2106B22776A87825D3EDB408503E719F4927C3E6"
   },
   "2106B22776A87825D3EDB408503E719F4927C3E6": {
     "name": "Magical Drop (USA)",
@@ -2730,10 +2853,12 @@
     "logo": "QmfU9Ei6CBjiJU3F4JUkr7EM8FhRAtFEpB9Eq6UuEFKkrK"
   },
   "3C315F3F77002456F09DF9643BE323608AE72088": {
-    "name": "Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+    "name": "Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+    "ref": "7CDB0BF463AD87EC8A68A564C3F03DBC890EDD7E"
   },
   "950B30B267B0F0B79D7E85E91B8536B096B6A1B2": {
-    "name": "Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev 1)"
+    "name": "Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev 1)",
+    "ref": "7CDB0BF463AD87EC8A68A564C3F03DBC890EDD7E"
   },
   "7CDB0BF463AD87EC8A68A564C3F03DBC890EDD7E": {
     "name": "Magical Tetris Challenge (USA)",
@@ -2767,7 +2892,8 @@
     "name": "Mario Family (Japan)"
   },
   "AE3AEC0D376C1BC5B83AE4C4C1E245C3AB2B9392": {
-    "name": "Mario Golf (Europe)"
+    "name": "Mario Golf (Europe)",
+    "ref": "7F2062E51B4FC87378C1D5E6B9578C9277B94E0B"
   },
   "7F2062E51B4FC87378C1D5E6B9578C9277B94E0B": {
     "name": "Mario Golf (USA)",
@@ -2778,7 +2904,8 @@
     "name": "Mario Golf GB (Japan)"
   },
   "550DCC99D0A56BBB13AE3ABB2A4193B830E54970": {
-    "name": "Mario Tennis (Europe)"
+    "name": "Mario Tennis (Europe)",
+    "ref": "414BA58340A27FC27B127BC01455B32764151FF0"
   },
   "414BA58340A27FC27B127BC01455B32764151FF0": {
     "name": "Mario Tennis (USA)",
@@ -2814,7 +2941,8 @@
     "logo": "QmdwVun99WTy9ptDuHQisPb7gsCom9tKXAJucJ27kh53kh"
   },
   "20FD1B3ED55A21FD6BF62A29EF8B57DDF1C0C73E": {
-    "name": "Mask of Zorro, The (Europe)"
+    "name": "Mask of Zorro, The (Europe)",
+    "ref": "134C03F90B21FACF8720783C5DCEFB182E3839EC"
   },
   "134C03F90B21FACF8720783C5DCEFB182E3839EC": {
     "name": "Mask of Zorro, The (USA)",
@@ -2922,7 +3050,8 @@
     "logo": "QmbkggqRHd7Ut51Tzh86HR7QBbYaoUS3AwcP9dMM3KRvhp"
   },
   "F1527FD7F82329EF676A6D475596E7D91C4065CC": {
-    "name": "Men in Black 2 - The Series (Europe) (En,Fr,De)"
+    "name": "Men in Black 2 - The Series (Europe) (En,Fr,De)",
+    "ref": "CCFB89824E81D128A26A38F3E2C49AAE1E9752ED"
   },
   "CCFB89824E81D128A26A38F3E2C49AAE1E9752ED": {
     "name": "Men in Black 2 - The Series (USA) (En,Fr,De)",
@@ -2941,7 +3070,8 @@
     "name": "Metal Gear - Ghost Babel (Japan)"
   },
   "488BFF9C4CEE9E692A05B3938FD7B2014E743EAC": {
-    "name": "Metal Gear Solid (Europe) (En,Fr,De,Es,It)"
+    "name": "Metal Gear Solid (Europe) (En,Fr,De,Es,It)",
+    "ref": "2266499CFA10351B23FEFD2216308867D1F1558B"
   },
   "2266499CFA10351B23FEFD2216308867D1F1558B": {
     "name": "Metal Gear Solid (USA)",
@@ -2987,7 +3117,8 @@
     "logo": "QmZ6zAd3hzyBqyCrcuEtBfv2ex8VHRPoNqArivE7KkjcSb"
   },
   "0AF8EA56FCBF49C49D6815D316B1CD80CD8E1538": {
-    "name": "Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (Europe) (En,Fr,De,Es,It)"
+    "name": "Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (Europe) (En,Fr,De,Es,It)",
+    "ref": "EDF2B960209D8763A330C72FCFD890B360864AEB"
   },
   "EDF2B960209D8763A330C72FCFD890B360864AEB": {
     "name": "Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (USA)",
@@ -2995,7 +3126,8 @@
     "logo": "QmaBK4RMdXvGC4T2yPfEGrZe9GEXTLsti1wSkTCMm5mYnx"
   },
   "BE52FA14E66F4B35C66F434DB61DA4CFCEC71762": {
-    "name": "Microsoft - The Best of Entertainment Pack (Europe)"
+    "name": "Microsoft - The Best of Entertainment Pack (Europe)",
+    "ref": "38B4814AFD24BF1FFFA382ED3396B6413ABC5616"
   },
   "38B4814AFD24BF1FFFA382ED3396B6413ABC5616": {
     "name": "Microsoft - The Best of Entertainment Pack (USA)",
@@ -3008,7 +3140,8 @@
     "logo": "QmNx79rPGuKcaASaW5W7ZbYKUSGWHXDR5evatAsfHRbia5"
   },
   "F2874F0F3023D96EDBDB94E5C0DC181D8BAA3EFB": {
-    "name": "Microsoft Pinball Arcade (Europe)"
+    "name": "Microsoft Pinball Arcade (Europe)",
+    "ref": "DA4593EDB37BE892374E00D0174E45FF6301C907"
   },
   "F0F35970517090165797568448B5EF5CAD8E4952": {
     "name": "Midway presents Arcade Hits - Joust & Defender (USA, Europe) (GB Compatible)",
@@ -3035,7 +3168,8 @@
     "name": "Minnie & Friends - Yume no Kuni o Sagashite (Japan)"
   },
   "BA4C1C10CFEB74584338D49A64F835995AF734FD": {
-    "name": "Missile Command (Europe)"
+    "name": "Missile Command (Europe)",
+    "ref": "7BD68586DF8754CBC81B2DCBB6E2B5DE43F812E8"
   },
   "7BD68586DF8754CBC81B2DCBB6E2B5DE43F812E8": {
     "name": "Missile Command (USA) (Rumble Version)",
@@ -3043,7 +3177,8 @@
     "logo": "QmZZeGnfR3JiK1WwiThbF6R7cAqFuHqYzn2P3BE8RZZZG6"
   },
   "5EB8DAD248FF23809016A2515657089116E8DF33": {
-    "name": "Mission - Impossible (Europe) (En,Fr,De,Es,It)"
+    "name": "Mission - Impossible (Europe) (En,Fr,De,Es,It)",
+    "ref": "A987998CF57D2EB2275DE94CD0E81254B711CCAC"
   },
   "A987998CF57D2EB2275DE94CD0E81254B711CCAC": {
     "name": "Mission - Impossible (USA) (En,Fr,Es)",
@@ -3051,7 +3186,8 @@
     "logo": "QmWfCFFjvXehxn66BRTUxVRPk8GZ8jhzQ1dyTZxps29fKY"
   },
   "F822BDA01D881F34D1E17664465FAF6A3FF64356": {
-    "name": "Mission - Impossible (Europe) (En,Fr,De,Es,It) (Rev 1) (Possible Proto)"
+    "name": "Mission - Impossible (Europe) (En,Fr,De,Es,It) (Rev 1) (Possible Proto)",
+    "ref": "A987998CF57D2EB2275DE94CD0E81254B711CCAC"
   },
   "AB12770558FB95434BBA0DA0D3B8A91E2D9179FB": {
     "name": "Mizuki Shigeru no Shin Youkaiden (Japan)"
@@ -3071,7 +3207,8 @@
     "logo": "QmTKoFfMBRtP5yHS4mii2R3h3BM3kEhGPjH4eVUFE15b5q"
   },
   "3F42D9B423C15B4C1B997C7A2292AB2CBA1AB23F": {
-    "name": "Monopoly (Japan) (SGB Enhanced) (GB Compatible)"
+    "name": "Monopoly (Japan) (SGB Enhanced) (GB Compatible)",
+    "ref": "058C34BC2D86CC7D6A3F5263A21946661662F893"
   },
   "058C34BC2D86CC7D6A3F5263A21946661662F893": {
     "name": "Monopoly (USA) (GB Compatible)",
@@ -3104,13 +3241,16 @@
     "name": "Monster Traveler (Japan) (Possible Proto)"
   },
   "31E64A1CDD25CDC4413E0A1BC15DC22017E881E4": {
-    "name": "Monsters, Inc. (Europe) (Rev 1)"
+    "name": "Monsters, Inc. (Europe) (Rev 1)",
+    "ref": "58BEFA4DBE7DAC79BFADCAF259999CDCDDF4F2C8"
   },
   "8713B1D51CE33A761F64455B59CD49952B7F7CD1": {
-    "name": "Monsters, Inc. (Europe) (En,Es,Nl)"
+    "name": "Monsters, Inc. (Europe) (En,Es,Nl)",
+    "ref": "58BEFA4DBE7DAC79BFADCAF259999CDCDDF4F2C8"
   },
   "34AB1E38F34287F022C871B6ED2116DED6D4B60D": {
-    "name": "Monsters, Inc. (Europe) (En,Fr,It)"
+    "name": "Monsters, Inc. (Europe) (En,Fr,It)",
+    "ref": "58BEFA4DBE7DAC79BFADCAF259999CDCDDF4F2C8"
   },
   "58BEFA4DBE7DAC79BFADCAF259999CDCDDF4F2C8": {
     "name": "Monsters, Inc. (USA, Europe)",
@@ -3118,7 +3258,8 @@
     "logo": "QmcJnvLcoff9nV4deBcKUMhzh4rKvPDPrhF5AsnLbdJc4R"
   },
   "014B174F569984360442FB2142A0E4AE09366DC4": {
-    "name": "Montezuma's Return! (Europe) (En,Fr,De,Es,It) (GB Compatible)"
+    "name": "Montezuma's Return! (Europe) (En,Fr,De,Es,It) (GB Compatible)",
+    "ref": "616BB04E0254EF2BA9E1EA629493EFDCC37D807C"
   },
   "616BB04E0254EF2BA9E1EA629493EFDCC37D807C": {
     "name": "Montezuma's Return! (USA) (En,Es) (GB Compatible)",
@@ -3142,7 +3283,8 @@
     "logo": "QmfVkTvg26MznKs1yfTuqxoULd9CuR65cprAxDEJXymEwK"
   },
   "1006B279EAB113AFE50F84E714A93C63DE8CBFCF": {
-    "name": "Mortal Kombat 4 (Germany) (En) (SGB Enhanced) (GB Compatible)"
+    "name": "Mortal Kombat 4 (Germany) (En) (SGB Enhanced) (GB Compatible)",
+    "ref": "EA54FB35CD8C4D4CEA234423A81F8F953B1D33E4"
   },
   "EA54FB35CD8C4D4CEA234423A81F8F953B1D33E4": {
     "name": "Mortal Kombat 4 (USA, Europe) (SGB Enhanced) (GB Compatible)",
@@ -3155,7 +3297,8 @@
     "logo": "QmbegZBUGk4jfr6JD9exZ1LoGVn3ZKabQS21ywAmutGfVx"
   },
   "B0D725DACEA717BE7109BD6A81817E717641DA86": {
-    "name": "Mr. Driller (Japan)"
+    "name": "Mr. Driller (Japan)",
+    "ref": "3BFDA5EDB7D125EE99B9235434488876DC6D8245"
   },
   "3BFDA5EDB7D125EE99B9235434488876DC6D8245": {
     "name": "Mr. Driller (USA)",
@@ -3163,13 +3306,16 @@
     "logo": "QmTGsiy496vsAc66n3Ho2ntwynZz9CojK3wxrsrLnhBxYM"
   },
   "6163CC65E7697EF77075A3665A234CE5D720AD9C": {
-    "name": "Mr. Driller (Europe)"
+    "name": "Mr. Driller (Europe)",
+    "ref": "3BFDA5EDB7D125EE99B9235434488876DC6D8245"
   },
   "FB64FA7DA6A0FEC3E358BB3357E66D68473ADA67": {
-    "name": "Mr. Driller (Japan) (NP)"
+    "name": "Mr. Driller (Japan) (NP)",
+    "ref": "3BFDA5EDB7D125EE99B9235434488876DC6D8245"
   },
   "D60DFFC330F25A61AC1B0B4BA078178585DA6FC6": {
-    "name": "Mr. Nutz (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Mr. Nutz (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "43BB8621E3D05E81A7FAA63CD76B0757F3954BA1"
   },
   "43BB8621E3D05E81A7FAA63CD76B0757F3954BA1": {
     "name": "Mr. Nutz (USA) (En,Fr,Es)",
@@ -3200,7 +3346,8 @@
     "logo": "QmQUMTcsJDsWJRoNwth5n64FF1NjiY5WRqcJDkgu6RyeqS"
   },
   "186F541E046C6223EF07DEFB3BA4E065262249B7": {
-    "name": "Mummy Returns, The (Europe) (En,Fr,De,Es,It)"
+    "name": "Mummy Returns, The (Europe) (En,Fr,De,Es,It)",
+    "ref": "6DFD1724110F1ABFF48AB349F89AE11FD201609A"
   },
   "6DFD1724110F1ABFF48AB349F89AE11FD201609A": {
     "name": "Mummy Returns, The (USA)",
@@ -3208,7 +3355,8 @@
     "logo": "QmY3EjsJWqku78EQ21DsBv6tBy2AYJ5DnAqKf4upU99exK"
   },
   "E1F312F6499229BDCC11C90306C321EADCDB78CA": {
-    "name": "Mummy, The (Europe) (En,Fr,De)"
+    "name": "Mummy, The (Europe) (En,Fr,De)",
+    "ref": "35B10F392D514BCE858C8C64F9C489500466D0FF"
   },
   "35B10F392D514BCE858C8C64F9C489500466D0FF": {
     "name": "Mummy, The (USA)",
@@ -3295,10 +3443,12 @@
     "logo": "QmcxWEsRGLxykeRMCPFVADQbRdHxq5oLNPnBET3uMuxqF9"
   },
   "7F0D5A37956AE58077656A42B26629784C203038": {
-    "name": "NBA in the Zone (USA) (Possible Proto) (SGB Enhanced) (GB Compatible)"
+    "name": "NBA in the Zone (USA) (Possible Proto) (SGB Enhanced) (GB Compatible)",
+    "ref": "F4BA926AD640D7B3E9D175FB58C90347DAFCBEF4"
   },
   "773A303C25BC907476BEE20064F2C1F154361D82": {
-    "name": "NBA in the Zone 2000 (Europe)"
+    "name": "NBA in the Zone 2000 (Europe)",
+    "ref": "57CD13938FB394752F1E070026DF716771561CC2"
   },
   "57CD13938FB394752F1E070026DF716771561CC2": {
     "name": "NBA in the Zone 2000 (USA)",
@@ -3343,7 +3493,8 @@
     "logo": "QmNmNwxJTa6pA29tZnMGcZ5ccf4PgJd4TuPALakhwHLLny"
   },
   "14649B51E40AEEA24CB4D9CBC41B847CADF68067": {
-    "name": "NFL Blitz (USA, Europe) (GB Compatible)"
+    "name": "NFL Blitz (USA, Europe) (GB Compatible)",
+    "ref": "66B69CBA0705F0670759F01CFD586A50C47C7C89"
   },
   "66B69CBA0705F0670759F01CFD586A50C47C7C89": {
     "name": "NFL Blitz (USA, Europe) (Rev 1) (GB Compatible)",
@@ -3423,7 +3574,8 @@
     "logo": "QmeikcoAJRZz2W4LtgBMHXFnwP9S9fvau7PSycxnYjN7DL"
   },
   "C9D4D1DD1C33A9FA9B54E9F2A7A5F6DD90069B91": {
-    "name": "Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible)"
+    "name": "Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible)",
+    "ref": "A35CCDF0789CE84DF3C12CFE7C4B9B98AF08CA9A"
   },
   "BEC623A9F0D4CA75905BB23595B17D9C33FF0775": {
     "name": "Ohasuta Dance Dance Revolution GB (Japan)"
@@ -3520,7 +3672,8 @@
     "name": "Pitfall GB (Japan) (GB Compatible)"
   },
   "FA8CA9A374FA3151AE912C7210B116D9FE0FCE2B": {
-    "name": "Planet of the Apes (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Planet of the Apes (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "84B616C937B9DCC7CDCB05F583A4D60467EDE385"
   },
   "84B616C937B9DCC7CDCB05F583A4D60467EDE385": {
     "name": "Planet of the Apes (USA) (En,Fr,De,Es,It,Nl)",
@@ -3541,7 +3694,8 @@
     "logo": "Qma3nTPktRxzrj1jmYXuja5pxyCig5M5UwQ6D6js2bgdLb"
   },
   "8A29E82BE027A82030C1DC7F7CF9BC9ECF010E64": {
-    "name": "Pocket Bowling (Japan) (GB Compatible)"
+    "name": "Pocket Bowling (Japan) (GB Compatible)",
+    "ref": "5435CCEC39EF27D9CAB626425671BD81E7FA4D55"
   },
   "5435CCEC39EF27D9CAB626425671BD81E7FA4D55": {
     "name": "Pocket Bowling (USA) (GB Compatible)",
@@ -3651,7 +3805,8 @@
     "logo": "QmYijMjdkckNrZeexQsXURofCpXivCLb2dLrhJvwbigtUM"
   },
   "F4CD194BDEE0D04CA4EAC29E09B8E4E9D818C133": {
-    "name": "Pokemon - Crystal Version (USA)"
+    "name": "Pokemon - Crystal Version (USA)",
+    "ref": "F2F52230B536214EF7C9924F483392993E226CFB"
   },
   "F2F52230B536214EF7C9924F483392993E226CFB": {
     "name": "Pokemon - Crystal Version (USA, Europe) (Rev 1)",
@@ -3659,7 +3814,8 @@
     "logo": "QmUbttkU9bhYiSGiU3UkH4XjSBZrwQz7Wohoua2QtKKCaG"
   },
   "A0FC810F1D4E124434F7BE2C989AB5B5892DDF36": {
-    "name": "Pokemon - Crystal Version (Australia)"
+    "name": "Pokemon - Crystal Version (Australia)",
+    "ref": "F2F52230B536214EF7C9924F483392993E226CFB"
   },
   "889A06FC0BB863666865AA69DEF0ADF97945AC2A": {
     "name": "Pokemon - Edicion Cristal (Spain)"
@@ -3723,10 +3879,12 @@
     "name": "Pokemon Picross (Japan) (Proto)"
   },
   "24C693B8048594E2BF61EC1DC2182E75D81E532D": {
-    "name": "Pokemon Pinball (Europe) (En,Fr,De,Es,It) (Rumble Version) (SGB Enhanced) (GB Compatible)"
+    "name": "Pokemon Pinball (Europe) (En,Fr,De,Es,It) (Rumble Version) (SGB Enhanced) (GB Compatible)",
+    "ref": "9402014D14969432142ABFDE728C6F1A10EE4DAC"
   },
   "96D0D854B9B49D724CD1DCBACD6313F0FC6C1C10": {
-    "name": "Pokemon Pinball (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible)"
+    "name": "Pokemon Pinball (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible)",
+    "ref": "9402014D14969432142ABFDE728C6F1A10EE4DAC"
   },
   "9402014D14969432142ABFDE728C6F1A10EE4DAC": {
     "name": "Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible)",
@@ -3734,7 +3892,8 @@
     "logo": "QmWPTzpZaM2Q1Jopc48bNhy4BvEC2i8XQLs5MEYRvLhXCh"
   },
   "E40D6A7F78B449E5A55BAAAEA7E227AB19D510E4": {
-    "name": "Pokemon Puzzle Challenge (Europe) (En,Fr,De,Es,It)"
+    "name": "Pokemon Puzzle Challenge (Europe) (En,Fr,De,Es,It)",
+    "ref": "BBF952412250AE511B3B862566E424CE6A672F99"
   },
   "BBF952412250AE511B3B862566E424CE6A672F99": {
     "name": "Pokemon Puzzle Challenge (USA, Australia)",
@@ -3742,10 +3901,12 @@
     "logo": "QmZGHk72xPwVG1yhtTWZSRjxvAf4Fg2QWLZMgPmGkMu7FX"
   },
   "2138A422D135A13C49FCE71229AE36BC1DC4FBB5": {
-    "name": "Pokemon Trading Card Game (Europe) (En,Es,It) (SGB Enhanced) (GB Compatible)"
+    "name": "Pokemon Trading Card Game (Europe) (En,Es,It) (SGB Enhanced) (GB Compatible)",
+    "ref": "0F8670A583255CFF3E5B7CA71B5D7454D928FC48"
   },
   "868E7B376E39F7D65A735538D90FBE6BBC99D198": {
-    "name": "Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)"
+    "name": "Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)",
+    "ref": "0F8670A583255CFF3E5B7CA71B5D7454D928FC48"
   },
   "0F8670A583255CFF3E5B7CA71B5D7454D928FC48": {
     "name": "Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)",
@@ -3753,10 +3914,12 @@
     "logo": "QmPpXxC6zScodbSg6uvi3ZuG4gSjoQWvVNdWBeT9gwsxAQ"
   },
   "DFFC15F3063A4C2DF84C6361406B41AEC1696D3E": {
-    "name": "Pokemon Trading Card Game (Europe) (En,Fr,De) (Rev 1) (SGB Enhanced) (GB Compatible)"
+    "name": "Pokemon Trading Card Game (Europe) (En,Fr,De) (Rev 1) (SGB Enhanced) (GB Compatible)",
+    "ref": "0F8670A583255CFF3E5B7CA71B5D7454D928FC48"
   },
   "C54B81E638B0C45D3569F9F5F0345DF9E95CE975": {
-    "name": "Pokemon Trading Card Game (Europe) (En,Es,It) (Rev 1) (SGB Enhanced) (GB Compatible)"
+    "name": "Pokemon Trading Card Game (Europe) (En,Es,It) (Rev 1) (SGB Enhanced) (GB Compatible)",
+    "ref": "0F8670A583255CFF3E5B7CA71B5D7454D928FC48"
   },
   "E893808FE227A1608C0604382D6A0340EC704C3B": {
     "name": "Polaris SnoCross (USA) (Rumble Version)",
@@ -3769,7 +3932,8 @@
     "logo": "QmdZBptbJabmjnf7UHkWCHmCsrxcfYm1Jpf5SYJfTWy4BX"
   },
   "4141887F0B152F8592B905355E11CF43147128C2": {
-    "name": "Pooh and Tigger's Hunny Safari (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Pooh and Tigger's Hunny Safari (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "934918DA6249723760A356748BF240F57262BD77"
   },
   "934918DA6249723760A356748BF240F57262BD77": {
     "name": "Pooh and Tigger's Hunny Safari (USA)",
@@ -3806,7 +3970,8 @@
     "name": "Power Pro Kun Pocket 2 (Japan) (SGB Enhanced) (GB Compatible)"
   },
   "B9B41A90BABA13888AC8F3788B96935F4D394C2C": {
-    "name": "Power Quest (Europe) (En,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)"
+    "name": "Power Quest (Europe) (En,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)",
+    "ref": "D1665784A007C122D65F43BD2751DB6B395FF3CD"
   },
   "D1665784A007C122D65F43BD2751DB6B395FF3CD": {
     "name": "Power Quest (USA) (En,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)",
@@ -3819,10 +3984,12 @@
     "logo": "QmYiH4LP7MRZ64MrDR7mJHKLTGkZq5uffYcFG7ohgQfvqK"
   },
   "92D86EC01E8669BBB8D26A5EC51EFC0F761EEAF4": {
-    "name": "Powerpuff Girls, The - Bad Mojo Jojo (USA)"
+    "name": "Powerpuff Girls, The - Bad Mojo Jojo (USA)",
+    "ref": "98F46ABBD8792BF716928BF2E28AF94AF467EF51"
   },
   "D3F74815BEC29AE7D580B112A1C1F913C19AC89E": {
-    "name": "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev 1)"
+    "name": "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev 1)",
+    "ref": "98F46ABBD8792BF716928BF2E28AF94AF467EF51"
   },
   "98F46ABBD8792BF716928BF2E28AF94AF467EF51": {
     "name": "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev 2)",
@@ -3830,10 +3997,12 @@
     "logo": "QmdfYbu9PrpQrRBYKNEvhdj6u8ZvSRJNXRGydoiw7zrBCC"
   },
   "E1FDE0D5C3F428A0932A2CEEAC1889EBCABC3F7E": {
-    "name": "Powerpuff Girls, The - Bad Mojo Jojo (Europe)"
+    "name": "Powerpuff Girls, The - Bad Mojo Jojo (Europe)",
+    "ref": "98F46ABBD8792BF716928BF2E28AF94AF467EF51"
   },
   "9D2CBE85C7C0DA6EA4354822F85CD597BFAFF1C5": {
-    "name": "Powerpuff Girls, The - Battle Him (Europe)"
+    "name": "Powerpuff Girls, The - Battle Him (Europe)",
+    "ref": "3D90946A2CBE503D040B10958301587998D4E86F"
   },
   "3D90946A2CBE503D040B10958301587998D4E86F": {
     "name": "Powerpuff Girls, The - Battle Him (USA)",
@@ -3841,7 +4010,8 @@
     "logo": "QmaEyYeSvzzcXLmiKC4ChdGanjYest8WTPeYvxTUnCmTnT"
   },
   "8F22B2CD9552EB1146F0A78A9C9242C031046E1C": {
-    "name": "Powerpuff Girls, The - Battle Him (USA) (Rev 1)"
+    "name": "Powerpuff Girls, The - Battle Him (USA) (Rev 1)",
+    "ref": "3D90946A2CBE503D040B10958301587998D4E86F"
   },
   "5C1C53B9C002680C2DA8B24AA31D4A247586263D": {
     "name": "Powerpuff Girls, The - Bulle Contre Lui (France)"
@@ -3850,13 +4020,16 @@
     "name": "Powerpuff Girls, The - L'Affreux Mojo Jojo (France)"
   },
   "023D4D9374E7FE9844F970DD0004C5D7EEFD2D38": {
-    "name": "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev 1)"
+    "name": "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev 1)",
+    "ref": "EF93E793067BBB3748AAC17D661C8C8B68CCEE9B"
   },
   "E214AB665FFAB3682B9833B4E4D0494FC53CD26F": {
-    "name": "Powerpuff Girls, The - Paint the Townsville Green (Europe)"
+    "name": "Powerpuff Girls, The - Paint the Townsville Green (Europe)",
+    "ref": "EF93E793067BBB3748AAC17D661C8C8B68CCEE9B"
   },
   "2D52551FCE2CB6D246C6296BEEB6A8A3DFBC2159": {
-    "name": "Powerpuff Girls, The - Paint the Townsville Green (USA)"
+    "name": "Powerpuff Girls, The - Paint the Townsville Green (USA)",
+    "ref": "EF93E793067BBB3748AAC17D661C8C8B68CCEE9B"
   },
   "EF93E793067BBB3748AAC17D661C8C8B68CCEE9B": {
     "name": "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev 2)",
@@ -3877,7 +4050,8 @@
     "logo": "Qmd7UoNYNKsxZJkqZ44GWSBJos3NncmGSVQyN5qmGcyFwx"
   },
   "6FD97E1F75570E7568B3DC4AB28834813AFB4484": {
-    "name": "Prince of Persia (Japan) (Proto)"
+    "name": "Prince of Persia (Japan) (Proto)",
+    "ref": "EF2F6402E8EF367273200E3B07F310EBD80CCDC2"
   },
   "60A89486F747E7440A79774B280B24B6498EF5EA": {
     "name": "Pro Darts (USA)",
@@ -3902,10 +4076,12 @@
     "logo": "QmTMrF8wcDDgA4VbFobTaqdaREqkBV2neyq2MraSxtqRbz"
   },
   "575C02F73A0BDC357289073F053D8A3969927880": {
-    "name": "Pro Pool (Europe) (En,Fr,De)"
+    "name": "Pro Pool (Europe) (En,Fr,De)",
+    "ref": "56252A97A3D463103E1047A6E1A64CAD43BEDD4C"
   },
   "C85E514C24C82071907C6495243DAE448B46C2B2": {
-    "name": "Pro Pool (USA) (En,Fr,De)"
+    "name": "Pro Pool (USA) (En,Fr,De)",
+    "ref": "56252A97A3D463103E1047A6E1A64CAD43BEDD4C"
   },
   "CBEDD34A0C6A2F4E58D05F0BB6D54F7CBCDA815C": {
     "name": "Project S-11 (USA)",
@@ -3918,7 +4094,8 @@
     "logo": "QmUUpQJt1ACmHyRFAFdzQ8y3NKdA1yjAL8bta18Brg29J7"
   },
   "25ABDA13F97140D412BB00E109BACA8574D5AF6E": {
-    "name": "Puchi Carat (Japan) (SGB Enhanced) (GB Compatible)"
+    "name": "Puchi Carat (Japan) (SGB Enhanced) (GB Compatible)",
+    "ref": "F703796E5551E12924C070CD8A0E77C6D82073AF"
   },
   "1F90E982EAD050796722D98F94E31A836945F84D": {
     "name": "Pumuckls Abenteuer bei den Piraten (Germany)"
@@ -3947,7 +4124,8 @@
     "logo": "QmSPMdZDj6yYC1GoooWP3gfex7FCdm4iDPhvEWexDaUx4C"
   },
   "4E40ECD30A4E9C367F31CF5367C279F88B7DF11C": {
-    "name": "Puzzled (Europe) (En,Fr,De)"
+    "name": "Puzzled (Europe) (En,Fr,De)",
+    "ref": "8FD66D88174E429E9B909796745C74640DE7DB29"
   },
   "8FD66D88174E429E9B909796745C74640DE7DB29": {
     "name": "Puzzled (USA)",
@@ -3965,7 +4143,8 @@
     "logo": "QmWwN2JaFSwkFfGieUB2eBAV2mLcg2mR9zS14PBV3g8U7j"
   },
   "363B284E18A303D1DD3C2AFFC967FCD6912594D8": {
-    "name": "Qix Adventure (Japan)"
+    "name": "Qix Adventure (Japan)",
+    "ref": "95406795E7E1CC5207ECCCAC57D6B77BD0C575A1"
   },
   "DEEF2B6BA0C4E468B90E32AD28F62A32F56DB413": {
     "name": "Quest - Brian's Journey (USA) (GB Compatible)",
@@ -3978,7 +4157,8 @@
     "logo": "QmVfjyJRqKAtfZGaEs4BQL5ZQynyqFmKBqmBFj2mJdrMcS"
   },
   "27B1839DEB7FBF384539B3686BA029CA54637196": {
-    "name": "Quest for Camelot (Europe) (En,Fr,De,Es,It,Nl) (SGB Enhanced) (GB Compatible)"
+    "name": "Quest for Camelot (Europe) (En,Fr,De,Es,It,Nl) (SGB Enhanced) (GB Compatible)",
+    "ref": "AAC9D4D1869FD1374EC7B7A9DE47575F7E5F54B6"
   },
   "AAC9D4D1869FD1374EC7B7A9DE47575F7E5F54B6": {
     "name": "Quest for Camelot (USA) (En,Fr,Es) (SGB Enhanced) (GB Compatible)",
@@ -3989,7 +4169,8 @@
     "name": "Qui Qui (Japan) (GB Compatible)"
   },
   "73C6B524136EF7E5318F526561B99DD0488CF36E": {
-    "name": "R-Type DX (Japan) (En) (GB Compatible)"
+    "name": "R-Type DX (Japan) (En) (GB Compatible)",
+    "ref": "E6A5C632B616E520B10B8B7589207C87C0092047"
   },
   "E6A5C632B616E520B10B8B7589207C87C0092047": {
     "name": "R-Type DX (USA, Europe) (GB Compatible)",
@@ -4042,7 +4223,8 @@
     "logo": "Qmds83FD11MaqnBgwyczpFDdi1ofPmVnyYmva9aag3UAeh"
   },
   "2E2D674426F2D29195A4BFBD82DCA4C25416E475": {
-    "name": "Rayman (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Rayman (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "5A6999C0CA4BE80A6259664FDFFBC79FD4BB1ED6"
   },
   "5A6999C0CA4BE80A6259664FDFFBC79FD4BB1ED6": {
     "name": "Rayman (USA) (En,Fr,De,Es,It,Nl)",
@@ -4075,7 +4257,8 @@
     "logo": "QmXkWuYzi5hD5Vs63z8umGjor4PGAiggxEH7chaPreNdVX"
   },
   "46DBA4B01CC71F07CEB6472064E0312CA70B31BD": {
-    "name": "Ready 2 Rumble Boxing (Europe)"
+    "name": "Ready 2 Rumble Boxing (Europe)",
+    "ref": "30EA96BA1F4FFBE2546EAC86F57827138C5D676E"
   },
   "30EA96BA1F4FFBE2546EAC86F57827138C5D676E": {
     "name": "Ready 2 Rumble Boxing (USA) (Rumble Version)",
@@ -4106,7 +4289,8 @@
     "name": "Resident Evil (Unknown) (Demo) (Climax Entertainment)"
   },
   "2116120A930BD93D5E32CC588ACADB559B0D65E8": {
-    "name": "Resident Evil Gaiden (Europe) (En,Fr,De,Es,It)"
+    "name": "Resident Evil Gaiden (Europe) (En,Fr,De,Es,It)",
+    "ref": "A302CDDC085D65CA778153E2A591BD648CE963C9"
   },
   "A302CDDC085D65CA778153E2A591BD648CE963C9": {
     "name": "Resident Evil Gaiden (USA)",
@@ -4114,7 +4298,8 @@
     "logo": "Qma984iVM6Fs6dZEjfEFmRCiyVF5cup6tnxokDhK9ovbD4"
   },
   "E49CE291A1DA791955A5DE8C894ACA28FFC97F9B": {
-    "name": "Return of the Ninja (Europe)"
+    "name": "Return of the Ninja (Europe)",
+    "ref": "E33352F0AC19D28983EBED0758D022861473EC0E"
   },
   "E33352F0AC19D28983EBED0758D022861473EC0E": {
     "name": "Return of the Ninja (USA)",
@@ -4147,7 +4332,8 @@
     "logo": "QmcarWnyWzAY9f6sgC2CHuTPCYMdC3EnUeKi6cUL6eAnu1"
   },
   "3C0A54FBA91A6DF88C152A824D192E05C0A68250": {
-    "name": "Roadsters (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
+    "name": "Roadsters (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)",
+    "ref": "EDE737E99108BE29DAF94FEE8E10F5DD770731BB"
   },
   "EDE737E99108BE29DAF94FEE8E10F5DD770731BB": {
     "name": "Roadsters (USA) (En,Fr,De,Es,It,Nl) (GB Compatible)",
@@ -4176,7 +4362,8 @@
     "logo": "QmW6aVyMoFwiSZSspLHPQXCieyAj1UijEw4sjDWaDm19ry"
   },
   "30F36F420BEC76126171B1139538DE4017ED75AC": {
-    "name": "Robopon - Sun Version (USA) (Beta) (SGB Enhanced) (GB Compatible)"
+    "name": "Robopon - Sun Version (USA) (Beta) (SGB Enhanced) (GB Compatible)",
+    "ref": "399C928A38A3901B7A1093BD61F5A4D8C05B9771"
   },
   "79D1EDA07E792497506FF1494E5222DB2A52702F": {
     "name": "Robot Poncots - Comic Bom Bom Special Version (Japan) (SGB Enhanced) (GB Compatible)"
@@ -4240,7 +4427,8 @@
     "logo": "QmVCKivp9o64LKtJDaYHWK3WRT9eLnWyqKwLtWyJDLiT2b"
   },
   "9E0A431D3B9D046CC9E2339624631F756E2BC68E": {
-    "name": "Roswell Conspiracies - Aliens, Myths & Legends (Europe) (En,Fr,De)"
+    "name": "Roswell Conspiracies - Aliens, Myths & Legends (Europe) (En,Fr,De)",
+    "ref": "EC27E608B2787DC18184BE7A5A713A1D88403AFD"
   },
   "EC27E608B2787DC18184BE7A5A713A1D88403AFD": {
     "name": "Roswell Conspiracies - Aliens, Myths & Legends (USA) (En,Fr,De)",
@@ -4248,7 +4436,8 @@
     "logo": "QmUvJY5rx9BiAzG5F17KTn7SfVg5HHMZ1MawDRciBBtaCU"
   },
   "196EFF1C40B3DC552E6FAC9E16CC0F5F0E293434": {
-    "name": "Rox (Japan) (En) (GB Compatible)"
+    "name": "Rox (Japan) (En) (GB Compatible)",
+    "ref": "86CB1F29E5D061431978D6DC48D7278B9C290CDA"
   },
   "86CB1F29E5D061431978D6DC48D7278B9C290CDA": {
     "name": "Rox (USA, Europe) (GB Compatible)",
@@ -4285,7 +4474,8 @@
     "logo": "QmbrRur1jSMwFFbfamSF7CPKh6JHxakHYZFNMLVikJRZMB"
   },
   "C64DDF11C12D34F13D86E4A468B1EEDACB698081": {
-    "name": "Rugrats Movie, The (USA) (SGB Enhanced) (GB Compatible)"
+    "name": "Rugrats Movie, The (USA) (SGB Enhanced) (GB Compatible)",
+    "ref": "29953D2D41FCB6BA4A78853A328DD01A6918EF8F"
   },
   "2429581D154AC04A12C99A24C2FD2C1B45A90807": {
     "name": "Rumble & Tumble (USA) (Demo) (E3 2001)"
@@ -4309,7 +4499,8 @@
     "logo": "QmegPhLsTceEut7oUd5xNHBv4PfWhaLkWb7soi5jbMgVLz"
   },
   "D2E207A07FFA7CD0CC5B168C95AD409CD3DF3FA3": {
-    "name": "Sabrina - The Animated Series - Zapped! (Europe) (En,Fr,De)"
+    "name": "Sabrina - The Animated Series - Zapped! (Europe) (En,Fr,De)",
+    "ref": "099E2EC855F47344F5D188CC57F540C88CDB33FD"
   },
   "099E2EC855F47344F5D188CC57F540C88CDB33FD": {
     "name": "Sabrina - The Animated Series - Zapped! (USA, Europe)",
@@ -4382,7 +4573,8 @@
     "name": "Senkai Ibunroku Juntei Taisen - TV Animation Senkaiden Houshin Engi Yori (Japan) (SGB Enhanced) (GB Compatible)"
   },
   "841BDA2E2C1542C44B45C98A390BA3320EF735CC": {
-    "name": "Sesame Street - Elmo's 123s (Europe) (GB Compatible)"
+    "name": "Sesame Street - Elmo's 123s (Europe) (GB Compatible)",
+    "ref": "0ACA4297EC6DC582B668681452F1805AAB991BEC"
   },
   "0ACA4297EC6DC582B668681452F1805AAB991BEC": {
     "name": "Sesame Street - Elmo's 123s (USA) (GB Compatible)",
@@ -4395,10 +4587,12 @@
     "logo": "QmQYmUsNSEtQSia164rpUkuLmcjF3SocuPhsCDG5pEsmn2"
   },
   "E98D4D4179CA13C22D0205F118470ECC795928B1": {
-    "name": "Sesame Street - Elmo's ABCs (Europe) (GB Compatible)"
+    "name": "Sesame Street - Elmo's ABCs (Europe) (GB Compatible)",
+    "ref": "C63EA7FF94250F1F7514A01250BBD5F04A5D2037"
   },
   "AF1C3912DA946D858F9EEB10A3B9D95CBB6A00D8": {
-    "name": "Sesame Street - The Adventures of Elmo in Grouchland (Europe) (GB Compatible)"
+    "name": "Sesame Street - The Adventures of Elmo in Grouchland (Europe) (GB Compatible)",
+    "ref": "60F240476D2FAC81B1EFB83E1128E6223C766F15"
   },
   "60F240476D2FAC81B1EFB83E1128E6223C766F15": {
     "name": "Sesame Street - The Adventures of Elmo in Grouchland (USA) (GB Compatible)",
@@ -4411,7 +4605,8 @@
     "logo": "QmRV8bE7hTH7HvTbhSD3nCUPgT5sERJvrdux7EMS1J4zdk"
   },
   "2CF168DBAA51C1A0D49E6AB776872A0D2D5CED42": {
-    "name": "Sesame Street Sports (Europe)"
+    "name": "Sesame Street Sports (Europe)",
+    "ref": "C5F4D432F37A261DA5D11426A36893718EF94B86"
   },
   "A05A67F2D29BF29C56C9533C172DA02EE0AD26B1": {
     "name": "Sewing Machine Operation Software (USA) (En,Fr,Es) (GB Compatible)"
@@ -4425,7 +4620,8 @@
     "logo": "QmVDSCs6qqx6TnvvEnspeLALEBcgCdzXi2UqtkZSdhhAM3"
   },
   "4E0C0E15BEAC73913320F8AB68001F90F52BEB92": {
-    "name": "Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv) (GB Compatible)"
+    "name": "Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv) (GB Compatible)",
+    "ref": "B7343C9CE3343FA618A6C208969446B964DDE5F5"
   },
   "B7343C9CE3343FA618A6C208969446B964DDE5F5": {
     "name": "Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv) (Rev 1) (GB Compatible)",
@@ -4447,7 +4643,8 @@
     "logo": "QmSyBXkAT4fCtBNEmeYgtckeaBGEJKvqQckCKMRN58Jpry"
   },
   "6436B152924A8612D7CD28FEF09F10A81EC91AD7": {
-    "name": "Shanghai Pocket (Europe) (SGB Enhanced) (GB Compatible)"
+    "name": "Shanghai Pocket (Europe) (SGB Enhanced) (GB Compatible)",
+    "ref": "ADBF1A18DEA69E46C3DBCCEC03E09668912F12A7"
   },
   "ADBF1A18DEA69E46C3DBCCEC03E09668912F12A7": {
     "name": "Shanghai Pocket (Europe) (Rev 1) (SGB Enhanced) (GB Compatible)",
@@ -4455,7 +4652,8 @@
     "logo": "Qmdzj5PvtsLFwsVaXg2Xovi4GXuHsCDTECrcgxT1Hb63K5"
   },
   "2058964274D8BD596BB81BC24E9CFE306411C803": {
-    "name": "Shanghai Pocket (USA) (SGB Enhanced) (GB Compatible)"
+    "name": "Shanghai Pocket (USA) (SGB Enhanced) (GB Compatible)",
+    "ref": "ADBF1A18DEA69E46C3DBCCEC03E09668912F12A7"
   },
   "520E48C50F6E997FCD841CA368FC9ABC1DBDDEC1": {
     "name": "Shantae (USA)",
@@ -4463,7 +4661,8 @@
     "logo": "QmVkZ5tK4j8ZSEttog9frMQafPQB94vPmwTp5w31AJ2Ta8"
   },
   "141DC57955E84D51F0099C0709A0626D43AB8FA7": {
-    "name": "Shantae (USA) (Beta)"
+    "name": "Shantae (USA) (Beta)",
+    "ref": "520E48C50F6E997FCD841CA368FC9ABC1DBDDEC1"
   },
   "3563D3085198BF40BA92C4DE40093E5FA2D422D5": {
     "name": "Shaun Palmer's Pro Snowboarder (USA, Australia)",
@@ -4514,7 +4713,8 @@
     "logo": "QmSc5VP7PHuVgWd6eqaGFa5n7dS2Zix2eQ7SuagmNMYmW5"
   },
   "FE9F70D6FF58174F533A08B556358D916EDA8A1E": {
-    "name": "Smurfs Nightmare, The (Europe) (En,Fr,De,Es)"
+    "name": "Smurfs Nightmare, The (Europe) (En,Fr,De,Es)",
+    "ref": "1D0D3512F32176B7035F9C2A77D4636B1D08B349"
   },
   "1D0D3512F32176B7035F9C2A77D4636B1D08B349": {
     "name": "Smurfs Nightmare, The (USA)",
@@ -4525,10 +4725,12 @@
     "name": "Snobow Champion (Japan)"
   },
   "E51347BB82E44A2ECEFEB3F220A0B3DEF6DAF514": {
-    "name": "Snoopy Tennis (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Snoopy Tennis (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "A07B8FE92B4FEE98586A09FDD5A8DD4C8345BF16"
   },
   "66B78EC7DE2D407B3B4FAC0323AD6C6DF223C744": {
-    "name": "Snoopy Tennis (Japan)"
+    "name": "Snoopy Tennis (Japan)",
+    "ref": "A07B8FE92B4FEE98586A09FDD5A8DD4C8345BF16"
   },
   "A07B8FE92B4FEE98586A09FDD5A8DD4C8345BF16": {
     "name": "Snoopy Tennis (USA) (En,Fr,Es)",
@@ -4536,7 +4738,8 @@
     "logo": "QmXmzCk4Zb7ruYKoxcgx8Nyb6d1x4ojq7izZcWekK3ETEp"
   },
   "BCB5F2141BDFA0BD055E7E94301CF0AFF00971A0": {
-    "name": "Snow White and the Seven Dwarfs (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)"
+    "name": "Snow White and the Seven Dwarfs (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+    "ref": "865E5BD17E336B4696FB891BC21C966EF2E186C9"
   },
   "865E5BD17E336B4696FB891BC21C966EF2E186C9": {
     "name": "Snow White and the Seven Dwarfs (USA)",
@@ -4616,10 +4819,12 @@
     "logo": "QmTk3k3upQuoZmbCyDi8QPTUx2jwbM9ybX6SoxkyCcYxbT"
   },
   "4BFF8A1324C6530B719E99F91BF6D46B2483C9E9": {
-    "name": "Spider-Man (France)"
+    "name": "Spider-Man (France)",
+    "ref": "EA432C3F2B0D92B4CF03D762E273ABC68F45F072"
   },
   "EF05291A6197E5F1D9790422466E2663E76F64D4": {
-    "name": "Spider-Man (Japan)"
+    "name": "Spider-Man (Japan)",
+    "ref": "EA432C3F2B0D92B4CF03D762E273ABC68F45F072"
   },
   "EA432C3F2B0D92B4CF03D762E273ABC68F45F072": {
     "name": "Spider-Man (USA, Europe)",
@@ -4642,10 +4847,12 @@
     "logo": "QmY8kwX1RqsZ9A6SGhaUrnxfofuhqFtX1LHyYyLoBV8eBo"
   },
   "574C90CC4EF318D76A76392E5165351DBC9A1AB0": {
-    "name": "Spy vs Spy (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+    "name": "Spy vs Spy (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+    "ref": "7249CDAF769F959F527A6E01435420BB8102DF7A"
   },
   "0167B0D74004AA9ACE10069C5D4BF51ADFE7297B": {
-    "name": "Spy vs Spy (Japan)"
+    "name": "Spy vs Spy (Japan)",
+    "ref": "7249CDAF769F959F527A6E01435420BB8102DF7A"
   },
   "7249CDAF769F959F527A6E01435420BB8102DF7A": {
     "name": "Spy vs Spy (USA)",
@@ -4653,7 +4860,8 @@
     "logo": "QmYL7cZ3Mzt8M8Hn6HnodTEixwMZGmwpmyQa5SQxA5KsdK"
   },
   "9E203F04857CD84EC49B0E6C6D4917B1A5CC199E": {
-    "name": "Spy vs Spy (Japan) (Rev 1) (NP)"
+    "name": "Spy vs Spy (Japan) (Rev 1) (NP)",
+    "ref": "7249CDAF769F959F527A6E01435420BB8102DF7A"
   },
   "4EB7AD40520E21F1B371B06AC2ADB6F2E1B507A9": {
     "name": "Star Heritage (Europe) (Proto) (SRAM Version)"
@@ -4673,7 +4881,8 @@
     "logo": "Qme1hUrLKEPd34tbuF9BYpKpKbpL99T6jXvwuTLi1Fp9fs"
   },
   "F6A4F115E553F67512373FC5FCBF295C1D6D9FCD": {
-    "name": "Star Wars Episode I - Obi-Wan's Adventures (Europe) (En,Fr,De,Es,It)"
+    "name": "Star Wars Episode I - Obi-Wan's Adventures (Europe) (En,Fr,De,Es,It)",
+    "ref": "FB15A0AE700A11F0925113E5F5C9CB5C655ACDB5"
   },
   "FB15A0AE700A11F0925113E5F5C9CB5C655ACDB5": {
     "name": "Star Wars Episode I - Obi-Wan's Adventures (USA)",
@@ -4689,10 +4898,12 @@
     "name": "Stranded Kids (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)"
   },
   "8BAAD8F1FE999D1EE352D534B1DBE6E10C0281FE": {
-    "name": "Street Fighter Alpha - Warriors' Dreams (Europe)"
+    "name": "Street Fighter Alpha - Warriors' Dreams (Europe)",
+    "ref": "CA26852EE2C0E691CD0FC30A44DE84FD1465B4DE"
   },
   "C0086C92381B1561153FBE97FA455FC8C6573C1D": {
-    "name": "Street Fighter Alpha - Warriors' Dreams (Japan)"
+    "name": "Street Fighter Alpha - Warriors' Dreams (Japan)",
+    "ref": "CA26852EE2C0E691CD0FC30A44DE84FD1465B4DE"
   },
   "CA26852EE2C0E691CD0FC30A44DE84FD1465B4DE": {
     "name": "Street Fighter Alpha - Warriors' Dreams (USA)",
@@ -4703,7 +4914,8 @@
     "name": "Street Hero (Taiwan) (En) (1B-004, EB-004, Sachen) (Unl)"
   },
   "153F8FFAB32E78DD4A6C2EEC4560B2CF6509774D": {
-    "name": "Stuart Little - The Journey Home (Europe) (Fr,De)"
+    "name": "Stuart Little - The Journey Home (Europe) (Fr,De)",
+    "ref": "D3C31E41709C54AF328787036DB1B98997F508EA"
   },
   "D3C31E41709C54AF328787036DB1B98997F508EA": {
     "name": "Stuart Little - The Journey Home (USA, Europe)",
@@ -4726,7 +4938,8 @@
     "name": "Super Bombliss DX (Japan) (En) (SGB Enhanced) (GB Compatible)"
   },
   "5BD06600B35CD2B2E8D51EDE6F79DB76BA97E78E": {
-    "name": "Super Breakout! (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
+    "name": "Super Breakout! (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)",
+    "ref": "8C795B6D8EBC3A796821A6B2879F3E5CEBF9215C"
   },
   "8C795B6D8EBC3A796821A6B2879F3E5CEBF9215C": {
     "name": "Super Breakout! (USA) (GB Compatible)",
@@ -4746,13 +4959,16 @@
     "name": "Super Gals! Kotobuki Ran 2 - Miracle Getting (Japan)"
   },
   "94466F48D8B4F811608CE8641DE5F82315CD60B5": {
-    "name": "Super Mario Bros. Deluxe (Japan) (NP)"
+    "name": "Super Mario Bros. Deluxe (Japan) (NP)",
+    "ref": "254F2254E9D54E2501E3E4EBE09491E03573A6A4"
   },
   "F84F26F22751B58ED57BD332274E18131660729A": {
-    "name": "Super Mario Bros. Deluxe (USA, Europe)"
+    "name": "Super Mario Bros. Deluxe (USA, Europe)",
+    "ref": "254F2254E9D54E2501E3E4EBE09491E03573A6A4"
   },
   "07295CD60AE44183EBECB013930727E0404169D5": {
-    "name": "Super Mario Bros. Deluxe (USA, Europe) (Rev 1)"
+    "name": "Super Mario Bros. Deluxe (USA, Europe) (Rev 1)",
+    "ref": "254F2254E9D54E2501E3E4EBE09491E03573A6A4"
   },
   "254F2254E9D54E2501E3E4EBE09491E03573A6A4": {
     "name": "Super Mario Bros. Deluxe (USA, Europe) (Rev 2)",
@@ -4760,7 +4976,8 @@
     "logo": "QmQXdQtHZHNCivf3osLaS6KLoLQN6TnVNjgxuTovTAw3yV"
   },
   "E61D564E1FF19EB4B7C62A6CD96214F2BCA4B01D": {
-    "name": "Super Mario Bros. Deluxe (Japan) (En) (Rev 1) (NP)"
+    "name": "Super Mario Bros. Deluxe (Japan) (En) (Rev 1) (NP)",
+    "ref": "254F2254E9D54E2501E3E4EBE09491E03573A6A4"
   },
   "4B96D2447B763F08D079EB07B95B6627D3FC120B": {
     "name": "Super Me-Mail GB - Me-Mail Bear no Happy Mail Town (Japan)"
@@ -4864,13 +5081,16 @@
     "name": "Tanimura Hitoshi Ryuu Pachinko Kouryaku Daisakusen - Don Quijote ga Iku (Japan) (SGB Enhanced) (GB Compatible)"
   },
   "9A4821570F565F7A1B3C7ABA3C7CD2E1C1A0B570": {
-    "name": "Tarzan (France)"
+    "name": "Tarzan (France)",
+    "ref": "CE23EAA9AEF5909883252D1340CF94E3483652B3"
   },
   "AC8FC45CDDB749B471A9B3F234B72731363C3B14": {
-    "name": "Tarzan (Germany)"
+    "name": "Tarzan (Germany)",
+    "ref": "CE23EAA9AEF5909883252D1340CF94E3483652B3"
   },
   "920C9AA99A6DD0CA53694E2553DE6388B2D22EAC": {
-    "name": "Tarzan (Japan)"
+    "name": "Tarzan (Japan)",
+    "ref": "CE23EAA9AEF5909883252D1340CF94E3483652B3"
   },
   "CE23EAA9AEF5909883252D1340CF94E3483652B3": {
     "name": "Tarzan (USA, Europe)",
@@ -4878,7 +5098,8 @@
     "logo": "QmNU2GiPhXWyE23nr5Q3wSkkfm2KyPRBc1a9uWJGtXmaQJ"
   },
   "E96CE1658BB9063042C64A161130F95F925F215B": {
-    "name": "Tasmanian Devil - Munching Madness (Europe) (En,Fr,De,Es,It) (GB Compatible)"
+    "name": "Tasmanian Devil - Munching Madness (Europe) (En,Fr,De,Es,It) (GB Compatible)",
+    "ref": "E8C2465D0503FD02BCC50B81CB1040FFF63BF513"
   },
   "E8C2465D0503FD02BCC50B81CB1040FFF63BF513": {
     "name": "Tasmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It) (GB Compatible)",
@@ -4902,10 +5123,12 @@
     "logo": "QmNagaAjfMA957SDsx5ETpn4hWffGuNzyatZRLLk4PMH6m"
   },
   "92E5B9911032E0B810FCB0B76A94BB117BCF107E": {
-    "name": "Test Drive 6 (Europe) (En,Fr,De,Es,It) (GB Compatible)"
+    "name": "Test Drive 6 (Europe) (En,Fr,De,Es,It) (GB Compatible)",
+    "ref": "43EA5758FC6747014F024B567F5768EF43D5C841"
   },
   "F50415339A36ECEA8A1207B6C197086372E29AB7": {
-    "name": "Test Drive 6 (Europe) (En,Fr,De,Es,It) (Sample) (GB Compatible)"
+    "name": "Test Drive 6 (Europe) (En,Fr,De,Es,It) (Sample) (GB Compatible)",
+    "ref": "43EA5758FC6747014F024B567F5768EF43D5C841"
   },
   "43EA5758FC6747014F024B567F5768EF43D5C841": {
     "name": "Test Drive 6 (USA) (GB Compatible)",
@@ -4956,7 +5179,8 @@
     "logo": "QmTubj9oGwyxnwKVKSKmNEz4kYizAWrzF4DNUmSxAEoS9j"
   },
   "8C7585E41B8E38F4BC76BA315DC5E7A768C0C516": {
-    "name": "Thunderbirds (Europe) (En,Fr,De,Es,It)"
+    "name": "Thunderbirds (Europe) (En,Fr,De,Es,It)",
+    "ref": "4DF8353CBB74D368CC139899EABE5288E59ADAEB"
   },
   "46E81D5E7D4F41B3B0A0AB8B55A3592ABE6911F3": {
     "name": "Tiger Woods PGA Tour 2000 (USA, Europe) (GB Compatible)",
@@ -4974,7 +5198,8 @@
     "logo": "QmWdSLS5JmweYocqTsUasFTQBALMuApGAttjNMMrZdA7aQ"
   },
   "3A30DC722739FBAA9924C855C83BE311BEFC8FF2": {
-    "name": "Tiny Toon Adventures - Buster Saves the Day (Europe) (En,Fr,De,Es,It)"
+    "name": "Tiny Toon Adventures - Buster Saves the Day (Europe) (En,Fr,De,Es,It)",
+    "ref": "A3953E9ADE5367558F7D430D2DFB83D06C361170"
   },
   "A3953E9ADE5367558F7D430D2DFB83D06C361170": {
     "name": "Tiny Toon Adventures - Buster Saves the Day (USA)",
@@ -4987,13 +5212,15 @@
     "logo": "QmV3m3rNVDXDUd4pxgAkxvJFSQeGWL7dSGGCcasjM78CMa"
   },
   "4EB0359A278173AE6C12E9452A7A2A9573A58C77": {
-    "name": "Tiny Toon Adventures - Dizzy's Candy Quest (USA) (Proto)"
+    "name": "Tiny Toon Adventures - Dizzy's Candy Quest (USA) (Proto)",
+    "ref": "CF8948C148AF76C00E7B6B557C5451D9BE364F55"
   },
   "1B3E161DCDE3709CC4B26D6D753CB879AB75C8C0": {
     "name": "Titi - Le Tour du Monde en 80 Chats (France)"
   },
   "B595C2E0A11BF843E91E9128E38252222133659B": {
-    "name": "Titus the Fox (Europe) (GB Compatible)"
+    "name": "Titus the Fox (Europe) (GB Compatible)",
+    "ref": "3EC16A3CE1CFDC03B6F3B04A455C8B5C54A37EEE"
   },
   "3EC16A3CE1CFDC03B6F3B04A455C8B5C54A37EEE": {
     "name": "Titus the Fox (USA) (GB Compatible)",
@@ -5041,7 +5268,8 @@
     "name": "Tom and Jerry - Mousehunt (Europe) (En,Fr,De,Es,It) (Rev 1)"
   },
   "FF3A39CCDF4E9802B38C3095D4A2AE056DEFC476": {
-    "name": "Tom and Jerry in - Mouse Attacks! (Europe) (En,Fr,De,Es,It,Nl,Da)"
+    "name": "Tom and Jerry in - Mouse Attacks! (Europe) (En,Fr,De,Es,It,Nl,Da)",
+    "ref": "A58215E2C6240B42779665D85484F02B79A0F9D8"
   },
   "A58215E2C6240B42779665D85484F02B79A0F9D8": {
     "name": "Tom and Jerry in - Mouse Attacks! (USA)",
@@ -5049,7 +5277,8 @@
     "logo": "Qmavke2hT2nWvUAdyHWcWVFXJpvLuzvRxrXpQULqBuFY83"
   },
   "89374D81045A3BEDF24E42B58CE403B0A5FBCDDB": {
-    "name": "Tom and Jerry in - Mouse Attacks! (USA) (Rev 1)"
+    "name": "Tom and Jerry in - Mouse Attacks! (USA) (Rev 1)",
+    "ref": "A58215E2C6240B42779665D85484F02B79A0F9D8"
   },
   "7E9E21DB84D1BFDAB3C604C9E3328F624F86A9B1": {
     "name": "Tom Clancy's Rainbow Six (USA, Europe) (En,Fr,De)",
@@ -5062,7 +5291,8 @@
     "logo": "QmQn6PcFWoHaWxdBUN5gQTymjTUYVRkCkJKnNNNgxWiP51"
   },
   "3F7259E9DEF8BE46E9B1F2956182084276F105ED": {
-    "name": "Tomb Raider (USA, Europe) (En,Fr,De,Es,It) (Beta)"
+    "name": "Tomb Raider (USA, Europe) (En,Fr,De,Es,It) (Beta)",
+    "ref": "208B054CA63C43F32BEFA989C75E8DE96847F4FE"
   },
   "C84DB1EAF7403BA292BE020D410AB453342AB737": {
     "name": "Tomb Raider - Curse of the Sword (USA, Europe)",
@@ -5080,7 +5310,8 @@
     "logo": "QmXPrDmwANowAYXTVi7ppXtihHdYt8jGZACzdvoJQLq5fT"
   },
   "EC52838E58D33A3ED36CD0F80F287EF72A578624": {
-    "name": "Tonka Raceway (Europe)"
+    "name": "Tonka Raceway (Europe)",
+    "ref": "9159B2FFE1ECF2A1A8F6AF976E2737C0B22CEA6D"
   },
   "9159B2FFE1ECF2A1A8F6AF976E2737C0B22CEA6D": {
     "name": "Tonka Raceway (USA)",
@@ -5088,7 +5319,8 @@
     "logo": "QmVJexWEq9bphRuKhRYG54Bc5eTrSruXy5tb69Gp6K6iye"
   },
   "6A86B7172C53A8E67F3D72F953116991640F6E71": {
-    "name": "Tonka Raceway (USA) (Rumble Version)"
+    "name": "Tonka Raceway (USA) (Rumble Version)",
+    "ref": "9159B2FFE1ECF2A1A8F6AF976E2737C0B22CEA6D"
   },
   "E399C7D67E3BB1F466002F24F60B9C036E234C4E": {
     "name": "Tony Hawk's Pro Skater (Japan) (Proto)"
@@ -5114,7 +5346,8 @@
     "logo": "QmeEaTBgqKfuZ7XBzf44cgDXJyS6eJSZNC9zZykwvdaBfV"
   },
   "48943F0F5D47444889F78DA7EE0472D9B42DBC89": {
-    "name": "Toonsylvania (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Toonsylvania (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "5665F54D1CE0B1E0EF72D8F71A14594920ADF81D"
   },
   "5665F54D1CE0B1E0EF72D8F71A14594920ADF81D": {
     "name": "Toonsylvania (USA)",
@@ -5127,7 +5360,8 @@
     "logo": "QmeWR2DhKdMFmeS7oFePrXifPkgwckiLHdJJoXPTkFJwMB"
   },
   "19C861E8CE24C18F8C625C8B920AAD8A0ACFCE64": {
-    "name": "Top Gear Pocket (Japan) (En) (Rumble Version)"
+    "name": "Top Gear Pocket (Japan) (En) (Rumble Version)",
+    "ref": "F875F5A637FB861A0845B1753B90FE053D0A5A95"
   },
   "F875F5A637FB861A0845B1753B90FE053D0A5A95": {
     "name": "Top Gear Pocket (USA) (Rumble Version)",
@@ -5135,7 +5369,8 @@
     "logo": "QmUSm9iS7PcUb3HNvhQbnjHFsTHPQwe1UszgMYdFJWu32h"
   },
   "26A357B6DF4484D8F98F9C89A0B1B0357DF5CF88": {
-    "name": "Top Gear Pocket 2 (Japan) (Rumble Version)"
+    "name": "Top Gear Pocket 2 (Japan) (Rumble Version)",
+    "ref": "BDBB64D13C3C40992D923829A92D7A15A15AABEA"
   },
   "BDBB64D13C3C40992D923829A92D7A15A15AABEA": {
     "name": "Top Gear Pocket 2 (USA)",
@@ -5185,7 +5420,8 @@
     "logo": "QmNroGDUshwvQPq1ZrL62vw4ejhncjzDGTu5czBwWdn63A"
   },
   "1D06B1B563EC34014A8EABFD557E20EE03154FF9": {
-    "name": "Toy Story Racer (Europe) (En,Fr,De)"
+    "name": "Toy Story Racer (Europe) (En,Fr,De)",
+    "ref": "5DEB31321A86B260AA84CAB5E45A3FA36CE5EFBD"
   },
   "5DEB31321A86B260AA84CAB5E45A3FA36CE5EFBD": {
     "name": "Toy Story Racer (USA, Europe)",
@@ -5199,7 +5435,8 @@
     "name": "Trade & Battle Card Hero (Japan) (Rev 1) (3DS Virtual Console) (SGB Enhanced) (GB Compatible)"
   },
   "74573EBE3196E600FB180BC4AEDAFDDEA4060A2C": {
-    "name": "Trick Boarder (Europe)"
+    "name": "Trick Boarder (Europe)",
+    "ref": "A5BA3E762A56801E997335EAF1F0B614EC54400C"
   },
   "A5BA3E762A56801E997335EAF1F0B614EC54400C": {
     "name": "Trick Boarder (USA)",
@@ -5242,7 +5479,8 @@
     "logo": "Qmd4drw65sMVB2psU2ZbQr6aA7ak2dMknJBQQmmsCqitM4"
   },
   "886C73348F4DD50E3EA916F96B8DAA2451997DCC": {
-    "name": "Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es) (Beta) (GB Compatible)"
+    "name": "Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es) (Beta) (GB Compatible)",
+    "ref": "FB7856AF0205CC749174CDA9EB51AE137984558C"
   },
   "4B240F6B8E3648F2CBAFA2FD6EE4E5B508950122": {
     "name": "Turok 3 - Shadow of Oblivion (USA, Europe) (En,Fr,De,Es)",
@@ -5258,16 +5496,19 @@
     "logo": "QmRJAcGvUfFfQRbKWka7bSieCDMJGjibqb4mW9XU8VDFYu"
   },
   "1E39A4EA0A8C7322A2E0653E522E0E486AA1AC36": {
-    "name": "Tweenies - Doodles' Bones (Europe) (En,Nl,Sv,No,Da)"
+    "name": "Tweenies - Doodles' Bones (Europe) (En,Nl,Sv,No,Da)",
+    "ref": "D1FF6FD8772DBC2038AF7220845E817396664AE3"
   },
   "CF04DAC11119C9BE4CA6E247E33B935BD0CDC62D": {
     "name": "Tweety Sekaiisshuu - 80 Hiki no Neko o Sagase! (Japan)"
   },
   "E0C3AB341A825B297F9970B00F1D911E48492A72": {
-    "name": "Tweety's High-Flying Adventure (Europe) (En,Es,It)"
+    "name": "Tweety's High-Flying Adventure (Europe) (En,Es,It)",
+    "ref": "9702AEEA4A92625D2C19AA7F606B589CB7531613"
   },
   "94B4E1953B230D862E8F6173E82C822ACB7FF02E": {
-    "name": "Tweety's High-Flying Adventure (Europe) (En,Fr,De)"
+    "name": "Tweety's High-Flying Adventure (Europe) (En,Fr,De)",
+    "ref": "9702AEEA4A92625D2C19AA7F606B589CB7531613"
   },
   "9702AEEA4A92625D2C19AA7F606B589CB7531613": {
     "name": "Tweety's High-Flying Adventure (USA)",
@@ -5290,7 +5531,8 @@
     "name": "UEFA 2000 (Europe) (En,Fr,De,Es,It,Nl)"
   },
   "5036626B97238E17B8FC203C44453E79B108CD2E": {
-    "name": "Ultimate Fighting Championship (Europe)"
+    "name": "Ultimate Fighting Championship (Europe)",
+    "ref": "8A02015E399A0311C15F0A8CA31744AA0BE0F5E6"
   },
   "8A02015E399A0311C15F0A8CA31744AA0BE0F5E6": {
     "name": "Ultimate Fighting Championship (USA)",
@@ -5303,7 +5545,8 @@
     "logo": "QmNZqd5J4P4v8jaPCJ3RmDowJ3vw2NENmFya6CU7V74mA3"
   },
   "15426E79CF1C0CAFBF8972501B8478951023C21A": {
-    "name": "Ultimate Surfing (Europe)"
+    "name": "Ultimate Surfing (Europe)",
+    "ref": "264C19AB212D938839306F7E8230D5CAEE3CF3E7"
   },
   "264C19AB212D938839306F7E8230D5CAEE3CF3E7": {
     "name": "Ultimate Surfing (USA)",
@@ -5311,7 +5554,8 @@
     "logo": "QmVMSosCV3nVcnM4yPvSGDg9VuRE8o4p3UcW3FbEuijFCs"
   },
   "B33214A4CD05F58DD019A77B1260BF557293C826": {
-    "name": "Uno (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
+    "name": "Uno (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)",
+    "ref": "20868148461618D1195570775B183A065781CE35"
   },
   "20868148461618D1195570775B183A065781CE35": {
     "name": "Uno (USA) (GB Compatible)",
@@ -5330,7 +5574,8 @@
     "logo": "QmRnA8XdKoMqJsNJr6oPLQjwYXwxVbkghVZgh5oWejuX4D"
   },
   "9B110D6EE12241AA5C061A1BB5F66E9CAB93842F": {
-    "name": "Vegas Games (Europe) (En,Fr,De)"
+    "name": "Vegas Games (Europe) (En,Fr,De)",
+    "ref": "C73423444CC5900518FBD163EC7421DC3E5A7CA2"
   },
   "C73423444CC5900518FBD163EC7421DC3E5A7CA2": {
     "name": "Vegas Games (USA)",
@@ -5348,7 +5593,8 @@
     "logo": "QmU3xofUWN9Hh7K7ibT7EzhaVxtuj3rmD4jX2eRqP8nx1W"
   },
   "3ECFF5C68E457EE34C42AF6349F9AB2A6845B5DE": {
-    "name": "VIP (USA) (En,Fr,Es)"
+    "name": "VIP (USA) (En,Fr,Es)",
+    "ref": "4DA103B9A5C9E9649B26876FCBD70555BD8FD042"
   },
   "307B5D80FD7DEF049D446BF3406EC8D57DFEE93D": {
     "name": "Visiteurs, Les (France) (GB Compatible)"
@@ -5357,7 +5603,8 @@
     "name": "VR Sports - Powerboat Racing (USA) (Proto)"
   },
   "DBA18064C886CEBE4C4BE80F941622F377ADAB98": {
-    "name": "Wacky Races (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Wacky Races (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "3EC148027D0E5A075D7A4597232E64215C060FA7"
   },
   "3EC148027D0E5A075D7A4597232E64215C060FA7": {
     "name": "Wacky Races (USA) (En,Fr,Es)",
@@ -5365,7 +5612,8 @@
     "logo": "QmVg6KHdp6kiTM4oK9T8GuGtMfB6k4wmv5ppXi12iutJ94"
   },
   "95DBEF19504368E73B97CD785E2B19E3C71710F4": {
-    "name": "Walt Disney World Quest - Magical Racing Tour (Europe) (Fr,De,Es)"
+    "name": "Walt Disney World Quest - Magical Racing Tour (Europe) (Fr,De,Es)",
+    "ref": "529289CCFD21397405D08305409C5D9B2119505E"
   },
   "529289CCFD21397405D08305409C5D9B2119505E": {
     "name": "Walt Disney World Quest - Magical Racing Tour (USA, Europe)",
@@ -5444,7 +5692,8 @@
     "logo": "QmY9Sf5bK4Z4niaDukDyNsoeNQh2b7DUPwuUaXZuZpwWYi"
   },
   "D3F21EA1A1D83546DFFCD63EC089CFAC04212A03": {
-    "name": "Wings of Fury (Europe) (En,Fr,De) (GB Compatible)"
+    "name": "Wings of Fury (Europe) (En,Fr,De) (GB Compatible)",
+    "ref": "AE217BD12F42CE6297282227B7E2D21E6337420C"
   },
   "AE217BD12F42CE6297282227B7E2D21E6337420C": {
     "name": "Wings of Fury (USA) (GB Compatible)",
@@ -5452,7 +5701,8 @@
     "logo": "QmU1nBc1Ck3xv9JLNuxzb725SinW75NVxJemuqKCrsq45E"
   },
   "B97B33E7423A712B3F77A2BF9A419F78EC5D30BE": {
-    "name": "Winnie the Pooh - Adventures in the 100 Acre Wood (Europe) (En,Fr,De,Es,It,Nl,Da)"
+    "name": "Winnie the Pooh - Adventures in the 100 Acre Wood (Europe) (En,Fr,De,Es,It,Nl,Da)",
+    "ref": "5FF68BC5EC735D090B24AAB79A787F77F26AFB08"
   },
   "5FF68BC5EC735D090B24AAB79A787F77F26AFB08": {
     "name": "Winnie the Pooh - Adventures in the 100 Acre Wood (USA)",
@@ -5478,7 +5728,8 @@
     "name": "Wizardry III - Diamond no Kishi (Japan)"
   },
   "363111C56BD301A4A4F3B921B5D1DDC65B856699": {
-    "name": "Woody Woodpecker (Europe) (En,Fr,De,Es,It)"
+    "name": "Woody Woodpecker (Europe) (En,Fr,De,Es,It)",
+    "ref": "09A6363D98F441B57ADB725CABDE7FEFF74466E3"
   },
   "09A6363D98F441B57ADB725CABDE7FEFF74466E3": {
     "name": "Woody Woodpecker (USA)",
@@ -5489,7 +5740,8 @@
     "name": "Woody Woodpecker no Go! Go! Racing (Japan)"
   },
   "47FBFBFB8AF15AE388E8DBE2AC521960C2F835AE": {
-    "name": "Woody Woodpecker Racing (Europe)"
+    "name": "Woody Woodpecker Racing (Europe)",
+    "ref": "BE98D0A54AEDCF59CDDC111C72DB66105AEA1375"
   },
   "BE98D0A54AEDCF59CDDC111C72DB66105AEA1375": {
     "name": "Woody Woodpecker Racing (USA)",
@@ -5503,7 +5755,8 @@
     "name": "World Soccer GB 2000 (Japan)"
   },
   "0BFF9F46F2C455E98A5F0D9C0D560EDA88D939DE": {
-    "name": "Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)"
+    "name": "Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)",
+    "ref": "EC587A3660298F95BF85F4471A626727B5FE6D7C"
   },
   "EC587A3660298F95BF85F4471A626727B5FE6D7C": {
     "name": "Worms Armageddon (USA) (En,Fr,Es)",
@@ -5526,7 +5779,8 @@
     "logo": "QmP4Nndc6qYXyLx7riDMGy6u2TLheRPjguVkLEk4SDKyUH"
   },
   "3DE082556A1DDD99149FA10CE4E219D64CAF98F3": {
-    "name": "X-Men - Mutant Academy (Japan)"
+    "name": "X-Men - Mutant Academy (Japan)",
+    "ref": "6509F46A2F32DF697D966BCAFD72EC3D631A3AC5"
   },
   "6509F46A2F32DF697D966BCAFD72EC3D631A3AC5": {
     "name": "X-Men - Mutant Academy (USA, Europe)",
@@ -5534,7 +5788,8 @@
     "logo": "QmNYQ7GXs5r7TgQQ4WGWKg3MEVJCsZ9ETS3fiqTXSKDeXz"
   },
   "167770BEFB087C0F95CFE3C3EFA3540C5F55A799": {
-    "name": "X-Men - Mutant Academy (USA, Europe) (Rev 1)"
+    "name": "X-Men - Mutant Academy (USA, Europe) (Rev 1)",
+    "ref": "6509F46A2F32DF697D966BCAFD72EC3D631A3AC5"
   },
   "0ADAEEF76DB5A6DF2786A45231E0934840F6EB44": {
     "name": "X-Men - Mutant Wars (USA, Europe)",
@@ -5542,7 +5797,8 @@
     "logo": "QmSCWb1LZts6JQ9XkC48EznYEYJGmmusjurbi8qzsen2KU"
   },
   "6EEEF0A72A453C26FA8C772C4036004986DC68F2": {
-    "name": "X-Men - Wolverine's Rage (Europe)"
+    "name": "X-Men - Wolverine's Rage (Europe)",
+    "ref": "B7143367D71932AD525C5DB94F5295686E6C58E5"
   },
   "B7143367D71932AD525C5DB94F5295686E6C58E5": {
     "name": "X-Men - Wolverine's Rage (USA)",
@@ -5560,7 +5816,8 @@
     "logo": "QmPJai58vZir5pE14fVmU6QUYrB3bGDR3XRwZLwATYBWet"
   },
   "7C1B43AC8F1E136B159F957613C1D4CDA8A9360A": {
-    "name": "Xtreme Wheels (Europe)"
+    "name": "Xtreme Wheels (Europe)",
+    "ref": "07C1DC116C369B3FF73588251E0D09D50D040474"
   },
   "07C1DC116C369B3FF73588251E0D09D50D040474": {
     "name": "Xtreme Wheels (USA)",
@@ -5581,7 +5838,8 @@
     "logo": "QmQWUoguK5JVY1jmuCn8bAyGvVmNTLLmiE6tYProcB93dX"
   },
   "86D3DFC1B852C34DF1BE90A24A41B5D4D5C4CA54": {
-    "name": "Yu-Gi-Oh! - Dark Duel Stories (Europe)"
+    "name": "Yu-Gi-Oh! - Dark Duel Stories (Europe)",
+    "ref": "1952D343BDFB5625BD23A8569CDE6FD61A911502"
   },
   "1952D343BDFB5625BD23A8569CDE6FD61A911502": {
     "name": "Yu-Gi-Oh! - Dark Duel Stories (USA)",

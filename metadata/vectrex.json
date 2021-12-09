@@ -33,7 +33,8 @@
     "logo": "Qmb3D82JxKqf7KFHXGSbTR5cBojXbZYUjwRqhpV8NPUPwn"
   },
   "AA1AA811C9CE5E19F43B78A6531CDD0E707337BD": {
-    "name": "Blitz! - Action Football (USA, Europe) (881B27C5)"
+    "name": "Blitz! - Action Football (USA, Europe) (881B27C5)",
+    "ref": "60893DFADA42CF50C94083D45AD5BD14D0C031C8"
   },
   "60893DFADA42CF50C94083D45AD5BD14D0C031C8": {
     "name": "Blitz! - Action Football (USA, Europe) (0F11CE0C)",
@@ -102,10 +103,12 @@
     "logo": "QmRVhA3yZJbSdkD1evpnpKHutDxdwAtEpWGJwF4fDCV3JQ"
   },
   "B7BD8C8003C60535E1E776758F5C289AA9A77E81": {
-    "name": "Polar Rescue (USA) (Beta)"
+    "name": "Polar Rescue (USA) (Beta)",
+    "ref": "87248DCD3DB51C1EBF3F8E07E21EC021EEC0B9BE"
   },
   "9F5B0B5E6CAF6D887D3637ACE70AD6A6258B999D": {
-    "name": "Pole Position (USA) (C10F37D8)"
+    "name": "Pole Position (USA) (C10F37D8)",
+    "ref": "8454D472435E7A6A4CA5FE129162480CA6E84B87"
   },
   "8454D472435E7A6A4CA5FE129162480CA6E84B87": {
     "name": "Pole Position (USA) (A00ED3D6)",
@@ -201,6 +204,7 @@
   },
   "745DDBDC285F1DA4F7C3EB5E44FE252D503C7A15": {
     "name": "Wormhole by John Dondzila (2001) (PD)",
-    "vid": "Qmd6pfnvEjTddPaZQddxNNiA3rkHQVshbtZekKqfmfTdBg"
+    "vid": "Qmd6pfnvEjTddPaZQddxNNiA3rkHQVshbtZekKqfmfTdBg",
+    "ref": "745DDBDC285F1DA4F7C3EB5E44FE252D503C7A15"
   }
 }

@@ -21,28 +21,36 @@
     "logo": "QmQwJ5BEFtGwMnqhcHa4WD3oYZUAW4r5mTSXEkDQHSG5Nh"
   },
   "AC60F308640EEA536BB3007D2A0B78D95B81D160": {
-    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-27)"
+    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-27)",
+    "ref": "50E8726BE1B26D066EA9E2E2B5CD7407C356187E"
   },
   "7877C4F8C271C37FC7D72208460231E60E63B95E": {
-    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-29)"
+    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-29)",
+    "ref": "50E8726BE1B26D066EA9E2E2B5CD7407C356187E"
   },
   "CDA657EB423A8891304CB64CF4A43FD434C60588": {
-    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-30)"
+    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-30)",
+    "ref": "50E8726BE1B26D066EA9E2E2B5CD7407C356187E"
   },
   "19F890A237D4AA0868121D80944055A314275F81": {
-    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-04)"
+    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-04)",
+    "ref": "50E8726BE1B26D066EA9E2E2B5CD7407C356187E"
   },
   "81CB20D64ACC5CEE4BC7B56F0DCEC9125B55F66F": {
-    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-02)"
+    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-02)",
+    "ref": "50E8726BE1B26D066EA9E2E2B5CD7407C356187E"
   },
   "0AFD0624BD054430B7894C24E2FB186D5F44AF99": {
-    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-06) (Alt 1)"
+    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-06) (Alt 1)",
+    "ref": "50E8726BE1B26D066EA9E2E2B5CD7407C356187E"
   },
   "8CEBB48B14C4C1EE4D168F764B074A87CC4E5324": {
-    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-06)"
+    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-06)",
+    "ref": "50E8726BE1B26D066EA9E2E2B5CD7407C356187E"
   },
   "EA5B5B79F92F5546A733EFC10F42997956037463": {
-    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-07)"
+    "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-07)",
+    "ref": "50E8726BE1B26D066EA9E2E2B5CD7407C356187E"
   },
   "CBDBAAEB62A8483D9D5A8757B0F19233DFB9B416": {
     "name": "Aerial Assault (World)",
@@ -50,7 +58,8 @@
     "logo": "QmUEps1uR2DcSiVoTBHSwSR5x2KCAompcEPogqAmHbGndA"
   },
   "2A91AB5817938DDDF2724DF2DFD95A3BC6F5156D": {
-    "name": "Aerial Assault (World) (Rev 1)"
+    "name": "Aerial Assault (World) (Rev 1)",
+    "ref": "CBDBAAEB62A8483D9D5A8757B0F19233DFB9B416"
   },
   "20BA7F5E5C801FBE48A537D2551A3D4525EB63E7": {
     "name": "Aladdin (USA, Europe, Brazil)",
@@ -58,19 +67,24 @@
     "logo": "QmQpCuWUboBJujed6EPe33V1WV2LCAuUyNoquGPjdtAvsT"
   },
   "7DDFD53E91D8220E4238D3994921BF18FE383717": {
-    "name": "Aladdin (Japan)"
+    "name": "Aladdin (Japan)",
+    "ref": "20BA7F5E5C801FBE48A537D2551A3D4525EB63E7"
   },
   "ED303CB2DEBBC74F65A02F863E8C5BBB446155C4": {
-    "name": "Aladdin (USA, Europe, Brazil) (Beta) (1993-12-28)"
+    "name": "Aladdin (USA, Europe, Brazil) (Beta) (1993-12-28)",
+    "ref": "20BA7F5E5C801FBE48A537D2551A3D4525EB63E7"
   },
   "7EC48D31A35006CCBA4ABCF108E187E0B222852B": {
-    "name": "Aladdin (USA, Europe, Brazil) (Beta) (1994-01-11)"
+    "name": "Aladdin (USA, Europe, Brazil) (Beta) (1994-01-11)",
+    "ref": "20BA7F5E5C801FBE48A537D2551A3D4525EB63E7"
   },
   "A968EE77938233A4FF94C73266C7FB36FA25657D": {
-    "name": "Aladdin (USA, Europe, Brazil) (Beta) (1994-01-13)"
+    "name": "Aladdin (USA, Europe, Brazil) (Beta) (1994-01-13)",
+    "ref": "20BA7F5E5C801FBE48A537D2551A3D4525EB63E7"
   },
   "F09885D76EA7AF75FB605261A08143D3CCDC4CA8": {
-    "name": "Alien 3 (Japan)"
+    "name": "Alien 3 (Japan)",
+    "ref": "F3B976FEFC331F37C3E4D883791EBA68890279A5"
   },
   "F3B976FEFC331F37C3E4D883791EBA68890279A5": {
     "name": "Alien 3 (USA, Europe)",
@@ -78,7 +92,8 @@
     "logo": "QmQ1tPp4iuNmd2m5vUnaREex5uy9XZCQ1ox7Ucdzin6kha"
   },
   "112C7FBA070EB7B6BDD41675D49CAF934C17DC17": {
-    "name": "Alien Syndrome (Europe)"
+    "name": "Alien Syndrome (Europe)",
+    "ref": "B72E54493BFA7F13883A608BCF8C9F315DD490CA"
   },
   "B72E54493BFA7F13883A608BCF8C9F315DD490CA": {
     "name": "Alien Syndrome (Japan)",
@@ -91,7 +106,8 @@
     "logo": "QmdwqknTkKL6CbMU7YRQGpPmUyaVidLdBvTnc639mz5t57"
   },
   "891407182B761957F9655F9C7D5365AA858FE49F": {
-    "name": "Andre Agassi Tennis (USA) (Beta)"
+    "name": "Andre Agassi Tennis (USA) (Beta)",
+    "ref": "9BD46E137723795A62CCA429EFFCDD51F3B71257"
   },
   "FDE19F418F4F13BBE43E6610F411065DB9A6F550": {
     "name": "Arcade Classics (USA)",
@@ -117,7 +133,8 @@
     "name": "Arliel - Crystal Densetsu (Japan)"
   },
   "821A0F9087001831FB9828FE2EF193877F960DB6": {
-    "name": "Asterix and the Great Rescue (USA, Brazil)"
+    "name": "Asterix and the Great Rescue (USA, Brazil)",
+    "ref": "6083F57BC33C761EBF06B7C7512D1EE10BF619C8"
   },
   "6083F57BC33C761EBF06B7C7512D1EE10BF619C8": {
     "name": "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)",
@@ -125,19 +142,24 @@
     "logo": "QmbMBbzLXxDDUs6orriigYTXqmWierCC1EEYmoPnvNsNDR"
   },
   "4D52303CE4AA680FCF5813317804B5805B9222A4": {
-    "name": "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-01-25)"
+    "name": "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-01-25)",
+    "ref": "6083F57BC33C761EBF06B7C7512D1EE10BF619C8"
   },
   "7D411F499E313BECE6CD0A6F32C614ADC0405190": {
-    "name": "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-02-16)"
+    "name": "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-02-16)",
+    "ref": "6083F57BC33C761EBF06B7C7512D1EE10BF619C8"
   },
   "CDE9940D29DC834806B55CC1783C1B7944EB7600": {
-    "name": "Asterix and the Great Rescue (USA) (Beta) (1994-03-03)"
+    "name": "Asterix and the Great Rescue (USA) (Beta) (1994-03-03)",
+    "ref": "6083F57BC33C761EBF06B7C7512D1EE10BF619C8"
   },
   "CA04B12F93D3657E323DB8AE3F3F31A6220EC732": {
-    "name": "Asterix and the Great Rescue (USA) (Beta) (1994-02-22)"
+    "name": "Asterix and the Great Rescue (USA) (Beta) (1994-02-22)",
+    "ref": "6083F57BC33C761EBF06B7C7512D1EE10BF619C8"
   },
   "BE292971696ECFA753D312C97C5B4788F5ADFBEE": {
-    "name": "Asterix and the Great Rescue (USA) (Beta) (1994-03-15)"
+    "name": "Asterix and the Great Rescue (USA) (Beta) (1994-03-15)",
+    "ref": "6083F57BC33C761EBF06B7C7512D1EE10BF619C8"
   },
   "8AB4EA406A0503B09C1BD89E3217C5735B36EBED": {
     "name": "Asterix and the Secret Mission (Europe) (En,Fr,De)",
@@ -161,13 +183,16 @@
     "logo": "QmRfhb5Wg1LvZmhmvNU62kaxzHBYhcfQXtahNDvTgE7i9L"
   },
   "44F2C2BFA6AB57C1FD533996A5E404EBAA07264B": {
-    "name": "Ayrton Senna's Super Monaco GP II (Japan)"
+    "name": "Ayrton Senna's Super Monaco GP II (Japan)",
+    "ref": "E6A86010A4DAD0A6102783D3C00AD126E8221597"
   },
   "3467364272FEA73D434AAA421B1F3F39F34D97B0": {
-    "name": "Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (Beta)"
+    "name": "Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (Beta)",
+    "ref": "E6A86010A4DAD0A6102783D3C00AD126E8221597"
   },
   "F4F31D08E17B9936DEA621FEF9B38E1CD067BEF2": {
-    "name": "Baku Baku (USA)"
+    "name": "Baku Baku (USA)",
+    "ref": "5145967D0A3632CF6BB1A9D58B2EF04FAECD40DB"
   },
   "5145967D0A3632CF6BB1A9D58B2EF04FAECD40DB": {
     "name": "Baku Baku (Europe)",
@@ -219,10 +244,12 @@
     "logo": "QmSgCp57fBaVbBf9UFTtmjDjSwm9YEZuud2aapfWxGT3Zd"
   },
   "F566A19D1CFD5C20D5B91B396F29323BE2209911": {
-    "name": "Battletoads (USA)"
+    "name": "Battletoads (USA)",
+    "ref": "77A284B993C6F60652D88468B836D7A2EE7B4600"
   },
   "DD2EA76C05D933B91F1B03140F6A04BF02F746D1": {
-    "name": "Beavis and Butt-Head (USA, Europe)"
+    "name": "Beavis and Butt-Head (USA, Europe)",
+    "ref": "EF47D449F65CFE129368A77CC0A4679A0D55EE63"
   },
   "EF47D449F65CFE129368A77CC0A4679A0D55EE63": {
     "name": "Beavis and Butt-Head (USA, Europe) (Beta)",
@@ -235,55 +262,72 @@
     "logo": "QmZr8QA2Vt1PSBszPJFmtzGfrwa3yXAW8LwPsgkR8ym9Jr"
   },
   "5FC1A46C47BB847FD3DBCA54C9BA729011546B76": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-15)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-15)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "92ED587953DB4C0001D19395C9C8C611D15D0CEF": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-21)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-21)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "83E3D4ED1437B6ED042B88129F3C1FB3D1846C94": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-22)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-22)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "9E16AA6A11186089510FAC9413BDD8E62001A761": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-28)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-28)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "801ED129A09373AD9606F7DEDC9CE0BD7CE7DD21": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-27)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-27)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "C7E0CCEFDCC4F12D7ECDBAB383E441B829A2C789": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-01)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-01)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "2D6ECB588299BBE9CB0EB54954663043355D759E": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11) (Alt 1)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11) (Alt 1)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "AF14FCB9329C0DED9775473EF78E241FB6B2D365": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "9B2AA818CDADC435CA1AEE8AE54809377DCE26F3": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-12)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-12)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "B43373E626D96649F11D5F0AC1101A20B7404978": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-13)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-13)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "A8ADAE0AC9301B3342D79715B18E8CDEBC6D84F6": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-14)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-14)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "0E44212A90383B82CD0D4E03B6CD12A6B38E2D48": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-19)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-19)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "480537A721631FC9CEBE67422010DFE5739002EF": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-24)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-24)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "6AAD469E328614D9ED3F8F84BD90EF2DAC2E71DB": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-20)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-20)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "AC152AA09DC09419C26761C18276FE4D679D8992": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-25)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-25)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "09BB4A3E936DCCE34B46090F5F2F1353DEE1D6F6": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26) (Alt 1)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26) (Alt 1)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "BD1FF3C4669379B2A02BD8E1D76B9C02FEFC783E": {
-    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26)"
+    "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26)",
+    "ref": "A35BEF59A59DF2A6D3DC4B8D3FE2E4CC79464537"
   },
   "1D58D3D8B957D33BAB8B50AE60DC0C31EAFC08AF": {
     "name": "Berlin no Kabe (Japan)"
@@ -297,43 +341,56 @@
     "logo": "QmT1Qe21CCE6qhV4AcvPQHxWFDeYHgfWsNuFFENeKxY1Up"
   },
   "160D28C7FD900AB25117247ECCECF2ECDB164CE4": {
-    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-10-31)"
+    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-10-31)",
+    "ref": "B98BD9467FE8BF782989172B576C7844F3666AE9"
   },
   "6CD8FEE2110BC5010A2840C6E5B3FB32270EFC02": {
-    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-15)"
+    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-15)",
+    "ref": "B98BD9467FE8BF782989172B576C7844F3666AE9"
   },
   "C60FBD9E191E4154E26E73F0FD1BE1DC6E999E11": {
-    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-21)"
+    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-21)",
+    "ref": "B98BD9467FE8BF782989172B576C7844F3666AE9"
   },
   "7E426A1DB56125836DD93EA57D5AC82CFF1BE23F": {
-    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-03)"
+    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-03)",
+    "ref": "B98BD9467FE8BF782989172B576C7844F3666AE9"
   },
   "AC22B149FCD6B500875C93F71E12B2A6CEDEA507": {
-    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-23)"
+    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-23)",
+    "ref": "B98BD9467FE8BF782989172B576C7844F3666AE9"
   },
   "4AD7947A4FFEE9A76D146FECC9C3C2F6C5E680B7": {
-    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-29)"
+    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-29)",
+    "ref": "B98BD9467FE8BF782989172B576C7844F3666AE9"
   },
   "FBDCCD5EE5F38B8CE5654A0093F32E3811C8B56B": {
-    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-26)"
+    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-26)",
+    "ref": "B98BD9467FE8BF782989172B576C7844F3666AE9"
   },
   "DCBB000CDA6F303D902A308A50E08EBC4803D511": {
-    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-05)"
+    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-05)",
+    "ref": "B98BD9467FE8BF782989172B576C7844F3666AE9"
   },
   "415FC9E0021F544CBF8FD0895D013465654FD1D5": {
-    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-07)"
+    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-07)",
+    "ref": "B98BD9467FE8BF782989172B576C7844F3666AE9"
   },
   "C8844BFDA83A94CE648588EF945A0D76503B84CE": {
-    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08) (Alt 1)"
+    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08) (Alt 1)",
+    "ref": "B98BD9467FE8BF782989172B576C7844F3666AE9"
   },
   "E797640E2363F517FB83EE42903F5D13A1FFAD73": {
-    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-11)"
+    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-11)",
+    "ref": "B98BD9467FE8BF782989172B576C7844F3666AE9"
   },
   "50897D1CBDA11E7B20678924D7461F8ACD6F0686": {
-    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08)"
+    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08)",
+    "ref": "B98BD9467FE8BF782989172B576C7844F3666AE9"
   },
   "368286DED1662EDDFFF056AD77583D62CE83F58B": {
-    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-12)"
+    "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-12)",
+    "ref": "B98BD9467FE8BF782989172B576C7844F3666AE9"
   },
   "EA753B5DCE4B319CC1709451A4C8CB55DAF2B76B": {
     "name": "Bram Stoker's Dracula (Europe)",
@@ -341,7 +398,8 @@
     "logo": "QmWBAd6ePW5qMmdqdrb55utpk9SD729HGjAmhr89Cdgjjp"
   },
   "BDE7280D4FEAB1C27DDA228EF821C7A1C63A9E07": {
-    "name": "Bram Stoker's Dracula (USA)"
+    "name": "Bram Stoker's Dracula (USA)",
+    "ref": "EA753B5DCE4B319CC1709451A4C8CB55DAF2B76B"
   },
   "571BD543320BC67C4103630C804705955BC5250A": {
     "name": "BreakThru! (USA) (Proto)"
@@ -352,7 +410,8 @@
     "logo": "QmaUxirsefMrv3TH6g3HcNXdSGspJo1p75sWzftcoL99iL"
   },
   "6D4B02F63D5D0C5FFEAD8FB8C4726FD610C245AD": {
-    "name": "Bubble Bobble (USA) (Beta)"
+    "name": "Bubble Bobble (USA) (Beta)",
+    "ref": "C2C99D798BD0D4960021743A55E74644AD9020C6"
   },
   "A29DABB90532FF6114437F28970203E16003C11E": {
     "name": "Bugs Bunny in Double Trouble (USA, Europe)",
@@ -421,76 +480,100 @@
     "logo": "QmQnSjdnKQBQxsEBJN9qg7qBdRz4s69LpGv5ZhhWvqDn4X"
   },
   "6534E73EA631DE8DF56779F3BA4C1948B0070400": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-05-05)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-05-05)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "5AB2358C0DB7C486CE2E9BCC663C054A694BFF46": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-01)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-01)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "0FC9D9A9BBBC00DC286F350DE07B0E53A507C01F": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-05)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-05)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "6154BBC7C0C06D354283AF2292EB041E1D87944A": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-07)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-07)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "7138742323B2BA7D18EB9497F78FCB6CD2025DF1": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-08)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-08)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "7F83C523A6B0813A2C1F72E71F5DBC0E1EA556CB": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-14)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-14)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "99AEAC9B5B3800DDD8EE6630E373AF73496C8B3A": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-12)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-12)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "61CA81B15FAD4D71A8222A8DC9F9C1FC05561549": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-19)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-19)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "924BB32515D4A0435FB318F852483FDC1974E771": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-20)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-20)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "821BC6A27DD1CF519033D65FFE41458F3BEE21CD": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-22)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-22)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "148D09A535E50730672557668C3161F3B18B4834": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-26)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-26)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "6FD25C55C8CC6B10F928AF6D5DE83D61685DF940": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-29)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-29)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "F72C381FABEF9286DA6A7EDE230156277364C5D1": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-29) (Alt 1)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-29) (Alt 1)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "5FC82FC2866B7DD99868DFA1A0B619AD688D1221": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-30)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-30)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "E526B1FF96C245D4EC69064A2CC8E57169081802": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-03)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-03)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "5A46ACE9F6B24E8403CAEAD2B6EC39E4059E68E6": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-28)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-06-28)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "18B2A946800D4A6347CD96C8790ADD2F34FE4DFA": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-05)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-05)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "B76A7E673E5581A2084098F737FF551CE8880296": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-06)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-06)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "087DF96C15AA1258A46690B4859A5447481E058F": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-20)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-20)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "5C6DB9314CBC4C7933DACC076E59948147AD79AE": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-21)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-21)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "17887BE88692097ACC74488B16A255B7B6B95AEE": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-21) (Alt 1)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-21) (Alt 1)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "B70863B4A6AEC101CEE895BAF3F8EA27E076E369": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-19)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-19)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "B32EC7E95DC39F0B78DD3D0B17C2D504F5F24F9A": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-10)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-10)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "BC01553450523D4860C2FB42D84297FD80CBF5D2": {
-    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-11)"
+    "name": "Chicago Syndicate (USA, Brazil) (Beta) (1995-07-11)",
+    "ref": "D7746E4C78AA86BC698FC25A52A791BA27A71ADD"
   },
   "C0152F5B07B6FF47DFEDDA5258EDA1D4E335CDBF": {
     "name": "Choplifter III (USA)",
@@ -503,7 +586,8 @@
     "logo": "Qma8VDUzusqXWGz2UQwrufQLfaAmnGtYyrReHRqM4cchVN"
   },
   "17442F7B30D7882723BDDCAD38C9ADA363FB7211": {
-    "name": "Chuck Rock (World) (Beta)"
+    "name": "Chuck Rock (World) (Beta)",
+    "ref": "2B08A3231C0504D86CACA74C8508D85C8EF6A86A"
   },
   "8EE080538E87E0F39720C9254BB4A2D85F637967": {
     "name": "Chuck Rock II - Son of Chuck (Europe, Brazil)",
@@ -511,7 +595,8 @@
     "logo": "QmQJPvBxrKFK6VpTTiCNFiRcZgJYJTmKtuiFg8EvPXznrE"
   },
   "F6AA6A9A641B3A588A8091CF44E8B0A55EBBD613": {
-    "name": "Chuck Rock II - Son of Chuck (USA)"
+    "name": "Chuck Rock II - Son of Chuck (USA)",
+    "ref": "8EE080538E87E0F39720C9254BB4A2D85F637967"
   },
   "A60815AA0C6EC2BC5AD7F817668B74A42BB64026": {
     "name": "CJ Elephant Fugitive (USA, Europe)"
@@ -533,10 +618,12 @@
     "name": "Coca-Cola Kid (Japan)"
   },
   "D83FD16BD23C51750555A692535DAA171ED41AF0": {
-    "name": "Columns (Japan) (En) (Rev 1)"
+    "name": "Columns (Japan) (En) (Rev 1)",
+    "ref": "05B73F39A90FD59E01262CBD3F4E7A21575D468A"
   },
   "8B39BA23132AF102B8DC313C5C1C211F4A4F27E1": {
-    "name": "Columns (Japan) (En)"
+    "name": "Columns (Japan) (En)",
+    "ref": "05B73F39A90FD59E01262CBD3F4E7A21575D468A"
   },
   "05B73F39A90FD59E01262CBD3F4E7A21575D468A": {
     "name": "Columns (USA, Europe, Brazil) (Rev 2)",
@@ -544,7 +631,8 @@
     "logo": "QmU3h7MGqz62HVRcBz6oB8gW81RrcY5yHXJce2CRHyfkd2"
   },
   "68C94B4EBD33016C3F0B4EE2B6F5524040E5503E": {
-    "name": "Cool Spot (Europe)"
+    "name": "Cool Spot (Europe)",
+    "ref": "C5F39A81C33327DC86B41D6F416EFE09B131E14D"
   },
   "C5F39A81C33327DC86B41D6F416EFE09B131E14D": {
     "name": "Cool Spot (USA)",
@@ -573,7 +661,8 @@
     "logo": "Qmeo5Er6qhXjKfzDJdWCgHTzdBZJyfPc72eQv9xrhjvM1V"
   },
   "B2D1FD7A1BBBAC3D4F1CF9BABD6FF85ED7962C1A": {
-    "name": "CutThroat Island (USA) (Beta)"
+    "name": "CutThroat Island (USA) (Beta)",
+    "ref": "95D2012C4027228FDA50EF434B53AE5633A7EB8C"
   },
   "2D058F3885BEE45B04B74CBE16F3974D4EB2BFCF": {
     "name": "Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It)",
@@ -587,7 +676,8 @@
     "name": "Deep Duck Trouble Starring Donald Duck (USA, Europe)"
   },
   "76E1F94DBB8A12BA428767D2E70F00FE719FA449": {
-    "name": "Defenders of Oasis (USA, Europe) (Beta)"
+    "name": "Defenders of Oasis (USA, Europe) (Beta)",
+    "ref": "07C1167C3B6EEA294A73272C256934406F48F9D5"
   },
   "07C1167C3B6EEA294A73272C256934406F48F9D5": {
     "name": "Defenders of Oasis (USA, Europe)",
@@ -595,7 +685,8 @@
     "logo": "QmdBgEueqm7KuSoTm8bDFaGQ2RmoBGwbowe4zjqTcTJRMe"
   },
   "FE4C1DF4E8D8CD244E9CEF803EEAFAEC4962C31A": {
-    "name": "Defenders of Oasis (USA, Europe) (Virtual Console)"
+    "name": "Defenders of Oasis (USA, Europe) (Virtual Console)",
+    "ref": "07C1167C3B6EEA294A73272C256934406F48F9D5"
   },
   "6B88FB212F0556EA57E01A3A1CD5123DB5631E28": {
     "name": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil)",
@@ -603,7 +694,8 @@
     "logo": "QmcWhiT3Ss8uroXEoKuctTrCa6pvkjuh53iCiMEHvtdSKQ"
   },
   "A253283456010BD73D3BDE209566F26B6F8C582F": {
-    "name": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)"
+    "name": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)",
+    "ref": "6B88FB212F0556EA57E01A3A1CD5123DB5631E28"
   },
   "3BB092B14C650C5FFD0370E6870878282B3D04F4": {
     "name": "Desert Strike (Europe) (En,Fr,De,Es)"
@@ -614,10 +706,12 @@
     "logo": "QmbH2iMQ1JUdqrrmmBkZYx2QFtkbzuyuVKMjsJJ1xHPMt5"
   },
   "5B1D4295920EBE4D6D9B9610764939B2AAA6C598": {
-    "name": "Devilish (Japan)"
+    "name": "Devilish (Japan)",
+    "ref": "421A416C71DD245D80B362AF57D01C80547CF042"
   },
   "3EB7E6CBE74D16BB14C42E91AB6334C156071F6B": {
-    "name": "Devilish (Europe, Brazil)"
+    "name": "Devilish (Europe, Brazil)",
+    "ref": "421A416C71DD245D80B362AF57D01C80547CF042"
   },
   "421A416C71DD245D80B362AF57D01C80547CF042": {
     "name": "Devilish (USA)",
@@ -645,7 +739,8 @@
     "name": "Doraemon - Waku Waku Pocket Paradise (Japan)"
   },
   "B24AA3E31EFBF09E8D0D9AE9D07B4D219B648F96": {
-    "name": "Double Dragon (USA, Europe) (Beta)"
+    "name": "Double Dragon (USA, Europe) (Beta)",
+    "ref": "BAEBE28FC7549CBB06C94FCB36A3C40231933C01"
   },
   "BAEBE28FC7549CBB06C94FCB36A3C40231933C01": {
     "name": "Double Dragon (USA, Europe)",
@@ -661,7 +756,8 @@
     "logo": "QmfVSVEgShnGVLRxRYqjzMUXRYxUXro5mDv1Z1pTpajwdq"
   },
   "60C7CBE782C3DF094452835076B9425C329C82EE": {
-    "name": "Dragon - The Bruce Lee Story (USA)"
+    "name": "Dragon - The Bruce Lee Story (USA)",
+    "ref": "F1A90FFDFF1003B4DEDC61CE688591006A2D40BE"
   },
   "F1A90FFDFF1003B4DEDC61CE688591006A2D40BE": {
     "name": "Dragon - The Bruce Lee Story (Europe)",
@@ -669,7 +765,8 @@
     "logo": "QmRL8en5o1jstfikYB9VpkQjbUht32Wc1d2xUbn2M2SAxq"
   },
   "B9A396BE0E009C951F85BDD6E81FFE1A71232E44": {
-    "name": "Dragon - The Bruce Lee Story (Europe) (Beta)"
+    "name": "Dragon - The Bruce Lee Story (Europe) (Beta)",
+    "ref": "F1A90FFDFF1003B4DEDC61CE688591006A2D40BE"
   },
   "6D53F32001D419A5B5E9C16CB62E07E548D2F44A": {
     "name": "Dragon Crystal (USA, Europe)",
@@ -677,7 +774,8 @@
     "logo": "QmcofXVHhRQKJ6VdVQndUTQuPtDrEqbeJtsVHFPr9icSii"
   },
   "C7D1551B7BBC01F35FA849E5B05073012F76C3A8": {
-    "name": "Dragon Crystal (USA, Europe) (Virtual Console)"
+    "name": "Dragon Crystal (USA, Europe) (Virtual Console)",
+    "ref": "6D53F32001D419A5B5E9C16CB62E07E548D2F44A"
   },
   "EA323C4AC28D7762277039450C341D0F025093D8": {
     "name": "Dragon Crystal - Tsurani no Meikyuu (Japan)"
@@ -692,7 +790,8 @@
     "name": "Dunk Kids (Japan)"
   },
   "A8C8B5252A885D466E044E6055336513D988E661": {
-    "name": "Dynamite Headdy (USA, Europe)"
+    "name": "Dynamite Headdy (USA, Europe)",
+    "ref": "A8E3F447089537B52E40958C07610BFEAD82442D"
   },
   "A8E3F447089537B52E40958C07610BFEAD82442D": {
     "name": "Dynamite Headdy (Japan)",
@@ -700,13 +799,16 @@
     "logo": "QmZTdNZEyRQd2cKq2UAm1iY9T452k1oeehP8jSjrryfxEu"
   },
   "0E408B4C9DFBB94BDF556B7AA920D4AC71D88C56": {
-    "name": "Dynamite Headdy (USA, Europe) (Beta) (1994-07-01)"
+    "name": "Dynamite Headdy (USA, Europe) (Beta) (1994-07-01)",
+    "ref": "A8E3F447089537B52E40958C07610BFEAD82442D"
   },
   "0E8BCCB304898A80EFCBAE8351303103EC4145EE": {
-    "name": "Dynamite Headdy (USA, Europe) (Beta) (1994-06-15)"
+    "name": "Dynamite Headdy (USA, Europe) (Beta) (1994-06-15)",
+    "ref": "A8E3F447089537B52E40958C07610BFEAD82442D"
   },
   "59807E03D32837DB34E2912D0E85DB812EDF823C": {
-    "name": "Dynamite Headdy (USA, Europe) (Beta) (1994-07-05)"
+    "name": "Dynamite Headdy (USA, Europe) (Beta) (1994-07-05)",
+    "ref": "A8E3F447089537B52E40958C07610BFEAD82442D"
   },
   "DBB149DA0B0373F23750ED954DBB5E08BC634615": {
     "name": "Earthworm Jim (USA)",
@@ -714,7 +816,8 @@
     "logo": "QmfNHoi1XU8swix268K6kayQzjjuBR9vh8gDdmCdcZUTte"
   },
   "841844E847DE742FA62F2AFB185AA7BEA7F1951E": {
-    "name": "Earthworm Jim (Europe)"
+    "name": "Earthworm Jim (Europe)",
+    "ref": "DBB149DA0B0373F23750ED954DBB5E08BC634615"
   },
   "61913F6803977BB54FDA7C3D969DC2C0F7C6DA62": {
     "name": "Ecco - The Tides of Time (USA, Europe, Brazil)",
@@ -722,7 +825,8 @@
     "logo": "QmdtLDog4FxDpptu6PRaeDmg1VdRr41mgf9CMK8XqL1xGH"
   },
   "5F0DE698E8E0D4323B36BD78E2BD1AF1C3370F3E": {
-    "name": "Ecco the Dolphin (Japan)"
+    "name": "Ecco the Dolphin (Japan)",
+    "ref": "7C6C8F44D5AA799726ADC3A9E21C9F35CACEA87F"
   },
   "7C6C8F44D5AA799726ADC3A9E21C9F35CACEA87F": {
     "name": "Ecco the Dolphin (USA, Europe, Brazil)",
@@ -733,10 +837,12 @@
     "ref": "7C6C8F44D5AA799726ADC3A9E21C9F35CACEA87F"
   },
   "070298F87402E874576F295828EDDE142482A085": {
-    "name": "Ecco the Dolphin (USA, Europe, Brazil) (Beta 1) (1993-06-14)"
+    "name": "Ecco the Dolphin (USA, Europe, Brazil) (Beta 1) (1993-06-14)",
+    "ref": "7C6C8F44D5AA799726ADC3A9E21C9F35CACEA87F"
   },
   "E9C260C5B2E5288A4B190987EF1F9744203C9EB3": {
-    "name": "Ecco the Dolphin (USA, Europe, Brazil) (Beta 2)"
+    "name": "Ecco the Dolphin (USA, Europe, Brazil) (Beta 2)",
+    "ref": "7C6C8F44D5AA799726ADC3A9E21C9F35CACEA87F"
   },
   "36095F4C92F6F66ED6BC20D9B96227D6FB0DAE5B": {
     "name": "Ecco the Dolphin II (Japan)"
@@ -802,10 +908,12 @@
     "logo": "QmankAuQBitvquSvEdBoYLEoLvTZQSSyyCgFvA3AMvsEko"
   },
   "2D69D1A7B57F04DF097CF685A84BEAC9947165D4": {
-    "name": "Fatal Fury Special (Europe)"
+    "name": "Fatal Fury Special (Europe)",
+    "ref": "7CE20CA34B7BC91BA7E73F830B40830AD6BAFBC8"
   },
   "70385B99320F91FEF54EA88123761AF9D7FF54C5": {
-    "name": "FIFA International Soccer (Japan)"
+    "name": "FIFA International Soccer (Japan)",
+    "ref": "0725626FC9988B690FC1FC77B294D31B78CBFB5A"
   },
   "0725626FC9988B690FC1FC77B294D31B78CBFB5A": {
     "name": "FIFA International Soccer (USA, Europe)",
@@ -831,7 +939,8 @@
     "name": "Fray - Shugyou Hen (Japan)"
   },
   "FB7B3C6652C3105497B8254DAF063D25519FEA61": {
-    "name": "Fred Couples Golf (Japan)"
+    "name": "Fred Couples Golf (Japan)",
+    "ref": "FC160122F14772FD1C4476EFFAE5A4010A6C012D"
   },
   "FC160122F14772FD1C4476EFFAE5A4010A6C012D": {
     "name": "Fred Couples Golf (USA)",
@@ -845,10 +954,12 @@
     "name": "From TV Animation Slam Dunk - Shouri e no Starting 5 (Japan)"
   },
   "ED32016476E40FDE06D8A1A9777875B75D49ADF6": {
-    "name": "G-LOC - Air Battle (Japan)"
+    "name": "G-LOC - Air Battle (Japan)",
+    "ref": "407DA6E4D0916D3F54AD1BA8D45FACE04DAD5657"
   },
   "033C65E52011FD6B9BE86ECB0F5D8209DBBDBBCA": {
-    "name": "G-LOC - Air Battle (Japan) (Rev 1)"
+    "name": "G-LOC - Air Battle (Japan) (Rev 1)",
+    "ref": "407DA6E4D0916D3F54AD1BA8D45FACE04DAD5657"
   },
   "407DA6E4D0916D3F54AD1BA8D45FACE04DAD5657": {
     "name": "G-LOC - Air Battle (USA, Europe, Brazil)",
@@ -930,7 +1041,8 @@
     "logo": "QmbQwnz8Gb5hGzvYuiZe89Up3Tp456mL33swcQJ2Nmnedy"
   },
   "9AD7313DA97EF00463800199AB9E4E6F39FBCB0D": {
-    "name": "GG Shinobi, The ~ Shinobi (World) (Rev 1) (Virtual Console)"
+    "name": "GG Shinobi, The ~ Shinobi (World) (Rev 1) (Virtual Console)",
+    "ref": "2E7303F82D885CB84FA557E211954808C8EBE779"
   },
   "DDAD863406D429ACB218C75042D5E5C511BDAD4F": {
     "name": "Global Gladiators (Europe)",
@@ -941,7 +1053,8 @@
     "name": "Gojira - Kaijuu Daishingeki (Japan)"
   },
   "B1C4315DC4AFE58256F3834CFF8E94C6B02BC1B6": {
-    "name": "GP Rider (Japan)"
+    "name": "GP Rider (Japan)",
+    "ref": "7777F091C8B540D3248FD7C0FB21E742AF6F0EDE"
   },
   "7777F091C8B540D3248FD7C0FB21E742AF6F0EDE": {
     "name": "GP Rider (World)",
@@ -949,7 +1062,8 @@
     "logo": "QmZ9ZM47XGjaiLdnxxYsv1tP3ZdsagjBYpYER9KvXFG3eY"
   },
   "5E13822BF04FACC19D44A718635647AD4DB6CD2A": {
-    "name": "GP Rider (World) (Beta) (1994-01-04)"
+    "name": "GP Rider (World) (Beta) (1994-01-04)",
+    "ref": "7777F091C8B540D3248FD7C0FB21E742AF6F0EDE"
   },
   "B5BF962000636BB1CBDF134759BAA1E25B25D097": {
     "name": "Greendog - The Beached Surfer Dude! (USA, Brazil)",
@@ -963,7 +1077,8 @@
     "name": "Gunstar Heroes (Japan)"
   },
   "77637E9916A774529D971370C1509EEC0B7E1651": {
-    "name": "Halley Wars (USA, Europe, Brazil)"
+    "name": "Halley Wars (USA, Europe, Brazil)",
+    "ref": "1C9932F592BB12E61ACF597985E0BD5041E45DA5"
   },
   "1C9932F592BB12E61ACF597985E0BD5041E45DA5": {
     "name": "Halley Wars (Japan)",
@@ -990,7 +1105,8 @@
     "logo": "QmRXD9o35nefb4z2hKFx32FfLivWf3Yjx5SAo2xbs22Aon"
   },
   "404FE95907D816B524ACD34C9223C30AFCD82FA4": {
-    "name": "Hook (Europe)"
+    "name": "Hook (Europe)",
+    "ref": "B9BD292FA4F3EF7DD86EBAE9E1B5364CE6653C45"
   },
   "D4F0A691F11DE7D91EDE6FF95D26343A50840EB1": {
     "name": "Hurricanes (Europe)",
@@ -1062,7 +1178,8 @@
     "logo": "Qmd7UAn9BC7916Qh13Y6A3vQdheVmfwEGXNMbRNg1gCmvK"
   },
   "E592BCE01E8148081DAA2EDD24FD106BD61095A6": {
-    "name": "James Pond II - Codename RoboCod (Europe)"
+    "name": "James Pond II - Codename RoboCod (Europe)",
+    "ref": "6C4A9C1613BC436033B54914ACAF951C62593972"
   },
   "2B3BB8FD76FE706D7E564B372D2D71DFCE53CB1B": {
     "name": "Jang Pung II (Korea) (Unl)"
@@ -1083,7 +1200,8 @@
     "logo": "QmdBmvHy4EDoMiXUhR96LE6EU4QWCKjtDiKxikuPM4jK5z"
   },
   "24C3B2CD18967B7141850D4F63B4992C3DAD3AD4": {
-    "name": "Joe Montana Football (USA, Europe)"
+    "name": "Joe Montana Football (USA, Europe)",
+    "ref": "253196B98D83B910C289B0211B6DE025C66C916C"
   },
   "ED5D1FC5BA8A47992551B0D577C1A6A06D0F7AC2": {
     "name": "Journey from Darkness - Strider Returns (USA, Europe)",
@@ -1096,7 +1214,8 @@
     "logo": "QmcZPd4Pa7Zertui6w5uHQehFUvpKwVu3ZLfvsXwfd2DHy"
   },
   "D2B536DD1CDD72C66FAF179D6AB2F6CF420A5682": {
-    "name": "Junction (USA)"
+    "name": "Junction (USA)",
+    "ref": "70CAC7959D29903AD22316E9F5EDF60834381D27"
   },
   "70CAC7959D29903AD22316E9F5EDF60834381D27": {
     "name": "Junction (Japan) (En)",
@@ -1104,7 +1223,8 @@
     "logo": "QmezucUYb1ZWQM5tF8E6NYmwvaWHKu4hWV8uAK3jQYUox5"
   },
   "14A5D4EA99EE91AEC948D62CAB56FC1C05CC7C45": {
-    "name": "Jungle Book, The (Europe)"
+    "name": "Jungle Book, The (Europe)",
+    "ref": "F9DA97DB661F8EF7E7AF87A83D23100C2FED4FB0"
   },
   "F9DA97DB661F8EF7E7AF87A83D23100C2FED4FB0": {
     "name": "Jungle Book, The (USA)",
@@ -1115,7 +1235,8 @@
     "name": "Jungle Strike (USA)"
   },
   "89486678A6A065C56102296EEBC7B25C5EF32D21": {
-    "name": "Jurassic Park (Japan)"
+    "name": "Jurassic Park (Japan)",
+    "ref": "0425DC09465A4B7BE78AB7AA46107987BA61E82A"
   },
   "0425DC09465A4B7BE78AB7AA46107987BA61E82A": {
     "name": "Jurassic Park (USA, Europe, Brazil)",
@@ -1131,7 +1252,8 @@
     "logo": "QmWDZY4pjqtH8aPnqptZpgbcTpt9LBS7zHBJaCo1T8sk3u"
   },
   "BA5981FED892A62006B20B6C913DCAC84573F345": {
-    "name": "Kawasaki Superbike Challenge (USA)"
+    "name": "Kawasaki Superbike Challenge (USA)",
+    "ref": "7B0801C4AD6C15546F61DECF2620F198B990425D"
   },
   "21B08C5C4B086E169D5F780CAFC22C041E19807B": {
     "name": "Kenyuu Densetsu Yaiba (Japan)"
@@ -1177,25 +1299,32 @@
     "logo": "QmXqWcNA38JWJcagUxHYf94Jp36k6QDBPRx61Qc4ASytKW"
   },
   "2D78A5B6449C9D20CD03156A56CBC6BC10C2EF68": {
-    "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-22)"
+    "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-22)",
+    "ref": "FA1200FD34A81796222EAE97175C2FB72A77E970"
   },
   "94EC7C72E2FB6E4BD51EF55EAC9646FB2FA8D791": {
-    "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30) (Alt 1)"
+    "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30) (Alt 1)",
+    "ref": "FA1200FD34A81796222EAE97175C2FB72A77E970"
   },
   "13C6F75A1360A76673BCEBDF18B9735DDAA113C7": {
-    "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-11)"
+    "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-11)",
+    "ref": "FA1200FD34A81796222EAE97175C2FB72A77E970"
   },
   "14F266482BFD25238C6E44087C26ACA329D4FA64": {
-    "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30)"
+    "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30)",
+    "ref": "FA1200FD34A81796222EAE97175C2FB72A77E970"
   },
   "CCBCDA1E7D74E0BFE94ECB1214D4CA1A5D1504AB": {
-    "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-17)"
+    "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-17)",
+    "ref": "FA1200FD34A81796222EAE97175C2FB72A77E970"
   },
   "98C4ADAF6E74D960760F686F256F63BC887C1A2B": {
-    "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-14)"
+    "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-14)",
+    "ref": "FA1200FD34A81796222EAE97175C2FB72A77E970"
   },
   "5A79B6FA15B7085FC7062945F0E6D469D49871E1": {
-    "name": "Lemmings (World)"
+    "name": "Lemmings (World)",
+    "ref": "31B9926EFFF652151C8390529FC2C8A211AAFB0B"
   },
   "31B9926EFFF652151C8390529FC2C8A211AAFB0B": {
     "name": "Lemmings (World) (Beta)",
@@ -1206,10 +1335,12 @@
     "name": "Lemmings 2 - The Tribes (Europe) (Proto)"
   },
   "E21025B2F6D5BBC18107905AD6C0C58D061D9C17": {
-    "name": "Lion King, The (USA)"
+    "name": "Lion King, The (USA)",
+    "ref": "49F00887A297F70A51711FE18433BC168EC49FC9"
   },
   "20E01958C3E3DE905622C90838CD485A3338D7A4": {
-    "name": "Lion King, The (Japan)"
+    "name": "Lion King, The (Japan)",
+    "ref": "49F00887A297F70A51711FE18433BC168EC49FC9"
   },
   "49F00887A297F70A51711FE18433BC168EC49FC9": {
     "name": "Lion King, The (Europe)",
@@ -1217,31 +1348,40 @@
     "logo": "Qmcx231UjeLAxjzuxsEXmmnbcDQiRp6cbJvzExzC8rTo6b"
   },
   "6D71FF5DFD04EC1641B0DB367B52AE3F23805E60": {
-    "name": "Lion King, The (USA) (Beta) (1994-08-03)"
+    "name": "Lion King, The (USA) (Beta) (1994-08-03)",
+    "ref": "49F00887A297F70A51711FE18433BC168EC49FC9"
   },
   "9D8FDC7B48F2C09BCBBB30061941E46DDF986E4E": {
-    "name": "Lion King, The (USA) (Beta) (1994-08-11)"
+    "name": "Lion King, The (USA) (Beta) (1994-08-11)",
+    "ref": "49F00887A297F70A51711FE18433BC168EC49FC9"
   },
   "0E5F5156BE26D18F8C2678F7D2400A54B9C51F37": {
-    "name": "Lion King, The (USA) (Beta) (1994-08-12)"
+    "name": "Lion King, The (USA) (Beta) (1994-08-12)",
+    "ref": "49F00887A297F70A51711FE18433BC168EC49FC9"
   },
   "CDCE953F16E4DB6E9137EA8D523588B3469A544D": {
-    "name": "Lion King, The (USA) (Beta) (1994-08-14)"
+    "name": "Lion King, The (USA) (Beta) (1994-08-14)",
+    "ref": "49F00887A297F70A51711FE18433BC168EC49FC9"
   },
   "05D6E8F6B8ADDE3A03EA89F53DD02F02F3366477": {
-    "name": "Lion King, The (USA) (Beta) (1994-08-13)"
+    "name": "Lion King, The (USA) (Beta) (1994-08-13)",
+    "ref": "49F00887A297F70A51711FE18433BC168EC49FC9"
   },
   "D3D44F8CBE32970F2E138C183078B8190808E625": {
-    "name": "Lion King, The (USA) (Beta) (1994-08-17)"
+    "name": "Lion King, The (USA) (Beta) (1994-08-17)",
+    "ref": "49F00887A297F70A51711FE18433BC168EC49FC9"
   },
   "6301D8EDE680007E645C84D24064DF5E76EA996B": {
-    "name": "Lion King, The (USA) (Beta) (1994-08-17) (Alt 1)"
+    "name": "Lion King, The (USA) (Beta) (1994-08-17) (Alt 1)",
+    "ref": "49F00887A297F70A51711FE18433BC168EC49FC9"
   },
   "79F221CA2654D5DF64392E4E06C498557EAEBF19": {
-    "name": "Lion King, The (USA) (Beta) (1994-08-20)"
+    "name": "Lion King, The (USA) (Beta) (1994-08-20)",
+    "ref": "49F00887A297F70A51711FE18433BC168EC49FC9"
   },
   "14C4D13EB118DC5082441F4EDDAAC229019B2598": {
-    "name": "Lion King, The (USA) (Beta) (1994-08-16)"
+    "name": "Lion King, The (USA) (Beta) (1994-08-16)",
+    "ref": "49F00887A297F70A51711FE18433BC168EC49FC9"
   },
   "1730B85FAC5478DA92B0905C6525E715BB4470D4": {
     "name": "Lost World, The - Jurassic Park (USA)"
@@ -1354,7 +1494,8 @@
     "logo": "QmSsDch2W5VMBu6cjEdmktBvQWTNuQUuAvu9tnYk5GQ9zX"
   },
   "51CB41C00020F80D7C3C80B217B41841AD59A825": {
-    "name": "Micro Machines (USA, Europe) (Beta) (1993-10-22)"
+    "name": "Micro Machines (USA, Europe) (Beta) (1993-10-22)",
+    "ref": "7B2D39B68622E18EAC6C27FD961133B1D002342B"
   },
   "53AD6546462638AB246B4FDD7CA4B8966DDE0D96": {
     "name": "Micro Machines 2 - Turbo Tournament (Europe)",
@@ -1367,7 +1508,8 @@
     "logo": "QmUFzQAuMczqYYV4Eh3WKkkVQh4jiGaFS6DDLqj3jvvaH9"
   },
   "88A90AC68FE67872CDEE9C4AB2B77595347297EB": {
-    "name": "Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16)"
+    "name": "Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16)",
+    "ref": "86C4D12257FAF355623F47F8FA22DA23A3B36CD9"
   },
   "DFE7DC7B2DF143DA4F4EEB32051A6D373DDDBA5D": {
     "name": "Mighty Morphin Power Rangers - The Movie (USA, Europe)",
@@ -1434,94 +1576,124 @@
     "logo": "QmNPErRaj2zPRruBYjRssehPTqfjo3jqjNx6jG4mJ1dvnr"
   },
   "6E12DE62FE88F12EC28E594871DF90A4E42F4F33": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1993-11-28)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1993-11-28)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "AC01ABE3858AC97F31B23104231BB26BB2EE4A6C": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1993-12-01)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1993-12-01)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "9F7E49A7881333A0BC8E6C0AD2A6920102BDB23C": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-04)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-04)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "01BB6913099FEDBC2CF0193351F8A307FACAD3DF": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-06)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-06)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "D38C5F823BBB8DB43BF25A71D57329D7CA7E9087": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-24)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-24)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "377CCF6AF5FD66672E212005529665C3934E4EAD": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-10)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-10)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "866F61BFD3E54DC6963FAE24FDA1333CDCEEF32D": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-29)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-29)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "5A4AB43DDD63D3A9198A940479626B427EC39C6A": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-03)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-03)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "C0389169CE2B8B619AFA6B7E2C5CEDE667299E64": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-06)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-06)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "6C427DB53067DFAF1979422B970B79D6FA55FEC8": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-02)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-02)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "305C1CA1B947694B61CFD896ABCA5C6F9EC287F3": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-25) (Alt 1)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-25) (Alt 1)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "026CFDE6AD4A499FA08EBEC57A69CD80239F642B": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-08)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-08)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "6BFF3FA4CAB82F688A02318B19AF57CB21F75CA5": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-15)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-15)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "60EBEAD82B6E30F00EA5AC37F30D854EDDC37945": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-17)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-17)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "006CE9972FD532ABB1B426DE2BF02E75DD616BBA": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-12)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-12)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "BFBCB9DC6C2C66108BA8910DF7B360F287FEB997": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-24)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-24)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "74716D2E00728BEE25985CA2ACF0547080699F87": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-21)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-21)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "23CDDA16537505AFA407704F493C0ED4E51D6373": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-25)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-25)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "EEDD9E46158547C80D4C58745A68FE3D083288C2": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-20)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-20)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "1D75C23394EAF7506F54A4F55A9E2234C35A5B6D": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-26)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-26)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "A11674848036A8D587C939AC568BC505D811C0AB": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-27)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-27)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "E9B3ACC9C18FF76D3A48400DA39EAE98F42D3E5D": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-28) (Alt 1)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-28) (Alt 1)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "D7062BDECBB42C1869BA70F5D6EED441607E8BD8": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-01)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-01)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "41124A549E9B5362B496709F61CE6710DF6CAEC2": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-02)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-02)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "0EA3A2656145092D8DF00B6A7668599B0AB1B8D3": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-08)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-08)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "54060A0430A898F9AC32EB685758F5144A347531": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-28)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-28)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "7B6620A9F60D75595DF59F3723C8C5B76E6B2D8F": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-05)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-05)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "60E804882A04F376E6914EBD9683268D016D0D69": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-04)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-04)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "226DE9E66562F7DD05B0B3265AEFA94F86F2A724": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-03)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-03)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "CD2114CE46EEC5B0E4BC4F1C4C65926B4C37541A": {
-    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-04) (Alt 1)"
+    "name": "NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-04) (Alt 1)",
+    "ref": "B81B3740E6DBC931DC4A867A8AABDB971492E2B1"
   },
   "2DE5991810BAD1A4120A2698530C66D4DBF16F7C": {
     "name": "NBA Jam (USA, Europe)",
@@ -1529,10 +1701,12 @@
     "logo": "Qma2N3KzNS4t6ZozaKERLvCiGphPbmWVgUrbS3zenwQAWG"
   },
   "30BDF6EDFB1772054E15EDEFD69FBE16EFD1797A": {
-    "name": "NBA Jam (USA) (Rev 1)"
+    "name": "NBA Jam (USA) (Rev 1)",
+    "ref": "2DE5991810BAD1A4120A2698530C66D4DBF16F7C"
   },
   "E7C040A58C8D35BF5B5B556B2D3C55E7A5EB0550": {
-    "name": "NBA Jam (Japan)"
+    "name": "NBA Jam (Japan)",
+    "ref": "2DE5991810BAD1A4120A2698530C66D4DBF16F7C"
   },
   "C34E318852CA6F52E980C7A63721A145CD167843": {
     "name": "NBA Jam - Tournament Edition (World)",
@@ -1548,43 +1722,56 @@
     "logo": "QmXsLXGpheawwMYNLw9bmi4XHPcDBfwRR8GDYSHuezzCQd"
   },
   "2BCAA3B7D0BA5BB5DFB716071F365F6E0248BC0B": {
-    "name": "NFL '95 (USA) (Beta) (1994-08-08)"
+    "name": "NFL '95 (USA) (Beta) (1994-08-08)",
+    "ref": "D5F2B7B495794F11A9A67E2B34A44D59003F5960"
   },
   "0D79198D43250AD4A745DA7853050A3DB8F2803C": {
-    "name": "NFL '95 (USA) (Beta) (1994-08-25)"
+    "name": "NFL '95 (USA) (Beta) (1994-08-25)",
+    "ref": "D5F2B7B495794F11A9A67E2B34A44D59003F5960"
   },
   "B79AF203BC01EA1C59563E34105CB36CAD158CCA": {
-    "name": "NFL '95 (USA) (Beta) (1994-08-25) (Alt 1)"
+    "name": "NFL '95 (USA) (Beta) (1994-08-25) (Alt 1)",
+    "ref": "D5F2B7B495794F11A9A67E2B34A44D59003F5960"
   },
   "B86FA58449E1544014FFCE590EFE16678E93F811": {
-    "name": "NFL '95 (USA) (Beta) (1994-08-26)"
+    "name": "NFL '95 (USA) (Beta) (1994-08-26)",
+    "ref": "D5F2B7B495794F11A9A67E2B34A44D59003F5960"
   },
   "D426CD29A03B2341C417C3D5B40F16C4E066F27E": {
-    "name": "NFL '95 (USA) (Beta) (1994-08-31)"
+    "name": "NFL '95 (USA) (Beta) (1994-08-31)",
+    "ref": "D5F2B7B495794F11A9A67E2B34A44D59003F5960"
   },
   "F2E837A299BC357F8F75E8DAAA38159D926D8202": {
-    "name": "NFL '95 (USA) (Beta) (1994-09-02)"
+    "name": "NFL '95 (USA) (Beta) (1994-09-02)",
+    "ref": "D5F2B7B495794F11A9A67E2B34A44D59003F5960"
   },
   "95EF164E629EB5AC88201E2CB1606D305F1881B0": {
-    "name": "NFL '95 (USA) (Beta) (1994-09-08)"
+    "name": "NFL '95 (USA) (Beta) (1994-09-08)",
+    "ref": "D5F2B7B495794F11A9A67E2B34A44D59003F5960"
   },
   "5EEBF128B61CE03EA2EB44E5B42CCDF4DE80D0EC": {
-    "name": "NFL '95 (USA) (Beta) (1994-09-10)"
+    "name": "NFL '95 (USA) (Beta) (1994-09-10)",
+    "ref": "D5F2B7B495794F11A9A67E2B34A44D59003F5960"
   },
   "087C59DACE9AFBD2CD6B53BFE896F33820B03F5E": {
-    "name": "NFL '95 (USA) (Beta) (1994-09-11) (Alt 1)"
+    "name": "NFL '95 (USA) (Beta) (1994-09-11) (Alt 1)",
+    "ref": "D5F2B7B495794F11A9A67E2B34A44D59003F5960"
   },
   "7A5C9883FA5775EE357DE76E60B5435ACFA4F47F": {
-    "name": "NFL '95 (USA) (Beta) (1994-09-11)"
+    "name": "NFL '95 (USA) (Beta) (1994-09-11)",
+    "ref": "D5F2B7B495794F11A9A67E2B34A44D59003F5960"
   },
   "DC3C1D7B0137D26D79CB7D0BE5ED51D551A256D7": {
-    "name": "NFL '95 (USA) (Beta) (1994-09-12)"
+    "name": "NFL '95 (USA) (Beta) (1994-09-12)",
+    "ref": "D5F2B7B495794F11A9A67E2B34A44D59003F5960"
   },
   "441468692EE04852424DAC693697389C93F44482": {
-    "name": "NFL '95 (USA) (Beta) (1994-09-14) (Alt 1)"
+    "name": "NFL '95 (USA) (Beta) (1994-09-14) (Alt 1)",
+    "ref": "D5F2B7B495794F11A9A67E2B34A44D59003F5960"
   },
   "E76270BFBE8A64173FBA9CA14D15679FB340D0C9": {
-    "name": "NFL '95 (USA) (Beta) (1994-09-14)"
+    "name": "NFL '95 (USA) (Beta) (1994-09-14)",
+    "ref": "D5F2B7B495794F11A9A67E2B34A44D59003F5960"
   },
   "EA42BB90EEA90A159F8C662743AA59D6DD6F7250": {
     "name": "NFL Quarterback Club (World)",
@@ -1602,55 +1789,72 @@
     "logo": "QmeJ1KZWbriyTi2yyZhuNeZDWAwJHrGNzpmnFbd9PFb9H2"
   },
   "DEC66DDAC97C91AEBCEFC479DA79EA086B0EBEA8": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-15)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-15)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "BE689BEF9395D698ED5F9629C80762D7F6847393": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-22)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-22)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "BE2AFD53BA0CEB64E9069C4FEFD73DB5B31AD9E2": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-29)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-29)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "F7D636B7E75853A744C61DA7AC3C91766FC34DC7": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-31)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-31)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "393D17319E28C5774E7A3F2C336A36F1279D6932": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-02)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-02)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "5560CE4CFF2F2B4CA7A89C34D295AC11983AA698": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-03)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-03)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "7FF1EE75043B1FE81C7DB4B1AEAC0F3C3C84C90A": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-07)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-07)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "C5BC673A9E1C046A13D19151E52022DBA3E862BA": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-11)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-11)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "338D8D9A6ADAA9F4CC1733A62DE76AD240FF1F79": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-13)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-13)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "5E251060685B00D4B492E1EDDFCABFA0D78D42CF": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-16)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-16)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "7D0DD9E5D441E6E55D0C31F313C7761CF5860C16": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-21)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-21)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "235A09F13EECD83D6C278A5E476A93004FF78C9B": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 3)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 3)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "76DE1DADC2FB155DBB3B4C17C77AAD9E87D93271": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-20)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-20)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "91E8A0184D77DCD7C484B125B560B113AEAEAEB4": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 2)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 2)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "C7C54814C416BD3A1EED38E13A1644FE3F57160E": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 1)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 1)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "4F6077AA192BE69261CBCE3EC3DDC35C6D04A0D2": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-25)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-25)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "318B3F3615F7B94E9F375F8B1C7A0A98C2BFE3AB": {
-    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24)"
+    "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24)",
+    "ref": "9556D7A49372EBC8CFE3AB43704CEADE86D5FEF5"
   },
   "8F243A6011F769538349C968929A500AFF7D3E6D": {
     "name": "NHL Hockey (USA, Europe)",
@@ -1658,7 +1862,8 @@
     "logo": "QmZoByoDABxWyaAc8BEwTAc6CAh7xgw4NtrwvFBPkyz4Pr"
   },
   "ACEDDDAA928A96085544440C2BEC2685A6CDF501": {
-    "name": "Ninja Gaiden (Japan)"
+    "name": "Ninja Gaiden (Japan)",
+    "ref": "1A5C44E76A0E913D76F590AFFAE3B2E24FBD0F59"
   },
   "1A5C44E76A0E913D76F590AFFAE3B2E24FBD0F59": {
     "name": "Ninja Gaiden (USA, Europe, Brazil)",
@@ -1681,7 +1886,8 @@
     "name": "Off the Wall (USA) (Proto) (1992-06-28)"
   },
   "53FD026008BE77CD0CDA7080E67A87A7BAD33A6A": {
-    "name": "Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev 1)"
+    "name": "Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev 1)",
+    "ref": "B7E5AE436CCAA9984297B0C14969922D189CB10C"
   },
   "B7E5AE436CCAA9984297B0C14969922D189CB10C": {
     "name": "Olympic Gold (Japan, USA, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)",
@@ -1689,7 +1895,8 @@
     "logo": "QmUTq9B5kpZCYGU9JqB8Aumg7UspVwjjSsRQ7DuKdQ2MN5"
   },
   "CC922D900534841730A2019E407D374A04276933": {
-    "name": "Olympic Gold (Taiwan) (En,Fr,De,Es,It,Nl,Pt,Sv) (Unl) (Pirate)"
+    "name": "Olympic Gold (Taiwan) (En,Fr,De,Es,It,Nl,Pt,Sv) (Unl) (Pirate)",
+    "ref": "B7E5AE436CCAA9984297B0C14969922D189CB10C"
   },
   "E66185D8F389EA2C48842F2623349C5CC8B1463D": {
     "name": "Ottifants, The (Europe) (En,Fr,De,Es,It)",
@@ -1702,7 +1909,8 @@
     "logo": "QmWbsMeoz1eDBYUMbiBvRsdsSjpe9rBazpP2KiUBpRhGyJ"
   },
   "284A68102EB71958A3553626EA3DD56485453300": {
-    "name": "OutRun (Japan, Korea)"
+    "name": "OutRun (Japan, Korea)",
+    "ref": "41D5F3F95CA8CD288842BAD7BB5F7940C2BAA86D"
   },
   "DD842A7294EEE7BADF4353FBE3E5D87DD570C671": {
     "name": "OutRun Europa (USA)",
@@ -1713,7 +1921,8 @@
     "ref": "DD842A7294EEE7BADF4353FBE3E5D87DD570C671"
   },
   "0FB4200FA291FE57CD7BE2EE73AC2D71AE3C005E": {
-    "name": "OutRun Europa (Europe)"
+    "name": "OutRun Europa (Europe)",
+    "ref": "DD842A7294EEE7BADF4353FBE3E5D87DD570C671"
   },
   "E9E3D7C116E82E7FE696AC3E043D14ECE51E9F8E": {
     "name": "Pac-Attack (USA)",
@@ -1724,7 +1933,8 @@
     "name": "Pac-in-Time (USA) (Proto)"
   },
   "ED27BAE791E2B24966C282AD307A1B8D2140F55C": {
-    "name": "Pac-Man (USA)"
+    "name": "Pac-Man (USA)",
+    "ref": "D78B6AAC927692F1B67E6A4B7494E2C7E709AE17"
   },
   "D78B6AAC927692F1B67E6A4B7494E2C7E709AE17": {
     "name": "Pac-Man (Japan) (En)",
@@ -1745,10 +1955,12 @@
     "logo": "QmTYTaQHVH1QYfRH1UEzekKFz1yecZu675wurjiKbCq98h"
   },
   "54111B3C694699D4A7A80DA39183C7E2D989A2E9": {
-    "name": "Paperboy 2 (USA) (Beta)"
+    "name": "Paperboy 2 (USA) (Beta)",
+    "ref": "2FA97C21BFD9D3968C473B6FA4FB7485B6DFB35D"
   },
   "5883E2D19AB7126D52ABC177A97D44BC88C319DE": {
-    "name": "Pengo (Japan)"
+    "name": "Pengo (Japan)",
+    "ref": "E42F85FEB631712B8615A0B19BFBF6432633BA00"
   },
   "E42F85FEB631712B8615A0B19BFBF6432633BA00": {
     "name": "Pengo (Europe)",
@@ -1774,7 +1986,8 @@
     "logo": "QmcH5yk9YUDGz6uBoUJBa1BxczgVKfBTTLwqXS8JH9HgLP"
   },
   "CDDC04025A10E4351A4C63D118A74BC8B7D2B257": {
-    "name": "PGA Tour Golf (USA) (Rev 1)"
+    "name": "PGA Tour Golf (USA) (Rev 1)",
+    "ref": "34A2B521C4577E4D1699311365722745D62F10AA"
   },
   "871B94F1FF63E2A89BC165382110D4F79DF53FA3": {
     "name": "PGA Tour Golf II (USA, Europe)",
@@ -1848,7 +2061,8 @@
     "logo": "QmScPEB9wX2EBSBA45jg3HdYc5GZBWm2N8N74teFMXeU6Z"
   },
   "0672814B9FB20DD217141F7853DB300343F2C1EA": {
-    "name": "Prince of Persia (USA, Europe) (Beta)"
+    "name": "Prince of Persia (USA, Europe) (Beta)",
+    "ref": "7820699EE6B214F3F02F724F4D7891184CAF93F8"
   },
   "804CFAC0A7578C3FD625F0084A24AFA26A2DC015": {
     "name": "Pro Yakyuu '91, The (Japan)"
@@ -1865,7 +2079,8 @@
     "logo": "QmP7jxeUzL5QpPyetgTx7dq2h7EsfEtRD1tnjWgYExe46F"
   },
   "1C0074C811ED4EB369BE31C1BC7D851E40AE8797": {
-    "name": "Psychic World (Japan) (En)"
+    "name": "Psychic World (Japan) (En)",
+    "ref": "3BE13F79EEB26B82343AFAB3E740B3A1D35978EB"
   },
   "2D4A72E6F5DB344240C2A65141B08E57A4B52416": {
     "name": "Putt & Putter (Japan, Korea)",
@@ -1925,7 +2140,8 @@
     "logo": "QmX85fjttyMa7PGAah6rCFUhXjGaSp28or6hxkCRe3LcXM"
   },
   "B8487BDB0A6167753FC6DE82714793181D7718DB": {
-    "name": "Riddick Bowe Boxing (USA)"
+    "name": "Riddick Bowe Boxing (USA)",
+    "ref": "AF32AD098A1BF872D5A2CEF38105704D3507ED75"
   },
   "9BA2F734ECCF5B2CEEFAA69CEBDF7399BC9032D8": {
     "name": "Rise of the Robots (USA, Europe)",
@@ -1958,7 +2174,8 @@
     "logo": "QmNmMVWMUL4DKdDvEdX2uVBGydSE9HBDxQ9G6bekrogaYh"
   },
   "BF5149486C64D338E5D8E0D8397D41127E456B1B": {
-    "name": "Road Rash (Europe)"
+    "name": "Road Rash (Europe)",
+    "ref": "2CF136B5FEB786770322E1A03E7E3577A1A9EEC0"
   },
   "8DE7C9AC95B734AF9E3FBE5700AC4C6599799702": {
     "name": "RoboCop 3 (World)",
@@ -1999,7 +2216,8 @@
     "logo": "QmRWfGeJMUE3REoUvKEvoGT22H7TXRFoTxUsZ5mrmzii7n"
   },
   "DB7AE3BD9AE0E421B4EBF8CF45DF7780678F2A48": {
-    "name": "Sega Game Pack 4 in 1 (Europe) (Beta)"
+    "name": "Sega Game Pack 4 in 1 (Europe) (Beta)",
+    "ref": "02FA5C6C6F81F5F4E1D78ECED5A37617888404D3"
   },
   "C02830156779A27B79435EC0CBF7A03CBBFDA920": {
     "name": "Sensible Soccer - European Champions (Europe)",
@@ -2029,19 +2247,24 @@
     "logo": "QmSeRrq3k6haDzwVA3e1BYsJn8GiXEXaqBEZqsWdxSpFNH"
   },
   "71ED14C75915D606E00481CC2FBBAA28B6D2BA4F": {
-    "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-04-27)"
+    "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-04-27)",
+    "ref": "789734C4A837DFFD2AD3E2C8DE22CBD83836580D"
   },
   "BB7BE9ACB986A923C6C8AE41053C1B2F508885D1": {
-    "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-05-30)"
+    "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-05-30)",
+    "ref": "789734C4A837DFFD2AD3E2C8DE22CBD83836580D"
   },
   "900F8640AF14DD6C413F20058A98DA11A0FD07B1": {
-    "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-06-27)"
+    "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-06-27)",
+    "ref": "789734C4A837DFFD2AD3E2C8DE22CBD83836580D"
   },
   "A9DD1254577BFF20EE33F7BCE56E2C4361F911C4": {
-    "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-07-08)"
+    "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-07-08)",
+    "ref": "789734C4A837DFFD2AD3E2C8DE22CBD83836580D"
   },
   "0D31C7DD2FF84F1A18AC5A71203BCD511534951D": {
-    "name": "Shining Force - The Sword of Hajya (USA, Europe) (Virtual Console)"
+    "name": "Shining Force - The Sword of Hajya (USA, Europe) (Virtual Console)",
+    "ref": "789734C4A837DFFD2AD3E2C8DE22CBD83836580D"
   },
   "BEA1BEA94EA745691AD944EAADC8A5576057ED53": {
     "name": "Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan)"
@@ -2134,7 +2357,8 @@
     "logo": "QmYaUueJ8nb1aife8b2bi6wPKQKKwrP8HPKjkRZbEe2fkf"
   },
   "77294880735369D09F2688784D85CDF3E80FA8A3": {
-    "name": "Sonic Chaos (USA, Europe, Brazil) (Beta) (1993-05-17)"
+    "name": "Sonic Chaos (USA, Europe, Brazil) (Beta) (1993-05-17)",
+    "ref": "5B5B7D9CD8ADF0F8E1EE15FD4557828F91DFDCA1"
   },
   "FEF5D69093DF2D774ED274A4079790F8778577FC": {
     "name": "Sonic Drift (Japan) (En)"
@@ -2153,7 +2377,8 @@
     "logo": "QmYBgTrWFy2NeroSjJxT33FBhU86cDQ6QtRPmhb2AX4RRC"
   },
   "77B7A4972725C605346CB441AD0B532BFF21065D": {
-    "name": "Sonic Labyrinth (USA, Europe) (Virtual Console)"
+    "name": "Sonic Labyrinth (USA, Europe) (Virtual Console)",
+    "ref": "E24BF33D8D5A79F371485F20F207B6B26F5B341E"
   },
   "DF21D42B55B1B4A25704957FE323728B775EB84D": {
     "name": "Sonic Spinball (USA, Europe)",
@@ -2161,70 +2386,92 @@
     "logo": "QmSfEdZ2NNaCUugH1gQx4PSBEzr8c83qVe8H4L7icKDuFv"
   },
   "1B6F1469D0E707AAB3EBA3C6748F350A30EB530F": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-03-07)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-03-07)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "81DC53C9103FAB356014E7E45082FC562CDD59EC": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-03-10)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-03-10)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "CEC96B3372A4ECB39AC7BD51829D4F641FF8D198": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-03-11)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-03-11)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "6B08DD5E60E957739CD7C8DEA5F9FCB2BF82009C": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-03-21)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-03-21)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "41260C00F83592C6C21800750BD25359F8CCE911": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-03-28)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-03-28)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "F3A3B701F7700459B0A4175E6B8C24AB68518F40": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-03-29)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-03-29)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "A066324F8D781EA218EA61689EEA6D6254BF9AAB": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-03-30)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-03-30)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "35ED35FDA5FC8D5F1AC1068157C176BB216769E4": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-05)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-05)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "3FD285036F794574B7310CA093A6D5D5BC244BC7": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-12)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-12)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "A4C3D6B3601D321003AAD3B759487BDDB4CD64B3": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-13)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-13)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "E59E3D9B0A8D9ADB13A32CFDBE027ADE81C8DED1": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-15)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-15)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "F0ABF46487ACC6A2A93B3E7E93DBE9F651CCBD41": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-21)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-21)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "2BE84549AEECF580EF25290B7255270EDE38B830": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-27)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-27)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "35954B7E65E663FBA3066046E971316D5E573158": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-29) (Alt 1)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-29) (Alt 1)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "AB9AC3B4EBECD02C8F3B0D29B921A3D8BCF96458": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-29)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-04-29)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "7577EEF2AC9823A539D6AF1C2673D1702D29695F": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-05-03)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-05-03)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "975232A729179C1DB5307C072593CDBF83E233D6": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-05-05)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-05-05)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "36CD00138F78BF31EE6098D1F5B0B2E870AB5637": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-05-06)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-05-06)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "CF9AFBC274AFCD28931BB1298C53BFDF6E04A9B6": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-05-25)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-05-25)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "8C16865212AD284A0929869A95980BCDF3D9BA81": {
-    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-05-30)"
+    "name": "Sonic Spinball (USA, Europe) (Beta) (1994-05-30)",
+    "ref": "DF21D42B55B1B4A25704957FE323728B775EB84D"
   },
   "7FF6810E4AC03E04584243995C3FD54B77896C23": {
-    "name": "Sonic The Hedgehog (Japan, USA) (Beta)"
+    "name": "Sonic The Hedgehog (Japan, USA) (Beta)",
+    "ref": "7DBBBCA2229E74FCB8F90EC794AA6E5CB168E489"
   },
   "8923295C96B2E05DA0A83A827FD709B033FC7332": {
-    "name": "Sonic The Hedgehog (Japan, USA)"
+    "name": "Sonic The Hedgehog (Japan, USA)",
+    "ref": "7DBBBCA2229E74FCB8F90EC794AA6E5CB168E489"
   },
   "7DBBBCA2229E74FCB8F90EC794AA6E5CB168E489": {
     "name": "Sonic The Hedgehog (Japan, Europe, Brazil) (Rev 1)",
@@ -2232,7 +2479,8 @@
     "logo": "QmSnTKf14NDreqLNhZwrvUP9Pm4j2ES52erBhHpJap6Tor"
   },
   "DA410B0F00CD0B3A70C3E18C83D0D71609D8EA43": {
-    "name": "Sonic The Hedgehog (World) (Rev 1) (Virtual Console)"
+    "name": "Sonic The Hedgehog (World) (Rev 1) (Virtual Console)",
+    "ref": "7DBBBCA2229E74FCB8F90EC794AA6E5CB168E489"
   },
   "4965AF7FFE60382FFA805710B7C8006419CC4AC4": {
     "name": "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil)",
@@ -2240,7 +2488,8 @@
     "logo": "QmVmk1wGsXyqYhnmpzezMhEiDPRn2PKEUtYE7iMwXnvSyq"
   },
   "02257FECE665D04D3C88B5F5589773D5A8433953": {
-    "name": "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (Beta) (1994-08-08)"
+    "name": "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (Beta) (1994-08-08)",
+    "ref": "4965AF7FFE60382FFA805710B7C8006419CC4AC4"
   },
   "DABB452E416B4FA9CB83D8DDD307C2A32C3A1A7F": {
     "name": "Sonic The Hedgehog 2 (World)",
@@ -2248,10 +2497,12 @@
     "logo": "QmZEMHpeeMFsk6aMrYr2p5QbyoQUhkRihHXjXbycpw6VkL"
   },
   "B780C6F059B48D1BB48EE2AD521552DAB1487C88": {
-    "name": "Sonic The Hedgehog 2 (World) (Auto Demo)"
+    "name": "Sonic The Hedgehog 2 (World) (Auto Demo)",
+    "ref": "DABB452E416B4FA9CB83D8DDD307C2A32C3A1A7F"
   },
   "BA720D925FBED0D68E1D35F61C6F4FEC47708718": {
-    "name": "Sonic The Hedgehog 2 (World) (Virtual Console)"
+    "name": "Sonic The Hedgehog 2 (World) (Virtual Console)",
+    "ref": "DABB452E416B4FA9CB83D8DDD307C2A32C3A1A7F"
   },
   "E5865A22DC3A9714160EF14BC59D510502D39B97": {
     "name": "Soukoban (Japan)"
@@ -2293,25 +2544,32 @@
     "logo": "QmaSQiahuzZbLgci5YqBqnTv4R8v7mbkyYPxKYeS2fyLrK"
   },
   "D3503A568182F1F286203C2E2A5516F74684F4F3": {
-    "name": "Sports Trivia (USA) (Beta) (1995-03-08)"
+    "name": "Sports Trivia (USA) (Beta) (1995-03-08)",
+    "ref": "7787C8F0178829FC2CE25930AD91F0B712FA3625"
   },
   "C977C038DF47192996E05C9DB130BF2C82A129FF": {
-    "name": "Sports Trivia (USA) (Beta) (1995-03-09)"
+    "name": "Sports Trivia (USA) (Beta) (1995-03-09)",
+    "ref": "7787C8F0178829FC2CE25930AD91F0B712FA3625"
   },
   "151A9D25A29A41D00D20D9D6A93620682464E037": {
-    "name": "Sports Trivia (USA) (Beta) (1995-03-16)"
+    "name": "Sports Trivia (USA) (Beta) (1995-03-16)",
+    "ref": "7787C8F0178829FC2CE25930AD91F0B712FA3625"
   },
   "8E42323155C0E0F0CD050E66F89F821CB884F7A1": {
-    "name": "Sports Trivia (USA) (Beta) (1995-04-25)"
+    "name": "Sports Trivia (USA) (Beta) (1995-04-25)",
+    "ref": "7787C8F0178829FC2CE25930AD91F0B712FA3625"
   },
   "90834A82AA40F69ABF57D34D1910D829D8632AF0": {
-    "name": "Sports Trivia (USA) (Beta) (1995-04-25) (Alt 1)"
+    "name": "Sports Trivia (USA) (Beta) (1995-04-25) (Alt 1)",
+    "ref": "7787C8F0178829FC2CE25930AD91F0B712FA3625"
   },
   "36D665E221ECF7C0D5F3AF1EDC83C9E56F3256AF": {
-    "name": "Sports Trivia (USA) (Beta) (1995-04-27)"
+    "name": "Sports Trivia (USA) (Beta) (1995-04-27)",
+    "ref": "7787C8F0178829FC2CE25930AD91F0B712FA3625"
   },
   "7C17382789E6648019E99FB8FECA84535F50AE4F": {
-    "name": "Sports Trivia (USA) (Beta) (1995-05-04)"
+    "name": "Sports Trivia (USA) (Beta) (1995-05-04)",
+    "ref": "7787C8F0178829FC2CE25930AD91F0B712FA3625"
   },
   "F2542D122570FAD8D2F91AAE8EF074E58487EDE0": {
     "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-13)",
@@ -2319,91 +2577,120 @@
     "logo": "Qmdd84HayGPmYKdTufm43nuWYEPhRU682cRMssKY4DdeAc"
   },
   "03B4E8D8AFC14D8DF113043C3D53130DF6EB769E": {
-    "name": "Sports Trivia - Championship Edition (USA)"
+    "name": "Sports Trivia - Championship Edition (USA)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "58C08B83DF499755A47DC8407807BD2F93A58583": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-13)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-13)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "61E215DD6AC4A9AB334210A9D87876222A717E12": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-16)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-16)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "5B5034D5689BB116CA602EA30A696AF60444CED8": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-17)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-17)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "70E71C0581019C89BD2C38EE45B05BFF84FC3EB0": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20) (Alt 1)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20) (Alt 1)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "693CC753FC94EB5D79FB0BF0E4CB484DD1FB57F3": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "400A91D37AD6EAF54D2B4057D562876507EA715E": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-21)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-21)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "7A9DFD2CA7ECBA07EF141AD9F2428052B441E200": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 2)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 2)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "227F12188CEAA0577CD6604804D1228E342C67A2": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 1)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 1)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "5AD1ED30FCC414B237C6A9057E3F43913C3EBF23": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "B7BA8F1C6EC2958DA3A040AB56F9915F13723A70": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27) (Alt 1)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27) (Alt 1)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "3AE00363F54B73C47D6E6125E3A7D3741F33FCCF": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "CFCB94207728F781602FF8375CDA3C2DE25B7EED": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 2)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 2)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "50CCE09EE3C077FEAF7AD9DF1E2A9F4FDE0E7691": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 1)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 1)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "3410BAFB1757988F1CB270745DFA9AC22212539B": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "0AC64A9077DDCB53D2D35748F13B9D462F27AB51": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30) (Alt 1)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30) (Alt 1)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "D462337A78F85882E7EBCB95E129AB18E75E44A4": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "8FC968BE19D8DA9335BF3A6DAC97657058EF5A78": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-03)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-03)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "DBAB3669DA5A204CE78AF3FC5A1749A08C39262E": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04) (Alt 1)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04) (Alt 1)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "463DBAAFD144C430F3B62DBB53578F26441BFDB8": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "A57C18ADFA86E86B3E43F605617205A219AAFDFB": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 2)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 2)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "48FF2E462D0B17022C8085133447DD7EEDAC898B": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 1)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 1)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "C857BEF7EED535D1F827AD439DF112B3B0C05CF8": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "AA61AE6B979D30757B1192118796878E3E1C082F": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-06)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-06)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "34986C53709EF347A8EC620DBE7B35FEF8FF3EF0": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07) (Alt 1)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07) (Alt 1)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "E4938D6B435FCE12B4B73591447422342B919E9F": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "203F4EBD0CA75BBEEB3723372500336415F59DA4": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-11)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-11)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "5CED41CADEDE9959775F1D6CF229A19C0D739C88": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-12)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-12)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "23A9D5DEE62D64EED1DE6E35AC75CBE5786A0C06": {
-    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-28)"
+    "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-28)",
+    "ref": "F2542D122570FAD8D2F91AAE8EF074E58487EDE0"
   },
   "A508FF0EA93390E42E2440ED4ACA531047281C23": {
     "name": "Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)",
@@ -2421,7 +2708,8 @@
     "logo": "QmURKVv6atoehVdFpy1oj9n9t49zG6pWeXYVfgV4k4oebA"
   },
   "682DF750F372134734D8668F08B9A5ACBB4F2CFD": {
-    "name": "Star Wars (USA, Europe)"
+    "name": "Star Wars (USA, Europe)",
+    "ref": "48C14C0C2B4E38AC122D9CCDCDC8B194E15EF032"
   },
   "011FD49600EAEF8BE7CBE35AB6EEB4E1554D836C": {
     "name": "Stargate (World)",
@@ -2448,7 +2736,8 @@
     "logo": "QmSWJLybU8W8KHK4kuaPUAaQ2T6a2E15TsTZNgb2jsmwre"
   },
   "A1DE915B0F10894BEDC6EE8F0FD1F2DA65BCFA68": {
-    "name": "Super Columns (Japan)"
+    "name": "Super Columns (Japan)",
+    "ref": "CE59845E973B7FB7B3B2121B35A95FBA5727DF62"
   },
   "CE59845E973B7FB7B3B2121B35A95FBA5727DF62": {
     "name": "Super Columns (USA, Europe)",
@@ -2456,25 +2745,32 @@
     "logo": "QmcuDA1KYnbtnRixrTRjo3G4Mr6Hybnd7WpCuFzxoqdAyC"
   },
   "E5B23A687C9DD285970F4783369E36C7A96D19FA": {
-    "name": "Super Columns (USA, Europe) (Beta) (1994-11-11)"
+    "name": "Super Columns (USA, Europe) (Beta) (1994-11-11)",
+    "ref": "CE59845E973B7FB7B3B2121B35A95FBA5727DF62"
   },
   "29DAC0DA809C8A74C6610E4DDE300EFADDACA29A": {
-    "name": "Super Columns (USA, Europe) (Beta) (1994-12-01)"
+    "name": "Super Columns (USA, Europe) (Beta) (1994-12-01)",
+    "ref": "CE59845E973B7FB7B3B2121B35A95FBA5727DF62"
   },
   "3EDAD6D335D5F6EC3DC403FD642CD6A71E3C053D": {
-    "name": "Super Columns (USA, Europe) (Beta) (1994-12-15)"
+    "name": "Super Columns (USA, Europe) (Beta) (1994-12-15)",
+    "ref": "CE59845E973B7FB7B3B2121B35A95FBA5727DF62"
   },
   "B7CABE08F0E0850B055FD0E694E175E8F1C47E4D": {
-    "name": "Super Columns (USA, Europe) (Beta) (1994-12-21)"
+    "name": "Super Columns (USA, Europe) (Beta) (1994-12-21)",
+    "ref": "CE59845E973B7FB7B3B2121B35A95FBA5727DF62"
   },
   "D3050DE383E772BB068D4C722BBE91FF05172D45": {
-    "name": "Super Columns (USA, Europe) (Beta) (1994-12-26)"
+    "name": "Super Columns (USA, Europe) (Beta) (1994-12-26)",
+    "ref": "CE59845E973B7FB7B3B2121B35A95FBA5727DF62"
   },
   "B2BC04E1F7A00EC5431774DB0B47DA53DB57D3A3": {
-    "name": "Super Columns (USA, Europe) (Beta) (1994-12-28)"
+    "name": "Super Columns (USA, Europe) (Beta) (1994-12-28)",
+    "ref": "CE59845E973B7FB7B3B2121B35A95FBA5727DF62"
   },
   "FED437CF7D22C685FEF7B2E55579CD77BB48E232": {
-    "name": "Super Columns (USA, Europe) (Beta) (1995-01-06)"
+    "name": "Super Columns (USA, Europe) (Beta) (1995-01-06)",
+    "ref": "CE59845E973B7FB7B3B2121B35A95FBA5727DF62"
   },
   "ED9B5E1264B4ED6D8969BA1C4E3F2D9446C3C9CA": {
     "name": "Super Golf (USA)"
@@ -2489,7 +2785,8 @@
     "name": "Super Momotarou Dentetsu III (Japan)"
   },
   "2A61491785AD56F5BDC504C994F36EE8EA9DCF68": {
-    "name": "Super Monaco GP (Japan, Korea)"
+    "name": "Super Monaco GP (Japan, Korea)",
+    "ref": "D834E43D7EC6DBADF2E367AFD45B7E1E4362035B"
   },
   "D834E43D7EC6DBADF2E367AFD45B7E1E4362035B": {
     "name": "Super Monaco GP (USA, Europe, Brazil)",
@@ -2502,7 +2799,8 @@
     "logo": "QmTBbbH7KdJ2oV9rmJFEeYWt8cigim9q4QpSofZsVpQQU1"
   },
   "5703EDEFFD93EF20F8AB88EA5160C7FFB41C7A47": {
-    "name": "Super Off Road (USA, Europe) (Beta)"
+    "name": "Super Off Road (USA, Europe) (Beta)",
+    "ref": "C5EE89F785C44784867C3B33FD6466FC72E9042C"
   },
   "85189E29F3F6B94F95723BC75571E9424DF119F9": {
     "name": "Super Smash T.V. (World)",
@@ -2525,7 +2823,8 @@
     "logo": "QmWXQi95eQv1UiuP5iEtgthxYRJbSjZNe1igCFpTGCkqqK"
   },
   "E5EB3687937F453E67C912E429894FE2196FB419": {
-    "name": "Superman - The Man of Steel (Europe) (Beta)"
+    "name": "Superman - The Man of Steel (Europe) (Beta)",
+    "ref": "8E0D837CF285D8669D30EF1328453949CEA70A6A"
   },
   "23E493F7C19FFB17E67392289C5A72DC9D0D6D9E": {
     "name": "Surf Ninjas (USA, Europe, Brazil)",
@@ -2539,7 +2838,8 @@
     "name": "Sylvan Tale (Japan)"
   },
   "A56FC1154709CAE443EFEED6E6310CC059396605": {
-    "name": "T2 - The Arcade Game (Japan) (En)"
+    "name": "T2 - The Arcade Game (Japan) (En)",
+    "ref": "12B6F5542B6CEBFE872096EAB2A885D297EEFA2F"
   },
   "12B6F5542B6CEBFE872096EAB2A885D297EEFA2F": {
     "name": "T2 - The Arcade Game (USA, Europe)",
@@ -2555,7 +2855,8 @@
     "ref": "DA3DF145B8E9F2A2E680D2C92939084D4530ED90"
   },
   "8A3C327B328DEF981779CE436DF7857578C01883": {
-    "name": "Tails Adventure ~ Tails Adventures (World) (En,Ja) (Virtual Console)"
+    "name": "Tails Adventure ~ Tails Adventures (World) (En,Ja) (Virtual Console)",
+    "ref": "DA3DF145B8E9F2A2E680D2C92939084D4530ED90"
   },
   "9CB440611E9E3A7957438698FEDE0978D568A807": {
     "name": "Tails no Skypatrol (Japan)"
@@ -2595,46 +2896,60 @@
     "logo": "QmUTLzFzLn881JQ8rVsYkr6AGP4QXHrgWW1RrDBcRdDvhT"
   },
   "47B98EE8DFE407BAC65FD02257E99221FEB088FC": {
-    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-05-11)"
+    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-05-11)",
+    "ref": "1D19306B7DBCB37FD1AB62021B5054EFD2D04889"
   },
   "ED5A66C278FC429FD4DDB993C4A7BDF2D2400A3A": {
-    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-10)"
+    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-10)",
+    "ref": "1D19306B7DBCB37FD1AB62021B5054EFD2D04889"
   },
   "8800DA06EA2AA3982CF2E294B165F5E1A9CAB63C": {
-    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-14)"
+    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-14)",
+    "ref": "1D19306B7DBCB37FD1AB62021B5054EFD2D04889"
   },
   "D32127A67F988062407D92BB1DFDF3CE38210E31": {
-    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-19)"
+    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-19)",
+    "ref": "1D19306B7DBCB37FD1AB62021B5054EFD2D04889"
   },
   "6482E281447B586C533A45527DB52BD5C333EBDD": {
-    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-12)"
+    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-12)",
+    "ref": "1D19306B7DBCB37FD1AB62021B5054EFD2D04889"
   },
   "9CC498D9975FA2633A4EC98581768856884163A8": {
-    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-23)"
+    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-23)",
+    "ref": "1D19306B7DBCB37FD1AB62021B5054EFD2D04889"
   },
   "B1B5F7B06001F38E0533BC489B5C7F8B9CAF6A5B": {
-    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-29)"
+    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-29)",
+    "ref": "1D19306B7DBCB37FD1AB62021B5054EFD2D04889"
   },
   "20C0398E036F733734D2D38E8D2E3E57A1086106": {
-    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-30)"
+    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-30)",
+    "ref": "1D19306B7DBCB37FD1AB62021B5054EFD2D04889"
   },
   "AFCA21F4F5337540343B6C74F36D6B2D0C9CA6C9": {
-    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-02)"
+    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-02)",
+    "ref": "1D19306B7DBCB37FD1AB62021B5054EFD2D04889"
   },
   "02B726D8C0DA2F51076AD95DDC750D423636A807": {
-    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-05) (Alt 1)"
+    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-05) (Alt 1)",
+    "ref": "1D19306B7DBCB37FD1AB62021B5054EFD2D04889"
   },
   "B383C0E67E47BB1B6F2402948408DA1D5418C354": {
-    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-05)"
+    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-05)",
+    "ref": "1D19306B7DBCB37FD1AB62021B5054EFD2D04889"
   },
   "5FB66139767319777153FADDBDFDB1168F898546": {
-    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-06)"
+    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-06)",
+    "ref": "1D19306B7DBCB37FD1AB62021B5054EFD2D04889"
   },
   "C3CBE41444DADD60A0F79AF213A50EAB552F083F": {
-    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-09)"
+    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-09)",
+    "ref": "1D19306B7DBCB37FD1AB62021B5054EFD2D04889"
   },
   "3D0DA9536C47ECAD367A83A6645172CEE46B2CA8": {
-    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-10)"
+    "name": "Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-10)",
+    "ref": "1D19306B7DBCB37FD1AB62021B5054EFD2D04889"
   },
   "0D0285BC5350146F365DAE1F271ED0828971CF4D": {
     "name": "Taz-Mania (USA, Europe, Brazil)",
@@ -2647,31 +2962,40 @@
     "logo": "QmNM1npriSiu7W5eM619bkepZ4meSLUBH2UQP2ScA5oV21"
   },
   "D909B2B153E500C506A5CEE3439D3C514C58600B": {
-    "name": "Tempo Jr. (World) (Beta) (1994-11-28)"
+    "name": "Tempo Jr. (World) (Beta) (1994-11-28)",
+    "ref": "A2D800D2836A03F81DD8F3DDA23CD2D8BFFF18A5"
   },
   "C86B63D669464CBA8BF167C33CFA8DC5BF1625B4": {
-    "name": "Tempo Jr. (World) (Beta) (1994-12-05)"
+    "name": "Tempo Jr. (World) (Beta) (1994-12-05)",
+    "ref": "A2D800D2836A03F81DD8F3DDA23CD2D8BFFF18A5"
   },
   "6112068A8B6AD0E34AFC2D576C2EF7E95AF32C6D": {
-    "name": "Tempo Jr. (World) (Beta) (1994-12-12)"
+    "name": "Tempo Jr. (World) (Beta) (1994-12-12)",
+    "ref": "A2D800D2836A03F81DD8F3DDA23CD2D8BFFF18A5"
   },
   "9FB56C4CB39F48BDFB6A16A7AF40B85888D81B3B": {
-    "name": "Tempo Jr. (World) (Beta) (1994-12-26)"
+    "name": "Tempo Jr. (World) (Beta) (1994-12-26)",
+    "ref": "A2D800D2836A03F81DD8F3DDA23CD2D8BFFF18A5"
   },
   "987BBF9F394A3AA7E79A95B847B093E45D532296": {
-    "name": "Tempo Jr. (World) (Beta) (1995-01-17)"
+    "name": "Tempo Jr. (World) (Beta) (1995-01-17)",
+    "ref": "A2D800D2836A03F81DD8F3DDA23CD2D8BFFF18A5"
   },
   "01A81E62F04759993D1FB865AA5F7FEB086E15EC": {
-    "name": "Tempo Jr. (World) (Beta) (1995-01-20)"
+    "name": "Tempo Jr. (World) (Beta) (1995-01-20)",
+    "ref": "A2D800D2836A03F81DD8F3DDA23CD2D8BFFF18A5"
   },
   "75A0914F97622C3F148B7874A8B8CE564A150EAE": {
-    "name": "Tempo Jr. (World) (Beta) (1995-01-31)"
+    "name": "Tempo Jr. (World) (Beta) (1995-01-31)",
+    "ref": "A2D800D2836A03F81DD8F3DDA23CD2D8BFFF18A5"
   },
   "F3A25425C939A3190C15A1C35A86CDE116DCC5EA": {
-    "name": "Tempo Jr. (World) (Beta) (1995-02-06)"
+    "name": "Tempo Jr. (World) (Beta) (1995-02-06)",
+    "ref": "A2D800D2836A03F81DD8F3DDA23CD2D8BFFF18A5"
   },
   "BB2CFEB11E0319021A83A63556BD5E4F98E3D217": {
-    "name": "Tempo Jr. (World) (Beta) (1995-02-15)"
+    "name": "Tempo Jr. (World) (Beta) (1995-02-15)",
+    "ref": "A2D800D2836A03F81DD8F3DDA23CD2D8BFFF18A5"
   },
   "8E1BEAB60E120924656D8A741A38B112ABD7EF97": {
     "name": "Tengen World Cup Soccer (USA, Europe)",
@@ -2679,7 +3003,8 @@
     "logo": "QmRpmF3No2krvUHrTxH4m4u489AJDPW9CY191PWsfBrkin"
   },
   "69BB04A218D207A9A907A37970B6AC992A64B8CD": {
-    "name": "Tengen World Cup Soccer (USA, Europe) (Beta)"
+    "name": "Tengen World Cup Soccer (USA, Europe) (Beta)",
+    "ref": "8E1BEAB60E120924656D8A741A38B112ABD7EF97"
   },
   "833C94EA65A7C36349B2BB0B2B637116F54A6762": {
     "name": "Terminator 2 - Judgment Day (World)",
@@ -2705,7 +3030,8 @@
     "logo": "QmUwxVhgtT9YM3pMKunXhnvzpnRVs6JQxaKbomqjW9QEcF"
   },
   "25F7E0D4B4416E4F879D289EED638D4018BEDB51": {
-    "name": "Tom and Jerry - The Movie (Japan, Brazil)"
+    "name": "Tom and Jerry - The Movie (Japan, Brazil)",
+    "ref": "514F8BC2E9306F4005D5A8AA2DC49304D48BFC82"
   },
   "514F8BC2E9306F4005D5A8AA2DC49304D48BFC82": {
     "name": "Tom and Jerry - The Movie (USA, Europe)",
@@ -2736,7 +3062,8 @@
     "logo": "Qmbv7rYFYYZmT796Wm2XhJWUtHSi7GrYEe5YfD2v6e6uHe"
   },
   "B1D808E0A444AB12145915FAD920A43BD04CB669": {
-    "name": "Vampire - Master of Darkness (USA) (Virtual Console)"
+    "name": "Vampire - Master of Darkness (USA) (Virtual Console)",
+    "ref": "14E6B1E886355D902B34ACDF503ECED8DF88AFE4"
   },
   "222F3E49F595CEB4263AF329C4021D64FC4772E6": {
     "name": "Virtua Fighter Animation (USA, Europe)",
@@ -2800,7 +3127,8 @@
     "name": "Wonder Boy III - The Dragon's Trap (Europe) (Beta)"
   },
   "4EFBFA1D3234D8F1800A06AB72B2177FBA6914CB": {
-    "name": "Woody Pop (USA, Europe, Brazil)"
+    "name": "Woody Pop (USA, Europe, Brazil)",
+    "ref": "9E7DEFDA6873B7BCA5650FAD4426A6FB443522D8"
   },
   "9E7DEFDA6873B7BCA5650FAD4426A6FB443522D8": {
     "name": "Woody Pop (Japan) (En)",
@@ -2821,7 +3149,8 @@
     "name": "World Derby (Japan)"
   },
   "333DD99F11781D6DE5720043530A460A409D652B": {
-    "name": "World Series Baseball (USA) (Rev 1)"
+    "name": "World Series Baseball (USA) (Rev 1)",
+    "ref": "CCFD03EDF130F28E6BB4C2764DF7ACE7BBE9E159"
   },
   "CCFD03EDF130F28E6BB4C2764DF7ACE7BBE9E159": {
     "name": "World Series Baseball (USA)",
@@ -2834,22 +3163,28 @@
     "logo": "QmPGu7QRaBpfANuPk1Ce69d4eZs2bohdZGbZQi5xvTYDzs"
   },
   "3E05E8B9628853D05AEF16A6B7D09E307C989548": {
-    "name": "World Series Baseball '95 (USA) (Beta) (1994-06-29)"
+    "name": "World Series Baseball '95 (USA) (Beta) (1994-06-29)",
+    "ref": "66D31ED6BB6DFEDD769BF5E6C5DCBF899F2F2C8C"
   },
   "A1F06AC03E229B6BE08E995365BF6FFDA0B32184": {
-    "name": "World Series Baseball '95 (USA) (Beta) (1994-07-09)"
+    "name": "World Series Baseball '95 (USA) (Beta) (1994-07-09)",
+    "ref": "66D31ED6BB6DFEDD769BF5E6C5DCBF899F2F2C8C"
   },
   "7B9750F398F1BAB2A6D10DF58E610A4CE59287BB": {
-    "name": "World Series Baseball '95 (USA) (Beta) (1994-07-19)"
+    "name": "World Series Baseball '95 (USA) (Beta) (1994-07-19)",
+    "ref": "66D31ED6BB6DFEDD769BF5E6C5DCBF899F2F2C8C"
   },
   "149F8D34BE9F2CFC080F5E192712A134656D12F3": {
-    "name": "World Series Baseball '95 (USA) (Beta) (1994-07-22)"
+    "name": "World Series Baseball '95 (USA) (Beta) (1994-07-22)",
+    "ref": "66D31ED6BB6DFEDD769BF5E6C5DCBF899F2F2C8C"
   },
   "FDDF978DC5C29CA234080FFF32680FBF66D7BE2C": {
-    "name": "World Series Baseball '95 (USA) (Beta) (1994-07-28)"
+    "name": "World Series Baseball '95 (USA) (Beta) (1994-07-28)",
+    "ref": "66D31ED6BB6DFEDD769BF5E6C5DCBF899F2F2C8C"
   },
   "5BA283DFF711AD4A32D52AA077829DDA43D52EAA": {
-    "name": "World Series Baseball '95 (USA) (Beta) (1994-07-29)"
+    "name": "World Series Baseball '95 (USA) (Beta) (1994-07-29)",
+    "ref": "66D31ED6BB6DFEDD769BF5E6C5DCBF899F2F2C8C"
   },
   "585E147026BD998062E64ED3C0AAA0A07E6EE734": {
     "name": "WWF Raw (USA, Europe)",
@@ -2872,13 +3207,16 @@
     "logo": "QmRcyEyiJ2Fk886Mb4Ws6GeTQ2nggLa4rAoZ5PGpYiott9"
   },
   "46237CF1C2810A8F2E5C31907A1AE04B647256C8": {
-    "name": "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-10)"
+    "name": "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-10)",
+    "ref": "872596D40AAE1755C9DDA99180CB165166267904"
   },
   "9DF11129D4F7E55A1380B139D1BB0CDB4137A702": {
-    "name": "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-31)"
+    "name": "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-31)",
+    "ref": "872596D40AAE1755C9DDA99180CB165166267904"
   },
   "1078EF9C16CB997F61EDDBD07C1BFBC5F74B177B": {
-    "name": "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-09-06)"
+    "name": "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-09-06)",
+    "ref": "872596D40AAE1755C9DDA99180CB165166267904"
   },
   "CFF15C4A3E555C2868AF93C55386B5AB3D3DB4E3": {
     "name": "X-Men - Mojo World (USA)",
@@ -2886,25 +3224,32 @@
     "logo": "QmS9pyi8Eep7fqvWaucPidxph8fv3qu9xZPEsqYomedQUM"
   },
   "B9A4D3BD1F33A988B48FDFFEDABD26DDAF7D7AB5": {
-    "name": "X-Men - Mojo World (USA) (Beta) (1996-06-05)"
+    "name": "X-Men - Mojo World (USA) (Beta) (1996-06-05)",
+    "ref": "CFF15C4A3E555C2868AF93C55386B5AB3D3DB4E3"
   },
   "EB9646133CA49838C7D559492F1A059398ABE34F": {
-    "name": "X-Men - Mojo World (USA) (Beta) (1996-06-13)"
+    "name": "X-Men - Mojo World (USA) (Beta) (1996-06-13)",
+    "ref": "CFF15C4A3E555C2868AF93C55386B5AB3D3DB4E3"
   },
   "E7D3AF2BB027AF159D02EB85B8810438AF59C8DD": {
-    "name": "X-Men - Mojo World (USA) (Beta) (1996-06-24)"
+    "name": "X-Men - Mojo World (USA) (Beta) (1996-06-24)",
+    "ref": "CFF15C4A3E555C2868AF93C55386B5AB3D3DB4E3"
   },
   "3ADE7AEEA0D0D5E65D4DA24021B565DE891E45A8": {
-    "name": "X-Men - Mojo World (USA) (Beta) (1996-06-25)"
+    "name": "X-Men - Mojo World (USA) (Beta) (1996-06-25)",
+    "ref": "CFF15C4A3E555C2868AF93C55386B5AB3D3DB4E3"
   },
   "5690F9609C641EA7718DDB8E7C36342EEB4A25DD": {
-    "name": "X-Men - Mojo World (USA) (Beta) (1996-06-27)"
+    "name": "X-Men - Mojo World (USA) (Beta) (1996-06-27)",
+    "ref": "CFF15C4A3E555C2868AF93C55386B5AB3D3DB4E3"
   },
   "97FCE993A317CBC09825849A45BC2C2AB3E97179": {
-    "name": "X-Men - Mojo World (USA) (Beta) (1996-06-28)"
+    "name": "X-Men - Mojo World (USA) (Beta) (1996-06-28)",
+    "ref": "CFF15C4A3E555C2868AF93C55386B5AB3D3DB4E3"
   },
   "CC3FC3B57BCD4DAEA90A572C935013D286EBBB99": {
-    "name": "X-Men - Mojo World (USA) (Beta) (1996-06-29)"
+    "name": "X-Men - Mojo World (USA) (Beta) (1996-06-29)",
+    "ref": "CFF15C4A3E555C2868AF93C55386B5AB3D3DB4E3"
   },
   "B6664C21A99A96392FE79237D326E96AC0BDD52A": {
     "name": "X-Terminator (Europe) (v2.1) (Program) (Unl)"
@@ -2936,7 +3281,8 @@
     "logo": "QmPE1K9YbzzQ1FqsAUoWq9enWxJLRNLwbvjDwvxqbE5PxH"
   },
   "F58359FFA7BC3EC82913BE128D141E5D41926B88": {
-    "name": "Zoop (USA)"
+    "name": "Zoop (USA)",
+    "ref": "F704412387C1FE91D94D2C1405F8A49768320D0C"
   },
   "F704412387C1FE91D94D2C1405F8A49768320D0C": {
     "name": "Zoop (USA) (Beta)",
