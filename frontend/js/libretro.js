@@ -162,6 +162,10 @@ async function setupMounts() {
     FS.mkdir(retroArchDir + 'system');
     FS.writeFile(retroArchDir + 'system/' + bios, biosFile);
     biosFile = null;
+  } else {
+    if (! FS.analyzePath(retroArchDir + 'system').exists) {
+      FS.mkdir(retroArchDir + 'system');
+    }
   };
   // Make default config if it does not exist
   if (! FS.analyzePath(retroArchDir + 'userdata/retroarch.cfg').exists) {
