@@ -84,7 +84,8 @@ async function downloadFile(url, gameDL) {
   var response = await fetch(url,Init);
   var length = response.headers.get('Content-Length');
   if (!length) {
-    return await response.arrayBuffer();
+    let buff = await response.arrayBuffer();
+    return new Uint8Array(buff);
   };
   var array = new Uint8Array(length);
   let at = 0;
@@ -223,6 +224,9 @@ async function downloadGame(dlGame) {
     };
   };
   divContent('loading','');
+  FS.writeFile('/home/test', 'test');
+  FS.writeFile('/home/web_user/test', 'test');
+  FS.writeFile('/home/web_user/retroarch/test', 'test');
   // Call main run of emu
   Module.callMain(Module.arguments);
   Module.resumeMainLoop();
