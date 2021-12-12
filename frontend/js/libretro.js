@@ -224,9 +224,6 @@ async function downloadGame(dlGame) {
     };
   };
   divContent('loading','');
-  FS.writeFile('/home/test', 'test');
-  FS.writeFile('/home/web_user/test', 'test');
-  FS.writeFile('/home/web_user/retroarch/test', 'test');
   // Call main run of emu
   Module.callMain(Module.arguments);
   Module.resumeMainLoop();
