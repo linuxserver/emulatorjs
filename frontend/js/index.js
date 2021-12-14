@@ -424,17 +424,17 @@ async function rendermenu(datas) {
   //// Mouse Scrolling ////
   $('#menu').bind('DOMMouseScroll', function(e){
     if(e.originalEvent.detail > 0) {
-      moveDown(10);
+      moveDown();
     } else {
-      moveUp(10);
+      moveUp();
     };
     return false;
   });
   $('#menu').bind('mousewheel', function(e){
     if(e.originalEvent.wheelDelta < 0) {
-      moveDown(10);
+      moveDown();
     } else {
-      moveUp(10);
+      moveUp();
     };
     return false;
   });
