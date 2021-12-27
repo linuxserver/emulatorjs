@@ -9,7 +9,8 @@
     "name": "4 en 1 Ligne (France)"
   },
   "E9A8996C4FB87120D8620AB8876B90DDB48335DB": {
-    "name": "4 in 1 Row (Europe)"
+    "name": "4 in 1 Row (Europe)",
+    "logo": "QmbzfEyb2a9qeirGbNrgZksZtyZf9HEvNfgvejjUTKpGCX"
   },
   "9BA0737FDEE2918375725BB5230D075A2F847159": {
     "name": "Alien Invaders - Plus (USA, Europe)",
@@ -94,10 +95,12 @@
     "logo": "QmST13YeAWZ3CsoCkCyiGf5HyunC2LhdgZnTKecCbT4hFH"
   },
   "C07C1206DB8D4FB5142B38EAD52082D4682D70BE": {
-    "name": "Clay Pigeon (Brazil)"
+    "name": "Clay Pigeon (Brazil)",
+    "logo": "QmZ2efrAi83S8zLMX9qWNWjBf2Hkqo7a94QwNdb6UWp8cp"
   },
   "E0AA46211967C880BF7FF39836FE5E73C0302460": {
-    "name": "Comando Noturno (Brazil)"
+    "name": "Comando Noturno (Brazil)",
+    "logo": "QmYiMxVr7orYbYUWDFCZ1dYreQX1YAiWyfeUFjrAw6tv8t"
   },
   "C8736250EBF376543256D85CF853E825475E0AF6": {
     "name": "Computer Golf (USA)",
@@ -111,7 +114,8 @@
   },
   "913C1961DFA17B5873428F57429E3809580FF906": {
     "name": "Computer Programmer (Europe)",
-    "vid": "QmPgX36XLvreFtsC4BoeYWNh8NxNgZGLdYkmD8cXrcENf9"
+    "vid": "QmPgX36XLvreFtsC4BoeYWNh8NxNgZGLdYkmD8cXrcENf9",
+    "logo": "QmVgwBezV6voeaHr7LyLv2SSL7D6zyQbERQjXJLUiGPgaw"
   },
   "E54FE13EE27884524255063AA6FD69E4598A5104": {
     "name": "Conflit Cosmique (Canada)"
@@ -183,7 +187,8 @@
     "ref": "0BEDA7B36259B3BE84D34206A77A35CD3F04892F"
   },
   "C2BF8D92B8827E3071D6CE4C43E34B21AFC54F8D": {
-    "name": "Golf (Europe)"
+    "name": "Golf (Europe)",
+    "logo": "QmXfS3GwPQpqsc5yAiXPaFNwN4bxCZnx3mdKt5bwT3jLuy"
   },
   "D54B1D5667BF90368DDDAB55A91955B1789F177C": {
     "name": "Great Wall Street Fortune Hunt, The (USA, Europe)",
@@ -194,7 +199,8 @@
     "name": "Guerre Laser (France)"
   },
   "B5EC5ED9373372DE6D70620094AF06282C48968D": {
-    "name": "Gunfighter (Europe)"
+    "name": "Gunfighter (Europe)",
+    "logo": "QmP2VTz73HH13FPqi87kne8Wx1ZC8GXbWavq1PKEgyzyUu"
   },
   "F39C9801984F97D5A685A4B7A1ACCD0164A49B43": {
     "name": "Hockey + Soccer (USA, Europe)",
@@ -223,7 +229,8 @@
     "name": "Jumping Acrobats (Europe) (Alt 1)"
   },
   "A44587D48E76117838CB6A4CF964321D37EFCDE1": {
-    "name": "Jumping Acrobats (Europe)"
+    "name": "Jumping Acrobats (Europe)",
+    "logo": "QmV6eqLVgUqEq455Xn5DpeWTD8sriRgoRbJAMjfDRFc2vF"
   },
   "D273CF993DFCBCA3B65CD4959B45A3009F242BC6": {
     "name": "K.C. Munchkin (USA)",
@@ -266,7 +273,8 @@
     "logo": "QmW2xPUnBEch9xgvDz5Q5M3beBBP7PHgv6QwmdYfNZ6rFU"
   },
   "3D188D49D4A2409F66AC86BCF58D90D35908032B": {
-    "name": "Laser War (Europe)"
+    "name": "Laser War (Europe)",
+    "logo": "QmdmEtu3AfheN293o4YUwh5Z3CSbjroruhudwbq4ppzgBe"
   },
   "3CB324B047CBAC8EC4381150B1C2AEE98573841B": {
     "name": "Loony Balloon (Europe) (Proto)",
@@ -334,7 +342,8 @@
     "logo": "QmU2DHZqqSp8QXEtn6wqUfmfuW4K9dfViwmsjvXQbTCqa2"
   },
   "183B3B1B70DB58CC9ADA575CC324353F2E89C2CE": {
-    "name": "Newscaster (Europe)"
+    "name": "Newscaster (Europe)",
+    "logo": "QmaCToNaMY4c9QLNt3vJe5hjFtsx4ma4GHsv4oJ5qUv9Bp"
   },
   "EC364634C2A8160DA1916A43246B76D78932BE1D": {
     "name": "Nightfighter (Europe) (Proto)",
@@ -443,7 +452,8 @@
     "name": "Samurai (Europe)"
   },
   "E0383DD98B85DC2156A859E731FF904B6EBAD95B": {
-    "name": "Satellite Attack (Europe)"
+    "name": "Satellite Attack (Europe)",
+    "logo": "Qma1uuj5QzpP1B4Kcor9HrCTuGrjFMzUQwfxPSqTqpEjF9"
   },
   "9FF434312FA9D3B7B63909A9ECE01D4E3E87F3B7": {
     "name": "Secret of the Pharaohs (Europe)",
@@ -488,7 +498,8 @@
     "ref": "4B1D675CB1FBF72ED35681E2B2E6E99FED7154CD"
   },
   "50763429D12206D7BF9FAD6A6BD6076A34D54B51": {
-    "name": "Stone Sling (Europe)"
+    "name": "Stone Sling (Europe)",
+    "logo": "QmdfuqVy3DuKxNP27tp1SqbWrNWRGhN6Frwz2zeyn5Atc3"
   },
   "DFCFD9C019773E703AA130BC55F5B2F972ECE8F0": {
     "name": "Super Bee (Europe)",

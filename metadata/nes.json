@@ -262,7 +262,8 @@
     "logo": "QmRcqYMkrXexrGeuVyEo23nVfrFxDhpLP6JbfKcojrVu6k"
   },
   "2185DC04B9967A14008BAEBEFA58F06BBCF844A3": {
-    "name": "Adventures of Dr. Franken, The (USA) (Proto)"
+    "name": "Adventures of Dr. Franken, The (USA) (Proto)",
+    "logo": "QmUwbC1wLd8EPRNTsDu99XzkHQgRhRHQmpkjs2YHZPGAcq"
   },
   "493CAEBAF648DCE5F585BECE276C73B7015E77CE": {
     "name": "Adventures of Gilligan's Island, The (USA)",
@@ -669,7 +670,8 @@
     "logo": "QmVEzk8C6mr4QiwosKYdd1Qcx6NXKmkyPMPYthcGbxq6ib"
   },
   "4B1055C6881E770D4C0A537A868879EC1BD67B0E": {
-    "name": "Aussie Rules Footy (Australia)"
+    "name": "Aussie Rules Footy (Australia)",
+    "logo": "QmeEZdL4tpZQR2KR5BjnbMC2sAUfFCg9TQEXNGQsxrg4k2"
   },
   "587E90896E17897682E80B43643A22EC336ED54E": {
     "name": "Auto-Upturn (Asia) (Ja) (PAL) (Unl)"
@@ -1305,7 +1307,8 @@
     "ref": "98845D5716525E68EF7417E6FB55BE30A4C7130D"
   },
   "2500B5492ECE1CAFB97881C5A384B0768313BF98": {
-    "name": "Block Out (USA) (Proto)"
+    "name": "Block Out (USA) (Proto)",
+    "logo": "QmZti5kWNRHqqe6MChSGd1tJ9SgPbaaQ2275dKf9jk8Lz3"
   },
   "1DD3691DE5D57353CA7D9D235C01BA124EE6B597": {
     "name": "Blodia Land - Puzzle Quest (Japan)"
@@ -1940,7 +1943,8 @@
     "logo": "QmcMTekVZtEDhbt2fCzTfE7rMRmRvZjKmfwrj8p2BxL1yy"
   },
   "0FA6BB5EBAABA3637959749A55CA51A86C010B57": {
-    "name": "Chuck Yeager's Fighter Combat (USA) (Proto)"
+    "name": "Chuck Yeager's Fighter Combat (USA) (Proto)",
+    "logo": "QmQxMfc6TgADWMtBYhA7Uvzdhcr5iWCxZ2T3YdkbnmMNYP"
   },
   "5B767C82A6A3EA307B25F11343E1BA0958B74635": {
     "name": "Chuugoku Janshi Story - Tonfuu (Japan)"
@@ -2785,7 +2789,8 @@
     "ref": "59B43881456C0720E9A35E391B11C4B2C55A8F91"
   },
   "B8238D7C9A1CAE700632FC3EED4C4200E96F5ED1": {
-    "name": "Drac's Night Out (USA) (Proto)"
+    "name": "Drac's Night Out (USA) (Proto)",
+    "logo": "Qma6uY3DBjnwFoDLZEsyfXh2piCA7kbcKkmk9XVNWWVkiQ"
   },
   "757A4B9ED661DC6A6F33532AE64B0B063C79DBB3": {
     "name": "Dragon Ball - Daimaou Fukkatsu (Japan)"
@@ -2898,19 +2903,23 @@
     "name": "Dragon Unit (Japan)"
   },
   "73F9B88DEF80756EF29C5AA1A724C3112E5918C1": {
-    "name": "Dragon Warrior (USA)"
+    "name": "Dragon Warrior (USA)",
+    "logo": "QmWYSQ9CT5o2TDWd5N91yEDSktvFyANsCa24no1sEmnYrm"
   },
   "240E445AB95C3A5AFBEF63E9239EACC9F9FE1E19": {
     "name": "Dragon Warrior (USA) (Rev 1)"
   },
   "191A131E7E27E121D094CC412FED87C708147B2C": {
-    "name": "Dragon Warrior II (USA)"
+    "name": "Dragon Warrior II (USA)",
+    "logo": "QmUfgdkTcbGn2S5iWw2ejUbv6S9Tbu89Z82gNhFz8356o9"
   },
   "E58B61B031A9F0DC168525654BCB9883EF61A976": {
-    "name": "Dragon Warrior III (USA)"
+    "name": "Dragon Warrior III (USA)",
+    "logo": "Qmcq8QBdtfJuF4x7vYSJVi4gwE2MBiExTGggRTPwWY3W81"
   },
   "1B3DC265BA0D7E4B2CEF9B3F8B0BE0847DF67C3C": {
-    "name": "Dragon Warrior IV (USA)"
+    "name": "Dragon Warrior IV (USA)",
+    "logo": "QmTphp1J83jtYFrygBe3gsLJHRc3xQwWmx3th5xLmBaxAE"
   },
   "6B7387610FED625C7932455C688B5E42927E34E8": {
     "name": "Dragon Wars (Japan)"
@@ -2960,7 +2969,8 @@
     "logo": "Qmb4ZpGzfk6AxLsjauG1ithoByay1utuwgP2vT2Mhi7iq5"
   },
   "261CD2397B65C43F50F56C367AF5CC5E99BE6116": {
-    "name": "Duck Maze (Australia) (Unl)"
+    "name": "Duck Maze (Australia) (Unl)",
+    "logo": "QmUvwTrwLxr631Udd621DaKmF5cjpqtnUSG8AQ5magbcq4"
   },
   "1E4796EE09739C45F7FED2A9BBD1CEB132C4FF7F": {
     "name": "DuckTales (Europe)",
@@ -3452,7 +3462,8 @@
     "name": "Fantasy Zone II - Opa-Opa no Namida (Japan)"
   },
   "376250E7C5FB2455CF5ED94F29D67C18C7366698": {
-    "name": "Faria - A World of Mystery & Danger! (USA)"
+    "name": "Faria - A World of Mystery & Danger! (USA)",
+    "logo": "QmQeLGPijFCwry8EckGWq4cNsCt7pDKH8usrrmqajKfV4P"
   },
   "CD61B3CAD9BE75A271D1BE164885CA0D8070A2C9": {
     "name": "Faria - Fuuin no Tsurugi (Japan)"
@@ -3542,7 +3553,8 @@
     "name": "Final Fantasy (Japan) (Rev 1)"
   },
   "C9CFBF5455085E198DCE039298B083CD6FC88BCE": {
-    "name": "Final Fantasy (USA)"
+    "name": "Final Fantasy (USA)",
+    "logo": "Qmeir8ag9wXVdzuArDLYVcY9Ff7xyM29ofpNfW6ony41vY"
   },
   "2CA00A60EC202547CA30C47850C442E13F9837C9": {
     "name": "Final Fantasy (USA) (Virtual Console)"
@@ -3727,7 +3739,8 @@
     "logo": "QmVfx2N4ervrbDQWYTHYvak1MsRhuqcy1qRTdxf3hpjPm3"
   },
   "87C929090C3B04739BAAED90B9A8F40B29327FC2": {
-    "name": "Free Fall (USA) (Proto)"
+    "name": "Free Fall (USA) (Proto)",
+    "logo": "QmXtUqJqWx42L3tfbofpfjR95cAq2VLzKRJAQQKUUvHr9s"
   },
   "1EBE3145F47D9EBB874A54230D63DCD5716C68A1": {
     "name": "Freedom Force (USA)",
@@ -4854,7 +4867,8 @@
     "name": "Insector X (Japan)"
   },
   "73396BA69AA122D64DED6F211F3548242DFDF229": {
-    "name": "International Cricket (Australia)"
+    "name": "International Cricket (Australia)",
+    "logo": "QmNRyh1HeZTbrsNA5oERwfCf2jYpqYKiMk9wWt78AjNFw7"
   },
   "8861C25D42E6BC24A8E746F286B111B242853459": {
     "name": "International Cricket (Australia) (Beta) (1992-08-24)"
@@ -4872,7 +4886,8 @@
     "name": "IronSword - Wizards & Warriors II (Europe)"
   },
   "03130F8464B3F4418427BF124EB15FBAEB86E09D": {
-    "name": "IronSword - Wizards & Warriors II (USA)"
+    "name": "IronSword - Wizards & Warriors II (USA)",
+    "logo": "QmUvEQueS1VmkcBGTYJq3PLxWhSkJmDhbSh8oKcZuvW4mm"
   },
   "028C17789BCB480537A41FD576AD4454724B8339": {
     "name": "Isaki Shuugorou no Keiba Hisshou Gaku (Japan)"
@@ -4938,7 +4953,8 @@
     "logo": "Qmd8mmJbmhEheTyk3HJrNNp4aYN76FDUx5anA44Skrr1VE"
   },
   "FCBFBABF3C6D26271EE4842C131FCE97AB8697F4": {
-    "name": "Jackpot (Australia) (Unl)"
+    "name": "Jackpot (Australia) (Unl)",
+    "logo": "QmSH9vpTQwUkjhry6ezFUeTaSDHtRvzCkaSaWa3nD4Sc4g"
   },
   "94473D4C394008AAC36D44D13E37940E0F982C75": {
     "name": "Jajamaru Gekimaden - Maboroshi no Kinmajou (Japan)"
@@ -5362,7 +5378,8 @@
     "name": "King Kong 2 - Ikari no Megaton Punch (Japan)"
   },
   "F5C62A5AC771C42D0F64A46D4A70D283EEEF58EB": {
-    "name": "King Neptune's Adventure (USA) (Unl)"
+    "name": "King Neptune's Adventure (USA) (Unl)",
+    "logo": "QmYP6jDkEDQYyfRyydVbKitxwRBVTuHDfWusqxDLCMJ58Y"
   },
   "C0E3BD39A95D9BFB9C1D2A6932D99D618389D087": {
     "name": "King Neptune's Adventure (USA) (Beta) (Unl)"
@@ -5687,7 +5704,8 @@
     "name": "Legend of Zelda, The (Europe) (Rev 1)"
   },
   "A12D74C73A0481599A5D832361D168F4737BBCF6": {
-    "name": "Legend of Zelda, The (USA)"
+    "name": "Legend of Zelda, The (USA)",
+    "logo": "QmXLnHELjbwRq5inKWhQqSJjGJfo3hLujLyb38sKfNP1SJ"
   },
   "BE2F5DC8C5BA8EC1A344A71F9FB204750AF24FE7": {
     "name": "Legend of Zelda, The (USA) (Rev 1)"
@@ -5819,7 +5837,8 @@
     "logo": "QmQQSFUUhL46tFqzzR2RLACFaXqvy6odvNwzHhLYKY5oW4"
   },
   "FA1C3508673F0B7050A982597923F53991A31093": {
-    "name": "Little Red Hood (Australia) (Unl)"
+    "name": "Little Red Hood (Australia) (Unl)",
+    "logo": "QmUeqYyPe3RftccEfBhAXq6wLp3ovwxvwgWvC8VNi8DPEF"
   },
   "62342BDA0FB0654F381417782F85DBBE81E2BD28": {
     "name": "Little Red Hood - Xiao Hong Mao (Asia) (Ja) (Unl)"
@@ -6161,7 +6180,8 @@
     "name": "Majou Densetsu II - Daimashikyou Galious (Japan)"
   },
   "21C3BEA9CCB63C444732CEE5147A77DE7A9266BB": {
-    "name": "Makai Island (USA) (Proto)"
+    "name": "Makai Island (USA) (Proto)",
+    "logo": "QmUKBT56vP1RL5EzerJPSeuvVDSWPDLFfmb4itDAzLhMh8"
   },
   "F8B38262C2AC00CF4E3E653F2987BDADC86F839E": {
     "name": "Makaimura (Japan)"
@@ -6789,7 +6809,8 @@
     "name": "Miracle Piano Teaching System, The (Germany)"
   },
   "7BF2E5DAD66CE253C25EC97CF27461C6475F044D": {
-    "name": "Miracle Piano Teaching System, The (USA)"
+    "name": "Miracle Piano Teaching System, The (USA)",
+    "logo": "QmUwK2yNHr8xiJoKaEaUobhfBDmrPQoT87VgZH97wLUmQZ"
   },
   "4E2B75E0B249D2A1DB6B73A2F35636F514F7175D": {
     "name": "Miracle Ropit's - 2100 Nen no Daibouken (Japan)"
@@ -7001,7 +7022,8 @@
     "name": "Mugen Senshi Valis (Japan)"
   },
   "03A111AC0FA78E566814D6F9296454BFC34E7B3C": {
-    "name": "Muppet Adventure - Chaos at the Carnival (USA)"
+    "name": "Muppet Adventure - Chaos at the Carnival (USA)",
+    "logo": "QmQiCnZiKcFsEUL19uziMNHMmmAh5U2CZ3MwCXiADywkDB"
   },
   "8C79C09A31470072EB0ED70E58D147B7B2CD0960": {
     "name": "Murder Club - Honkaku Mystery Adventure (Japan)"
@@ -7671,7 +7693,8 @@
     "name": "Parasol Henbee (Japan)"
   },
   "1E4F17174A70C408012FE32EF36E2F3E928702E0": {
-    "name": "Parasol Stars - Rainbow Islands II (Europe)"
+    "name": "Parasol Stars - Rainbow Islands II (Europe)",
+    "logo": "QmRaY3NU6yfnV28rkDUCNKq6BTZVqiaZfZczteJ5Jj64rk"
   },
   "52CDBF7200F6664059C0C3ECC4BDC7553D3FA282": {
     "name": "Parasol Stars - The Story of Bubble Bobble III (Europe) (Beta)"
@@ -7695,7 +7718,8 @@
     "name": "Parody World - Monster Party (Japan) (Proto)"
   },
   "39294394A0631708F58397371CE14075AE1FB7E6": {
-    "name": "Peek-A-Boo Poker (USA) (Unl)"
+    "name": "Peek-A-Boo Poker (USA) (Unl)",
+    "logo": "QmfGVDvBoucDzUzbjfpAvgiNbrvobThH8RY51te6uNxzTp"
   },
   "1E81DAD3E13866464240032F281466E1F52D0A46": {
     "name": "Peepar Time (Japan)"
@@ -7980,10 +8004,12 @@
     "name": "Pro Yakyuu Satsujin Jiken! (Japan)"
   },
   "999ACA2DFDBDCC164DDAB12282290247F4CE21E1": {
-    "name": "Probotector (Europe)"
+    "name": "Probotector (Europe)",
+    "logo": "QmdPhhdjNbZSovKujsdKYLzBouMmvF6Eh8SaebRyMzMbyR"
   },
   "DA72F34057A1C8FEA703A3D68DA8F53D78A75EF5": {
-    "name": "Probotector II - Return of the Evil Forces (Europe)"
+    "name": "Probotector II - Return of the Evil Forces (Europe)",
+    "logo": "Qma4H5gCFLkDfT57dBdpYsQtotFiT81wDLp36ftYZrQ8Qm"
   },
   "66C69E57F80F87B48C2B876EE4B8037DC2AEE8C3": {
     "name": "Probotector II - Return of the Evil Forces (World) (Contra Anniversary Collection)"
@@ -8268,7 +8294,8 @@
     "logo": "QmcxsMFHsxFvVbwNDxArRG935Cbu3boCxuy3GJkDUKXhTQ"
   },
   "2E92FBE8B7C3ABC901057B8D8E6A5E882D7D4E10": {
-    "name": "Rainbow Islands - Bubble Bobble 2 (Europe)"
+    "name": "Rainbow Islands - Bubble Bobble 2 (Europe)",
+    "logo": "QmPfKwjLcckzXfEcEoJfBdpN73NmUE7FYWC136d2FpX6xj"
   },
   "88919310A4B5433562AB5DF0E3F5FE8FE0A61403": {
     "name": "Rainbow Islands - The Story of Bubble Bobble 2 (Japan)"
@@ -8391,7 +8418,8 @@
     "logo": "QmbYbvSTC9icnupKkn7eAp2qMKhoninxcURvn9m2GYsgXf"
   },
   "D3C09EB28362EEC9A74AC70D3125337A8CA932A8": {
-    "name": "Robert Byrne's Pool Challenge (USA) (Proto) (Unl)"
+    "name": "Robert Byrne's Pool Challenge (USA) (Proto) (Unl)",
+    "logo": "QmdwZQHjf1CC2K5qsA7f6Ck7357V852K2PhHovis1mzoxR"
   },
   "125DD4D6EFE3FAB3AB3047290AE9480B2354FF2E": {
     "name": "Robin Hood - Prince of Thieves (USA) (Beta) (1991-05-16)",
@@ -8474,7 +8502,8 @@
     "logo": "QmZ3cRHE3Yqdq6StTyNVNqMzVN6vjpBnF3zxBop2k29XEi"
   },
   "EF814DFC42EA1461ABED357992ADCDAE1C82D408": {
-    "name": "RoboCop versus The Terminator (USA) (Proto)"
+    "name": "RoboCop versus The Terminator (USA) (Proto)",
+    "logo": "QmQ5iHe8RUiufwJw9gJWLe1yy6xDw11T4LbqhEe32haHL4"
   },
   "F11AF8758F073BB9A130884E81A09E8AD86545BB": {
     "name": "Robodemons (USA) (Unl)",
@@ -8837,7 +8866,8 @@
     "ref": "B77BD6EB083A0B7BCFA536A34E575BE4D0D2371B"
   },
   "B10594E7CBB7CE95BD57667E2DB62CC9B4810432": {
-    "name": "Secret Ties (USA) (Proto)"
+    "name": "Secret Ties (USA) (Proto)",
+    "logo": "QmTUcY7z9BeeqPnP3W7ePybUArEdzrbPx5fEy74Las7bzN"
   },
   "FE81F6B0EB309C5484E18FE1D0E859ADD29A8DBD": {
     "name": "Section-Z (Europe)",
@@ -9501,7 +9531,8 @@
     "name": "Square no Tom Sawyer (Japan)"
   },
   "4F8781614E4975F69C4C0BD7A3F183DCB48E6238": {
-    "name": "Squashed (USA) (Proto)"
+    "name": "Squashed (USA) (Proto)",
+    "logo": "QmVvHcymzmphFghjVjLukWUEpPgU34A7RsuKHgJDZcEsjD"
   },
   "85B0031C86274A5805933C5422F7B8DCFAB75134": {
     "name": "Stack-Up ~ Block (World)",
@@ -9579,7 +9610,8 @@
     "logo": "QmXjLFaef955V3mEsj9F7d3Mij6jDQXyKaWFHQ15B2iL6U"
   },
   "8D32989B7B8BC53084F9FD98F81C8ACC4A825721": {
-    "name": "Star Trek V - The Final Frontier (USA) (Proto)"
+    "name": "Star Trek V - The Final Frontier (USA) (Proto)",
+    "logo": "Qmb5aNDjnFc55BFGJ7tJ76H7JRJ9CyQLBt3Dtw5pzp3x7X"
   },
   "5C645B615A197F0A3AF4AB617FD769AD598F02D1": {
     "name": "Star Versus (World) (Aftermarket) (Unl)"
@@ -9738,7 +9770,8 @@
     "logo": "QmREP718APBscMC1Z3mGaPS3NL1AZ7u56wRUQavNFSnDsX"
   },
   "A3791FE7928E8057E478F8D21B51B51C942325F5": {
-    "name": "Sunman (Europe) (Proto)"
+    "name": "Sunman (Europe) (Proto)",
+    "logo": "QmY4ukNN57LSvTi7FWzorkyDm3FfE78E5nwc5QaZ8b87Jk"
   },
   "7D2DF1924092621509A60E1D242C3E1701AF5DD1": {
     "name": "Super 190-in-1 (Asia) (En) (Unl) (Pirate)"
@@ -9972,7 +10005,8 @@
     "logo": "QmPR2qPPUyZDfCM5yTcSoH4RpQWMN39Sy8QoX1CdFh28Fe"
   },
   "CA69FA79D26F6F663864D3343B9737242508B637": {
-    "name": "Super Pitfall II (USA) (Proto)"
+    "name": "Super Pitfall II (USA) (Proto)",
+    "logo": "QmdAu1bEfkeyHeUmNrvTq8MgSbGp4WRibAiDXhCyQjtxuF"
   },
   "B17156E87D70C5ECCB3B54B931FE282ACB6FEF8E": {
     "name": "Super Real Baseball '88 (Japan)"
@@ -10641,7 +10675,8 @@
     "name": "Titan (Japan)"
   },
   "0872D0D7CE758A1D309A9C47DDCB7A505794540B": {
-    "name": "Titan Warriors (USA) (Proto)"
+    "name": "Titan Warriors (USA) (Proto)",
+    "logo": "QmRbJC8LQCxaMxjGwR1a3S4R3tbQ9k4qqe5sh2HMfkdge1"
   },
   "191D43B72A198E9D3D0F6BAD918CD71D710595A8": {
     "name": "TM Network - Live in Power Bowl (Japan)"
@@ -10741,7 +10776,8 @@
     "name": "Top Striker (Japan)"
   },
   "31074FB8EBD1B96F4A5F0F391E8F9CA5B1BA96AC": {
-    "name": "Total Funpak (Australia) (Unl)"
+    "name": "Total Funpak (Australia) (Unl)",
+    "logo": "QmckpooPBtGjyFWEorSESucSjHAUgbzUgkmU6foJSWrsCc"
   },
   "30670C049052CD9BB286C9F8C0C149FF7A241130": {
     "name": "Total Recall (Europe)",
@@ -10785,7 +10821,8 @@
     "name": "Toukyou Pachi-Slot Adventure (Japan)"
   },
   "D6F793D29D17D6D5ACE037AF51B169DC1DA45D92": {
-    "name": "Tower of Radia (USA) (Proto)"
+    "name": "Tower of Radia (USA) (Proto)",
+    "logo": "QmSTFiRixfyRkvXBA2JHV5HFiTeoKm71QT5nJ5MYKMKKAU"
   },
   "EB86CEEFF011B93A81630B0D5118876581BFC72B": {
     "name": "Town & Country Surf Designs - Thrilla's Surfari (USA)",
@@ -11230,7 +11267,8 @@
     "name": "War in the Gulf ~ Guerra del Golfo, La (Brazil, Spain) (CCE, Gluk Video) (Unl)"
   },
   "2DB0FE8EE1AAFDB6953E4EB813A05B380B503AFE": {
-    "name": "War on Wheels (USA) (Proto)"
+    "name": "War on Wheels (USA) (Proto)",
+    "logo": "QmZ7iyrCwJYNNDNanxPRL4yDyU6iN1RnGccApJbiAm11rj"
   },
   "BDF3D18E9416A241F829E62A063FD6515128E856": {
     "name": "Wario no Mori (Japan) (En)"
@@ -11361,7 +11399,8 @@
     "name": "Wily & Right no Rockboard - That's Paradise (Japan)"
   },
   "F859A74ADE59A9687AC53C9048023CD7BA994E52": {
-    "name": "Win, Lose or Draw (USA)"
+    "name": "Win, Lose or Draw (USA)",
+    "logo": "QmaoY6H15wrm8QwX4oVF1NuehcSt7csZwPgoZLCrRrJfvU"
   },
   "14C46252AD24EE5C219A37E906751FEA3FC0497F": {
     "name": "Winter Games (USA)",

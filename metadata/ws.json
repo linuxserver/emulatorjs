@@ -694,7 +694,8 @@
     "logo": "QmQnneT7jc6eZNS2rLa2XZ5tekDXmyJwqTZ6jGWBxAUP7n"
   },
   "C2188171DC0F78FB6A13BBB55B4E85BDF7B82FD5": {
-    "name": "Dark Eyes - Battle Gate (Japan)"
+    "name": "Dark Eyes - Battle Gate (Japan)",
+    "logo": "QmZ8WyaHf118bpFPToPxLNZQgnb9oXHHgsX3KwCp5CweST"
   },
   "1E4D8E8B3D16083968055CC76B604DA91FA0A132": {
     "name": "Dicing Knight. (Japan)"
@@ -724,7 +725,8 @@
     "name": "Digimon Tamers - Brave Tamer (Japan) (Rev 1)"
   },
   "8638737E5A35C6BE05A888DC81E504E0D80FD756": {
-    "name": "Digimon Tamers - Digimon Medley (Japan)"
+    "name": "Digimon Tamers - Digimon Medley (Japan)",
+    "logo": "QmUKN6rPFVHwsHdLGNrPQbQYcW7bg37aAcPWBDKHq1bNco"
   },
   "6C5A2DC7E231EBD278FE22BB7F01B1A7CC3785D6": {
     "name": "Digimon Tamers - Digimon Medley (Japan) (Rev 1)"
@@ -968,7 +970,8 @@
     "logo": "QmZ7kGVhCAG7G25EqApGL5pvstKaudJJquqX5UfeMxcuVc"
   },
   "F47B4AB9197999BBEC351750601BAA20FBBD7177": {
-    "name": "Memories Off - Festa (Japan)"
+    "name": "Memories Off - Festa (Japan)",
+    "logo": "QmejxKC8nRqQ4DU2PsqpGXnyDdQh1FWMerHxempzR1pZfQ"
   },
   "2358701531E8A38419859CD70BF2FBBD967B6745": {
     "name": "Mikeneko Holmes - Ghost Panic (Japan)",
@@ -1037,7 +1040,8 @@
   },
   "152C4D63B1B17F2C717A43EFC75D718B614F9DDC": {
     "name": "SD Gundam - Operation U.C. (Japan)",
-    "vid": "QmVqk67ngJrbG3nAHgWYvgVSEfyQDgwG8kSszQqfyvgbNc"
+    "vid": "QmVqk67ngJrbG3nAHgWYvgVSEfyQDgwG8kSszQqfyvgbNc",
+    "logo": "QmPmz5r6ZNnHagVTrj1qo4Q3vCEw7PUbGWLRpAtjU9uZft"
   },
   "EBD4B37ADE6DF717F7B637747A4D3C45A6CCA037": {
     "name": "SD Gundam Eiyuu Den - Kishi Densetsu (Japan)",
@@ -1061,7 +1065,8 @@
     "logo": "QmYfSFFvrSWgNCiUUzEeJ44SczGdfyTzpoM4EEJhde7tJv"
   },
   "1E735D1E83A7BFA06C5C717C7E8A386D55A8E3F0": {
-    "name": "Shaman King - Asu e no Ishi (Japan)"
+    "name": "Shaman King - Asu e no Ishi (Japan)",
+    "logo": "QmYsEa8YpTrSCb41T4zgYQRP2nR5T3Vkv7zRxHe2AE369R"
   },
   "473195666A633573C777D3BE98D7E8F46569C84B": {
     "name": "Shaman King - Asu e no Ishi (Japan) (Rev 1)"
@@ -1070,7 +1075,8 @@
     "name": "Sorobang (Japan) (Rev 1)"
   },
   "2B2C2A0566646156BCDDE2A00B728C5B8218AA23": {
-    "name": "Star Hearts - Hoshi to Daichi no Shisha (Japan)"
+    "name": "Star Hearts - Hoshi to Daichi no Shisha (Japan)",
+    "logo": "QmeXVnp49ttYMJLrQQgMqsQh8suiBp3KmgioPvRAbpJS1v"
   },
   "44940AE0140DF1BD91D742A166C459DF1B6C2339": {
     "name": "Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale)"
@@ -1083,11 +1089,13 @@
   },
   "BF212CECBBC51EE32EE2655A072F55E7BF70B9EC": {
     "name": "Super Robot Taisen Compact for WonderSwan Color (Japan)",
-    "vid": "QmPTB8UQPH2C5cagmgd5n8iM52diKQ7xhnbnWUXfLHTo2b"
+    "vid": "QmPTB8UQPH2C5cagmgd5n8iM52diKQ7xhnbnWUXfLHTo2b",
+    "logo": "QmP2Es75euyPw9vaXK8ewoLds8UEC2UgVP48D3Qfc2hbNo"
   },
   "9532113E14B03C95F034C015168E21273D42EFF1": {
     "name": "Terrors 2 (Japan)",
-    "vid": "Qmdpm3vhXxJ5eFLHKGF72popmSW4zFFq4s4JC4szj1f3WU"
+    "vid": "Qmdpm3vhXxJ5eFLHKGF72popmSW4zFFq4s4JC4szj1f3WU",
+    "logo": "QmcfBuzQHru8Lq8Gt3sm8kpzYXVsW6mw91vd12xxreVxJy"
   },
   "1A86403D7896D60FCB7A4C09367F5A976C7EA5A5": {
     "name": "Tetris (Japan)",
@@ -1111,10 +1119,12 @@
   },
   "EA878A485A20ABD5251065FD66E82D9D8B8A669D": {
     "name": "Wild Card (Japan)",
-    "vid": "QmRDGN1FLmawERSu7j4ofeeXx4vCdYfqoc4ZpyqJZgXWq3"
+    "vid": "QmRDGN1FLmawERSu7j4ofeeXx4vCdYfqoc4ZpyqJZgXWq3",
+    "logo": "QmSr6ygehjLLASW7UGNRZMA5usp4sLmJ815rDvqRhc8iHK"
   },
   "6A4F4A03C367CCF00AA7462191C929A2736EB44B": {
-    "name": "With You - Mitsumete Itai (Japan)"
+    "name": "With You - Mitsumete Itai (Japan)",
+    "logo": "QmTQTqUUox2q6zmH74hqMBSeD5C3MYK6sE6fgu3xiQ5FZH"
   },
   "C1AD383D337DBA8A63295CFB8C7CA8470C893C67": {
     "name": "Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)",
