@@ -380,7 +380,7 @@ io.on('connection', async function (socket) {
   async function downloadArt(dir) {
     var metaData = await fsw.readFile('./metadata/' + dir + '.json', 'utf8');
     var metaData = JSON.parse(metaData);
-    if (fs.existsSync('/data/metadata/' + dir + '.json')) {
+    if (fs.existsSync(dataRoot + 'metadata/' + dir + '.json')) {
       var userMetaData = await fsw.readFile(dataRoot + 'metadata/' + dir + '.json', 'utf8');
       var userMetaData = JSON.parse(userMetaData);
       Object.assign(metaData, userMetaData);
