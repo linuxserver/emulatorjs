@@ -62,6 +62,12 @@ var emus = [
   {'name': 'ws', 'video_position': 'left:11.5vw;top:31vh;width:35vw;height:43vh;'}
 ];
 
+app.use(function(req, res, next) {
+  res.header("Cross-Origin-Embedder-Policy", "require-corp");
+  res.header("Cross-Origin-Opener-Policy", "same-origin");
+  next();
+});
+
 //// Http server ////
 baserouter.use('/public', express.static(__dirname + '/public'));
 baserouter.use('/frontend', express.static(__dirname + '/frontend'));

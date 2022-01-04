@@ -30,6 +30,11 @@
 	<p>Only Safari for Apple devices and Chromium based browsers are supported. Other browsers might work, but have not been tested and likely never will be. Gamepads do not function on Firefox.
         <h2>If you enjoy this</h2>
 	<p>Consider <a href="https://retroarch.com/index.php?page=donate">supporting</a> libretro they do the heavy lifting. Also take a look at helping with art assets <a href="https://github.com/linuxserver/emulatorjs">Here</a>.</p>
+        <h2>Experimental Emulators</h2>
+        <p>More emulators are included than listed below please see <a href="https://github.com/linuxserver/libretrojs">HERE</a> for a complete list of libretro cores. To use an alternative/experimental core just add "libretro-" to the beginning of it's name for the emulator setting for your system config.</p>
+	<h3>Full speed Nintendo DS</h3>
+	<p>Threaded Nintendo DS emulation is available but requires you serve the content from an HTTPS endpoint which means you will need to put this application behind a reverse proxy, we highly reccomend <a href="https://github.com/linuxserver/docker-swag">SWAG</a> to achieve this. DS game compatibility and functionality is greatly expanded by using this threaded emulator particularly on an Xbox console the games run at full speed.</p>
+	<p>To enable this emulator just change <span style="background-color:silver;">"emulator": "libretro-melonds"</span> to <span style="background-color:silver;">"emulator": "libretro-melonds_threaded"</span> in the config file.</p>
         <h2>File Downloading</h2>
         <p>As the network of peers grows, art and default file downloading might not be a 100% perfect. You can always click download multiple times, items that have allready been downloaded will pull from your local IPFS node running in this container while missing items will be retried. Please try to download a couple times before reaching out for support. If you are able to we would appreciate if you can forward port 4001 from this container to the public internet, it decentralizes the distribution of files leading to a more robust CDN for all users.</p>
         <h2>Rom Identification basics</h2>
@@ -110,7 +115,7 @@
           <li>Neo Geo Pocket (color)- <a href="https://github.com/libretro/beetle-ngp-libretro">https://github.com/libretro/beetle-ngp-libretro</a></li>
           <li>Odyssey2- <a href="https://github.com/libretro/libretro-o2em">https://github.com/libretro/libretro-o2em</a></li>
           <li>PC Engine (TurboGrafx-16)- <a href="https://github.com/libretro/beetle-pce-fast-libretro">https://github.com/libretro/beetle-pce-fast-libretro</a></li>
-          <li>Playstation- <a href="https://github.com/thelamer/beetle-psx-libretro">https://github.com/thelamer/beetle-psx-libretro</a></li>
+          <li>Playstation- <a href="https://github.com/thelamer/retrostash/tree/master/beetle-psx-libretro">https://github.com/thelamer/retrostash/tree/master/beetle-psx-libretro</a></li>
           <li>Sega 32x- <a href="https://www.emulatorjs.com/sega32x.html">https://www.emulatorjs.com/sega32x.html</a></li>
           <li>Sega CD- <a href="https://github.com/libretro/Genesis-Plus-GX">https://github.com/libretro/Genesis-Plus-GX</a></li>
           <li>Sega Game Gear- <a href="https://github.com/libretro/Genesis-Plus-GX">https://github.com/libretro/Genesis-Plus-GX</a></li>
@@ -123,8 +128,6 @@
           <li>Virtual Boy- <a href="https://github.com/libretro/beetle-vb-libretro">https://github.com/libretro/beetle-vb-libretro</a></li>
 	  <li>Wonderswan (color)- <a href="https://github.com/libretro/beetle-wswan-libretro">https://github.com/libretro/beetle-wswan-libretro</a></li>
         </ul>
-	<h2>Experimental Emulators</h2>
-	<p>More emulators are included than listed above the libretro psx emulator is functional but has more serious memory requirements please see <a href="https://github.com/linuxserver/libretrojs">HERE</a> for a complete list of libretro cores. To use an alternative/experimental core just add "libretro-" to the beginning of it's name for the emulator setting for your system config.</p>
       </div>
     </div>
     <div id="landing" class="hidden">
