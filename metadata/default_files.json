@@ -1,7 +1,7 @@
 [
   {
     "file":"/data/main/videos/nds.mp4",
-    "cid":"QmfP1qiC1ej9dCeX1dBNuRyMXhQTDsHKwiYi2cBpJxmvf6"
+    "cid":"QmXX9BebDhPr2oMuv5L9SizTwsbhvR9J3sYPMSKaRAu11Y"
   },
   {
     "file":"/data/main/videos/psx.mp4",
@@ -217,7 +217,7 @@
   },
   {
     "file":"/data/main/backgrounds/nds.png",
-    "cid":"QmRi2JqtZojLMAfcjgZjDBuTJzMoosJoDz3fcmaG4StyJi"
+    "cid":"QmeEfewgssCsPhzzfc5ZG4hVx8xgsvEKof7yc8rgKE6e8u"
   },
   {
     "file":"/data/main/backgrounds/pce.png",
@@ -525,7 +525,7 @@
   },
   {
     "file":"/data/nds/backgrounds/default.png",
-    "cid":"QmRi2JqtZojLMAfcjgZjDBuTJzMoosJoDz3fcmaG4StyJi"
+    "cid":"QmeEfewgssCsPhzzfc5ZG4hVx8xgsvEKof7yc8rgKE6e8u"
   },
   {
     "file":"/data/nds/corners/default.png",
@@ -757,7 +757,7 @@
   },
   {
     "file":"/data/config/nds.json",
-    "cid":"QmYR6qJXgPtzy8322HMJP5uU4UvFnxxWdWBKhpQCcpJaJ1"
+    "cid":"Qmbhz89RLAYiux8YjqXwqXxHwxtTghFnd5RERUJohphYsY"
   },
   {
     "file":"/data/nds/bios/nds.zip",

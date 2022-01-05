@@ -43,7 +43,7 @@ var emus = [
   {'name': 'lynx', 'video_position': 'left:11vw;top:31vh;width:36vw;height:44vh;'},
   {'name': 'msx', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
   {'name': 'n64', 'video_position': 'left:11.5vw;top:30vh;width:36.3vw;height:45.5vh;'},
-  {'name': 'nds', 'video_position': 'left:11.5vw;top:30vh;width:35vw;height:46vh;'},
+  {'name': 'nds', 'video_position': 'left:23.8vw;top:25.7vh;width:20vw;height:56vh;'},
   {'name': 'nes', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
   {'name': 'ngp', 'video_position': 'left:15vw;top:34vh;width:25vw;height:40vh;'},
   {'name': 'odyssey2', 'video_position': 'left:11.5vw;top:31.5vh;width:36vw;height:43vh;'},
