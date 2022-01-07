@@ -224,6 +224,10 @@ async function downloadGame(dlGame) {
     };
   };
   divContent('loading','');
+  // If using a threaded emulator sleep for 2 seconds before calling main (race condition with thread workers)
+  if (EJS_core.includes('_threaded')) {
+    await new Promise(resolve => setTimeout(resolve, 2000));
+  }
   // Call main run of emu
   Module.callMain(Module.arguments);
   Module.resumeMainLoop();
