@@ -51,6 +51,40 @@ async function downloadFile(file) {
   $("body").remove(a);
 }
 
+// Download a full backup of all files
+async function downloadBackup() {
+  var zip = new JSZip();
+  let items = await fs.readdirSync('/');
+  async function addToZip(item) {
+    if (fs.lstatSync(item).isDirectory()) {
+      let items = await fs.readdirSync(item);
+      if (items.length > 0) {
+        for await (let subPath of items) {
+          await addToZip(item + '/' + subPath);
+        }
+      }
+    } else {
+      let data = fs.readFileSync(item);
+      let zipPath = item.replace(/^\//,'');
+      zip.file(zipPath, data);
+    }
+    return ''
+  }
+  for await (let item of items) {
+    await addToZip(item);
+  }
+  zip.generateAsync({type:"blob"}).then(function callback(blob) {
+    let url = window.URL || window.webkitURL;
+    link = url.createObjectURL(blob);
+    let a = $("<a />");
+    a.attr("download", 'emulatorjs.zip');
+    a.attr("href", link);
+    $("body").append(a);
+    a[0].click();
+    $("body").remove(a);    
+  });
+}
+
 // Create IndexDB filestore
 async function setupFileSystem() {
   var imfs = new BrowserFS.FileSystem.InMemory();
