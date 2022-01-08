@@ -224,7 +224,7 @@ async function downloadGame(dlGame) {
     };
   };
   divContent('loading','');
-  // If using a threaded emulator sleep for 5 seconds before calling main (race condition with thread workers)
+  // If using a threaded emulator sleep for 2 seconds before calling main (race condition with thread workers)
   if (EJS_core.includes('_threaded')) {
     divContent('loading','Waiting for Threads'); 
     await new Promise(resolve => setTimeout(resolve, 2000));
