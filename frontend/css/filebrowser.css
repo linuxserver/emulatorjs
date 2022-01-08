@@ -1,0 +1,40 @@
+.hidden {
+  display: none;
+}
+
+.right {
+  float: right;
+  margin-right: 5px;
+}
+
+.directory, .file {
+  cursor: pointer;
+}
+
+button {
+  border: 2px solid #000;
+  background: transparent;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.fileTable {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 10px;
+}
+
+td, th {
+  border: 2px solid #ddd;
+  padding: 8px;
+}
+
+tr:nth-child(even){
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+

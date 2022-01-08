@@ -9,7 +9,13 @@
   </head>
   <body>
   <span id="buttons">
-    <button onclick="downloadBackup()">DL Full Backup</button>
+    <input id="folderName" type="text" placeholder="Enter Directory Name"></input>
+    <button onclick="createFolder()">Create Folder</button>
+    <button onclick="$('#uploadInput').trigger( 'click' )">Upload File</button>
+    <input class="hidden" id="uploadInput" type='file' onchange="upload(this);" />
+    <button class="right" onclick="downloadBackup()">DL Full Backup</button>
+    <button class="right" onclick="$('#uploadBackup').trigger( 'click' )">Upload Full Backup</button>
+    <input class="hidden" id="uploadBackup" type='file' onchange="uploadBackup(this);" />
   </span>
   <div id="filebrowser"></div>
   </body>
