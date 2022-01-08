@@ -23,7 +23,7 @@ async function renderFiles(directory) {
   }
   let table = $('<table>').addClass('fileTable');
   let tableHeader = $('<tr>');
-  for await (name of ['Name', 'Type', 'Delete']) {
+  for await (name of ['Name', 'Type', 'Delete (NO WARNING)']) {
     tableHeader.append($('<th>').text(name));
   }
   let parentRow = $('<tr>');
@@ -32,21 +32,42 @@ async function renderFiles(directory) {
   }
   table.append(tableHeader,parentRow);
   $('#filebrowser').append(table);
+  items.sort();
   if (items.length > 0) {
+    let dirs = [];
+    let files = [];
     for await (let item of items) {
-      let tableRow = $('<tr>');
-      let itemClean = item.replace("'","|");
       if (fs.lstatSync(directory + '/' + item).isDirectory()) {
-        var link = $('<td>').addClass('directory').attr('onclick', 'renderFiles(\'' + directoryClean + '/' + itemClean + '\');').text(item);
-        var type = $('<td>').text('Dir');
+        dirs.push(item)
       } else {
-        var link = $('<td>').addClass('file').attr('onclick', 'downloadFile(\'' + directoryClean + '/' + itemClean + '\');').text(item);
-        var type = $('<td>').text('File');
+        files.push(item)
       }
-      for await (item of [link, type, $('<td>')]) {
-        tableRow.append(item);
+    }
+    if (dirs.length > 0) {
+      for await (let dir of dirs) {
+        let tableRow = $('<tr>');
+        let dirClean = dir.replace("'","|");
+        let link = $('<td>').addClass('directory').attr('onclick', 'renderFiles(\'' + directoryClean + '/' + dirClean + '\');').text(dir);
+        let type = $('<td>').text('Dir');
+        let del = $('<td>').append($('<button>').addClass('deleteButton').attr('onclick', 'deleter(\'' + directoryClean + '/' + dirClean + '\');').text('Delete'));
+        for await (item of [link, type, del]) {
+          tableRow.append(item);
+        }
+        table.append(tableRow);
       }
-      table.append(tableRow);
+    }
+    if (files.length > 0) {
+      for await (let file of files) {
+        let tableRow = $('<tr>');
+        let fileClean = file.replace("'","|");
+        let link = $('<td>').addClass('file').attr('onclick', 'downloadFile(\'' + directoryClean + '/' + fileClean + '\');').text(file);
+        let type = $('<td>').text('File');
+        let del = $('<td>').append($('<button>').addClass('deleteButton').attr('onclick', 'deleter(\'' + directoryClean + '/' + fileClean + '\');').text('Delete'));
+        for await (item of [link, type, del]) {
+          tableRow.append(item);
+        }
+        table.append(tableRow);
+      }
     }
   }
 }
@@ -108,6 +129,17 @@ async function createFolder() {
   renderFiles(directory);
 }
 
+// Delete file or folder
+async function deleter(item) {
+  let directory = $('#filebrowser').data('directory');
+  item = item.replace("|","'"); 
+  if (fs.lstatSync(item).isDirectory()) {
+    await rmDir(item);
+  } else {
+    fs.unlinkSync(item);
+  }
+  renderFiles(directory);
+}
 
 // Download a full backup of all files
 async function downloadBackup() {
@@ -143,9 +175,32 @@ async function downloadBackup() {
   });
 }
 
+// Full delete directory
+async function rmDir(dirPath, removeSelf) {
+  try { var files = fs.readdirSync(dirPath); }
+  catch(e) { return; }
+  if (files.length > 0) {
+    for await (let file of files) {
+      var filePath = dirPath + '/' + file;
+      if (fs.statSync(filePath).isFile()) {
+        fs.unlinkSync(filePath);
+      } else {
+        rmDir(filePath);
+      }
+    }
+  }
+  if (dirPath !== '/') {
+    fs.rmdirSync(dirPath)
+  }
+  return '';
+}
+
+
 // Upload a full backup
 async function uploadBackup(input) {
   if (input.files && input.files[0]) {
+    $('#filebrowser').empty();
+    $('#filebrowser').append($('<div>').attr('id','loading'));
     let reader = new FileReader();
     reader.onload = async function(e) {
       let data = e.target.result;
@@ -153,24 +208,6 @@ async function uploadBackup(input) {
       // Load zip from data
       zip.loadAsync(data).then(async function(contents) {
         // Purge current storage
-        async function rmDir(dirPath, removeSelf) {
-          try { var files = fs.readdirSync(dirPath); }
-          catch(e) { return; }
-          if (files.length > 0) {
-            for await (let file of files) {
-              var filePath = dirPath + '/' + file;
-              if (fs.statSync(filePath).isFile()) {
-                fs.unlinkSync(filePath);
-	      } else {
-                rmDir(filePath);
-              }
-            }
-          }
-          if (dirPath !== '/') {
-            fs.rmdirSync(dirPath)
-          }
-          return '';
-        }
         await rmDir('/');
         // Unzip the files to the FS by name
         for await (let fileName of Object.keys(contents.files)) {

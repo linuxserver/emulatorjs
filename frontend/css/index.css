@@ -94,6 +94,17 @@ canvas {
   font-size: 3vw;
 }
 
+.file-button {
+  position: absolute;
+  top: 1vh;
+  left: 1vw;
+  cursor: pointer;
+  border: none;
+  width: 1.7vw;
+  z-index: 999999;
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(82deg) brightness(105%) contrast(105%);
+}
+
 @keyframes growonce {
   0% {
     transform: scale(.5,.5) translate(15vw,0);

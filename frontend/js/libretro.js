@@ -53,7 +53,7 @@ console.log(readyAudioContext); // keep this it is needed for some reason
 if (isSafari) {
   divContent(EJS_player.replace('#',''), '<div id="loading"></div><canvas id="canvas" tabindex="1"></canvas>');
 } else {
-  divContent(EJS_player.replace('#',''), '<div id="loading"></div><canvas id="canvas" tabindex="1"></canvas><button alt="FullScreen" title="FullScreen" class="full-button" onclick="Module.requestFullscreen(false)">\u26F6</button>');
+  divContent(EJS_player.replace('#',''), '<div id="loading"></div><canvas id="canvas" tabindex="1"></canvas><button alt="FullScreen" title="FullScreen" class="full-button" onclick="Module.requestFullscreen(false)">\u2725</button>');
 }
 
 // Retroarch run logic
