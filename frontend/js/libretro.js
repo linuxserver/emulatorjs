@@ -19,9 +19,6 @@ if (EJS_gameUrl.endsWith('.multizip')) {
 } else if (rom.slice(0, -1).endsWith('disk')) {
   var rom = rom.split('.').shift() + '.chd'
 }
-if (rom.split('.').pop() == 'bin') {
-  var rom = rom.split('.').shift() + '.cue';
-};
 
 // Audio context to pass to wasm
 var readyAudioContext = new window.AudioContext();
