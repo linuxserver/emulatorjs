@@ -5,27 +5,6 @@ BrowserFS.install(window);
 var fs = require('fs');
 var mfs = new BrowserFS.FileSystem.MountableFileSystem();
 
-// polyfill for Array.at() from https://github.com/tc39/proposal-relative-indexing-method#polyfill
-function at(n) {
-	// ToInteger() abstract op
-	n = Math.trunc(n) || 0;
-	// Allow negative indexing from the end
-	if (n < 0) n += this.length;
-	// OOB access is guaranteed to return undefined
-	if (n < 0 || n >= this.length) return undefined;
-	// Otherwise, this is just normal property access
-	return this[n];
-}
-
-const TypedArray = Reflect.getPrototypeOf(Int8Array);
-for (const C of [Array, String, TypedArray]) {
-    Object.defineProperty(C.prototype, "at",
-                          { value: at,
-                            writable: true,
-                            enumerable: false,
-                            configurable: true });
-}
-
 // Render file list
 async function renderFiles(directory) {
   directory = directory.replace("|","'");
@@ -36,7 +15,7 @@ async function renderFiles(directory) {
   $('#filebrowser').empty();
   $('#filebrowser').data('directory', directory);
   let items = await fs.readdirSync(directory);
-  let baseName = directory.split('/').at(-1); 
+  let baseName = directory.split('/').slice(-1); 
   let parentFolder = directory.replace(baseName,'');
   let parentLink = $('<td>').addClass('directory').attr('onclick', 'renderFiles(\'' + parentFolder + '\');').text('..');
   if (directoryClean == '/') {
@@ -96,7 +75,7 @@ async function renderFiles(directory) {
 // Download file when clicked
 async function downloadFile(file) {
   file = file.replace("|","'");
-  let fileName = file.split('/').at(-1);
+  let fileName = file.split('/').slice(-1);
   let data = fs.readFileSync(file);
   let blob = new Blob([data], { type: "application/octetstream" });
   let url = window.URL || window.webkitURL;
