@@ -20,8 +20,10 @@ if (EJS_gameUrl.endsWith('.multizip')) {
   var rom = rom.split('.').shift() + '.chd'
 }
 if (rom.split('.').pop() == 'bin') {
-  var rom = rom.split('.').shift() + '.cue';
-};
+  var romName = rom.split('.').shift() + '.cue';
+} else {
+  var romName = rom;
+}
 
 // Audio context to pass to wasm
 var readyAudioContext = new window.AudioContext();
@@ -60,7 +62,7 @@ if (isSafari) {
 Module = {
   canvas: document.getElementById('canvas'),
   noInitialRun: true,
-  arguments: ['-v', retroArchDir + EJS_core + '/' + rom],
+  arguments: ['-v', retroArchDir + EJS_core + '/' + romName],
   print: function(text) {
     console.log(text);
   },
