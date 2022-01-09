@@ -76,7 +76,6 @@ async function renderFiles(directory) {
 async function downloadFile(file) {
   file = file.replace("|","'");
   let fileName = file.split('/').slice(-1)[0];
-  console.log(fileName);
   let data = fs.readFileSync(file);
   let blob = new Blob([data], { type: "application/octetstream" });
   let url = window.URL || window.webkitURL;
