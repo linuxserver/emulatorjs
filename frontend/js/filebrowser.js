@@ -15,7 +15,7 @@ async function renderFiles(directory) {
   $('#filebrowser').empty();
   $('#filebrowser').data('directory', directory);
   let items = await fs.readdirSync(directory);
-  let baseName = directory.split('/').slice(-1); 
+  let baseName = directory.split('/').slice(-1)[0]; 
   let parentFolder = directory.replace(baseName,'');
   let parentLink = $('<td>').addClass('directory').attr('onclick', 'renderFiles(\'' + parentFolder + '\');').text('..');
   if (directoryClean == '/') {
@@ -75,7 +75,8 @@ async function renderFiles(directory) {
 // Download file when clicked
 async function downloadFile(file) {
   file = file.replace("|","'");
-  let fileName = file.split('/').slice(-1);
+  let fileName = file.split('/').slice(-1)[0];
+  console.log(fileName);
   let data = fs.readFileSync(file);
   let blob = new Blob([data], { type: "application/octetstream" });
   let url = window.URL || window.webkitURL;
