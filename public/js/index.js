@@ -23,6 +23,8 @@ socket.on('modaldata', modalData);
 socket.on('emptymodal', emptyModal);
 // Render file directories
 socket.on('renderfiledirs', renderFileDirs);
+// Render file directories
+socket.on('renderprofiles', renderProfiles);
 
 //// Functions ////
 // Grab a json file from the server
@@ -31,18 +33,26 @@ function getConfig(file) {
   $('#main').append('<div class="loader"></div>');
   $('#main').data('name', file);
   socket.emit('getconfig', file);
-};
+}
+
 // Get list of rom shas to process
 function getRomShas(dir) {
   $('#main').empty();
   $('#main').append('<div class="loader"></div>');
   $('#main').data('name', dir);
   socket.emit('getroms', dir);
-};
+}
+
 // Render configs page
 function renderConfigss() {
   socket.emit('renderconfigs');
-};
+}
+
+// Render profiles page
+function renderProfile() {
+  socket.emit('renderprofiles');
+}
+
 // Render roms landing page
 async function renderRomsLanding(counts) {
   $('#main').empty();
@@ -73,7 +83,7 @@ async function renderRomsLanding(counts) {
     $(cardContainer).append(scanWarning);
   };
   $('#main').append(cardContainer, $('#rominfo').html());
-};
+}
 
 // Render roms page
 function renderRoms() {
@@ -84,7 +94,7 @@ function renderRoms() {
 function scanRoms(folder) {
   socket.emit('scanroms', folder);
   $('#modal').modal();
-};
+}
 
 // Prompt user to identify rom
 async function identifyRom(sha, name) {
@@ -117,7 +127,7 @@ async function identifyRom(sha, name) {
   $('#modal').append(sel);
   var setMetaButton = $('<button>').addClass('button hover').attr('onclick', 'setMeta()').text('Link Item');
   $('#modal').append(setMetaButton);
-};
+}
 
 // Link metadata for selected rom
 function setMeta() {
@@ -128,12 +138,12 @@ function setMeta() {
   $('#main').append('<div class="loader"></div>');
   $.modal.close();
   socket.emit('usermeta', [romSha, foundGameSha, dir]);
-};
+}
 
 // Send output to modal
 function modalData(data) {
   $('#modal').prepend('<p>' + data + '</p>'); 
-};
+}
 
 // Empty modal
 function emptyModal() {
@@ -151,7 +161,7 @@ function renderConfigs(files) {
     $('#side').append(sideLink);
   });
   $('#main').append($('<h1>').addClass('readme').text('Open a config to edit (main for landing page)'));
-};
+}
 
 // Render Roms file list
 function renderRomsDir(dirs) {
@@ -161,7 +171,7 @@ function renderRomsDir(dirs) {
     var sideLink = $('<div>').addClass('sideitem hover').attr('onclick', "getRomShas('" + dir + "')").text(dir);
     $('#side').append(sideLink);
   });
-};
+}
 
 // Save modified config
 async function saveConfig() {
@@ -171,21 +181,21 @@ async function saveConfig() {
   var config = JSON.parse(json);
   socket.emit('saveconfig', {'config': config, 'name': name});
   socket.emit('renderconfigs');
-};
+}
 
 // Save romlist to config file
 function addToConfig(name) {
   $('#main').empty();
   $('#main').append('<div class="loader"></div>'); 
   socket.emit('addtoconfig', name);
-};
+}
 
 // Remove roms with no art from config
 function purgeNoArt(name) {
   $('#main').empty();
   $('#main').append('<div class="loader"></div>');
   socket.emit('purgenoart', name);
-};
+}
 
 // Download art for all identified roms
 function downloadArt(name) {
@@ -193,7 +203,7 @@ function downloadArt(name) {
   $('#main').append('<div class="loader"></div>');
   $('#modal').modal();
   socket.emit('downloadart', name);
-};
+}
 
 // Tell server to download the default file set
 function dlDefaultFiles() {
@@ -201,7 +211,7 @@ function dlDefaultFiles() {
   $('#main').append('<div class="loader"></div>');
   $('#modal').modal();
   socket.emit('dldefaultfiles');
-};
+}
 
 // Render in a config file
 async function renderConfig(config) {
@@ -221,7 +231,7 @@ async function renderConfig(config) {
   });
   var json = JSON.stringify(config, null, 2);
   editor.setValue(json, -1);
-};
+}
 
 // Render in roms data
 async function renderRom(data) {
@@ -274,7 +284,7 @@ async function renderRom(data) {
     item.append(deleteButton);
     unidentified.append(item)
   };
-};
+}
 
 // Render confirm delete rom
 function deleteRom(name) {
@@ -286,13 +296,13 @@ function deleteRom(name) {
   var message = $('<p>').text('Really delete ' + realName + ' ?');
   var deletebutton = $('<button>').attr('onclick', 'deleteRomReal()').addClass('button hover').text('delete');
   $('#modal').append(message, deletebutton);
-};
+}
 
 // Delete rom
 function deleteRomReal(data) {
   socket.emit('deleterom', $('#modal').data('delete'));
   $.modal.close();
-};
+}
 
 // Render in landing
 function renderLanding() {
@@ -300,7 +310,7 @@ function renderLanding() {
   $('#main').empty();
   $('#side').empty();
   $('#main').append($('#landing').html());
-};
+}
 
 // Render file management
 function renderFiles() {
@@ -308,7 +318,7 @@ function renderFiles() {
   $('#side').empty();
   $('#main').append('<div class="loader"></div>');
   socket.emit('renderfiles');
-};
+}
 
 // Render file directories
 function renderFileDirs(dirs) {
@@ -320,7 +330,7 @@ function renderFileDirs(dirs) {
     var sideLink = $('<div>').addClass('sideitem hover').attr('onclick', "renderFileBrowser('" + dir + "')").text(dir);
     $('#side').append(sideLink);
   });
-};
+}
 
 // Tell server to configure a file browser
 function renderFileBrowser(dir) {
@@ -331,4 +341,59 @@ function renderFileBrowser(dir) {
   };
   var browser = $('<iframe>').attr('src', url + 'files/fs/' + dir).addClass('browser');
   $('#main').append(browser);
-};
+}
+
+// Render profiles
+function renderProfiles(profiles) {
+  $('#side').empty();
+  $('#main').empty();
+  $('#nav-buttons').empty();
+  $('#main').append($('<h1>').addClass('readme').text('Choose a Profile or Create one:'));
+  let userForm = $('<span>').addClass('readme');
+  userForm.append($('<input>').attr({id:'user',type:'text',placeholder:'username'}));
+  userForm.append($('<input>').attr({id:'pass',type:'password',placeholder:'password'}));
+  userForm.append($('<button>').addClass('button hover').attr('onclick','createProfile()').text('Create Profile'));
+  $('#main').append(userForm);
+  profiles.push('default');
+  profiles.sort();
+  $.each(profiles, function(index, profile) {
+    var sideLink = $('<div>').addClass('sideitem hover').attr('onclick', "renderUserProfile('" + profile + "')").text(profile);
+    $('#side').append(sideLink);
+  });
+}
+
+// Render a profile
+function renderUserProfile(dir) {
+  $('#main').empty();
+  $('#nav-buttons').empty();
+  var url = window.location.href;
+  if (! url.endsWith('/')) {
+    var url = url + '/';
+  };
+  var browser = $('<iframe>').attr('src', url + 'profile/fs/' + dir).addClass('browser');
+  $('#main').append(browser);
+  // Delete Button
+  if (dir !== 'default') {
+    var deleteButton = $('<button>').addClass('button hover').attr('onclick', 'deleteProfile(\'' + dir + '\')').text('Delete ' + dir);
+    $('#nav-buttons').append(deleteButton);
+  }
+}
+
+// Create a blank profile
+function createProfile() {
+  let user = $('#user').val();
+  let pass = $('#pass').val();
+  $('#main').empty();
+  $('#side').empty();
+  $('#main').append('<div class="loader"></div>');
+  socket.emit('createprofile', [user,pass]);
+}
+
+// Delete a profile
+function deleteProfile(user) {
+  $('#main').empty();
+  $('#side').empty();
+  $('#main').append('<div class="loader"></div>');
+  socket.emit('deleteprofile', user);
+}
+

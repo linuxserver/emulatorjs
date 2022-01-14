@@ -8,6 +8,7 @@
     "cloudcmd": "^15.9.8",
     "express": "^4.17.1",
     "ipfs-http-client": "^53.0.1",
+    "jszip": "^3.7.1",
     "socket.io": "^4.3.1"
   }
 }

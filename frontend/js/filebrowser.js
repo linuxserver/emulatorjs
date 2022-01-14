@@ -1,12 +1,15 @@
 //Default vars
+var endPoint = 'profile'
 var storeName = 'RetroArch';
 var afs;
 BrowserFS.install(window);
 var fs = require('fs');
 var mfs = new BrowserFS.FileSystem.MountableFileSystem();
+var postSettings = {method:'POST',headers:{Accept:'application/json','Content-Type':'application/json'}};
 
 // Render file list
 async function renderFiles(directory) {
+  directory = directory.replace("//","/");
   directory = directory.replace("|","'");
   let directoryClean = directory.replace("'","|");
   if ((directory !== '/') && (directory.endsWith('/'))) {
@@ -14,6 +17,7 @@ async function renderFiles(directory) {
   }
   $('#filebrowser').empty();
   $('#filebrowser').data('directory', directory);
+  $('#filebrowser').append($('<div>').text(directory));
   let items = await fs.readdirSync(directory);
   let baseName = directory.split('/').slice(-1)[0]; 
   let parentFolder = directory.replace(baseName,'');
@@ -143,7 +147,7 @@ async function deleter(item) {
 
 // Download a full backup of all files
 async function downloadBackup() {
-  var zip = new JSZip();
+  let zip = new JSZip();
   let items = await fs.readdirSync('/');
   async function addToZip(item) {
     if (fs.lstatSync(item).isDirectory()) {
@@ -176,21 +180,28 @@ async function downloadBackup() {
 }
 
 // Full delete directory
-async function rmDir(dirPath, removeSelf) {
-  try { var files = fs.readdirSync(dirPath); }
-  catch(e) { return; }
+async function rmDir(dirPath) {
+  try {
+  let files = fs.readdirSync(dirPath);
   if (files.length > 0) {
     for await (let file of files) {
       var filePath = dirPath + '/' + file;
       if (fs.statSync(filePath).isFile()) {
         fs.unlinkSync(filePath);
       } else {
-        rmDir(filePath);
+        await rmDir(filePath);
       }
     }
   }
   if (dirPath !== '/') {
-    fs.rmdirSync(dirPath)
+    fs.rmdirSync(dirPath);
+  }
+  if (fs.readdirSync(dirPath).length !== 0) {
+    rmDir(dirPath);
+    return '';
+  }
+  } catch (e) {
+    return '';
   }
   return '';
 }
@@ -204,7 +215,7 @@ async function uploadBackup(input) {
     let reader = new FileReader();
     reader.onload = async function(e) {
       let data = e.target.result;
-      var zip = new JSZip();
+      let zip = new JSZip();
       // Load zip from data
       zip.loadAsync(data).then(async function(contents) {
         // Purge current storage
@@ -225,12 +236,231 @@ async function uploadBackup(input) {
           }
 	}
         await new Promise(resolve => setTimeout(resolve, 2000));
-        renderFiles('/');
+        window.location.reload();
       });
     }
     reader.readAsArrayBuffer(input.files[0]);
   }
 }
+
+// Upload backup to ipfs
+async function uploadToIpfs() {
+  $('#filebrowser').empty();
+  $('#filebrowser').append($('<div>').attr('id','loading'));
+  let ipfs = await window.IpfsHttpClient.create({ host: 'ipfs.infura.io', port: '5001', protocol: 'https' });
+  let zip = new JSZip();
+  let items = await fs.readdirSync('/');
+  async function addToZip(item) {
+    if (fs.lstatSync(item).isDirectory()) {
+      let items = await fs.readdirSync(item);
+      if (items.length > 0) {
+        for await (let subPath of items) {
+          await addToZip(item + '/' + subPath);
+        }
+      }
+    } else {
+      let data = fs.readFileSync(item);
+      let zipPath = item.replace(/^\//,'');
+      zip.file(zipPath, data);
+    }
+    return ''
+  }
+  for await (let item of items) {
+    await addToZip(item);
+  }
+  zip.generateAsync({type:"ArrayBuffer"}).then(async function callback(buffer) {
+    let ipfsreturn = await ipfs.add(buffer);
+    let cid = ipfsreturn.path;
+    let link = 'https://ipfs.infura.io/ipfs/' + cid + '?filename=' + storeName + '.zip';
+    $('#popupContents').empty();
+    $('#popupContents').append($('<a>').attr({href: link,target: '_blank'}).text(cid));
+    $('#popup').modal();
+    renderFiles('/');
+  });
+}
+
+// Render profile
+async function loadProfile() {
+  let res = await fetch(endPoint);
+  let ping = await res.text();
+  if (ping == 'pong') {
+    $('#profile').removeClass('hidden');
+  }
+  if ((localStorage.getItem('user')) && (localStorage.getItem('pass'))) {
+    loggedIn();
+  }
+}
+
+// Login
+async function login() {
+  try {
+    let user = $('#user').val();
+    let pass = $('#pass').val();
+    $('#user').val('');
+    $('#pass').val('');
+    let loginSettings = postSettings;
+    loginSettings.body = JSON.stringify({user:user,pass:pass,type:'login'});
+    let res = await fetch(endPoint,loginSettings);
+    let json = await res.json();
+    if (json.status == 'success') {
+      localStorage.setItem('user',json.user);
+      localStorage.setItem('pass',pass);
+      loggedIn();
+    } else {
+      alert('Bad login'); 
+    }
+  } catch (e) {
+    console.log(e)
+  }
+}
+
+// Logout
+function logout() {
+  localStorage.removeItem('user');
+  localStorage.removeItem('pass');
+  loggedOut();
+}
+
+// Render as logged in
+function loggedIn() {
+  let user = localStorage.getItem('user');
+  $('#loginEntry').addClass('hidden');
+  $('#defaultPull').addClass('hidden');
+  $('#logout').removeClass('hidden');
+  $('#syncButtons').removeClass('hidden');
+  $('#username').text(user);
+}
+
+// Render as logged out
+function loggedOut() {
+  $('#username').empty();
+  $('#syncButtons').addClass('hidden');
+  $('#logout').addClass('hidden');
+  $('#defaultPull').removeClass('hidden');
+  $('#loginEntry').removeClass('hidden');
+}
+
+// Pull profile from server
+async function pullProfile() {
+  $('#filebrowser').empty();
+  $('#filebrowser').append($('<div>').attr('id','loading'));
+  let user = localStorage.getItem('user');
+  let pass = localStorage.getItem('pass');
+  let loginSettings = postSettings;
+  loginSettings.body = JSON.stringify({user:user,pass:pass,type:'pull'});
+  let res = await fetch(endPoint,loginSettings);
+  let json = await res.json();
+  if (json.status == 'success') {
+    let zip = new JSZip();
+    // Purge current storage
+    await rmDir('/');
+    let baseData = json.data;
+    // Load zip from data
+    zip.loadAsync(baseData, {base64: true}).then(async function(contents) {
+      // Unzip the files to the FS by name
+      for await (let fileName of Object.keys(contents.files)) {
+        if (fileName.endsWith('/')) {
+          if (! fs.existsSync('/' + fileName)) {
+            fs.mkdirSync('/' + fileName);
+          }
+        }
+      }
+      for await (let fileName of Object.keys(contents.files)) {
+        if (! fileName.endsWith('/')) {
+          zip.file(fileName).async('arraybuffer').then(function(content) {
+            fs.writeFileSync('/' + fileName, Buffer.from(content));
+          });
+        }
+      }
+      await new Promise(resolve => setTimeout(resolve, 2000));
+      window.location.reload();
+    });
+  } else {
+    alert('Error pulling profile');
+  } 
+}
+
+async function defaultProfile() {
+  $('#filebrowser').empty();
+  $('#filebrowser').append($('<div>').attr('id','loading'));
+  let loginSettings = postSettings;
+  loginSettings.body = JSON.stringify({type:'default'});
+  let res = await fetch(endPoint,loginSettings);
+  let json = await res.json();
+  if (json.status == 'success') {
+    let zip = new JSZip();
+    // Purge current storage
+    await rmDir('/');
+    let baseData = json.data;
+    // Load zip from data
+    zip.loadAsync(baseData, {base64: true}).then(async function(contents) {
+      // Unzip the files to the FS by name
+      for await (let fileName of Object.keys(contents.files)) {
+        if (fileName.endsWith('/')) {
+          if (! fs.existsSync('/' + fileName)) {
+            fs.mkdirSync('/' + fileName);
+          }
+        }
+      }
+      for await (let fileName of Object.keys(contents.files)) {
+        if (! fileName.endsWith('/')) {
+          zip.file(fileName).async('arraybuffer').then(function(content) {
+            fs.writeFileSync('/' + fileName, Buffer.from(content));
+          });
+        }
+      }
+      await new Promise(resolve => setTimeout(resolve, 2000));
+      window.location.reload();
+    });
+  } else {
+    alert('Error pulling profile');
+  }
+}
+
+// Push profile to server
+async function pushProfile() {
+  $('#filebrowser').empty();
+  $('#filebrowser').append($('<div>').attr('id','loading'));
+  let zip = new JSZip();
+  let items = await fs.readdirSync('/');
+  async function addToZip(item) {
+    if (fs.lstatSync(item).isDirectory()) {
+      let items = await fs.readdirSync(item);
+      if (items.length > 0) {
+        for await (let subPath of items) {
+          await addToZip(item + '/' + subPath);
+        }
+      }
+    } else {
+      let data = fs.readFileSync(item);
+      let zipPath = item.replace(/^\//,'');
+      zip.file(zipPath, data);
+    }
+    return ''
+  }
+  for await (let item of items) {
+    await addToZip(item);
+  }
+  zip.generateAsync({type:"base64"}).then(async function callback(base64) {
+    try {
+      let user = localStorage.getItem('user');
+      let pass = localStorage.getItem('pass');
+      let loginSettings = postSettings;
+      loginSettings.body = JSON.stringify({user:user,pass:pass,type:'push',data:base64});
+      let res = await fetch(endPoint,loginSettings);
+      let json = await res.json();
+      if (json.status == 'success') {
+        window.location.reload();
+      } else {
+        alert('Error uploading profile');
+      }
+    } catch (e) {
+      alert('Error uploading profile');
+      console.log(e);
+    }
+  });
+}
+
 
 // Create Async filestore
 async function setupFileSystem() {
@@ -255,4 +485,5 @@ async function setupMounts() {
 // On page load
 window.onload = function() {
   setupFileSystem();
+  loadProfile();
 }

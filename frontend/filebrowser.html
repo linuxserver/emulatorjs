@@ -2,17 +2,41 @@
 <html>
   <head>
     <link rel="stylesheet" href="css/filebrowser.css">
+    <link rel="stylesheet" href="css/vendor/jquery.modal.min.css">
     <script type="text/javascript" src="js/vendor/jquery.min.js"></script>
+    <script type="text/javascript" src="js/vendor/jquery.modal.min.js"></script>
     <script type="text/javascript" src="js/vendor/browserfs.min.js"></script>
     <script type="text/javascript" src="js/vendor/jszip.min.js"></script>
+    <script type="text/javascript" src="js/vendor/ipfs-http-client.min.js"></script>
     <script type="text/javascript" src="js/filebrowser.js"></script>
   </head>
   <body>
+  <div id="popup" class="modal">
+    <div id="popupContents"></div>
+  </div>
+  <div class="hidden" id="profile">
+    <span id=profileButtons">
+      <span id="username"></span>
+      <span id="loginEntry">
+        <input id="user" type="text" placeholder="user"></input>
+        <input id="pass" type="password" placeholder="pass"></input>
+        <button id="login" onclick="login()">Login</button>
+      </span>
+      <button id="logout" class="hidden" onclick="logout()">Logout</button>
+      <span id="syncButtons" class="hidden">
+        <button class="right" onclick="pushProfile()">&uarr; Push to Server</button>
+        <button class="right" onclick="pullProfile()">&darr; Pull from Server</button>
+      </span>
+      <button id="defaultPull" class="right" onclick="defaultProfile()">Pull Default Config</button>
+    </span>
+    <hr>
+  </div>
   <span id="buttons">
     <input id="folderName" type="text" placeholder="Enter Directory Name"></input>
     <button onclick="createFolder()">Create Folder</button>
     <button onclick="$('#uploadInput').trigger( 'click' )">Upload File</button>
     <input class="hidden" id="uploadInput" type='file' onchange="upload(this);" />
+    <button class="right" onclick="uploadToIpfs()">Backup to IPFS</button>
     <button class="right" onclick="downloadBackup()">DL Full Backup</button>
     <button class="right" onclick="$('#uploadBackup').trigger( 'click' )">Upload Full Backup</button>
     <input class="hidden" id="uploadBackup" type='file' onchange="uploadBackup(this);" />

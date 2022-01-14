@@ -1,4 +1,5 @@
 // NPM modules
+var home = require('os').homedir();
 var socketIO = require('socket.io');
 var fs = require('fs');
 var fsw = require('fs').promises;
@@ -11,9 +12,13 @@ var http = require('http').Server(app);
 var baserouter = express.Router();
 var { spawn } = require('child_process');
 var { create } = require('ipfs-http-client');
+var crypto = require('crypto');
 var ipfs = create();
 
 // Default vars
+if (home == '/data') {
+  home = '/config'
+}
 var baseUrl = process.env.SUBFOLDER || '/';
 if (fs.existsSync('/data')) { 
   var dataRoot = '/data/';
@@ -61,6 +66,9 @@ var emus = [
   {'name': 'vectrex', 'video_position': 'left:18vw;top:30vh;width:22vw;height:46vh;'},
   {'name': 'ws', 'video_position': 'left:11.5vw;top:31vh;width:35vw;height:43vh;'}
 ];
+var retroArchCfg = `
+input_menu_toggle_gamepad_combo = 3
+system_directory = /home/web_user/retroarch/system/`
 
 app.use(function(req, res, next) {
   res.header("Cross-Origin-Embedder-Policy", "require-corp");
@@ -473,6 +481,63 @@ io.on('connection', async function (socket) {
     };
     getRoms(dir);
   };
+  
+  // Send profile data to client
+  async function renderProfiles() {
+    let profilesData = await fsw.readFile(home + '/profile/profile.json', 'utf8');
+    let profilesJson = JSON.parse(profilesData);
+    let profiles = [];
+    if (Object.keys(profilesJson).length > 0) { 
+      for await (let profile of Object.keys(profilesJson)) {
+        profiles.push(profilesJson[profile].username)
+      }
+    }
+    socket.emit('renderprofiles', profiles);
+  }
+
+  // Create a blank profile
+  async function createProfile(data) {
+    let user = data[0];
+    let pass = data[1];
+    let auth = user + pass;
+    // Create hash and store user in profile.json
+    let hash = crypto.createHash('sha256').update(auth).digest('hex');
+    let profilesData = await fsw.readFile(home + '/profile/profile.json', 'utf8');
+    let profilesJson = JSON.parse(profilesData);
+    profilesJson[hash] = {username: user};
+    profileFile = JSON.stringify(profilesJson, null, 2);
+    await fsw.writeFile(home + '/profile/profile.json', profileFile);
+    // Make directory for user with default config
+    await fsw.mkdir(home + '/profile/' + user);
+    await fsw.writeFile(home + '/profile/' + user + '/retroarch.cfg', retroArchCfg);
+    // Tell client to render profiles
+    let profiles = [];
+    for await (let profile of Object.keys(profilesJson)) {
+      profiles.push(profilesJson[profile].username)
+    }
+    socket.emit('renderprofiles', profiles);
+  }
+
+  // Delete a profile
+  async function deleteProfile(user) {
+    let profilesData = await fsw.readFile(home + '/profile/profile.json', 'utf8');
+    let profilesJson = JSON.parse(profilesData);
+    for await (let profile of Object.keys(profilesJson)) {
+      if (profilesJson[profile].username == user) {
+        delete profilesJson[profile];
+      }
+    }
+    profileFile = JSON.stringify(profilesJson, null, 2);
+    await fsw.writeFile(home + '/profile/profile.json', profileFile);
+    if (user !== 'default') {
+      await fsw.rm(home + '/profile/' + user, { recursive: true, force: true });
+    }
+    let profiles = [];
+    for await (let profile of Object.keys(profilesJson)) {
+      profiles.push(profilesJson[profile].username)
+    }
+    socket.emit('renderprofiles', profiles);
+  }
 
   // Incoming socket requests
   socket.on('renderconfigs', renderConfigs);
@@ -489,6 +554,9 @@ io.on('connection', async function (socket) {
   socket.on('usermeta', userMeta);
   socket.on('renderfiles', renderFiles);
   socket.on('deleterom', deleteRom);
+  socket.on('renderprofiles', renderProfiles);
+  socket.on('createprofile', createProfile);
+  socket.on('deleteprofile', deleteProfile);
   // Render landing page
   if (fs.existsSync(dataRoot + 'config/main.json')) {
     renderRoms();
@@ -497,7 +565,7 @@ io.on('connection', async function (socket) {
   };
 });
 
-// Cloudcmd File browser
+// Cloudcmd File browser data
 baserouter.use('/files', cloudcmd({
   config: {
     root: dataRoot,
@@ -515,3 +583,20 @@ baserouter.use('/files', cloudcmd({
   }
 }));
 
+// Cloudcmd File browser profile
+baserouter.use('/profile', cloudcmd({
+  config: {
+    root: home + '/profile',
+    prefix: baseUrl + 'profile',
+    terminal: false,
+    console: false,
+    configDialog: false,
+    contact: false,
+    auth: false,
+    name: 'Files',
+    log: false,
+    keysPanel: false,
+    oneFilePanel: true,
+    zip: false
+  }
+}));
