@@ -461,6 +461,33 @@ async function pushProfile() {
   });
 }
 
+// Load and show touch input options on touch devices
+function loadTouchInput() {
+  if (window.orientation !== undefined) {
+    $('#touchpad').removeClass('hidden');
+    if (localStorage.getItem('touchpad') !== null) {
+      if (localStorage.getItem('touchpad') == 'false') {
+        $('#touch').val('false');
+      } else if (localStorage.getItem('touchpad') == 'default') {
+        $('#touch').val('default');
+      } else if (localStorage.getItem('touchpad') == 'simple') {
+        $('#touch').val('simple');
+      } else if (localStorage.getItem('touchpad') == 'modern') {
+        $('#touch').val('modern');
+      }
+    }
+  }
+}
+// Save touch input option
+function touchSave() {
+  let option = $('#touch').val();
+  if (option == 'auto') {
+    localStorage.removeItem('touchpad'); 
+  } else {
+    localStorage.setItem('touchpad',option);
+  }
+  window.location.reload(); 
+}
 
 // Create Async filestore
 async function setupFileSystem() {
@@ -486,4 +513,5 @@ async function setupMounts() {
 window.onload = function() {
   setupFileSystem();
   loadProfile();
+  loadTouchInput();
 }

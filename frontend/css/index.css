@@ -83,21 +83,21 @@ canvas {
   padding: 1vw;
 }
 
-.full-button {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  color: white;
-  background: transparent;
-  cursor: pointer;
-  border: none;
-  font-size: 3vw;
-}
-
 .file-button {
   position: absolute;
   top: 1vh;
   left: 1vw;
+  cursor: pointer;
+  border: none;
+  width: 1.7vw;
+  z-index: 999999;
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(82deg) brightness(105%) contrast(105%);
+}
+
+.full-main {
+  position: absolute;
+  top: 1vh;
+  left: 4vw;
   cursor: pointer;
   border: none;
   width: 1.7vw;

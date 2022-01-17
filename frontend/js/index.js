@@ -13,6 +13,8 @@ var defaultKeys = [
   'has_video',
   'multi_disc'
 ];
+localStorage.setItem('retroArch',true);
+var gamePadType;
 
 //// Helper functions ////
 // Debounce calls to functions that run heavy
@@ -138,9 +140,7 @@ function launch(active_item) {
     if (emulator.startsWith('libretro-')) {
       var emulator = emulator.replace('libretro-','');
       var script = 'js/libretro.js'
-      EJS_onGameStart = function() {
-        Module.requestFullscreen(false);
-      }
+      var EJSemu = false;
     } else {
       var script = 'data/loader.js'
       var EJSemu = true;
@@ -165,6 +165,28 @@ function launch(active_item) {
     EJS_gameUrl = rom_path + name + rom_extension;
     EJS_core = emulator;
     EJS_pathtodata = 'data/';
+    // Load touch screen interface
+    if ((! EJSemu) && (window.orientation !== undefined) && localStorage.getItem('touchpad') !== 'false') {
+      // Determine type to render
+      if (localStorage.getItem('touchpad') !== null) {
+        if (localStorage.getItem('touchpad') == 'simple') {
+          gamePadType = 'simple';
+        } else if (localStorage.getItem('touchpad') == 'modern') {
+          gamePadType = 'modern';
+        }
+      } else {
+        if ((emulator == 'gearboy') || (emulator == 'fceumm') || (emulator == 'mednafen_vb') || (emulator == 'gambatte') || (emulator == 'stella2014') || (emulator == 'prosystem') || (emulator == 'mednafen_pce_fast')) {
+          gamePadType = 'simple';
+        } else if ((emulator == 'prboom') || (emulator == 'mednafen_psx') || (emulator == 'tyrquake') || (emulator == 'melonds') || (emulator == 'melonds_threaded')) {
+          gamePadType = 'modern';
+	}
+      }
+      var touchDiv = $('<div>').attr('id','gamepad');
+      $('body').append(touchDiv);
+      var touchscript = document.createElement('script');
+      touchscript.src = 'js/touchpad.js';
+      document.head.append(touchscript);
+    }
     // Load in EJS loader
     var loaderscript = document.createElement('script');
     loaderscript.src = script;
@@ -439,6 +461,22 @@ async function rendermenu(datas) {
     return false;
   });
 };
+
+// Go fullscreen
+function fullscreen() {
+  let page = document.documentElement;
+  if (document.fullscreenElement) {
+    document.exitFullscreen();
+  } else {
+    if (page.requestFullscreen) {
+      page.requestFullscreen();
+    } else if (page.webkitRequestFullscreen) {
+      page.webkitRequestFullscreen();
+    } else if (page.msRequestFullscreen) {
+      page.msRequestFullscreen();
+    }
+  }
+}
 
 // Load the json profile selected
 async function loadjson(name, active_item) {

@@ -31,6 +31,19 @@
     </span>
     <hr>
   </div>
+  <div class="hidden" id="touchpad">
+      <p>TouchScreen control type: <select name="touch" id="touch">
+        <option value="auto">Auto</option>
+	<option value="false">Disabled</option>
+        <option value="default">Default</option>
+        <option value="simple">Simple</option>
+        <option value="modern">Modern</option>
+      </select>
+      <button onclick="touchSave()">Save</button>
+    </p>
+    <hr>
+  </div>
+  <p>File browser:</p>
   <span id="buttons">
     <input id="folderName" type="text" placeholder="Enter Directory Name"></input>
     <button onclick="createFolder()">Create Folder</button>
