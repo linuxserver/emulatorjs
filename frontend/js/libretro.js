@@ -2,6 +2,7 @@
 var chunkSize = 10240000;
 var dlProgress = 0;
 var afs;
+var mountZip;
 var retroArchCfg = `
 input_menu_toggle_gamepad_combo = 3
 system_directory = /home/web_user/retroarch/system/`
@@ -14,15 +15,19 @@ var Module;
 var EJS_biosUrl;
 var EJS_onGameStart;
 var rom = EJS_gameUrl.substr(EJS_gameUrl.lastIndexOf('/')+1);
-if (EJS_gameUrl.endsWith('.multizip')) {
-  var rom = rom.replace('multizip','zip');
-} else if (rom.slice(0, -1).endsWith('disk')) {
-  var rom = rom.split('.').shift() + '.chd'
-}
 if (rom.split('.').pop() == 'bin') {
   var romName = rom.split('.').shift() + '.cue';
 } else {
   var romName = rom;
+}
+if (EJS_gameUrl.endsWith('.multizip')) {
+  var rom = rom.replace('multizip','zip');
+  mountZip = true;
+} else if (rom.slice(0, -1).endsWith('disk')) {
+  var rom = rom.split('.').shift() + '.chd';
+} else if (EJS_gameUrl.endsWith('.multiwad')) {
+  var romName = rom.split('.').shift() + '.wad'; 
+  mountZip = true;
 }
 
 // Audio context to pass to wasm
@@ -128,8 +133,8 @@ async function setupMounts() {
   mfs.mount(retroArchDir + 'userdata', afs);
   mfs.mount(retroArchDir + 'bundle', frontend);
   frontendData = null;
-  // Multizip support for MAME titles with chd files
-  if (EJS_gameUrl.endsWith('.multizip')) {
+  // Multizip support titles needing multiple files
+  if (mountZip == true) {
     setLoader('Game');
     var gameFile = await downloadFile(EJS_gameUrl);
     var gamefs = new BrowserFS.FileSystem.ZipFS(new Buffer(gameFile));

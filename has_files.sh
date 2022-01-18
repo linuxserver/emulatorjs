@@ -134,11 +134,24 @@ process_bin () {
   fi
 }
 
+# Process special zip file hashes
+process_zip_by_name () {
+  mkdir -p "${user_folder}/hashes/${rom_path}/tmp"
+  echo "unzipping ${file}"
+  unzip -q "${user_folder}${rom_path}/${file}" -d "${user_folder}/hashes/${rom_path}/tmp"
+  echo "hashing ${file}"
+  sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/${file%.*}."* | awk '{print $1;exit}')
+  rm -R "${user_folder}/hashes/${rom_path}/tmp/"
+  printf ${sum^^} > "${user_folder}/hashes/${rom_path}/${file}.sha1"
+}
+
 IFS=$'\n'
 mkdir -p "${user_folder}/hashes/${rom_path}"
 for file in $check_files; do
   file_extension="${file##*.}"
-  if [ $rom_type == 'arcade' ] || [ $rom_type == 'segaSaturn' ] && [[ "${file_extension,,}" != @(img|cue|ccd|disk*|sub) ]]; then
+  if [ "${file_extension,,}" = 'multiwad' ]; then
+    process_zip_by_name
+  elif [ $rom_type == 'arcade' ] || [ $rom_type == 'segaSaturn' ] && [[ "${file_extension,,}" != @(img|cue|ccd|disk*|sub) ]]; then
     process_name
   elif [ "${file_extension,,}" = 'chd' ] && [ $rom_type == 'pce' ]; then
     process_name 
