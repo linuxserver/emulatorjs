@@ -21,10 +21,11 @@ if (rom.split('.').pop() == 'bin') {
   var romName = rom;
 }
 if (EJS_gameUrl.endsWith('.multizip')) {
-  var rom = rom.replace('multizip','zip');
+  var romName = rom.replace('multizip','zip');
   mountZip = true;
 } else if (rom.slice(0, -1).endsWith('disk')) {
   var rom = rom.split('.').shift() + '.chd';
+  var romName = rom.split('.').shift() + '.chd';
 } else if (EJS_gameUrl.endsWith('.multiwad')) {
   var romName = rom.split('.').shift() + '.wad'; 
   mountZip = true;
