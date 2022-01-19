@@ -282,7 +282,22 @@ async function rendermenu(datas) {
   };
   // Loop items loaded from json to build the game menu divs
   var count = 0;
+  var jumpIndex = {};
+  var letters = "abcdefghijklmnopqrstuvwxyz".split("");
   for await (var name of Object.keys(items)) {
+    // Generate an index table based on alphabetical order ignoring numbers
+    if (count == 0) {
+      jumpIndex['0'] = count;
+    } else {
+      letterLoop:
+      for (let letter of letters) {
+        let startLetter = name.charAt(0).toLowerCase();
+        if ((! jumpIndex.hasOwnProperty(startLetter)) && (letter == startLetter)) {
+          jumpIndex[letter] = count;
+          break letterLoop;
+        }
+      }
+    }
     var item = data.items[name];
     // Use text or image tag based on logo
     if (item.hasOwnProperty('has_logo')) {
@@ -320,7 +335,7 @@ async function rendermenu(datas) {
         </div>\
       </div>');
     count++
-  }; 
+  };
   // Render active list
   for await (var active_num of [...Array(display_items).keys()]) {
     $('#active-list').append('<div id="active' + active_num + '" class="menu-div"></div>');
@@ -381,6 +396,26 @@ async function rendermenu(datas) {
     }
     highlight(active_item);
   };
+  // Jump items up
+  async function indexUp() {
+    for await (index of Object.keys(jumpIndex).reverse()) {
+      if (active_item > jumpIndex[index]) {
+        let jumpNum = (active_item - jumpIndex[index]);
+        moveUp(jumpNum);
+        break;
+      }
+    }
+  }
+  // Jump items down
+  async function indexDown() {
+    for await (index of Object.keys(jumpIndex)) {
+      if (jumpIndex[index] > active_item) {
+        let jumpNum = (jumpIndex[index] - active_item);
+        moveDown(jumpNum);
+        break;
+      }
+    }
+  }
   // Capture key events for menu navigation
   let upPressed = false;
   let downPressed = false;
@@ -408,6 +443,14 @@ async function rendermenu(datas) {
     // Go to Parent
     if (event.key == 'ArrowLeft') {
       window.location.href = '#' + parent;
+    }
+    // Jump Down
+    if (event.key == 'PageDown') {
+      indexDown();
+    }
+    // Jump Up
+    if (event.key == 'PageUp') {
+      indexUp();
     }
   });
   // Remove events for multi key presses
@@ -498,6 +541,12 @@ async function rendermenu(datas) {
               moveUp(5);
             else
               moveUp();
+          } else if (gp.buttons[5].pressed) {
+            scrollDelay = setTimeout(() => scrollDelay = undefined, 200);
+            indexDown();
+          } else if (gp.buttons[4].pressed) {
+            scrollDelay = setTimeout(() => scrollDelay = undefined, 200);
+            indexUp();
           }
         }
         if (gp.timestamp == gpUpdate) {
