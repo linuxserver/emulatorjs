@@ -141,6 +141,16 @@ function launch(active_item) {
       var emulator = emulator.replace('libretro-','');
       var script = 'js/libretro.js'
       var EJSemu = false;
+      EJS_onGameStart = function() {
+          gameStarted = true;
+          let gps = navigator.getGamepads();
+          if (gps) {
+              for (let gp of gps) {
+                  let gpEvt = new GamepadEvent("gamepadconnected",{gamepad: gp})
+                  window.dispatchEvent(gpEvt)
+              }
+          }
+      }
     } else {
       var script = 'data/loader.js'
       var EJSemu = true;
@@ -166,7 +176,7 @@ function launch(active_item) {
     EJS_core = emulator;
     EJS_pathtodata = 'data/';
     // Load touch screen interface
-    if ((! EJSemu) && (window.orientation !== undefined) && localStorage.getItem('touchpad') !== 'false') {
+    if ((! EJSemu) && (window.orientation !== undefined) && localStorage.getItem('touchpad') !== 'false' && !navigator.getGamepads()?.[0]) {
       // Determine type to render
       if (localStorage.getItem('touchpad') !== null) {
         if (localStorage.getItem('touchpad') == 'simple') {
@@ -460,6 +470,92 @@ async function rendermenu(datas) {
     };
     return false;
   });
+    let scrollDelay
+    let animReq
+    let homeTimer;
+    let home = 0;
+    let homePressed = false;
+    let gpUpdate;
+    function gameLoop() {
+        let gamePads = navigator.getGamepads();
+        if (!gamePads) return;
+        let gp = gamePads[0];
+        if (window.location.hash != "#game") {
+            gameStarted = false;
+            if (!scrollDelay) {
+                if (gp.axes[1] > .5 || gp.axes[3] > .5 || gp.buttons[13].pressed) {
+                    scrollDelay = setTimeout(()=>scrollDelay=undefined,200);
+                    if (gp.axes[1] >= .75 || gp.axes[3] >= .75)
+                        moveDown(5);
+                    else
+                        moveDown();
+                } else if (gp.axes[1] < -.5 || gp.axes[3] < -.5 || gp.buttons[12].pressed) {
+                    scrollDelay = setTimeout(()=>scrollDelay=undefined,200);
+                    if (gp.axes[1] <= -.75 || gp.axes[3] <= -.75)
+                        moveUp(5);
+                    else
+                        moveUp();
+                }
+            }
+            if (gp.timestamp == gpUpdate) {
+                animReq = requestAnimationFrame(gameLoop);
+                return
+            }
+            gpUpdate = gp.timestamp
+            if (gp.buttons[0].pressed) {
+                 if ( $('#i' + active_item.toString()).data('type') == "game" ) {
+                    cancelAnimationFrame(animReq);
+                 }
+                $('#i' + active_item).click();
+                return;
+            } else if (gp.buttons[1].pressed && parent && '#'+parent != window.location.hash) {
+                window.location.href = '#' + parent;
+                return;
+            } else if (gp.buttons[16].pressed && window.location.hash != '#main') {
+                window.location.href = '#main';
+                return;
+            }
+        } else {
+            if (gp.timestamp == gpUpdate) {
+                animReq = requestAnimationFrame(gameLoop);
+                return
+            }
+            gpUpdate = gp.timestamp
+            try {
+                if (!gameStarted && gp.buttons[1].pressed && parent) {
+                    window.location.href = '#' + parent;
+                    return;
+                }
+            } catch(e) {
+                console.log(e);
+            }
+            if (!gp.buttons[16].pressed && homePressed) {
+                home ++;
+                homePressed = false;
+            }
+            if (gp.buttons[16].pressed) {
+                clearTimeout(homeTimer)
+                homeTimer = setTimeout(()=>home=0,500)
+                homePressed = true
+            }
+            if (gp.buttons[16].pressed && home >= 2)
+                window.location.href = '#' + parent;
+        }
+        animReq = requestAnimationFrame(gameLoop);
+    }
+    window.addEventListener("gamepadconnected",gameLoop)
+    window.addEventListener("gamepaddisconnected",cancelAnimationFrame(animReq))
+    window.addEventListener("load",()=>{
+        var gameStarted = false;
+        let gps = navigator.getGamepads();
+        if (gps) {
+            for (let gp of gps) {
+                let gpEvt = new GamepadEvent("gamepadconnected",{gamepad: gp})
+                window.dispatchEvent(gpEvt)
+            }
+        }
+    })
+    window.addEventListener("hashchange",gameLoop);
 };
 
 // Go fullscreen
