@@ -142,14 +142,14 @@ function launch(active_item) {
       var script = 'js/libretro.js'
       var EJSemu = false;
       EJS_onGameStart = function() {
-          gameStarted = true;
-          let gps = navigator.getGamepads();
-          if (gps) {
-              for (let gp of gps) {
-                  let gpEvt = new GamepadEvent("gamepadconnected",{gamepad: gp})
-                  window.dispatchEvent(gpEvt)
-              }
+        gameStarted = true;
+        let gps = navigator.getGamepads();
+        if (gps) {
+          for (let gp of gps) {
+            let gpEvt = new GamepadEvent("gamepadconnected",{gamepad: gp})
+            window.dispatchEvent(gpEvt)
           }
+        }
       }
     } else {
       var script = 'data/loader.js'
@@ -470,6 +470,9 @@ async function rendermenu(datas) {
     };
     return false;
   });
+  //// GamePad controls ////
+  // Do not allow gamepad controls on Chromium Edge
+  if (! navigator.userAgent.includes('Edg/')) {
     let scrollDelay
     let animReq
     let homeTimer;
@@ -477,85 +480,88 @@ async function rendermenu(datas) {
     let homePressed = false;
     let gpUpdate;
     function gameLoop() {
-        let gamePads = navigator.getGamepads();
-        if (!gamePads?.[0]) return;
-        let gp = gamePads[0];
-        if (window.location.hash != "#game") {
-            gameStarted = false;
-            if (!scrollDelay) {
-                if (gp.axes[1] > .5 || gp.axes[3] > .5 || gp.buttons[13].pressed) {
-                    scrollDelay = setTimeout(()=>scrollDelay=undefined,200);
-                    if (gp.axes[1] >= .75 || gp.axes[3] >= .75)
-                        moveDown(5);
-                    else
-                        moveDown();
-                } else if (gp.axes[1] < -.5 || gp.axes[3] < -.5 || gp.buttons[12].pressed) {
-                    scrollDelay = setTimeout(()=>scrollDelay=undefined,200);
-                    if (gp.axes[1] <= -.75 || gp.axes[3] <= -.75)
-                        moveUp(5);
-                    else
-                        moveUp();
-                }
-            }
-            if (gp.timestamp == gpUpdate) {
-                animReq = requestAnimationFrame(gameLoop);
-                return
-            }
-            gpUpdate = gp.timestamp
-            if (gp.buttons[0].pressed) {
-                 if ( $('#i' + active_item.toString()).data('type') == "game" ) {
-                    cancelAnimationFrame(animReq);
-                 }
-                $('#i' + active_item).click();
-                return;
-            } else if (gp.buttons[1].pressed && parent && '#'+parent != window.location.hash) {
-                window.location.href = '#' + parent;
-                return;
-            } else if (gp.buttons[16].pressed && window.location.hash != '#main') {
-                window.location.href = '#main';
-                return;
-            }
-        } else {
-            if (gp.timestamp == gpUpdate) {
-                animReq = requestAnimationFrame(gameLoop);
-                return
-            }
-            gpUpdate = gp.timestamp
-            try {
-                if (!gameStarted && gp.buttons[1].pressed && parent) {
-                    window.location.href = '#' + parent;
-                    return;
-                }
-            } catch(e) {
-                console.log(e);
-            }
-            if (!gp.buttons[16].pressed && homePressed) {
-                home ++;
-                homePressed = false;
-            }
-            if (gp.buttons[16].pressed) {
-                clearTimeout(homeTimer)
-                homeTimer = setTimeout(()=>home=0,500)
-                homePressed = true
-            }
-            if (gp.buttons[16].pressed && home >= 2)
-                window.location.href = '#' + parent;
+      let gamePads = navigator.getGamepads();
+      if (!gamePads?.[0]) return;
+      let gp = gamePads[0];
+      if (window.location.hash != "#game") {
+        gameStarted = false;
+        if (!scrollDelay) {
+          if (gp.axes[1] > .5 || gp.axes[3] > .5 || gp.buttons[13].pressed) {
+            scrollDelay = setTimeout(() => scrollDelay = undefined, 200);
+            if (gp.axes[1] >= .75 || gp.axes[3] >= .75)
+              moveDown(5);
+            else
+              moveDown();
+          } else if (gp.axes[1] < -.5 || gp.axes[3] < -.5 || gp.buttons[12].pressed) {
+            scrollDelay = setTimeout(() => scrollDelay = undefined, 200);
+            if (gp.axes[1] <= -.75 || gp.axes[3] <= -.75)
+              moveUp(5);
+            else
+              moveUp();
+          }
         }
-        animReq = requestAnimationFrame(gameLoop);
+        if (gp.timestamp == gpUpdate) {
+          animReq = requestAnimationFrame(gameLoop);
+          return;
+        }
+        gpUpdate = gp.timestamp
+        if (gp.buttons[0].pressed) {
+          if ($('#i' + active_item.toString()).data('type') == "game") {
+            cancelAnimationFrame(animReq);
+          }
+          $('#i' + active_item).click();
+          return;
+        } else if (gp.buttons[1].pressed && parent && '#' + parent != window.location.hash) {
+          window.location.href = '#' + parent;
+          return;
+        } else if (gp.buttons[16].pressed && window.location.hash != '#main') {
+          window.location.href = '#main';
+          return;
+        }
+      } else {
+        if (gp.timestamp == gpUpdate) {
+          animReq = requestAnimationFrame(gameLoop);
+          return;
+        }
+        gpUpdate = gp.timestamp
+        try {
+          if (!gameStarted && gp.buttons[1].pressed && parent) {
+            window.location.href = '#' + parent;
+            return;
+          }
+        } catch (e) {
+          console.log(e);
+        }
+        if (!gp.buttons[16].pressed && homePressed) {
+          home++;
+          homePressed = false;
+        }
+        if (gp.buttons[16].pressed) {
+          clearTimeout(homeTimer)
+          homeTimer = setTimeout(() => home = 0, 500)
+          homePressed = true
+        }
+        if (gp.buttons[16].pressed && home >= 2)
+          window.location.href = '#' + parent;
+      }
+      animReq = requestAnimationFrame(gameLoop);
     }
-    window.addEventListener("gamepadconnected",gameLoop)
-    window.addEventListener("gamepaddisconnected",cancelAnimationFrame(animReq))
-    window.addEventListener("load",()=>{
-        var gameStarted = false;
-        let gps = navigator.getGamepads();
-        if (gps) {
-            for (let gp of gps) {
-                let gpEvt = new GamepadEvent("gamepadconnected",{gamepad: gp})
-                window.dispatchEvent(gpEvt)
-            }
+    window.addEventListener("gamepadconnected", gameLoop)
+    window.addEventListener("gamepaddisconnected", cancelAnimationFrame(animReq))
+    window.addEventListener("load", () => {
+      var gameStarted = false;
+      let gps = navigator.getGamepads();
+      if (gps) {
+        for (let gp of gps) {
+          let gpEvt = new GamepadEvent("gamepadconnected", {
+            gamepad: gp
+          })
+          window.dispatchEvent(gpEvt)
         }
-    })
-    window.addEventListener("hashchange",gameLoop);
+      }
+    });
+    window.addEventListener("hashchange", gameLoop);
+  }
 };
 
 // Go fullscreen
