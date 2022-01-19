@@ -478,7 +478,7 @@ async function rendermenu(datas) {
     let gpUpdate;
     function gameLoop() {
         let gamePads = navigator.getGamepads();
-        if (!gamePads) return;
+        if (!gamePads?.[0]) return;
         let gp = gamePads[0];
         if (window.location.hash != "#game") {
             gameStarted = false;
