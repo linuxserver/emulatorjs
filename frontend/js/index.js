@@ -146,8 +146,10 @@ function launch(active_item) {
         let gps = navigator.getGamepads();
         if (gps) {
           for (let gp of gps) {
-            let gpEvt = new GamepadEvent("gamepadconnected",{gamepad: gp})
-            window.dispatchEvent(gpEvt)
+            if (gp) {
+              let gpEvt = new GamepadEvent("gamepadconnected",{gamepad: gp});
+              window.dispatchEvent(gpEvt);
+            }
           }
         }
       }
