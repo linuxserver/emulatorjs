@@ -101,14 +101,18 @@ async function upload(input) {
     directoryUp = directory;
   }
   if (input.files && input.files[0]) {
-    let reader = new FileReader();
-    reader.onload = function(e) {
-      let fileName = input.files[0].name;
-      let data = e.target.result;
-      fs.writeFileSync(directoryUp + '/' + fileName, Buffer.from(data));
-      renderFiles(directory);
+    for await (let file of input.files) {
+      let reader = new FileReader();
+      reader.onload = function(e) {
+        let fileName = file.name;
+        let data = e.target.result;
+        fs.writeFileSync(directoryUp + '/' + fileName, Buffer.from(data));
+        if (file == input.files[input.files.length - 1]) {
+          renderFiles(directory);
+        }
+      }
+      reader.readAsArrayBuffer(file);
     }
-    reader.readAsArrayBuffer(input.files[0]);
   }
 }
 
