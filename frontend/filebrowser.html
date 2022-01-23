@@ -48,7 +48,7 @@
     <input id="folderName" type="text" placeholder="Enter Directory Name"></input>
     <button onclick="createFolder()">Create Folder</button>
     <button onclick="$('#uploadInput').trigger( 'click' )">Upload Files</button>
-    <input class="hidden" id="uploadInput" type='file' onchange="upload(this);" multiple allowdirs>
+    <input class="hidden" id="uploadInput" type='file' onchange="upload(this);" multiple>
     <button class="right" onclick="uploadToIpfs()">Backup to IPFS</button>
     <button class="right" onclick="downloadBackup()">DL Full Backup</button>
     <button class="right" onclick="$('#uploadBackup').trigger( 'click' )">Upload Full Backup</button>
