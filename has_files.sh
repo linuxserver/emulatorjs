@@ -9,7 +9,7 @@ if [ -d '/data' ]; then
 else
   user_folder='frontend/user'
 fi
-check_files=$(find "${user_folder}${rom_path}" -maxdepth 1 -not -type d -and -not -name '.*' -exec basename {} .po \; | sort)
+check_files=$(find "${user_folder}${rom_path}" -maxdepth 1 -not -type d -and -not -name '.*' -exec basename {} \; | sort)
 
 # Clear out old hashes
 if [ -d "${user_folder}/hashes/${rom_path}" ]; then
