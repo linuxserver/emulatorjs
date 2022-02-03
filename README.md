@@ -29,7 +29,7 @@ All images should be a png and run through pngquant for web optimization IE:
 pngquant yourimage.png
 ```
 
-Videos should be mp4 format and compressed pretty heavily to be optimized for web while load quickly in the web interface, IE using ffmpeg: (aac is also acceptible, but I had better results with mp3)
+Videos should be mp4 format and compressed pretty heavily to be optimized for web while load quickly in the web interface, IE using ffmpeg: (aac is also acceptable, but I had better results with mp3)
 
 ```
 ffmpeg -i input.mp4 -c:v libx264 -preset slow -crf 32 -acodec libmp3lame -qscale:a 7 output.mp4
