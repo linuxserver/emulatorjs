@@ -157,6 +157,7 @@ function launch(active_item) {
       var script = 'data/loader.js'
       var EJSemu = true;
       EJS_onGameStart = function() {
+        gameStarted = true;
         document.querySelectorAll('[data-btn="fullscreen"]')[0].click();
       }
     };
