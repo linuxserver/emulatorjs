@@ -634,7 +634,11 @@ function fullscreen() {
 
 // Load the json profile selected
 async function loadjson(name, active_item) {
-  let url = 'user/config/' + name + '.json';
+  if (name == 'preview') {
+    var url = 'user/hashes/preview.json';
+  } else {
+    var url = 'user/config/' + name + '.json';
+  }
   let response = await fetch(url,Init);
   let data = await response.json();
   rendermenu([data, active_item]);

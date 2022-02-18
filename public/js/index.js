@@ -25,6 +25,8 @@ socket.on('emptymodal', emptyModal);
 socket.on('renderfiledirs', renderFileDirs);
 // Render file directories
 socket.on('renderprofiles', renderProfiles);
+// Render in rom data
+socket.on('romdata', renderRomData);
 
 //// Functions ////
 // Grab a json file from the server
@@ -276,11 +278,20 @@ async function renderRom(data) {
 
 // Render Identified rom menu
 function idRomMenu(cleanName) {
+  let dir = $('#main').data('name');
   name = cleanName.replace("|","'");
   emptyModal();
   $('#modal-content').append('<div class="loader"></div>');
   $('#modal').toggle(100);
-  console.log(name);
+  socket.emit('getromdata', [dir, name]);
+}
+
+// Render rom data we get
+async function renderRomData(data) {
+  emptyModal();
+  previewFrame = $('<iframe>').attr({src: 'frontend/index.html#preview', id: 'preview-iframe'});
+  $('#modal-content').append(previewFrame);
+  console.log(data);
 }
 
 // Render Unidentified rom menu

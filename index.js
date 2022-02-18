@@ -96,11 +96,17 @@ io.on('connection', async function (socket) {
   };
   // Send rom directories to client
   async function renderRomsDir() {
+    let dirData = [];
     if (fs.existsSync(hashPath)) {
-      var dirs = await fsw.readdir(hashPath);
-      socket.emit('renderromsdir', dirs);
+      let dirs = await fsw.readdir(hashPath);
+      for await (let dir of dirs) {
+        if (fs.lstatSync(hashPath + dir).isDirectory()) {
+          dirData.push(dir);
+        }
+      }
+      socket.emit('renderromsdir', dirData);
     } else {
-      socket.emit('renderromsdir', []);
+      socket.emit('renderromsdir', dirData);
     };
   };
   // Tell client to render rom scanners
@@ -445,6 +451,18 @@ io.on('connection', async function (socket) {
     getRoms(dir);
   };
   
+  // Get combined metadata
+  async function getMeta(dir) {
+    let metaDataRaw = await fsw.readFile('./metadata/' + dir + '.json', 'utf8');
+    let metaData = JSON.parse(metaDataRaw);
+    if (fs.existsSync(dataRoot + 'metadata/' + dir + '.json')) {
+      let userMetaDataRaw = await fsw.readFile(dataRoot + 'metadata/' + dir + '.json', 'utf8');
+      let userMetaData = JSON.parse(userMetaDataRaw);
+      Object.assign(metaData, userMetaData);
+    };
+    return metaData;
+  }
+  
   // Render files page
   async function renderFiles() {
     var dirItems = await fsw.readdir(dataRoot);
@@ -539,6 +557,50 @@ io.on('connection', async function (socket) {
     socket.emit('renderprofiles', profiles);
   }
 
+  // Send individual rom data
+  async function getRomData(data) {
+    let dir = data[0];
+    let file = data[1];
+    let fileExtension = path.extname(file);
+    let name = path.basename(file, fileExtension);
+    // Create the preview json
+    let rawConfig = await fsw.readFile(dataRoot + 'config/' + dir + '.json', 'utf8');
+    let config = JSON.parse(rawConfig);
+    config.display_items = 1;
+    config.items = {};
+    config.items[name] = {};
+    // Assemble metdata for client
+    let romData = {};
+    let hash = await fsw.readFile(hashPath + dir + '/roms/' + file + '.sha1', 'utf8');
+    romData.hash = hash;
+    let metaData = await getMeta(dir);
+    if (metaData.hasOwnProperty(hash)) {
+      if (metaData[hash].hasOwnProperty('ref')) {
+        romData.metadata = metaData[metaData[hash].ref];
+        if (metaData[hash].hasOwnProperty('name')) {
+          romData.metadata.name = metaData[hash].name;
+        }
+      } else {
+        romData.metadata = metaData[hash];
+      }
+    } else {
+      romData.metadata = false;
+    }
+    for await (let variable of metaVariables) {
+      if (fs.existsSync(dataRoot + dir + '/' + variable[1] + '/' + name + variable[2])) {
+        romData[variable[0]] = dir + '/' + variable[1] + '/' + name + variable[2];
+        config.items[name]['has_' + variable[0]] = true;
+      } else {
+        romData[variable[0]] = false;
+        config.items[name]['has_' + variable[0]] = false;
+      }
+    }
+    // Write the preview config
+    await fsw.writeFile(hashPath + 'preview.json', JSON.stringify(config, null, 2));
+    // Send data to client
+    socket.emit('romdata', romData);
+  }
+
   // Incoming socket requests
   socket.on('renderconfigs', renderConfigs);
   socket.on('renderroms', renderRoms);
@@ -557,6 +619,7 @@ io.on('connection', async function (socket) {
   socket.on('renderprofiles', renderProfiles);
   socket.on('createprofile', createProfile);
   socket.on('deleteprofile', deleteProfile);
+  socket.on('getromdata', getRomData);
   // Render landing page
   if (fs.existsSync(dataRoot + 'config/main.json')) {
     renderRoms();
