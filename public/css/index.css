@@ -51,21 +51,14 @@
   padding: 10px
 }
 
-#modal p {
-  margin: 0;
-}
-
-.modal {
-  max-width: 800px !important;
-}
-
 .centered {
   text-align: center;
 }
 
 /* Roms page 2 column layout */
-#header {
-  grid-area: header;
+h3 {
+  margin-top: .25em;
+  margin-bottom: .25em;
 }
 
 #right {
@@ -80,7 +73,6 @@
   display: grid;
   grid-template-columns: 50% 50%;
   grid-template-areas:
-    "header  header"
     "identified unidentified";
 }
 
@@ -94,6 +86,12 @@
 
 .itemwrapper {
   display: table;
+  border: 1px solid black;
+  width: 100%;
+}
+
+.itemwrapper + .itemwrapper {
+    border-top: 0;
 }
 
 .item {
@@ -101,10 +99,9 @@
   display: table-cell;
 }
 
-.rombutton {
-  padding: 0;
-  margin: 0;
-  text-align: right;
+.itemwrapper:hover {
+  opacity: .8;
+  cursor: pointer;
 }
 
 .identifybutton { 
@@ -261,4 +258,35 @@
     box-shadow: 0 -2em;
     height: 5em;
   }
+}
+
+#close {
+  position: absolute;
+  background: black;
+  top: 8px;
+  right: 8px;
+  cursor: pointer;
+  border-radius:50%;
+  width: 20px;
+  height: 20px;
+  z-index: 3;
+}
+
+#modal {
+  display: none;
+  margin: auto;
+  position: absolute;
+  width: 70vw;
+  height: 70vh;
+  top: 0; left: 0; bottom: 0; right: 0;
+  background: white;
+  z-index: 2;
+  border-radius: 5px;
+  border: 1px solid black;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  overflow: clip;
+}
+
+#modal-content p {
+  margin: 0;
 }

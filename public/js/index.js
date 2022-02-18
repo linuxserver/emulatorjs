@@ -93,7 +93,7 @@ function renderRoms() {
 // Scan in a roms directory
 function scanRoms(folder) {
   socket.emit('scanroms', folder);
-  $('#modal').modal();
+  $('#modal').toggle(100);
 }
 
 // Prompt user to identify rom
@@ -142,12 +142,12 @@ function setMeta() {
 
 // Send output to modal
 function modalData(data) {
-  $('#modal').prepend('<p>' + data + '</p>'); 
+  $('#modal-content').prepend('<p>' + data + '</p>'); 
 }
 
 // Empty modal
 function emptyModal() {
-  $('#modal').empty();
+  $('#modal-content').empty();
 }
 
 // Render config file list
@@ -201,7 +201,7 @@ function purgeNoArt(name) {
 function downloadArt(name) {
   $('#main').empty();
   $('#main').append('<div class="loader"></div>');
-  $('#modal').modal();
+  $('#modal').toggle(100);
   socket.emit('downloadart', name);
 }
 
@@ -209,7 +209,7 @@ function downloadArt(name) {
 function dlDefaultFiles() {
   $('#main').empty();
   $('#main').append('<div class="loader"></div>');
-  $('#modal').modal();
+  $('#modal').toggle(100);
   socket.emit('dldefaultfiles');
 }
 
@@ -240,17 +240,10 @@ async function renderRom(data) {
   $('#main').data('metadata', data[2]);
   $('#side').empty();
   // Render Legend
-  var keys = [['All Art Downloaded', 'green'], ['Art Available for Download', 'red'], ['No Art Available', 'gray']]
-  var header = $('<div>').attr('id', 'header');
-  for await (var key of keys) {
-    var item = $('<div>').css('background-color',key[1]).text(key[0]);
-    header.append(item);
-  }
   var container = $('<div>').addClass('wrapper');
-  container.append(header);
   $('#main').append(container);
-  var identified = $('<div>').attr('id','left').append('<p>Identified Roms:</p>');
-  var unidentified = $('<div>').attr('id','right').append('<p>Unidentified Roms:</p>');
+  var identified = $('<div>').attr('id','left').append('<h3>Identified Roms:</h3>');
+  var unidentified = $('<div>').attr('id','right').append('<h3>Unidentified Roms:</h3>');
   container.append(identified,unidentified);
   // Process buttons
   var folderName = $('#main').data('name');
@@ -272,18 +265,31 @@ async function renderRom(data) {
     } else if (data[0][idItem].has_art == 'none') {
       var color = 'gray';
     };
-    var deleteButton = $('<button>').addClass('rombutton item').attr('onclick', 'deleteRom(\'' + idItem.replace("'","|") + '\')').text('delete');
-    var item = $('<div>').addClass('itemwrapper').css('background-color', color).html($('<p>').addClass('item').text(idItem));
-    item.append(deleteButton);
+    var item = $('<div>').addClass('itemwrapper').css('background-color', color).html($('<p>').addClass('item').text(idItem)).attr('onclick', 'idRomMenu(\'' + idItem.replace("'","|") + '\')');
     identified.append(item)
   };
   for await (var noIdItem of Object.keys(data[1])) {
-    var identifyButton = $('<button>').addClass('identifybutton').attr('onclick', 'identifyRom(\'' + data[1][noIdItem].replace("'","|") + '\',\'' + noIdItem.replace("'","|") + '\');').text('identify');
-    var deleteButton = $('<button>').addClass('rombutton item').attr('onclick', 'deleteRom(\'' + noIdItem.replace("'","|") + '\')').text('delete');
-    var item = $('<div>').addClass('itemwrapper').html($('<p>').addClass('item').text(noIdItem).append(identifyButton));
-    item.append(deleteButton);
+    var item = $('<div>').addClass('itemwrapper').css('background-color', 'gray').html($('<p>').addClass('item').text(noIdItem)).attr('onclick', 'noIdRomMenu(\'' + noIdItem.replace("'","|") + '\')');
     unidentified.append(item)
   };
+}
+
+// Render Identified rom menu
+function idRomMenu(cleanName) {
+  name = cleanName.replace("|","'");
+  emptyModal();
+  $('#modal-content').append('<div class="loader"></div>');
+  $('#modal').toggle(100);
+  console.log(name);
+}
+
+// Render Unidentified rom menu
+function noIdRomMenu(cleanName) {
+  name = cleanName.replace("|","'");
+  emptyModal();
+  $('#modal-content').append('<div class="loader"></div>');
+  $('#modal').toggle(100);
+  console.log(name);
 }
 
 // Render confirm delete rom
@@ -301,7 +307,7 @@ function deleteRom(name) {
 // Delete rom
 function deleteRomReal(data) {
   socket.emit('deleterom', $('#modal').data('delete'));
-  $.modal.close();
+  $('#modal').toggle(100);
 }
 
 // Render in landing

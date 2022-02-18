@@ -3,10 +3,8 @@
   <head>
     <title>EmulatorJS Manager</title>
     <link rel="stylesheet" href="public/css/index.css">
-    <link rel="stylesheet" href="public/css/vendor/jquery.modal.min.css" />
   </head>
   <body>
-    <div id="modal" class="modal"></div>
     <div id="top" class="top">
       <div id="nav" class="nav">
         <div onclick="renderRoms()" class="top-item">Rom Management</div>
@@ -19,6 +17,10 @@
     <div class="page-container">
       <div id="side"></div>
       <div id="main"></div>
+    </div>
+    <div id="modal">
+      <div id="modal-content"></div>
+      <div id="close" onclick="$('#modal').toggle(100)"></div>
     </div>
     <div id="rominfo" class="hidden">
       <div class="readme">
@@ -151,7 +153,6 @@
     </div>
     <script src="socket.io/socket.io.js"></script>
     <script src="public/js/vendor/jquery.min.js"></script>
-    <script src="public/js/vendor/jquery.modal.min.js"></script>
     <script src="public/js/vendor/ace.js"></script>
     <script src="public/js/index.js"></script>
   </body>
