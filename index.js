@@ -419,23 +419,42 @@ io.on('connection', async function (socket) {
   // Set user linked metadata
   async function userMeta(data) {
     await fsw.mkdir(dataRoot + 'metadata', { recursive: true })
-    var romSha = data[0];
-    var linkSha = data[1];
-    var dir = data[2];
+    let romSha = data[0];
+    let linkSha = data[1];
+    let dir = data[2];
     if (fs.existsSync(dataRoot + 'metadata/' + dir + '.json')) {
       var metaData = await fsw.readFile(dataRoot + 'metadata/' + dir + '.json', 'utf8');
       var metaData = JSON.parse(metaData);
     } else {
       var metaData = {};
     };
-    var link = {};
+    let link = {};
     link[romSha] = {'ref': linkSha};
     Object.assign(metaData, link);
     userMetadataFile = JSON.stringify(metaData, null, 2);
     await fsw.writeFile(dataRoot + 'metadata/' + dir + '.json', userMetadataFile);
     getRoms(dir);
   };
-  
+
+  // Remove user linked metadata
+  async function removeMeta(data) {
+    await fsw.mkdir(dataRoot + 'metadata', { recursive: true })
+    let romSha = data[0];
+    let dir = data[1];
+    if (fs.existsSync(dataRoot + 'metadata/' + dir + '.json')) {
+      var metaData = await fsw.readFile(dataRoot + 'metadata/' + dir + '.json', 'utf8');
+      var metaData = JSON.parse(metaData);
+    } else {
+      var metaData = {};
+    };
+    if (metaData.hasOwnProperty(romSha)) {
+      delete metaData[romSha];
+      userMetadataFile = JSON.stringify(metaData, null, 2);
+      await fsw.writeFile(dataRoot + 'metadata/' + dir + '.json', userMetadataFile);
+    }
+    getRoms(dir);
+  };
+
   // Get combined metadata
   async function getMeta(dir) {
     let metaDataRaw = await fsw.readFile('./metadata/' + dir + '.json', 'utf8');
@@ -663,6 +682,25 @@ io.on('connection', async function (socket) {
     getRomData([dir, file]);
   }
 
+  // Create a custom metadata entry
+  async function customMeta(data) {
+    await fsw.mkdir(dataRoot + 'metadata', { recursive: true })
+    let romSha = data[0];
+    let dir = data[1];
+    let name = data[2];
+    if (fs.existsSync(dataRoot + 'metadata/' + dir + '.json')) {
+      var metaData = await fsw.readFile(dataRoot + 'metadata/' + dir + '.json', 'utf8');
+      var metaData = JSON.parse(metaData);
+    } else {
+      var metaData = {};
+    };
+    metaData[romSha] = {};
+    metaData[romSha].name = name;
+    userMetadataFile = JSON.stringify(metaData, null, 2);
+    await fsw.writeFile(dataRoot + 'metadata/' + dir + '.json', userMetadataFile);
+    getRoms(dir);
+  }
+
   // Incoming socket requests
   socket.on('renderconfigs', renderConfigs);
   socket.on('renderroms', renderRoms);
@@ -684,6 +722,8 @@ io.on('connection', async function (socket) {
   socket.on('getromdata', getRomData);
   socket.on('uploadart', uploadArt);
   socket.on('updatevidposition', updateVidPosition);
+  socket.on('removemeta', removeMeta);
+  socket.on('custommeta', customMeta);
   // Render landing page
   if (fs.existsSync(dataRoot + 'config/main.json')) {
     renderRoms();

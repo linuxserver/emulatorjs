@@ -98,48 +98,15 @@ function scanRoms(folder) {
   $('#modal').toggle(100);
 }
 
-// Prompt user to identify rom
-async function identifyRom(sha, name) {
-  $('#modal').modal();
-  $('#modal').empty();
-  $('#modal').data('sha', sha.replace("|","'"));
-  $('#modal').append('<p>Identify: ' + name.replace("|","'") + '</p>');
-  var metaData = $('#main').data('metadata');
-  var options = [];
-  for await (sha of Object.keys(metaData)) {
-    if (metaData[sha].hasOwnProperty('name')) {
-      options.push({'sha': sha, 'name': metaData[sha].name});
-    }
-  };
-  var sorted = options.sort(function(a, b){
-    const name1 = a.name.toUpperCase();
-    const name2 = b.name.toUpperCase();
-    let comparison = 0;
-    if (name1 > name2) {
-        comparison = 1;
-    } else if (name1 < name2) {
-        comparison = -1;
-    }
-    return comparison;
-  })
-  var sel = $('<select>').attr('id', 'gameselection');
-  for await (var option of sorted) {
-    sel.append($("<option>").attr('value',option.sha).text(option.name));
-  };
-  $('#modal').append(sel);
-  var setMetaButton = $('<button>').addClass('button hover').attr('onclick', 'setMeta()').text('Link Item');
-  $('#modal').append(setMetaButton);
-}
-
 // Link metadata for selected rom
 function setMeta() {
-  var foundGameSha = $('#gameselection').val();
-  var romSha = $('#modal').data('sha');
+  var linkHash = $('#gameselection').val();
+  var hash = $('#modal').data('hash');
   var dir = $('#main').data('name');
+  closeModal();
   $('#main').empty();
   $('#main').append('<div class="loader"></div>');
-  $.modal.close();
-  socket.emit('usermeta', [romSha, foundGameSha, dir]);
+  socket.emit('usermeta', [hash, linkHash, dir]);
 }
 
 // Send output to modal
@@ -330,11 +297,13 @@ async function renderRomData(data) {
   } else {
     var vidPos = '';
   }
-  let vidInput = $('<p>').text('Video Position: ');
-  let posInput = $('<input>').attr({id: 'vidPos', type: 'text', value: vidPos});
-  let posButton = $('<button>').text('Update').attr('onclick', 'updateVidPos()');
-  vidInput.append(posInput,posButton);
-  manage.append(vidInput);
+  if (data.vid) {
+    let vidInput = $('<p>').text('Video Position: ');
+    let posInput = $('<input>').attr({id: 'vidPos', type: 'text', value: vidPos});
+    let posButton = $('<button>').addClass('button hover').text('Update').attr('onclick', 'updateVidPos()');
+    vidInput.append(posInput,posButton);
+    manage.append(vidInput);
+  }
   let buttonWrapper = $('<span>').attr('id', 'manage-buttons');
   for await (let upload of metaVars) {
     let uploadButton = $('<div>').addClass('manage-button').text('Upload ' + upload);
@@ -342,11 +311,74 @@ async function renderRomData(data) {
     let uploadInput = $('<input>').addClass('hidden').attr({id: upload, type: 'file', onchange: 'upload(this)'}); 
     buttonWrapper.append(uploadButton,uploadInput);
   }
-  let identifyButton = $('<div>').addClass('manage-button').text('Identify Rom');
-  let unIdentifyButton = $('<div>').addClass('manage-button').text('Un-Identify Rom');
-  buttonWrapper.append(identifyButton, unIdentifyButton);
+  if (data.metadata) {
+    let unIdentifyButton = $('<div>').addClass('manage-button').text('Un-Identify Rom');
+    buttonWrapper.append(unIdentifyButton.attr('onclick','unIdentify()'));
+  } else {
+    let identifyButton = $('<div>').addClass('manage-button').text('Identify Rom');
+    buttonWrapper.append(identifyButton.attr('onclick','identify()'));
+  }
   manage.append(buttonWrapper);
   $('#modal-content').append(manage);
+}
+
+// Prompt user to identify rom
+async function identify() {
+  let file = $('#modal').data('name');
+  $('#rom-manage').empty();
+  $('#rom-manage').append('<p>Identify: ' + file + '</p>');
+  var metaData = $('#main').data('metadata');
+  var options = [];
+  for await (sha of Object.keys(metaData)) {
+    if (metaData[sha].hasOwnProperty('name')) {
+      options.push({'sha': sha, 'name': metaData[sha].name});
+    }
+  };
+  var sorted = options.sort(function(a, b){
+    const name1 = a.name.toUpperCase();
+    const name2 = b.name.toUpperCase();
+    let comparison = 0;
+    if (name1 > name2) {
+        comparison = 1;
+    } else if (name1 < name2) {
+        comparison = -1;
+    }
+    return comparison;
+  })
+  var sel = $('<select>').attr('id', 'gameselection');
+  for await (var option of sorted) {
+    sel.append($("<option>").attr('value',option.sha).text(option.name));
+  };
+  $('#rom-manage').append(sel);
+  var setMetaButton = $('<button>').addClass('button hover').attr('onclick', 'setMeta()').text('Link Item');
+  $('#rom-manage').append(setMetaButton);
+  $('#rom-manage').append($('<h3>').text('Rom not found?:'));
+  let idInput = $('<p>').text('Custom Rom: ');
+  let nameInput = $('<input>').attr({id: 'customName', type: 'text', placeholder: 'Enter a custom name'});
+  let idButton = $('<button>').addClass('button hover').text('Identify').attr('onclick', 'setCustomMeta()');
+  idInput.append(nameInput,idButton);
+  $('#rom-manage').append(idInput);
+}
+
+// Remove identified roms link if it exists
+function unIdentify() {
+  let hash = $('#modal').data('hash');
+  let dir = $('#main').data('name');
+  closeModal();
+  $('#main').empty();
+  $('#main').append('<div class="loader"></div>');
+  socket.emit('removemeta', [hash, dir]); 
+}
+
+// Set custom metadata for a rom
+function setCustomMeta() {
+  let hash = $('#modal').data('hash');
+  let dir = $('#main').data('name');
+  let name = $('#customName').val();
+  closeModal();
+  $('#main').empty();
+  $('#main').append('<div class="loader"></div>');
+  socket.emit('custommeta', [hash, dir, name]);
 }
 
 // Handle art uploads
