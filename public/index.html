@@ -11,6 +11,7 @@
         <div onclick="renderConfigss()" class="top-item">Config Management</div>
         <div onclick="renderFiles()" class="top-item">File Management</div>
         <div onclick="renderProfile()" class="top-item">Profile Management</div>
+        <div onclick="renderMeta()" class="top-item">Custom Metadata</div>
       </div>
       <div id="nav-buttons" class="nav-buttons"></div>
     </div>
@@ -149,6 +150,14 @@
     <div id="filelanding" class="hidden">
       <div class="centered">
         <h1>Choose a folder. Drag and drop files or right click to upload.</h1>
+      </div>
+    </div>
+    <div id="metainfo" class="hidden">
+      <div class="readme">
+        <h2>Custom Metadata</h2>
+	<p>When you identify roms or upload custom artwork from the rom management interface all of that data is stored as custom metadata in your container. You can see the systems you have put the work into either skinning or identifying on the left. On top of that when you upload custom art assets from this web interface those items are added to the local IPFS server running in this Docker container. To share this data with the world you will need to forward port 4001 to a public IP address.</p>
+	<h2>Help us out</h2>
+	<p>You went through the process of linking up roms and cleaning up the artwork the way you like it, odds are another person would appreciate not doing the same work you did. If you are able to please share your metadata to <a href="https://github.com/linuxserver/emulatorjs/issues">GitHub</a> or hop on our <a href="https://discord.gg/YWrKVTn">Discord Server</a> and share it there. We can help with file optimization and getting stuff pinned to IPFS permanently. Just copy and paste the metadata to something like <a href="https://www.textdrop.link/">Text Drop</a> or <a href="https://pastebin.com/">Paste Bin</a>.</p>
       </div>
     </div>
     <script src="socket.io/socket.io.js"></script>

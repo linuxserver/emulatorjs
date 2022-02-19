@@ -27,6 +27,10 @@ socket.on('renderfiledirs', renderFileDirs);
 socket.on('renderprofiles', renderProfiles);
 // Render in rom data
 socket.on('romdata', renderRomData);
+// Render in custom metadata page
+socket.on('rendermeta', renderMetaPage);
+// Render meta JSON
+socket.on('rendermetajson', renderMetaJSON);
 
 //// Functions ////
 // Grab a json file from the server
@@ -35,6 +39,14 @@ function getConfig(file) {
   $('#main').append('<div class="loader"></div>');
   $('#main').data('name', file);
   socket.emit('getconfig', file);
+}
+
+// Grab a json file from the server
+function getMeta(file) {
+  $('#main').empty();
+  $('#main').append('<div class="loader"></div>');
+  $('#main').data('name', file);
+  socket.emit('getmeta', file);
 }
 
 // Get list of rom shas to process
@@ -48,6 +60,11 @@ function getRomShas(dir) {
 // Render configs page
 function renderConfigss() {
   socket.emit('renderconfigs');
+}
+
+// Render meta page
+function renderMeta() {
+  socket.emit('rendermeta');
 }
 
 // Render profiles page
@@ -144,6 +161,19 @@ function renderConfigs(files) {
   $('#main').append($('<h1>').addClass('readme').text('Open a config to edit (main for landing page)'));
 }
 
+// Render meta file list
+function renderMetaPage(files) {
+  $('#main').empty();
+  $('#main').append($('#metainfo').html());
+  $('#side').empty();
+  $('#nav-buttons').empty();
+  $.each(files, function(index, file) {
+    var file = file.replace('.json','');
+    var sideLink = $('<div>').addClass('sideitem hover').attr('onclick', "getMeta('" + file + "')").text(file);
+    $('#side').append(sideLink);
+  });
+}
+
 // Render Roms file list
 function renderRomsDir(dirs) {
   $('#side').empty();
@@ -211,6 +241,22 @@ async function renderConfig(config) {
     readOnly: false,
   });
   var json = JSON.stringify(config, null, 2);
+  editor.setValue(json, -1);
+}
+
+// Render in a config file
+async function renderMetaJSON(meta) {
+  // Main edit window
+  $('#main').empty();
+  $('#main').append($('<div>').attr('id', 'editor'));
+  editor = ace.edit('editor');
+  editor.setTheme('ace/theme/chrome');
+  editor.session.setMode('ace/mode/json');
+  editor.$blockScrolling = Infinity;
+  editor.setOptions({
+    readOnly: false,
+  });
+  var json = JSON.stringify(meta, null, 2);
   editor.setValue(json, -1);
 }
 
