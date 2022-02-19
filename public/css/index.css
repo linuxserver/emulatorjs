@@ -308,6 +308,7 @@ h3 {
 
 #rom-manage p {
   margin: 3px;
+  margin-left: 5px;
 }
 
 #manage-buttons {
@@ -316,15 +317,25 @@ h3 {
   height 30%;
   bottom: 0;
   left: 0;
+  justify-content: center;
+  display: flex;
 }
 
 .manage-button {
-  width: 16%;
-  border: 1px solid black;
-  height: 100%;
+  border: 2px solid #000;
+  background: transparent;
   cursor: pointer;
+  padding: 3%;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-left: 2px;
+  margin-right: 2px;
 }
 
 .manage-button:hover {
   background-color: #D3D3D3;
+}
+
+#vidPos {
+  width: 300px;
 }

@@ -3,6 +3,7 @@ set -e
 set -o pipefail
 rom_path=$1
 rom_type=$2
+full_scan=$3
 # Set user folder
 if [ -d '/data' ]; then
   user_folder='/data'
@@ -12,9 +13,14 @@ fi
 check_files=$(find "${user_folder}${rom_path}" -maxdepth 1 -not -type d -and -not -name '.*' -exec basename {} \; | sort)
 
 # Clear out old hashes
-if [ -d "${user_folder}/hashes/${rom_path}" ]; then
-  rm -Rf "${user_folder}/hashes/${rom_path}"
+if [ "${full_scan}" = "true" ]; then
+  if [ -d "${user_folder}/hashes/${rom_path}" ]; then
+    rm -Rf "${user_folder}/hashes/${rom_path}"
+  fi
 fi
+
+# Clean up for bad scans
+rm -Rf "${user_folder}/hashes/${rom_path}/tmp/"
 
 # Process zip file hashes
 process_zip () {
@@ -148,30 +154,32 @@ process_zip_by_name () {
 IFS=$'\n'
 mkdir -p "${user_folder}/hashes/${rom_path}"
 for file in $check_files; do
-  file_extension="${file##*.}"
-  if [ "${file_extension,,}" = 'multiwad' ]; then
-    process_zip_by_name
-  elif [ $rom_type == 'arcade' ] || [ $rom_type == 'segaSaturn' ] && [[ "${file_extension,,}" != @(img|cue|ccd|disk*|sub) ]]; then
-    process_name
-  elif [ "${file_extension,,}" = 'chd' ] && [ $rom_type == 'pce' ]; then
-    process_name 
-  elif [ "${file_extension,,}" = 'chd' ] || ([ $rom_type == 'psx' ] && [[ "${file_extension,,}" == "disk1" ]]); then
-    process_chd
-  elif [ "${file_extension,,}" = 'bin' ] && [ $rom_type != '3do' ]; then
-    process_bin
-  elif [[ "${file_extension,,}" = @(img|cue|ccd|disk*|sub) ]]; then
-    echo "Filetype ${file_extension} not supported"
-  elif [ $rom_type == 'nes' ]; then
-    file_type=$(file -b --mime-type "${user_folder}${rom_path}/${file}" | awk -F'/' '{print $2}')
-    process_nes
-  else
-    file_type=$(file -b --mime-type "${user_folder}${rom_path}/${file}" | awk -F'/' '{print $2}')
-    if [ $file_type == 'zip' ]; then
-      process_zip
-    elif [ $file_type == 'x-7z-compressed' ]; then
-      process_7z
+  if [ ! -f "${user_folder}/hashes/${rom_path}/${file}.sha1" ]; then
+    file_extension="${file##*.}"
+    if [ "${file_extension,,}" = 'multiwad' ]; then
+      process_zip_by_name
+    elif [ $rom_type == 'arcade' ] || [ $rom_type == 'segaSaturn' ] && [[ "${file_extension,,}" != @(img|cue|ccd|disk*|sub) ]]; then
+      process_name
+    elif [ "${file_extension,,}" = 'chd' ] && [ $rom_type == 'pce' ]; then
+      process_name 
+    elif [ "${file_extension,,}" = 'chd' ] || ([ $rom_type == 'psx' ] && [[ "${file_extension,,}" == "disk1" ]]); then
+      process_chd
+    elif [ "${file_extension,,}" = 'bin' ] && [ $rom_type != '3do' ]; then
+      process_bin
+    elif [[ "${file_extension,,}" = @(img|cue|ccd|disk*|sub) ]]; then
+      echo "Filetype ${file_extension} not supported"
+    elif [ $rom_type == 'nes' ]; then
+      file_type=$(file -b --mime-type "${user_folder}${rom_path}/${file}" | awk -F'/' '{print $2}')
+      process_nes
     else
-      just_hash
+      file_type=$(file -b --mime-type "${user_folder}${rom_path}/${file}" | awk -F'/' '{print $2}')
+      if [ $file_type == 'zip' ]; then
+        process_zip
+      elif [ $file_type == 'x-7z-compressed' ]; then
+        process_7z
+      else
+        just_hash
+      fi
     fi
   fi
 done

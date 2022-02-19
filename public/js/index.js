@@ -94,7 +94,13 @@ function renderRoms() {
 
 // Scan in a roms directory
 function scanRoms(folder) {
-  socket.emit('scanroms', folder);
+  socket.emit('scanroms', [folder, true]);
+  $('#modal').toggle(100);
+}
+
+// Scan in a roms directory
+function newScan(folder) {
+  socket.emit('scanroms', [folder, false]);
   $('#modal').toggle(100);
 }
 
@@ -215,22 +221,24 @@ async function renderRom(data) {
   $('#main').data('metadata', data[2]);
   $('#side').empty();
   // Render Legend
-  var container = $('<div>').addClass('wrapper');
+  let container = $('<div>').addClass('wrapper');
   $('#main').append(container);
-  var identified = $('<div>').attr('id','left').append('<h3>Identified Roms:</h3>');
-  var unidentified = $('<div>').attr('id','right').append('<h3>Unidentified Roms:</h3>');
+  let identified = $('<div>').attr('id','left').append('<h3>Identified Roms:</h3>');
+  let unidentified = $('<div>').attr('id','right').append('<h3>Unidentified Roms:</h3>');
   container.append(identified,unidentified);
   // Process buttons
-  var folderName = $('#main').data('name');
-  var downloadArtButton = $('<button>').addClass('button hover').attr('onclick', 'downloadArt(\'' + folderName + '\');').text('Download All Available Art');
+  let folderName = $('#main').data('name');
+  let downloadArtButton = $('<button>').addClass('button hover').attr('onclick', 'downloadArt(\'' + folderName + '\');').text('Download All Available Art');
   $('#side').append($('<p>').text('Step 1:'));
   $('#side').append(downloadArtButton);
-  var configButton = $('<button>').addClass('button hover').attr('onclick', 'addToConfig(\'' + folderName + '\');').text('Add All Roms to Config');
+  let configButton = $('<button>').addClass('button hover').attr('onclick', 'addToConfig(\'' + folderName + '\');').text('Add All Roms to Config');
   $('#side').append($('<p>').text('Step 2:'));
   $('#side').append(configButton);
   $('#side').append($('<p>').text('Optional:'));
-  var noArtButton = $('<button>').addClass('button hover').attr('onclick', 'purgeNoArt(\'' + folderName + '\');').text('Remove Roms with No Art');
+  let noArtButton = $('<button>').addClass('button hover').attr('onclick', 'purgeNoArt(\'' + folderName + '\');').text('Remove Roms with No Art');
   $('#side').append(noArtButton);
+  let newScanButton = $('<button>').addClass('button hover').attr('onclick', 'newScan(\'' + folderName + '\');').text('Scan for New Items');
+  $('#side').append(newScanButton);
   // Render items
   for await (var idItem of Object.keys(data[0])) {
     if (data[0][idItem].has_art == true) {
@@ -304,20 +312,22 @@ async function renderRomData(data) {
     vidInput.append(posInput,posButton);
     manage.append(vidInput);
   }
-  let buttonWrapper = $('<span>').attr('id', 'manage-buttons');
-  for await (let upload of metaVars) {
-    let uploadButton = $('<div>').addClass('manage-button').text('Upload ' + upload);
-    uploadButton.attr('onclick',"$('#" + upload + "').trigger('click')");
-    let uploadInput = $('<input>').addClass('hidden').attr({id: upload, type: 'file', onchange: 'upload(this)'}); 
-    buttonWrapper.append(uploadButton,uploadInput);
-  }
+  let buttonWrapper = $('<div>').attr('id', 'manage-buttons');
   if (data.metadata) {
-    let unIdentifyButton = $('<div>').addClass('manage-button').text('Un-Identify Rom');
-    buttonWrapper.append(unIdentifyButton.attr('onclick','unIdentify()'));
+    for await (let upload of metaVars) {
+      let uploadButton = $('<button>').addClass('manage-button').text('Upload ' + upload);
+      uploadButton.attr('onclick',"$('#" + upload + "').trigger('click')");
+      let uploadInput = $('<input>').addClass('hidden').attr({id: upload, type: 'file', onchange: 'upload(this)'});
+      buttonWrapper.append(uploadButton,uploadInput);
+    }
+    let unIdentifyButton = $('<button>').addClass('manage-button').text('Purge Art/Metadata');
+    buttonWrapper.append(unIdentifyButton.attr('onclick','unIdentify(false)'));
   } else {
-    let identifyButton = $('<div>').addClass('manage-button').text('Identify Rom');
+    let identifyButton = $('<button>').addClass('manage-button').text('Identify Rom');
     buttonWrapper.append(identifyButton.attr('onclick','identify()'));
   }
+  let deleteButton = $('<button>').addClass('manage-button').text('Delete Everything');
+  buttonWrapper.append(deleteButton.attr('onclick','unIdentify(true)'));
   manage.append(buttonWrapper);
   $('#modal-content').append(manage);
 }
@@ -361,13 +371,14 @@ async function identify() {
 }
 
 // Remove identified roms link if it exists
-function unIdentify() {
+function unIdentify(purge) {
   let hash = $('#modal').data('hash');
   let dir = $('#main').data('name');
+  let file = $('#modal').data('name');
   closeModal();
   $('#main').empty();
   $('#main').append('<div class="loader"></div>');
-  socket.emit('removemeta', [hash, dir]); 
+  socket.emit('removemeta', [hash, dir, file, purge]); 
 }
 
 // Set custom metadata for a rom
@@ -415,24 +426,6 @@ function updateVidPos() {
   emptyModal();
   $('#modal-content').append('<div class="loader"></div>');
   socket.emit('updatevidposition', [dir, file, hash, position]);
-}
-
-// Render confirm delete rom
-function deleteRom(name) {
-  $('#modal').modal();
-  $('#modal').empty();
-  var dir = $('#main').data('name');
-  var realName = name.replace("|","'");
-  $('#modal').data('delete', [name, dir]);
-  var message = $('<p>').text('Really delete ' + realName + ' ?');
-  var deletebutton = $('<button>').attr('onclick', 'deleteRomReal()').addClass('button hover').text('delete');
-  $('#modal').append(message, deletebutton);
-}
-
-// Delete rom
-function deleteRomReal(data) {
-  socket.emit('deleterom', $('#modal').data('delete'));
-  $('#modal').toggle(100);
 }
 
 // Render in landing

@@ -257,9 +257,11 @@ io.on('connection', async function (socket) {
     renderRoms();
   };
   // Scan roms directory using helper script
-  function scanRoms(folder) {
+  function scanRoms(data) {
+    let folder = data[0];
+    let fullScan = data[1];
     socket.emit('emptymodal');
-    var scanProcess = spawn('./has_files.sh', ['/' + folder + '/roms/', folder]);
+    let scanProcess = spawn('./has_files.sh', ['/' + folder + '/roms/', folder, fullScan]);
     scanProcess.stdout.setEncoding('utf8');
     scanProcess.stderr.setEncoding('utf8');
     scanProcess.stdout.on('data', function(data) {
@@ -270,7 +272,11 @@ io.on('connection', async function (socket) {
     });
     scanProcess.on('close', function(code) {
       socket.emit('modaldata', 'Scan exited with code: ' + code);
-      renderRoms();
+      if (fullScan) {
+        renderRoms();
+      } else {
+        getRoms(folder);
+      }
     });
   };
   // Add roms to config file
@@ -441,6 +447,10 @@ io.on('connection', async function (socket) {
     await fsw.mkdir(dataRoot + 'metadata', { recursive: true })
     let romSha = data[0];
     let dir = data[1];
+    let file = data[2];
+    let purge = data[3];
+    let fileExtension = path.extname(file);
+    let name = path.basename(file, fileExtension);
     if (fs.existsSync(dataRoot + 'metadata/' + dir + '.json')) {
       var metaData = await fsw.readFile(dataRoot + 'metadata/' + dir + '.json', 'utf8');
       var metaData = JSON.parse(metaData);
@@ -452,6 +462,28 @@ io.on('connection', async function (socket) {
       userMetadataFile = JSON.stringify(metaData, null, 2);
       await fsw.writeFile(dataRoot + 'metadata/' + dir + '.json', userMetadataFile);
     }
+    // Delete any downloaded or uploaded art
+    for await (let variable of metaVariables) {
+      let artFile = dataRoot + dir + '/' + variable[1] + '/' + name + variable[2];
+      if (fs.existsSync(artFile)) {
+        fs.unlinkSync(artFile); 
+      }
+    };
+    let vidPosFile = dataRoot + dir + '/videos/' + name + '.position';
+    if (fs.existsSync(vidPosFile)) {
+      fs.unlinkSync(vidPosFile);
+    }
+    // Delete rom and sha if requested
+    if (purge) {
+      let romFile = dataRoot + dir + '/roms/' + file;
+      let shaFile = dataRoot + 'hashes/' + dir + '/roms/' + file + '.sha1';
+      for await (var delFile of [romFile, shaFile]) {
+        if (fs.existsSync(delFile)) {
+          fs.unlinkSync(delFile);
+        }
+      }
+    }
+    // Tell client to render
     getRoms(dir);
   };
 
@@ -479,31 +511,6 @@ io.on('connection', async function (socket) {
     socket.emit('renderfiledirs', dirs);
   };
 
-  // Delete rom
-  async function deleteRom(data) {
-    var fileName = data[0].replace("|","'");
-    var dir = data[1];
-    var fileExtension = path.extname(fileName);
-    var name = path.basename(fileName, fileExtension);
-    let metaVars = [];
-    metaVars.push(...metaVariables);
-    metaVars.push(['video_position', 'videos', '.position']);
-    for await (var variable of metaVars) {
-      var file = dataRoot + dir + '/' + variable[1] + '/' + name + variable[2];
-      if (fs.existsSync(file)) {
-        fs.unlinkSync(file);
-      };
-    };
-    var romFile = dataRoot + dir + '/roms/' + fileName;
-    var shaFile = dataRoot + 'hashes/' + dir + '/roms/' + fileName + '.sha1';
-    for await (var file of [romFile, shaFile]) {
-      if (fs.existsSync(file)) {
-        fs.unlinkSync(file);
-      };
-    };
-    getRoms(dir);
-  };
-  
   // Send profile data to client
   async function renderProfiles() {
     let profilesData = await fsw.readFile(home + '/profile/profile.json', 'utf8');
@@ -715,7 +722,6 @@ io.on('connection', async function (socket) {
   socket.on('downloadart', downloadArt);
   socket.on('usermeta', userMeta);
   socket.on('renderfiles', renderFiles);
-  socket.on('deleterom', deleteRom);
   socket.on('renderprofiles', renderProfiles);
   socket.on('createprofile', createProfile);
   socket.on('deleteprofile', deleteProfile);
