@@ -152,6 +152,12 @@ function emptyModal() {
   $('#modal-content').empty();
 }
 
+// Close modal
+function closeModal() {
+  emptyModal();
+  $('#modal').toggle(100)
+}
+
 // Render config file list
 function renderConfigs(files) {
   $('#main').empty();
@@ -267,19 +273,20 @@ async function renderRom(data) {
     } else if (data[0][idItem].has_art == 'none') {
       var color = 'gray';
     };
-    var item = $('<div>').addClass('itemwrapper').css('background-color', color).html($('<p>').addClass('item').text(idItem)).attr('onclick', 'idRomMenu(\'' + idItem.replace("'","|") + '\')');
+    var item = $('<div>').addClass('itemwrapper').css('background-color', color).html($('<p>').addClass('item').text(idItem)).attr('onclick', 'romMenu(\'' + idItem.replace("'","|") + '\')');
     identified.append(item)
   };
   for await (var noIdItem of Object.keys(data[1])) {
-    var item = $('<div>').addClass('itemwrapper').css('background-color', 'gray').html($('<p>').addClass('item').text(noIdItem)).attr('onclick', 'noIdRomMenu(\'' + noIdItem.replace("'","|") + '\')');
+    var item = $('<div>').addClass('itemwrapper').css('background-color', 'gray').html($('<p>').addClass('item').text(noIdItem)).attr('onclick', 'romMenu(\'' + noIdItem.replace("'","|") + '\')');
     unidentified.append(item)
   };
 }
 
-// Render Identified rom menu
-function idRomMenu(cleanName) {
+// Render rom menu modal
+function romMenu(cleanName) {
   let dir = $('#main').data('name');
   name = cleanName.replace("|","'");
+  $('#modal').data('name', name);
   emptyModal();
   $('#modal-content').append('<div class="loader"></div>');
   $('#modal').toggle(100);
@@ -288,19 +295,94 @@ function idRomMenu(cleanName) {
 
 // Render rom data we get
 async function renderRomData(data) {
+  $('#modal').data('hash', data.hash);
+  let metaVars = ['back','corner','logo','vid'];
+  let dir = $('#main').data('name');
+  let basePath = 'frontend/user/';
   emptyModal();
   previewFrame = $('<iframe>').attr({src: 'frontend/index.html#preview', id: 'preview-iframe'});
   $('#modal-content').append(previewFrame);
-  console.log(data);
+  let manage = $('<div>').attr('id', 'rom-manage');
+  let fileLink = $('<a>').attr('href', basePath + dir + '/roms/' + data.file).text(data.file);
+  let fileName = $('<p>').text('Rom File: ').append(fileLink);
+  manage.append(fileName);
+  if (data.metadata.hasOwnProperty('name')) {
+    let name = $('<p>').text('Meta Name: ' + data.metadata.name);
+    manage.append(name);
+  } else {
+    let name = $('<p>').text('Meta Name: Unidentified or NA');
+    manage.append(name);
+  }
+  let hash = $('<p>').text('Scanned Hash: ' + data.hash);
+  manage.append(hash);
+  for await (let asset of metaVars) {
+    if (data[asset]) {
+      let link = $('<a>').attr('href', basePath + data[asset]).text(data[asset]);
+      let text = $('<p>').text(asset + ': ').append(link);
+      manage.append(text);
+    } else {
+      let text = $('<p>').text(asset + ': Default or not found');
+      manage.append(text);
+    }
+  }
+  if (data.metadata.hasOwnProperty('video_position')) {
+    var vidPos = data.metadata.video_position;
+  } else {
+    var vidPos = '';
+  }
+  let vidInput = $('<p>').text('Video Position: ');
+  let posInput = $('<input>').attr({id: 'vidPos', type: 'text', value: vidPos});
+  let posButton = $('<button>').text('Update').attr('onclick', 'updateVidPos()');
+  vidInput.append(posInput,posButton);
+  manage.append(vidInput);
+  let buttonWrapper = $('<span>').attr('id', 'manage-buttons');
+  for await (let upload of metaVars) {
+    let uploadButton = $('<div>').addClass('manage-button').text('Upload ' + upload);
+    uploadButton.attr('onclick',"$('#" + upload + "').trigger('click')");
+    let uploadInput = $('<input>').addClass('hidden').attr({id: upload, type: 'file', onchange: 'upload(this)'}); 
+    buttonWrapper.append(uploadButton,uploadInput);
+  }
+  let identifyButton = $('<div>').addClass('manage-button').text('Identify Rom');
+  let unIdentifyButton = $('<div>').addClass('manage-button').text('Un-Identify Rom');
+  buttonWrapper.append(identifyButton, unIdentifyButton);
+  manage.append(buttonWrapper);
+  $('#modal-content').append(manage);
 }
 
-// Render Unidentified rom menu
-function noIdRomMenu(cleanName) {
-  name = cleanName.replace("|","'");
+// Handle art uploads
+async function upload(input) {
+  let fileType = $(input).attr('id');
+  let dir = $('#main').data('name');
+  let file = $('#modal').data('name');
+  let hash = $('#modal').data('hash');
+  if (input.files && input.files[0]) {
+    emptyModal();
+    $('#modal-content').append('<div class="loader"></div>');
+    let reader = new FileReader();
+    reader.onload = async function(e) {
+      if (e.total < 100000000) {
+        let data = e.target.result;
+        socket.emit('uploadart', [fileType, dir, file, hash, data]);
+      } else {
+        emptyModal();
+        $('#modal-content').append($('<h2>').text('File too big'));
+        await new Promise(resolve => setTimeout(resolve, 2000));
+        socket.emit('getromdata', [dir, name]);
+      }
+    }
+    reader.readAsArrayBuffer(input.files[0]);
+  }
+}
+
+// Handle request to change video position
+function updateVidPos() {
+  let dir = $('#main').data('name');
+  let file = $('#modal').data('name');
+  let hash = $('#modal').data('hash');
+  let position = $('#vidPos').val();
   emptyModal();
   $('#modal-content').append('<div class="loader"></div>');
-  $('#modal').toggle(100);
-  console.log(name);
+  socket.emit('updatevidposition', [dir, file, hash, position]);
 }
 
 // Render confirm delete rom

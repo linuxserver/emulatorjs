@@ -6,6 +6,7 @@
   "author": "thelamer",
   "dependencies": {
     "cloudcmd": "^15.9.14",
+    "deepmerge": "^4.2.2",
     "express": "^4.17.2",
     "ipfs-http-client": "51.0.0",
     "jszip": "^3.7.1",
