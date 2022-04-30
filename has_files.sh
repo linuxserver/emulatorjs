@@ -29,7 +29,8 @@ process_zip () {
   unzip -q "${user_folder}${rom_path}/${file}" -d "${user_folder}/hashes/${rom_path}/tmp"
   rm "${user_folder}/hashes/${rom_path}/tmp/"*.{txt,nfo,xml,readme,README} &> /dev/null || :
   echo "hashing ${file}"
-  sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/"* | awk '{print $1;exit}')
+  firstfile=( "${user_folder}/hashes/${rom_path}/tmp/"* )
+  sum=$(sha1sum "$firstfile" | awk '{print $1;exit}')
   rm -R "${user_folder}/hashes/${rom_path}/tmp/"
   printf ${sum^^} > "${user_folder}/hashes/${rom_path}/${file}.sha1"
 }
@@ -41,7 +42,8 @@ process_7z () {
   7z x "${user_folder}${rom_path}/${file}" -o"${user_folder}/hashes/${rom_path}/tmp"
   rm "${user_folder}/hashes/${rom_path}/tmp/"*.{txt,nfo,xml,readme,README} &> /dev/null || :
   echo "hashing ${file}"
-  sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/"* | awk '{print $1;exit}')
+  firstfile=( "${user_folder}/hashes/${rom_path}/tmp/"* )
+  sum=$(sha1sum "$firstfile" | awk '{print $1;exit}')
   rm -R "${user_folder}/hashes/${rom_path}/tmp/"
   printf ${sum^^} > "${user_folder}/hashes/${rom_path}/${file}.sha1"
 }
