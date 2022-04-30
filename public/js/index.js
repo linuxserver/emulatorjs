@@ -390,18 +390,16 @@ async function identify() {
       options.push({'sha': sha, 'name': metaData[sha].name});
     }
   };
-  var sorted = options.sort(function(a, b){
-    const name1 = a.name.toUpperCase();
-    const name2 = b.name.toUpperCase();
-    let comparison = 0;
-    if (name1 > name2) {
-        comparison = 1;
-    } else if (name1 < name2) {
-        comparison = -1;
-    }
-    return comparison;
-  })
+
   var sel = $('<select>').attr('id', 'gameselection');
+
+  // Bump an exact match on the filename to the top of the list
+  var mostLikely = options.filter(opt => file.startsWith(opt.name))
+  for await (var option of mostLikely) {
+    sel.append($("<option>").attr('value',option.sha).text(option.name));
+  }
+
+  var sorted = options.sort((a,b) => (a.name > b.name) ? 1 : -1)
   for await (var option of sorted) {
     sel.append($("<option>").attr('value',option.sha).text(option.name));
   };
