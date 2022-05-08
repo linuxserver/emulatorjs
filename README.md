@@ -8,7 +8,7 @@ This idea was born from a single need, I wanted to run retro games on my Xbox wh
 
 ## For Users
 
-We reccomend using the docker container located [here](https://github.com/linuxserver/docker-emulatorjs). This will spin up: 
+We recommend using the docker container located [here](https://github.com/linuxserver/docker-emulatorjs). This will spin up: 
 
 * The nodejs backend used for managing your configuration files and rom art assets.
 * An NGINX webserver to serve the static frontend files.
