@@ -41,7 +41,7 @@ process_7z () {
   echo "unzipping ${file}"
   7z e "${user_folder}${rom_path}/${file}" -o"${user_folder}/hashes/${rom_path}/tmp"
   rm "${user_folder}/hashes/${rom_path}/tmp/"*.{txt,nfo,xml,readme,README} &> /dev/null || :
-  find . -empty -type d -delete
+  find "${user_folder}/hashes/${rom_path}/tmp/" -empty -type d -delete
   echo "hashing ${file}"
   firstfile=( "${user_folder}/hashes/${rom_path}/tmp/"* )
   sum=$(sha1sum "$firstfile" | awk '{print $1;exit}')
