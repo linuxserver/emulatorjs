@@ -39,8 +39,9 @@ process_zip () {
 process_7z () {
   mkdir -p "${user_folder}/hashes/${rom_path}/tmp"
   echo "unzipping ${file}"
-  7z x "${user_folder}${rom_path}/${file}" -o"${user_folder}/hashes/${rom_path}/tmp"
+  7z e "${user_folder}${rom_path}/${file}" -o"${user_folder}/hashes/${rom_path}/tmp"
   rm "${user_folder}/hashes/${rom_path}/tmp/"*.{txt,nfo,xml,readme,README} &> /dev/null || :
+  find . -empty -type d -delete
   echo "hashing ${file}"
   firstfile=( "${user_folder}/hashes/${rom_path}/tmp/"* )
   sum=$(sha1sum "$firstfile" | awk '{print $1;exit}')
