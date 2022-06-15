@@ -1,6 +1,6 @@
 # EmulatorJS helper
 
-The purpose of this application is to provide a self hosted solution for people looking to run Retro games in their web browsers. It consists of a backend application for scanning roms and ingesting art assets with a static frontend application for serving those files via any basic webserver. The backend appplication is more or less a run once deal, when you have finalized the menus how you like them the resulting static files of the frontend no longer require the backend helper.
+The purpose of this application is to provide a self hosted solution for people looking to run Retro games in their web browsers. It consists of a backend application for scanning roms and ingesting art assets with a static frontend application for serving those files via any basic webserver. The backend application is more or less a run once deal, when you have finalized the menus how you like them the resulting static files of the frontend no longer require the backend helper.
 
 This idea was born from a single need, I wanted to run retro games on my Xbox which now includes a modern chromium based web browser with Microsoft Edge. Web based emulators are popular online but always ingesting roms from external sources is a pain not to mention prone to being taken down at any time, also their interfaces are never designed around basic controller input making navigation difficult with something like an Xbox controller.
 
@@ -147,4 +147,4 @@ The application can be accesed at:
 * Backend - http://localhost:3000
 * Frontend - http://localhost:3000/frontend/index.html
 
-The application is written in jqueary and scanning is backed by a simple bash helper. The idea is to keep it as simple as possible, people will not be spending hours in the backend interface. The frontend is all designed around converting json configs, images, videos, and roms into a useable web based emulator. 
+The application is written in jQuery and scanning is backed by a simple bash helper. The idea is to keep it as simple as possible, people will not be spending hours in the backend interface. The frontend is all designed around converting json configs, images, videos, and roms into a useable web based emulator. 
