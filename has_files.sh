@@ -26,7 +26,7 @@ rm -Rf "${user_folder}/hashes/${rom_path}/tmp/"
 process_zip () {
   mkdir -p "${user_folder}/hashes/${rom_path}/tmp"
   echo "unzipping ${file}"
-  unzip -q "${user_folder}${rom_path}/${file}" -d "${user_folder}/hashes/${rom_path}/tmp"
+  unzip -j -q "${user_folder}${rom_path}/${file}" -d "${user_folder}/hashes/${rom_path}/tmp"
   rm "${user_folder}/hashes/${rom_path}/tmp/"*.{txt,nfo,xml,readme,README} &> /dev/null || :
   echo "hashing ${file}"
   firstfile=( "${user_folder}/hashes/${rom_path}/tmp/"* )
@@ -62,7 +62,7 @@ process_nes () {
   if [ $file_type == 'zip' ]; then
     mkdir -p "${user_folder}/hashes/${rom_path}/tmp"
     echo "unzipping ${file}"
-    unzip -q "${user_folder}${rom_path}/${file}" -d "${user_folder}/hashes/${rom_path}/tmp"
+    unzip -j -q "${user_folder}${rom_path}/${file}" -d "${user_folder}/hashes/${rom_path}/tmp"
     rm "${user_folder}/hashes/${rom_path}/tmp/"*.{txt,nfo,xml,readme,README} &> /dev/null || :
     file_to_sha="${user_folder}/hashes/${rom_path}/tmp/"*
   elif [ $file_type == 'x-7z-compressed' ]; then
@@ -147,7 +147,7 @@ process_bin () {
 process_zip_by_name () {
   mkdir -p "${user_folder}/hashes/${rom_path}/tmp"
   echo "unzipping ${file}"
-  unzip -q "${user_folder}${rom_path}/${file}" -d "${user_folder}/hashes/${rom_path}/tmp"
+  unzip -j -q "${user_folder}${rom_path}/${file}" -d "${user_folder}/hashes/${rom_path}/tmp"
   echo "hashing ${file}"
   sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/${file%.*}."* | awk '{print $1;exit}')
   rm -R "${user_folder}/hashes/${rom_path}/tmp/"
