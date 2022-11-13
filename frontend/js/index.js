@@ -632,18 +632,6 @@ function fullscreen() {
   }
 }
 
-// Open the login modal
-function openModal() {
-  let modal = document.getElementById('loginmodal');
-  modal.classList.add('show');
-}
-
-// Close the login modal
-function closeModal() {
-  let modal = document.getElementById('loginmodal');
-  modal.classList.remove('show');
-}
-
 // Load the json profile selected
 async function loadjson(name, active_item) {
   if (name == 'preview') {
