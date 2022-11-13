@@ -10,6 +10,22 @@
     "express": "^4.17.2",
     "ipfs-http-client": "51.0.0",
     "jszip": "^3.7.1",
-    "socket.io": "^4.4.1"
-  }
+    "socket.io": "^4.5.3"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxserver/emulatorjs.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linuxserver/emulatorjs/issues"
+  },
+  "homepage": "https://github.com/linuxserver/emulatorjs#readme"
 }
