@@ -1,9 +1,0 @@
-{
-    "comments": {
-        "//This .markdownlint.json file is used to adjust the settings for the tool markdownlint.":"https://github.com/DavidAnson/vscode-markdownlint#configure",
-        "//MD013": "line-length",
-        "//MD034": "no-bare-urls"
-    },
-    "MD013": false,
-    "MD034": false
-}
