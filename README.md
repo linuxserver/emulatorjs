@@ -328,10 +328,10 @@ Requirements:
 ```sh
 curl -fsSL https://deb.nodesource.com/setup_19.x | sudo -E bash - &&\
 sudo apt-get install -y nodejs &&\
-npm install -g socket.io
+npm install socket.io
 ```
 
-For linux builders, run "`./setup_dev.sh`" to download cores and setup folders, then use node or nodemon to start the application with "`nodemon index.js`".
+For linux builders, run "`./setup_dev.sh`" to download cores and setup folders, then use node or nodemon (npm) to start the application with "`nodemon index.js`".
 * Note: If the "`setup_dev.sh`" file doesn't seem to work, it could be because of some windows/linux confusion regarding line endings. Open it with vim and use `:set ff=unix` to set the file format back to unix, and then `:wq` to save and exit the file.
 
 Alternatively, run:
@@ -351,9 +351,8 @@ Restart your computer and then just run this to launch ubuntu insde PowerShell:
 ```sh
 wsl
 ```
-Note: Your Windows user home directory (ex: C:\Users\[your-home-directory]) will be mounted into the container at `/mnt/c/Users/[your-home-directory]` so it's suggested to have your github projects there and accessible to both operating systems.
-
-If this is your first time starting WSL, you will need to run the next few lines to update the repositories, upgrade exsisitng software to their latest version then install npm. After this is completed, you will then need to install NodeJS as mentioned [above](#building):
+Note: its home directory will be linked to your Windows user home directory (ex: C:\Users\[your-home-directory]) so it's suggested to have your github projects there and accessible to both operating systems.
+If this is your first run with WSL, you will need to run the next few lines then install NodeJS as mentioned above:
 ```sh
 sudo apt update
 sudo apt upgrade
