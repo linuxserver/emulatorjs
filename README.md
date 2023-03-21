@@ -19,7 +19,7 @@ All navigation should be compatible with the up/down/left/right arrow keys on a 
 
 ## For asset creators
 
-The frontend is relatively simple it displays a psuedo wheel (popular with emulation frontends like Hyperspin and Coinops) layering pngs and videos on top of that based on the currently selected menu item. The layout of these items can be seen below:
+The frontend is relatively simple it displays a pseudo wheel (popular with emulation frontends like Hyperspin and Coinops) layering pngs and videos on top of that based on the currently selected menu item. The layout of these items can be seen below:
 
 ![layout](https://github.com/linuxserver/emulatorjs/raw/master/docs/layout.png)
 
