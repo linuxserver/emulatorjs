@@ -175,7 +175,7 @@ function launch(active_item) {
       EJS_biosUrl = bios;
     }
     EJS_player = '#game';
-    EJS_gameUrl = rom_path + name + rom_extension;
+    EJS_gameUrl = encodeURI(rom_path + name + rom_extension);
     EJS_core = emulator;
     EJS_pathtodata = 'data/';
     // Load touch screen interface
