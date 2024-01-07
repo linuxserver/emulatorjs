@@ -7,7 +7,6 @@
     <script type="text/javascript" src="js/vendor/jquery.modal.min.js"></script>
     <script type="text/javascript" src="js/vendor/browserfs.min.js"></script>
     <script type="text/javascript" src="js/vendor/jszip.min.js"></script>
-    <script type="text/javascript" src="js/vendor/ipfs-http-client.min.js"></script>
     <script type="text/javascript" src="js/filebrowser.js"></script>
   </head>
   <body>
@@ -49,7 +48,6 @@
     <button onclick="createFolder()">Create Folder</button>
     <button onclick="$('#uploadInput').trigger( 'click' )">Upload Files</button>
     <input class="hidden" id="uploadInput" type='file' onchange="upload(this);" multiple>
-    <button class="right" onclick="uploadToIpfs()">Backup to IPFS</button>
     <button class="right" onclick="downloadBackup()">DL Full Backup</button>
     <button class="right" onclick="$('#uploadBackup').trigger( 'click' )">Upload Full Backup</button>
     <input class="hidden" id="uploadBackup" type='file' onchange="uploadBackup(this);" />

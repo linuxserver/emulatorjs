@@ -347,42 +347,6 @@ async function uploadBackup(input) {
   }
 }
 
-// Upload backup to ipfs
-async function uploadToIpfs() {
-  $('#filebrowser').empty();
-  $('#filebrowser').append($('<div>').attr('id','loading'));
-  let ipfs = await window.IpfsHttpClient.create({ host: 'ipfs.infura.io', port: '5001', protocol: 'https' });
-  let zip = new JSZip();
-  let items = await fs.readdirSync('/');
-  async function addToZip(item) {
-    if (fs.lstatSync(item).isDirectory()) {
-      let items = await fs.readdirSync(item);
-      if (items.length > 0) {
-        for await (let subPath of items) {
-          await addToZip(item + '/' + subPath);
-        }
-      }
-    } else {
-      let data = fs.readFileSync(item);
-      let zipPath = item.replace(/^\//,'');
-      zip.file(zipPath, data);
-    }
-    return ''
-  }
-  for await (let item of items) {
-    await addToZip(item);
-  }
-  zip.generateAsync({type:"ArrayBuffer"}).then(async function callback(buffer) {
-    let ipfsreturn = await ipfs.add(buffer);
-    let cid = ipfsreturn.path;
-    let link = 'https://ipfs.infura.io/ipfs/' + cid + '?filename=' + storeName + '.zip';
-    $('#popupContents').empty();
-    $('#popupContents').append($('<a>').attr({href: link,target: '_blank'}).text(cid));
-    $('#popup').modal();
-    renderFiles('/');
-  });
-}
-
 // Render profile
 async function loadProfile() {
   let res = await fetch(endPoint);
