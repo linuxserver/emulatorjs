@@ -11996,11 +11996,12 @@
   },
   "E2DD2F062D3B41F7550FDBC5F7E2B7D0C8AC684C": {
     "name": "Super Bomberman 5 (Japan)",
-    "logo": "QmdW2t4Tg2d9tbSq7DJBxh6kiDJ6jL7w26qpQQJ5QZfENX"
+    "logo": "QmdW2t4Tg2d9tbSq7DJBxh6kiDJ6jL7w26qpQQJ5QZfENX",
+    "vid": "QmNwJayJiFpW5qnnNjF4nT3ozyTmNhKco3Jswng7uJoYLM"
   },
   "B10B1C1C6C5A5A6512FEC91032A17498149CE40A": {
     "name": "Super Bomberman 5 (Japan) (Caravan Event Ban)",
-    "logo": "QmdW2t4Tg2d9tbSq7DJBxh6kiDJ6jL7w26qpQQJ5QZfENX"
+    "ref": "E2DD2F062D3B41F7550FDBC5F7E2B7D0C8AC684C"
   },
   "15DFDD61CB12F636EAE9FBBF4102B734B6ED58BB": {
     "name": "Super Bombliss (Japan) (En)",
