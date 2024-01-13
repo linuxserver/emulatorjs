@@ -192,8 +192,7 @@ function launch(active_item) {
           gamePadType = 'simple';
         } else if ((emulator == 'prboom') || (emulator == 'mednafen_psx') || (emulator == 'tyrquake') || (emulator == 'melonds') || (emulator == 'melonds_threaded')) {
           gamePadType = 'modern';
-	}
-        } else if (emulator == 'mupen64plus_next') {
+	} else if (emulator == 'mupen64plus_next') {
           gamePadType = 'n64';
         }
       }
