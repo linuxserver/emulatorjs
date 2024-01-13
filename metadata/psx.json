@@ -508,7 +508,9 @@
     "name": "Crash Bandicoot 3 - Warped (Europe) (En,Fr,De,Es,It)"
   },
   "0BAB23C0D3559CFB764326C2F4AF8FC88E830BC1": {
-    "name": "Constructor (Europe) (En,Fr,De,Es)"
+    "name": "Constructor (Europe) (En,Fr,De,Es)",
+    "vid": "QmapyHJMbSfkt9pgSkaaCdNA58AZshvEEcA2DomAx3dXQr",
+    "logo": "QmciJGACB9HqzBHQfJav3Vsc2fU68mX3pcGQc5KZXshSNv"
   },
   "41D79824BCDE304E2DB18077E547630269A5D808": {
     "name": "Koudelka (USA) (Disc 1)",
@@ -1973,10 +1975,13 @@
     "ref": "67D9FB2AB81A54C1129A5A42EC0991C756A2F125"
   },
   "270C9D9977A859E0F59E82CF9F3ACD9DE457F453": {
-    "name": "Alone in the Dark - The New Nightmare (Europe) (Disc 1)"
+    "name": "Alone in the Dark - The New Nightmare (Europe) (Disc 1)",
+    "vid": "QmZvK6Kx6E3GsC9BzSrCWP3aKztuUgy1uA5gkMa98fVk23",
+    "logo": "QmUpWAmHpCdQLgnmgjtEiZ5GuVshAYzxTeqEhYtAQWm8hu"
   },
   "AB2CADFB095EE5980D99740CA584487E469668BA": {
-    "name": "Alone in the Dark - The New Nightmare (Europe) (Disc 2)"
+    "name": "Alone in the Dark - The New Nightmare (Europe) (Disc 2)",
+    "ref": "270C9D9977A859E0F59E82CF9F3ACD9DE457F453"
   },
   "EBD89FCEEFF4FE7EDBE64BA83E22E1AA981DE8CC": {
     "name": "Die Hard Trilogy (Europe) (En,Fr,De,Es,It,Sv)",
@@ -2548,7 +2553,8 @@
   },
   "FD61BD5BC9D3EAE20BBB26020CF7E6A54C015D8D": {
     "name": "Mega Man X3 (Europe)",
-    "logo": "QmUh8QAcfPfcfxYr8SupshEkrQdvz6oWyw4ccBfaqffVAH"
+    "logo": "QmUh8QAcfPfcfxYr8SupshEkrQdvz6oWyw4ccBfaqffVAH",
+    "vid": "QmRMH1FcZs3YQVUzz9c9ahSCsLLrrxpZx1vyfBYgwJQsyd"
   },
   "53DF02C377B1A9D6FF9A260B2413C9E2843BA6C1": {
     "name": "Ciudad de los Ninos Perdidos, La (Spain)"
@@ -4069,7 +4075,8 @@
   },
   "94D5CDC90172BA0F5294B480D200E975EA2AD256": {
     "name": "Twisted Metal (USA)",
-    "logo": "QmTahHxZ8JM7reaK2kouAf4rAetCkdGsnRK8cPPkSej5wS"
+    "logo": "QmTahHxZ8JM7reaK2kouAf4rAetCkdGsnRK8cPPkSej5wS",
+    "vid": "QmWynwyDsmdogDUUAtUSE1mt2j6B2tiM7T9SuKPndWEssX"
   },
   "1548537C91722628414DC5ED49E7EE28C379BCED": {
     "name": "Oddworld - Abe's Oddysee (USA)",
@@ -5366,7 +5373,8 @@
   },
   "D928E147CA1EF265929E1C51D8F8AE39DE2A24F9": {
     "name": "Alone in the Dark - One-Eyed Jack's Revenge (USA)",
-    "logo": "QmUGW8m5aqCFknNqfJUewKnCZNxfXRggeofa7u7sQPHgBY"
+    "logo": "QmUGW8m5aqCFknNqfJUewKnCZNxfXRggeofa7u7sQPHgBY",
+    "vid": "QmNke9Nzg6g52z8LdzyDC2iFh94hwQn2HPMuqHv2Z1hHCt"
   },
   "97CA45812FE71259E6C8C04B4A21E6EF9D8EF53F": {
     "name": "Italian Job, The (USA)",
@@ -9627,7 +9635,8 @@
   },
   "4B6236BEF86D236E3654E7D875643C2ED04C1845": {
     "name": "Twisted Metal III (USA)",
-    "logo": "QmawFgfKbAFGpUzSST38RsZu6fotbuDVugpULnXRnFswg4"
+    "logo": "QmawFgfKbAFGpUzSST38RsZu6fotbuDVugpULnXRnFswg4",
+    "vid": "QmVpP5WE2Nu9qLBPcRKMkJ841MmjNEDiuBSZHsaCiQUxED"
   },
   "AF9EDB15F1B4E8C6BBF8F273CEB5EC306AC539FB": {
     "name": "Fox Hunt (USA) (Disc 1)",
@@ -12023,7 +12032,8 @@
   },
   "3CF95144BA09DC8CDB039835C679DA6DDB31283D": {
     "name": "Final Doom (USA)",
-    "logo": "QmSMFX8HRvSKesGh2BHy2yqGjtzYD8hbXUDU9DBizziARh"
+    "logo": "QmSMFX8HRvSKesGh2BHy2yqGjtzYD8hbXUDU9DBizziARh",
+    "vid": "QmQ2Y5nFzcBXCUKi3rhk7aH2q2wBy9P5MyTprvsSngSc6W"
   },
   "43CAAB2903B87D810EE1201D064BBF8324DC9762": {
     "name": "Simple 1500 Series Vol. 17 - The Bike Race (Japan) (Culture Publishers)"
@@ -12270,7 +12280,8 @@
   },
   "A1162DFEB2B25E5ED29A77242D394DD66D8CA321": {
     "name": "Need for Speed II (USA)",
-    "logo": "QmPz9vKuPwtLbFfirMJs5TsdQmezDBv9EV2DdJeYZKWrgY"
+    "logo": "QmPz9vKuPwtLbFfirMJs5TsdQmezDBv9EV2DdJeYZKWrgY",
+    "vid": "Qmf4MnR2qq3PXTA9JDSdG491ibTgYibXoaYG98DWaDWqLu"
   },
   "6CCCE66CF0F1CBA2FC3F87CCF70FCCF3CB8AA10F": {
     "name": "Sangoku Musou (Japan) (Rev 1)"
@@ -15052,7 +15063,9 @@
     "logo": "QmdnE5PsqDHGYUYFepJfMue3V7F5T72NHoziSDo37TY7iW"
   },
   "514942662AEE83D8332C7E2A312AAA7B48690743": {
-    "name": "Road &amp; Track Presents - The Need for Speed (USA)"
+    "name": "Road &amp; Track Presents - The Need for Speed (USA)",
+    "vid": "QmRSotMoNVDRiL4uupbPWnjAp1h4qU4itJresxvxDk33NN",
+    "logo": "QmVQzCJqnhTG17HXX2siiHEKuE9sBWFCPCxUg7Fs9TJWQU"
   },
   "131463C47379B9A38888F548A44F43DCC6E7F959": {
     "name": "Destruction Derby Raw (USA)",
@@ -17163,7 +17176,8 @@
   },
   "4512188B425CD7A0C9E1653D466B906275894CDA": {
     "name": "Cool Boarders (USA)",
-    "logo": "QmNwSM9xC4CLKycK1aPyAZcoWDBcRFiHdegmGW2GMNWofW"
+    "logo": "QmNwSM9xC4CLKycK1aPyAZcoWDBcRFiHdegmGW2GMNWofW",
+    "vid": "QmbL1FK3RUBhckorp4b4toQmr4X4prTzhu8wwdu5Wd7XfW"
   },
   "B92B5AFCBB4BD7FC1B79DC7A05E05033680D5334": {
     "name": "Bugriders - The Race of Kings (USA)",
@@ -18224,7 +18238,8 @@
   },
   "D4B4100249D7A14940FB9089CD13E05B6C4B98FB": {
     "name": "Colin McRae Rally (USA)",
-    "logo": "QmWBVtyh7GTV46s67fJRqyCsQkRJz4v3JNX3JtqK62MjQm"
+    "logo": "QmWBVtyh7GTV46s67fJRqyCsQkRJz4v3JNX3JtqK62MjQm",
+    "vid": "QmZbcWzDvLzghmm1f3Ce1jfGNnQH4ksSiBicgHtLf4MZyv"
   },
   "759D97BB91D5F7E54A3A4A6D66E87ADE14FCE7EC": {
     "name": "F1 Racing Championship (USA) (En,Fr)"
