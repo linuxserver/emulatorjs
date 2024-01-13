@@ -1,2207 +1,2594 @@
 {
-  "78D5D821D49C2CDCC5765155B9008E0C28D9B493": {
-    "name": "Real Pinball (Europe)",
-    "ref": "224B0F767D9C5900C08F3EE3E238DAD7C837F861"
-  },
-  "73CEA9107BC43CB8DE210AF2119A7EE395F6AB9F": {
-    "name": "Alone in the Dark (Europe) (En,Fr)",
-    "ref": "D643C74677B283EC01431C6457D21F888747C77B"
-  },
-  "9A79D8FF6FBC05B2D9D661C7B59E9A207E271B93": {
-    "name": "Immercenary - Combat in a Digital World (USA)",
-    "vid": "QmfEPbswpZGxt8SjVNKbNsyv1dWeEkfS3BYup6FFbUpXX6",
-    "logo": "QmdA83bjng1jTdD2qdxhKpiyZ9QWCbNpUeZz6P6CJ5zoa6"
-  },
-  "172F03F611746D5A8C6AFA96D79EA0094C9C04C1": {
-    "name": "Fatty Bear's Birthday Surprise (USA)",
-    "vid": "QmesFrvQc6iVEGMiHsgS88iC9p49qpsnAYdzVAdZrxb3vK",
-    "logo": "QmQgrELsBQuoLCuQwyhtCkmkWfTZnYuqg5vgbeWUQ9m2Pw"
-  },
-  "8876B02FE4F0E9B554D91A1279BB0E8F076A593B": {
-    "name": "Iron Angel of the Apocalypse - The Return (USA)",
-    "vid": "QmY9CVJj8dMDCzA5PDRgE5q7AuD6Zwvs1WE8XzuR7BFvXs",
-    "logo": "QmVxtdYrCJ8ty7ULgaKG75vELkmyMd4aAsBTL9KGbkymT9"
-  },
-  "C2FE8AFEFA878AD79A2409F4D6D4C0CB73E8B9BA": {
-    "name": "FIFA International Soccer (Europe)",
-    "ref": "96317ED4B8CA331A8372A394BC87C766542DC769"
-  },
-  "02886B4B34FDED3B768DF0A7A6D5BDD793C8CA6D": {
-    "name": "Sewer Shark (USA)",
-    "vid": "QmPiXwLZrBzu8UBi8tYtwSR1j6ZMkTFpCVWCjDm4MrfHYX",
-    "logo": "QmPkCGkAb1Gt91SroAbXpmZci8LxWwBNrCmAZTYMDL13Wk"
-  },
-  "495FA423A168362A503B2916FD8E59E76465C11F": {
-    "name": "World Cup Golf - Hyatt Dorado Beach (Europe)",
-    "ref": "88D8FF6AA790BD19E68867557665F8E2BEE9B2B7"
-  },
-  "6309C1E61E5A0E01AD2E7934ED6EEC196D7BDA79": {
-    "name": "T&E VR Golf - Pebble Beach no Hatou (Japan)"
-  },
-  "6F2D8938A14BC4B2F207304590C32B89050632FC": {
-    "name": "Kakinoki Shougi (Japan)"
-  },
-  "A659DF170B2E65585E64E8B8561F39411909053A": {
-    "name": "NFL Madden Football (Japan)"
-  },
-  "256F6F50EF55391C22EAD4CEA1CB70C9D58877C3": {
-    "name": "Policenauts - Pilot Disk (Japan)"
-  },
-  "EBFCC2EBF145DC3A6EC4EBE6176F2FA5964B8103": {
-    "name": "Foes of Ali (Europe)"
-  },
-  "64D8DAF92DECA9D1E6B514249A9278BB21B433A9": {
-    "name": "Star Fighter (Europe) (Demo)",
-    "ref": "C69A766DC8C46ADA66D181812B417351BEA515FC"
-  },
-  "794D262BC41EF1559694E969518D2CD85BDD7B69": {
-    "name": "True Golf Classics - Pebble Beach Golf Links (Europe)"
-  },
-  "28D2E95B64D8C77CB6995399A47CCF0C0F221A6C": {
-    "name": "Twisted - The Game Show (Europe)",
-    "ref": "F9CCEDC3D4FDA12E38794D8EB6C7F5D1D47D5028"
-  },
-  "2B4DD483017551B1C7F5EA084CDC1593A0E85E6E": {
-    "name": "Road Rash (Europe)",
-    "ref": "5D45574DEA9BFCBF913326EE4F27841FC8CD924B"
-  },
-  "07EFC853FF3715DFBBCA93C736D675ABB7169506": {
-    "name": "Starblade (Europe, Germany)"
-  },
-  "A332D9236498C225BF42704343FD31D50F66B9E4": {
-    "name": "Daedalus Encounter, The (USA) (Disc 1)",
-    "vid": "QmeUtfhYxTNNGQcaTikBJSFfqSin9yM217atHXLNozdb5s",
-    "logo": "QmVMuMGRiEZCQtEf8EhDoEavfziGWsRQjbyjdJ2XwZScqt"
-  },
-  "57D018CB88A4182720DE85A2EE1FA0B7B00F76CA": {
-    "name": "Daedalus Encounter, The (USA) (Disc 3)",
-    "vid": "QmeUtfhYxTNNGQcaTikBJSFfqSin9yM217atHXLNozdb5s",
-    "logo": "QmaSyvGFDWok46BkoiRZUZe3hDscRL58vxpmFPMeiow5Qs"
-  },
-  "D9F6076FD37E8AA508E62A1B41DC8F207B940A30": {
-    "name": "Daedalus Encounter, The (USA) (Disc 4)",
-    "vid": "QmeUtfhYxTNNGQcaTikBJSFfqSin9yM217atHXLNozdb5s",
-    "logo": "QmXxx3AgQkb3BHgoBDwnJJJwdwMaz4bTn4NP5X2jpiHJZP"
-  },
-  "503C4DC696CFC2DA75C7A9A00A30DA6387C2E063": {
-    "name": "Space Hulk - Vengeance of the Blood Angels (Europe)",
-    "ref": "ECFC8444938E5AF4C63D56ABCD373E229748A98F"
-  },
-  "D811F6A40CB80D49B888FBB6B6A4EA53C3D4D894": {
-    "name": "Super Wing Commander (Europe)"
-  },
-  "A395BA2271D8322AF893407837BE7125B0AA0A82": {
-    "name": "Super Street Fighter II Turbo (Europe)",
-    "ref": "1F0765A37412BD6BD82AC9D5649D2CBFB8867B52"
-  },
-  "9868498A54DA762824BCE60D391BEFAEF900B6ED": {
-    "name": "Total Eclipse (Europe)",
-    "ref": "715869E4EECDC202983D0B688B78A76648182F00"
-  },
-  "C72BD0FA2D852ECB87BB09085168CCF381522268": {
-    "name": "John Madden Football (USA)",
-    "ref": "B3F20507440F0BDF7488E56A124FE0D1F6B78E43"
-  },
-  "8EDC6F6C02FFFBE569040E6EACA3D0849F3923B9": {
-    "name": "John Madden NFL Football (Europe)"
-  },
-  "852A6880F18CC3DC82DCD553B5BC17CD01A7CA05": {
-    "name": "T&E VR Golf - Masters - Harukanaru Augusta 3 (Japan)",
-    "vid": "QmSTKLXvMF462U64uCAHqq9dSaPGhcRevtfUEtgETbio2c",
-    "logo": "QmSBH2UGDxWxcrxrL4fXxteiD8MUgqWTg4CEBGhNnvesJF"
-  },
-  "599F5D7EE7B57BCB12501F16B19B45E725437912": {
-    "name": "T&E VR Golf - Waialae no Kiseki (Japan)"
-  },
-  "A2D86A1780FF9869F64EB67DE8D41104B2335261": {
-    "name": "T&E VR Golf - Devil's Course (Japan)"
-  },
-  "74850ABD09561142B784E637FEF02FC4D1E12B85": {
-    "name": "Alone in the Dark (Japan)",
-    "ref": "D643C74677B283EC01431C6457D21F888747C77B"
-  },
-  "9F858943164C87AA4B07691DCF2F0586EBE82F59": {
-    "name": "Starblade (Japan)"
-  },
-  "9B94AA76B6A08AD1C1C78FE83856AD3EB3EA0650": {
-    "name": "Shock Wave (Japan)",
-    "ref": "403DA6C5C27C9785F255B0CBE9ADFB55C122A6D3"
-  },
-  "D187321E25E63F1F4314E988DFDE40E8497A95A5": {
-    "name": "Shock Wave - Operation JumpGate (Japan)",
-    "ref": "20E8382D7A083B66A9E4CB9176AF6A27247303B8"
-  },
-  "E48581EC4501B93D684A423DF32F9530040FDCF8": {
-    "name": "AutoBahn Tokio (Japan)",
-    "vid": "QmSTuXrbzD8Wo5Do6n2SLf6YHnfnimG7GzYPRcMQuHeza7",
-    "logo": "QmYT3bs8BxinNnaFWXb3sBWSu28bYeLUhTo2Z2pPVmnZK7"
-  },
-  "168782C299D0CA85655251F409FEEB36244D2E5D": {
-    "name": "Road & Track Presents - OverDrivin' (Japan)"
-  },
-  "3CD05D192548A72CB191B2B5E7469980EFBBD63F": {
-    "name": "MegaRace (Japan)"
-  },
-  "8A835B66C270EFB66F6EDDC3C50ACB200B24E795": {
-    "name": "Crash 'n Burn (Japan)",
-    "ref": "8702AAF8AF54A46D9F564FC8CFDBE913D5EF2320"
-  },
-  "82013016470CCE4203A206C7D37876828A98A043": {
-    "name": "Star Wars - Rebel Assault (Japan)",
-    "ref": "6D1469166770CC751C5D33E7BDD77273E48ECBBC"
-  },
-  "B42A249431098B6F530F909B12F818F6EFD09730": {
-    "name": "Total Eclipse (Japan)",
-    "ref": "715869E4EECDC202983D0B688B78A76648182F00"
-  },
-  "831858C1F838758181633361CDB2DEC7CD023E48": {
-    "name": "Way of the Warrior (Japan)",
-    "ref": "062150C5F89B3E83A3856B67CD733D0B7F566103"
-  },
-  "586626A1D35BDA93208B9801424C74353860E065": {
-    "name": "Gex (USA, Europe)",
-    "vid": "QmZ8yAzdcEKZsQcJRL8UgEKaaoE4nQi9aAVGAC4cBmNLQj",
-    "logo": "Qmd57seZYb14PyY9v4rUghvcU1Us61aP9nGFvG8X5RmmcV"
-  },
-  "CABAF22618E6C4E04692253397817A79D33D44F1": {
-    "name": "Wing Commander III - Heart of the Tiger (Germany) (Disc 1)",
-    "ref": "C4D8F8CBB11C659D052FEDC953476A5F0C16A15B"
-  },
-  "1320A94DE004FEAB226D07FC860814AD4FD7D288": {
-    "name": "Wing Commander III - Heart of the Tiger (Germany) (Disc 2)",
-    "ref": "C4D8F8CBB11C659D052FEDC953476A5F0C16A15B"
-  },
-  "57FCA6F484E9CD50A8A3C2B203626D8981EC0803": {
-    "name": "Wing Commander III - Heart of the Tiger (Germany) (Disc 3)",
-    "ref": "C4D8F8CBB11C659D052FEDC953476A5F0C16A15B"
-  },
-  "91EF295EA383F87A4F9A04B405469698698A67F9": {
-    "name": "Wing Commander III - Heart of the Tiger (Germany) (Disc 4)",
-    "ref": "C4D8F8CBB11C659D052FEDC953476A5F0C16A15B"
-  },
-  "5635AC67BD20DC50876203CC7FF3FA5B286069F9": {
-    "name": "Total Eclipse (Korea)",
-    "ref": "715869E4EECDC202983D0B688B78A76648182F00"
-  },
-  "9C2A3C94A205FA0E24C1A5446BAC0E7048FF7AFF": {
-    "name": "Captain Quazar (USA)"
-  },
-  "05F83E2EDCF627E558F32B065F10CBBD12095683": {
-    "name": "Myst (Japan)",
-    "ref": "A8F0B8640DD12058E97072B83412A2074BBD3020"
-  },
-  "E2E06C69BE167B88AE94C00E06D022A7DA6A1CC1": {
-    "name": "Doctor Hauzer (Japan)"
-  },
-  "D18B5EBB3B84B70C9E8D5FABF144EE24318B76DB": {
-    "name": "Return Fire (Japan, Europe) (En,Ja,Fr,De,Es,It,Pt,Ko,Ru,Ar)",
-    "ref": "9C8B8CAF7481E68A772D6C2ABDEE06F6A93CB56B"
-  },
-  "508CEA8808543E467FC2DA29F96CD1CD10D1F4FB": {
-    "name": "Pyramid Intruder (Japan)",
-    "vid": "QmNf2xg4vP7o2m5o5yXbE5TspHE9oGKgvXJY86kFuPN3nC",
-    "logo": "QmNoCNXn9XgQEmkKwfBgSCbce7FBoorKphTQiErXENUW21"
-  },
-  "F233218CEB7F960EA6F9D10FDD8B6BE97B95C86D": {
-    "name": "Battle Pinball (Japan)"
-  },
-  "7D592CA81C9DA42D187FDCBAF18637853906F464": {
-    "name": "Virtual Cameraman Part 2 - Natsumi Kawai & Kimi Tachihara (Japan)"
-  },
-  "43E40CE1CC5FD7D9123B5F0B23F82D498E2972C8": {
-    "name": "Virtual Cameraman Part 1 - Naomi Sawada & Anna Juri (Japan)"
-  },
-  "345619D9FC2EF6C5A9B4D65CB5FF6EE0078EE7F2": {
-    "name": "Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2)"
-  },
-  "7D6D73B90EF02932EFD375E0BBFB9D76A5488EA3": {
-    "name": "Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1)"
-  },
-  "E678E5EE1BBF2AA39A7B6309EFF6DA0D32633A0F": {
-    "name": "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2)"
-  },
-  "29E092DE21E576FD4DF16FBEC9F3B9DE68C558A6": {
-    "name": "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1)"
-  },
-  "4F88B732C1F6A60308B3C319A9EDF02CE2D9DCB8": {
-    "name": "Powers Kingdom (Japan)"
-  },
-  "03D63F453EDD1FE8F349E65BE339324FC50AEA52": {
-    "name": "Gex (Japan)",
-    "ref": "586626A1D35BDA93208B9801424C74353860E065"
-  },
-  "15D6A7EF0574FE248F13D9FA97AA104626643755": {
-    "name": "Insector War (Japan)"
-  },
-  "47A63C0714F7B6A858ABD02070D963FBD24493CE": {
-    "name": "Supreme Warrior (USA) (Disc 2) (Wind & Fang Tu)",
-    "vid": "Qmatui4LMF7VDpWS43u4SnfDLesYBWz31QuVhe2qtmTyeq",
-    "logo": "QmVKDwmxNbw84qSn4DeTeFBbZKXCFf5QB7f6TMDmKN11zr"
-  },
-  "42AA44EB256A10433219B75BED59D5C97EA50E88": {
-    "name": "Road Rash (USA)",
-    "vid": "QmYW335ZYdAVPgGxc6Zvd9vxQRUcWdwZLEjLMvquzJRbZX",
-    "logo": "QmNav7jf3dPmtFnpW1ZmwXqoPeQJ52D6341MDhAKXi6VEY"
-  },
-  "F6ECD5D6A0FCB5A25FBDB8BB370BB2AF98EE1D58": {
-    "name": "Lost Files of Sherlock Holmes, The (USA)",
-    "vid": "QmYVwr2WMa58gVoxBL56hCui7ZTWCFgLNkdGxUfMpkrGAq",
-    "logo": "QmQiqDJ8JPQKk7dzsLebfyPi8jspVfKU6JzkRttCCn4mBX"
-  },
-  "18D9654F9BD3669ECEA770B3E666639770B0D8FE": {
-    "name": "Killing Time (USA) (RE1)",
-    "vid": "QmNWqxo3fqnmKp6ij8ZQvjLDHf5eptVDt8tCDb19QVx623",
-    "logo": "QmaaVm3iFjNymhXJMKekc7weJYjYUwTc1UmpdSRFKzSCbM"
-  },
-  "D0E83EABD8347FA9AD693017167E4639BBF624AD": {
-    "name": "Road & Track Presents - The Need for Speed (USA, Europe)"
-  },
-  "9078FCAE9A9FDFB1C3D0812381BF4B2D9FB98B04": {
-    "name": "Horde, The (Europe)",
-    "ref": "8DB2055A48792B7C06E8C6D6AF0882F6B8BF9DE5"
-  },
-  "30E6D60DBC9A28D6B900CF332FCDBDBDF7E9A7A2": {
-    "name": "Return Fire (USA, Europe)",
-    "ref": "9C8B8CAF7481E68A772D6C2ABDEE06F6A93CB56B"
-  },
-  "6544F1E555EB9E79E624486896845DD1609755BA": {
-    "name": "Return Fire - Maps O' Death (Europe)",
-    "ref": "CA0978F598575F8DB373ED78709C4BBDF1B183C8"
-  },
-  "07AB4244BC8A2394A37CCF1EA3D2B6BC4536B8C7": {
-    "name": "Syndicate (Europe)",
-    "ref": "3A70C09B10454C87822A982A18A5129265E382B5"
-  },
-  "3E0D64F04E51DEF8659F0317E5D5B077AC8449D4": {
-    "name": "Slam 'n Jam '95 (USA, Europe)",
-    "vid": "QmU6YCbzrWANa4ebk2zmskiE8cMDUPGdjwRn9QXBwvCGVS",
-    "logo": "QmXzWoVCpiX3iwVSyriKkCVJnK88ejo3CUhfFRPLADtEa6"
-  },
-  "C69A766DC8C46ADA66D181812B417351BEA515FC": {
-    "name": "Star Fighter (USA, Europe)",
-    "vid": "QmTij3s5sKRTFgrBPLSKmASD9TTstusrMgeX14feH8Mmgz",
-    "logo": "QmUaY8hf5DCt6Xw7p6TqmNKyo4oHatx2wP2up6SmY9n7R6"
-  },
-  "78999D80C678841502C49A2D5C3C54EFC1EE04DB": {
-    "name": "Theme Park (Europe) (En,Fr)",
-    "ref": "1933F50021D8148B476CCB4F50B3AC02B3E4E49B"
-  },
-  "6FFDCB274DC72EB199661B3FC1E7165DFE387F3D": {
-    "name": "Primal Rage (USA, Europe)"
-  },
-  "74D1C853B76F82B90C391738AAC0879E90146507": {
-    "name": "Samurai Shodown (USA, Europe)",
-    "vid": "QmWYhc6aXo1rjMwnjCwmKyp5SCbgNyXHVNxZoQox7QSBTZ",
-    "logo": "QmfXSf7HkoZBUpKv4Cfgh7qvGpcP1Bkmz8ifTP9KDh5qmp"
-  },
-  "AD9CEAC2555D9346668136C3FD627575F703FCA4": {
-    "name": "D (USA, Europe) (Disc 1)",
-    "vid": "QmRfZivAUqVZa5GxAENaMmn1zASdceszBP1bQv62F98skp",
-    "logo": "QmRVsPisE1jJ4Frf5MnZc9HSJ6phHDWVRdBTvQmmtJBXvh"
-  },
-  "92A655A118A261FFA074537D6DD94EB891BEE301": {
-    "name": "D (USA, Europe) (Disc 2)",
-    "vid": "QmRfZivAUqVZa5GxAENaMmn1zASdceszBP1bQv62F98skp",
-    "logo": "QmV2FXwtx2f4aKyApRZpbwUxYUp6mghQAuG8XXAoiPSdby"
-  },
-  "D7143D3CCD26B00DEBC420D9FB26C9B333C42AB0": {
-    "name": "Myst (Germany)",
-    "ref": "A8F0B8640DD12058E97072B83412A2074BBD3020"
-  },
-  "FF59E7EC09D580A66A1F0C263F1880ABD3C42CF0": {
-    "name": "Nobunaga no Yabou - Haouden (Japan)"
-  },
-  "12DA4FCB3AA00001988AEEC8597AA02F3068B74C": {
-    "name": "Game no Tatsujin (Japan)"
-  },
-  "FEE290EF7293B5FACDC75BCDC332968836CEF738": {
-    "name": "Wolfenstein 3D (USA)",
-    "vid": "QmdDUZZapy27MVJnkjHDY9VZA7i9bpfPu9mGUg8wbSnQm2",
-    "logo": "QmSe2AjgRS3GdpHQsFxYuFUt5258HfgRuiHMvr1QqR7DCP"
-  },
-  "403DA6C5C27C9785F255B0CBE9ADFB55C122A6D3": {
-    "name": "Shock Wave (USA) (RE2)",
-    "vid": "QmRn944KnbiWbbZ5GE3Csv5WMNX4mJHLmckBZgWGTDEqvU",
-    "logo": "QmckCYBk8FSK9CFKNZJs9eFDMD6FKysYWN6kTRGNswX9JU"
-  },
-  "E442268056949583ABE1D02222FACAFBE6F1E41D": {
-    "name": "Dragon's Lair (USA) (RE1)",
-    "ref": "7707FAB1D30B2A06051FFBAC2938DEF751A7F118"
-  },
-  "8A833C82B048566F26D33146B44DB6254E8D08F2": {
-    "name": "Family Feud (USA)",
-    "vid": "QmSKcUHbAFdeczHvy1X4ajc47EFviSSEc4k41fff2hfgVG",
-    "logo": "QmbkZDBSTUF6rojgkFs7Xxzzua3mdXx2J6yUQber695Ho3"
-  },
-  "030079DF62B6B005A163FE62917F313872795CC6": {
-    "name": "Starblade (Canada)"
-  },
-  "7CF5CEA67739D422222F7B61A6E996966AC3B9E6": {
-    "name": "Blade Force (Japan)",
-    "ref": "A2D85CF80AFEF24A53CD8E9F04D9D6FF85BAE5CE"
-  },
-  "C46EA48AA2276F9EFC88F5077F3DC66191B8CE03": {
-    "name": "Horde, The (Japan)",
-    "ref": "8DB2055A48792B7C06E8C6D6AF0882F6B8BF9DE5"
-  },
-  "8C0B21D2A199A983D6A72F35B617C28F73B8A76C": {
-    "name": "J.League Virtual Stadium (Japan)",
-    "vid": "Qmeamsh7SYL5Ga8ETcYXnT22KGtB413gYi8GV5yccdz63f",
-    "logo": "QmWUNZLyFaw7TLsKoSzyq6L4U41nw9Pd11hkSmvcjRHKMc"
-  },
-  "5004E2593571CBD65AFA630D744A06C18370B681": {
-    "name": "Road Rash (Japan)",
-    "ref": "5D45574DEA9BFCBF913326EE4F27841FC8CD924B"
-  },
-  "828A730E1E936B4144EC2E3E7CE7F32C65DFDEB4": {
-    "name": "Samurai Shodown (Japan) (En,Ja)",
-    "ref": "74D1C853B76F82B90C391738AAC0879E90146507"
-  },
-  "BBB06378BE8CC34C948F872AA90FFF0715F5C0A1": {
-    "name": "Slam 'n Jam '95 (Japan)",
-    "ref": "3E0D64F04E51DEF8659F0317E5D5B077AC8449D4"
-  },
-  "16E14B1B16E5CDA3AAC218D065075E998FCD4637": {
-    "name": "Super Street Fighter II X - Grand Master Challenge (Japan)"
-  },
-  "2EE9FCBF4225A8A7060D6875627B63FD03B2B4FE": {
-    "name": "Sword & Sorcery (Japan)"
-  },
-  "562A04B2030AD97906748CEC7A67B2EC30B52D39": {
-    "name": "Virtual Horror - Norowareta Yakata (Japan) (En,Ja)"
-  },
-  "6D1469166770CC751C5D33E7BDD77273E48ECBBC": {
-    "name": "Star Wars - Rebel Assault (USA, Europe)",
-    "vid": "QmcHDm7yUDgL5qcEd5Peh79HHExzrFX1b6qSEs9rxT48gy",
-    "logo": "QmaeCJYM6YGYrfWPUSQ3GQTZhEjmzXLpbrWaZkWiX88FDS"
+  "003C420252573BC00B1433E5A8B02EB6EE270878": {
+    "name": "D no Shokutaku (Japan) (Disc 1)"
+  },
+  "00586EA5471EFE359344800B315C2D4F14837D19": {
+    "name": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 3)"
   },
   "00E821255EB6DB38E181205ECAA7B05F53274440": {
+    "logo": "QmVDnr4VoXGWFLNt6fGbma7Vaye2f5TRUvU6nNiZjrTgvA",
     "name": "PO'ed (USA, Europe)",
-    "vid": "QmXWiS4aEUaufKbNNKGYnbpp9uHqWTEKKWEf1aL2fXkE4H",
-    "logo": "QmVDnr4VoXGWFLNt6fGbma7Vaye2f5TRUvU6nNiZjrTgvA"
+    "vid": "QmXWiS4aEUaufKbNNKGYnbpp9uHqWTEKKWEf1aL2fXkE4H"
   },
-  "72099D1E98B97C899FEFC4219D4D456338DACC58": {
-    "name": "PaTaank (USA, Europe)",
-    "vid": "QmZ2SxPJdYMgbrNnGRYhojVY51zZYthxPqr5Pgknoz99Cr",
-    "logo": "QmXcpGtfg6EpoKLHo1AbfWfNPHxzvjKUZbhzJqdGBPc5X2"
-  },
-  "0D544CA6AA60E6D8F8135FE0FC2204F6AD03D7BE": {
-    "name": "Corpse Killer (USA)",
-    "vid": "QmaVtkh5J3QWdnwAbQK9umbYXdFfpSQs7h7MCS1KmVF54r",
-    "logo": "QmWe2QBYKziC9DqyR17FFpJEp2rEqwb1QduncSaXQK6VKp"
-  },
-  "1F0765A37412BD6BD82AC9D5649D2CBFB8867B52": {
-    "name": "Super Street Fighter II Turbo (USA, Canada) (RE1)",
-    "vid": "QmaZwFf2GDMQAiYZHk7QoaYkfzbHbd6hsKct42kqviXPwS",
-    "logo": "QmVA37nJpXHN8Bn3tEWFrxZ9pwnv5BNVb5saAkLPbw17Mj"
-  },
-  "6BAA3D6DB75F3C3BD803AFD44BD8078FC442F90C": {
-    "name": "Theme Park (Europe) (Demo)",
-    "ref": "1933F50021D8148B476CCB4F50B3AC02B3E4E49B"
-  },
-  "41A487BA38532A5A70E038622D4CCBD5F4296C62": {
-    "name": "Super Street Fighter II X - Grand Master Challenge (Japan, Europe) (Demo)"
-  },
-  "E3C73C511848C865930C3B15B9893D3B65EB5355": {
-    "name": "Winning Post (Japan)"
-  },
-  "F8A03074547B5D47D25D30A742B97F289F360DDD": {
-    "name": "Puzzle Bobble (Japan) (Demo)"
-  },
-  "D4AF53CB6B8D6E16B152B7692FBA2E9A85119681": {
-    "name": "Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4)",
-    "vid": "QmUSPxZ7quoVbRwSU7ARXJcsRaBwLw2trHfWm3osGPWiQY",
-    "logo": "QmRtxrcb9nriavZvyhF6H2imFDfZUSZVYFBwK6cwnmhY8C"
-  },
-  "95F2D6A6E4348C1E21A6BF98EC30B37B8565D59F": {
-    "name": "Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3)",
-    "vid": "QmUSPxZ7quoVbRwSU7ARXJcsRaBwLw2trHfWm3osGPWiQY",
-    "logo": "QmRtxrcb9nriavZvyhF6H2imFDfZUSZVYFBwK6cwnmhY8C"
-  },
-  "8FB5D8DDC8BE389C5B04D6714A56341E9BCCB58A": {
-    "name": "Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2)",
-    "vid": "QmUSPxZ7quoVbRwSU7ARXJcsRaBwLw2trHfWm3osGPWiQY",
-    "logo": "QmRtxrcb9nriavZvyhF6H2imFDfZUSZVYFBwK6cwnmhY8C"
-  },
-  "2089D77BF007E35ADE06A557C57E372C779A9029": {
-    "name": "Space Ace (Europe) (Demo)",
-    "ref": "5128AE797C2D293176ECBBE5BFC6E34104B7A88B"
-  },
-  "5E9470685E6B13AAC3C3D8E517A5631340415AFA": {
-    "name": "Syndicate (Europe) (Demo)",
-    "ref": "3A70C09B10454C87822A982A18A5129265E382B5"
-  },
-  "E46733BB1401671ED76CA64894CD55B2098A57FA": {
-    "name": "Doom (USA)",
-    "vid": "QmUmtDNSYRvg9jRfKoQv2d7buLKgQgt3dWmWvELRCcaT8G",
-    "logo": "QmVTGr5gKJ4rBN7bzFunJckxsdXhq6t4qTLoU5o7T3uh7S"
-  },
-  "E59C9673E9D79DEF5CBE42CC494CAC2D5B11EB5F": {
-    "name": "Crash 'n Burn (USA) (Not for Resale)",
-    "vid": "QmTdyhAyHt2hFLAM8T4iWT12iLaeT46gwJrigXiAp9wcNf",
-    "logo": "QmXfpug34R3BC1cegiYjnkKgJxHQnREtCP8uuWDtfRBHph"
-  },
-  "8EE383C6471007685B5158637EAD2E6F4DD789A5": {
-    "ref": "E59C9673E9D79DEF5CBE42CC494CAC2D5B11EB5F"
-  },
-  "96317ED4B8CA331A8372A394BC87C766542DC769": {
-    "name": "FIFA International Soccer (USA)",
-    "vid": "QmZctHe7qkccXyqo9v8SP7FBGqXM9WsizPTAHGX7d4hesY",
-    "logo": "QmZYzrYQrT5RX6DcaPnJpQNuB4HgTpxvho8jvMczvy9Kab"
-  },
-  "D26E959B0EF6388C3EF2A5C935785ABA7EEA4CAB": {
-    "name": "PGA Tour 96 (USA)",
-    "vid": "QmXaFYoUwW88U582Aec3AppV38249H6dsECZa2WHsNaDHp",
-    "logo": "QmSZ5xqD3ou6fRRonzLz93fq8ZfSMAzvB1h2YVsLf3NZsS"
-  },
-  "72B460207B6F96F05ED0A6CA2C45D09B773D008C": {
-    "name": "Waialae Country Club (USA, Canada)",
-    "vid": "QmNy3Z2erTUcgv6jFkzu9NpKfZJdUeXAA1YJhmMmrWM5EB",
-    "logo": "QmYsLMYHvCGs8KqtgpASionyJU1HGqeEE2zUPGmX9LGrhz"
-  },
-  "FB2FFB1F423F6EE934CDF2B2407D2077E100A37E": {
-    "name": "Trip'd (USA, Europe)",
-    "vid": "QmbFMCWfE7eYuEmGTHdjzb4fr7caMvMaLiconyQMDD2wYg",
-    "logo": "QmeddJuH2tAkFaMhVxAuxLwEd6c1AfehGoPXm7kCy7f9dE"
-  },
-  "B8BA5719E09ED98A893BB9AB6B31B535CE30C012": {
-    "name": "Daedalus Encounter, The (USA) (Disc 2)",
-    "vid": "QmeUtfhYxTNNGQcaTikBJSFfqSin9yM217atHXLNozdb5s",
-    "logo": "Qmcuoo8U4Z4uJGJtGKvnqKa65EZ7QBVRNof5PX48bjhq8i"
-  },
-  "C1E9C2670DBF63E1E1EB6475992EB329B8BEFFA6": {
-    "name": "Total Eclipse (USA)",
-    "ref": "715869E4EECDC202983D0B688B78A76648182F00"
-  },
-  "F0A88FAA9FAC54DFFEC659A8535B469A6BA8681D": {
-    "name": "Shockwave 2 - Beyond the Gate (USA) (Disc 02)",
-    "vid": "QmQ4Kk1YSxuPqSGLcmoSkNUHfHNNKxsjk9425Vu4gxzvVJ",
-    "logo": "Qmb5qwqNuL3dfMHRxWisXYjEVjNZac1K7tQMrpmKLMf7aT"
-  },
-  "1BB73E3E8B092CE6A4A59128F0608BD516BF7436": {
-    "name": "BattleSport (Europe)",
-    "ref": "377CE73E71B1CCED842F777EA00B37BE5696193E"
+  "01650F4BE0E814165966CC6D4FF9BF1B198A7139": {
+    "name": "Powers Kingdom (Europe)"
   },
   "0247C98B74C49B447A423BD7B7253A960C8548B4": {
     "name": "Blade Force (Europe)",
     "ref": "A2D85CF80AFEF24A53CD8E9F04D9D6FF85BAE5CE"
   },
-  "563D4C3259F2B4E5F58921351CD92FD4C2F1BB64": {
-    "name": "VR Stalker (Europe) (Improved Version)",
-    "ref": "ECB40EA9467C06C7C88D0CBDAE500A02E6533787"
-  },
-  "FB4B81A0DB75B2A93E6B78E8C53E0BAED7A51947": {
-    "name": "Taiketsu Rumiizu! (Japan)",
-    "vid": "QmT6wXzsVhyco9JXnbL9UojsnFBfEMVm3x87MnnGgMtSVa",
-    "logo": "QmU8WTGh3uYm7RmA4GZrD4acrFTPRDt58rvo3sQUvgLCbW"
-  },
-  "64B92EC326446B10CB93CC18BE358AEB15761F70": {
-    "name": "Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan)"
-  },
-  "6BB71FFCB7C70D983AC7CE1324BFD6F532EAEB1B": {
-    "name": "Chiki Chiki Machine Mou Race 2 - In Space (Japan)"
-  },
-  "76B829AB19E662E2BB24DEAE4C8FDA623458C7DB": {
-    "name": "Oceans Below (Japan)"
-  },
-  "3C5D481C7D7F89A15C1F7B2A070E436AA3B9611A": {
-    "name": "Aqua World - Umi Monogatari (Japan)"
-  },
-  "5BD1A12136087E75CAA958F3F59B283FDE7FB076": {
-    "name": "Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan)"
-  },
-  "DD1A3DC103A986354210C1C833DD0FCB19E954FE": {
-    "name": "Sento Monogatari - Sono I (Japan)"
-  },
-  "F11F49C62976077A794D7FC526F9082A2EC3B9B8": {
-    "name": "Lemmings (Japan)",
-    "ref": "8D067AFEFEE5BAE1750AC629CB6E74ACA3648439"
-  },
-  "9DBFE811D9B30EECFA9AF38D0136DD9858A62F90": {
-    "name": "Theme Park (Japan)",
-    "ref": "1933F50021D8148B476CCB4F50B3AC02B3E4E49B"
-  },
-  "003C420252573BC00B1433E5A8B02EB6EE270878": {
-    "name": "D no Shokutaku (Japan) (Disc 1)"
-  },
-  "80968BDB591823398115E18971C39D699E67EB0D": {
-    "name": "D no Shokutaku (Japan) (Disc 2)"
-  },
-  "E3D5342F7AF4749EBAD07CE660FF143089D0D1CA": {
-    "name": "D's Diner - The Director's Cut (Japan) (Disc A)"
-  },
-  "3B3D8ED36C5AAD30576ACBD895A945F0E3F7AC77": {
-    "name": "D's Diner - The Director's Cut (Japan) (Disc B)"
-  },
-  "A10A1B092BE7F866D1D0A3845582E88CE0E621D1": {
-    "name": "D's Diner - The Director's Cut (Japan) (Disc C)"
-  },
-  "525F890AF602C1AD24A4E5E874F4BB9F8FFF93A6": {
-    "name": "3DO Interactive Sampler, The (Europe)"
-  },
-  "D729EBC2BAD9382A728C3D59D1839A79751BDC72": {
-    "name": "Puzzle Bobble (Japan)"
-  },
-  "76A3891AF45F95B9F9030B840235E4642D0D0C42": {
-    "name": "Rise of the Robots (USA)",
-    "vid": "Qma9DmRBhsVpuPwJBJEXZkKkdndaKmR8UaE489FrhyqfZb",
-    "logo": "QmQtJhQceqWsP7iFj3zmyeubgQtraFe296mykoXGPLYq9V"
-  },
-  "A865F4C18DC23180E9713A48AD25C0EDEA60617B": {
-    "name": "Olympic Soccer (USA)",
-    "vid": "QmenP8NyDnmrbaLhW1mys3gMcwC19DAmqsXrHhErfAJwtA",
-    "logo": "QmStqTrddmDBHbbdUdRKDtAgG3K3ZVutwURvtPSvBVk8Kz"
-  },
-  "0523710D39B284F21998AD49C0895B606F01AE9C": {
-    "name": "Dragon's Lair (Japan)",
-    "ref": "7707FAB1D30B2A06051FFBAC2938DEF751A7F118"
-  },
-  "5B9C29097D3DB9D7D5073769292457C1FC867684": {
-    "name": "Striker - World Cup Special (Europe)"
-  },
-  "5E28B5EA38027E62D466BD36C5E068F27416D285": {
-    "name": "Super Wing Commander (Japan)"
-  },
-  "A5F2A68D101FF06072408BDA8E13ED17145B412B": {
-    "name": "Toki o Koeta Tegami (Japan)"
-  },
-  "09DFDF1129673A8BFC50DE80BF5B94A17F68CA19": {
-    "name": "Jurassic Park Interactive (USA)",
-    "vid": "QmUF5T5fQ4jy45uug3EXr7Yie3Mq8CG86wsw8ztTN2Ztvi",
-    "logo": "QmY5hbzLi1wPNnZ462J4rFRafj9qe4DJrZj6uC3sVRbap6"
-  },
-  "82E7AB84122E9E5960CC417A6D37D706E5484D7A": {
-    "name": "Policenauts (Japan) (Disc 1)"
-  },
-  "7A24ED576BAD82D0CA684AA655886904311C5D52": {
-    "name": "Policenauts (Japan) (Disc 2)"
-  },
-  "E2AF00FBEE7406641EBFC7985DA4D6ECED0CB749": {
-    "name": "Pebble Beach Golf Links (USA, Korea)",
-    "vid": "QmdJsHeV6P4dHa9S1nu7yV7Bj1pNLZshdFDVKaKndKCcT2",
-    "logo": "QmQg8oGW2sK3tAKmnyyPs8UVfCJtvJ4XNsUNwJiH54xXLx"
-  },
-  "638E8AC723D594047D977C06AA1066B863ECA8AE": {
-    "name": "Jikki Pachi-Slot Simulator Vol. 1 (Japan)"
-  },
-  "0699F55B96D2A10B518AF6DEC4F285287EC6537F": {
-    "name": "Soccer Kid (USA)",
-    "vid": "QmUkTw62habsyEkcVfkJkH6gYbhq5vGV4hB3kSiMTiKVxb",
-    "logo": "QmVaydH8wnm8eXo3zmC3A3KmQs4G5PQ1fBZ5oTevR4t7J1"
-  },
-  "09601F2100117C0F5B20FE4B5F93C5D9AA9F156F": {
-    "name": "Virtual Quest - Pharaoh no Fuuin (Japan)"
-  },
-  "A61B48C328FDA91ACB46E47D33408FA8584CFDD8": {
-    "name": "Emit Vol. 1 - Toki no Maigo (Japan)"
-  },
-  "B44FAFB99C972B06D7010656022B574D2AA8ABAE": {
-    "name": "Emit Vol. 2 - Inochigake no Tabi (Japan)"
-  },
-  "346453CA6ED327108894AA870D0001A78D31C36E": {
-    "name": "Jurassic Park Interactive (Japan)",
-    "ref": "09DFDF1129673A8BFC50DE80BF5B94A17F68CA19"
-  },
-  "84DC76C9449ED7895FDA3EB2FC635E8208D50126": {
-    "name": "Flopon World (Japan)",
-    "vid": "QmYwxuj6H7ryMs6qsmzzuPBdP4WRXbq8oc8a5dBNhSWxMK",
-    "logo": "Qmb38EJXK866p1jbMhKxAxZdzpUqiDW4kD8NT6L8GgBXKG"
-  },
-  "A7B98CD8194BF1957FDDC3259C06F79E2E9D499B": {
-    "name": "Virtuoso (Japan)",
-    "ref": "77F7DAE22BD9392466E790350E3E407F3A54709A"
-  },
-  "A0B5483FED2F12ECD26643BE0ACF0BA696B01CB2": {
-    "name": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 1)"
-  },
-  "DDE89F50C762F242BAEDB0DD65F2EC3127E4BB0F": {
-    "name": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 2)"
-  },
-  "00586EA5471EFE359344800B315C2D4F14837D19": {
-    "name": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 3)"
-  },
-  "6E2DC646C57CC4A094789E0B7026D6187EF6D50D": {
-    "name": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 4)"
-  },
-  "764BEDFD1DAE95331B2429EAEA3F6BE6E79B25AF": {
-    "name": "Ishida Yoshio Kudan no Igo Seiha (Japan)"
-  },
-  "F2C78ABCB5D39F3E7C88F80F1D382BAB422AE3D8": {
-    "name": "Paddock Note '95 (Japan)"
-  },
-  "354044F7DCC8983DB2F30CF6081743B1548CCE49": {
-    "name": "Secre Fuumin no Omochabako (Japan)"
-  },
-  "1CAB59A5DAA1F6D1A9AE6039F38ED553442E9174": {
-    "name": "Theatre Wars - Goraku no Dendou (Japan)"
-  },
-  "754342C0242DE2B748599AE4D90DE0EFAE03A3F1": {
-    "name": "Yu Yu Hakusho (Japan)",
-    "vid": "QmfXgEgmexB4v5XrvEEYpCekQ3zCNTbaeyyEMat5ZWqDiF",
-    "logo": "QmWZwEbkmE3nWW9khEpZytd1QQ7oUpghqyJSWmDGYikedJ"
-  },
-  "BCA0C4E7304FB073BD55F4D1D9F267140F24835A": {
-    "name": "Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan)"
-  },
-  "666F2E890B4B195A4C8590F37094FC98E02B739F": {
-    "name": "Burning Soldier (Japan)",
-    "ref": "92B6A8529F3DAA5A9B6EF421017000558C88EF3F"
-  },
-  "6DFD62A439ABFCD06F6C4EE4A10567D2FB7F064E": {
-    "name": "Fire Ball!! (Japan) (Rev 1)"
-  },
-  "E4045280AA383568098D3C3208F701CAB6D2FC88": {
-    "name": "Off-World Interceptor (Japan)",
-    "ref": "60ECC0863165470285AFF01E892C513CEB682B0C"
-  },
-  "93FFA5B6853CC8EBABF728E29CA6CD5C5BA663DC": {
-    "name": "Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan)"
-  },
-  "AE7C61E49E08769C161C503D38CB718D169161A2": {
-    "name": "Fun 'n Games - Soft no Omochabako (Japan) (En,Ja)",
-    "vid": "QmaW7wfaF3V6JRJTWZKcAqKexwxygmp1FVNEn6LBDfxby2",
-    "logo": "QmUu3UCWQ8GyBGcbu4ZSqBYqte5VSJWa6r39YxkxT1RhyV"
-  },
-  "9F70C1B51D3275ED8F694D80D2E05DB4FBB3E176": {
-    "name": "Grimm Meisaku Gekijou Vol. 2 - Hansel to Gretel (Japan)"
-  },
-  "95FC3709F6D7016B57A2B5E10AB1EF8969F879F3": {
-    "name": "Grimm Meisaku Gekijou Vol. 3 - Akazukin (Japan)"
-  },
-  "50A636EFFDD8383CC6F035E1D94C322643B0E79B": {
-    "name": "Nontan to Issho - Hoshi no Okurimono (Japan)"
-  },
-  "8510D14240F7DBD98DB78CA2BC309F144C2E6B0C": {
-    "name": "PaTaank (Japan)",
-    "ref": "72099D1E98B97C899FEFC4219D4D456338DACC58"
-  },
-  "934E706AF45E88B8E22D42FE49203A5FBF67F559": {
-    "name": "SHADOW Warriors (Japan)"
-  },
-  "5D9D17080644E74ADF2520525615635D58D0F4C9": {
-    "name": "WorldCup Super Stadium (Japan)"
-  },
-  "6B12546B158FE591777078CC946A7580B1EFF6C0": {
-    "name": "Mirai Shounen Conan - Digital Library (Japan)"
-  },
-  "55196FFBAB6A46A3D0BE86E84C96DEF9DC1432F3": {
-    "name": "Yamada Kamachi Bijutsukan - Kamachi's Museum (Japan)"
-  },
-  "D4CEDE6849859008AE5E786ABB90F7A4D666AA48": {
-    "name": "Twisted (Japan)"
-  },
-  "79D968A0E48D541394F58D572E5B159685B936FF": {
-    "name": "Sesame Street - Numbers (Japan)"
-  },
-  "1CDFAB57FFCC71D981EC45028B3DE018ECEFA605": {
-    "name": "Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev 1)"
-  },
-  "83340145BE335A4B8A7370074D5049D01E29149A": {
-    "name": "Diving Spot Guide - Marine Tour (Japan)"
-  },
-  "BAB57A061F09443933BB0EC014DB784896F40F7C": {
-    "name": "Fatty Bear's Birthday Surprise (Japan) (En,Ja)",
-    "ref": "172F03F611746D5A8C6AFA96D79EA0094C9C04C1"
-  },
-  "DAFF1378200564794CA6561ABFE66056F2709698": {
-    "name": "Ballz - The Director's Cut (World) (En,Ja)",
-    "vid": "QmRt2Cjq7ihD5bd6dW425rPwrK6WXva5k9tYq4PURr6KsG",
-    "logo": "QmQ61SkNyNCbkRoPvzVpV3s8SazbKyG8qiX3TeHPxQ7GbU"
-  },
-  "B0850678DD6CD27D377126C05D091595C6C11DE4": {
-    "name": "Stellar 7 - Draxon's Revenge (Japan)",
-    "ref": "07BD366CA91FDCD91DB8BC9721088DC1F8120C44"
-  },
-  "D27E018338AE259AB74840CDE0ABA737C02A4120": {
-    "name": "Microcosm (Japan)",
-    "ref": "09B36526660E189933E76FC362438E9C85F0CA81"
-  },
-  "7768311B34FC11EC934B3DEA820CD4C4BE79F084": {
-    "name": "Hirata Shougo Interactive Ehon - Aesop Monogatari Vol. 1 (Japan) (En,Ja,Fr)"
-  },
-  "41084A1901A784BD534CBC86EB6BB2F5B215BE17": {
-    "name": "Hirata Shougo Interactive Ehon - Cinderella (Japan) (En,Ja,Fr)"
-  },
-  "1135773207AD3FFDC1FDE30B7EAEC297E09AD68F": {
-    "name": "Keiba Saishou no Housoku (Japan)"
-  },
-  "E6CC861440BBFDEFBCDC4DA413045E8EAACC60FA": {
-    "name": "Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja)",
-    "vid": "QmauAtVoRDTRQgZFvPP4sQwKkqYMkDZhSXGRTX8FZdzfYG",
-    "logo": "QmV2vSG5aHYbjuZ7z3YpigfkeeKUzVxfoeWmUZFLEGpRZM"
-  },
-  "F4B87B68647BEF35D3C7C1DEEFFBACCF370B63FB": {
-    "name": "Paddock Note '95 (Japan) (Rev 1)"
-  },
-  "C0779FA4BA435E7A54E97293E391DF3A827BF955": {
-    "name": "Belzerion (Japan)",
-    "vid": "QmSMWZRPbZ5iY1ydGPuT6Y7jcwezzUZp69WUbatDFPKCEy",
-    "logo": "QmSpdnUH6qN6gNc78pq4GTMnZqsLR7fS9PDgj9PbeycXjZ"
-  },
-  "9A968F84FD92821EA2DC7CEA193C04AF1CBA674C": {
-    "name": "Goal FH (Field Hunter) (Japan)"
-  },
-  "C014DFD09AECC77B17F03F12FB68ACF539CF0315": {
-    "name": "Mahjong Gokuu Tenjiku (Japan)"
-  },
-  "03F1273A3E1D9A43BC266AA2820395DC97AFA2F6": {
-    "name": "Tower, The (Japan)"
-  },
-  "C49F301E749D692D29CE76D969CB64CE1D843CC1": {
-    "name": "Princess Maker 2 (Japan)"
-  },
-  "8B4EDCAAA3E294E3E9C332D17470413E995A9544": {
-    "name": "Sotsugyou - Graduation - Final (Japan)"
-  },
-  "28FA3AE8912E2CC52FC40A29C5216E1F7D336880": {
-    "name": "Flashback (Japan) (En,Ja,Fr,De,It,Nl)"
-  },
-  "FCC43988869A9450D562E87184083ACBB0B85A5B": {
-    "name": "Outer World (Japan)"
-  },
-  "CB12C30DA752612604145038764E27F08CFC77CC": {
-    "name": "Tetsujin (Japan)"
-  },
-  "AA02DAA79450C44C9108D5F32742DE7777A7F838": {
-    "name": "Perfect World - Combat in a Digital World (Japan)"
-  },
-  "A23E6177A9C91FA4ED9D63C060C356909A4C955B": {
-    "name": "Uchuu Seibutsu Flopon-kun (Japan)",
-    "vid": "QmbfVEx9iVAPPV9HTR2akWxmXh47ahoyDuG8mvyPitrSe6",
-    "logo": "QmeojFMMSZ6pR1LxtXS4CxnAgdk66TCVokhARuvVedP6La"
-  },
-  "064B96FEB81556ED7E16CCCBEE4074B4707E792F": {
-    "name": "Bakushou!! All Yoshimoto Quiz-ou Kettei-sen (Japan)"
-  },
-  "A964A1E0068C76E99CCED2934C5909572E742B1D": {
-    "name": "Yuujou Densetsu - The Doraemons (Japan)"
-  },
-  "6276007BEC8A7B0A6D7C64D6D773BEF5E8DA73A1": {
-    "name": "Idol Janshi Suchie-Pai Special (Japan)"
-  },
-  "99CE029B310BB5B4D1A875B4A7C28C3E04E47539": {
-    "name": "Idol Mahjong - Final Romance 2 - Hyper Edition (Japan)",
-    "vid": "QmSq2i1VtjogWenLJuFmjRKTzoJc4r7HAbeojZdbj4yHSw",
-    "logo": "QmawcvNYJ3QVrKSZ8WV9T5A4qZ5z8dCFAVeJSoag5eiCyo"
-  },
-  "3D727843E8B5B42DB979E800F13441027220DB25": {
-    "name": "Oyaji Hunter Mahjong (Japan)",
-    "vid": "QmdPaK5kDPCExEvKFmfhxYBg9k1KM8adcX9F461joiZcqs",
-    "logo": "QmeCbS5QkK6LkviCVJRbg8UnLG2E9nnuJaHzciY5s3WYPY"
-  },
-  "0809F7ECF57A49E304E6ED4FA015E22CE0CE9FE6": {
-    "name": "Super Real Mahjong PIV + Aishou Shindan (Japan)",
-    "vid": "QmU5E9T37mjomXJvKeyziwPVdSHtWUpA5mH2ELr84iAKuL",
-    "logo": "QmPsQJ5oWoiztCL8hhF1aTUoPTVzMEKjEkMnprXepcCYFM"
-  },
-  "1DC1CF4DF9CEE198EC7F1CE619EB4AD3633CF65B": {
-    "name": "Syndicate (Japan)",
-    "ref": "3A70C09B10454C87822A982A18A5129265E382B5"
-  },
-  "8FFD05738AED68611E0CB71AD87A7A428BF2CBC0": {
-    "name": "Scramble Cobra (Japan)",
-    "ref": "31D1747848FDF9F26E45F9086DD14188DBE8E658"
-  },
-  "C3951DA37D053AB0A2047C2AC4CCE0547B6ACF45": {
-    "name": "Captain Quazar (Japan)"
-  },
-  "F3E7EF47F596325B5080689EBF8AA01CF2844284": {
-    "name": "Tozasareta Yakata (Japan)"
-  },
-  "EDDDAE90B5A953B3FFBEC70686771ED0E4EBE9E0": {
-    "name": "Puppet Tale (Japan)"
-  },
-  "13824C911BCB6985E6B1726F9B94439B5674ADEE": {
-    "name": "BFS - Blue Forest Story (Japan)"
-  },
-  "97B74DFCC25B4E315D9327CFC518CEEC5F522A49": {
-    "name": "Kingdom - The Far Reaches (USA, Europe)",
-    "vid": "QmRLTc5TtjfsighyRBY4jTZpRsptR3xqGXEW89oXwPdkBr",
-    "logo": "QmfKLQqmE7pNkjXR16Myh25Mdkdsfp5RhTjvEd4tqz2sze"
-  },
-  "530374783E7C90F8052737AB0F81CB8565EA51D9": {
-    "name": "Burning Soldier (Europe)",
-    "ref": "92B6A8529F3DAA5A9B6EF421017000558C88EF3F"
-  },
-  "20E8382D7A083B66A9E4CB9176AF6A27247303B8": {
-    "name": "Shock Wave - Operation JumpGate (USA, Europe)",
-    "vid": "QmToTVP5nvA5Xhbn3Cw8Jcp5oaSQXJ9N2cbubU4m1DPw7s",
-    "logo": "QmQsADHKFyjhjgSnuYRRJyjgtXXHAtdrY26nRogUPQhj4y"
-  },
-  "A98676A61D7C9ED8BFCE6CC4B949BDB3F9A1684D": {
-    "name": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (Japan) (Rev 1)"
-  },
-  "A5A715398E0CD6FA858456512C953CF7538EE431": {
-    "name": "Gridders (USA, Korea)",
-    "vid": "QmSiiHfZgUrn2Hu3A4d3wZCXfZtEfo65DMisM9AwZWPzqr",
-    "logo": "QmQJknkACppTkKEfFSLWiHFCX8iSYPnzd8NdmY7A6YYVcq"
-  },
-  "889FF1AA271870DF43C8FF7021ABC86F1179EBB0": {
-    "name": "Alone in the Dark 2 (Japan)",
-    "ref": "FEEF790130D05CA5446BE4550E4F8799E5F983AA"
-  },
-  "19C9EE16223A11FB2095399A38A3BD0A1F169459": {
-    "name": "Demolition Man (Japan)",
-    "ref": "865EB9C9B224DAA8FA13C5B1CCFFB3680FFA4C5E"
-  },
-  "B962DDA9CA43D0FD910DE9D56AA2FF75411E8D39": {
-    "name": "Makaroni Hourensou Interactive (Japan)"
-  },
-  "DF98E672E70D4D212B9B8E84B1893D50B8BE4CF2": {
-    "name": "World Cup Special (Japan)"
+  "02886B4B34FDED3B768DF0A7A6D5BDD793C8CA6D": {
+    "logo": "QmPkCGkAb1Gt91SroAbXpmZci8LxWwBNrCmAZTYMDL13Wk",
+    "name": "Sewer Shark (USA)",
+    "vid": "QmPiXwLZrBzu8UBi8tYtwSR1j6ZMkTFpCVWCjDm4MrfHYX"
   },
   "02A6CAA42322453065133068B42DDED190597EDC": {
+    "logo": "QmVKDwmxNbw84qSn4DeTeFBbZKXCFf5QB7f6TMDmKN11zr",
     "name": "Supreme Warrior (Japan) (Ja,Zh) (Disc 1) (Fire & Earth)",
-    "vid": "Qmatui4LMF7VDpWS43u4SnfDLesYBWz31QuVhe2qtmTyeq",
-    "logo": "QmVKDwmxNbw84qSn4DeTeFBbZKXCFf5QB7f6TMDmKN11zr"
+    "vid": "Qmatui4LMF7VDpWS43u4SnfDLesYBWz31QuVhe2qtmTyeq"
   },
-  "B41CE14C2F3B960152CAA95DEF78DFBEA56C8066": {
-    "name": "Supreme Warrior (Japan) (Ja,Zh) (Disc 2) (Wind & Fang Tu)",
-    "ref": "02A6CAA42322453065133068B42DDED190597EDC"
+  "030079DF62B6B005A163FE62917F313872795CC6": {
+    "name": "Starblade (Canada)"
   },
-  "DF1A1D27DE67BCC884C89276D1EF91CCD9320E00": {
-    "name": "Great! Soccer Kid (Japan)"
+  "034FDEBB9A133FCFAFF3098F810707D28D2A1BE0": {
+    "name": "Hirata Shougo Interactive Ehon - Ookami to Shichihiki no Koyagi (Japan) (En,Ja,Fr)"
   },
-  "B880A2C424DE0233E78265E3E2C9FEA932EA2FC6": {
-    "name": "Nontan to Issho - Nohara de Asobo (Japan)"
-  },
-  "4933031F1DF05BC3CB8308526A07F14A66EE1CC2": {
-    "name": "True Golf Classics - Waialae Country Club (Germany)"
-  },
-  "E5B77C2F2A92FC5F0D2EED1E8A4B189CEBB5FAC1": {
-    "name": "MegaRace (Europe) (En,Fr,De,Es,It)"
-  },
-  "60C9A52C9EFDF0893606E7DF4573A94199155148": {
-    "name": "D (Germany) (Disc 1)",
-    "ref": "92A655A118A261FFA074537D6DD94EB891BEE301"
-  },
-  "3D3B20EC831446FE7FAFB52447B1F913A545235C": {
-    "name": "D (Germany) (Disc 2)",
-    "ref": "92A655A118A261FFA074537D6DD94EB891BEE301"
-  },
-  "C3D84EFA37D55D9BB0AAE8760D9451F7D94BEBC7": {
-    "name": "Iron Angel of the Apocalypse - Tetsujin (Europe)",
-    "ref": "F4AD32131919B580E7D5F53FA7363D353D2792E3"
-  },
-  "01650F4BE0E814165966CC6D4FF9BF1B198A7139": {
-    "name": "Powers Kingdom (Europe)"
-  },
-  "BFFAD219840FD6287017D6D5F42A0AACFE5430BA": {
-    "name": "Ultraman Powered (Japan)",
-    "vid": "QmVADFbezm3pNdmJBoBrEStthp7eGrQBYfHuvLJJsMBp3o",
-    "logo": "QmYrNpGgR2praLibM69XNY7qqHd6jbuq2BA1oJJPKsvrnX"
-  },
-  "2F614002E3C8CFB1F8F893A8A7B75C544DD923D3": {
-    "name": "Life Stage, The - Virtual House (Japan) (Rev 1)"
-  },
-  "5EDB988A3E405C70344CDD0AEB72D91720346B40": {
-    "name": "Short Warp - Warp's Short Game Collection (Japan)",
-    "vid": "QmdZStAFu4YEqmTf42cHR2v4TuUzkManRXWka6xWX53tSn",
-    "logo": "QmWf2igAPvnZyoiL4VJjnESqYNrP18YQrAdZn7YhagafMh"
-  },
-  "05DA263E9F9BA706CCEC388DC7163A5D1FCB81E9": {
-    "name": "Kyuusei Senjutsu ni Yoru - Heisei Kaiun Koyomi (Japan)"
-  },
-  "ADF80577D77CADD962C34B7E3017A428CCF4FCE1": {
-    "name": "Night Trap (Japan) (Disc 1)",
-    "ref": "1843C6997542F7E6E4CE69202EF3DEFA55A3CF6F"
-  },
-  "E022AAFBD6119C3C42D5F0FEA43446DFB266FC86": {
-    "name": "Night Trap (Japan) (Disc 2)",
-    "ref": "1843C6997542F7E6E4CE69202EF3DEFA55A3CF6F"
-  },
-  "0E53AAFC7DB3F8CE546646745D2E786087B03768": {
-    "name": "J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)"
-  },
-  "7A2B87DB99B206208519107F8C3A22DC8DAD9621": {
-    "name": "J. B. Harold - Blue Chicago Blues (Japan) (Disc 2)"
-  },
-  "0987ED743601AC38BDBC824C874EE82F192C19DD": {
-    "name": "Konpeki no Kantai (Japan)"
-  },
-  "2562A534F8933DB9A369C08CAEE50361E57F5F03": {
-    "name": "Star Control II - The Ur-Quan Masters (Japan)"
-  },
-  "8720631AF16CCD06B8A9602DD0E8FD57D7E23A40": {
-    "name": "Incredible Machine, The - Pararancho (Japan)"
-  },
-  "9885C42139E09FC2A7A5932D86CD1A90002F6F30": {
-    "name": "Battle Chess (Japan)",
-    "ref": "409A7C1FC6FEC813DFD5C80158BCC718D8B8A9BC"
-  },
-  "57C19D46A61C93EC4542B2BE20B4405458CE8FF5": {
-    "name": "ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 1) (Shot Yousei Kouza Vol. 1)"
-  },
-  "A3586752B37A59A15533A4BECE7B0797794ED404": {
-    "name": "ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 2) (Shot Yousei Kouza Vol. 2)"
-  },
-  "535EE8E0C52081351EE591CB0781346A86AC9036": {
-    "name": "ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 3) (Pro ni Kike!)"
-  },
-  "33F1DE17618354D493A35EDE8FD2CAF4C10BA142": {
-    "name": "Super Real Mahjong P.V (Japan)",
-    "vid": "QmVXMcwKU6VuePoZdH32qhPvjatWdPYptmpd87mqTZAC4P",
-    "logo": "QmePyeGTCnvdbmFhucwGZg72piTGZK6EkAEzvZPGokk3dX"
-  },
-  "988AC0978D0701719095304089D6ABD5B0575E81": {
-    "name": "Hell - A Cyberpunk Thriller (USA)",
-    "vid": "QmSAdzCs9wpaFnxhmH1hR1fi4gbrprdgij3v9zzXK6Vz1B",
-    "logo": "QmTBoiviUygngyU4aQVMUMMHRRU2pzHVGbgsPoViK4kB8B"
-  },
-  "470DE2F8B01329B805582067989DB28F35F030DD": {
-    "name": "Blonde Justice (USA)"
-  },
-  "5972F0F5BDB30CAFBAF1ADE682DC74CEB1634719": {
-    "name": "SHADOW - War of Succession (USA)",
-    "vid": "QmPKUPcRkuqZ4qb5txmbMNHTinnt3GRu1P7b42ZfcTAmhP",
-    "logo": "Qmc3QZFZ3AYErguBYqXRH6jfmEmA9UEAHvh1Ke8vK4FKwy"
-  },
-  "80775A618808A1B6F1A8239EF5F7964507A85EE9": {
-    "name": "Mad Dog McCree (USA)",
-    "vid": "Qmdai5KuMxpo5EaYB4cgmrjQacLpAojgR1pLusaSVidHg7",
-    "logo": "QmTNZhQUY2xE3kmt3bGiEx7zxzDr3Ty9Kvgtsis8civszz"
-  },
-  "DFD7C7BB23C65E466E76CCF1902A4581F5F16E22": {
-    "name": "Crime Patrol (USA)"
-  },
-  "8532AE19F3BD243211DC346034AB194701FF3C36": {
-    "name": "Space Pirates (USA)",
-    "vid": "QmYQUkqDg36NEHTRM88Ub5t7YiBDrnRh8Lshwknva9hkUT",
-    "logo": "QmX4VfR6Q8N3UfTyYYHSjcsysXbbZPqwtRj8nGeGTaZMdN"
-  },
-  "8AFD83DB0FEA1486C7DB9CBF1568F12AF51FDECE": {
-    "name": "Mathemagics - An Interactive Learning Cube (USA)",
-    "vid": "QmYBcuJ5pgVeaeWpFuRekVssKFJgss8vBvtTLZuzmYy6G6",
-    "logo": "QmYRMLwT8FZ7CRMUzrYmjsFgvUMwgiZ6tPB9QdBS8vVQ6g"
-  },
-  "410E9B8F081665DC603DC74E37A1163DB4E2F0CB": {
-    "name": "Carrier - Fortress at Sea (USA)"
-  },
-  "062150C5F89B3E83A3856B67CD733D0B7F566103": {
-    "name": "Way of the Warrior (USA)",
-    "vid": "Qmdjkx3tivvuH1z9n4QGVkyGKK1NQhe1kB4t3i6ScgDEzD",
-    "logo": "QmZs2LJc3n39VkE7wHM5iPGzKBLoMNGoj1QYV19rcrtJsb"
-  },
-  "4B671A6827CC038E1890AB130952C74F44B71403": {
-    "name": "Crystal Dynamics Best Selection ~ Sample This! (Japan, USA)"
-  },
-  "92B6A8529F3DAA5A9B6EF421017000558C88EF3F": {
-    "name": "Burning Soldier (USA, Korea)",
-    "vid": "Qmc3E7Fqxpj65Y6vbFLA6P24Ptg237FCuaHdvGBBAH768B",
-    "logo": "QmaVjJT5KCorN9BGPPkVfmSYrv84B7CQqvPiTzo2kyqpnv"
-  },
-  "A2D85CF80AFEF24A53CD8E9F04D9D6FF85BAE5CE": {
-    "name": "Blade Force (USA)",
-    "vid": "QmPKnNmfGcqWjPfpFuqHZ37e4N68buNPzvN5TER4Xb63Zr",
-    "logo": "Qmev9XRiu8ix6p2prna2Ju2Sujph6R1PLBjZUMM9diZ8YF"
-  },
-  "09E263FC5F1F810D3334D1CCA35916953EE78A00": {
-    "name": "Flying Nightmares (USA)",
-    "vid": "QmZKSZZjXMqDocc6dmJ1Pv7ADBSZ94Cod8GjjLGoqF9UK5",
-    "logo": "QmaiD4t2upt3uhecvTyD8JUWDvRv6YE77s21HuwahViz36"
-  },
-  "EEA0E6CE9F43A84CAE11EDC131FF3FF99E2EF249": {
-    "name": "Guardian War (Canada)",
-    "ref": "6A08657F15541035E1986357FC1757454C8B4D4F"
-  },
-  "715869E4EECDC202983D0B688B78A76648182F00": {
-    "name": "Total Eclipse (USA, Europe)",
-    "vid": "QmV1GcjgQw48w2xdTiBaGutxxtm4AQ6irnC6mnmx3gUrQA",
-    "logo": "QmQdYbqnSRBdUaqSkS5S3BUX1kQycqVzHFvkVzJjyxrMnN"
-  },
-  "AD3D04799CD06131FD9FCDA5FD50546467F39D62": {
-    "name": "Foes of Ali (USA)"
-  },
-  "5128AE797C2D293176ECBBE5BFC6E34104B7A88B": {
-    "name": "Space Ace (USA)",
-    "vid": "QmRDSpLeK1rL38huTDzfJoqPNWRbaVyNDjcTmi8G2UC6Yr",
-    "logo": "QmdYK6dVQva23vJSuiPymVUGvVrtgxpAcZpqAQ5cgG42Gd"
-  },
-  "0640009042B54FF534A0158217955625B913E457": {
-    "name": "Phoenix 3 (USA)",
-    "vid": "QmbegVLdex6YgJzHYFckAzJ1vytm3QBNsTS9NRVjBzpuT2",
-    "logo": "Qmb6tKZcmWZ7Q8PQunGyAUXJded9EJhBZgYwamXq8ewrTq"
-  },
-  "9C8B8CAF7481E68A772D6C2ABDEE06F6A93CB56B": {
-    "name": "Return Fire (USA)",
-    "vid": "QmWyLWUsMU7qmDmq9KJhd7SYDhCbGVqURhHTnSydtsbz9i",
-    "logo": "QmVWhbtC7CvCr3N24kyCPiovEogXSZjfCBeqautHXANtaR"
-  },
-  "F4AD32131919B580E7D5F53FA7363D353D2792E3": {
-    "name": "Iron Angel of the Apocalypse - Tetsujin (USA)",
-    "vid": "QmYm6m1arhPjLabek4JvYm8wMv5GbMdN5LEeJYfbvtPru9",
-    "logo": "QmW41H6PmnmGU6uBbansTcMR4Zn2RQJDovNyzABwmKCQu2"
-  },
-  "A566A1183F037EA22E54EB5CA298F6250B4233B4": {
-    "name": "Cannon Fodder (USA)",
-    "vid": "QmYvhQWLRy3P8Wq5aiAv7yPp4xngN27d3GgjC35z7GEfGx",
-    "logo": "QmbvhX8ZRew1EgcMKdJFBbfNbfgF8iehdoQFhPrQ8Z9sas"
-  },
-  "23334E04329637DFEC2151AA1F2DD077FBA69677": {
-    "name": "Shanghai - Triple-Threat (USA)",
-    "ref": "820DB988B02E2E019BA5AA54A6A287FD9C304D01"
-  },
-  "A8F0B8640DD12058E97072B83412A2074BBD3020": {
-    "name": "Myst (USA)",
-    "vid": "QmVxe8HSMeYv3YacMFyG6DkcMQW1rvmT1NLL2k5mowoQFU",
-    "logo": "QmY2QvatLtDwVh3FMGkraAWfprX4TEmwCqfbkx2kTV2NeP"
-  },
-  "CA8BF97B9FB60341BBC8763AA3C4537F0FEBA3FF": {
-    "name": "Perfect General, The (USA)",
-    "vid": "QmYrW8ceEmYoVXroafn7LUtCDZJ9SqSqu8yhV8jZ7cWU6S",
-    "logo": "QmWWi1GSFyodLHgLtvJSAjBF8oUJpd1YupwczuyNtjzorM"
-  },
-  "2398837988F8A713171E9A31F514BD0E75846732": {
-    "name": "Olympic Summer Games (USA)"
-  },
-  "20F96AA3F4E7560A66D03E5B7AC62D31AF81400A": {
-    "name": "ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 1)"
-  },
-  "4DFFC51D911729715061573B268CFFFCE32CF693": {
-    "name": "ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 2)"
-  },
-  "9FFEC51CC10CEE2D572792ED81CFAD5D593CCD74": {
-    "name": "ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 3)"
-  },
-  "AC3ED4006A0CF6022E4947A4DEC3BBB2CD890417": {
-    "name": "Quarantine (Japan, USA) (En,Ja,Fr,De,Es) (RE3)",
-    "vid": "QmZ4M1o1L3QJKFCBameCWpTd3w48yTUD6mfuDTsmTbQxsT",
-    "logo": "QmRRe2Zru5r2csvXX9YHpRMajhcD6eqvsu5NTyBJgfYcmr"
-  },
-  "46331607319DB6127BEB900DE49ECAA7480C298D": {
-    "name": "Shelley Duvall's It's a Bird's Life (USA)"
-  },
-  "07BD366CA91FDCD91DB8BC9721088DC1F8120C44": {
-    "name": "Stellar 7 - Draxon's Revenge (USA)",
-    "vid": "QmRDu5JY1gnLekwbuUehPwpn6xmagc9wMqQ9SzDXsGyz47",
-    "logo": "QmTN3Jwivik2TWpDBsK7XyLgZyAY1hpeoQAuSFXP5VRTuQ"
-  },
-  "A88A79A2706090E3E49CC65F730CC9667ADA7407": {
-    "name": "Incredible Machine, The (USA)",
-    "vid": "QmSMnVuDTJTseMsSWLdYyAYLUwVuF4CTkpJzzdJVn9hiZK",
-    "logo": "QmZRPt6Va7Er6yRgeSwjSEgu53fgd44hDApSyAnCSTsk7y"
-  },
-  "72DFC61317AAF912362E11E81A6C84E5EC0C636B": {
-    "name": "Virtual Vivid (USA) (RE-1)"
-  },
-  "6C721692986F2BDFD2A36DAB946C50E4C74A153F": {
-    "name": "Shockwave 2 - Beyond the Gate (USA) (Disc 01)",
-    "vid": "QmQ4Kk1YSxuPqSGLcmoSkNUHfHNNKxsjk9425Vu4gxzvVJ",
-    "logo": "Qmb5qwqNuL3dfMHRxWisXYjEVjNZac1K7tQMrpmKLMf7aT"
-  },
-  "6E1BEA94FF1AF4BCD58F05207523C7B3502A988D": {
-    "name": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZBZ)"
-  },
-  "ECFC8444938E5AF4C63D56ABCD373E229748A98F": {
-    "name": "Space Hulk - Vengeance of the Blood Angels (USA)",
-    "vid": "QmeMgcfyvGowZQ1kiCLK8ACSeG8Rjx3BJDFrSsENib2uBU",
-    "logo": "QmSAE4nfoinwJG28DUhwbukoNjyaQURCv8qUSkeiht1kgG"
-  },
-  "60ECC0863165470285AFF01E892C513CEB682B0C": {
-    "name": "Off-World Interceptor (USA, Europe)",
-    "vid": "QmYEKDajdG7k7L6kWRARC47v576VLdCcyZ6Mg5YvWLJCNj",
-    "logo": "QmNf2HVdZKwHivWvQubzZVELBVR52JkgnEHCWkvRjpHW1C"
-  },
-  "C1C5486722CE26568C293C145712D549670297D2": {
-    "name": "MegaRace (USA, Europe) (En,Fr,De,Es,It)"
-  },
-  "F9CCEDC3D4FDA12E38794D8EB6C7F5D1D47D5028": {
-    "name": "Twisted - The Game Show (USA) (Alt)",
-    "vid": "QmeMjpVNcUMso15WhU3jGRBZECjeG7CACaDyqRwsjw2xb1",
-    "logo": "QmQxmbt6qgTV2PjGZqzUu4NbtaAFsyoz3Rs8mNrJUqyk4i"
-  },
-  "377CE73E71B1CCED842F777EA00B37BE5696193E": {
-    "name": "BattleSport (USA)",
-    "vid": "QmeyQbxvF7tje8zKEDGbSXJTiZWEYvA6ajbPcVnzMXhCVA",
-    "logo": "QmYacnM9mQcyxBAcA84z6AveWM6k9EtmbCV3foepSqgsWc"
-  },
-  "667A8A67AE4AE5415641CBE85FE554E63FCBCD03": {
-    "name": "Cowboy Casino (USA)",
-    "vid": "QmdD3V2sWvWuddHjJdRKr2AdsMYcjiM7GBm9Cv8waQ6Uuz",
-    "logo": "QmQfcf3qFnoKZBNocspNKqJzcmqUQqGUBoiyY53f6HjxRo"
-  },
-  "53C35837C612D7D25A6E8DA05E9710D61CF83018": {
-    "name": "Zhadnost - The People's Party (USA)",
-    "vid": "QmWGkitKsJUi1oc4DFuA4huhK5hke23fmSzNVPFr3Q22JD",
-    "logo": "QmPYMJXXhoED6YZAMLB8aHjJQaEC1LphBkkhRJmNfUBMb4"
-  },
-  "AB9CC9621032157270EE3008919737F3F671E956": {
-    "name": "Let's Go Skiing (USA)"
-  },
-  "BC95ECD0588BB0F008BA7E4C6C8A53DDFB0F5685": {
-    "name": "Interplay 3DO Buffet, The (USA)"
-  },
-  "996E585ABADADFAFD703F530765183DDEF2FB960": {
-    "name": "3D Atlas (USA)"
-  },
-  "A7FBB2E74D226410AEA05C5F61380FB09252573E": {
-    "name": "Slayer (USA) (3DO Action Pak)",
-    "vid": "QmVYvwaFvjRqHfNpEfZFgyxtb1k3LevkkAT7RcvaDywcH4",
-    "logo": "QmdeHSotXry5UE3ojix2t1kRYR2yhAUSoJvG7iiSLLXVxx"
-  },
-  "45838BA41EE784F9E6B6869E831F046D5F6E01F3": {
-    "name": "Dragon Lore - The Legend Begins (USA, Europe) (Disc 1)",
-    "vid": "Qmc8BaHKrNnQwGQodpPz5hGPvWCWXWTmj4xdSi8G8iPHh6",
-    "logo": "QmWmSNQB5YWoAqy3Qv1oFuXo2YhsS5Mywgy4YtNacTTMx3"
-  },
-  "B772C73DFB6B6B942F6B8A324512374ABE2B3B76": {
-    "name": "Dragon Lore - The Legend Begins (USA, Europe) (Disc 2)",
-    "vid": "Qmc8BaHKrNnQwGQodpPz5hGPvWCWXWTmj4xdSi8G8iPHh6",
-    "logo": "QmWmSNQB5YWoAqy3Qv1oFuXo2YhsS5Mywgy4YtNacTTMx3"
-  },
-  "C309EC7D0D54C54537F47C6E4BD50F0FC51E25F0": {
-    "name": "Dragon Lore - The Legend Begins (USA, Europe) (Disc 3)",
-    "vid": "Qmc8BaHKrNnQwGQodpPz5hGPvWCWXWTmj4xdSi8G8iPHh6",
-    "logo": "QmWmSNQB5YWoAqy3Qv1oFuXo2YhsS5Mywgy4YtNacTTMx3"
-  },
-  "7190A7225710108A27B0119907B941D464407F89": {
-    "name": "Step Aerobics (USA)"
-  },
-  "E3DBF364A68CC3AF90AED7F9A16C45B342170724": {
-    "name": "Mazer (USA)",
-    "vid": "Qmb813yfaK3CrCX3rQofQyryB932r9AkMaA9SE5AobAXND",
-    "logo": "QmXFaCc59TyTBQW6Q7BJtGcvNnPeKhGLbMQuA5PFynQeDg"
-  },
-  "409A7C1FC6FEC813DFD5C80158BCC718D8B8A9BC": {
-    "name": "Battle Chess (USA)",
-    "vid": "QmUigjKJ6FvJB5JMxgafPUp97ya8nzh2CTt9u3Bwi98tZq",
-    "logo": "QmU8nTwP38XDgtwTEbGCWSW4bEPTtdW6RLeeDLcfGLEaGe"
-  },
-  "A28BE28F2105921430AC177861034D0C512EEF21": {
-    "name": "Psychic Detective (USA) (Disc 1)",
-    "vid": "QmZk5wpmBhKmYaKFdW35nKCGYMxqwUbnNi8q86LqsojE3L",
-    "logo": "Qmf6jrdGNZPAp9YpConctPkK6Z9WabJQ7Zce6yx7AVb63e"
-  },
-  "A724EFDE2D17D97D7F54439527568C40F1B1F520": {
-    "name": "Psychic Detective (USA) (Disc 2)",
-    "vid": "QmZk5wpmBhKmYaKFdW35nKCGYMxqwUbnNi8q86LqsojE3L",
-    "logo": "QmbEpC3vsZxy336G3zTDSw38hB2Bfs7hL1S6TiCVMPDVpz"
-  },
-  "A611F0C45BF5DF5735031226538B7C74F973CB23": {
-    "name": "Psychic Detective (USA) (Disc 3)",
-    "vid": "QmZk5wpmBhKmYaKFdW35nKCGYMxqwUbnNi8q86LqsojE3L",
-    "logo": "QmQVGX8ZwV6gK2hMt2uSDHD8aydqLrAGzzrDLhYHqVmdxi"
-  },
-  "F779AA49287B7702C627B05FD364E08CC33052CB": {
-    "name": "Let's Play Beach Volleyball (USA)"
-  },
-  "ECB40EA9467C06C7C88D0CBDAE500A02E6533787": {
-    "name": "VR Stalker (USA)",
-    "vid": "QmX5ci5gRk8QsaMUWZoPZZkyYFozTqG73Kww9xp4spgtrN",
-    "logo": "Qme2YhqZwDeaKGm38X1S5R8YcyCywjbPTB6KE6ijZnkP58"
-  },
-  "865EB9C9B224DAA8FA13C5B1CCFFB3680FFA4C5E": {
-    "name": "Demolition Man (USA)",
-    "vid": "QmZ9dZEiki4vFxs24noy65bgmZXZFZDiQjei9RCBRDR7bh",
-    "logo": "QmWjv1bidtRw1cDtp9w8JA3mUMeo5KorGrAaNZTedHKeVp"
-  },
-  "404DDA1922B96844D1BE9FC6F5AF1C101FEED006": {
-    "name": "Flashback - The Quest for Identity (USA) (En,Fr)",
-    "vid": "QmeJhT8uig7tuDQuaRhp8rhEc7bYerHfx1G8RDMidzwjZV",
-    "logo": "QmczfCAGC37eotS6rV76ro5ktYmiGpxXVkvUr4viMpGHad"
-  },
-  "09B36526660E189933E76FC362438E9C85F0CA81": {
-    "name": "Microcosm (USA)",
-    "vid": "QmV4aKqW4JsYkhfb2MixTCLeXwspfiLDyumdGLv6fxCP6Y",
-    "logo": "QmdX8NVnTgXmAo59oqTjGAAQFZqmaJPXCNM7Rt6swUHiVb"
-  },
-  "92C542F0179109DCE606CEB7EAF64F58A2A759DD": {
-    "name": "Putt-Putt Joins the Parade (USA)",
-    "vid": "QmdcVWXXsA2bmoNHZFszR2SmDeD9C9iKC78DkYyKoAy3Jh",
-    "logo": "QmcfZVeRLQ2cQY148VtnQ9pxL9yUmPfFan3W8WoJ8KRpUb"
-  },
-  "F8D3E61BD07184122F783428ABF9AA2B7B07D6CD": {
-    "name": "Putt-Putt's Fun Pack (USA)",
-    "vid": "QmVbJysj8RxCPcAu2Hq2F1pbfr92u4iauyxKAyD3mEcYfW",
-    "logo": "QmWqpx2hjeF16py9Yk7qYsrVMVQfkp8iZBK4UeTpxVbWN7"
-  },
-  "7E5486EB9D0781E3741A1B241C3488E91221CE18": {
-    "name": "Live! 3DO Magazine CD-ROM 1 (Japan)"
-  },
-  "A2F8CDB998FF0B2312DE4ACCE5D910F3C93E85A2": {
-    "name": "Live! 3DO Magazine CD-ROM 2 (Japan)"
-  },
-  "E469DE5F98318CC4F8A98071A26DF83F8A3C1946": {
-    "name": "Live! 3DO Magazine CD-ROM 3 (Japan)"
-  },
-  "B79A220C76D52040FD60C032A2C6017B7F2B7358": {
-    "name": "Live! 3DO Magazine CD-ROM 4 (Japan)"
-  },
-  "725C068CF14A8D81C96A5EF2830E2F68AE2C9D91": {
-    "name": "Live! 3DO Magazine CD-ROM 5 (Japan)"
-  },
-  "16E06AE33E5AB54FDDBB12DCABE972A183FE9605": {
-    "name": "Live! 3DO Magazine CD-ROM 6 (Japan)"
-  },
-  "D966D168E2A709B6930D10B0D37ABA45AB986E11": {
-    "name": "Live! 3DO Magazine CD-ROM 7 (Japan)"
-  },
-  "F35E1635E09B8EAB028E987F74DD0F95A1F80D63": {
-    "name": "Live! 3DO Magazine CD-ROM 8 (Japan)"
-  },
-  "66497EA2CE65007133A2497A62323A001C25B9DF": {
-    "name": "Live! 3DO Magazine CD-ROM 9 (Japan)"
-  },
-  "5FA5FAE689AB3365664D56393AD82C87082CB379": {
-    "name": "Live! 3DO Magazine CD-ROM 10 (Japan)"
-  },
-  "42DA85E74C5A3C73EEA122047B7CC6D3607514E8": {
-    "name": "Live! 3DO Magazine CD-ROM 11 (Japan)"
-  },
-  "07CCC89BA11C872FEF895FD27B84B483D2B5074B": {
-    "name": "Fatty Bear's Funpack (USA)"
-  },
-  "507A8E89C96DE43B7066F76CD646F8D5D3FABA07": {
-    "name": "Nemurenu Yoru no Chiisana Ohanashi (Japan)"
+  "0354CB2FAC5A5B40F6C866A2C0B2936481320C3B": {
+    "logo": "QmYTQBAPgSGgpzissZnRwq3uWs2xVKiGV98UkEmCkHqzDG",
+    "name": "Onee-san to Issho! Kisekae Paradise (Japan)",
+    "vid": "Qmdo93WF98Kr4A6u2CbWtmAZ1t83JumQGsQpiBzs6bNgG1"
   },
   "0378D48C1642A4AFD5075F54DFBF2341B209B411": {
     "name": "Seimei Handan (Japan)"
   },
-  "A6FD3049FF47B4FDAF8C53DC6F3EE95860DE4734": {
-    "name": "Tarot Uranai (Japan)"
+  "03CAC9B49FCD1531AB563236A988205735446FF3": {
+    "ref": "3A70C09B10454C87822A982A18A5129265E382B5"
   },
-  "563F85E4BA1EF2104029E139BCD8335EB48EDCFC": {
-    "name": "Takeru (Japan) (Rev 1)"
+  "03D63F453EDD1FE8F349E65BE339324FC50AEA52": {
+    "name": "Gex (Japan)",
+    "ref": "586626A1D35BDA93208B9801424C74353860E065"
   },
-  "157A0F747A3B81EBE67FC8C21A8B8639011B470C": {
-    "name": "Perfect World - Combat in a Digital World (Japan) (Demo)"
+  "03F1273A3E1D9A43BC266AA2820395DC97AFA2F6": {
+    "name": "Tower, The (Japan)"
   },
-  "B8D4BC36BC7E4EF5E0B176D16DD5FACE1F1A03C1": {
-    "name": "Cannon Fodder (Europe)",
-    "ref": "A566A1183F037EA22E54EB5CA298F6250B4233B4"
-  },
-  "3D16A9611AAAD00FAAFB8D8A56D96825ABDCFAA3": {
-    "name": "Escape from Monster Manor (Europe)",
-    "ref": "5663315CFE066AF79A03A9D5CC7A1CF52DD4E068"
-  },
-  "992186D48BD82660734EE09D4ED6DF755781A69C": {
-    "name": "3DO Interactive Sampler CD 3, The (USA)"
-  },
-  "7674B6A4F8FF3361850296167BC1B862AC5ADF74": {
-    "name": "3DO Interactive Sampler CD 4, The (USA)"
-  },
-  "C6C96E7BE4612C647C6DB6F98AC5661C6C9D131D": {
-    "name": "Tetsujin Returns (Japan)"
-  },
-  "849E04B1698E841488F2CB528A4B956E77E4FDF6": {
-    "name": "Pretty Soldier SailorMoon S (Japan)",
-    "vid": "QmVNq4MGeSAiY52XAK6Y4YwX8RaYzhyFGpkmrXh4SYCJQa",
-    "logo": "QmaLCnPNrnfKie92Z8X2AuiFMS3x6bp6CP5HdSMLE4PkEd"
-  },
-  "C52E71BD73581FF56C55ED6B26CC340DD2CCEED8": {
-    "name": "Sex (USA)"
-  },
-  "B11ECF18BAB270D7CFB32D677FE57472D89A8BEC": {
-    "name": "Coven, The (USA)"
-  },
-  "A79F80375691013090C1E54B8EF41445A8C0472B": {
-    "name": "Immortal Desire (USA)"
-  },
-  "B8A3A504B900042E11A7FDCFEB1A15B36D66F9D7": {
-    "name": "SuperModels Go Wild (USA)"
-  },
-  "C1D06371341E20AEB0866F526C00BAA3C4FC215C": {
-    "name": "Endlessly (USA)"
-  },
-  "6CE99DAA8022B61280B7766D1937690045D10798": {
-    "name": "Love Bites (USA)"
-  },
-  "C0D7FAB8DBB0B4CFD1EBBA9C4599CB6D2CA8C7EE": {
-    "name": "Woody Woodpecker and Friends - Volume One (USA) (RE-1)"
-  },
-  "6D31EA621AA407E6B8249BE65DDFBEAB41E55440": {
-    "name": "Woody Woodpecker and Friends - Volume Two (USA)"
-  },
-  "968DCB7D5BA37E78075A5704948F5737C621E0D1": {
-    "name": "Woody Woodpecker and Friends - Volume Three (USA)"
-  },
-  "B446F85C7237C0C765D407788FA4E999FF896E95": {
-    "name": "Plumbers Don't Wear Ties (USA)",
-    "vid": "QmacrFiZinsQwVGsqJYJqYXnAj5UwUEjgxjdAVhkfeZH19",
-    "logo": "QmZiLxR8xZx3Ebimmn71apBeTfARtT3KPcLEF5so1qyRNz"
-  },
-  "5D3B1E11E2B31DEBF363C731D562BA130A3F75FF": {
-    "name": "Robinson's Requiem (USA)"
-  },
-  "4391FC2CC5FB2FF678A6C11A0051748C5110AB9F": {
-    "name": "Lost Eden (USA)"
-  },
-  "95B75E0E636F235FE3C49B68D56787029CA53909": {
-    "name": "Lucienne's Quest (USA)",
-    "vid": "QmRQPWcs9E14J2Vsc9eevG1vrNRCczLWAH9zpNp5w3wkpj",
-    "logo": "QmVr9iQChquQ3UrmR1Wsdy4d4Drsakad6RDg7vc5KETYA7"
-  },
-  "135EE990E786F3729E491F6AB139E658C6697398": {
-    "name": "Johnny Bazookatone (USA)",
-    "vid": "Qme68aajXRiic1MVGD2bFtLhjez3Cf1xCuzAuj3xqCFr74",
-    "logo": "QmdaLb9HXsano4ssyRE7rW1hYygUbTF2CcnZ8KPnKc9EFE"
-  },
-  "9B0D708ADA37A514003060155AFBFE15B61905D6": {
-    "name": "BC Racers (USA)",
-    "vid": "Qmdt18yUuRPRusBp9omuuSTCrbgRfBd8V9gm7hp7nRqhon",
-    "logo": "QmauNKyUkviCCRN7jcGEngt3HNk6YvHMadtKnhrzUqiW1k"
-  },
-  "6E7C6A74C574941AE471500F7F1C70A47517F53A": {
-    "name": "BrainDead 13 (USA) (Disc 1)",
-    "vid": "QmWJmRFvmte1uu4FkyPZwG9re2xuKVSzuwdwg86mHbne9J",
-    "logo": "QmZ2fYaektxKQYRamo1BL7pGLC9nto9JCCHN8TVoiModCb"
-  },
-  "981DBCC139E7CC275C213CD027797FB9A15FCAD4": {
-    "name": "BrainDead 13 (USA) (Disc 2)",
-    "vid": "QmWJmRFvmte1uu4FkyPZwG9re2xuKVSzuwdwg86mHbne9J",
-    "logo": "QmYRuSpauHiWBpak812cY1Gwmn17ebggrcojHEaRzkj2sd"
-  },
-  "43DD88D2695F222B23B435B008DF8CE166861FE8": {
-    "name": "Casper (USA)",
-    "vid": "QmagszrF64DgANk8AXWEozrjK7LAth4cFbvZxMwVx6UxZ5",
-    "logo": "QmeYSyT2C7dy3a5FF2nH1GA3FCJ3YARtAHxakdCUBvuqu1"
-  },
-  "A8EA584619A052050C9120B87D04EAFEAA59BA32": {
-    "name": "DinoPark Tycoon (USA)"
-  },
-  "1EC9C49B80F230194DD1ECC7E7BF5654A9B0BE8F": {
-    "name": "NeuroDancer - Journey into the Neuronet! (USA)"
-  },
-  "136E8027C1F7AEB53497489DDA54FCFF4DFB4185": {
-    "name": "Life Stage, The - Virtual House (USA)"
-  },
-  "AE13EEC909335C3E219D35E557AEDFD9D0D34BCB": {
-    "name": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZAZ)"
-  },
-  "1A46AC1804A2E60143742C859EF288F954F8AE8C": {
-    "name": "3DO Interactive Sampler CD, The (USA)"
-  },
-  "ECEC11A0CC250D5256A4593245FE5FAA9D626E8A": {
-    "name": "3DO Game Guru (USA, Europe)"
-  },
-  "D643C74677B283EC01431C6457D21F888747C77B": {
-    "name": "Alone in the Dark (USA)",
-    "vid": "QmQxaUPxFngh3K9Wfja52phyr9kkvWbmPfNqe6x4hA3dNP",
-    "logo": "QmZvmEpc1k3ubKsbD9GdjGwWsdonmXjWTB74SEWWkvkm2p"
-  },
-  "FEEF790130D05CA5446BE4550E4F8799E5F983AA": {
-    "name": "Alone in the Dark 2 (USA)",
-    "vid": "Qma8beKx6XMv8BMABZCpcAo8YB6Li3Qti6SfDWyHuy2Huh",
-    "logo": "QmZ8FW5iHxfvKt9dpcsN9mL7Vo5Rg3ejc8GnGnjm6okUG7"
-  },
-  "9BFA677541194F76923F11D240DC312844614DDE": {
-    "name": "Drug Wars (USA)",
-    "vid": "QmUhzDpZpMhNVDT2NKzYWubKooW38BZEKMTYk81ka2M4VQ",
-    "logo": "QmWbcJBLqVpc5wgwKqMsyq2Cd3gdn8P75aVwDMp73Axqnn"
-  },
-  "8D067AFEFEE5BAE1750AC629CB6E74ACA3648439": {
-    "name": "Lemmings (USA)",
-    "vid": "QmQPwGQpTxKJnVBvcYagaeaQ81JSYgmS98a79zb3YV56cv",
-    "logo": "QmWrmzwf2zKMFVEgFg91PMdcxDavCs7TzA8St2znML7h94"
-  },
-  "DCC03E5E0315B3C2998D6F96683D08B0CB7770FE": {
-    "name": "Night Trap (USA) (Disc 1)",
-    "vid": "QmXrEqvh1kSVmTgsZCPoqPZACw1Jcbzmwh4v6P89v65wtX",
-    "logo": "QmbdfUjvnzbJBMr2HfTLcisd6yebZuAXNN1rvdyiJkt28H"
-  },
-  "820DB988B02E2E019BA5AA54A6A287FD9C304D01": {
-    "name": "Shanghai - Triple-Threat (USA) (3DO Action Pak)",
-    "vid": "QmRZ9xii9FxMruP14AAWpv1GYnpi3cEedSHj1XZ9EVeYLu",
-    "logo": "QmRCW5Unu9TgH7V8Tr98tNYDyi6JWAMyotiYpDWci8mwhD"
-  },
-  "1A61540F71AA15DF914615200C4B46D2105A25C7": {
-    "name": "Super Street Fighter II Turbo (USA) (RE2)",
-    "ref": "1F0765A37412BD6BD82AC9D5649D2CBFB8867B52"
-  },
-  "C4D8F8CBB11C659D052FEDC953476A5F0C16A15B": {
-    "name": "Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1)",
-    "vid": "QmUSPxZ7quoVbRwSU7ARXJcsRaBwLw2trHfWm3osGPWiQY",
-    "logo": "QmRtxrcb9nriavZvyhF6H2imFDfZUSZVYFBwK6cwnmhY8C"
-  },
-  "D70EF716E57985041E69E9BA7F4D18158AF213BF": {
-    "name": "Gridders (Japan)",
-    "ref": "A5A715398E0CD6FA858456512C953CF7538EE431"
-  },
-  "ADDB50E98E3751A0F020F592035600972ED6C1FD": {
-    "name": "Nova-Storm (Japan)"
-  },
-  "DCCF8F65730074160BEA5BB8C1D13F9ED3E2FA52": {
-    "name": "Onee-san to Issho! Janken Paradise (Japan)",
-    "vid": "QmPPMejUW9z1cQsuKE2CwghNtSmB625ZpNjkdEQY1Wdzfb",
-    "logo": "QmX4ufpbT6zG5rFzGBEJ91EHV19zQKryxzwMsTX6ZrVmAM"
-  },
-  "337CA0B80CB043376CDF4DC328D4A94A93E0CCF6": {
-    "name": "Strahl (Japan)",
-    "ref": "646BC6B359AF5F1F1329E856EB6BD6DE56938678"
-  },
-  "F7F977CFAF68F1E0B13F8461235A3E08DDC31BF0": {
-    "name": "V Goal Soccer '96 (Japan)",
-    "vid": "QmU5Ktd9hWxMeEZq6yCtSkUoYKsgmWXw7reuZJi9EYjTWJ",
-    "logo": "QmYEdjv1bjootRu2AFzUrz4cnpUGDtRbwkxikLzez7sNMD"
-  },
-  "3301358B3D91472D2E14F4B7DED6C83468342F70": {
-    "name": "Igo Time Trial - Tsumego I (Japan)"
-  },
-  "1B412DFFE8C35981FDF4A9F6DE52080C36E0DF84": {
-    "name": "Hatsubai 1 Shuunen - 3DO REAL - Tokubetsu Premium CD (Japan)"
+  "03FC25987CF4339BEB6C4354E5BE61BF7FA6FD37": {
+    "name": "Sotsugyou - Graduation - Final (Japan) (Demo)"
   },
   "047D984FBF5DFC13B632D54AB4DF4182E1576884": {
     "name": "Monoshiri Jiyuugaku - Ogura Hyakunin Isshu-hen (Japan)"
-  },
-  "38BF99415CEEEDF8A63DD7BD24DDE75BBF34931D": {
-    "name": "Burning Soldier (Canada)",
-    "ref": "92B6A8529F3DAA5A9B6EF421017000558C88EF3F"
-  },
-  "BB069B3064EBE0C38F49FB006A45FDFABA358E0D": {
-    "name": "AI Shougi (Japan)"
-  },
-  "3DC631A137A8FCABAE3CDAAEB9EFCFFBFDF538EA": {
-    "name": "Emit Vol. 3 - Watashi ni Sayonara o (Japan)"
-  },
-  "1E53199D3BEFC08EED4D2FF9CB40ED01428E2FF4": {
-    "name": "Hirata Shougo Interactive Ehon - Sanbiki no Kobuta (Japan) (En,Ja,Fr)"
-  },
-  "065600604F5960B00A02F13C7C3BBE9A3ABA0C63": {
-    "name": "Pro Stadium (Japan)",
-    "vid": "QmP5JTFBZQuV8f6Sg1qoGrCMZVQHLFw79GprBvaaoJzgMR",
-    "logo": "QmVUzSbopfcMMitzswyPiB1DMG4kFxV9nM9kMgBh4daMGM"
-  },
-  "36944442F66AD459D40663554D00091B590A8D7E": {
-    "name": "Putt-Putt Joins the Parade (Japan) (En,Ja)",
-    "ref": "92C542F0179109DCE606CEB7EAF64F58A2A759DD"
-  },
-  "9ADF5EF94B0A77C0486D3105121DF6DEC315B97E": {
-    "name": "Sangokushi IV (Japan)"
-  },
-  "FE3957E04B4B76226788CF30B7ECF45DDC6D0EBD": {
-    "name": "Virtual Puppet Reika (Japan)"
-  },
-  "A68463877BA311561DFD359B8CC44BC88305DB76": {
-    "name": "AutoBahn Tokio (Japan) (Demo)",
-    "ref": "E48581EC4501B93D684A423DF32F9530040FDCF8"
-  },
-  "3C68E8F0A9890F376A1B76FD4482BEEDB838B501": {
-    "name": "Pro Yakyuu Virtual Stadium - Professional Baseball (Japan) (Demo)",
-    "ref": "6423AD8F90242C4362C8054931561ECBF7C15399"
-  },
-  "DD3C6BC94074935EE90664D207EB9D20F544F092": {
-    "name": "Bonogurashi (Japan)"
-  },
-  "1FB556CCC6CE9D313B7CCC195B068561ECE0AC0E": {
-    "name": "Wolfenstein 3D (Japan)",
-    "ref": "FEE290EF7293B5FACDC75BCDC332968836CEF738"
-  },
-  "475454B06E0380D6A0A55BB48B375D669E2BB7AF": {
-    "name": "3D Atlas (Europe)"
-  },
-  "E9A1BFFDA13CC6F4AFBBE4DE5A9D3E8833D7B4AA": {
-    "name": "Igo Time Trial - Shikatsu Daihyakka (Japan)"
-  },
-  "405A6CDD01E1E7C09281FCB4AEE8222198ADBD0B": {
-    "name": "Panasonic Special CD-ROM (Japan)"
-  },
-  "6423AD8F90242C4362C8054931561ECBF7C15399": {
-    "name": "Pro Yakyuu Virtual Stadium - Professional Baseball (Japan)",
-    "vid": "QmXU1WD1dRhKyqiu48VpjP6sujSDPJRa3BaBJWTib5VyNu",
-    "logo": "QmTkZ6aM2d2GDsRVT8AabajRDw9F3ZtneEshKtuA9RkK4B"
-  },
-  "52ECC0719CB947E29838C2E2BD566A9DB202C73A": {
-    "name": "Sword & Sorcery (Japan) (Demo)"
-  },
-  "7F9AF7DCF6C15BA8779DAF96306F063F8FEB859E": {
-    "name": "Totsugeki Karakuri! Megadas!! (Japan)",
-    "vid": "QmTkWkvgyJHFzUo6cm5sntpncEY5f8Ud5HkiXKZhcJYLP6",
-    "logo": "QmYtRmHDukpuF8SXqbx2fv9W9mMr5QGFJ7CU98H8KVvns6"
-  },
-  "4CFD8D93C6016B303D3655D726DEE921E20B9EF1": {
-    "name": "Shock Wave (Europe)",
-    "ref": "403DA6C5C27C9785F255B0CBE9ADFB55C122A6D3"
-  },
-  "C359258F8D1E12303D2AE7414468BEF305855752": {
-    "name": "Lost Files of Sherlock Holmes, The (Europe)",
-    "ref": "F6ECD5D6A0FCB5A25FBDB8BB370BB2AF98EE1D58"
-  },
-  "3089ECB3A1FCA6783AA7B839398FA49347879525": {
-    "name": "Wolfenstein 3D (Europe)",
-    "ref": "FEE290EF7293B5FACDC75BCDC332968836CEF738"
-  },
-  "17AE47E705601BC1243C002DEA56B0227E56A2F8": {
-    "name": "Club 3DO - Station Invasion (USA)"
-  },
-  "5F90B870870510845A5234A881E6903B99B3847B": {
-    "name": "Cyberia (USA)",
-    "vid": "QmVq7mQHjLHoTkWvrSH85J1KNMePa78bdXv1jyVyendwLr",
-    "logo": "QmPnirCFE77LXsTtXLrwfUihaAZ9KAjeXV1PV7CSeVhHN1"
-  },
-  "1A58FEC60D528501139E985EDF136626CD0E1BB2": {
-    "name": "Twisted - The Game Show (USA)",
-    "ref": "F9CCEDC3D4FDA12E38794D8EB6C7F5D1D47D5028"
-  },
-  "B3F20507440F0BDF7488E56A124FE0D1F6B78E43": {
-    "name": "John Madden Football (USA) (Alt)",
-    "vid": "QmT7X5SjoHXhgAzcD3K3jX4uj69yZPkb6cVGL3WD1dU762",
-    "logo": "QmUP634CRfwtMhU5oRpz5rGfrH6xXiZsJh6j9gAEG1SJfM"
-  },
-  "47CF22AFF089ADC72534B853F8337DC294F0B74C": {
-    "name": "Star Control II (USA)",
-    "vid": "QmVvVzfaitsWqVf1PnPiK6oVCt2gwvCzrpV2eNvmqJxfJD",
-    "logo": "QmUfvG3QENt6xh6LAnGzTmnQMrHdvevfqxaMsRJxxZNUUt"
-  },
-  "8E8C376A2613778AE8DB0B8E5D548C84D0F02938": {
-    "name": "Creature Shock (USA) (Disc 1)",
-    "vid": "QmYaV7XKX4cXiim4zzEDcCLYHnseQmR6Nz98tHriivogHQ",
-    "logo": "QmVSjnwm9j3us8GwzRCH8vsryyVL1MfyrXydpw7DLi7Mdr"
-  },
-  "7975BE4A1CDA3FE52534557A3193C8704FE4C83B": {
-    "name": "Creature Shock (USA) (Disc 2)",
-    "vid": "QmYaV7XKX4cXiim4zzEDcCLYHnseQmR6Nz98tHriivogHQ",
-    "logo": "QmVSjnwm9j3us8GwzRCH8vsryyVL1MfyrXydpw7DLi7Mdr"
-  },
-  "757A7094B65DBED3697FE26FB8CC20F2E25BE043": {
-    "name": "DeathKeep (USA)",
-    "vid": "QmWy4cRpygwQsYJfHhGX3d5sm21bDqD5iQBXn4ZKf7T1V1",
-    "logo": "QmfR9RavMCne76HSfyxoN3E8j3TJa9ANv3k56yUZUufVbt"
-  },
-  "6A08657F15541035E1986357FC1757454C8B4D4F": {
-    "name": "Guardian War (USA, Korea)",
-    "vid": "QmSMdGSc1J4PJKRNWQ6kmKkksnZ9ZX2R3Mjcb6Q21yqb28",
-    "logo": "QmfFPGRjk4A92mgynz8CxqCsP1KSfYoFJtoWXfk5EUGTs6"
-  },
-  "731B19F2EAB1DCFC101951E05A98E41D55DF45DD": {
-    "name": "Novastorm (USA)"
-  },
-  "9B5274F994786B519B44DC25693310B4E5D4AD0E": {
-    "name": "3DO Interactive Sampler CD 2, The (USA)"
-  },
-  "678AB452BA9B676E3D6B7EFFBBD57B96F18F4561": {
-    "name": "Super Wing Commander (USA)"
-  },
-  "530F7448CE98079EC59A6A61D34A63AC51E94E06": {
-    "name": "Shock Wave (USA) (RE1)",
-    "ref": "403DA6C5C27C9785F255B0CBE9ADFB55C122A6D3"
-  },
-  "49FCC68058CC2E191541C118E1B138C2F347BB64": {
-    "name": "J.League Virtual Stadium '95 (Japan)",
-    "vid": "QmThRSEsGiACf9gVV1mxpTeq7DxGUnuF2uinPNyi4eEyxD",
-    "logo": "Qmc2LmHiDLPu3hxFF6Aft3FCHB1Xp6vqvmDquppFgcXY1r"
-  },
-  "B83D91BE8E65A57BF98AD76EF8880048F46F3DEF": {
-    "name": "Montana Jones (Japan)"
-  },
-  "8150BA547FE4FF080DA527FD70E1AAA52A13DCD1": {
-    "name": "Moon Cradle - Igyou no Hanayome (Japan)"
-  },
-  "40731E086F4F68B8A3ED63A75A79F6A927A5742A": {
-    "name": "Peter Frankl - Puzzle no Tou (Japan)",
-    "vid": "QmX8JiKmydmSRepzKeB39fxNaWfdmEYeJUCJuMUP3BigJs",
-    "logo": "QmW3eCxgkTCGL3yGQ9oms6jQyAsptzxhZjzUJBhEd3N6Ps"
-  },
-  "6752C33B76FBE66A8F37C2333EC437B9484B88EA": {
-    "name": "Putt-Putt's Fun Pack (Japan) (En,Ja)",
-    "ref": "F8D3E61BD07184122F783428ABF9AA2B7B07D6CD"
-  },
-  "E67768A138BD597BE8A9251CE7B851FB67B42C53": {
-    "name": "Sotsugyou II Special - Neo Generation (Japan)"
-  },
-  "2A48D357AEBF283EB5A0EC061D8D0DAA50C42727": {
-    "name": "Slayer (USA)",
-    "ref": "A7FBB2E74D226410AEA05C5F61380FB09252573E"
-  },
-  "CD9C60AAA8B21652164D9F9696F94F8CEA3A0AD7": {
-    "name": "Sid Meier's C.P.U. Bach (USA)",
-    "vid": "QmXafTbEQ569TxkhBEDxcwCwijYqxJRLeqSnN3WMvbGQiU",
-    "logo": "QmPGtQq2WBx8bXbAuh9xB7LidbZnnaPRgsMRDptaGa8Utb"
-  },
-  "DCF035EDC3E479CB36A23631DF46081A784A8F03": {
-    "name": "Icebreaker (USA)"
-  },
-  "35A30A7F8C55562410ED57782BC6D2E7829F4544": {
-    "name": "Mad Dog II - The Lost Gold (USA)"
-  },
-  "1843C6997542F7E6E4CE69202EF3DEFA55A3CF6F": {
-    "name": "Night Trap (USA) (Disc 2)",
-    "vid": "QmXrEqvh1kSVmTgsZCPoqPZACw1Jcbzmwh4v6P89v65wtX",
-    "logo": "QmbdfUjvnzbJBMr2HfTLcisd6yebZuAXNN1rvdyiJkt28H"
-  },
-  "88D8FF6AA790BD19E68867557665F8E2BEE9B2B7": {
-    "name": "World Cup Golf - Hyatt Dorado Beach (USA, Europe)",
-    "vid": "QmQ7qzkC9toHjpGWHrAkWKdGpiHMMyb2aJfnDbC2ZM8LHv",
-    "logo": "QmeWkybQKXnpcxRSmB3QXytseN4KTzCchRmqqfB9vzCspX"
-  },
-  "AB03A8994F60A4EE0CFA087B4F9B27700F30C947": {
-    "name": "Captain Quazar & BattleSport (Europe) (Demo)"
-  },
-  "F90B88CE07131D60A364391CA088C615BB6F5F02": {
-    "name": "Phoenix 3 (Europe) (Demo)",
-    "ref": "0640009042B54FF534A0158217955625B913E457"
-  },
-  "7D3E1E699B9EAC96B97AA6E0FEAD62A53E79EC12": {
-    "name": "Starblade (Japan) (Demo)"
-  },
-  "807A825FD9DDEFAE25808CE5A97BE866379C8B1E": {
-    "name": "Olympic Games (Europe) (Demo)"
-  },
-  "3BF87D8F0A93BFA21CF975C5CD2AE9716349CE0E": {
-    "name": "Soccer Kid (Europe)",
-    "ref": "0699F55B96D2A10B518AF6DEC4F285287EC6537F"
-  },
-  "A588AD3ECAA3D741B567CDAD3F564A72D3DA2786": {
-    "name": "Dragon Tycoon Edge (Japan)",
-    "vid": "QmcC6MEMcSbLfacyhFvXY7z7LgfLA6ZCkMd7L7w3ick9Ti",
-    "logo": "QmaVwzaXGc4dRozPrnxE4Y5ouGn37Vth1zns9BPdgAgXbt"
-  },
-  "133F10FEAC5F45E3B6741661D10D8C659797DBD4": {
-    "name": "F1GP (Japan)",
-    "vid": "QmbYQX7E2N9n36WPChjV2JBLPF46uAK6vWnVXMYuMW4uAc",
-    "logo": "QmTxTGaeCtWfN1P7DaMvdk6MnkHUMoBetkxDGJNVdPw6Ce"
-  },
-  "73537E56718DB8C636925996E3D65A729E470AE8": {
-    "name": "Fatty Bear's Funpack (Japan)"
-  },
-  "98C14628D5480088F0DA0F8BC40492B19CB513BA": {
-    "name": "Dennou Hyouryuu - Multimedia Cruising (Japan)"
-  },
-  "A17E7BC45A4343E06EC687E1A2A2FC83E88322C9": {
-    "name": "Blood Angels (Japan)"
-  },
-  "282655F8A32FEC87E9DD8773CE92780E8E25B510": {
-    "name": "Corpse Killer (Japan)",
-    "ref": "0D544CA6AA60E6D8F8135FE0FC2204F6AD03D7BE"
-  },
-  "22C823F47271E7A7E81FEF7CFC87856291D48006": {
-    "name": "Defcon 5 (Japan)",
-    "ref": "562197866CA836C751E23E8F74CBEFFA593A5A62"
-  },
-  "05DD7F13B67844F862361E084AADB46F3418F47C": {
-    "name": "Hirata Shougo Interactive Ehon - Shirayukihime (Japan) (En,Ja,Fr)"
-  },
-  "9CC0D7615FAB9D3BCC2E37305C9B39E562EE0E93": {
-    "name": "Kero Kero Keroppi to Origami no Tabibito (Japan)"
-  },
-  "9C5F6912ACC06990B0C5FB42236D1BA19A8BD2A8": {
-    "name": "Lost Dungeon (Japan)"
-  },
-  "46717962D767EC2868CF3F8193D2FE7E8D99F634": {
-    "name": "Oukoku no Grand Chef (Japan)"
-  },
-  "312A04486A58506964C830DF102CDC2A3D9D30AF": {
-    "name": "Touhaiden Akagi (Japan)"
-  },
-  "2A2401D444D1B383AB3E6CAB7E545D3AB657DB5D": {
-    "name": "V Goal Soccer '96 (Japan) (Demo)",
-    "ref": "F7F977CFAF68F1E0B13F8461235A3E08DDC31BF0"
-  },
-  "3E83E3A70DA0FC87AD384BDF52336324D297CFBB": {
-    "name": "Grimm Meisaku Gekijou Vol. 1 - Bremen no Ongakutai (Japan)"
-  },
-  "3C9E69E3DB60374E4CAAFF52A1DB107F4707433C": {
-    "name": "Ghost Hunter Series - Kuroki Shi no Kamen (Japan)"
-  },
-  "34B5CE62F31679CDF414C00AFE214C6C65D6C0A3": {
-    "name": "Penthouse Interactive - Virtual Photo Shoot Vol. 1 (Japan)"
-  },
-  "1303AB104B46FCD33AC00B1EE1791C3595DF0E3B": {
-    "name": "Flashback (Europe) (En,Fr)"
-  },
-  "B9A0AC10A528F68BC348672813C2ADD72FB53165": {
-    "name": "Flying Nightmares (Europe)",
-    "ref": "09E263FC5F1F810D3334D1CCA35916953EE78A00"
-  },
-  "9D5392E5BF5FAF39B949149D51D6248256850AA8": {
-    "name": "Warner Music Group (USA)"
-  },
-  "0B494529089C020817554BB4000C2EB03B71C3C3": {
-    "name": "Pebble Beach Golf Links (USA, Canada) (Rev 1)",
-    "ref": "E2AF00FBEE7406641EBFC7985DA4D6ECED0CB749"
-  },
-  "89F36386EC87B4E5C90D1511AFA556871DED11AA": {
-    "name": "Ghost Hunter Series - Kuroki Shi no Kamen (Japan) (Rev 1)"
-  },
-  "BC4EE5D343AB1C01EC5B6F5BFD44D8B51D7638F6": {
-    "name": "Shock Wave (Japan) (Demo)",
-    "ref": "403DA6C5C27C9785F255B0CBE9ADFB55C122A6D3"
-  },
-  "C63D139D5C6930CDA2BEC1F01D95B6767FFD771C": {
-    "name": "Life Stage, The - Virtual House (Japan)"
-  },
-  "B839263050CE0E98C2FC7282A244585BB0929249": {
-    "name": "Nice Body - For Professional Use (Japan)",
-    "vid": "QmVN816EUz4JYKiTQ1XbhHzvSuALYNAAoAhfqgxH2B7Wzm",
-    "logo": "QmQSWZfe1MKAjUQKEVFF4zVsgpVMsZDkVR67naXvRUaoHJ"
-  },
-  "B5846CE6E3DA36CA762DD700889A93A5C4C804E6": {
-    "name": "Yakyuuken Special, The (Japan)"
-  },
-  "C47FB4728C69406883DBDBF0E6AC7F9BD16C4EE8": {
-    "name": "Tanjou - Debut - Pure (Japan) (Rev A)"
-  },
-  "47A7BC3DEDA1CF323D00F8C8739756089AE795B7": {
-    "name": "Royal Pro Wrestling - Jikkyou Live!! (Japan)",
-    "vid": "QmPvCr2kXVyKcnrNC6Cou6KBmwvZL74DLwfVPTp5eLcKE2",
-    "logo": "QmXXghtsZh4minmQcanPxfmXoXAhYZde52r7zuwLZmbn5g"
-  },
-  "2117A09346C0547D8CB176968B3FE19C64788B5E": {
-    "name": "Cyberia (Japan)",
-    "ref": "5F90B870870510845A5234A881E6903B99B3847B"
-  },
-  "EFFF006A9A0EDFD86292B3E295A8998A3D8F3BF6": {
-    "name": "Super Street Fighter II Turbo (Europe) (Demo) (3DO Magazine - Issue 10)",
-    "ref": "1F0765A37412BD6BD82AC9D5649D2CBFB8867B52"
-  },
-  "468EA73B034E30104460DA14DBB7DCA75EBEF2A6": {
-    "name": "We Got It (Europe)"
-  },
-  "C6524EA91C38309EC12C5BE4597E9CD698E762E9": {
-    "name": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD for PAL System (Europe) (Rev 1)"
-  },
-  "A725CF01C5D2696D457CCC9194840B050D44010E": {
-    "name": "Storage Manager - Memory Kanri (Japan)"
-  },
-  "35B50D0598EB82CF2C612F3E08B9C14BE64EF58A": {
-    "name": "Yu Yu Hakusho (Japan) (Demo)",
-    "ref": "754342C0242DE2B748599AE4D90DE0EFAE03A3F1"
-  },
-  "53088BB162054377815D12478207B7B1D1E39644": {
-    "name": "Pretty Soldier SailorMoon S (Japan) (Demo)",
-    "ref": "849E04B1698E841488F2CB528A4B956E77E4FDF6"
-  },
-  "4C5306566ECA1800E3F80AC36EF429DE6711CF8C": {
-    "name": "Anno Mitsumasa Pepperon-mura no Shiki (Japan)"
-  },
-  "E024CB631E2E174DBBFD4003C4C9AF7787E9BCE1": {
-    "name": "Fire Ball!! (Japan)"
-  },
-  "CC269A975C7252BE6FAB6038720561145674B961": {
-    "name": "Mahjong-kyou Jidai - AV Gal Seifuku-hen (Japan)",
-    "vid": "QmWQqnkwxLoS5e1ueG4pWbZ44AaiNQFwqtKyoPPwsh7UpR",
-    "logo": "Qmav5wEKZooomxaM8hsf6nuqiz19QrWxAFnt7RQzkNa5Y8"
-  },
-  "77F7DAE22BD9392466E790350E3E407F3A54709A": {
-    "name": "Virtuoso (Europe) (En,Fr,De)",
-    "vid": "Qmb1s7TxPvkiJWsFQYwAq1XqgbJD44bFhMcRkAhesAgW4Y",
-    "logo": "QmQWx6XwF9NwN1sRPbPSZNEc83agnEc5UN391QBQXdGf7B"
-  },
-  "23800274EBC24F55E006C2A56DA1DF602566F513": {
-    "name": "Hirata Shougo Interactive Ehon - Ningyo-hime (Japan) (En,Ja,Fr)"
-  },
-  "A2E6CF56EF6414DD225DAE12303C6276D9773A34": {
-    "name": "3DO Multi Game Sampler Number 3, The (Europe)"
-  },
-  "5663315CFE066AF79A03A9D5CC7A1CF52DD4E068": {
-    "name": "Escape from Monster Manor (USA)",
-    "vid": "QmQVupuSnvqbVpEfj5u8VyJAExUa7dt3sceBVQY7ggSZ9r",
-    "logo": "QmRC49XsVpZ5La2dPa8DVQFaPHtydnSRXUWUx6CdkaiDsv"
-  },
-  "2C01A0C1CCFC1EB18C9EF53F73FFC630C9B81472": {
-    "name": "Oceans Below (USA)"
-  },
-  "CD9A4F91750237475213FC4EFD789237D916948B": {
-    "name": "Slopestyle - An Interactive Learning Cube (USA)",
-    "vid": "QmVS8X4MM7xdz653TCEPmGFy33yvj7sjLLkF85FNty8A8S",
-    "logo": "QmfCEnXfsdzRzTaHHBY3NiZvoxkPqesC3VZNT6GtNHcPso"
-  },
-  "4A56F0B923D217CD7CDDFF3A87B86C056CDEA7B4": {
-    "name": "Last Bounty Hunter, The (USA)",
-    "vid": "QmWRRqnHmUe69EPnd3jKh5bGCpGW5qS1Y9gEsFp1Q8Y1p2",
-    "logo": "Qmad3z8vKyD2udM3CSHLC7MWgTexUer28W3Gqw3c4RC15P"
-  },
-  "DC1B3D19D06E9E1D05B8981043F7FC3B505A5E0A": {
-    "name": "Sesame Street - Numbers (USA)"
-  },
-  "FFBAD229E50EAF620EB80C9D1DD7A730E95F9D25": {
-    "name": "Horde, The (USA) (RCB)",
-    "ref": "8DB2055A48792B7C06E8C6D6AF0882F6B8BF9DE5"
-  },
-  "562197866CA836C751E23E8F74CBEFFA593A5A62": {
-    "name": "Defcon 5 (Germany)",
-    "vid": "QmNugm1CtHTansi6veqGckSsFHnDDn37ueErxtRt61hdi2",
-    "logo": "QmfJrCEaCecB5PSZdmYzSWGuVPDMLKw3U9yfL9G7rPs6uc"
-  },
-  "FCAD2299A37F4189A5194CEC7B29E795939F8572": {
-    "name": "Incredible Machine, The (Europe)",
-    "ref": "A88A79A2706090E3E49CC65F730CC9667ADA7407"
-  },
-  "BEF0FAA741A75C55CB9E72CB34C18B098B6DC617": {
-    "name": "Alone in the Dark (Europe) (En,Fr) (NTSC Version)",
-    "ref": "D643C74677B283EC01431C6457D21F888747C77B"
-  },
-  "99DB7CA29519008E7D4668506AFF2113ED1B37E0": {
-    "name": "ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 4)"
-  },
-  "54D20C1F12E9BB7599BD881DB6E45BE3B50FAB81": {
-    "name": "Phoenix 3 (Europe)",
-    "ref": "0640009042B54FF534A0158217955625B913E457"
-  },
-  "A99A1362DB45D036CAC61ACB431BD50D05A3BF4F": {
-    "name": "SnowJob (Europe) (Disc 1)"
-  },
-  "9DE39AA7C89B06534425336B984A0F937A3F1FBC": {
-    "name": "SnowJob (Europe) (Disc 2)"
-  },
-  "7A51083B1851DF3A004F857A94DDAB566B56974A": {
-    "name": "Shockwave 2 - Beyond the Gate (Europe) (Disc 1)",
-    "ref": "6C721692986F2BDFD2A36DAB946C50E4C74A153F"
   },
   "049FAC819B0D8289830C10EFBFBD3391200DD8EC": {
     "name": "Shockwave 2 - Beyond the Gate (Europe) (Disc 2)",
     "ref": "6C721692986F2BDFD2A36DAB946C50E4C74A153F"
   },
-  "40D81B8CC5FFC166F969BA3FF32A080ACAD7119D": {
-    "name": "OnSide Soccer (USA) (Unl)",
-    "vid": "QmQZyJyQ9EPnKKbgRmiRV3psJUrG4WRF5MwPuiM7vRb2Up",
-    "logo": "QmUxpb1eyqxcpEYYojEnRk3YcLpiDEAF7r1trPzFAghD3z"
+  "04B8173388102E15169406C417B7A3260FAE6C9F": {
+    "ref": "00E821255EB6DB38E181205ECAA7B05F53274440"
   },
-  "8EFD5EC804B02B7E4DFC4158D58F740D7C36665E": {
-    "name": "Powerslide (USA) (Unl)"
+  "0523710D39B284F21998AD49C0895B606F01AE9C": {
+    "name": "Dragon's Lair (Japan)",
+    "ref": "7707FAB1D30B2A06051FFBAC2938DEF751A7F118"
   },
-  "739114E650E3401C61DCA6F27F5AD757530F084C": {
-    "name": "Footie (USA) (Powerslide Bonus Disk) (Unl)"
+  "0564B53450C61F24002D0201126B81F90BE0586F": {
+    "ref": "09DFDF1129673A8BFC50DE80BF5B94A17F68CA19"
   },
-  "7BEDEF0ADFD8A91A9927E8C0D330369AC75FB965": {
-    "name": "Decathlon (USA) (Unl)"
+  "0577EC19E8F60F2A3F350AC082787A099D3A7E17": {
+    "ref": "35A30A7F8C55562410ED57782BC6D2E7829F4544"
   },
-  "585D88392364F03C565C44372BEE0FE4725CF067": {
-    "name": "Hitchcock ni Chousen (Japan)"
+  "05DA263E9F9BA706CCEC388DC7163A5D1FCB81E9": {
+    "name": "Kyuusei Senjutsu ni Yoru - Heisei Kaiun Koyomi (Japan)"
   },
-  "C92D5C023383F4C61B448679ABB8C05A2E93710C": {
-    "name": "Alone in the Dark (USA) (Demo)",
-    "ref": "D643C74677B283EC01431C6457D21F888747C77B"
+  "05DD7F13B67844F862361E084AADB46F3418F47C": {
+    "name": "Hirata Shougo Interactive Ehon - Shirayukihime (Japan) (En,Ja,Fr)"
   },
-  "42935CF4780965FF409FD68BF894AEAB4828785B": {
-    "name": "Captain Quazar (Europe)"
+  "05F83E2EDCF627E558F32B065F10CBBD12095683": {
+    "name": "Myst (Japan)",
+    "ref": "A8F0B8640DD12058E97072B83412A2074BBD3020"
   },
-  "41C456C20074567D1F3155CB229E04DCCC851F77": {
-    "name": "Gridders (Europe)",
-    "ref": "A5A715398E0CD6FA858456512C953CF7538EE431"
+  "061CCB8BB30607D71BE5A6C2C3AFBB3F9CF71525": {
+    "ref": "5B9C29097D3DB9D7D5073769292457C1FC867684"
   },
-  "224B0F767D9C5900C08F3EE3E238DAD7C837F861": {
-    "name": "Real Pinball (USA)",
-    "vid": "QmNy1sAzfMyL4v3iPNQzEcLGeF9QkSWzb2co8RvZcCN6oQ",
-    "logo": "QmTKyJpSazSjPcSsMxhXkS3KRh5tN8DJn94LgVUoYVtgAg"
+  "062150C5F89B3E83A3856B67CD733D0B7F566103": {
+    "logo": "QmZs2LJc3n39VkE7wHM5iPGzKBLoMNGoj1QYV19rcrtJsb",
+    "name": "Way of the Warrior (USA)",
+    "vid": "Qmdjkx3tivvuH1z9n4QGVkyGKK1NQhe1kB4t3i6ScgDEzD"
   },
-  "646BC6B359AF5F1F1329E856EB6BD6DE56938678": {
-    "name": "Strahl (USA)",
-    "vid": "QmXwdnsWBzBh6sTc5desivT8SR9d6dJmrJSDSvg9MpPSJ9",
-    "logo": "QmYBNkZAGwqh7xpXs1P3QL9szcQ5Ws64GwyJEKQ9D6sKST"
+  "0640009042B54FF534A0158217955625B913E457": {
+    "logo": "Qmb6tKZcmWZ7Q8PQunGyAUXJded9EJhBZgYwamXq8ewrTq",
+    "name": "Phoenix 3 (USA)",
+    "vid": "QmbegVLdex6YgJzHYFckAzJ1vytm3QBNsTS9NRVjBzpuT2"
   },
-  "87698D14544134C6ACF81473779FE055D281D48C": {
-    "name": "N.O.B. (Neo Organic Bioform) (Japan)",
-    "vid": "Qmbmw4CusTAzZrWtbXXHJ96E9FzL5TBU6aSxgknzKpfbqh",
-    "logo": "Qme8zpg9F13Q7xgZuybQkcK2tj8HC5vAHvh6v4Xw36SwgH"
+  "0641D53C0D92DACAF9461434B2558F4F25FA25DC": {
+    "ref": "DFD7C7BB23C65E466E76CCF1902A4581F5F16E22"
   },
-  "034FDEBB9A133FCFAFF3098F810707D28D2A1BE0": {
-    "name": "Hirata Shougo Interactive Ehon - Ookami to Shichihiki no Koyagi (Japan) (En,Ja,Fr)"
+  "064B96FEB81556ED7E16CCCBEE4074B4707E792F": {
+    "name": "Bakushou!! All Yoshimoto Quiz-ou Kettei-sen (Japan)"
   },
-  "26FA98177B0F84206F878ACE796191BAC4D1FD75": {
-    "name": "Naoko to Hide-bou - Sansuu no Tensai 2 - Hayasa no Bunshoudai Tsuukasan Part I (Japan)"
+  "065600604F5960B00A02F13C7C3BBE9A3ABA0C63": {
+    "logo": "QmVUzSbopfcMMitzswyPiB1DMG4kFxV9nM9kMgBh4daMGM",
+    "name": "Pro Stadium (Japan)",
+    "vid": "QmP5JTFBZQuV8f6Sg1qoGrCMZVQHLFw79GprBvaaoJzgMR"
   },
-  "6A049E6E8A8B6BEE6BC175890785462B9C8DE317": {
-    "name": "Montana Jones (Japan) (Demo)"
+  "067FC294CC9AC4A4A1B502C04FA4B0825D6C1FFB": {
+    "ref": "02886B4B34FDED3B768DF0A7A6D5BDD793C8CA6D"
   },
-  "45D6AE9F9B9A42DDF453EFB9BA800D90DBAA2F04": {
-    "name": "Road Rash (Japan) (Demo)",
-    "ref": "5D45574DEA9BFCBF913326EE4F27841FC8CD924B"
+  "0699F55B96D2A10B518AF6DEC4F285287EC6537F": {
+    "logo": "QmVaydH8wnm8eXo3zmC3A3KmQs4G5PQ1fBZ5oTevR4t7J1",
+    "name": "Soccer Kid (USA)",
+    "vid": "QmUkTw62habsyEkcVfkJkH6gYbhq5vGV4hB3kSiMTiKVxb"
   },
-  "39E57CDC826D5454500378C4F6E9805387242E6E": {
-    "name": "Totsugeki Karakuri! Megadas!! (Japan) (Demo)",
-    "ref": "7F9AF7DCF6C15BA8779DAF96306F063F8FEB859E"
+  "06F7947D90C4C867A6D7E188D3A21D9F39D0F2DD": {
+    "ref": "17AE47E705601BC1243C002DEA56B0227E56A2F8"
   },
-  "D950671D8D17D9DDFF77C47CFB7081EA8B86D591": {
-    "name": "Total Eclipse (Europe) (DFJN5015ZAZ)",
-    "ref": "715869E4EECDC202983D0B688B78A76648182F00"
+  "07AB4244BC8A2394A37CCF1EA3D2B6BC4536B8C7": {
+    "name": "Syndicate (Europe)",
+    "ref": "3A70C09B10454C87822A982A18A5129265E382B5"
   },
-  "AB073DF46C03F260D200858727D1379ED4CD51B0": {
-    "name": "Rise of the Robots (Europe)",
-    "ref": "76A3891AF45F95B9F9030B840235E4642D0D0C42"
+  "07BD366CA91FDCD91DB8BC9721088DC1F8120C44": {
+    "logo": "QmTN3Jwivik2TWpDBsK7XyLgZyAY1hpeoQAuSFXP5VRTuQ",
+    "name": "Stellar 7 - Draxon's Revenge (USA)",
+    "vid": "QmRDu5JY1gnLekwbuUehPwpn6xmagc9wMqQ9SzDXsGyz47"
   },
-  "DD8B5EF42238F304B63A4C6FE17198A9705F46A4": {
-    "name": "Chiki Chiki Machine Mou Race 2 - In Space (Japan) (Demo)"
+  "07CCC89BA11C872FEF895FD27B84B483D2B5074B": {
+    "name": "Fatty Bear's Funpack (USA)"
   },
-  "F6380B22F9961A0383525EF98988007504534DFD": {
-    "name": "T&E VR Golf - Masters - Harukanaru Augusta 3 (Japan) (Demo)",
-    "ref": "852A6880F18CC3DC82DCD553B5BC17CD01A7CA05"
+  "07EFC853FF3715DFBBCA93C736D675ABB7169506": {
+    "name": "Starblade (Europe, Germany)"
   },
-  "6CB82621362F2CA4E74832FCA4D42C244B1E50DA": {
-    "name": "BFS - Blue Forest Story (Japan) (Alt)"
-  },
-  "531D094A96877BC482BAD900D2F18EAF7459227C": {
-    "name": "Daedalus Encounter, The (Japan) (Demo)",
-    "ref": "B8BA5719E09ED98A893BB9AB6B31B535CE30C012"
-  },
-  "03FC25987CF4339BEB6C4354E5BE61BF7FA6FD37": {
-    "name": "Sotsugyou - Graduation - Final (Japan) (Demo)"
-  },
-  "73AE3000000FE42324CC79DF6E95AF54F95D3FE1": {
-    "name": "Twinkle Knights (Japan)",
-    "vid": "QmYPCYFT1igDMHZJBxh3BqLSZyctAfMhmBLvSmPs19aXhH",
-    "logo": "QmesPUTut6Mdfu4DxHisk5FZLaACMisrBM5BA157NwKSNa"
-  },
-  "0354CB2FAC5A5B40F6C866A2C0B2936481320C3B": {
-    "name": "Onee-san to Issho! Kisekae Paradise (Japan)",
-    "vid": "Qmdo93WF98Kr4A6u2CbWtmAZ1t83JumQGsQpiBzs6bNgG1",
-    "logo": "QmYTQBAPgSGgpzissZnRwq3uWs2xVKiGV98UkEmCkHqzDG"
-  },
-  "D14ECA6DC49BC4592472CBC16E261EB96E4A98AB": {
-    "name": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan)"
-  },
-  "F7D34CF51E71E4607D28E794BA6FFC2834AB35B1": {
-    "name": "Naoko to Hide-bou - Sansuu no Tensai 1 - Wa to Sa no Bunshoudai Tsurukamezan Part I (Butsubutsu Koukan no Maki) (Japan)"
-  },
-  "D32C633D5795A1C7DC9C005E478E9C183AABAF1A": {
-    "name": "Battle Chess (Europe)",
-    "ref": "409A7C1FC6FEC813DFD5C80158BCC718D8B8A9BC"
-  },
-  "D18BAB98246C8C367E4D12C4486EA613095901BE": {
-    "name": "Immercenary (Europe)"
-  },
-  "CF7488DFD1E677DFBF89136614710DBB2E24544F": {
-    "name": "Scramble Cobra (Europe)",
-    "ref": "31D1747848FDF9F26E45F9086DD14188DBE8E658"
-  },
-  "8702AAF8AF54A46D9F564FC8CFDBE913D5EF2320": {
-    "name": "Crash 'n Burn (Korea)",
-    "vid": "QmP2p69XWegeS5wVPtUbN9anYu3ZDhmBhFzZ5oLSXjGs67",
-    "logo": "QmXfpug34R3BC1cegiYjnkKgJxHQnREtCP8uuWDtfRBHph"
+  "0809F7ECF57A49E304E6ED4FA015E22CE0CE9FE6": {
+    "logo": "QmPsQJ5oWoiztCL8hhF1aTUoPTVzMEKjEkMnprXepcCYFM",
+    "name": "Super Real Mahjong PIV + Aishou Shindan (Japan)",
+    "vid": "QmU5E9T37mjomXJvKeyziwPVdSHtWUpA5mH2ELr84iAKuL"
   },
   "091FC29F4A1752949473B2596FB6C36DC73709D1": {
     "name": "MegaRace (USA) (En,Fr,De,Es,It)"
   },
-  "B32F27DB06E77ADDA345142C41FD712A376B2CEB": {
-    "name": "Digital Dreamware (USA)",
-    "vid": "QmWEHxuLwQmZuErJV3cc5afUjE2mr8B2xFR8n5yj4GbDVc",
-    "logo": "QmekyBefuEKie7BabdKSjCpyPSZpzeTX8Soz2J7tgvFBCa"
+  "09601F2100117C0F5B20FE4B5F93C5D9AA9F156F": {
+    "name": "Virtual Quest - Pharaoh no Fuuin (Japan)"
+  },
+  "0987ED743601AC38BDBC824C874EE82F192C19DD": {
+    "name": "Konpeki no Kantai (Japan)"
+  },
+  "09B36526660E189933E76FC362438E9C85F0CA81": {
+    "logo": "QmdX8NVnTgXmAo59oqTjGAAQFZqmaJPXCNM7Rt6swUHiVb",
+    "name": "Microcosm (USA)",
+    "vid": "QmV4aKqW4JsYkhfb2MixTCLeXwspfiLDyumdGLv6fxCP6Y"
+  },
+  "09DFDF1129673A8BFC50DE80BF5B94A17F68CA19": {
+    "logo": "QmY5hbzLi1wPNnZ462J4rFRafj9qe4DJrZj6uC3sVRbap6",
+    "name": "Jurassic Park Interactive (USA)",
+    "vid": "QmUF5T5fQ4jy45uug3EXr7Yie3Mq8CG86wsw8ztTN2Ztvi"
+  },
+  "09E263FC5F1F810D3334D1CCA35916953EE78A00": {
+    "logo": "QmaiD4t2upt3uhecvTyD8JUWDvRv6YE77s21HuwahViz36",
+    "name": "Flying Nightmares (USA)",
+    "vid": "QmZKSZZjXMqDocc6dmJ1Pv7ADBSZ94Cod8GjjLGoqF9UK5"
+  },
+  "0AB4DF083E21CB2EA7B4FA3A7D62D23D3F9C1D56": {
+    "ref": "97B74DFCC25B4E315D9327CFC518CEEC5F522A49"
+  },
+  "0B494529089C020817554BB4000C2EB03B71C3C3": {
+    "name": "Pebble Beach Golf Links (USA, Canada) (Rev 1)",
+    "ref": "E2AF00FBEE7406641EBFC7985DA4D6ECED0CB749"
+  },
+  "0BED87D802C2F3659E667FD081E99AB85C64A78E": {
+    "ref": "F6ECD5D6A0FCB5A25FBDB8BB370BB2AF98EE1D58"
+  },
+  "0D544CA6AA60E6D8F8135FE0FC2204F6AD03D7BE": {
+    "logo": "QmWe2QBYKziC9DqyR17FFpJEp2rEqwb1QduncSaXQK6VKp",
+    "name": "Corpse Killer (USA)",
+    "vid": "QmaVtkh5J3QWdnwAbQK9umbYXdFfpSQs7h7MCS1KmVF54r"
+  },
+  "0E53AAFC7DB3F8CE546646745D2E786087B03768": {
+    "name": "J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)"
+  },
+  "1058B1C611DB00FEFB7195E1A5BB1CCA319D68B3": {
+    "ref": "9DE39AA7C89B06534425336B984A0F937A3F1FBC"
+  },
+  "1084B09C0D0EF617B805F25125D1FF2CFD378AA7": {
+    "ref": "865EB9C9B224DAA8FA13C5B1CCFFB3680FFA4C5E"
+  },
+  "10DDC1821E33CA1C2800E5187845F3CFA8C47133": {
+    "ref": "A5A715398E0CD6FA858456512C953CF7538EE431"
+  },
+  "1135773207AD3FFDC1FDE30B7EAEC297E09AD68F": {
+    "name": "Keiba Saishou no Housoku (Japan)"
+  },
+  "1161A4DD8513CE8CC58C56326B4FCD0634972C68": {
+    "ref": "F4AD32131919B580E7D5F53FA7363D353D2792E3"
   },
   "122A5707539A00A584B028A52D3FB2B516B045E5": {
+    "logo": "QmdKy8mdngpgDMLo2YaUSN6i99CJvd8Dey5JpMTJTtREhH",
     "name": "Seal of the Pharaoh (USA)",
-    "vid": "QmR1knMbdVtN8mhTTa1vSPJFCMj9Au5njhufXhN3UsayxP",
-    "logo": "QmdKy8mdngpgDMLo2YaUSN6i99CJvd8Dey5JpMTJTtREhH"
+    "vid": "QmR1knMbdVtN8mhTTa1vSPJFCMj9Au5njhufXhN3UsayxP"
   },
-  "996BD75A8DF1B49D98084D278E97803A358C3DFC": {
-    "name": "Real Pinball (Canada)",
-    "ref": "224B0F767D9C5900C08F3EE3E238DAD7C837F861"
+  "12DA4FCB3AA00001988AEEC8597AA02F3068B74C": {
+    "name": "Game no Tatsujin (Japan)"
   },
-  "A7D92425459D1E1F576EB62D8F33E1A5BC462F9B": {
-    "name": "Scramble Cobra (Japan) (Demo)",
-    "ref": "31D1747848FDF9F26E45F9086DD14188DBE8E658"
-  },
-  "E4C1D1DDEE754D76BADDA0F0BDABDA7DD8F10DB1": {
-    "name": "Shock Wave - Operation JumpGate (Japan) (Demo)",
-    "ref": "20E8382D7A083B66A9E4CB9176AF6A27247303B8"
-  },
-  "90C862B5797799BC4B98F666763EF75F5913EB64": {
-    "name": "Icebreaker II (USA) (Bonus Disk) (Unl)"
-  },
-  "C6BBE34CF7976E0E86719ABF22D80EE2C1E53F36": {
-    "name": "Naoko to Hide-bou - Kanji no Tensai 1 - Bushu-hen, Bushu no Namae ga Tanoshii Chou Kioku-hou (Japan)"
-  },
-  "80CC192992D8618BFC05DFCE83ACAB63C83EA925": {
-    "name": "CyberDillo (USA)"
-  },
-  "17818C5DC6DCD95F1CF984003F821417C3C2B400": {
-    "name": "ToonTime ...in the Classroom (USA)",
-    "vid": "Qmad9bfwcHPk7ccg2oWLrwYwzUd2NMDFWi6yZoXSpT36Vk",
-    "logo": "Qmdh5qkRDXLmXQ8QdxPdUEKAUettBxT7RUt2WE3jBEowU7"
-  },
-  "CA0978F598575F8DB373ED78709C4BBDF1B183C8": {
-    "name": "Return Fire - Maps O' Death (USA)",
-    "vid": "QmSe1sKAWaFqp8PN76ykxsgPH1wDBk296kFU3hqrj9fCdi",
-    "logo": "QmcWPVDruUnBTnQqdxPXqE4QdjDkp6Lh62S8jp8b4cBHq1"
-  },
-  "31D1747848FDF9F26E45F9086DD14188DBE8E658": {
-    "name": "Scramble Cobra (USA)",
-    "vid": "QmfKnXrQvz1UjdPLbrfBD8wvLqkHrNqnFbM6a54KFpVDkJ",
-    "logo": "QmUX8sYzkTK35bMKExbjs2RCUBDfSWp2fqBYBq2oeDMBEa"
-  },
-  "8BA402DF7110E155AC1895FC4596979237CD50C4": {
-    "name": "20th Century Video Almanac (USA)",
-    "vid": "QmeCCbXVGwcF6uz3gv5z2G9WDT9TAXNuRphQrU3gDBLT72",
-    "logo": "QmcTo3Ps24T7ypG7GzAYUKh3gvi9M7pYJFae6uJDrsHJTq"
-  },
-  "68AE9C52788B9BC2C6E59D64B18F57AC3900496B": {
-    "name": "ESPN Baseball - Hitting (USA)"
-  },
-  "CFD0F993686A1B1090E544222F186B35DCFB5C6F": {
-    "name": "Mahjong-kyou Jidai Cogal Houkago-hen (Japan)",
-    "vid": "QmS2KGwx99zjVyWs9Akj3s1dpiw3v63xmzFcQenffkS5PA",
-    "logo": "QmYNkck3k8WogNAyg8Phd3mG4zXSvxvx6dfuxovmzkDkbm"
-  },
-  "6019B1AC5489D4099FC37B5EE6A345BB6259E66C": {
-    "name": "Escape from Monster Manor (Korea) (En,Ko)",
-    "ref": "5663315CFE066AF79A03A9D5CC7A1CF52DD4E068"
-  },
-  "A4F3D91B7E889E7866EF6F2AFE41C64FE71E6B41": {
-    "name": "Out of this World (USA) (3DO Maniac Pack) (RE)",
-    "vid": "QmRykogE9bHrdUwja6ZpALd57ogmCoZ4oXgS47Khttcmai",
-    "logo": "QmcmiipSatF7xMmMSX7vNfYJhqKymwq5wUatFJifVq1Z4T"
-  },
-  "4ED5D08EADA0DAED27C631FB75227EAF1918444D": {
-    "name": "Super Street Fighter II Turbo (USA)",
-    "ref": "1F0765A37412BD6BD82AC9D5649D2CBFB8867B52"
-  },
-  "87B996149CBD398F31C472888B1808AB61760322": {
-    "name": "Yuujou Densetsu - The Doraemons (Japan) (Demo)"
-  },
-  "C480D568046A109C7C477FA180860A4958A2467A": {
-    "name": "PGA Tour 96 (Europe)",
-    "ref": "D26E959B0EF6388C3EF2A5C935785ABA7EEA4CAB"
-  },
-  "9163999A71A4D28537C87775DCC8A2C28551248C": {
-    "name": "Cyberia (Europe)",
-    "ref": "5F90B870870510845A5234A881E6903B99B3847B"
-  },
-  "5D45574DEA9BFCBF913326EE4F27841FC8CD924B": {
-    "name": "Road Rash (Europe) (Rev 1)",
-    "vid": "QmenofXnXgHv1wF4w4pAxWYTJozSx6drMGsApz6xsBNvnw",
-    "logo": "QmNav7jf3dPmtFnpW1ZmwXqoPeQJ52D6341MDhAKXi6VEY"
-  },
-  "8E030E626527C24C64BCF3B46DF232CCF778D8A2": {
-    "ref": "5D45574DEA9BFCBF913326EE4F27841FC8CD924B"
-  },
-  "4CF2F5F18BC3B681BED216C8B86B4A2EC03D19CF": {
-    "name": "Theme Park (Germany)",
-    "ref": "1933F50021D8148B476CCB4F50B3AC02B3E4E49B"
-  },
-  "2344A666F4854BEDA291EB11F7BC0338321D4A0E": {
-    "name": "Wicked 18 (USA)",
-    "vid": "QmWPxtLAiUhmViCZ4RAy6KfXi5K12YSFU6o9J8EwJBsccK",
-    "logo": "QmbXA12qb2Vgnj873Xby2oG11pB4SL7CkoUpWZEam6T9Sa"
-  },
-  "CA54D8CF82987262127038A2242DCFF37C3651D7": {
-    "name": "Konpeki no Kantai (Japan) (Rev 1)"
-  },
-  "8CB3F7DC6529C5A4CBCEB37757812DE3CA7CFBC7": {
-    "name": "Super Wing Commander (Korea)"
-  },
-  "8BC41326B863E17145B6326756CAFACCE16E092D": {
-    "name": "Ogura Hyakunin Isshu (Japan)"
-  },
-  "8DB2055A48792B7C06E8C6D6AF0882F6B8BF9DE5": {
-    "name": "Horde, The (USA)",
-    "vid": "QmfP5P9fDYpt5z5BRMzvCPtNHLVj8HWuG447SkVBsAgUrB",
-    "logo": "QmVUW2yZVPP4qAKtCXG7BXDtUQp8PR7zqQiNm2FoUThjFB"
-  },
-  "56C2460C0590FFF55DB5AB49FEE7F0F17FED8018": {
-    "ref": "8DB2055A48792B7C06E8C6D6AF0882F6B8BF9DE5"
-  },
-  "C5D4044FAF97BABD8C653A788AEB21489E1B8002": {
-    "name": "Super Street Fighter II Turbo (Germany)",
-    "ref": "1F0765A37412BD6BD82AC9D5649D2CBFB8867B52"
+  "1303AB104B46FCD33AC00B1EE1791C3595DF0E3B": {
+    "name": "Flashback (Europe) (En,Fr)"
   },
   "1304C082741FC5B53811FD0079FDDC7CC64DCBDF": {
     "name": "Slayer (Europe)",
     "ref": "A7FBB2E74D226410AEA05C5F61380FB09252573E"
   },
-  "995534C88C8DF0A6AB16A7A1775D4BF061287C8D": {
-    "name": "BrainDead 13 (USA) (Disc 1) (RE-1)",
-    "ref": "981DBCC139E7CC275C213CD027797FB9A15FCAD4"
+  "1320A94DE004FEAB226D07FC860814AD4FD7D288": {
+    "name": "Wing Commander III - Heart of the Tiger (Germany) (Disc 2)",
+    "ref": "C4D8F8CBB11C659D052FEDC953476A5F0C16A15B"
   },
-  "E30E8223FBAD33D249C818D0995A266D936ECC47": {
-    "name": "Space Shuttle (USA)"
+  "133F10FEAC5F45E3B6741661D10D8C659797DBD4": {
+    "logo": "QmTxTGaeCtWfN1P7DaMvdk6MnkHUMoBetkxDGJNVdPw6Ce",
+    "name": "F1GP (Japan)",
+    "vid": "QmbYQX7E2N9n36WPChjV2JBLPF46uAK6vWnVXMYuMW4uAc"
   },
-  "EA2D40DC0C5D609F7253FF150C7D4E2FA5C63767": {
-    "name": "Killing Time (Europe)",
+  "135EE990E786F3729E491F6AB139E658C6697398": {
+    "logo": "QmdaLb9HXsano4ssyRE7rW1hYygUbTF2CcnZ8KPnKc9EFE",
+    "name": "Johnny Bazookatone (USA)",
+    "vid": "Qme68aajXRiic1MVGD2bFtLhjez3Cf1xCuzAuj3xqCFr74"
+  },
+  "136E8027C1F7AEB53497489DDA54FCFF4DFB4185": {
+    "name": "Life Stage, The - Virtual House (USA)"
+  },
+  "13824C911BCB6985E6B1726F9B94439B5674ADEE": {
+    "name": "BFS - Blue Forest Story (Japan)"
+  },
+  "157A0F747A3B81EBE67FC8C21A8B8639011B470C": {
+    "name": "Perfect World - Combat in a Digital World (Japan) (Demo)"
+  },
+  "15D6A7EF0574FE248F13D9FA97AA104626643755": {
+    "name": "Insector War (Japan)"
+  },
+  "168782C299D0CA85655251F409FEEB36244D2E5D": {
+    "name": "Road & Track Presents - OverDrivin' (Japan)"
+  },
+  "16BAC4BB1FA68CF2CD36BCC90432F2BDCAFE0C71": {
+    "ref": "02A6CAA42322453065133068B42DDED190597EDC"
+  },
+  "16E06AE33E5AB54FDDBB12DCABE972A183FE9605": {
+    "name": "Live! 3DO Magazine CD-ROM 6 (Japan)"
+  },
+  "16E14B1B16E5CDA3AAC218D065075E998FCD4637": {
+    "name": "Super Street Fighter II X - Grand Master Challenge (Japan)"
+  },
+  "172F03F611746D5A8C6AFA96D79EA0094C9C04C1": {
+    "logo": "QmQgrELsBQuoLCuQwyhtCkmkWfTZnYuqg5vgbeWUQ9m2Pw",
+    "name": "Fatty Bear's Birthday Surprise (USA)",
+    "vid": "QmesFrvQc6iVEGMiHsgS88iC9p49qpsnAYdzVAdZrxb3vK"
+  },
+  "17818C5DC6DCD95F1CF984003F821417C3C2B400": {
+    "logo": "Qmdh5qkRDXLmXQ8QdxPdUEKAUettBxT7RUt2WE3jBEowU7",
+    "name": "ToonTime ...in the Classroom (USA)",
+    "vid": "Qmad9bfwcHPk7ccg2oWLrwYwzUd2NMDFWi6yZoXSpT36Vk"
+  },
+  "17AE47E705601BC1243C002DEA56B0227E56A2F8": {
+    "name": "Club 3DO - Station Invasion (USA)"
+  },
+  "1843C6997542F7E6E4CE69202EF3DEFA55A3CF6F": {
+    "logo": "QmbdfUjvnzbJBMr2HfTLcisd6yebZuAXNN1rvdyiJkt28H",
+    "name": "Night Trap (USA) (Disc 2)",
+    "vid": "QmXrEqvh1kSVmTgsZCPoqPZACw1Jcbzmwh4v6P89v65wtX"
+  },
+  "18D9654F9BD3669ECEA770B3E666639770B0D8FE": {
+    "logo": "QmaaVm3iFjNymhXJMKekc7weJYjYUwTc1UmpdSRFKzSCbM",
+    "name": "Killing Time (USA) (RE1)",
+    "vid": "QmNWqxo3fqnmKp6ij8ZQvjLDHf5eptVDt8tCDb19QVx623"
+  },
+  "1933F50021D8148B476CCB4F50B3AC02B3E4E49B": {
+    "logo": "QmYYeWaeAc6BguWPr8qoWXfuVEEYHqw1Ggq8jxQpcx4XRV",
+    "name": "Theme Park (USA)",
+    "vid": "QmeunMeHVay5KrAzoKdQoFYTRhWH9t7ho145XTiy8Xgzma"
+  },
+  "19C9EE16223A11FB2095399A38A3BD0A1F169459": {
+    "name": "Demolition Man (Japan)",
+    "ref": "865EB9C9B224DAA8FA13C5B1CCFFB3680FFA4C5E"
+  },
+  "1A46AC1804A2E60143742C859EF288F954F8AE8C": {
+    "name": "3DO Interactive Sampler CD, The (USA)"
+  },
+  "1A58FEC60D528501139E985EDF136626CD0E1BB2": {
+    "name": "Twisted - The Game Show (USA)",
+    "ref": "F9CCEDC3D4FDA12E38794D8EB6C7F5D1D47D5028"
+  },
+  "1A61540F71AA15DF914615200C4B46D2105A25C7": {
+    "name": "Super Street Fighter II Turbo (USA) (RE2)",
+    "ref": "1F0765A37412BD6BD82AC9D5649D2CBFB8867B52"
+  },
+  "1B412DFFE8C35981FDF4A9F6DE52080C36E0DF84": {
+    "name": "Hatsubai 1 Shuunen - 3DO REAL - Tokubetsu Premium CD (Japan)"
+  },
+  "1BB73E3E8B092CE6A4A59128F0608BD516BF7436": {
+    "name": "BattleSport (Europe)",
+    "ref": "377CE73E71B1CCED842F777EA00B37BE5696193E"
+  },
+  "1C3FA8963FB005F692870B8A53E88010527EDF17": {
+    "ref": "A4F3D91B7E889E7866EF6F2AFE41C64FE71E6B41"
+  },
+  "1CAB59A5DAA1F6D1A9AE6039F38ED553442E9174": {
+    "name": "Theatre Wars - Goraku no Dendou (Japan)"
+  },
+  "1CDFAB57FFCC71D981EC45028B3DE018ECEFA605": {
+    "name": "Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev 1)"
+  },
+  "1DA618460E4ECC02F2325B5266BFC81E02DB8F4F": {
+    "ref": "6D1469166770CC751C5D33E7BDD77273E48ECBBC"
+  },
+  "1DC1CF4DF9CEE198EC7F1CE619EB4AD3633CF65B": {
+    "name": "Syndicate (Japan)",
+    "ref": "3A70C09B10454C87822A982A18A5129265E382B5"
+  },
+  "1E53199D3BEFC08EED4D2FF9CB40ED01428E2FF4": {
+    "name": "Hirata Shougo Interactive Ehon - Sanbiki no Kobuta (Japan) (En,Ja,Fr)"
+  },
+  "1EC9C49B80F230194DD1ECC7E7BF5654A9B0BE8F": {
+    "name": "NeuroDancer - Journey into the Neuronet! (USA)"
+  },
+  "1F0765A37412BD6BD82AC9D5649D2CBFB8867B52": {
+    "logo": "QmVA37nJpXHN8Bn3tEWFrxZ9pwnv5BNVb5saAkLPbw17Mj",
+    "name": "Super Street Fighter II Turbo (USA, Canada) (RE1)",
+    "vid": "QmaZwFf2GDMQAiYZHk7QoaYkfzbHbd6hsKct42kqviXPwS"
+  },
+  "1FB556CCC6CE9D313B7CCC195B068561ECE0AC0E": {
+    "name": "Wolfenstein 3D (Japan)",
+    "ref": "FEE290EF7293B5FACDC75BCDC332968836CEF738"
+  },
+  "202F5F4E74979924C497F28DEA27A5DEC1046B59": {
+    "ref": "0699F55B96D2A10B518AF6DEC4F285287EC6537F"
+  },
+  "2089D77BF007E35ADE06A557C57E372C779A9029": {
+    "name": "Space Ace (Europe) (Demo)",
+    "ref": "5128AE797C2D293176ECBBE5BFC6E34104B7A88B"
+  },
+  "20E8382D7A083B66A9E4CB9176AF6A27247303B8": {
+    "logo": "QmQsADHKFyjhjgSnuYRRJyjgtXXHAtdrY26nRogUPQhj4y",
+    "name": "Shock Wave - Operation JumpGate (USA, Europe)",
+    "vid": "QmToTVP5nvA5Xhbn3Cw8Jcp5oaSQXJ9N2cbubU4m1DPw7s"
+  },
+  "20F96AA3F4E7560A66D03E5B7AC62D31AF81400A": {
+    "name": "ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 1)"
+  },
+  "2117A09346C0547D8CB176968B3FE19C64788B5E": {
+    "name": "Cyberia (Japan)",
+    "ref": "5F90B870870510845A5234A881E6903B99B3847B"
+  },
+  "2128007ACC4A7780F03FA5CAA63DFA7E4E747F90": {
+    "ref": "F0A88FAA9FAC54DFFEC659A8535B469A6BA8681D"
+  },
+  "21B59FA8B5ED5B759EEB78C5A4C0460681CBB35E": {
+    "ref": "A865F4C18DC23180E9713A48AD25C0EDEA60617B"
+  },
+  "21DD01F4236E2CB3D050552DC69CCA8D0F3EF6EC": {
+    "ref": "1933F50021D8148B476CCB4F50B3AC02B3E4E49B"
+  },
+  "224B0F767D9C5900C08F3EE3E238DAD7C837F861": {
+    "logo": "QmTKyJpSazSjPcSsMxhXkS3KRh5tN8DJn94LgVUoYVtgAg",
+    "name": "Real Pinball (USA)",
+    "vid": "QmNy1sAzfMyL4v3iPNQzEcLGeF9QkSWzb2co8RvZcCN6oQ"
+  },
+  "226A48B5CD44BD2C5CC833D2841117B666E876CA": {
+    "ref": "A8F0B8640DD12058E97072B83412A2074BBD3020"
+  },
+  "228B96881273BB238D1B54F12B58B45C4B53DCD5": {
+    "ref": "409A7C1FC6FEC813DFD5C80158BCC718D8B8A9BC"
+  },
+  "22C823F47271E7A7E81FEF7CFC87856291D48006": {
+    "name": "Defcon 5 (Japan)",
+    "ref": "562197866CA836C751E23E8F74CBEFFA593A5A62"
+  },
+  "23334E04329637DFEC2151AA1F2DD077FBA69677": {
+    "name": "Shanghai - Triple-Threat (USA)",
+    "ref": "820DB988B02E2E019BA5AA54A6A287FD9C304D01"
+  },
+  "2344A666F4854BEDA291EB11F7BC0338321D4A0E": {
+    "logo": "QmbXA12qb2Vgnj873Xby2oG11pB4SL7CkoUpWZEam6T9Sa",
+    "name": "Wicked 18 (USA)",
+    "vid": "QmWPxtLAiUhmViCZ4RAy6KfXi5K12YSFU6o9J8EwJBsccK"
+  },
+  "23800274EBC24F55E006C2A56DA1DF602566F513": {
+    "name": "Hirata Shougo Interactive Ehon - Ningyo-hime (Japan) (En,Ja,Fr)"
+  },
+  "2398837988F8A713171E9A31F514BD0E75846732": {
+    "name": "Olympic Summer Games (USA)"
+  },
+  "241E8A43ACD672DBB86C81925B92F5F59DE6EE22": {
+    "ref": "A88A79A2706090E3E49CC65F730CC9667ADA7407"
+  },
+  "2558A857E7216DDABFB336218330BD27BCF81080": {
+    "ref": "53C35837C612D7D25A6E8DA05E9710D61CF83018"
+  },
+  "2562A534F8933DB9A369C08CAEE50361E57F5F03": {
+    "name": "Star Control II - The Ur-Quan Masters (Japan)"
+  },
+  "256F6F50EF55391C22EAD4CEA1CB70C9D58877C3": {
+    "name": "Policenauts - Pilot Disk (Japan)"
+  },
+  "26FA98177B0F84206F878ACE796191BAC4D1FD75": {
+    "name": "Naoko to Hide-bou - Sansuu no Tensai 2 - Hayasa no Bunshoudai Tsuukasan Part I (Japan)"
+  },
+  "282655F8A32FEC87E9DD8773CE92780E8E25B510": {
+    "name": "Corpse Killer (Japan)",
+    "ref": "0D544CA6AA60E6D8F8135FE0FC2204F6AD03D7BE"
+  },
+  "28A5CC56BE6EFF05D29A9FFBAFEAE0AF9CAE06D9": {
+    "ref": "135EE990E786F3729E491F6AB139E658C6697398"
+  },
+  "28D2E95B64D8C77CB6995399A47CCF0C0F221A6C": {
+    "name": "Twisted - The Game Show (Europe)",
+    "ref": "F9CCEDC3D4FDA12E38794D8EB6C7F5D1D47D5028"
+  },
+  "28FA3AE8912E2CC52FC40A29C5216E1F7D336880": {
+    "name": "Flashback (Japan) (En,Ja,Fr,De,It,Nl)"
+  },
+  "29892D9D904C952535167DB9D07630A8574B5105": {
+    "ref": "23334E04329637DFEC2151AA1F2DD077FBA69677"
+  },
+  "29E092DE21E576FD4DF16FBEC9F3B9DE68C558A6": {
+    "name": "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1)"
+  },
+  "2A2401D444D1B383AB3E6CAB7E545D3AB657DB5D": {
+    "name": "V Goal Soccer '96 (Japan) (Demo)",
+    "ref": "F7F977CFAF68F1E0B13F8461235A3E08DDC31BF0"
+  },
+  "2A48D357AEBF283EB5A0EC061D8D0DAA50C42727": {
+    "name": "Slayer (USA)",
+    "ref": "A7FBB2E74D226410AEA05C5F61380FB09252573E"
+  },
+  "2A95FC3D8B879B0A6E0D56681A3D951876B2D6C8": {
+    "ref": "80775A618808A1B6F1A8239EF5F7964507A85EE9"
+  },
+  "2B4DD483017551B1C7F5EA084CDC1593A0E85E6E": {
+    "name": "Road Rash (Europe)",
+    "ref": "5D45574DEA9BFCBF913326EE4F27841FC8CD924B"
+  },
+  "2C01A0C1CCFC1EB18C9EF53F73FFC630C9B81472": {
+    "name": "Oceans Below (USA)"
+  },
+  "2D6642EB3DE6BD7D1DC43790CD62DCCF4ED5125F": {
+    "ref": "062150C5F89B3E83A3856B67CD733D0B7F566103"
+  },
+  "2EE9FCBF4225A8A7060D6875627B63FD03B2B4FE": {
+    "name": "Sword & Sorcery (Japan)"
+  },
+  "2F18C229B4273C4EFB44BD9EF65C994CDA20711F": {
+    "ref": "B41CE14C2F3B960152CAA95DEF78DFBEA56C8066"
+  },
+  "2F4C478CEF268D3CD8E84DFD7E45700A64D1D0B0": {
+    "ref": "D26E959B0EF6388C3EF2A5C935785ABA7EEA4CAB"
+  },
+  "2F614002E3C8CFB1F8F893A8A7B75C544DD923D3": {
+    "name": "Life Stage, The - Virtual House (Japan) (Rev 1)"
+  },
+  "2FAC106339049CF7D2F95D69B5534CC7B031A38F": {
+    "ref": "FEE290EF7293B5FACDC75BCDC332968836CEF738"
+  },
+  "3006198858C81D6CB20B9E2B2D0DB100C8DCA058": {
     "ref": "18D9654F9BD3669ECEA770B3E666639770B0D8FE"
+  },
+  "3089ECB3A1FCA6783AA7B839398FA49347879525": {
+    "name": "Wolfenstein 3D (Europe)",
+    "ref": "FEE290EF7293B5FACDC75BCDC332968836CEF738"
+  },
+  "30E6D60DBC9A28D6B900CF332FCDBDBDF7E9A7A2": {
+    "name": "Return Fire (USA, Europe)",
+    "ref": "9C8B8CAF7481E68A772D6C2ABDEE06F6A93CB56B"
+  },
+  "312A04486A58506964C830DF102CDC2A3D9D30AF": {
+    "name": "Touhaiden Akagi (Japan)"
+  },
+  "31D1747848FDF9F26E45F9086DD14188DBE8E658": {
+    "logo": "QmUX8sYzkTK35bMKExbjs2RCUBDfSWp2fqBYBq2oeDMBEa",
+    "name": "Scramble Cobra (USA)",
+    "vid": "QmfKnXrQvz1UjdPLbrfBD8wvLqkHrNqnFbM6a54KFpVDkJ"
+  },
+  "3209343B51D8BCD73DFB4AA256B3B640FC856590": {
+    "ref": "377CE73E71B1CCED842F777EA00B37BE5696193E"
+  },
+  "3301358B3D91472D2E14F4B7DED6C83468342F70": {
+    "name": "Igo Time Trial - Tsumego I (Japan)"
+  },
+  "337CA0B80CB043376CDF4DC328D4A94A93E0CCF6": {
+    "name": "Strahl (Japan)",
+    "ref": "646BC6B359AF5F1F1329E856EB6BD6DE56938678"
+  },
+  "33F1DE17618354D493A35EDE8FD2CAF4C10BA142": {
+    "logo": "QmePyeGTCnvdbmFhucwGZg72piTGZK6EkAEzvZPGokk3dX",
+    "name": "Super Real Mahjong P.V (Japan)",
+    "vid": "QmVXMcwKU6VuePoZdH32qhPvjatWdPYptmpd87mqTZAC4P"
+  },
+  "345619D9FC2EF6C5A9B4D65CB5FF6EE0078EE7F2": {
+    "name": "Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2)"
+  },
+  "346453CA6ED327108894AA870D0001A78D31C36E": {
+    "name": "Jurassic Park Interactive (Japan)",
+    "ref": "09DFDF1129673A8BFC50DE80BF5B94A17F68CA19"
+  },
+  "34B5CE62F31679CDF414C00AFE214C6C65D6C0A3": {
+    "name": "Penthouse Interactive - Virtual Photo Shoot Vol. 1 (Japan)"
+  },
+  "354044F7DCC8983DB2F30CF6081743B1548CCE49": {
+    "name": "Secre Fuumin no Omochabako (Japan)"
+  },
+  "35A30A7F8C55562410ED57782BC6D2E7829F4544": {
+    "name": "Mad Dog II - The Lost Gold (USA)"
+  },
+  "35B50D0598EB82CF2C612F3E08B9C14BE64EF58A": {
+    "name": "Yu Yu Hakusho (Japan) (Demo)",
+    "ref": "754342C0242DE2B748599AE4D90DE0EFAE03A3F1"
+  },
+  "36484614CBB912FD43CA0FADAF4E481F25CEA5AD": {
+    "ref": "D9F6076FD37E8AA508E62A1B41DC8F207B940A30"
+  },
+  "366E7C96965F3633E5C76ECBA69D806D714244E1": {
+    "ref": "77F7DAE22BD9392466E790350E3E407F3A54709A"
+  },
+  "36944442F66AD459D40663554D00091B590A8D7E": {
+    "name": "Putt-Putt Joins the Parade (Japan) (En,Ja)",
+    "ref": "92C542F0179109DCE606CEB7EAF64F58A2A759DD"
+  },
+  "37586B017DE9D71B062E97C56E193754AAA19A5D": {
+    "ref": "5972F0F5BDB30CAFBAF1ADE682DC74CEB1634719"
+  },
+  "377CE73E71B1CCED842F777EA00B37BE5696193E": {
+    "logo": "QmYacnM9mQcyxBAcA84z6AveWM6k9EtmbCV3foepSqgsWc",
+    "name": "BattleSport (USA)",
+    "vid": "QmeyQbxvF7tje8zKEDGbSXJTiZWEYvA6ajbPcVnzMXhCVA"
+  },
+  "38BF99415CEEEDF8A63DD7BD24DDE75BBF34931D": {
+    "name": "Burning Soldier (Canada)",
+    "ref": "92B6A8529F3DAA5A9B6EF421017000558C88EF3F"
+  },
+  "391BB550F1F65DEA0FC905FC683120B3C6A8EA4A": {
+    "ref": "C4952ECC028CF2140770B1FB0806312D7ADDE7D6"
+  },
+  "39E57CDC826D5454500378C4F6E9805387242E6E": {
+    "name": "Totsugeki Karakuri! Megadas!! (Japan) (Demo)",
+    "ref": "7F9AF7DCF6C15BA8779DAF96306F063F8FEB859E"
+  },
+  "3A32051007ED96A3584DA5CCD5BC39449C194EB3": {
+    "ref": "A2D85CF80AFEF24A53CD8E9F04D9D6FF85BAE5CE"
+  },
+  "3A54C36E520805C5995B3A24F7ED0D3642E88173": {
+    "ref": "76A3891AF45F95B9F9030B840235E4642D0D0C42"
+  },
+  "3A70C09B10454C87822A982A18A5129265E382B5": {
+    "logo": "QmbhKeK5ufTpVN8KpCvKkPGN2dmQdaDaPzRHe3Vgx2E3eR",
+    "name": "Syndicate (USA)",
+    "vid": "QmfSRKBR5eDSTztevw9bgsLWoAwzdC9oiLjT1rE3V55aUk"
+  },
+  "3A97F9DC4C4A5FD37949AB6F84E1B2F869D8D92E": {
+    "ref": "9BFA677541194F76923F11D240DC312844614DDE"
+  },
+  "3AA76B312B257235592E3053DE73941170C6519D": {
+    "ref": "D4AF53CB6B8D6E16B152B7692FBA2E9A85119681"
+  },
+  "3B3D8ED36C5AAD30576ACBD895A945F0E3F7AC77": {
+    "name": "D's Diner - The Director's Cut (Japan) (Disc B)"
+  },
+  "3BF87D8F0A93BFA21CF975C5CD2AE9716349CE0E": {
+    "name": "Soccer Kid (Europe)",
+    "ref": "0699F55B96D2A10B518AF6DEC4F285287EC6537F"
+  },
+  "3C0DC10565CCACDB521C30454C40404F3B8F637F": {
+    "logo": "QmPLgV51u8DmMTKE2uN2piPjhyRds3NYLnN5kYNWd9Xpfm",
+    "name": "San Diego Zoo Presents...The Animals!, The (USA)",
+    "vid": "QmeGmeQ4ehXcDaTQrxnHSTbWtdS1ACkCghX9yfW5QauT3C"
+  },
+  "3C5D481C7D7F89A15C1F7B2A070E436AA3B9611A": {
+    "name": "Aqua World - Umi Monogatari (Japan)"
+  },
+  "3C68E8F0A9890F376A1B76FD4482BEEDB838B501": {
+    "name": "Pro Yakyuu Virtual Stadium - Professional Baseball (Japan) (Demo)",
+    "ref": "6423AD8F90242C4362C8054931561ECBF7C15399"
+  },
+  "3C9E69E3DB60374E4CAAFF52A1DB107F4707433C": {
+    "name": "Ghost Hunter Series - Kuroki Shi no Kamen (Japan)"
+  },
+  "3CC020FC6111588664C3162F742CC3A3CEE623A1": {
+    "ref": "562197866CA836C751E23E8F74CBEFFA593A5A62"
+  },
+  "3CD05D192548A72CB191B2B5E7469980EFBBD63F": {
+    "name": "MegaRace (Japan)"
+  },
+  "3D16A9611AAAD00FAAFB8D8A56D96825ABDCFAA3": {
+    "name": "Escape from Monster Manor (Europe)",
+    "ref": "5663315CFE066AF79A03A9D5CC7A1CF52DD4E068"
+  },
+  "3D3B20EC831446FE7FAFB52447B1F913A545235C": {
+    "name": "D (Germany) (Disc 2)",
+    "ref": "92A655A118A261FFA074537D6DD94EB891BEE301"
+  },
+  "3D727843E8B5B42DB979E800F13441027220DB25": {
+    "logo": "QmeCbS5QkK6LkviCVJRbg8UnLG2E9nnuJaHzciY5s3WYPY",
+    "name": "Oyaji Hunter Mahjong (Japan)",
+    "vid": "QmdPaK5kDPCExEvKFmfhxYBg9k1KM8adcX9F461joiZcqs"
+  },
+  "3DC631A137A8FCABAE3CDAAEB9EFCFFBFDF538EA": {
+    "name": "Emit Vol. 3 - Watashi ni Sayonara o (Japan)"
+  },
+  "3E0D64F04E51DEF8659F0317E5D5B077AC8449D4": {
+    "logo": "QmXzWoVCpiX3iwVSyriKkCVJnK88ejo3CUhfFRPLADtEa6",
+    "name": "Slam 'n Jam '95 (USA, Europe)",
+    "vid": "QmU6YCbzrWANa4ebk2zmskiE8cMDUPGdjwRn9QXBwvCGVS"
+  },
+  "3E83E3A70DA0FC87AD384BDF52336324D297CFBB": {
+    "name": "Grimm Meisaku Gekijou Vol. 1 - Bremen no Ongakutai (Japan)"
+  },
+  "3EEF3FC16C18BDBFF43B90782FA7B4B907274345": {
+    "name": "Gateway to English - Eigo de Go! (Japan)"
+  },
+  "3F3C9F2413F8796FC05891C13E1F5D277FF14A17": {
+    "ref": "72099D1E98B97C899FEFC4219D4D456338DACC58"
+  },
+  "403312297EB278B8BFB3643B586450AB70363AF3": {
+    "logo": "QmbuVNprW2XzjzQKe6eep3UBoQTtHm8UMxoitFDt7UUgaw",
+    "name": "Who Shot Johnny Rock (USA)",
+    "vid": "QmZMHemSbXvJHo1PQm3d8WNLYWriJop7dBQcrzcxBrqRQ2"
+  },
+  "403DA6C5C27C9785F255B0CBE9ADFB55C122A6D3": {
+    "logo": "QmckCYBk8FSK9CFKNZJs9eFDMD6FKysYWN6kTRGNswX9JU",
+    "name": "Shock Wave (USA) (RE2)",
+    "vid": "QmRn944KnbiWbbZ5GE3Csv5WMNX4mJHLmckBZgWGTDEqvU"
+  },
+  "404DDA1922B96844D1BE9FC6F5AF1C101FEED006": {
+    "logo": "QmczfCAGC37eotS6rV76ro5ktYmiGpxXVkvUr4viMpGHad",
+    "name": "Flashback - The Quest for Identity (USA) (En,Fr)",
+    "vid": "QmeJhT8uig7tuDQuaRhp8rhEc7bYerHfx1G8RDMidzwjZV"
+  },
+  "405A6CDD01E1E7C09281FCB4AEE8222198ADBD0B": {
+    "name": "Panasonic Special CD-ROM (Japan)"
+  },
+  "40731E086F4F68B8A3ED63A75A79F6A927A5742A": {
+    "logo": "QmW3eCxgkTCGL3yGQ9oms6jQyAsptzxhZjzUJBhEd3N6Ps",
+    "name": "Peter Frankl - Puzzle no Tou (Japan)",
+    "vid": "QmX8JiKmydmSRepzKeB39fxNaWfdmEYeJUCJuMUP3BigJs"
+  },
+  "409A7C1FC6FEC813DFD5C80158BCC718D8B8A9BC": {
+    "logo": "QmU8nTwP38XDgtwTEbGCWSW4bEPTtdW6RLeeDLcfGLEaGe",
+    "name": "Battle Chess (USA)",
+    "vid": "QmUigjKJ6FvJB5JMxgafPUp97ya8nzh2CTt9u3Bwi98tZq"
+  },
+  "40B0D66BB63098E0E56439B4643E77A51007AC3D": {
+    "ref": "5663315CFE066AF79A03A9D5CC7A1CF52DD4E068"
+  },
+  "40D81B8CC5FFC166F969BA3FF32A080ACAD7119D": {
+    "logo": "QmUxpb1eyqxcpEYYojEnRk3YcLpiDEAF7r1trPzFAghD3z",
+    "name": "OnSide Soccer (USA) (Unl)",
+    "vid": "QmQZyJyQ9EPnKKbgRmiRV3psJUrG4WRF5MwPuiM7vRb2Up"
+  },
+  "41084A1901A784BD534CBC86EB6BB2F5B215BE17": {
+    "name": "Hirata Shougo Interactive Ehon - Cinderella (Japan) (En,Ja,Fr)"
+  },
+  "410E9B8F081665DC603DC74E37A1163DB4E2F0CB": {
+    "name": "Carrier - Fortress at Sea (USA)"
+  },
+  "41A487BA38532A5A70E038622D4CCBD5F4296C62": {
+    "name": "Super Street Fighter II X - Grand Master Challenge (Japan, Europe) (Demo)"
+  },
+  "41C456C20074567D1F3155CB229E04DCCC851F77": {
+    "name": "Gridders (Europe)",
+    "ref": "A5A715398E0CD6FA858456512C953CF7538EE431"
+  },
+  "42935CF4780965FF409FD68BF894AEAB4828785B": {
+    "name": "Captain Quazar (Europe)"
+  },
+  "42AA44EB256A10433219B75BED59D5C97EA50E88": {
+    "logo": "QmNav7jf3dPmtFnpW1ZmwXqoPeQJ52D6341MDhAKXi6VEY",
+    "name": "Road Rash (USA)",
+    "vid": "QmYW335ZYdAVPgGxc6Zvd9vxQRUcWdwZLEjLMvquzJRbZX"
+  },
+  "42D5D2B81EDB9BCA0E66A9B77C6101E781B78C41": {
+    "ref": "5F90B870870510845A5234A881E6903B99B3847B"
+  },
+  "42DA85E74C5A3C73EEA122047B7CC6D3607514E8": {
+    "name": "Live! 3DO Magazine CD-ROM 11 (Japan)"
+  },
+  "4391FC2CC5FB2FF678A6C11A0051748C5110AB9F": {
+    "name": "Lost Eden (USA)"
+  },
+  "43DD88D2695F222B23B435B008DF8CE166861FE8": {
+    "logo": "QmeYSyT2C7dy3a5FF2nH1GA3FCJ3YARtAHxakdCUBvuqu1",
+    "name": "Casper (USA)",
+    "vid": "QmagszrF64DgANk8AXWEozrjK7LAth4cFbvZxMwVx6UxZ5"
+  },
+  "43E40CE1CC5FD7D9123B5F0B23F82D498E2972C8": {
+    "name": "Virtual Cameraman Part 1 - Naomi Sawada & Anna Juri (Japan)"
+  },
+  "454CB65693AE6BEBF3BB2689F61917A1E60A4CE3": {
+    "ref": "6A08657F15541035E1986357FC1757454C8B4D4F"
+  },
+  "45838BA41EE784F9E6B6869E831F046D5F6E01F3": {
+    "logo": "QmWmSNQB5YWoAqy3Qv1oFuXo2YhsS5Mywgy4YtNacTTMx3",
+    "name": "Dragon Lore - The Legend Begins (USA, Europe) (Disc 1)",
+    "vid": "Qmc8BaHKrNnQwGQodpPz5hGPvWCWXWTmj4xdSi8G8iPHh6"
+  },
+  "45D6AE9F9B9A42DDF453EFB9BA800D90DBAA2F04": {
+    "name": "Road Rash (Japan) (Demo)",
+    "ref": "5D45574DEA9BFCBF913326EE4F27841FC8CD924B"
+  },
+  "46331607319DB6127BEB900DE49ECAA7480C298D": {
+    "name": "Shelley Duvall's It's a Bird's Life (USA)"
+  },
+  "46717962D767EC2868CF3F8193D2FE7E8D99F634": {
+    "name": "Oukoku no Grand Chef (Japan)"
+  },
+  "468224554E3572FB9198FED7735C29B85FC62C68": {
+    "ref": "AC3ED4006A0CF6022E4947A4DEC3BBB2CD890417"
+  },
+  "468EA73B034E30104460DA14DBB7DCA75EBEF2A6": {
+    "name": "We Got It (Europe)"
+  },
+  "46B35FEEFC348A3E6558F2754EDEE49EFECC9D38": {
+    "ref": "74D1C853B76F82B90C391738AAC0879E90146507"
+  },
+  "46D62C52F865AE9FEB6C8C36D2F09B3743BA0B79": {
+    "ref": "9A79D8FF6FBC05B2D9D661C7B59E9A207E271B93"
+  },
+  "470DE2F8B01329B805582067989DB28F35F030DD": {
+    "name": "Blonde Justice (USA)"
+  },
+  "475454B06E0380D6A0A55BB48B375D669E2BB7AF": {
+    "name": "3D Atlas (Europe)"
+  },
+  "47A63C0714F7B6A858ABD02070D963FBD24493CE": {
+    "logo": "QmVKDwmxNbw84qSn4DeTeFBbZKXCFf5QB7f6TMDmKN11zr",
+    "name": "Supreme Warrior (USA) (Disc 2) (Wind & Fang Tu)",
+    "vid": "Qmatui4LMF7VDpWS43u4SnfDLesYBWz31QuVhe2qtmTyeq"
+  },
+  "47A7BC3DEDA1CF323D00F8C8739756089AE795B7": {
+    "logo": "QmXXghtsZh4minmQcanPxfmXoXAhYZde52r7zuwLZmbn5g",
+    "name": "Royal Pro Wrestling - Jikkyou Live!! (Japan)",
+    "vid": "QmPvCr2kXVyKcnrNC6Cou6KBmwvZL74DLwfVPTp5eLcKE2"
+  },
+  "47CF22AFF089ADC72534B853F8337DC294F0B74C": {
+    "logo": "QmUfvG3QENt6xh6LAnGzTmnQMrHdvevfqxaMsRJxxZNUUt",
+    "name": "Star Control II (USA)",
+    "vid": "QmVvVzfaitsWqVf1PnPiK6oVCt2gwvCzrpV2eNvmqJxfJD"
+  },
+  "4933031F1DF05BC3CB8308526A07F14A66EE1CC2": {
+    "name": "True Golf Classics - Waialae Country Club (Germany)"
+  },
+  "495FA423A168362A503B2916FD8E59E76465C11F": {
+    "name": "World Cup Golf - Hyatt Dorado Beach (Europe)",
+    "ref": "88D8FF6AA790BD19E68867557665F8E2BEE9B2B7"
+  },
+  "49A5B3CEE5A2F0C107339C7D427B82F904ED9105": {
+    "ref": "FB2FFB1F423F6EE934CDF2B2407D2077E100A37E"
+  },
+  "49FCC68058CC2E191541C118E1B138C2F347BB64": {
+    "logo": "Qmc2LmHiDLPu3hxFF6Aft3FCHB1Xp6vqvmDquppFgcXY1r",
+    "name": "J.League Virtual Stadium '95 (Japan)",
+    "vid": "QmThRSEsGiACf9gVV1mxpTeq7DxGUnuF2uinPNyi4eEyxD"
+  },
+  "4A56F0B923D217CD7CDDFF3A87B86C056CDEA7B4": {
+    "logo": "Qmad3z8vKyD2udM3CSHLC7MWgTexUer28W3Gqw3c4RC15P",
+    "name": "Last Bounty Hunter, The (USA)",
+    "vid": "QmWRRqnHmUe69EPnd3jKh5bGCpGW5qS1Y9gEsFp1Q8Y1p2"
+  },
+  "4B13E4EED77B0D01551D687A4DDB4F5ECE0686CE": {
+    "ref": "4A56F0B923D217CD7CDDFF3A87B86C056CDEA7B4"
+  },
+  "4B671A6827CC038E1890AB130952C74F44B71403": {
+    "name": "Crystal Dynamics Best Selection ~ Sample This! (Japan, USA)"
+  },
+  "4C5306566ECA1800E3F80AC36EF429DE6711CF8C": {
+    "name": "Anno Mitsumasa Pepperon-mura no Shiki (Japan)"
+  },
+  "4CF2F5F18BC3B681BED216C8B86B4A2EC03D19CF": {
+    "name": "Theme Park (Germany)",
+    "ref": "1933F50021D8148B476CCB4F50B3AC02B3E4E49B"
+  },
+  "4CFD8D93C6016B303D3655D726DEE921E20B9EF1": {
+    "name": "Shock Wave (Europe)",
+    "ref": "403DA6C5C27C9785F255B0CBE9ADFB55C122A6D3"
+  },
+  "4DFFC51D911729715061573B268CFFFCE32CF693": {
+    "name": "ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 2)"
+  },
+  "4ED5D08EADA0DAED27C631FB75227EAF1918444D": {
+    "name": "Super Street Fighter II Turbo (USA)",
+    "ref": "1F0765A37412BD6BD82AC9D5649D2CBFB8867B52"
+  },
+  "4F88B732C1F6A60308B3C319A9EDF02CE2D9DCB8": {
+    "name": "Powers Kingdom (Japan)"
+  },
+  "4FFC0AFF5B3BA7F14D2F9D221F95BC94707B7424": {
+    "ref": "92A655A118A261FFA074537D6DD94EB891BEE301"
+  },
+  "5004E2593571CBD65AFA630D744A06C18370B681": {
+    "name": "Road Rash (Japan)",
+    "ref": "5D45574DEA9BFCBF913326EE4F27841FC8CD924B"
+  },
+  "503C4DC696CFC2DA75C7A9A00A30DA6387C2E063": {
+    "name": "Space Hulk - Vengeance of the Blood Angels (Europe)",
+    "ref": "ECFC8444938E5AF4C63D56ABCD373E229748A98F"
+  },
+  "507A8E89C96DE43B7066F76CD646F8D5D3FABA07": {
+    "name": "Nemurenu Yoru no Chiisana Ohanashi (Japan)"
+  },
+  "507D8083FD54512DF0E2467F8935E42C32F67577": {
+    "ref": "562197866CA836C751E23E8F74CBEFFA593A5A62"
+  },
+  "508CEA8808543E467FC2DA29F96CD1CD10D1F4FB": {
+    "logo": "QmNoCNXn9XgQEmkKwfBgSCbce7FBoorKphTQiErXENUW21",
+    "name": "Pyramid Intruder (Japan)",
+    "vid": "QmNf2xg4vP7o2m5o5yXbE5TspHE9oGKgvXJY86kFuPN3nC"
+  },
+  "50A636EFFDD8383CC6F035E1D94C322643B0E79B": {
+    "name": "Nontan to Issho - Hoshi no Okurimono (Japan)"
+  },
+  "5128AE797C2D293176ECBBE5BFC6E34104B7A88B": {
+    "logo": "QmdYK6dVQva23vJSuiPymVUGvVrtgxpAcZpqAQ5cgG42Gd",
+    "name": "Space Ace (USA)",
+    "vid": "QmRDSpLeK1rL38huTDzfJoqPNWRbaVyNDjcTmi8G2UC6Yr"
+  },
+  "525F890AF602C1AD24A4E5E874F4BB9F8FFF93A6": {
+    "name": "3DO Interactive Sampler, The (Europe)"
+  },
+  "52ECC0719CB947E29838C2E2BD566A9DB202C73A": {
+    "name": "Sword & Sorcery (Japan) (Demo)"
+  },
+  "530374783E7C90F8052737AB0F81CB8565EA51D9": {
+    "name": "Burning Soldier (Europe)",
+    "ref": "92B6A8529F3DAA5A9B6EF421017000558C88EF3F"
+  },
+  "53088BB162054377815D12478207B7B1D1E39644": {
+    "name": "Pretty Soldier SailorMoon S (Japan) (Demo)",
+    "ref": "849E04B1698E841488F2CB528A4B956E77E4FDF6"
+  },
+  "530F7448CE98079EC59A6A61D34A63AC51E94E06": {
+    "name": "Shock Wave (USA) (RE1)",
+    "ref": "403DA6C5C27C9785F255B0CBE9ADFB55C122A6D3"
+  },
+  "531D094A96877BC482BAD900D2F18EAF7459227C": {
+    "name": "Daedalus Encounter, The (Japan) (Demo)",
+    "ref": "B8BA5719E09ED98A893BB9AB6B31B535CE30C012"
+  },
+  "5340BFE82F671F56296042335863BCAEB4BB0A83": {
+    "ref": "8532AE19F3BD243211DC346034AB194701FF3C36"
+  },
+  "535EE8E0C52081351EE591CB0781346A86AC9036": {
+    "name": "ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 3) (Pro ni Kike!)"
+  },
+  "53C35837C612D7D25A6E8DA05E9710D61CF83018": {
+    "logo": "QmPYMJXXhoED6YZAMLB8aHjJQaEC1LphBkkhRJmNfUBMb4",
+    "name": "Zhadnost - The People's Party (USA)",
+    "vid": "QmWGkitKsJUi1oc4DFuA4huhK5hke23fmSzNVPFr3Q22JD"
+  },
+  "54B70D4DA560A80D4E76A83DE6AA55EFF27BA61F": {
+    "ref": "B83423F88EE7533398661B1DD8183AA11B3FAB41"
+  },
+  "54D20C1F12E9BB7599BD881DB6E45BE3B50FAB81": {
+    "name": "Phoenix 3 (Europe)",
+    "ref": "0640009042B54FF534A0158217955625B913E457"
+  },
+  "54DDE131DFC763B4E6D8D428C88A422E9F6F617D": {
+    "ref": "4391FC2CC5FB2FF678A6C11A0051748C5110AB9F"
+  },
+  "55196FFBAB6A46A3D0BE86E84C96DEF9DC1432F3": {
+    "name": "Yamada Kamachi Bijutsukan - Kamachi's Museum (Japan)"
+  },
+  "562197866CA836C751E23E8F74CBEFFA593A5A62": {
+    "logo": "QmfJrCEaCecB5PSZdmYzSWGuVPDMLKw3U9yfL9G7rPs6uc",
+    "name": "Defcon 5 (Germany)",
+    "vid": "QmNugm1CtHTansi6veqGckSsFHnDDn37ueErxtRt61hdi2"
+  },
+  "562A04B2030AD97906748CEC7A67B2EC30B52D39": {
+    "name": "Virtual Horror - Norowareta Yakata (Japan) (En,Ja)"
+  },
+  "5635AC67BD20DC50876203CC7FF3FA5B286069F9": {
+    "name": "Total Eclipse (Korea)",
+    "ref": "715869E4EECDC202983D0B688B78A76648182F00"
+  },
+  "563D4C3259F2B4E5F58921351CD92FD4C2F1BB64": {
+    "name": "VR Stalker (Europe) (Improved Version)",
+    "ref": "ECB40EA9467C06C7C88D0CBDAE500A02E6533787"
+  },
+  "563F85E4BA1EF2104029E139BCD8335EB48EDCFC": {
+    "name": "Takeru (Japan) (Rev 1)"
+  },
+  "5663315CFE066AF79A03A9D5CC7A1CF52DD4E068": {
+    "logo": "QmRC49XsVpZ5La2dPa8DVQFaPHtydnSRXUWUx6CdkaiDsv",
+    "name": "Escape from Monster Manor (USA)",
+    "vid": "QmQVupuSnvqbVpEfj5u8VyJAExUa7dt3sceBVQY7ggSZ9r"
+  },
+  "56C2460C0590FFF55DB5AB49FEE7F0F17FED8018": {
+    "ref": "8DB2055A48792B7C06E8C6D6AF0882F6B8BF9DE5"
+  },
+  "57C19D46A61C93EC4542B2BE20B4405458CE8FF5": {
+    "name": "ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 1) (Shot Yousei Kouza Vol. 1)"
+  },
+  "57D018CB88A4182720DE85A2EE1FA0B7B00F76CA": {
+    "logo": "QmaSyvGFDWok46BkoiRZUZe3hDscRL58vxpmFPMeiow5Qs",
+    "name": "Daedalus Encounter, The (USA) (Disc 3)",
+    "vid": "QmeUtfhYxTNNGQcaTikBJSFfqSin9yM217atHXLNozdb5s"
+  },
+  "57FCA6F484E9CD50A8A3C2B203626D8981EC0803": {
+    "name": "Wing Commander III - Heart of the Tiger (Germany) (Disc 3)",
+    "ref": "C4D8F8CBB11C659D052FEDC953476A5F0C16A15B"
+  },
+  "585D88392364F03C565C44372BEE0FE4725CF067": {
+    "name": "Hitchcock ni Chousen (Japan)"
+  },
+  "586626A1D35BDA93208B9801424C74353860E065": {
+    "logo": "Qmd57seZYb14PyY9v4rUghvcU1Us61aP9nGFvG8X5RmmcV",
+    "name": "Gex (USA, Europe)",
+    "vid": "QmZ8yAzdcEKZsQcJRL8UgEKaaoE4nQi9aAVGAC4cBmNLQj"
+  },
+  "5874578B6FACAB299F946588DC8B36EA2DF17B9B": {
+    "ref": "6E7C6A74C574941AE471500F7F1C70A47517F53A"
+  },
+  "587C4B0A120A1C4EDA98828B05661D2D6E86E3C9": {
+    "ref": "C4D8F8CBB11C659D052FEDC953476A5F0C16A15B"
+  },
+  "5972F0F5BDB30CAFBAF1ADE682DC74CEB1634719": {
+    "logo": "Qmc3QZFZ3AYErguBYqXRH6jfmEmA9UEAHvh1Ke8vK4FKwy",
+    "name": "SHADOW - War of Succession (USA)",
+    "vid": "QmPKUPcRkuqZ4qb5txmbMNHTinnt3GRu1P7b42ZfcTAmhP"
+  },
+  "599F5D7EE7B57BCB12501F16B19B45E725437912": {
+    "name": "T&E VR Golf - Waialae no Kiseki (Japan)"
+  },
+  "5A44A87BD7EECE0176DEB7EB5B5294EA2437213E": {
+    "ref": "8A833C82B048566F26D33146B44DB6254E8D08F2"
+  },
+  "5AC8A31A965E1F3FD727286BBD4EB3D7DD2FDC03": {
+    "ref": "9C8B8CAF7481E68A772D6C2ABDEE06F6A93CB56B"
+  },
+  "5B9C29097D3DB9D7D5073769292457C1FC867684": {
+    "name": "Striker - World Cup Special (Europe)"
+  },
+  "5BBF3F21082C7CEE40E10BEE6974227A3D6FEC56": {
+    "ref": "8FB5D8DDC8BE389C5B04D6714A56341E9BCCB58A"
+  },
+  "5BD1A12136087E75CAA958F3F59B283FDE7FB076": {
+    "name": "Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan)"
+  },
+  "5D3B1E11E2B31DEBF363C731D562BA130A3F75FF": {
+    "name": "Robinson's Requiem (USA)"
+  },
+  "5D45574DEA9BFCBF913326EE4F27841FC8CD924B": {
+    "logo": "QmNav7jf3dPmtFnpW1ZmwXqoPeQJ52D6341MDhAKXi6VEY",
+    "name": "Road Rash (Europe) (Rev 1)",
+    "vid": "QmenofXnXgHv1wF4w4pAxWYTJozSx6drMGsApz6xsBNvnw"
+  },
+  "5D9D17080644E74ADF2520525615635D58D0F4C9": {
+    "name": "WorldCup Super Stadium (Japan)"
+  },
+  "5E28B5EA38027E62D466BD36C5E068F27416D285": {
+    "name": "Super Wing Commander (Japan)"
+  },
+  "5E5F1DB42A1F969916934FCD07C1D70502D3E69A": {
+    "ref": "404DDA1922B96844D1BE9FC6F5AF1C101FEED006"
+  },
+  "5E9470685E6B13AAC3C3D8E517A5631340415AFA": {
+    "name": "Syndicate (Europe) (Demo)",
+    "ref": "3A70C09B10454C87822A982A18A5129265E382B5"
+  },
+  "5EDB988A3E405C70344CDD0AEB72D91720346B40": {
+    "logo": "QmWf2igAPvnZyoiL4VJjnESqYNrP18YQrAdZn7YhagafMh",
+    "name": "Short Warp - Warp's Short Game Collection (Japan)",
+    "vid": "QmdZStAFu4YEqmTf42cHR2v4TuUzkManRXWka6xWX53tSn"
+  },
+  "5F90B870870510845A5234A881E6903B99B3847B": {
+    "logo": "QmPnirCFE77LXsTtXLrwfUihaAZ9KAjeXV1PV7CSeVhHN1",
+    "name": "Cyberia (USA)",
+    "vid": "QmVq7mQHjLHoTkWvrSH85J1KNMePa78bdXv1jyVyendwLr"
+  },
+  "5FA5FAE689AB3365664D56393AD82C87082CB379": {
+    "name": "Live! 3DO Magazine CD-ROM 10 (Japan)"
+  },
+  "6019B1AC5489D4099FC37B5EE6A345BB6259E66C": {
+    "name": "Escape from Monster Manor (Korea) (En,Ko)",
+    "ref": "5663315CFE066AF79A03A9D5CC7A1CF52DD4E068"
+  },
+  "60C9A52C9EFDF0893606E7DF4573A94199155148": {
+    "name": "D (Germany) (Disc 1)",
+    "ref": "92A655A118A261FFA074537D6DD94EB891BEE301"
+  },
+  "60EC48C7ECCC4EC40BCA195E97C7239DD0CDFB7C": {
+    "ref": "8E8C376A2613778AE8DB0B8E5D548C84D0F02938"
+  },
+  "60ECC0863165470285AFF01E892C513CEB682B0C": {
+    "logo": "QmNf2HVdZKwHivWvQubzZVELBVR52JkgnEHCWkvRjpHW1C",
+    "name": "Off-World Interceptor (USA, Europe)",
+    "vid": "QmYEKDajdG7k7L6kWRARC47v576VLdCcyZ6Mg5YvWLJCNj"
+  },
+  "6276007BEC8A7B0A6D7C64D6D773BEF5E8DA73A1": {
+    "name": "Idol Janshi Suchie-Pai Special (Japan)"
+  },
+  "6309C1E61E5A0E01AD2E7934ED6EEC196D7BDA79": {
+    "name": "T&E VR Golf - Pebble Beach no Hatou (Japan)"
+  },
+  "638E8AC723D594047D977C06AA1066B863ECA8AE": {
+    "name": "Jikki Pachi-Slot Simulator Vol. 1 (Japan)"
+  },
+  "63F622760EF6BD0F4BC8AD230D6866E55614F248": {
+    "ref": "E46733BB1401671ED76CA64894CD55B2098A57FA"
+  },
+  "6423AD8F90242C4362C8054931561ECBF7C15399": {
+    "logo": "QmTkZ6aM2d2GDsRVT8AabajRDw9F3ZtneEshKtuA9RkK4B",
+    "name": "Pro Yakyuu Virtual Stadium - Professional Baseball (Japan)",
+    "vid": "QmXU1WD1dRhKyqiu48VpjP6sujSDPJRa3BaBJWTib5VyNu"
+  },
+  "646BC6B359AF5F1F1329E856EB6BD6DE56938678": {
+    "logo": "QmYBNkZAGwqh7xpXs1P3QL9szcQ5Ws64GwyJEKQ9D6sKST",
+    "name": "Strahl (USA)",
+    "vid": "QmXwdnsWBzBh6sTc5desivT8SR9d6dJmrJSDSvg9MpPSJ9"
+  },
+  "64B92EC326446B10CB93CC18BE358AEB15761F70": {
+    "name": "Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan)"
+  },
+  "64D8DAF92DECA9D1E6B514249A9278BB21B433A9": {
+    "name": "Star Fighter (Europe) (Demo)",
+    "ref": "C69A766DC8C46ADA66D181812B417351BEA515FC"
+  },
+  "6544F1E555EB9E79E624486896845DD1609755BA": {
+    "name": "Return Fire - Maps O' Death (Europe)",
+    "ref": "CA0978F598575F8DB373ED78709C4BBDF1B183C8"
+  },
+  "65DFF59422B54179CD9C780BAB9B28F361EA302A": {
+    "ref": "95F2D6A6E4348C1E21A6BF98EC30B37B8565D59F"
+  },
+  "66497EA2CE65007133A2497A62323A001C25B9DF": {
+    "name": "Live! 3DO Magazine CD-ROM 9 (Japan)"
+  },
+  "665A33DCAC7E54F331FA042F775B15FDEBDB1187": {
+    "ref": "988AC0978D0701719095304089D6ABD5B0575E81"
+  },
+  "666F2E890B4B195A4C8590F37094FC98E02B739F": {
+    "name": "Burning Soldier (Japan)",
+    "ref": "92B6A8529F3DAA5A9B6EF421017000558C88EF3F"
+  },
+  "667A8A67AE4AE5415641CBE85FE554E63FCBCD03": {
+    "logo": "QmQfcf3qFnoKZBNocspNKqJzcmqUQqGUBoiyY53f6HjxRo",
+    "name": "Cowboy Casino (USA)",
+    "vid": "QmdD3V2sWvWuddHjJdRKr2AdsMYcjiM7GBm9Cv8waQ6Uuz"
+  },
+  "6752C33B76FBE66A8F37C2333EC437B9484B88EA": {
+    "name": "Putt-Putt's Fun Pack (Japan) (En,Ja)",
+    "ref": "F8D3E61BD07184122F783428ABF9AA2B7B07D6CD"
+  },
+  "678AB452BA9B676E3D6B7EFFBBD57B96F18F4561": {
+    "name": "Super Wing Commander (USA)"
+  },
+  "67B6A18EAEF5F07860EEB258D7C301BF9BC8507D": {
+    "ref": "02A6CAA42322453065133068B42DDED190597EDC"
+  },
+  "68AE9C52788B9BC2C6E59D64B18F57AC3900496B": {
+    "name": "ESPN Baseball - Hitting (USA)"
+  },
+  "68CDF619F0D9544D78DA195A28CD32F5E053D1A3": {
+    "ref": "6FFDCB274DC72EB199661B3FC1E7165DFE387F3D"
   },
   "692B1B6CD9821368DF62B924A2C8C54E3649BC1D": {
     "name": "Alone in the Dark 2 (France)",
     "ref": "FEEF790130D05CA5446BE4550E4F8799E5F983AA"
   },
-  "3EEF3FC16C18BDBFF43B90782FA7B4B907274345": {
-    "name": "Gateway to English - Eigo de Go! (Japan)"
+  "696F70FB80E1EE1FEF186C8DE5F698EF56A08BF7": {
+    "ref": "0D544CA6AA60E6D8F8135FE0FC2204F6AD03D7BE"
   },
-  "D117DEC9B202F3ED3E245E347700AB987A3006E5": {
-    "name": "Super Model, The - Gail McKenna (Japan)"
+  "69AF7DB3D7EB542B4B8ED764779288C6FAF04F4A": {
+    "ref": "DCF035EDC3E479CB36A23631DF46081A784A8F03"
   },
-  "3A70C09B10454C87822A982A18A5129265E382B5": {
-    "name": "Syndicate (USA)",
-    "vid": "QmfSRKBR5eDSTztevw9bgsLWoAwzdC9oiLjT1rE3V55aUk",
-    "logo": "QmbhKeK5ufTpVN8KpCvKkPGN2dmQdaDaPzRHe3Vgx2E3eR"
+  "6A049E6E8A8B6BEE6BC175890785462B9C8DE317": {
+    "name": "Montana Jones (Japan) (Demo)"
   },
-  "9FD3BE7994781DB557B9A33CEE5F2CD50299F695": {
-    "name": "Starblade (USA)"
+  "6A08657F15541035E1986357FC1757454C8B4D4F": {
+    "logo": "QmfFPGRjk4A92mgynz8CxqCsP1KSfYoFJtoWXfk5EUGTs6",
+    "name": "Guardian War (USA, Korea)",
+    "vid": "QmSMdGSc1J4PJKRNWQ6kmKkksnZ9ZX2R3Mjcb6Q21yqb28"
   },
-  "1933F50021D8148B476CCB4F50B3AC02B3E4E49B": {
-    "name": "Theme Park (USA)",
-    "vid": "QmeunMeHVay5KrAzoKdQoFYTRhWH9t7ho145XTiy8Xgzma",
-    "logo": "QmYYeWaeAc6BguWPr8qoWXfuVEEYHqw1Ggq8jxQpcx4XRV"
+  "6AEA93995DAD00C2F669DBC0A2BB7685910E0749": {
+    "ref": "60ECC0863165470285AFF01E892C513CEB682B0C"
   },
-  "7FFC8DCACFD6D6EB096D21C334B6980DD2456826": {
-    "name": "Putt-Putt Goes to the Moon (USA)",
-    "vid": "QmeoKGwwsx2EGXkLLaydfJUFkdDzv6cQsBi9joTeKxqSqr",
-    "logo": "QmciA6CFibu8kNTwyFyfFCEYJRt97ABcRhrH69YLQkZb34"
-  },
-  "911452D9DF321B4CFEC53FA11BD4E72259C41C6C": {
-    "name": "Hello Kitty - Asobi no Omochabako (Japan)",
-    "vid": "QmSaoYXZf2VxhQegWDuAGSeVVsExHLdpNwhzPU3rMirMj8",
-    "logo": "QmY16AgcmK7CRn2ZPMuy5y8uYLvPxr78646oNRbaCs4Y9L"
-  },
-  "3CC020FC6111588664C3162F742CC3A3CEE623A1": {
-    "ref": "562197866CA836C751E23E8F74CBEFFA593A5A62"
-  },
-  "B7997BE27CF186B97F4B5C98B5C2C835334AF938": {
-    "ref": "AE7C61E49E08769C161C503D38CB718D169161A2"
-  },
-  "A5F4E53A6C2389B5B8D841EBFEAA1C84E97C14F9": {
-    "ref": "A4F3D91B7E889E7866EF6F2AFE41C64FE71E6B41"
-  },
-  "468224554E3572FB9198FED7735C29B85FC62C68": {
-    "ref": "AC3ED4006A0CF6022E4947A4DEC3BBB2CD890417"
-  },
-  "A9D348665F36BEB85171E7C7740B61165A3260A0": {
-    "ref": "6C721692986F2BDFD2A36DAB946C50E4C74A153F"
-  },
-  "8F4BDCC6B8BCC0746DF68989215F89C348B34388": {
-    "ref": "5128AE797C2D293176ECBBE5BFC6E34104B7A88B"
-  },
-  "67B6A18EAEF5F07860EEB258D7C301BF9BC8507D": {
-    "ref": "02A6CAA42322453065133068B42DDED190597EDC"
+  "6B12546B158FE591777078CC946A7580B1EFF6C0": {
+    "name": "Mirai Shounen Conan - Digital Library (Japan)"
   },
   "6B622FCB3863395CCB0BA10C45097CBA6004CCF8": {
     "ref": "77F7DAE22BD9392466E790350E3E407F3A54709A"
   },
-  "8B23E11E0C26521712D9C43C318C56F30D1651AA": {
-    "name": "Armageddon (Korea)",
-    "vid": "Qmcy4imDZM1MyjgKuZjXFGfReL1sUuFyUk66CdvLxmHyif",
-    "logo": "QmY7zRoYVVNqCePaFk1zScwz7D6oc2i8wMCCE9mZ83C81u"
+  "6BAA3D6DB75F3C3BD803AFD44BD8078FC442F90C": {
+    "name": "Theme Park (Europe) (Demo)",
+    "ref": "1933F50021D8148B476CCB4F50B3AC02B3E4E49B"
   },
-  "DBC2CA6130991EBF56E6E44E6149FFBD8657D433": {
-    "name": "Battle Blues (Korea)",
-    "vid": "QmVcsF32nnZVMKwkzJPYtMr8izkSX7wTPGUf18S5Bh8PFF",
-    "logo": "QmVxr6kMukPZfn3aarRL3JphM6iM49dK1UJEekxb85LSKT"
+  "6BB71FFCB7C70D983AC7CE1324BFD6F532EAEB1B": {
+    "name": "Chiki Chiki Machine Mou Race 2 - In Space (Japan)"
   },
-  "C4952ECC028CF2140770B1FB0806312D7ADDE7D6": {
-    "name": "Bust-A-Move (USA)",
-    "vid": "QmSqfwWDht9pzsoFzCMK7Kotjk7Dq8w7McRQcpBWb4boKD",
-    "logo": "QmThHviANrGsvz8tcHV7QoP83owMkEYfrjBWFXTP1fuwKE"
+  "6C721692986F2BDFD2A36DAB946C50E4C74A153F": {
+    "logo": "Qmb5qwqNuL3dfMHRxWisXYjEVjNZac1K7tQMrpmKLMf7aT",
+    "name": "Shockwave 2 - Beyond the Gate (USA) (Disc 01)",
+    "vid": "QmQ4Kk1YSxuPqSGLcmoSkNUHfHNNKxsjk9425Vu4gxzvVJ"
+  },
+  "6CB82621362F2CA4E74832FCA4D42C244B1E50DA": {
+    "name": "BFS - Blue Forest Story (Japan) (Alt)"
+  },
+  "6CE99DAA8022B61280B7766D1937690045D10798": {
+    "name": "Love Bites (USA)"
+  },
+  "6D1469166770CC751C5D33E7BDD77273E48ECBBC": {
+    "logo": "QmaeCJYM6YGYrfWPUSQ3GQTZhEjmzXLpbrWaZkWiX88FDS",
+    "name": "Star Wars - Rebel Assault (USA, Europe)",
+    "vid": "QmcHDm7yUDgL5qcEd5Peh79HHExzrFX1b6qSEs9rxT48gy"
+  },
+  "6D31EA621AA407E6B8249BE65DDFBEAB41E55440": {
+    "name": "Woody Woodpecker and Friends - Volume Two (USA)"
+  },
+  "6DFD62A439ABFCD06F6C4EE4A10567D2FB7F064E": {
+    "name": "Fire Ball!! (Japan) (Rev 1)"
+  },
+  "6E1BEA94FF1AF4BCD58F05207523C7B3502A988D": {
+    "name": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZBZ)"
+  },
+  "6E2DC646C57CC4A094789E0B7026D6187EF6D50D": {
+    "name": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 4)"
+  },
+  "6E7C6A74C574941AE471500F7F1C70A47517F53A": {
+    "logo": "QmZ2fYaektxKQYRamo1BL7pGLC9nto9JCCHN8TVoiModCb",
+    "name": "BrainDead 13 (USA) (Disc 1)",
+    "vid": "QmWJmRFvmte1uu4FkyPZwG9re2xuKVSzuwdwg86mHbne9J"
+  },
+  "6F2D8938A14BC4B2F207304590C32B89050632FC": {
+    "name": "Kakinoki Shougi (Japan)"
+  },
+  "6FFDCB274DC72EB199661B3FC1E7165DFE387F3D": {
+    "name": "Primal Rage (USA, Europe)"
+  },
+  "70E56F621BBEEF9C4A884DA43F0E313C111DB9CE": {
+    "ref": "7707FAB1D30B2A06051FFBAC2938DEF751A7F118"
+  },
+  "715869E4EECDC202983D0B688B78A76648182F00": {
+    "logo": "QmQdYbqnSRBdUaqSkS5S3BUX1kQycqVzHFvkVzJjyxrMnN",
+    "name": "Total Eclipse (USA, Europe)",
+    "vid": "QmV1GcjgQw48w2xdTiBaGutxxtm4AQ6irnC6mnmx3gUrQA"
+  },
+  "7190A7225710108A27B0119907B941D464407F89": {
+    "name": "Step Aerobics (USA)"
+  },
+  "72099D1E98B97C899FEFC4219D4D456338DACC58": {
+    "logo": "QmXcpGtfg6EpoKLHo1AbfWfNPHxzvjKUZbhzJqdGBPc5X2",
+    "name": "PaTaank (USA, Europe)",
+    "vid": "QmZ2SxPJdYMgbrNnGRYhojVY51zZYthxPqr5Pgknoz99Cr"
+  },
+  "725C068CF14A8D81C96A5EF2830E2F68AE2C9D91": {
+    "name": "Live! 3DO Magazine CD-ROM 5 (Japan)"
+  },
+  "72B460207B6F96F05ED0A6CA2C45D09B773D008C": {
+    "logo": "QmYsLMYHvCGs8KqtgpASionyJU1HGqeEE2zUPGmX9LGrhz",
+    "name": "Waialae Country Club (USA, Canada)",
+    "vid": "QmNy3Z2erTUcgv6jFkzu9NpKfZJdUeXAA1YJhmMmrWM5EB"
+  },
+  "72DFC61317AAF912362E11E81A6C84E5EC0C636B": {
+    "name": "Virtual Vivid (USA) (RE-1)"
+  },
+  "731B19F2EAB1DCFC101951E05A98E41D55DF45DD": {
+    "name": "Novastorm (USA)"
+  },
+  "73537E56718DB8C636925996E3D65A729E470AE8": {
+    "name": "Fatty Bear's Funpack (Japan)"
+  },
+  "739114E650E3401C61DCA6F27F5AD757530F084C": {
+    "name": "Footie (USA) (Powerslide Bonus Disk) (Unl)"
+  },
+  "73AE3000000FE42324CC79DF6E95AF54F95D3FE1": {
+    "logo": "QmesPUTut6Mdfu4DxHisk5FZLaACMisrBM5BA157NwKSNa",
+    "name": "Twinkle Knights (Japan)",
+    "vid": "QmYPCYFT1igDMHZJBxh3BqLSZyctAfMhmBLvSmPs19aXhH"
+  },
+  "73CEA9107BC43CB8DE210AF2119A7EE395F6AB9F": {
+    "name": "Alone in the Dark (Europe) (En,Fr)",
+    "ref": "D643C74677B283EC01431C6457D21F888747C77B"
+  },
+  "747780EC3517BD69F0EFD632EE603F4AA8D1CB1B": {
+    "ref": "C1E9C2670DBF63E1E1EB6475992EB329B8BEFFA6"
+  },
+  "74850ABD09561142B784E637FEF02FC4D1E12B85": {
+    "name": "Alone in the Dark (Japan)",
+    "ref": "D643C74677B283EC01431C6457D21F888747C77B"
+  },
+  "74D1C853B76F82B90C391738AAC0879E90146507": {
+    "logo": "QmfXSf7HkoZBUpKv4Cfgh7qvGpcP1Bkmz8ifTP9KDh5qmp",
+    "name": "Samurai Shodown (USA, Europe)",
+    "vid": "QmWYhc6aXo1rjMwnjCwmKyp5SCbgNyXHVNxZoQox7QSBTZ"
+  },
+  "754342C0242DE2B748599AE4D90DE0EFAE03A3F1": {
+    "logo": "QmWZwEbkmE3nWW9khEpZytd1QQ7oUpghqyJSWmDGYikedJ",
+    "name": "Yu Yu Hakusho (Japan)",
+    "vid": "QmfXgEgmexB4v5XrvEEYpCekQ3zCNTbaeyyEMat5ZWqDiF"
+  },
+  "757A7094B65DBED3697FE26FB8CC20F2E25BE043": {
+    "logo": "QmfR9RavMCne76HSfyxoN3E8j3TJa9ANv3k56yUZUufVbt",
+    "name": "DeathKeep (USA)",
+    "vid": "QmWy4cRpygwQsYJfHhGX3d5sm21bDqD5iQBXn4ZKf7T1V1"
+  },
+  "764BEDFD1DAE95331B2429EAEA3F6BE6E79B25AF": {
+    "name": "Ishida Yoshio Kudan no Igo Seiha (Japan)"
+  },
+  "7674B6A4F8FF3361850296167BC1B862AC5ADF74": {
+    "name": "3DO Interactive Sampler CD 4, The (USA)"
+  },
+  "76A3891AF45F95B9F9030B840235E4642D0D0C42": {
+    "logo": "QmQtJhQceqWsP7iFj3zmyeubgQtraFe296mykoXGPLYq9V",
+    "name": "Rise of the Robots (USA)",
+    "vid": "Qma9DmRBhsVpuPwJBJEXZkKkdndaKmR8UaE489FrhyqfZb"
+  },
+  "76B829AB19E662E2BB24DEAE4C8FDA623458C7DB": {
+    "name": "Oceans Below (Japan)"
   },
   "7707FAB1D30B2A06051FFBAC2938DEF751A7F118": {
+    "logo": "QmTjJTgnXQm6XFCWZSHsgmPdPcVSsrvvLLxE9DsfKHqRdR",
     "name": "Dragon's Lair (USA)",
-    "vid": "QmP96ptuFQJbvZsxt4yrqsaKFU8gLF9AuQiFg8EqVD9r3q",
-    "logo": "QmTjJTgnXQm6XFCWZSHsgmPdPcVSsrvvLLxE9DsfKHqRdR"
+    "vid": "QmP96ptuFQJbvZsxt4yrqsaKFU8gLF9AuQiFg8EqVD9r3q"
   },
-  "E9F7D6C2B219E0DC0D1ECB71A3E2ECEAD7A91B66": {
-    "name": "Firewall (Korea)",
-    "vid": "QmPxqmRgWu71mgYktzJuoTXSWKnmPrm2kfwLtHvGLkKD7a",
-    "logo": "Qma48sAFbcpG7gHEHng9aCKSTG5PZDJS9mRs4rfvwmu81T"
+  "7768311B34FC11EC934B3DEA820CD4C4BE79F084": {
+    "name": "Hirata Shougo Interactive Ehon - Aesop Monogatari Vol. 1 (Japan) (En,Ja,Fr)"
   },
-  "B83423F88EE7533398661B1DD8183AA11B3FAB41": {
-    "name": "Jammit (USA)",
-    "vid": "QmT9jmsyMniZyNZqYc7XksWPqNtCaCXWKSaagsKKSUM4zK",
-    "logo": "QmYUafFMfLzFro2hYGX2XMhtBHrFHjG7pas4JKea7j3iWg"
+  "77F7DAE22BD9392466E790350E3E407F3A54709A": {
+    "logo": "QmQWx6XwF9NwN1sRPbPSZNEc83agnEc5UN391QBQXdGf7B",
+    "name": "Virtuoso (Europe) (En,Fr,De)",
+    "vid": "Qmb1s7TxPvkiJWsFQYwAq1XqgbJD44bFhMcRkAhesAgW4Y"
   },
-  "A954B2D0C908F6D903BEBB78EC4F336B531C02B1": {
-    "name": "Mind Teazzer (USA)",
-    "vid": "QmZhBHd474q4vRpLPbk6XwEgAi8DfVRjgM1KJXZ9nXNXHx",
-    "logo": "QmfVuX9xtNjJZCempC2erYqEXQ2UBBCGq3LaNEz6Aw2gh6"
+  "78999D80C678841502C49A2D5C3C54EFC1EE04DB": {
+    "name": "Theme Park (Europe) (En,Fr)",
+    "ref": "1933F50021D8148B476CCB4F50B3AC02B3E4E49B"
+  },
+  "78D5D821D49C2CDCC5765155B9008E0C28D9B493": {
+    "name": "Real Pinball (Europe)",
+    "ref": "224B0F767D9C5900C08F3EE3E238DAD7C837F861"
+  },
+  "794D262BC41EF1559694E969518D2CD85BDD7B69": {
+    "name": "True Golf Classics - Pebble Beach Golf Links (Europe)"
+  },
+  "7975BE4A1CDA3FE52534557A3193C8704FE4C83B": {
+    "logo": "QmVSjnwm9j3us8GwzRCH8vsryyVL1MfyrXydpw7DLi7Mdr",
+    "name": "Creature Shock (USA) (Disc 2)",
+    "vid": "QmYaV7XKX4cXiim4zzEDcCLYHnseQmR6Nz98tHriivogHQ"
+  },
+  "79D968A0E48D541394F58D572E5B159685B936FF": {
+    "name": "Sesame Street - Numbers (Japan)"
+  },
+  "79F21EECE690072577EA77A1D890492EF2ED2002": {
+    "ref": "731B19F2EAB1DCFC101951E05A98E41D55DF45DD"
+  },
+  "7A24ED576BAD82D0CA684AA655886904311C5D52": {
+    "name": "Policenauts (Japan) (Disc 2)"
+  },
+  "7A2B87DB99B206208519107F8C3A22DC8DAD9621": {
+    "name": "J. B. Harold - Blue Chicago Blues (Japan) (Disc 2)"
+  },
+  "7A51083B1851DF3A004F857A94DDAB566B56974A": {
+    "name": "Shockwave 2 - Beyond the Gate (Europe) (Disc 1)",
+    "ref": "6C721692986F2BDFD2A36DAB946C50E4C74A153F"
+  },
+  "7A8B98DD29F0183A6B82954BEFADFFA93D2E6692": {
+    "ref": "667A8A67AE4AE5415641CBE85FE554E63FCBCD03"
+  },
+  "7BEDEF0ADFD8A91A9927E8C0D330369AC75FB965": {
+    "name": "Decathlon (USA) (Unl)"
+  },
+  "7CF5CEA67739D422222F7B61A6E996966AC3B9E6": {
+    "name": "Blade Force (Japan)",
+    "ref": "A2D85CF80AFEF24A53CD8E9F04D9D6FF85BAE5CE"
+  },
+  "7D3E1E699B9EAC96B97AA6E0FEAD62A53E79EC12": {
+    "name": "Starblade (Japan) (Demo)"
+  },
+  "7D3EB64B59B3A42CAD9A4B9541BA0541A87BE0AB": {
+    "ref": "403DA6C5C27C9785F255B0CBE9ADFB55C122A6D3"
+  },
+  "7D592CA81C9DA42D187FDCBAF18637853906F464": {
+    "name": "Virtual Cameraman Part 2 - Natsumi Kawai & Kimi Tachihara (Japan)"
+  },
+  "7D6D73B90EF02932EFD375E0BBFB9D76A5488EA3": {
+    "name": "Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1)"
+  },
+  "7E5486EB9D0781E3741A1B241C3488E91221CE18": {
+    "name": "Live! 3DO Magazine CD-ROM 1 (Japan)"
+  },
+  "7F9AF7DCF6C15BA8779DAF96306F063F8FEB859E": {
+    "logo": "QmYtRmHDukpuF8SXqbx2fv9W9mMr5QGFJ7CU98H8KVvns6",
+    "name": "Totsugeki Karakuri! Megadas!! (Japan)",
+    "vid": "QmTkWkvgyJHFzUo6cm5sntpncEY5f8Ud5HkiXKZhcJYLP6"
+  },
+  "7FFC8DCACFD6D6EB096D21C334B6980DD2456826": {
+    "logo": "QmciA6CFibu8kNTwyFyfFCEYJRt97ABcRhrH69YLQkZb34",
+    "name": "Putt-Putt Goes to the Moon (USA)",
+    "vid": "QmeoKGwwsx2EGXkLLaydfJUFkdDzv6cQsBi9joTeKxqSqr"
+  },
+  "80775A618808A1B6F1A8239EF5F7964507A85EE9": {
+    "logo": "QmTNZhQUY2xE3kmt3bGiEx7zxzDr3Ty9Kvgtsis8civszz",
+    "name": "Mad Dog McCree (USA)",
+    "vid": "Qmdai5KuMxpo5EaYB4cgmrjQacLpAojgR1pLusaSVidHg7"
+  },
+  "807A825FD9DDEFAE25808CE5A97BE866379C8B1E": {
+    "name": "Olympic Games (Europe) (Demo)"
+  },
+  "80968BDB591823398115E18971C39D699E67EB0D": {
+    "name": "D no Shokutaku (Japan) (Disc 2)"
+  },
+  "80CC192992D8618BFC05DFCE83ACAB63C83EA925": {
+    "name": "CyberDillo (USA)"
+  },
+  "8150BA547FE4FF080DA527FD70E1AAA52A13DCD1": {
+    "name": "Moon Cradle - Igyou no Hanayome (Japan)"
+  },
+  "82013016470CCE4203A206C7D37876828A98A043": {
+    "name": "Star Wars - Rebel Assault (Japan)",
+    "ref": "6D1469166770CC751C5D33E7BDD77273E48ECBBC"
+  },
+  "820DB988B02E2E019BA5AA54A6A287FD9C304D01": {
+    "logo": "QmRCW5Unu9TgH7V8Tr98tNYDyi6JWAMyotiYpDWci8mwhD",
+    "name": "Shanghai - Triple-Threat (USA) (3DO Action Pak)",
+    "vid": "QmRZ9xii9FxMruP14AAWpv1GYnpi3cEedSHj1XZ9EVeYLu"
+  },
+  "827E1D0D3AF3471EC24DFD1677EB383F8D0DA7E5": {
+    "ref": "AC3ED4006A0CF6022E4947A4DEC3BBB2CD890417"
+  },
+  "828A730E1E936B4144EC2E3E7CE7F32C65DFDEB4": {
+    "name": "Samurai Shodown (Japan) (En,Ja)",
+    "ref": "74D1C853B76F82B90C391738AAC0879E90146507"
+  },
+  "82E7AB84122E9E5960CC417A6D37D706E5484D7A": {
+    "name": "Policenauts (Japan) (Disc 1)"
+  },
+  "831858C1F838758181633361CDB2DEC7CD023E48": {
+    "name": "Way of the Warrior (Japan)",
+    "ref": "062150C5F89B3E83A3856B67CD733D0B7F566103"
+  },
+  "83340145BE335A4B8A7370074D5049D01E29149A": {
+    "name": "Diving Spot Guide - Marine Tour (Japan)"
+  },
+  "83859BBF7D851D87231B5E3DD44B36AF82BF67BA": {
+    "ref": "B8BA5719E09ED98A893BB9AB6B31B535CE30C012"
+  },
+  "8388EABB6A8794C3B8B3B50DC1228A789A1E8212": {
+    "ref": "224B0F767D9C5900C08F3EE3E238DAD7C837F861"
+  },
+  "83C965AC1620166AF4A6CBA18BC1807A0ACBC0F3": {
+    "ref": "4ED5D08EADA0DAED27C631FB75227EAF1918444D"
+  },
+  "842EC3F574F28870E30C885EB4C579180CB8B8FA": {
+    "ref": "45838BA41EE784F9E6B6869E831F046D5F6E01F3"
+  },
+  "849E04B1698E841488F2CB528A4B956E77E4FDF6": {
+    "logo": "QmaLCnPNrnfKie92Z8X2AuiFMS3x6bp6CP5HdSMLE4PkEd",
+    "name": "Pretty Soldier SailorMoon S (Japan)",
+    "vid": "QmVNq4MGeSAiY52XAK6Y4YwX8RaYzhyFGpkmrXh4SYCJQa"
+  },
+  "84DC76C9449ED7895FDA3EB2FC635E8208D50126": {
+    "logo": "Qmb38EJXK866p1jbMhKxAxZdzpUqiDW4kD8NT6L8GgBXKG",
+    "name": "Flopon World (Japan)",
+    "vid": "QmYwxuj6H7ryMs6qsmzzuPBdP4WRXbq8oc8a5dBNhSWxMK"
+  },
+  "8510D14240F7DBD98DB78CA2BC309F144C2E6B0C": {
+    "name": "PaTaank (Japan)",
+    "ref": "72099D1E98B97C899FEFC4219D4D456338DACC58"
+  },
+  "852A6880F18CC3DC82DCD553B5BC17CD01A7CA05": {
+    "logo": "QmSBH2UGDxWxcrxrL4fXxteiD8MUgqWTg4CEBGhNnvesJF",
+    "name": "T&E VR Golf - Masters - Harukanaru Augusta 3 (Japan)",
+    "vid": "QmSTKLXvMF462U64uCAHqq9dSaPGhcRevtfUEtgETbio2c"
+  },
+  "8532AE19F3BD243211DC346034AB194701FF3C36": {
+    "logo": "QmX4VfR6Q8N3UfTyYYHSjcsysXbbZPqwtRj8nGeGTaZMdN",
+    "name": "Space Pirates (USA)",
+    "vid": "QmYQUkqDg36NEHTRM88Ub5t7YiBDrnRh8Lshwknva9hkUT"
+  },
+  "859145354994D823FC6A8888A393E541299A4921": {
+    "ref": "9C2A3C94A205FA0E24C1A5446BAC0E7048FF7AFF"
+  },
+  "85C44C06474DE15F12BBB14B31CD5CCB47E7D7EE": {
+    "ref": "646BC6B359AF5F1F1329E856EB6BD6DE56938678"
+  },
+  "865EB9C9B224DAA8FA13C5B1CCFFB3680FFA4C5E": {
+    "logo": "QmWjv1bidtRw1cDtp9w8JA3mUMeo5KorGrAaNZTedHKeVp",
+    "name": "Demolition Man (USA)",
+    "vid": "QmZ9dZEiki4vFxs24noy65bgmZXZFZDiQjei9RCBRDR7bh"
+  },
+  "8702AAF8AF54A46D9F564FC8CFDBE913D5EF2320": {
+    "logo": "QmXfpug34R3BC1cegiYjnkKgJxHQnREtCP8uuWDtfRBHph",
+    "name": "Crash 'n Burn (Korea)",
+    "vid": "QmP2p69XWegeS5wVPtUbN9anYu3ZDhmBhFzZ5oLSXjGs67"
+  },
+  "8720631AF16CCD06B8A9602DD0E8FD57D7E23A40": {
+    "name": "Incredible Machine, The - Pararancho (Japan)"
+  },
+  "8765D8B4A653A2D810D734273284CED4C6A0FBEE": {
+    "ref": "88D8FF6AA790BD19E68867557665F8E2BEE9B2B7"
+  },
+  "87698D14544134C6ACF81473779FE055D281D48C": {
+    "logo": "Qme8zpg9F13Q7xgZuybQkcK2tj8HC5vAHvh6v4Xw36SwgH",
+    "name": "N.O.B. (Neo Organic Bioform) (Japan)",
+    "vid": "Qmbmw4CusTAzZrWtbXXHJ96E9FzL5TBU6aSxgknzKpfbqh"
+  },
+  "87B996149CBD398F31C472888B1808AB61760322": {
+    "name": "Yuujou Densetsu - The Doraemons (Japan) (Demo)"
+  },
+  "87FA43267674F7C0D0C636143FE65BFCCD35E9DE": {
+    "ref": "1843C6997542F7E6E4CE69202EF3DEFA55A3CF6F"
+  },
+  "8876B02FE4F0E9B554D91A1279BB0E8F076A593B": {
+    "logo": "QmVxtdYrCJ8ty7ULgaKG75vELkmyMd4aAsBTL9KGbkymT9",
+    "name": "Iron Angel of the Apocalypse - The Return (USA)",
+    "vid": "QmY9CVJj8dMDCzA5PDRgE5q7AuD6Zwvs1WE8XzuR7BFvXs"
+  },
+  "889FF1AA271870DF43C8FF7021ABC86F1179EBB0": {
+    "name": "Alone in the Dark 2 (Japan)",
+    "ref": "FEEF790130D05CA5446BE4550E4F8799E5F983AA"
+  },
+  "88D8FF6AA790BD19E68867557665F8E2BEE9B2B7": {
+    "logo": "QmeWkybQKXnpcxRSmB3QXytseN4KTzCchRmqqfB9vzCspX",
+    "name": "World Cup Golf - Hyatt Dorado Beach (USA, Europe)",
+    "vid": "QmQ7qzkC9toHjpGWHrAkWKdGpiHMMyb2aJfnDbC2ZM8LHv"
+  },
+  "89F36386EC87B4E5C90D1511AFA556871DED11AA": {
+    "name": "Ghost Hunter Series - Kuroki Shi no Kamen (Japan) (Rev 1)"
+  },
+  "8A833C82B048566F26D33146B44DB6254E8D08F2": {
+    "logo": "QmbkZDBSTUF6rojgkFs7Xxzzua3mdXx2J6yUQber695Ho3",
+    "name": "Family Feud (USA)",
+    "vid": "QmSKcUHbAFdeczHvy1X4ajc47EFviSSEc4k41fff2hfgVG"
+  },
+  "8A835B66C270EFB66F6EDDC3C50ACB200B24E795": {
+    "name": "Crash 'n Burn (Japan)",
+    "ref": "8702AAF8AF54A46D9F564FC8CFDBE913D5EF2320"
+  },
+  "8AB569DCBB38B5BA859EABF7D9365836F313B839": {
+    "ref": "586626A1D35BDA93208B9801424C74353860E065"
+  },
+  "8AFD83DB0FEA1486C7DB9CBF1568F12AF51FDECE": {
+    "logo": "QmYRMLwT8FZ7CRMUzrYmjsFgvUMwgiZ6tPB9QdBS8vVQ6g",
+    "name": "Mathemagics - An Interactive Learning Cube (USA)",
+    "vid": "QmYBcuJ5pgVeaeWpFuRekVssKFJgss8vBvtTLZuzmYy6G6"
+  },
+  "8B23E11E0C26521712D9C43C318C56F30D1651AA": {
+    "logo": "QmY7zRoYVVNqCePaFk1zScwz7D6oc2i8wMCCE9mZ83C81u",
+    "name": "Armageddon (Korea)",
+    "vid": "Qmcy4imDZM1MyjgKuZjXFGfReL1sUuFyUk66CdvLxmHyif"
+  },
+  "8B4EDCAAA3E294E3E9C332D17470413E995A9544": {
+    "name": "Sotsugyou - Graduation - Final (Japan)"
+  },
+  "8BA402DF7110E155AC1895FC4596979237CD50C4": {
+    "logo": "QmcTo3Ps24T7ypG7GzAYUKh3gvi9M7pYJFae6uJDrsHJTq",
+    "name": "20th Century Video Almanac (USA)",
+    "vid": "QmeCCbXVGwcF6uz3gv5z2G9WDT9TAXNuRphQrU3gDBLT72"
+  },
+  "8BC41326B863E17145B6326756CAFACCE16E092D": {
+    "name": "Ogura Hyakunin Isshu (Japan)"
+  },
+  "8C0B21D2A199A983D6A72F35B617C28F73B8A76C": {
+    "logo": "QmWUNZLyFaw7TLsKoSzyq6L4U41nw9Pd11hkSmvcjRHKMc",
+    "name": "J.League Virtual Stadium (Japan)",
+    "vid": "Qmeamsh7SYL5Ga8ETcYXnT22KGtB413gYi8GV5yccdz63f"
   },
   "8C1B1814B63ACF47CFC636C86993F8C563152A85": {
+    "logo": "QmNhvLP8YBTdQ9XdmsMg7cW8soFMDjFTAini3GhzcYeTob",
     "name": "Panzer General (USA, Europe)",
-    "vid": "QmQccakpsBas9VZPnrkHsyTgEGhhcJGLQCRtSCYZZGQvbM",
-    "logo": "QmNhvLP8YBTdQ9XdmsMg7cW8soFMDjFTAini3GhzcYeTob"
+    "vid": "QmQccakpsBas9VZPnrkHsyTgEGhhcJGLQCRtSCYZZGQvbM"
   },
-  "3C0DC10565CCACDB521C30454C40404F3B8F637F": {
-    "name": "San Diego Zoo Presents...The Animals!, The (USA)",
-    "vid": "QmeGmeQ4ehXcDaTQrxnHSTbWtdS1ACkCghX9yfW5QauT3C",
-    "logo": "QmPLgV51u8DmMTKE2uN2piPjhyRds3NYLnN5kYNWd9Xpfm"
+  "8CB3F7DC6529C5A4CBCEB37757812DE3CA7CFBC7": {
+    "name": "Super Wing Commander (Korea)"
   },
-  "403312297EB278B8BFB3643B586450AB70363AF3": {
-    "name": "Who Shot Johnny Rock (USA)",
-    "vid": "QmZMHemSbXvJHo1PQm3d8WNLYWriJop7dBQcrzcxBrqRQ2",
-    "logo": "QmbuVNprW2XzjzQKe6eep3UBoQTtHm8UMxoitFDt7UUgaw"
+  "8D067AFEFEE5BAE1750AC629CB6E74ACA3648439": {
+    "logo": "QmWrmzwf2zKMFVEgFg91PMdcxDavCs7TzA8St2znML7h94",
+    "name": "Lemmings (USA)",
+    "vid": "QmQPwGQpTxKJnVBvcYagaeaQ81JSYgmS98a79zb3YV56cv"
+  },
+  "8DB2055A48792B7C06E8C6D6AF0882F6B8BF9DE5": {
+    "logo": "QmVUW2yZVPP4qAKtCXG7BXDtUQp8PR7zqQiNm2FoUThjFB",
+    "name": "Horde, The (USA)",
+    "vid": "QmfP5P9fDYpt5z5BRMzvCPtNHLVj8HWuG447SkVBsAgUrB"
+  },
+  "8E030E626527C24C64BCF3B46DF232CCF778D8A2": {
+    "ref": "5D45574DEA9BFCBF913326EE4F27841FC8CD924B"
+  },
+  "8E8C376A2613778AE8DB0B8E5D548C84D0F02938": {
+    "logo": "QmVSjnwm9j3us8GwzRCH8vsryyVL1MfyrXydpw7DLi7Mdr",
+    "name": "Creature Shock (USA) (Disc 1)",
+    "vid": "QmYaV7XKX4cXiim4zzEDcCLYHnseQmR6Nz98tHriivogHQ"
+  },
+  "8EDC6F6C02FFFBE569040E6EACA3D0849F3923B9": {
+    "name": "John Madden NFL Football (Europe)"
+  },
+  "8EE383C6471007685B5158637EAD2E6F4DD789A5": {
+    "ref": "E59C9673E9D79DEF5CBE42CC494CAC2D5B11EB5F"
+  },
+  "8EFD5EC804B02B7E4DFC4158D58F740D7C36665E": {
+    "name": "Powerslide (USA) (Unl)"
+  },
+  "8F4BDCC6B8BCC0746DF68989215F89C348B34388": {
+    "ref": "5128AE797C2D293176ECBBE5BFC6E34104B7A88B"
+  },
+  "8F80784C1434BA33B5E9D04C813195FC2EB6912C": {
+    "ref": "8C1B1814B63ACF47CFC636C86993F8C563152A85"
+  },
+  "8FB5D8DDC8BE389C5B04D6714A56341E9BCCB58A": {
+    "logo": "QmRtxrcb9nriavZvyhF6H2imFDfZUSZVYFBwK6cwnmhY8C",
+    "name": "Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2)",
+    "vid": "QmUSPxZ7quoVbRwSU7ARXJcsRaBwLw2trHfWm3osGPWiQY"
+  },
+  "8FFD05738AED68611E0CB71AD87A7A428BF2CBC0": {
+    "name": "Scramble Cobra (Japan)",
+    "ref": "31D1747848FDF9F26E45F9086DD14188DBE8E658"
+  },
+  "9078FCAE9A9FDFB1C3D0812381BF4B2D9FB98B04": {
+    "name": "Horde, The (Europe)",
+    "ref": "8DB2055A48792B7C06E8C6D6AF0882F6B8BF9DE5"
+  },
+  "90C862B5797799BC4B98F666763EF75F5913EB64": {
+    "name": "Icebreaker II (USA) (Bonus Disk) (Unl)"
+  },
+  "911452D9DF321B4CFEC53FA11BD4E72259C41C6C": {
+    "logo": "QmY16AgcmK7CRn2ZPMuy5y8uYLvPxr78646oNRbaCs4Y9L",
+    "name": "Hello Kitty - Asobi no Omochabako (Japan)",
+    "vid": "QmSaoYXZf2VxhQegWDuAGSeVVsExHLdpNwhzPU3rMirMj8"
+  },
+  "9163999A71A4D28537C87775DCC8A2C28551248C": {
+    "name": "Cyberia (Europe)",
+    "ref": "5F90B870870510845A5234A881E6903B99B3847B"
+  },
+  "91EF295EA383F87A4F9A04B405469698698A67F9": {
+    "name": "Wing Commander III - Heart of the Tiger (Germany) (Disc 4)",
+    "ref": "C4D8F8CBB11C659D052FEDC953476A5F0C16A15B"
+  },
+  "92A655A118A261FFA074537D6DD94EB891BEE301": {
+    "logo": "QmV2FXwtx2f4aKyApRZpbwUxYUp6mghQAuG8XXAoiPSdby",
+    "name": "D (USA, Europe) (Disc 2)",
+    "vid": "QmRfZivAUqVZa5GxAENaMmn1zASdceszBP1bQv62F98skp"
+  },
+  "92B6A8529F3DAA5A9B6EF421017000558C88EF3F": {
+    "logo": "QmaVjJT5KCorN9BGPPkVfmSYrv84B7CQqvPiTzo2kyqpnv",
+    "name": "Burning Soldier (USA, Korea)",
+    "vid": "Qmc3E7Fqxpj65Y6vbFLA6P24Ptg237FCuaHdvGBBAH768B"
+  },
+  "92C542F0179109DCE606CEB7EAF64F58A2A759DD": {
+    "logo": "QmcfZVeRLQ2cQY148VtnQ9pxL9yUmPfFan3W8WoJ8KRpUb",
+    "name": "Putt-Putt Joins the Parade (USA)",
+    "vid": "QmdcVWXXsA2bmoNHZFszR2SmDeD9C9iKC78DkYyKoAy3Jh"
+  },
+  "92E7EFE2A16A5B214313DBA787703F983446060B": {
+    "ref": "7975BE4A1CDA3FE52534557A3193C8704FE4C83B"
+  },
+  "932698A0123FDB952543FD2074B2A934B1C12DE0": {
+    "ref": "5D3B1E11E2B31DEBF363C731D562BA130A3F75FF"
+  },
+  "934E706AF45E88B8E22D42FE49203A5FBF67F559": {
+    "name": "SHADOW Warriors (Japan)"
+  },
+  "935E6B5E0D8D105EFD288482B8ED56BB87C2418C": {
+    "ref": "A611F0C45BF5DF5735031226538B7C74F973CB23"
+  },
+  "93FFA5B6853CC8EBABF728E29CA6CD5C5BA663DC": {
+    "name": "Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan)"
+  },
+  "95B75E0E636F235FE3C49B68D56787029CA53909": {
+    "logo": "QmVr9iQChquQ3UrmR1Wsdy4d4Drsakad6RDg7vc5KETYA7",
+    "name": "Lucienne's Quest (USA)",
+    "vid": "QmRQPWcs9E14J2Vsc9eevG1vrNRCczLWAH9zpNp5w3wkpj"
+  },
+  "95F2D6A6E4348C1E21A6BF98EC30B37B8565D59F": {
+    "logo": "QmRtxrcb9nriavZvyhF6H2imFDfZUSZVYFBwK6cwnmhY8C",
+    "name": "Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3)",
+    "vid": "QmUSPxZ7quoVbRwSU7ARXJcsRaBwLw2trHfWm3osGPWiQY"
+  },
+  "95FC3709F6D7016B57A2B5E10AB1EF8969F879F3": {
+    "name": "Grimm Meisaku Gekijou Vol. 3 - Akazukin (Japan)"
+  },
+  "96317ED4B8CA331A8372A394BC87C766542DC769": {
+    "logo": "QmZYzrYQrT5RX6DcaPnJpQNuB4HgTpxvho8jvMczvy9Kab",
+    "name": "FIFA International Soccer (USA)",
+    "vid": "QmZctHe7qkccXyqo9v8SP7FBGqXM9WsizPTAHGX7d4hesY"
+  },
+  "968DCB7D5BA37E78075A5704948F5737C621E0D1": {
+    "name": "Woody Woodpecker and Friends - Volume Three (USA)"
+  },
+  "97B74DFCC25B4E315D9327CFC518CEEC5F522A49": {
+    "logo": "QmfKLQqmE7pNkjXR16Myh25Mdkdsfp5RhTjvEd4tqz2sze",
+    "name": "Kingdom - The Far Reaches (USA, Europe)",
+    "vid": "QmRLTc5TtjfsighyRBY4jTZpRsptR3xqGXEW89oXwPdkBr"
+  },
+  "981DBCC139E7CC275C213CD027797FB9A15FCAD4": {
+    "logo": "QmYRuSpauHiWBpak812cY1Gwmn17ebggrcojHEaRzkj2sd",
+    "name": "BrainDead 13 (USA) (Disc 2)",
+    "vid": "QmWJmRFvmte1uu4FkyPZwG9re2xuKVSzuwdwg86mHbne9J"
+  },
+  "9868498A54DA762824BCE60D391BEFAEF900B6ED": {
+    "name": "Total Eclipse (Europe)",
+    "ref": "715869E4EECDC202983D0B688B78A76648182F00"
+  },
+  "9885C42139E09FC2A7A5932D86CD1A90002F6F30": {
+    "name": "Battle Chess (Japan)",
+    "ref": "409A7C1FC6FEC813DFD5C80158BCC718D8B8A9BC"
+  },
+  "988AC0978D0701719095304089D6ABD5B0575E81": {
+    "logo": "QmTBoiviUygngyU4aQVMUMMHRRU2pzHVGbgsPoViK4kB8B",
+    "name": "Hell - A Cyberpunk Thriller (USA)",
+    "vid": "QmSAdzCs9wpaFnxhmH1hR1fi4gbrprdgij3v9zzXK6Vz1B"
+  },
+  "98C14628D5480088F0DA0F8BC40492B19CB513BA": {
+    "name": "Dennou Hyouryuu - Multimedia Cruising (Japan)"
+  },
+  "992186D48BD82660734EE09D4ED6DF755781A69C": {
+    "name": "3DO Interactive Sampler CD 3, The (USA)"
+  },
+  "995534C88C8DF0A6AB16A7A1775D4BF061287C8D": {
+    "name": "BrainDead 13 (USA) (Disc 1) (RE-1)",
+    "ref": "981DBCC139E7CC275C213CD027797FB9A15FCAD4"
+  },
+  "996BD75A8DF1B49D98084D278E97803A358C3DFC": {
+    "name": "Real Pinball (Canada)",
+    "ref": "224B0F767D9C5900C08F3EE3E238DAD7C837F861"
+  },
+  "996E585ABADADFAFD703F530765183DDEF2FB960": {
+    "name": "3D Atlas (USA)"
+  },
+  "99CE029B310BB5B4D1A875B4A7C28C3E04E47539": {
+    "logo": "QmawcvNYJ3QVrKSZ8WV9T5A4qZ5z8dCFAVeJSoag5eiCyo",
+    "name": "Idol Mahjong - Final Romance 2 - Hyper Edition (Japan)",
+    "vid": "QmSq2i1VtjogWenLJuFmjRKTzoJc4r7HAbeojZdbj4yHSw"
+  },
+  "99DB7CA29519008E7D4668506AFF2113ED1B37E0": {
+    "name": "ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 4)"
+  },
+  "9A42B96529F8BBEB17000305B49481A3F0ED96FE": {
+    "ref": "B772C73DFB6B6B942F6B8A324512374ABE2B3B76"
+  },
+  "9A79D8FF6FBC05B2D9D661C7B59E9A207E271B93": {
+    "logo": "QmdA83bjng1jTdD2qdxhKpiyZ9QWCbNpUeZz6P6CJ5zoa6",
+    "name": "Immercenary - Combat in a Digital World (USA)",
+    "vid": "QmfEPbswpZGxt8SjVNKbNsyv1dWeEkfS3BYup6FFbUpXX6"
+  },
+  "9A968F84FD92821EA2DC7CEA193C04AF1CBA674C": {
+    "name": "Goal FH (Field Hunter) (Japan)"
+  },
+  "9AC42882B5EE7AA6194458238CBC61E5D6C77191": {
+    "ref": "43DD88D2695F222B23B435B008DF8CE166861FE8"
+  },
+  "9ADF5EF94B0A77C0486D3105121DF6DEC315B97E": {
+    "name": "Sangokushi IV (Japan)"
+  },
+  "9B09AFF6F6F3AB581A723DFF4C33869D5F46AD8E": {
+    "ref": "42AA44EB256A10433219B75BED59D5C97EA50E88"
+  },
+  "9B0D708ADA37A514003060155AFBFE15B61905D6": {
+    "logo": "QmauNKyUkviCCRN7jcGEngt3HNk6YvHMadtKnhrzUqiW1k",
+    "name": "BC Racers (USA)",
+    "vid": "Qmdt18yUuRPRusBp9omuuSTCrbgRfBd8V9gm7hp7nRqhon"
+  },
+  "9B5274F994786B519B44DC25693310B4E5D4AD0E": {
+    "name": "3DO Interactive Sampler CD 2, The (USA)"
+  },
+  "9B94AA76B6A08AD1C1C78FE83856AD3EB3EA0650": {
+    "name": "Shock Wave (Japan)",
+    "ref": "403DA6C5C27C9785F255B0CBE9ADFB55C122A6D3"
+  },
+  "9BFA677541194F76923F11D240DC312844614DDE": {
+    "logo": "QmWbcJBLqVpc5wgwKqMsyq2Cd3gdn8P75aVwDMp73Axqnn",
+    "name": "Drug Wars (USA)",
+    "vid": "QmUhzDpZpMhNVDT2NKzYWubKooW38BZEKMTYk81ka2M4VQ"
+  },
+  "9C2A3C94A205FA0E24C1A5446BAC0E7048FF7AFF": {
+    "name": "Captain Quazar (USA)"
+  },
+  "9C5F6912ACC06990B0C5FB42236D1BA19A8BD2A8": {
+    "name": "Lost Dungeon (Japan)"
+  },
+  "9C8B8CAF7481E68A772D6C2ABDEE06F6A93CB56B": {
+    "logo": "QmVWhbtC7CvCr3N24kyCPiovEogXSZjfCBeqautHXANtaR",
+    "name": "Return Fire (USA)",
+    "vid": "QmWyLWUsMU7qmDmq9KJhd7SYDhCbGVqURhHTnSydtsbz9i"
+  },
+  "9CC0D7615FAB9D3BCC2E37305C9B39E562EE0E93": {
+    "name": "Kero Kero Keroppi to Origami no Tabibito (Japan)"
+  },
+  "9D5392E5BF5FAF39B949149D51D6248256850AA8": {
+    "name": "Warner Music Group (USA)"
+  },
+  "9DBFE811D9B30EECFA9AF38D0136DD9858A62F90": {
+    "name": "Theme Park (Japan)",
+    "ref": "1933F50021D8148B476CCB4F50B3AC02B3E4E49B"
+  },
+  "9DE39AA7C89B06534425336B984A0F937A3F1FBC": {
+    "name": "SnowJob (Europe) (Disc 2)"
+  },
+  "9E81B0BFD29334997A9FF40021829550C9CFF458": {
+    "ref": "403312297EB278B8BFB3643B586450AB70363AF3"
+  },
+  "9F429123B0092D65396D75CCF17125C3D9A2881C": {
+    "ref": "8876B02FE4F0E9B554D91A1279BB0E8F076A593B"
+  },
+  "9F70C1B51D3275ED8F694D80D2E05DB4FBB3E176": {
+    "name": "Grimm Meisaku Gekijou Vol. 2 - Hansel to Gretel (Japan)"
+  },
+  "9F858943164C87AA4B07691DCF2F0586EBE82F59": {
+    "name": "Starblade (Japan)"
+  },
+  "9FD3BE7994781DB557B9A33CEE5F2CD50299F695": {
+    "name": "Starblade (USA)"
+  },
+  "9FFEC51CC10CEE2D572792ED81CFAD5D593CCD74": {
+    "name": "ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 3)"
+  },
+  "A0855B439DD2AC9D120401D4F494128E8399C542": {
+    "ref": "57D018CB88A4182720DE85A2EE1FA0B7B00F76CA"
+  },
+  "A09837CCE2218019D25236735590979DE339B939": {
+    "ref": "A99A1362DB45D036CAC61ACB431BD50D05A3BF4F"
+  },
+  "A0B5483FED2F12ECD26643BE0ACF0BA696B01CB2": {
+    "name": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 1)"
+  },
+  "A10A1B092BE7F866D1D0A3845582E88CE0E621D1": {
+    "name": "D's Diner - The Director's Cut (Japan) (Disc C)"
+  },
+  "A17E7BC45A4343E06EC687E1A2A2FC83E88322C9": {
+    "name": "Blood Angels (Japan)"
+  },
+  "A23E6177A9C91FA4ED9D63C060C356909A4C955B": {
+    "logo": "QmeojFMMSZ6pR1LxtXS4CxnAgdk66TCVokhARuvVedP6La",
+    "name": "Uchuu Seibutsu Flopon-kun (Japan)",
+    "vid": "QmbfVEx9iVAPPV9HTR2akWxmXh47ahoyDuG8mvyPitrSe6"
+  },
+  "A28BE28F2105921430AC177861034D0C512EEF21": {
+    "logo": "Qmf6jrdGNZPAp9YpConctPkK6Z9WabJQ7Zce6yx7AVb63e",
+    "name": "Psychic Detective (USA) (Disc 1)",
+    "vid": "QmZk5wpmBhKmYaKFdW35nKCGYMxqwUbnNi8q86LqsojE3L"
+  },
+  "A2D85CF80AFEF24A53CD8E9F04D9D6FF85BAE5CE": {
+    "logo": "Qmev9XRiu8ix6p2prna2Ju2Sujph6R1PLBjZUMM9diZ8YF",
+    "name": "Blade Force (USA)",
+    "vid": "QmPKnNmfGcqWjPfpFuqHZ37e4N68buNPzvN5TER4Xb63Zr"
+  },
+  "A2D86A1780FF9869F64EB67DE8D41104B2335261": {
+    "name": "T&E VR Golf - Devil's Course (Japan)"
+  },
+  "A2E6CF56EF6414DD225DAE12303C6276D9773A34": {
+    "name": "3DO Multi Game Sampler Number 3, The (Europe)"
+  },
+  "A2F8CDB998FF0B2312DE4ACCE5D910F3C93E85A2": {
+    "name": "Live! 3DO Magazine CD-ROM 2 (Japan)"
+  },
+  "A332D9236498C225BF42704343FD31D50F66B9E4": {
+    "logo": "QmVMuMGRiEZCQtEf8EhDoEavfziGWsRQjbyjdJ2XwZScqt",
+    "name": "Daedalus Encounter, The (USA) (Disc 1)",
+    "vid": "QmeUtfhYxTNNGQcaTikBJSFfqSin9yM217atHXLNozdb5s"
+  },
+  "A3586752B37A59A15533A4BECE7B0797794ED404": {
+    "name": "ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 2) (Shot Yousei Kouza Vol. 2)"
+  },
+  "A395BA2271D8322AF893407837BE7125B0AA0A82": {
+    "name": "Super Street Fighter II Turbo (Europe)",
+    "ref": "1F0765A37412BD6BD82AC9D5649D2CBFB8867B52"
+  },
+  "A4F3D91B7E889E7866EF6F2AFE41C64FE71E6B41": {
+    "logo": "QmcmiipSatF7xMmMSX7vNfYJhqKymwq5wUatFJifVq1Z4T",
+    "name": "Out of this World (USA) (3DO Maniac Pack) (RE)",
+    "vid": "QmRykogE9bHrdUwja6ZpALd57ogmCoZ4oXgS47Khttcmai"
+  },
+  "A566A1183F037EA22E54EB5CA298F6250B4233B4": {
+    "logo": "QmbvhX8ZRew1EgcMKdJFBbfNbfgF8iehdoQFhPrQ8Z9sas",
+    "name": "Cannon Fodder (USA)",
+    "vid": "QmYvhQWLRy3P8Wq5aiAv7yPp4xngN27d3GgjC35z7GEfGx"
+  },
+  "A588AD3ECAA3D741B567CDAD3F564A72D3DA2786": {
+    "logo": "QmaVwzaXGc4dRozPrnxE4Y5ouGn37Vth1zns9BPdgAgXbt",
+    "name": "Dragon Tycoon Edge (Japan)",
+    "vid": "QmcC6MEMcSbLfacyhFvXY7z7LgfLA6ZCkMd7L7w3ick9Ti"
+  },
+  "A5A715398E0CD6FA858456512C953CF7538EE431": {
+    "logo": "QmQJknkACppTkKEfFSLWiHFCX8iSYPnzd8NdmY7A6YYVcq",
+    "name": "Gridders (USA, Korea)",
+    "vid": "QmSiiHfZgUrn2Hu3A4d3wZCXfZtEfo65DMisM9AwZWPzqr"
+  },
+  "A5F2A68D101FF06072408BDA8E13ED17145B412B": {
+    "name": "Toki o Koeta Tegami (Japan)"
+  },
+  "A5F4E53A6C2389B5B8D841EBFEAA1C84E97C14F9": {
+    "ref": "A4F3D91B7E889E7866EF6F2AFE41C64FE71E6B41"
+  },
+  "A611F0C45BF5DF5735031226538B7C74F973CB23": {
+    "logo": "QmQVGX8ZwV6gK2hMt2uSDHD8aydqLrAGzzrDLhYHqVmdxi",
+    "name": "Psychic Detective (USA) (Disc 3)",
+    "vid": "QmZk5wpmBhKmYaKFdW35nKCGYMxqwUbnNi8q86LqsojE3L"
+  },
+  "A61B48C328FDA91ACB46E47D33408FA8584CFDD8": {
+    "name": "Emit Vol. 1 - Toki no Maigo (Japan)"
+  },
+  "A62EF875FD434692D2E2CA2C114C54C73796F17A": {
+    "ref": "A724EFDE2D17D97D7F54439527568C40F1B1F520"
+  },
+  "A659DF170B2E65585E64E8B8561F39411909053A": {
+    "name": "NFL Madden Football (Japan)"
+  },
+  "A68463877BA311561DFD359B8CC44BC88305DB76": {
+    "name": "AutoBahn Tokio (Japan) (Demo)",
+    "ref": "E48581EC4501B93D684A423DF32F9530040FDCF8"
+  },
+  "A6FD3049FF47B4FDAF8C53DC6F3EE95860DE4734": {
+    "name": "Tarot Uranai (Japan)"
+  },
+  "A724EFDE2D17D97D7F54439527568C40F1B1F520": {
+    "logo": "QmbEpC3vsZxy336G3zTDSw38hB2Bfs7hL1S6TiCVMPDVpz",
+    "name": "Psychic Detective (USA) (Disc 2)",
+    "vid": "QmZk5wpmBhKmYaKFdW35nKCGYMxqwUbnNi8q86LqsojE3L"
+  },
+  "A725CF01C5D2696D457CCC9194840B050D44010E": {
+    "name": "Storage Manager - Memory Kanri (Japan)"
+  },
+  "A79F80375691013090C1E54B8EF41445A8C0472B": {
+    "name": "Immortal Desire (USA)"
+  },
+  "A7B98CD8194BF1957FDDC3259C06F79E2E9D499B": {
+    "name": "Virtuoso (Japan)",
+    "ref": "77F7DAE22BD9392466E790350E3E407F3A54709A"
+  },
+  "A7D92425459D1E1F576EB62D8F33E1A5BC462F9B": {
+    "name": "Scramble Cobra (Japan) (Demo)",
+    "ref": "31D1747848FDF9F26E45F9086DD14188DBE8E658"
+  },
+  "A7FBB2E74D226410AEA05C5F61380FB09252573E": {
+    "logo": "QmdeHSotXry5UE3ojix2t1kRYR2yhAUSoJvG7iiSLLXVxx",
+    "name": "Slayer (USA) (3DO Action Pak)",
+    "vid": "QmVYvwaFvjRqHfNpEfZFgyxtb1k3LevkkAT7RcvaDywcH4"
+  },
+  "A842EC9A23D6F99D9E6B4C1A2A7AE063E3AEE3F0": {
+    "name": "Quarterback Attack"
+  },
+  "A865F4C18DC23180E9713A48AD25C0EDEA60617B": {
+    "logo": "QmStqTrddmDBHbbdUdRKDtAgG3K3ZVutwURvtPSvBVk8Kz",
+    "name": "Olympic Soccer (USA)",
+    "vid": "QmenP8NyDnmrbaLhW1mys3gMcwC19DAmqsXrHhErfAJwtA"
+  },
+  "A88A79A2706090E3E49CC65F730CC9667ADA7407": {
+    "logo": "QmZRPt6Va7Er6yRgeSwjSEgu53fgd44hDApSyAnCSTsk7y",
+    "name": "Incredible Machine, The (USA)",
+    "vid": "QmSMnVuDTJTseMsSWLdYyAYLUwVuF4CTkpJzzdJVn9hiZK"
+  },
+  "A88C654F8AD24B075A9C18780192A52271A7D266": {
+    "ref": "9FD3BE7994781DB557B9A33CEE5F2CD50299F695"
+  },
+  "A8EA584619A052050C9120B87D04EAFEAA59BA32": {
+    "name": "DinoPark Tycoon (USA)"
+  },
+  "A8F0B8640DD12058E97072B83412A2074BBD3020": {
+    "logo": "QmY2QvatLtDwVh3FMGkraAWfprX4TEmwCqfbkx2kTV2NeP",
+    "name": "Myst (USA)",
+    "vid": "QmVxe8HSMeYv3YacMFyG6DkcMQW1rvmT1NLL2k5mowoQFU"
+  },
+  "A954B2D0C908F6D903BEBB78EC4F336B531C02B1": {
+    "logo": "QmfVuX9xtNjJZCempC2erYqEXQ2UBBCGq3LaNEz6Aw2gh6",
+    "name": "Mind Teazzer (USA)",
+    "vid": "QmZhBHd474q4vRpLPbk6XwEgAi8DfVRjgM1KJXZ9nXNXHx"
+  },
+  "A964A1E0068C76E99CCED2934C5909572E742B1D": {
+    "name": "Yuujou Densetsu - The Doraemons (Japan)"
+  },
+  "A98676A61D7C9ED8BFCE6CC4B949BDB3F9A1684D": {
+    "name": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (Japan) (Rev 1)"
+  },
+  "A99A1362DB45D036CAC61ACB431BD50D05A3BF4F": {
+    "name": "SnowJob (Europe) (Disc 1)"
+  },
+  "A9D348665F36BEB85171E7C7740B61165A3260A0": {
+    "ref": "6C721692986F2BDFD2A36DAB946C50E4C74A153F"
+  },
+  "AA02DAA79450C44C9108D5F32742DE7777A7F838": {
+    "name": "Perfect World - Combat in a Digital World (Japan)"
+  },
+  "AA215EFC6A5C92E40707FEF45DAF8528560B8FD0": {
+    "ref": "5128AE797C2D293176ECBBE5BFC6E34104B7A88B"
+  },
+  "AB03A8994F60A4EE0CFA087B4F9B27700F30C947": {
+    "name": "Captain Quazar & BattleSport (Europe) (Demo)"
+  },
+  "AB073DF46C03F260D200858727D1379ED4CD51B0": {
+    "name": "Rise of the Robots (Europe)",
+    "ref": "76A3891AF45F95B9F9030B840235E4642D0D0C42"
+  },
+  "AB849F0082DDFBCCDF6ECAC8214FB0DDC49EDDCF": {
+    "ref": "B446F85C7237C0C765D407788FA4E999FF896E95"
+  },
+  "AB9CC9621032157270EE3008919737F3F671E956": {
+    "name": "Let's Go Skiing (USA)"
+  },
+  "ABAF68ED385A3DACCCB1A98F183654047927232B": {
+    "ref": "80CC192992D8618BFC05DFCE83ACAB63C83EA925"
+  },
+  "ABF4C793D0ADB4EE807603927A48FA39AD3E136D": {
+    "ref": "A332D9236498C225BF42704343FD31D50F66B9E4"
+  },
+  "AC3ED4006A0CF6022E4947A4DEC3BBB2CD890417": {
+    "logo": "QmRRe2Zru5r2csvXX9YHpRMajhcD6eqvsu5NTyBJgfYcmr",
+    "name": "Quarantine (Japan, USA) (En,Ja,Fr,De,Es) (RE3)",
+    "vid": "QmZ4M1o1L3QJKFCBameCWpTd3w48yTUD6mfuDTsmTbQxsT"
+  },
+  "AD3D04799CD06131FD9FCDA5FD50546467F39D62": {
+    "name": "Foes of Ali (USA)"
+  },
+  "AD9CEAC2555D9346668136C3FD627575F703FCA4": {
+    "logo": "QmRVsPisE1jJ4Frf5MnZc9HSJ6phHDWVRdBTvQmmtJBXvh",
+    "name": "D (USA, Europe) (Disc 1)",
+    "vid": "QmRfZivAUqVZa5GxAENaMmn1zASdceszBP1bQv62F98skp"
+  },
+  "ADDB50E98E3751A0F020F592035600972ED6C1FD": {
+    "name": "Nova-Storm (Japan)"
+  },
+  "ADF80577D77CADD962C34B7E3017A428CCF4FCE1": {
+    "name": "Night Trap (Japan) (Disc 1)",
+    "ref": "1843C6997542F7E6E4CE69202EF3DEFA55A3CF6F"
+  },
+  "AE13EEC909335C3E219D35E557AEDFD9D0D34BCB": {
+    "name": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZAZ)"
+  },
+  "AE7C61E49E08769C161C503D38CB718D169161A2": {
+    "logo": "QmUu3UCWQ8GyBGcbu4ZSqBYqte5VSJWa6r39YxkxT1RhyV",
+    "name": "Fun 'n Games - Soft no Omochabako (Japan) (En,Ja)",
+    "vid": "QmaW7wfaF3V6JRJTWZKcAqKexwxygmp1FVNEn6LBDfxby2"
+  },
+  "B0850678DD6CD27D377126C05D091595C6C11DE4": {
+    "name": "Stellar 7 - Draxon's Revenge (Japan)",
+    "ref": "07BD366CA91FDCD91DB8BC9721088DC1F8120C44"
+  },
+  "B0CA5F17DDADE7ACBD1C638D04DDF5454B7B61C5": {
+    "ref": "091FC29F4A1752949473B2596FB6C36DC73709D1"
+  },
+  "B11ECF18BAB270D7CFB32D677FE57472D89A8BEC": {
+    "name": "Coven, The (USA)"
+  },
+  "B32F27DB06E77ADDA345142C41FD712A376B2CEB": {
+    "logo": "QmekyBefuEKie7BabdKSjCpyPSZpzeTX8Soz2J7tgvFBCa",
+    "name": "Digital Dreamware (USA)",
+    "vid": "QmWEHxuLwQmZuErJV3cc5afUjE2mr8B2xFR8n5yj4GbDVc"
+  },
+  "B3F20507440F0BDF7488E56A124FE0D1F6B78E43": {
+    "logo": "QmUP634CRfwtMhU5oRpz5rGfrH6xXiZsJh6j9gAEG1SJfM",
+    "name": "John Madden Football (USA) (Alt)",
+    "vid": "QmT7X5SjoHXhgAzcD3K3jX4uj69yZPkb6cVGL3WD1dU762"
+  },
+  "B41CE14C2F3B960152CAA95DEF78DFBEA56C8066": {
+    "name": "Supreme Warrior (Japan) (Ja,Zh) (Disc 2) (Wind & Fang Tu)",
+    "ref": "02A6CAA42322453065133068B42DDED190597EDC"
+  },
+  "B42A249431098B6F530F909B12F818F6EFD09730": {
+    "name": "Total Eclipse (Japan)",
+    "ref": "715869E4EECDC202983D0B688B78A76648182F00"
+  },
+  "B446F85C7237C0C765D407788FA4E999FF896E95": {
+    "logo": "QmZiLxR8xZx3Ebimmn71apBeTfARtT3KPcLEF5so1qyRNz",
+    "name": "Plumbers Don't Wear Ties (USA)",
+    "vid": "QmacrFiZinsQwVGsqJYJqYXnAj5UwUEjgxjdAVhkfeZH19"
+  },
+  "B44FAFB99C972B06D7010656022B574D2AA8ABAE": {
+    "name": "Emit Vol. 2 - Inochigake no Tabi (Japan)"
+  },
+  "B469F1A4F2FA049BA16586170F5C280C8032B6CD": {
+    "ref": "757A7094B65DBED3697FE26FB8CC20F2E25BE043"
+  },
+  "B5846CE6E3DA36CA762DD700889A93A5C4C804E6": {
+    "name": "Yakyuuken Special, The (Japan)"
+  },
+  "B5C6FED702791884962F6EBAA8D4A110C6BEB0CD": {
+    "ref": "C309EC7D0D54C54537F47C6E4BD50F0FC51E25F0"
+  },
+  "B6C2E1FDCAE437936D1608EEC581C52E3A6F5FDB": {
+    "ref": "981DBCC139E7CC275C213CD027797FB9A15FCAD4"
+  },
+  "B772C73DFB6B6B942F6B8A324512374ABE2B3B76": {
+    "logo": "QmWmSNQB5YWoAqy3Qv1oFuXo2YhsS5Mywgy4YtNacTTMx3",
+    "name": "Dragon Lore - The Legend Begins (USA, Europe) (Disc 2)",
+    "vid": "Qmc8BaHKrNnQwGQodpPz5hGPvWCWXWTmj4xdSi8G8iPHh6"
+  },
+  "B7997BE27CF186B97F4B5C98B5C2C835334AF938": {
+    "ref": "AE7C61E49E08769C161C503D38CB718D169161A2"
+  },
+  "B79A220C76D52040FD60C032A2C6017B7F2B7358": {
+    "name": "Live! 3DO Magazine CD-ROM 4 (Japan)"
+  },
+  "B83423F88EE7533398661B1DD8183AA11B3FAB41": {
+    "logo": "QmYUafFMfLzFro2hYGX2XMhtBHrFHjG7pas4JKea7j3iWg",
+    "name": "Jammit (USA)",
+    "vid": "QmT9jmsyMniZyNZqYc7XksWPqNtCaCXWKSaagsKKSUM4zK"
+  },
+  "B839263050CE0E98C2FC7282A244585BB0929249": {
+    "logo": "QmQSWZfe1MKAjUQKEVFF4zVsgpVMsZDkVR67naXvRUaoHJ",
+    "name": "Nice Body - For Professional Use (Japan)",
+    "vid": "QmVN816EUz4JYKiTQ1XbhHzvSuALYNAAoAhfqgxH2B7Wzm"
+  },
+  "B83D91BE8E65A57BF98AD76EF8880048F46F3DEF": {
+    "name": "Montana Jones (Japan)"
+  },
+  "B880A2C424DE0233E78265E3E2C9FEA932EA2FC6": {
+    "name": "Nontan to Issho - Nohara de Asobo (Japan)"
+  },
+  "B8A3A504B900042E11A7FDCFEB1A15B36D66F9D7": {
+    "name": "SuperModels Go Wild (USA)"
+  },
+  "B8BA5719E09ED98A893BB9AB6B31B535CE30C012": {
+    "logo": "Qmcuoo8U4Z4uJGJtGKvnqKa65EZ7QBVRNof5PX48bjhq8i",
+    "name": "Daedalus Encounter, The (USA) (Disc 2)",
+    "vid": "QmeUtfhYxTNNGQcaTikBJSFfqSin9yM217atHXLNozdb5s"
+  },
+  "B8D4BC36BC7E4EF5E0B176D16DD5FACE1F1A03C1": {
+    "name": "Cannon Fodder (Europe)",
+    "ref": "A566A1183F037EA22E54EB5CA298F6250B4233B4"
+  },
+  "B962DDA9CA43D0FD910DE9D56AA2FF75411E8D39": {
+    "name": "Makaroni Hourensou Interactive (Japan)"
+  },
+  "B9A0AC10A528F68BC348672813C2ADD72FB53165": {
+    "name": "Flying Nightmares (Europe)",
+    "ref": "09E263FC5F1F810D3334D1CCA35916953EE78A00"
+  },
+  "BAB57A061F09443933BB0EC014DB784896F40F7C": {
+    "name": "Fatty Bear's Birthday Surprise (Japan) (En,Ja)",
+    "ref": "172F03F611746D5A8C6AFA96D79EA0094C9C04C1"
+  },
+  "BABD666BFEDB5234AE26A0BF4DBE296CD7A5D1D9": {
+    "ref": "8D067AFEFEE5BAE1750AC629CB6E74ACA3648439"
+  },
+  "BAC230EA86EA8E2165683A667FB8FCCEC05465F0": {
+    "ref": "ECB40EA9467C06C7C88D0CBDAE500A02E6533787"
+  },
+  "BB069B3064EBE0C38F49FB006A45FDFABA358E0D": {
+    "name": "AI Shougi (Japan)"
+  },
+  "BB5711B6D39EB45BEF4EBA2FDC3205B1C4E0643B": {
+    "ref": "DCC03E5E0315B3C2998D6F96683D08B0CB7770FE"
+  },
+  "BBB06378BE8CC34C948F872AA90FFF0715F5C0A1": {
+    "name": "Slam 'n Jam '95 (Japan)",
+    "ref": "3E0D64F04E51DEF8659F0317E5D5B077AC8449D4"
+  },
+  "BC411C46A993DB809739F052F525C32AE6DDABBD": {
+    "ref": "96317ED4B8CA331A8372A394BC87C766542DC769"
+  },
+  "BC4EE5D343AB1C01EC5B6F5BFD44D8B51D7638F6": {
+    "name": "Shock Wave (Japan) (Demo)",
+    "ref": "403DA6C5C27C9785F255B0CBE9ADFB55C122A6D3"
+  },
+  "BC95ECD0588BB0F008BA7E4C6C8A53DDFB0F5685": {
+    "name": "Interplay 3DO Buffet, The (USA)"
+  },
+  "BCA0C4E7304FB073BD55F4D1D9F267140F24835A": {
+    "name": "Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan)"
+  },
+  "BEE31FBD1B6B013AF6804B957AB6A79C18971E0B": {
+    "ref": "09E263FC5F1F810D3334D1CCA35916953EE78A00"
+  },
+  "BEF0FAA741A75C55CB9E72CB34C18B098B6DC617": {
+    "name": "Alone in the Dark (Europe) (En,Fr) (NTSC Version)",
+    "ref": "D643C74677B283EC01431C6457D21F888747C77B"
+  },
+  "BFCE61A9BC0AC375A0B25B18818D84CBCAA68A11": {
+    "ref": "9B0D708ADA37A514003060155AFBFE15B61905D6"
+  },
+  "BFFAD219840FD6287017D6D5F42A0AACFE5430BA": {
+    "logo": "QmYrNpGgR2praLibM69XNY7qqHd6jbuq2BA1oJJPKsvrnX",
+    "name": "Ultraman Powered (Japan)",
+    "vid": "QmVADFbezm3pNdmJBoBrEStthp7eGrQBYfHuvLJJsMBp3o"
+  },
+  "C014DFD09AECC77B17F03F12FB68ACF539CF0315": {
+    "name": "Mahjong Gokuu Tenjiku (Japan)"
+  },
+  "C0779FA4BA435E7A54E97293E391DF3A827BF955": {
+    "logo": "QmSpdnUH6qN6gNc78pq4GTMnZqsLR7fS9PDgj9PbeycXjZ",
+    "name": "Belzerion (Japan)",
+    "vid": "QmSMWZRPbZ5iY1ydGPuT6Y7jcwezzUZp69WUbatDFPKCEy"
+  },
+  "C0D7FAB8DBB0B4CFD1EBBA9C4599CB6D2CA8C7EE": {
+    "name": "Woody Woodpecker and Friends - Volume One (USA) (RE-1)"
+  },
+  "C0E5B17C4325E7931A22D3ECAA821CB55E5E887A": {
+    "ref": "A28BE28F2105921430AC177861034D0C512EEF21"
+  },
+  "C1C5486722CE26568C293C145712D549670297D2": {
+    "name": "MegaRace (USA, Europe) (En,Fr,De,Es,It)"
+  },
+  "C1D06371341E20AEB0866F526C00BAA3C4FC215C": {
+    "name": "Endlessly (USA)"
+  },
+  "C1E9C2670DBF63E1E1EB6475992EB329B8BEFFA6": {
+    "name": "Total Eclipse (USA)",
+    "ref": "715869E4EECDC202983D0B688B78A76648182F00"
+  },
+  "C23E5608460911F7F2C28574CA37B62F393E926C": {
+    "ref": "AD3D04799CD06131FD9FCDA5FD50546467F39D62"
+  },
+  "C2FE8AFEFA878AD79A2409F4D6D4C0CB73E8B9BA": {
+    "name": "FIFA International Soccer (Europe)",
+    "ref": "96317ED4B8CA331A8372A394BC87C766542DC769"
+  },
+  "C309EC7D0D54C54537F47C6E4BD50F0FC51E25F0": {
+    "logo": "QmWmSNQB5YWoAqy3Qv1oFuXo2YhsS5Mywgy4YtNacTTMx3",
+    "name": "Dragon Lore - The Legend Begins (USA, Europe) (Disc 3)",
+    "vid": "Qmc8BaHKrNnQwGQodpPz5hGPvWCWXWTmj4xdSi8G8iPHh6"
+  },
+  "C359258F8D1E12303D2AE7414468BEF305855752": {
+    "name": "Lost Files of Sherlock Holmes, The (Europe)",
+    "ref": "F6ECD5D6A0FCB5A25FBDB8BB370BB2AF98EE1D58"
+  },
+  "C3951DA37D053AB0A2047C2AC4CCE0547B6ACF45": {
+    "name": "Captain Quazar (Japan)"
+  },
+  "C3D84EFA37D55D9BB0AAE8760D9451F7D94BEBC7": {
+    "name": "Iron Angel of the Apocalypse - Tetsujin (Europe)",
+    "ref": "F4AD32131919B580E7D5F53FA7363D353D2792E3"
+  },
+  "C45D03C92E21DE5ADADEE554DE13CDE6D52AFA01": {
+    "ref": "07BD366CA91FDCD91DB8BC9721088DC1F8120C44"
+  },
+  "C46EA48AA2276F9EFC88F5077F3DC66191B8CE03": {
+    "name": "Horde, The (Japan)",
+    "ref": "8DB2055A48792B7C06E8C6D6AF0882F6B8BF9DE5"
+  },
+  "C47FB4728C69406883DBDBF0E6AC7F9BD16C4EE8": {
+    "name": "Tanjou - Debut - Pure (Japan) (Rev A)"
+  },
+  "C480D568046A109C7C477FA180860A4958A2467A": {
+    "name": "PGA Tour 96 (Europe)",
+    "ref": "D26E959B0EF6388C3EF2A5C935785ABA7EEA4CAB"
+  },
+  "C4952ECC028CF2140770B1FB0806312D7ADDE7D6": {
+    "logo": "QmThHviANrGsvz8tcHV7QoP83owMkEYfrjBWFXTP1fuwKE",
+    "name": "Bust-A-Move (USA)",
+    "vid": "QmSqfwWDht9pzsoFzCMK7Kotjk7Dq8w7McRQcpBWb4boKD"
+  },
+  "C49F301E749D692D29CE76D969CB64CE1D843CC1": {
+    "name": "Princess Maker 2 (Japan)"
+  },
+  "C4D8F8CBB11C659D052FEDC953476A5F0C16A15B": {
+    "logo": "QmRtxrcb9nriavZvyhF6H2imFDfZUSZVYFBwK6cwnmhY8C",
+    "name": "Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1)",
+    "vid": "QmUSPxZ7quoVbRwSU7ARXJcsRaBwLw2trHfWm3osGPWiQY"
+  },
+  "C52E71BD73581FF56C55ED6B26CC340DD2CCEED8": {
+    "name": "Sex (USA)"
+  },
+  "C5D4044FAF97BABD8C653A788AEB21489E1B8002": {
+    "name": "Super Street Fighter II Turbo (Germany)",
+    "ref": "1F0765A37412BD6BD82AC9D5649D2CBFB8867B52"
+  },
+  "C63D139D5C6930CDA2BEC1F01D95B6767FFD771C": {
+    "name": "Life Stage, The - Virtual House (Japan)"
+  },
+  "C6524EA91C38309EC12C5BE4597E9CD698E762E9": {
+    "name": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD for PAL System (Europe) (Rev 1)"
+  },
+  "C69A766DC8C46ADA66D181812B417351BEA515FC": {
+    "logo": "QmUaY8hf5DCt6Xw7p6TqmNKyo4oHatx2wP2up6SmY9n7R6",
+    "name": "Star Fighter (USA, Europe)",
+    "vid": "QmTij3s5sKRTFgrBPLSKmASD9TTstusrMgeX14feH8Mmgz"
+  },
+  "C6BBE34CF7976E0E86719ABF22D80EE2C1E53F36": {
+    "name": "Naoko to Hide-bou - Kanji no Tensai 1 - Bushu-hen, Bushu no Namae ga Tanoshii Chou Kioku-hou (Japan)"
+  },
+  "C6C96E7BE4612C647C6DB6F98AC5661C6C9D131D": {
+    "name": "Tetsujin Returns (Japan)"
+  },
+  "C72BD0FA2D852ECB87BB09085168CCF381522268": {
+    "name": "John Madden Football (USA)",
+    "ref": "B3F20507440F0BDF7488E56A124FE0D1F6B78E43"
+  },
+  "C92D5C023383F4C61B448679ABB8C05A2E93710C": {
+    "name": "Alone in the Dark (USA) (Demo)",
+    "ref": "D643C74677B283EC01431C6457D21F888747C77B"
+  },
+  "CA0978F598575F8DB373ED78709C4BBDF1B183C8": {
+    "logo": "QmcWPVDruUnBTnQqdxPXqE4QdjDkp6Lh62S8jp8b4cBHq1",
+    "name": "Return Fire - Maps O' Death (USA)",
+    "vid": "QmSe1sKAWaFqp8PN76ykxsgPH1wDBk296kFU3hqrj9fCdi"
+  },
+  "CA54D8CF82987262127038A2242DCFF37C3651D7": {
+    "name": "Konpeki no Kantai (Japan) (Rev 1)"
+  },
+  "CA8BF97B9FB60341BBC8763AA3C4537F0FEBA3FF": {
+    "logo": "QmWWi1GSFyodLHgLtvJSAjBF8oUJpd1YupwczuyNtjzorM",
+    "name": "Perfect General, The (USA)",
+    "vid": "QmYrW8ceEmYoVXroafn7LUtCDZJ9SqSqu8yhV8jZ7cWU6S"
+  },
+  "CABAF22618E6C4E04692253397817A79D33D44F1": {
+    "name": "Wing Commander III - Heart of the Tiger (Germany) (Disc 1)",
+    "ref": "C4D8F8CBB11C659D052FEDC953476A5F0C16A15B"
+  },
+  "CB12C30DA752612604145038764E27F08CFC77CC": {
+    "name": "Tetsujin (Japan)"
+  },
+  "CC269A975C7252BE6FAB6038720561145674B961": {
+    "logo": "Qmav5wEKZooomxaM8hsf6nuqiz19QrWxAFnt7RQzkNa5Y8",
+    "name": "Mahjong-kyou Jidai - AV Gal Seifuku-hen (Japan)",
+    "vid": "QmWQqnkwxLoS5e1ueG4pWbZ44AaiNQFwqtKyoPPwsh7UpR"
+  },
+  "CD9A4F91750237475213FC4EFD789237D916948B": {
+    "logo": "QmfCEnXfsdzRzTaHHBY3NiZvoxkPqesC3VZNT6GtNHcPso",
+    "name": "Slopestyle - An Interactive Learning Cube (USA)",
+    "vid": "QmVS8X4MM7xdz653TCEPmGFy33yvj7sjLLkF85FNty8A8S"
+  },
+  "CD9C60AAA8B21652164D9F9696F94F8CEA3A0AD7": {
+    "logo": "QmPGtQq2WBx8bXbAuh9xB7LidbZnnaPRgsMRDptaGa8Utb",
+    "name": "Sid Meier's C.P.U. Bach (USA)",
+    "vid": "QmXafTbEQ569TxkhBEDxcwCwijYqxJRLeqSnN3WMvbGQiU"
+  },
+  "CF7488DFD1E677DFBF89136614710DBB2E24544F": {
+    "name": "Scramble Cobra (Europe)",
+    "ref": "31D1747848FDF9F26E45F9086DD14188DBE8E658"
+  },
+  "CFD0F993686A1B1090E544222F186B35DCFB5C6F": {
+    "logo": "QmYNkck3k8WogNAyg8Phd3mG4zXSvxvx6dfuxovmzkDkbm",
+    "name": "Mahjong-kyou Jidai Cogal Houkago-hen (Japan)",
+    "vid": "QmS2KGwx99zjVyWs9Akj3s1dpiw3v63xmzFcQenffkS5PA"
+  },
+  "D0E83EABD8347FA9AD693017167E4639BBF624AD": {
+    "name": "Road & Track Presents - The Need for Speed (USA, Europe)"
+  },
+  "D117DEC9B202F3ED3E245E347700AB987A3006E5": {
+    "name": "Super Model, The - Gail McKenna (Japan)"
+  },
+  "D14ECA6DC49BC4592472CBC16E261EB96E4A98AB": {
+    "name": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan)"
+  },
+  "D187321E25E63F1F4314E988DFDE40E8497A95A5": {
+    "name": "Shock Wave - Operation JumpGate (Japan)",
+    "ref": "20E8382D7A083B66A9E4CB9176AF6A27247303B8"
+  },
+  "D18B5EBB3B84B70C9E8D5FABF144EE24318B76DB": {
+    "name": "Return Fire (Japan, Europe) (En,Ja,Fr,De,Es,It,Pt,Ko,Ru,Ar)",
+    "ref": "9C8B8CAF7481E68A772D6C2ABDEE06F6A93CB56B"
+  },
+  "D18BAB98246C8C367E4D12C4486EA613095901BE": {
+    "name": "Immercenary (Europe)"
+  },
+  "D1D3C4B172D6CC5FB6AFE426D841DDC622251DFC": {
+    "ref": "E3DBF364A68CC3AF90AED7F9A16C45B342170724"
+  },
+  "D26E959B0EF6388C3EF2A5C935785ABA7EEA4CAB": {
+    "logo": "QmSZ5xqD3ou6fRRonzLz93fq8ZfSMAzvB1h2YVsLf3NZsS",
+    "name": "PGA Tour 96 (USA)",
+    "vid": "QmXaFYoUwW88U582Aec3AppV38249H6dsECZa2WHsNaDHp"
+  },
+  "D27E018338AE259AB74840CDE0ABA737C02A4120": {
+    "name": "Microcosm (Japan)",
+    "ref": "09B36526660E189933E76FC362438E9C85F0CA81"
+  },
+  "D32C633D5795A1C7DC9C005E478E9C183AABAF1A": {
+    "name": "Battle Chess (Europe)",
+    "ref": "409A7C1FC6FEC813DFD5C80158BCC718D8B8A9BC"
+  },
+  "D4AF53CB6B8D6E16B152B7692FBA2E9A85119681": {
+    "logo": "QmRtxrcb9nriavZvyhF6H2imFDfZUSZVYFBwK6cwnmhY8C",
+    "name": "Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4)",
+    "vid": "QmUSPxZ7quoVbRwSU7ARXJcsRaBwLw2trHfWm3osGPWiQY"
+  },
+  "D4CEDE6849859008AE5E786ABB90F7A4D666AA48": {
+    "name": "Twisted (Japan)"
+  },
+  "D643C74677B283EC01431C6457D21F888747C77B": {
+    "logo": "QmZvmEpc1k3ubKsbD9GdjGwWsdonmXjWTB74SEWWkvkm2p",
+    "name": "Alone in the Dark (USA)",
+    "vid": "QmQxaUPxFngh3K9Wfja52phyr9kkvWbmPfNqe6x4hA3dNP"
+  },
+  "D70EF716E57985041E69E9BA7F4D18158AF213BF": {
+    "name": "Gridders (Japan)",
+    "ref": "A5A715398E0CD6FA858456512C953CF7538EE431"
+  },
+  "D7143D3CCD26B00DEBC420D9FB26C9B333C42AB0": {
+    "name": "Myst (Germany)",
+    "ref": "A8F0B8640DD12058E97072B83412A2074BBD3020"
+  },
+  "D729EBC2BAD9382A728C3D59D1839A79751BDC72": {
+    "name": "Puzzle Bobble (Japan)"
+  },
+  "D7ED189DD959FF6ADBF655CF2E84F3DC01BFF488": {
+    "ref": "31D1747848FDF9F26E45F9086DD14188DBE8E658"
+  },
+  "D811F6A40CB80D49B888FBB6B6A4EA53C3D4D894": {
+    "name": "Super Wing Commander (Europe)"
+  },
+  "D850F9C91DB3618E9AC7FCADF3698DB9241E6E41": {
+    "ref": "47CF22AFF089ADC72534B853F8337DC294F0B74C"
+  },
+  "D950671D8D17D9DDFF77C47CFB7081EA8B86D591": {
+    "name": "Total Eclipse (Europe) (DFJN5015ZAZ)",
+    "ref": "715869E4EECDC202983D0B688B78A76648182F00"
+  },
+  "D966D168E2A709B6930D10B0D37ABA45AB986E11": {
+    "name": "Live! 3DO Magazine CD-ROM 7 (Japan)"
+  },
+  "D9F6076FD37E8AA508E62A1B41DC8F207B940A30": {
+    "logo": "QmXxx3AgQkb3BHgoBDwnJJJwdwMaz4bTn4NP5X2jpiHJZP",
+    "name": "Daedalus Encounter, The (USA) (Disc 4)",
+    "vid": "QmeUtfhYxTNNGQcaTikBJSFfqSin9yM217atHXLNozdb5s"
+  },
+  "DAFF1378200564794CA6561ABFE66056F2709698": {
+    "logo": "QmQ61SkNyNCbkRoPvzVpV3s8SazbKyG8qiX3TeHPxQ7GbU",
+    "name": "Ballz - The Director's Cut (World) (En,Ja)",
+    "vid": "QmRt2Cjq7ihD5bd6dW425rPwrK6WXva5k9tYq4PURr6KsG"
+  },
+  "DBC2CA6130991EBF56E6E44E6149FFBD8657D433": {
+    "logo": "QmVxr6kMukPZfn3aarRL3JphM6iM49dK1UJEekxb85LSKT",
+    "name": "Battle Blues (Korea)",
+    "vid": "QmVcsF32nnZVMKwkzJPYtMr8izkSX7wTPGUf18S5Bh8PFF"
+  },
+  "DC1B3D19D06E9E1D05B8981043F7FC3B505A5E0A": {
+    "name": "Sesame Street - Numbers (USA)"
+  },
+  "DCC03E5E0315B3C2998D6F96683D08B0CB7770FE": {
+    "logo": "QmbdfUjvnzbJBMr2HfTLcisd6yebZuAXNN1rvdyiJkt28H",
+    "name": "Night Trap (USA) (Disc 1)",
+    "vid": "QmXrEqvh1kSVmTgsZCPoqPZACw1Jcbzmwh4v6P89v65wtX"
+  },
+  "DCCF8F65730074160BEA5BB8C1D13F9ED3E2FA52": {
+    "logo": "QmX4ufpbT6zG5rFzGBEJ91EHV19zQKryxzwMsTX6ZrVmAM",
+    "name": "Onee-san to Issho! Janken Paradise (Japan)",
+    "vid": "QmPPMejUW9z1cQsuKE2CwghNtSmB625ZpNjkdEQY1Wdzfb"
+  },
+  "DCF035EDC3E479CB36A23631DF46081A784A8F03": {
+    "name": "Icebreaker (USA)"
+  },
+  "DD1A3DC103A986354210C1C833DD0FCB19E954FE": {
+    "name": "Sento Monogatari - Sono I (Japan)"
+  },
+  "DD3C6BC94074935EE90664D207EB9D20F544F092": {
+    "name": "Bonogurashi (Japan)"
+  },
+  "DD8B5EF42238F304B63A4C6FE17198A9705F46A4": {
+    "name": "Chiki Chiki Machine Mou Race 2 - In Space (Japan) (Demo)"
+  },
+  "DDE89F50C762F242BAEDB0DD65F2EC3127E4BB0F": {
+    "name": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 2)"
+  },
+  "DF1A1D27DE67BCC884C89276D1EF91CCD9320E00": {
+    "name": "Great! Soccer Kid (Japan)"
+  },
+  "DF98E672E70D4D212B9B8E84B1893D50B8BE4CF2": {
+    "name": "World Cup Special (Japan)"
+  },
+  "DFD7C7BB23C65E466E76CCF1902A4581F5F16E22": {
+    "name": "Crime Patrol (USA)"
+  },
+  "E022AAFBD6119C3C42D5F0FEA43446DFB266FC86": {
+    "name": "Night Trap (Japan) (Disc 2)",
+    "ref": "1843C6997542F7E6E4CE69202EF3DEFA55A3CF6F"
+  },
+  "E024CB631E2E174DBBFD4003C4C9AF7787E9BCE1": {
+    "name": "Fire Ball!! (Japan)"
+  },
+  "E2AF00FBEE7406641EBFC7985DA4D6ECED0CB749": {
+    "logo": "QmQg8oGW2sK3tAKmnyyPs8UVfCJtvJ4XNsUNwJiH54xXLx",
+    "name": "Pebble Beach Golf Links (USA, Korea)",
+    "vid": "QmdJsHeV6P4dHa9S1nu7yV7Bj1pNLZshdFDVKaKndKCcT2"
+  },
+  "E2E06C69BE167B88AE94C00E06D022A7DA6A1CC1": {
+    "name": "Doctor Hauzer (Japan)"
+  },
+  "E30E8223FBAD33D249C818D0995A266D936ECC47": {
+    "name": "Space Shuttle (USA)"
+  },
+  "E31C97D02284C719ABB8642325D6D9805358DF78": {
+    "ref": "2A48D357AEBF283EB5A0EC061D8D0DAA50C42727"
+  },
+  "E3C73C511848C865930C3B15B9893D3B65EB5355": {
+    "name": "Winning Post (Japan)"
+  },
+  "E3D5342F7AF4749EBAD07CE660FF143089D0D1CA": {
+    "name": "D's Diner - The Director's Cut (Japan) (Disc A)"
+  },
+  "E3DBF364A68CC3AF90AED7F9A16C45B342170724": {
+    "logo": "QmXFaCc59TyTBQW6Q7BJtGcvNnPeKhGLbMQuA5PFynQeDg",
+    "name": "Mazer (USA)",
+    "vid": "Qmb813yfaK3CrCX3rQofQyryB932r9AkMaA9SE5AobAXND"
+  },
+  "E4045280AA383568098D3C3208F701CAB6D2FC88": {
+    "name": "Off-World Interceptor (Japan)",
+    "ref": "60ECC0863165470285AFF01E892C513CEB682B0C"
+  },
+  "E442268056949583ABE1D02222FACAFBE6F1E41D": {
+    "name": "Dragon's Lair (USA) (RE1)",
+    "ref": "7707FAB1D30B2A06051FFBAC2938DEF751A7F118"
+  },
+  "E46733BB1401671ED76CA64894CD55B2098A57FA": {
+    "logo": "QmVTGr5gKJ4rBN7bzFunJckxsdXhq6t4qTLoU5o7T3uh7S",
+    "name": "Doom (USA)",
+    "vid": "QmUmtDNSYRvg9jRfKoQv2d7buLKgQgt3dWmWvELRCcaT8G"
+  },
+  "E469DE5F98318CC4F8A98071A26DF83F8A3C1946": {
+    "name": "Live! 3DO Magazine CD-ROM 3 (Japan)"
+  },
+  "E48581EC4501B93D684A423DF32F9530040FDCF8": {
+    "logo": "QmYT3bs8BxinNnaFWXb3sBWSu28bYeLUhTo2Z2pPVmnZK7",
+    "name": "AutoBahn Tokio (Japan)",
+    "vid": "QmSTuXrbzD8Wo5Do6n2SLf6YHnfnimG7GzYPRcMQuHeza7"
+  },
+  "E4C1D1DDEE754D76BADDA0F0BDABDA7DD8F10DB1": {
+    "name": "Shock Wave - Operation JumpGate (Japan) (Demo)",
+    "ref": "20E8382D7A083B66A9E4CB9176AF6A27247303B8"
+  },
+  "E4CC771B9FDC59ED1C73CDAE01D5781A0AC72E92": {
+    "ref": "E2AF00FBEE7406641EBFC7985DA4D6ECED0CB749"
+  },
+  "E59C9673E9D79DEF5CBE42CC494CAC2D5B11EB5F": {
+    "logo": "QmXfpug34R3BC1cegiYjnkKgJxHQnREtCP8uuWDtfRBHph",
+    "name": "Crash 'n Burn (USA) (Not for Resale)",
+    "vid": "QmTdyhAyHt2hFLAM8T4iWT12iLaeT46gwJrigXiAp9wcNf"
+  },
+  "E5B77C2F2A92FC5F0D2EED1E8A4B189CEBB5FAC1": {
+    "name": "MegaRace (Europe) (En,Fr,De,Es,It)"
+  },
+  "E5E3D694CEDD074AECFA7855D5B4430B3A39BC08": {
+    "ref": "72B460207B6F96F05ED0A6CA2C45D09B773D008C"
+  },
+  "E67768A138BD597BE8A9251CE7B851FB67B42C53": {
+    "name": "Sotsugyou II Special - Neo Generation (Japan)"
+  },
+  "E678E5EE1BBF2AA39A7B6309EFF6DA0D32633A0F": {
+    "name": "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2)"
+  },
+  "E6CC861440BBFDEFBCDC4DA413045E8EAACC60FA": {
+    "logo": "QmV2vSG5aHYbjuZ7z3YpigfkeeKUzVxfoeWmUZFLEGpRZM",
+    "name": "Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja)",
+    "vid": "QmauAtVoRDTRQgZFvPP4sQwKkqYMkDZhSXGRTX8FZdzfYG"
+  },
+  "E782AA4545828FD00917F49053689A9A542F8772": {
+    "ref": "95B75E0E636F235FE3C49B68D56787029CA53909"
+  },
+  "E9117A7DDDFD4EBA9C053A5B952A85A52A2F324E": {
+    "ref": "D0E83EABD8347FA9AD693017167E4639BBF624AD"
+  },
+  "E9A1BFFDA13CC6F4AFBBE4DE5A9D3E8833D7B4AA": {
+    "name": "Igo Time Trial - Shikatsu Daihyakka (Japan)"
+  },
+  "E9F7D6C2B219E0DC0D1ECB71A3E2ECEAD7A91B66": {
+    "logo": "Qma48sAFbcpG7gHEHng9aCKSTG5PZDJS9mRs4rfvwmu81T",
+    "name": "Firewall (Korea)",
+    "vid": "QmPxqmRgWu71mgYktzJuoTXSWKnmPrm2kfwLtHvGLkKD7a"
+  },
+  "EA2D40DC0C5D609F7253FF150C7D4E2FA5C63767": {
+    "name": "Killing Time (Europe)",
+    "ref": "18D9654F9BD3669ECEA770B3E666639770B0D8FE"
+  },
+  "EBFCC2EBF145DC3A6EC4EBE6176F2FA5964B8103": {
+    "name": "Foes of Ali (Europe)"
+  },
+  "ECB40EA9467C06C7C88D0CBDAE500A02E6533787": {
+    "logo": "Qme2YhqZwDeaKGm38X1S5R8YcyCywjbPTB6KE6ijZnkP58",
+    "name": "VR Stalker (USA)",
+    "vid": "QmX5ci5gRk8QsaMUWZoPZZkyYFozTqG73Kww9xp4spgtrN"
+  },
+  "ECEC11A0CC250D5256A4593245FE5FAA9D626E8A": {
+    "name": "3DO Game Guru (USA, Europe)"
+  },
+  "ECFC8444938E5AF4C63D56ABCD373E229748A98F": {
+    "logo": "QmSAE4nfoinwJG28DUhwbukoNjyaQURCv8qUSkeiht1kgG",
+    "name": "Space Hulk - Vengeance of the Blood Angels (USA)",
+    "vid": "QmeMgcfyvGowZQ1kiCLK8ACSeG8Rjx3BJDFrSsENib2uBU"
+  },
+  "ED842B0C8BD0DF515C1E040E00EBC4B4DA5AAA90": {
+    "ref": "C69A766DC8C46ADA66D181812B417351BEA515FC"
+  },
+  "EDDDAE90B5A953B3FFBEC70686771ED0E4EBE9E0": {
+    "name": "Puppet Tale (Japan)"
+  },
+  "EE36E809A52B4D51F91FA37020A285F0D1023DA5": {
+    "ref": "92B6A8529F3DAA5A9B6EF421017000558C88EF3F"
+  },
+  "EEA0E6CE9F43A84CAE11EDC131FF3FF99E2EF249": {
+    "name": "Guardian War (Canada)",
+    "ref": "6A08657F15541035E1986357FC1757454C8B4D4F"
+  },
+  "EFFF006A9A0EDFD86292B3E295A8998A3D8F3BF6": {
+    "name": "Super Street Fighter II Turbo (Europe) (Demo) (3DO Magazine - Issue 10)",
+    "ref": "1F0765A37412BD6BD82AC9D5649D2CBFB8867B52"
+  },
+  "F0A88FAA9FAC54DFFEC659A8535B469A6BA8681D": {
+    "logo": "Qmb5qwqNuL3dfMHRxWisXYjEVjNZac1K7tQMrpmKLMf7aT",
+    "name": "Shockwave 2 - Beyond the Gate (USA) (Disc 02)",
+    "vid": "QmQ4Kk1YSxuPqSGLcmoSkNUHfHNNKxsjk9425Vu4gxzvVJ"
+  },
+  "F11F49C62976077A794D7FC526F9082A2EC3B9B8": {
+    "name": "Lemmings (Japan)",
+    "ref": "8D067AFEFEE5BAE1750AC629CB6E74ACA3648439"
+  },
+  "F233218CEB7F960EA6F9D10FDD8B6BE97B95C86D": {
+    "name": "Battle Pinball (Japan)"
+  },
+  "F2C78ABCB5D39F3E7C88F80F1D382BAB422AE3D8": {
+    "name": "Paddock Note '95 (Japan)"
+  },
+  "F35E1635E09B8EAB028E987F74DD0F95A1F80D63": {
+    "name": "Live! 3DO Magazine CD-ROM 8 (Japan)"
+  },
+  "F3E7EF47F596325B5080689EBF8AA01CF2844284": {
+    "name": "Tozasareta Yakata (Japan)"
+  },
+  "F4AD32131919B580E7D5F53FA7363D353D2792E3": {
+    "logo": "QmW41H6PmnmGU6uBbansTcMR4Zn2RQJDovNyzABwmKCQu2",
+    "name": "Iron Angel of the Apocalypse - Tetsujin (USA)",
+    "vid": "QmYm6m1arhPjLabek4JvYm8wMv5GbMdN5LEeJYfbvtPru9"
+  },
+  "F4B87B68647BEF35D3C7C1DEEFFBACCF370B63FB": {
+    "name": "Paddock Note '95 (Japan) (Rev 1)"
+  },
+  "F4E17269B6BE2339020AA9875638698C9DC90309": {
+    "ref": "AD9CEAC2555D9346668136C3FD627575F703FCA4"
+  },
+  "F4E26646BA7A5B4432AD60C56756177C465B5D2D": {
+    "ref": "CA8BF97B9FB60341BBC8763AA3C4537F0FEBA3FF"
+  },
+  "F522C12C5B0B57BC2A3D402D879E3C994FE5FEC5": {
+    "ref": "6C721692986F2BDFD2A36DAB946C50E4C74A153F"
+  },
+  "F6380B22F9961A0383525EF98988007504534DFD": {
+    "name": "T&E VR Golf - Masters - Harukanaru Augusta 3 (Japan) (Demo)",
+    "ref": "852A6880F18CC3DC82DCD553B5BC17CD01A7CA05"
+  },
+  "F6ECD5D6A0FCB5A25FBDB8BB370BB2AF98EE1D58": {
+    "logo": "QmQiqDJ8JPQKk7dzsLebfyPi8jspVfKU6JzkRttCCn4mBX",
+    "name": "Lost Files of Sherlock Holmes, The (USA)",
+    "vid": "QmYVwr2WMa58gVoxBL56hCui7ZTWCFgLNkdGxUfMpkrGAq"
+  },
+  "F779AA49287B7702C627B05FD364E08CC33052CB": {
+    "name": "Let's Play Beach Volleyball (USA)"
+  },
+  "F7D34CF51E71E4607D28E794BA6FFC2834AB35B1": {
+    "name": "Naoko to Hide-bou - Sansuu no Tensai 1 - Wa to Sa no Bunshoudai Tsurukamezan Part I (Butsubutsu Koukan no Maki) (Japan)"
+  },
+  "F7F977CFAF68F1E0B13F8461235A3E08DDC31BF0": {
+    "logo": "QmYEdjv1bjootRu2AFzUrz4cnpUGDtRbwkxikLzez7sNMD",
+    "name": "V Goal Soccer '96 (Japan)",
+    "vid": "QmU5Ktd9hWxMeEZq6yCtSkUoYKsgmWXw7reuZJi9EYjTWJ"
+  },
+  "F8A03074547B5D47D25D30A742B97F289F360DDD": {
+    "name": "Puzzle Bobble (Japan) (Demo)"
+  },
+  "F8D3E61BD07184122F783428ABF9AA2B7B07D6CD": {
+    "logo": "QmWqpx2hjeF16py9Yk7qYsrVMVQfkp8iZBK4UeTpxVbWN7",
+    "name": "Putt-Putt's Fun Pack (USA)",
+    "vid": "QmVbJysj8RxCPcAu2Hq2F1pbfr92u4iauyxKAyD3mEcYfW"
+  },
+  "F90B88CE07131D60A364391CA088C615BB6F5F02": {
+    "name": "Phoenix 3 (Europe) (Demo)",
+    "ref": "0640009042B54FF534A0158217955625B913E457"
+  },
+  "F9CCEDC3D4FDA12E38794D8EB6C7F5D1D47D5028": {
+    "logo": "QmQxmbt6qgTV2PjGZqzUu4NbtaAFsyoz3Rs8mNrJUqyk4i",
+    "name": "Twisted - The Game Show (USA) (Alt)",
+    "vid": "QmeMjpVNcUMso15WhU3jGRBZECjeG7CACaDyqRwsjw2xb1"
+  },
+  "FB2FFB1F423F6EE934CDF2B2407D2077E100A37E": {
+    "logo": "QmeddJuH2tAkFaMhVxAuxLwEd6c1AfehGoPXm7kCy7f9dE",
+    "name": "Trip'd (USA, Europe)",
+    "vid": "QmbFMCWfE7eYuEmGTHdjzb4fr7caMvMaLiconyQMDD2wYg"
+  },
+  "FB4B81A0DB75B2A93E6B78E8C53E0BAED7A51947": {
+    "logo": "QmU8WTGh3uYm7RmA4GZrD4acrFTPRDt58rvo3sQUvgLCbW",
+    "name": "Taiketsu Rumiizu! (Japan)",
+    "vid": "QmT6wXzsVhyco9JXnbL9UojsnFBfEMVm3x87MnnGgMtSVa"
+  },
+  "FCAD2299A37F4189A5194CEC7B29E795939F8572": {
+    "name": "Incredible Machine, The (Europe)",
+    "ref": "A88A79A2706090E3E49CC65F730CC9667ADA7407"
+  },
+  "FCC43988869A9450D562E87184083ACBB0B85A5B": {
+    "name": "Outer World (Japan)"
+  },
+  "FE3957E04B4B76226788CF30B7ECF45DDC6D0EBD": {
+    "name": "Virtual Puppet Reika (Japan)"
+  },
+  "FE3E5822818829C948957ED1E8C1EF95F044D45A": {
+    "ref": "2344A666F4854BEDA291EB11F7BC0338321D4A0E"
+  },
+  "FEE290EF7293B5FACDC75BCDC332968836CEF738": {
+    "logo": "QmSe2AjgRS3GdpHQsFxYuFUt5258HfgRuiHMvr1QqR7DCP",
+    "name": "Wolfenstein 3D (USA)",
+    "vid": "QmdDUZZapy27MVJnkjHDY9VZA7i9bpfPu9mGUg8wbSnQm2"
+  },
+  "FEEF790130D05CA5446BE4550E4F8799E5F983AA": {
+    "logo": "QmZ8FW5iHxfvKt9dpcsN9mL7Vo5Rg3ejc8GnGnjm6okUG7",
+    "name": "Alone in the Dark 2 (USA)",
+    "vid": "Qma8beKx6XMv8BMABZCpcAo8YB6Li3Qti6SfDWyHuy2Huh"
+  },
+  "FF59E7EC09D580A66A1F0C263F1880ABD3C42CF0": {
+    "name": "Nobunaga no Yabou - Haouden (Japan)"
+  },
+  "FFBAD229E50EAF620EB80C9D1DD7A730E95F9D25": {
+    "name": "Horde, The (USA) (RCB)",
+    "ref": "8DB2055A48792B7C06E8C6D6AF0882F6B8BF9DE5"
   }
 }

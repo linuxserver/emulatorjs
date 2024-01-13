@@ -1,435 +1,435 @@
 {
-  "F8991B0C385F4E5002FA2A7E2F5E61E8C5213356": {
-    "name": "[BIOS] Atari Jaguar (World)"
+  "01DC37E7A9D03246A93BCB8C6A3116CB6391ED31": {
+    "logo": "QmfKeLsqS1SBMQFwr4dRzZLuhQdskMwEFDr9jDaCMbo4wN",
+    "name": "Attack of the Mutant Penguins (World)",
+    "vid": "QmUZbbybLfEngb3KCkBMJ76XK7b6Wt97zo18XV9sXEWZSk"
   },
-  "73883E7A6E9B132452436F7AB1AEAEB0776428E5": {
-    "name": "[BIOS] Atari Jaguar CD (World)"
+  "02253D93EEF375C8334F1F77A2D8B72FFF7A94C6": {
+    "name": "Val d'Isere Skiing and Snowboarding (World)"
   },
-  "D61B7B5912118F114EF00CF44966A5EF62E455A5": {
-    "name": "[BIOS] Atari Jaguar Developer CD (World)"
+  "032AA31CEF116BFBA8632C14BC2FCE5BC44FF137": {
+    "name": "Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28)"
   },
-  "8377FF6C6527721E2E7F8458314D782925CE4590": {
-    "name": "[BIOS] Atari Jaguar Stubulator '93 (World)"
+  "037396347D65D1A8B56E7DB361D737AB2070118F": {
+    "name": "Hyper Force (World)"
   },
-  "4F87982B6E16072E58A5653A3F763C8B4B3BFFCC": {
-    "name": "[BIOS] Atari Jaguar Stubulator '94 (World)"
+  "07C76D3F4AE05B75EA7AD62147172FD146F4F876": {
+    "name": "Thea Realm Fighters (USA) (Proto 2)"
   },
-  "533C497761CC802624708108BC9EF6E7C4F40296": {
-    "name": "Aircars (USA)"
+  "0C195676BE099F4594CE1D5A38303F6CCE899DC5": {
+    "logo": "QmRFsbJZ7WKewZsSVWy5qJA6SxJbnSQDFDsRnpdXseL44K",
+    "name": "Cannon Fodder (World)",
+    "vid": "Qmb8XZcpytbb8jDyW617RgCtRfBUKzxx971Fac4AUh2UUa"
   },
-  "4E55A5991725A4B557F4DAF75A0FA38EC667217A": {
-    "name": "Aircars (USA) (Beta) (1994-11-14)"
-  },
-  "FD8C89250EBC1E403838B2E589D1F69E3FE2FE02": {
-    "name": "Alien vs Predator (World)",
-    "vid": "QmPF7SYwe3KYS9DxYHoNsVTnhwwFe9sdHkvnLdG7BS3Ff3",
-    "logo": "QmcevUQ5YkCiWcNov4grof4VwqeqR8P2DH5kr7AG6E2kPM"
-  },
-  "80ED1EE5B8ACADDFB64A5C0BBDA2BFC14BDB5DA5": {
-    "name": "Alien vs Predator (World) (Beta) (1993-08-18)",
-    "ref": "FD8C89250EBC1E403838B2E589D1F69E3FE2FE02"
-  },
-  "261667E4AAB6239ECF3A416F5C2443BF092735CC": {
-    "name": "Alien vs Predator (World) (Beta) (1993-10-13)",
-    "ref": "FD8C89250EBC1E403838B2E589D1F69E3FE2FE02"
+  "0E95613020D1B3A0AC76D994423C6F15DDFE9703": {
+    "name": "Missile Command VR (World) (Beta) (1995-07-05)"
   },
   "1189AA22A427D81EA0BD68BF58258C8B1089614B": {
     "name": "Alien vs Predator (World) (Beta) (1994-04-08)",
     "ref": "FD8C89250EBC1E403838B2E589D1F69E3FE2FE02"
   },
-  "542063A5B27659781A85821F61E85CD89EA59AB3": {
-    "name": "Arena Football '95 (World)"
+  "13A4084BD5BE1CCA21D83D4C26B5B8E5CF1A3E30": {
+    "logo": "QmVCsuGdk9mepCZiZ9iD7owQ4SKYSuQSomP7WMXvub5rfn",
+    "name": "Defender 2000 (World)",
+    "vid": "QmRw7miWyxxP1jJ3UdnXNhaattqf8j72nu5wiqmmPkdQZF"
   },
-  "9C96E6C2195CE56AA930E677A041B35BD9B8BC7E": {
-    "name": "Atari Karts (World)",
-    "vid": "QmYYH6BQAhCkGpidXcKgqf1xnxLzynkuvTBBdBdG4K5tzo",
-    "logo": "QmP4Lo8YAX9ZJ6rUJdGCoKfLByc4RKfqQt8Xd4C89J5wjy"
+  "179B511464ABCDA5A5DE9F971BD5CB5775D8C313": {
+    "logo": "QmVZaMvFkoR1LxXRogBRMsMaG5pe71JJVzusfSkerk8aPB",
+    "name": "Evolution - Dino Dudes (World)",
+    "vid": "QmfGyzVC5mrtMxEv78czZmhzmphoEGKRrEMM7nPDp6FXbP"
+  },
+  "18535F5985C840AEFCE0FA639131CB83A8A647F9": {
+    "name": "Barkley Shut Up and Jam (World)"
   },
   "1BDAAA42B38F4C93A4ABA34930E3CA406AC976C9": {
     "name": "Atari Karts (World) (Beta)",
     "ref": "9C96E6C2195CE56AA930E677A041B35BD9B8BC7E"
   },
-  "01DC37E7A9D03246A93BCB8C6A3116CB6391ED31": {
-    "name": "Attack of the Mutant Penguins (World)",
-    "vid": "QmUZbbybLfEngb3KCkBMJ76XK7b6Wt97zo18XV9sXEWZSk",
-    "logo": "QmfKeLsqS1SBMQFwr4dRzZLuhQdskMwEFDr9jDaCMbo4wN"
-  },
-  "18535F5985C840AEFCE0FA639131CB83A8A647F9": {
-    "name": "Barkley Shut Up and Jam (World)"
-  },
-  "988897FD517EBD86742971205F3B29F9D70B5686": {
-    "name": "Barkley Shut Up and Jam (World) (Beta)"
-  },
-  "8F4C964D2411A52C64EEC1D1A3061F77117BB7A6": {
-    "name": "Battle Sphere (World)"
-  },
-  "49716A6A3A4C6ABEEA36040F26C4E8CF2A545DF7": {
-    "name": "Battle Sphere Gold (World)"
-  },
-  "FE4C35C24BE8DF92F867B4FB42EB75A3FCC875E8": {
-    "name": "Breakout 2000 (USA, Europe)"
-  },
-  "C8F29D04DACCE1A83A1C93AB351737795D0F55DB": {
-    "name": "Breakout 2000 (USA, Europe) (Beta)"
-  },
-  "7F21C6DE18C46629C0D54E68143D619093B4B8D6": {
-    "name": "Brett Hull Hockey (World)"
-  },
-  "CDFEFDF28DD9127F7A9425088A1EE3EA88DFB618": {
-    "name": "Brutal Sports Football (World)",
-    "vid": "QmPbw6drqyPkDuiKHThjNFH7SmPxsSDS7ago76MQwpprCX",
-    "logo": "QmaqeNB3qRTvDxozJ8p7rJZKzX57TpnDjVS8JBcEkmPBs9"
-  },
-  "752D6E1ED185F9DB49230F42319A573A44E32397": {
-    "name": "Bubsy in Fractured Furry Tales (World)",
-    "vid": "Qme3hphX7hkwVJWpYwcFnxU6u2Y8J7TB9JFpKcAsMuxDQh",
-    "logo": "QmcUtsD4orEMZjoPbjk3h2YTS3Ug55pF4RhvGFCbExUBcV"
-  },
-  "0C195676BE099F4594CE1D5A38303F6CCE899DC5": {
-    "name": "Cannon Fodder (World)",
-    "vid": "Qmb8XZcpytbb8jDyW617RgCtRfBUKzxx971Fac4AUh2UUa",
-    "logo": "QmRFsbJZ7WKewZsSVWy5qJA6SxJbnSQDFDsRnpdXseL44K"
-  },
-  "4D0CC8D248A8BD0FC4B8169C5D5772E59C073C59": {
-    "name": "Checkered Flag (World)",
-    "vid": "Qma4iVerm6svScmwC83dpydmAYLQR1NUHTuNkns1JxEJRe",
-    "logo": "QmYKfShHBmErdpVQVdWaF1bwSb6xwexpjrPrKKjRextc9t"
-  },
-  "BF00EC1FCA2A97BEAF28D52140DF2006B1120C67": {
-    "name": "Checkered Flag (World) (Beta) (CES 1993)",
-    "ref": "4D0CC8D248A8BD0FC4B8169C5D5772E59C073C59"
-  },
-  "6588F7D677463D0EF10CF905D44A2581FD9DD055": {
-    "name": "Club Drive (World)"
-  },
-  "93A29D894F5472EB755D13E721414A6BD9686C02": {
-    "name": "Club Drive (World) (Beta)"
-  },
-  "E00AB55F555FD1FE63B4FCE66A9B8FFE3485963E": {
-    "name": "Cybermorph (World) (Rev A)",
-    "vid": "QmdrHLeu5mMh6pGU1aodsTVt96UYZCwPN6H2Zi1mpZU2PG",
-    "logo": "QmPAtutb1eQvfsnHRLRxk6Na5DUVNGfksxfCqsqi7CT6pE"
-  },
-  "C9AA59769DF207D85D9212D619C266C793C9063B": {
-    "name": "Cybermorph (World) (Rev B)",
-    "ref": "E00AB55F555FD1FE63B4FCE66A9B8FFE3485963E"
-  },
-  "589EFBC772360FA51EDDC096A162C8D9FE7838D3": {
-    "name": "Cybermorph (World) (Beta) (1993-08-23)",
-    "ref": "E00AB55F555FD1FE63B4FCE66A9B8FFE3485963E"
-  },
-  "13A4084BD5BE1CCA21D83D4C26B5B8E5CF1A3E30": {
-    "name": "Defender 2000 (World)",
-    "vid": "QmRw7miWyxxP1jJ3UdnXNhaattqf8j72nu5wiqmmPkdQZF",
-    "logo": "QmVCsuGdk9mepCZiZ9iD7owQ4SKYSuQSomP7WMXvub5rfn"
-  },
-  "AE497F4839BDE6C12C87C651A80633A23D6D0713": {
-    "name": "Defender 2000 (World) (Beta)",
-    "ref": "13A4084BD5BE1CCA21D83D4C26B5B8E5CF1A3E30"
+  "1EF1B86ABF725F32267BFA140DC049CE9BA92AEA": {
+    "name": "Total Carnage (World) (Beta)",
+    "ref": "4566B33799A7C65B3E9643383D0282172FF619A5"
   },
   "20DDF412E42A50D526CBBB6411BF0EC4516DB283": {
+    "logo": "QmZTx6wneGVU4zJTghJF7VARH89djP1RNdBUaSV8ykpMwc",
     "name": "Doom (World)",
-    "vid": "QmSZgM6UhZ399co6dhiB3aGmvtq1iVr5N1SpeC792NAhUk",
-    "logo": "QmZTx6wneGVU4zJTghJF7VARH89djP1RNdBUaSV8ykpMwc"
+    "vid": "QmSZgM6UhZ399co6dhiB3aGmvtq1iVr5N1SpeC792NAhUk"
   },
-  "D66B4E5F9AC27D53F0D781C741E420698630B9FC": {
-    "name": "Double Dragon V - The Shadow Falls (World)",
-    "vid": "QmRR3VtTRZu5DTAqFoms9VGq57x1NLsSKxnvrgWvqJiW4c",
-    "logo": "QmXuVrogv2aTxNg6DFFLgei1cuCKyEH7uWdSebHFwCFF4P"
+  "2327112B9C6F9B0E49C55DEF0ADB8119EE39CE29": {
+    "logo": "QmaCEAzbaV8gTJtEhwc7ewwQegMZbGjHAngC6jQfS6UF9T",
+    "name": "Kasumi Ninja (World)",
+    "vid": "QmV3CbiaPDF11B52Sx6DzV4d1ZQueBztnpSDfqRWn51tHz"
   },
-  "DA7F5DAC4317AB0258F54DA436ABB8D89E530F27": {
-    "name": "Dragon - The Bruce Lee Story (World)",
-    "vid": "QmWPaYLEJ4X7obTauVgYqhA3dKjnGNEMYEK6TA8zRB3wM7",
-    "logo": "QmWkpKyEEyizMT6vMyaUQcMpAWdW8x5ErjXqM8H84CkXZw"
+  "24DA4FE776AE9DAA86CF643C703EC0F399C77521": {
+    "logo": "QmdaJGvXuh8dFDgpAdW2jXSnr4pj6e7uSXULthA8t6STKq",
+    "name": "Theme Park (World)",
+    "vid": "QmQJG7EmAZwZWjbZ4zL9umjpTww6pR9HdRvVgfxAZwCTn2"
+  },
+  "25611B1CFF1384DB72CC5422DBE70555E5BBD32C": {
+    "logo": "QmXFSYwvRJqkviBDVgicJu2E2rhxYmNXhDi8dRqPtoZr8a",
+    "name": "Pitfall - The Mayan Adventure (USA, Europe)",
+    "vid": "QmPniHfXG46CEwZcGVnw9X4MxXYJd8RRe9T5qLGwT2qMUK"
+  },
+  "261667E4AAB6239ECF3A416F5C2443BF092735CC": {
+    "name": "Alien vs Predator (World) (Beta) (1993-10-13)",
+    "ref": "FD8C89250EBC1E403838B2E589D1F69E3FE2FE02"
+  },
+  "271E9411EB9E6C74240D254BDD7BAB9A039BC6D9": {
+    "name": "Jack Nicklaus Cyber Golf (USA) (Proto) (1994-07-04)"
   },
   "298148131AF2A86BA5D5430B1B8982710CE68874": {
     "name": "Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26)",
     "ref": "DA7F5DAC4317AB0258F54DA436ABB8D89E530F27"
   },
-  "8F556976F42C393858127D99112264E6A5A9AE19": {
-    "name": "Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06)",
-    "ref": "DA7F5DAC4317AB0258F54DA436ABB8D89E530F27"
-  },
-  "179B511464ABCDA5A5DE9F971BD5CB5775D8C313": {
-    "name": "Evolution - Dino Dudes (World)",
-    "vid": "QmfGyzVC5mrtMxEv78czZmhzmphoEGKRrEMM7nPDp6FXbP",
-    "logo": "QmVZaMvFkoR1LxXRogBRMsMaG5pe71JJVzusfSkerk8aPB"
-  },
-  "5BE3DA69A64B779D064D139968FADBE1C475C715": {
-    "name": "Fever Pitch Soccer (World) (En,Fr,De,Es,It)",
-    "vid": "QmZRt4vXXPvkKiLihkBuHgCNfnso14YPHbqhD8WsaXzw9f",
-    "logo": "QmdZbMCrPHFmjWxsdwAi9VTroT7ADXG7ZmVpF97yWjjuWq"
-  },
-  "9F5B8844D58BB1C174DA4824EABBFD8616BA28D2": {
-    "name": "Fight for Life (USA, Europe)",
-    "vid": "QmehEeSFr4pVNWtSjqg6SWJNwe1eo3nJNtoQGW4pspgZ68",
-    "logo": "QmTGRDYyEoyCXgZrKXbC9F1K42JujeWeYhzux3qbW7vZxh"
-  },
-  "37FE344383D7991D19BF2C862D29A20EAF1DA8EF": {
-    "name": "Fight for Life (USA, Europe) (Beta) (1995-03-22)",
-    "ref": "9F5B8844D58BB1C174DA4824EABBFD8616BA28D2"
-  },
-  "C92F1FF8EC83EBBE0F77F5A665169408DF53B528": {
-    "name": "Fight for Life (USA, Europe) (Beta) (1995-09-07)",
-    "ref": "9F5B8844D58BB1C174DA4824EABBFD8616BA28D2"
-  },
-  "824613451BE0B99020FC02E5DBA15C45E76FC8C2": {
-    "name": "Flashback - The Quest for Identity (World) (En,Fr)",
-    "vid": "QmSUe7urtRuLe4KkZpqXoVPsFHYsU7FiYLrwmwsfXD4QnU",
-    "logo": "QmTGeRg29B8rinMjgnRXE352VnZn2qe1kaRGdwkyLbSPug"
-  },
-  "886CBBAA434D6E1E7FC4401BB6D176C2788C4D19": {
-    "name": "Flip Out! (World)",
-    "vid": "QmZDAGfvPwuWWzcn2PtWJZgrPNbnccfHj6yg8WSWvmJPyX",
-    "logo": "QmW8jpj4BKCKmEd2FjGEV14rRd4mMWcmALzW1ULdaF7k3J"
-  },
-  "5B2295907F6FDADF5F44B1E392DCD6F5471FD095": {
-    "name": "Frog Feast (World)"
-  },
-  "E99FF0ADD256BD45394C9ED8728E38B458CFE5E6": {
-    "name": "High Voltage C Maze (USA) (Demo)"
-  },
-  "94E615E7A57F7C08645322870121BB32310298F5": {
-    "name": "Hover Strike (World)"
-  },
-  "037396347D65D1A8B56E7DB361D737AB2070118F": {
-    "name": "Hyper Force (World)"
-  },
-  "3DB485AAA28A817F468739A85E3F25741C3855AD": {
-    "name": "I-War (USA, Europe)",
-    "vid": "QmXXvJayEvptD1RNg5RBwYYdSv2hfV4RGRnbqVbHu5twiB",
-    "logo": "QmW7ooQuquXj9SmMRnm9jzanXbyFoiXKwkczFMr38nhUet"
-  },
-  "F0914BE41331E3045BBC04225044DC3C73FD9DE1": {
-    "name": "International Sensible Soccer (World)",
-    "vid": "QmRCxSGrsU4owDTtGhg278xZhiCScgHPQFgwk9SzTrFdvs",
-    "logo": "QmQ7UpHJPARawoiRfrVnheX2m3tLvFTctpFwz94gory8CT"
-  },
-  "8BDEFC60DD1734315E1C145E29ABF41800F908CB": {
-    "name": "Iron Soldier (World)"
-  },
-  "47B9580EB9EEA121CF080CDBDC4AFE7FB7A19AB5": {
-    "name": "Iron Soldier 2 (USA, Europe)"
-  },
-  "271E9411EB9E6C74240D254BDD7BAB9A039BC6D9": {
-    "name": "Jack Nicklaus Cyber Golf (USA) (Proto) (1994-07-04)"
-  },
-  "89306ADA943C87DA740E6166F1F53837566513E2": {
-    "name": "Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-13)"
-  },
-  "CECEC725301D7540F9392618F4FC948DEF88D398": {
-    "name": "Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-16)"
-  },
-  "2327112B9C6F9B0E49C55DEF0ADB8119EE39CE29": {
-    "name": "Kasumi Ninja (World)",
-    "vid": "QmV3CbiaPDF11B52Sx6DzV4d1ZQueBztnpSDfqRWn51tHz",
-    "logo": "QmaCEAzbaV8gTJtEhwc7ewwQegMZbGjHAngC6jQfS6UF9T"
-  },
-  "3650143BD057DD39B96E0AD0207778353F17ABE7": {
-    "name": "Kasumi Ninja (World) (Demo)",
-    "ref": "2327112B9C6F9B0E49C55DEF0ADB8119EE39CE29"
-  },
-  "3EA9053A63A3B0165CCEC91E85F0E699A998DC0A": {
-    "name": "Missile Command 3D (World)",
-    "vid": "QmZGwx2ZMDBK2XsPyrvGAujU34Fx6fqWDP85SKg8yyxLxr",
-    "logo": "QmcffN7HbkieG9gXHkZ72nviP425m8xMbYh2BxCwnvLAvN"
-  },
-  "0E95613020D1B3A0AC76D994423C6F15DDFE9703": {
-    "name": "Missile Command VR (World) (Beta) (1995-07-05)"
-  },
-  "3D3E6C7E552CBA5F99B6EBC15B951CE4BD956766": {
-    "name": "Native (USA) (Proto)"
-  },
-  "B9C8FF2D26FE1E91ECD6D59B9F3F76C5B5650F26": {
-    "name": "NBA Jam - Tournament Edition (USA, Europe)",
-    "vid": "QmcYQvFP6WC8y6nAhVVBEjGSK1uMrof5fjSFGnNNDAosto",
-    "logo": "QmbFV1DVEettBHxrAs5YfdHmKXVRhKtEVnrig3afbN5Emp"
-  },
-  "3EC9524921D07647F527E0A82A831F794A7D6D9B": {
-    "name": "Phase Zero (World)"
-  },
-  "4733CF2EDE2713467F2A80B052AB94EDF6DFE534": {
-    "name": "Pinball Fantasies (World)",
-    "vid": "QmUX4sQRATEybMWuzwogeUjUZ7vFxGnYyhncrze5MmZ9WK",
-    "logo": "QmNmKQXYJMkmwnj6mmgPAM6rsmftpNeqrh4ATzggKKJnfo"
-  },
-  "25611B1CFF1384DB72CC5422DBE70555E5BBD32C": {
-    "name": "Pitfall - The Mayan Adventure (USA, Europe)",
-    "vid": "QmPniHfXG46CEwZcGVnw9X4MxXYJd8RRe9T5qLGwT2qMUK",
-    "logo": "QmXFSYwvRJqkviBDVgicJu2E2rhxYmNXhDi8dRqPtoZr8a"
-  },
-  "032AA31CEF116BFBA8632C14BC2FCE5BC44FF137": {
-    "name": "Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28)"
-  },
-  "75EE0AB0DABA31284A1DFF27F3C247885F5A427A": {
-    "name": "Power Drive Rally (World)",
-    "vid": "QmRfWpZnaUhLZjmPDuMk1JKkrvJ8EM7S72vsB64hZZveED",
-    "logo": "QmWmPqprXS7jj5SmZB1cpBNTVaDxqdMzpfbMj8ZPj9iQer"
-  },
-  "8043E3B521EA00E806D3AB79C6C548A140944DB1": {
-    "name": "Protector (World)"
-  },
-  "DDEA86820DCAA1A67BD82CF8023F9B3C494357B0": {
-    "name": "Protector - Special Edition (World)",
-    "vid": "QmNeW9TBPfpVywZ7H7YSQuGgc8bqLAHy5DWwtbPPw9eY47",
-    "logo": "Qmf9zXG3HqDCwME9Nwft7BNP1MBNTNBhLwCC2NWP3EkML1"
-  },
-  "9D2F894DA3F25944C2F33E3A109AE8D0D951D329": {
-    "name": "Raiden (World)"
-  },
-  "50CCF7043A702531A0E9EF86D629D5EDE5255C13": {
-    "name": "Raiden (World) (Rev A)"
-  },
-  "D22912992FD966365A1221886E0FC5303EF04A59": {
-    "name": "Rayman (World)",
-    "vid": "QmbzbRxhpyotMMDtuXHruJvN1sjh1JNP8dBEtejf87cdEr",
-    "logo": "QmXtq7N3BL8y2BkN2juk7Rk9FqJSFkj267XxKmP4hsNMY6"
-  },
-  "BA34DE71A8D278BA76BAD19964D2D886DDB94A2E": {
-    "name": "Rayman (World) (Beta 2)",
-    "ref": "D22912992FD966365A1221886E0FC5303EF04A59"
-  },
-  "DD6F15CDA5A84E0F93BB04D24F61727A8276AE58": {
-    "name": "Rayman (World) (Beta 1)",
-    "ref": "D22912992FD966365A1221886E0FC5303EF04A59"
-  },
-  "E0DB2FDEA7F95743C1EF452B7D289F5FE8158E33": {
-    "name": "Ruiner Pinball (USA, Europe)"
-  },
-  "34A9941459E3B66C836F25B3EF55303734B9583E": {
-    "name": "Skyhammer (World)"
-  },
-  "FE66FFDC9323CFCFC64DA06E16F2D5A4A4E1A236": {
-    "name": "Slam Racer (USA) (Proto)"
-  },
-  "A738A2DF47F09C3BFDEDDFC01B35F3E8B5C5D99C": {
-    "name": "Soccer Kid (World) (Beta)",
-    "vid": "QmVQshtfgntHzVn8ZVZdf8i5A36YYNNqUJaLJuF6KdG1GC",
-    "logo": "QmYTz3N7NpzHJQYGZ1WJ4UhBe3wFcrWHL8YMwJcZBzBEZT"
-  },
-  "B615FE0F229EEE89ABE4A6FCE8E4CE63D2F92C6F": {
-    "name": "Soccer Kid (World)",
-    "ref": "A738A2DF47F09C3BFDEDDFC01B35F3E8B5C5D99C"
-  },
-  "6B010477155F30F1ECEC7EAB2C9A7544242BBD19": {
-    "name": "Space War 2000 (World)",
-    "vid": "QmPJW65sMdxtqCWQUFfwHyHU9WPuA1PNcwipA3SZ7fwwVb",
-    "logo": "QmNym4uVncwQDYRwoHNMv3YHA7SeeecLqbxVPc7XLrRwgQ"
-  },
-  "9A58BC0C8843FD00A2871C01B91FEC206408BF80": {
-    "name": "Super Burnout (World)"
-  },
-  "EE5FEA3B99177D9E88AEEDCAD8F01173F1062B87": {
-    "name": "Super Burnout (World) (Demo) (WCES 1995)"
-  },
-  "C71E0BC9EEED8670C6E7CCC7A0FE3B815D7BAC83": {
-    "name": "Supercross 3D (USA, Europe)",
-    "vid": "QmcDoGsfHELmkyfUoTmXBwLcM83eRrwwmp8mtxjwNAD4ca",
-    "logo": "QmWNmY4HTPqNX4kC7yc9UahevNSptFdC7BCg1g49c855Ye"
-  },
-  "A226086571C857F3796FD664BBC2C8FE99C78224": {
-    "name": "Syndicate (World)",
-    "vid": "QmZcBy1r8Tg2KdVPUniJHyf75LXPxhjEX1NEkksZMVWNSa",
-    "logo": "QmQwKmMx7Rbvz3J7w4ChsrjoBFh2vcYEx3A8m1GdcTX8Ed"
-  },
-  "3828D2F953224D06B5FE7AB3644D6A75FDFE79E3": {
-    "name": "Tempest 2000 (World)",
-    "vid": "QmXvDFkX7YmDsHvUiJupbTiXEefFzqTQecktmnzFMRjkff",
-    "logo": "QmcVjqiqF82wvqVkucrthJwhT8BsUUowFwNLYMkCNmpjtK"
-  },
-  "9AD03858597AA1E1FFF26250996B07D1A70D1296": {
-    "name": "Thea Realm Fighters (USA) (Proto 1)"
-  },
-  "07C76D3F4AE05B75EA7AD62147172FD146F4F876": {
-    "name": "Thea Realm Fighters (USA) (Proto 2)"
-  },
-  "24DA4FE776AE9DAA86CF643C703EC0F399C77521": {
-    "name": "Theme Park (World)",
-    "vid": "QmQJG7EmAZwZWjbZ4zL9umjpTww6pR9HdRvVgfxAZwCTn2",
-    "logo": "QmdaJGvXuh8dFDgpAdW2jXSnr4pj6e7uSXULthA8t6STKq"
-  },
-  "841CE8AE1B71955D9B8DF3B80DA11FD40308EF5F": {
-    "name": "Tiny Toon Adventures (USA) (Proto)"
-  },
-  "4566B33799A7C65B3E9643383D0282172FF619A5": {
-    "name": "Total Carnage (World)",
-    "vid": "QmaDdW5niQbiwpN4T5CDGi9x6iFtWsVLokF8vCviKZgHf5",
-    "logo": "QmZfJ4Z8e4CNcmLgPKQAWEqjpRt6sqkdoKRkNyDtYdXq8o"
-  },
-  "1EF1B86ABF725F32267BFA140DC049CE9BA92AEA": {
-    "name": "Total Carnage (World) (Beta)",
-    "ref": "4566B33799A7C65B3E9643383D0282172FF619A5"
-  },
-  "BBE7FFB97FC07CEBE53099C8ACCE01366D7F7E15": {
-    "name": "Towers II - Plight of the Stargazer (USA, Europe)"
-  },
-  "88E86085932AF10DFB8C94032F73A5992A30B55C": {
-    "name": "Trevor McFur in the Crescent Galaxy (World) (Rev A)",
-    "vid": "QmaDA59oWsebKK5xJm4MMtcE26smcfjd2CbfTGesKCuP9Q",
-    "logo": "QmQkNeADHymrTFwyueXEemhWeZssNK8mkrqn5KQGipogox"
+  "2AB78090E8AFD985CA4FE54DA8DAEF7E125550FA": {
+    "name": "Virtual VCS (USA) (Proto)"
   },
   "2F0E950517D26C83408E5CF210098C0897725537": {
     "name": "Trevor McFur in the Crescent Galaxy (World) (Beta)",
     "ref": "88E86085932AF10DFB8C94032F73A5992A30B55C"
   },
+  "311E41EBBA1B78F514BF16789DDB7E7E8DFB47FF": {
+    "logo": "QmbKxD6MNUuRDLX8Q5Syzcwdjdfot4wjADemAf7wnD6rZw",
+    "name": "Ultra Vortek (World)",
+    "vid": "QmVjygYsL4ZXhhUp1V7W2FRQq6kcB8Gi8XQGfLMf1x3paU"
+  },
+  "32FF3811F8F6DF8A2BB56165C62227A3A480E55C": {
+    "logo": "QmSRcjgwAWLouMTYq6GFQQSghH28yg8fGQHwYjbj7nA2w7",
+    "name": "Zool 2 (World)",
+    "vid": "Qmerp8YE5HYS4MyP8jnjY2YMNJbChZr2jGbuttMsXz16F4"
+  },
+  "34A9941459E3B66C836F25B3EF55303734B9583E": {
+    "name": "Skyhammer (World)"
+  },
+  "3650143BD057DD39B96E0AD0207778353F17ABE7": {
+    "name": "Kasumi Ninja (World) (Demo)",
+    "ref": "2327112B9C6F9B0E49C55DEF0ADB8119EE39CE29"
+  },
+  "37FE344383D7991D19BF2C862D29A20EAF1DA8EF": {
+    "name": "Fight for Life (USA, Europe) (Beta) (1995-03-22)",
+    "ref": "9F5B8844D58BB1C174DA4824EABBFD8616BA28D2"
+  },
+  "3828D2F953224D06B5FE7AB3644D6A75FDFE79E3": {
+    "logo": "QmcVjqiqF82wvqVkucrthJwhT8BsUUowFwNLYMkCNmpjtK",
+    "name": "Tempest 2000 (World)",
+    "vid": "QmXvDFkX7YmDsHvUiJupbTiXEefFzqTQecktmnzFMRjkff"
+  },
+  "3D3E6C7E552CBA5F99B6EBC15B951CE4BD956766": {
+    "name": "Native (USA) (Proto)"
+  },
+  "3DB485AAA28A817F468739A85E3F25741C3855AD": {
+    "logo": "QmW7ooQuquXj9SmMRnm9jzanXbyFoiXKwkczFMr38nhUet",
+    "name": "I-War (USA, Europe)",
+    "vid": "QmXXvJayEvptD1RNg5RBwYYdSv2hfV4RGRnbqVbHu5twiB"
+  },
+  "3EA9053A63A3B0165CCEC91E85F0E699A998DC0A": {
+    "logo": "QmcffN7HbkieG9gXHkZ72nviP425m8xMbYh2BxCwnvLAvN",
+    "name": "Missile Command 3D (World)",
+    "vid": "QmZGwx2ZMDBK2XsPyrvGAujU34Fx6fqWDP85SKg8yyxLxr"
+  },
+  "3EC9524921D07647F527E0A82A831F794A7D6D9B": {
+    "name": "Phase Zero (World)"
+  },
+  "4566B33799A7C65B3E9643383D0282172FF619A5": {
+    "logo": "QmZfJ4Z8e4CNcmLgPKQAWEqjpRt6sqkdoKRkNyDtYdXq8o",
+    "name": "Total Carnage (World)",
+    "vid": "QmaDdW5niQbiwpN4T5CDGi9x6iFtWsVLokF8vCviKZgHf5"
+  },
+  "4733CF2EDE2713467F2A80B052AB94EDF6DFE534": {
+    "logo": "QmNmKQXYJMkmwnj6mmgPAM6rsmftpNeqrh4ATzggKKJnfo",
+    "name": "Pinball Fantasies (World)",
+    "vid": "QmUX4sQRATEybMWuzwogeUjUZ7vFxGnYyhncrze5MmZ9WK"
+  },
+  "47B9580EB9EEA121CF080CDBDC4AFE7FB7A19AB5": {
+    "name": "Iron Soldier 2 (USA, Europe)"
+  },
   "489B0FE9F070AD27F63A17AA8F0D2AFAA4DABDB3": {
     "name": "Trevor McFur in the Crescent Galaxy (World)",
     "ref": "88E86085932AF10DFB8C94032F73A5992A30B55C"
   },
+  "49716A6A3A4C6ABEEA36040F26C4E8CF2A545DF7": {
+    "name": "Battle Sphere Gold (World)"
+  },
   "4C6A6432EA0BC198F900F4EBDB8A3A7A34475D84": {
+    "logo": "QmYFg6g3WcSCA7Akoq8dMrVCR27XxUC13iEminXUFWWXJf",
     "name": "Troy Aikman NFL Football (World)",
-    "vid": "QmTyfEp2q2FLfEX6gH27aufVfydfEtPfjYm2aJsp7LbgAj",
-    "logo": "QmYFg6g3WcSCA7Akoq8dMrVCR27XxUC13iEminXUFWWXJf"
+    "vid": "QmTyfEp2q2FLfEX6gH27aufVfydfEtPfjYm2aJsp7LbgAj"
   },
-  "311E41EBBA1B78F514BF16789DDB7E7E8DFB47FF": {
-    "name": "Ultra Vortek (World)",
-    "vid": "QmVjygYsL4ZXhhUp1V7W2FRQq6kcB8Gi8XQGfLMf1x3paU",
-    "logo": "QmbKxD6MNUuRDLX8Q5Syzcwdjdfot4wjADemAf7wnD6rZw"
-  },
-  "E3BD433BC4A573F3B05652239A6614C3878A04D1": {
-    "name": "Ultra Vortex (World) (Beta) (1995-03-20)"
-  },
-  "02253D93EEF375C8334F1F77A2D8B72FFF7A94C6": {
-    "name": "Val d'Isere Skiing and Snowboarding (World)"
-  },
-  "2AB78090E8AFD985CA4FE54DA8DAEF7E125550FA": {
-    "name": "Virtual VCS (USA) (Proto)"
+  "4D0CC8D248A8BD0FC4B8169C5D5772E59C073C59": {
+    "logo": "QmYKfShHBmErdpVQVdWaF1bwSb6xwexpjrPrKKjRextc9t",
+    "name": "Checkered Flag (World)",
+    "vid": "Qma4iVerm6svScmwC83dpydmAYLQR1NUHTuNkns1JxEJRe"
   },
   "4D16596AC2D991435599E1FE03292ADFB25C346D": {
     "name": "White Men Can't Jump (USA, Europe)"
   },
+  "4E55A5991725A4B557F4DAF75A0FA38EC667217A": {
+    "name": "Aircars (USA) (Beta) (1994-11-14)"
+  },
+  "4F87982B6E16072E58A5653A3F763C8B4B3BFFCC": {
+    "name": "[BIOS] Atari Jaguar Stubulator '94 (World)"
+  },
+  "50CCF7043A702531A0E9EF86D629D5EDE5255C13": {
+    "name": "Raiden (World) (Rev A)"
+  },
+  "52EC786F7536AB043DC24725AF94068CAD2B0EC3": {
+    "name": "Zoop (USA, Europe)"
+  },
+  "533C497761CC802624708108BC9EF6E7C4F40296": {
+    "name": "Aircars (USA)"
+  },
+  "542063A5B27659781A85821F61E85CD89EA59AB3": {
+    "name": "Arena Football '95 (World)"
+  },
+  "589EFBC772360FA51EDDC096A162C8D9FE7838D3": {
+    "name": "Cybermorph (World) (Beta) (1993-08-23)",
+    "ref": "E00AB55F555FD1FE63B4FCE66A9B8FFE3485963E"
+  },
+  "5B2295907F6FDADF5F44B1E392DCD6F5471FD095": {
+    "name": "Frog Feast (World)"
+  },
+  "5BE3DA69A64B779D064D139968FADBE1C475C715": {
+    "logo": "QmdZbMCrPHFmjWxsdwAi9VTroT7ADXG7ZmVpF97yWjjuWq",
+    "name": "Fever Pitch Soccer (World) (En,Fr,De,Es,It)",
+    "vid": "QmZRt4vXXPvkKiLihkBuHgCNfnso14YPHbqhD8WsaXzw9f"
+  },
+  "61D4DB841C090AE3104EB20B6087160FF80E7A12": {
+    "ref": "886CBBAA434D6E1E7FC4401BB6D176C2788C4D19"
+  },
+  "641B07F93E8DF03AB8B9BF1E8DC56E2889F247F8": {
+    "logo": "QmNXexYonZXnNi4kKfDezNkX1Dg8tuU3iN7518sFtupyre",
+    "name": "Worms (USA, Europe)",
+    "vid": "QmcahTbiuzvNm1ZXSoVKiULmxpGGjCAN3ZQpcxgHZFQ6RB"
+  },
+  "6588F7D677463D0EF10CF905D44A2581FD9DD055": {
+    "name": "Club Drive (World)"
+  },
+  "6B010477155F30F1ECEC7EAB2C9A7544242BBD19": {
+    "logo": "QmNym4uVncwQDYRwoHNMv3YHA7SeeecLqbxVPc7XLrRwgQ",
+    "name": "Space War 2000 (World)",
+    "vid": "QmPJW65sMdxtqCWQUFfwHyHU9WPuA1PNcwipA3SZ7fwwVb"
+  },
+  "73883E7A6E9B132452436F7AB1AEAEB0776428E5": {
+    "name": "[BIOS] Atari Jaguar CD (World)"
+  },
+  "752D6E1ED185F9DB49230F42319A573A44E32397": {
+    "logo": "QmcUtsD4orEMZjoPbjk3h2YTS3Ug55pF4RhvGFCbExUBcV",
+    "name": "Bubsy in Fractured Furry Tales (World)",
+    "vid": "Qme3hphX7hkwVJWpYwcFnxU6u2Y8J7TB9JFpKcAsMuxDQh"
+  },
+  "75EE0AB0DABA31284A1DFF27F3C247885F5A427A": {
+    "logo": "QmWmPqprXS7jj5SmZB1cpBNTVaDxqdMzpfbMj8ZPj9iQer",
+    "name": "Power Drive Rally (World)",
+    "vid": "QmRfWpZnaUhLZjmPDuMk1JKkrvJ8EM7S72vsB64hZZveED"
+  },
+  "7E4356FECBEADD741C2BF9868A37B2956BD27D5E": {
+    "name": "Zzyorxx II (USA) (Demo)"
+  },
+  "7F21C6DE18C46629C0D54E68143D619093B4B8D6": {
+    "name": "Brett Hull Hockey (World)"
+  },
+  "8043E3B521EA00E806D3AB79C6C548A140944DB1": {
+    "name": "Protector (World)"
+  },
+  "80ED1EE5B8ACADDFB64A5C0BBDA2BFC14BDB5DA5": {
+    "name": "Alien vs Predator (World) (Beta) (1993-08-18)",
+    "ref": "FD8C89250EBC1E403838B2E589D1F69E3FE2FE02"
+  },
+  "824613451BE0B99020FC02E5DBA15C45E76FC8C2": {
+    "logo": "QmTGeRg29B8rinMjgnRXE352VnZn2qe1kaRGdwkyLbSPug",
+    "name": "Flashback - The Quest for Identity (World) (En,Fr)",
+    "vid": "QmSUe7urtRuLe4KkZpqXoVPsFHYsU7FiYLrwmwsfXD4QnU"
+  },
+  "8377FF6C6527721E2E7F8458314D782925CE4590": {
+    "name": "[BIOS] Atari Jaguar Stubulator '93 (World)"
+  },
+  "841CE8AE1B71955D9B8DF3B80DA11FD40308EF5F": {
+    "name": "Tiny Toon Adventures (USA) (Proto)"
+  },
+  "886CBBAA434D6E1E7FC4401BB6D176C2788C4D19": {
+    "logo": "QmW8jpj4BKCKmEd2FjGEV14rRd4mMWcmALzW1ULdaF7k3J",
+    "name": "Flip Out! (World)",
+    "vid": "QmZDAGfvPwuWWzcn2PtWJZgrPNbnccfHj6yg8WSWvmJPyX"
+  },
+  "88E86085932AF10DFB8C94032F73A5992A30B55C": {
+    "logo": "QmQkNeADHymrTFwyueXEemhWeZssNK8mkrqn5KQGipogox",
+    "name": "Trevor McFur in the Crescent Galaxy (World) (Rev A)",
+    "vid": "QmaDA59oWsebKK5xJm4MMtcE26smcfjd2CbfTGesKCuP9Q"
+  },
+  "89306ADA943C87DA740E6166F1F53837566513E2": {
+    "name": "Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-13)"
+  },
+  "8BDEFC60DD1734315E1C145E29ABF41800F908CB": {
+    "name": "Iron Soldier (World)"
+  },
+  "8F4C964D2411A52C64EEC1D1A3061F77117BB7A6": {
+    "name": "Battle Sphere (World)"
+  },
+  "8F556976F42C393858127D99112264E6A5A9AE19": {
+    "name": "Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06)",
+    "ref": "DA7F5DAC4317AB0258F54DA436ABB8D89E530F27"
+  },
+  "93A29D894F5472EB755D13E721414A6BD9686C02": {
+    "name": "Club Drive (World) (Beta)"
+  },
+  "94E615E7A57F7C08645322870121BB32310298F5": {
+    "name": "Hover Strike (World)"
+  },
+  "988897FD517EBD86742971205F3B29F9D70B5686": {
+    "name": "Barkley Shut Up and Jam (World) (Beta)"
+  },
+  "9A58BC0C8843FD00A2871C01B91FEC206408BF80": {
+    "name": "Super Burnout (World)"
+  },
+  "9AD03858597AA1E1FFF26250996B07D1A70D1296": {
+    "name": "Thea Realm Fighters (USA) (Proto 1)"
+  },
+  "9C96E6C2195CE56AA930E677A041B35BD9B8BC7E": {
+    "logo": "QmP4Lo8YAX9ZJ6rUJdGCoKfLByc4RKfqQt8Xd4C89J5wjy",
+    "name": "Atari Karts (World)",
+    "vid": "QmYYH6BQAhCkGpidXcKgqf1xnxLzynkuvTBBdBdG4K5tzo"
+  },
+  "9D2F894DA3F25944C2F33E3A109AE8D0D951D329": {
+    "name": "Raiden (World)"
+  },
+  "9F5B8844D58BB1C174DA4824EABBFD8616BA28D2": {
+    "logo": "QmTGRDYyEoyCXgZrKXbC9F1K42JujeWeYhzux3qbW7vZxh",
+    "name": "Fight for Life (USA, Europe)",
+    "vid": "QmehEeSFr4pVNWtSjqg6SWJNwe1eo3nJNtoQGW4pspgZ68"
+  },
+  "A226086571C857F3796FD664BBC2C8FE99C78224": {
+    "logo": "QmQwKmMx7Rbvz3J7w4ChsrjoBFh2vcYEx3A8m1GdcTX8Ed",
+    "name": "Syndicate (World)",
+    "vid": "QmZcBy1r8Tg2KdVPUniJHyf75LXPxhjEX1NEkksZMVWNSa"
+  },
+  "A738A2DF47F09C3BFDEDDFC01B35F3E8B5C5D99C": {
+    "logo": "QmYTz3N7NpzHJQYGZ1WJ4UhBe3wFcrWHL8YMwJcZBzBEZT",
+    "name": "Soccer Kid (World) (Beta)",
+    "vid": "QmVQshtfgntHzVn8ZVZdf8i5A36YYNNqUJaLJuF6KdG1GC"
+  },
+  "AE497F4839BDE6C12C87C651A80633A23D6D0713": {
+    "name": "Defender 2000 (World) (Beta)",
+    "ref": "13A4084BD5BE1CCA21D83D4C26B5B8E5CF1A3E30"
+  },
+  "B5DA0B1231A6E6532268C4E04F74E56F047DD5A5": {
+    "ref": "6B010477155F30F1ECEC7EAB2C9A7544242BBD19"
+  },
+  "B615FE0F229EEE89ABE4A6FCE8E4CE63D2F92C6F": {
+    "name": "Soccer Kid (World)",
+    "ref": "A738A2DF47F09C3BFDEDDFC01B35F3E8B5C5D99C"
+  },
+  "B68DE2CD49CB70E92F2415837EDFA7AB46770A78": {
+    "logo": "QmawCN7c7wHCrM4e6XHixQgDxLyQUXbfXWZk8Wc3Zakbeg",
+    "name": "Zero 5 (USA, Europe)",
+    "vid": "QmQjnfGuuznkcmCTP54nKsEMfvPVDKiBvYvWE4KwauxdAF"
+  },
+  "B9C8FF2D26FE1E91ECD6D59B9F3F76C5B5650F26": {
+    "logo": "QmbFV1DVEettBHxrAs5YfdHmKXVRhKtEVnrig3afbN5Emp",
+    "name": "NBA Jam - Tournament Edition (USA, Europe)",
+    "vid": "QmcYQvFP6WC8y6nAhVVBEjGSK1uMrof5fjSFGnNNDAosto"
+  },
+  "BA34DE71A8D278BA76BAD19964D2D886DDB94A2E": {
+    "name": "Rayman (World) (Beta 2)",
+    "ref": "D22912992FD966365A1221886E0FC5303EF04A59"
+  },
+  "BBE7FFB97FC07CEBE53099C8ACCE01366D7F7E15": {
+    "name": "Towers II - Plight of the Stargazer (USA, Europe)"
+  },
+  "BF00EC1FCA2A97BEAF28D52140DF2006B1120C67": {
+    "name": "Checkered Flag (World) (Beta) (CES 1993)",
+    "ref": "4D0CC8D248A8BD0FC4B8169C5D5772E59C073C59"
+  },
+  "C71E0BC9EEED8670C6E7CCC7A0FE3B815D7BAC83": {
+    "logo": "QmWNmY4HTPqNX4kC7yc9UahevNSptFdC7BCg1g49c855Ye",
+    "name": "Supercross 3D (USA, Europe)",
+    "vid": "QmcDoGsfHELmkyfUoTmXBwLcM83eRrwwmp8mtxjwNAD4ca"
+  },
+  "C8F29D04DACCE1A83A1C93AB351737795D0F55DB": {
+    "name": "Breakout 2000 (USA, Europe) (Beta)"
+  },
+  "C92F1FF8EC83EBBE0F77F5A665169408DF53B528": {
+    "name": "Fight for Life (USA, Europe) (Beta) (1995-09-07)",
+    "ref": "9F5B8844D58BB1C174DA4824EABBFD8616BA28D2"
+  },
+  "C9AA59769DF207D85D9212D619C266C793C9063B": {
+    "name": "Cybermorph (World) (Rev B)",
+    "ref": "E00AB55F555FD1FE63B4FCE66A9B8FFE3485963E"
+  },
+  "CDFEFDF28DD9127F7A9425088A1EE3EA88DFB618": {
+    "logo": "QmaqeNB3qRTvDxozJ8p7rJZKzX57TpnDjVS8JBcEkmPBs9",
+    "name": "Brutal Sports Football (World)",
+    "vid": "QmPbw6drqyPkDuiKHThjNFH7SmPxsSDS7ago76MQwpprCX"
+  },
+  "CECEC725301D7540F9392618F4FC948DEF88D398": {
+    "name": "Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-16)"
+  },
+  "D22912992FD966365A1221886E0FC5303EF04A59": {
+    "logo": "QmXtq7N3BL8y2BkN2juk7Rk9FqJSFkj267XxKmP4hsNMY6",
+    "name": "Rayman (World)",
+    "vid": "QmbzbRxhpyotMMDtuXHruJvN1sjh1JNP8dBEtejf87cdEr"
+  },
+  "D61B7B5912118F114EF00CF44966A5EF62E455A5": {
+    "name": "[BIOS] Atari Jaguar Developer CD (World)"
+  },
+  "D66B4E5F9AC27D53F0D781C741E420698630B9FC": {
+    "logo": "QmXuVrogv2aTxNg6DFFLgei1cuCKyEH7uWdSebHFwCFF4P",
+    "name": "Double Dragon V - The Shadow Falls (World)",
+    "vid": "QmRR3VtTRZu5DTAqFoms9VGq57x1NLsSKxnvrgWvqJiW4c"
+  },
+  "DA7F5DAC4317AB0258F54DA436ABB8D89E530F27": {
+    "logo": "QmWkpKyEEyizMT6vMyaUQcMpAWdW8x5ErjXqM8H84CkXZw",
+    "name": "Dragon - The Bruce Lee Story (World)",
+    "vid": "QmWPaYLEJ4X7obTauVgYqhA3dKjnGNEMYEK6TA8zRB3wM7"
+  },
+  "DD6F15CDA5A84E0F93BB04D24F61727A8276AE58": {
+    "name": "Rayman (World) (Beta 1)",
+    "ref": "D22912992FD966365A1221886E0FC5303EF04A59"
+  },
+  "DDEA86820DCAA1A67BD82CF8023F9B3C494357B0": {
+    "logo": "Qmf9zXG3HqDCwME9Nwft7BNP1MBNTNBhLwCC2NWP3EkML1",
+    "name": "Protector - Special Edition (World)",
+    "vid": "QmNeW9TBPfpVywZ7H7YSQuGgc8bqLAHy5DWwtbPPw9eY47"
+  },
+  "E00AB55F555FD1FE63B4FCE66A9B8FFE3485963E": {
+    "logo": "QmPAtutb1eQvfsnHRLRxk6Na5DUVNGfksxfCqsqi7CT6pE",
+    "name": "Cybermorph (World) (Rev A)",
+    "vid": "QmdrHLeu5mMh6pGU1aodsTVt96UYZCwPN6H2Zi1mpZU2PG"
+  },
+  "E0DB2FDEA7F95743C1EF452B7D289F5FE8158E33": {
+    "name": "Ruiner Pinball (USA, Europe)"
+  },
+  "E3BD433BC4A573F3B05652239A6614C3878A04D1": {
+    "name": "Ultra Vortex (World) (Beta) (1995-03-20)"
+  },
+  "E99FF0ADD256BD45394C9ED8728E38B458CFE5E6": {
+    "name": "High Voltage C Maze (USA) (Demo)"
+  },
   "EE553176F0A32683B517B84B12C6FAE13C15C3D0": {
     "name": "Wolfenstein 3D (World)"
   },
-  "641B07F93E8DF03AB8B9BF1E8DC56E2889F247F8": {
-    "name": "Worms (USA, Europe)",
-    "vid": "QmcahTbiuzvNm1ZXSoVKiULmxpGGjCAN3ZQpcxgHZFQ6RB",
-    "logo": "QmNXexYonZXnNi4kKfDezNkX1Dg8tuU3iN7518sFtupyre"
+  "EE5FEA3B99177D9E88AEEDCAD8F01173F1062B87": {
+    "name": "Super Burnout (World) (Demo) (WCES 1995)"
   },
-  "B68DE2CD49CB70E92F2415837EDFA7AB46770A78": {
-    "name": "Zero 5 (USA, Europe)",
-    "vid": "QmQjnfGuuznkcmCTP54nKsEMfvPVDKiBvYvWE4KwauxdAF",
-    "logo": "QmawCN7c7wHCrM4e6XHixQgDxLyQUXbfXWZk8Wc3Zakbeg"
+  "F0914BE41331E3045BBC04225044DC3C73FD9DE1": {
+    "logo": "QmQ7UpHJPARawoiRfrVnheX2m3tLvFTctpFwz94gory8CT",
+    "name": "International Sensible Soccer (World)",
+    "vid": "QmRCxSGrsU4owDTtGhg278xZhiCScgHPQFgwk9SzTrFdvs"
+  },
+  "F8991B0C385F4E5002FA2A7E2F5E61E8C5213356": {
+    "name": "[BIOS] Atari Jaguar (World)"
   },
   "FB03CDB0B9C8171831C0E385C27BEC2D71C39400": {
     "name": "Zero 5 (USA, Europe) (Beta)",
     "ref": "B68DE2CD49CB70E92F2415837EDFA7AB46770A78"
   },
-  "32FF3811F8F6DF8A2BB56165C62227A3A480E55C": {
-    "name": "Zool 2 (World)",
-    "vid": "Qmerp8YE5HYS4MyP8jnjY2YMNJbChZr2jGbuttMsXz16F4",
-    "logo": "QmSRcjgwAWLouMTYq6GFQQSghH28yg8fGQHwYjbj7nA2w7"
+  "FD8C89250EBC1E403838B2E589D1F69E3FE2FE02": {
+    "logo": "QmcevUQ5YkCiWcNov4grof4VwqeqR8P2DH5kr7AG6E2kPM",
+    "name": "Alien vs Predator (World)",
+    "vid": "QmPF7SYwe3KYS9DxYHoNsVTnhwwFe9sdHkvnLdG7BS3Ff3"
   },
-  "52EC786F7536AB043DC24725AF94068CAD2B0EC3": {
-    "name": "Zoop (USA, Europe)"
+  "FE4C35C24BE8DF92F867B4FB42EB75A3FCC875E8": {
+    "name": "Breakout 2000 (USA, Europe)"
   },
-  "7E4356FECBEADD741C2BF9868A37B2956BD27D5E": {
-    "name": "Zzyorxx II (USA) (Demo)"
-  },
-  "61D4DB841C090AE3104EB20B6087160FF80E7A12": {
-    "ref": "886CBBAA434D6E1E7FC4401BB6D176C2788C4D19"
-  },
-  "B5DA0B1231A6E6532268C4E04F74E56F047DD5A5": {
-    "ref": "6B010477155F30F1ECEC7EAB2C9A7544242BBD19"
+  "FE66FFDC9323CFCFC64DA06E16F2D5A4A4E1A236": {
+    "name": "Slam Racer (USA) (Proto)"
   }
 }

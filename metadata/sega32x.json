@@ -1,684 +1,395 @@
 {
-  "DBEBD76A448447CB6E524AC3CB0FD19FC065D944": {
-    "name": "[BIOS] 32X M68000 (USA)"
+  "00792570C459637D46F26D0CEB301ED9D83F0098": {
+    "name": "Motherbase (Europe)"
   },
-  "1E5B0B2441A4979B6966D942B20CC76C413B8C5E": {
-    "name": "[BIOS] 32X SH-2 Master (USA)"
+  "017EE73E0F582893EF3DEEBFBE74AF4BABD532A5": {
+    "name": "Tempo (Japan, USA) (Beta) (1994-12-21)",
+    "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
   },
-  "4103668C1BBD66C5E24558E73D4F3F92061A109A": {
-    "name": "[BIOS] 32X SH-2 Slave (USA)"
+  "01C9F4614F282A05B3E86701B4CA18A1A0E1889C": {
+    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-09)"
   },
-  "B2B7938D5C9A207EFECF9F5054308F5772C8C25F": {
-    "name": "32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)"
-  },
-  "C7D56CC75DC9A5206FDA6A080CBEDAE9F48C82BC": {
-    "name": "After Burner Complete (Europe)"
-  },
-  "9CF575FEB036E2F26E78350154D5EB2FD3825325": {
-    "name": "After Burner Complete ~ After Burner (Japan, USA)",
-    "vid": "QmXhmu4UknQ9x8sXKqpHcVqy26fQNLeYjPLm2aWvTxt6f5",
-    "logo": "QmVCgEGvjJbp2EtMPomcKLMtYpxj7btDoC7ACPf5bHwufU"
-  },
-  "7CC2EA1E10F110338AD880BD3E7FF3BCE72E7E9E": {
-    "name": "Amazing Spider-Man, The - Web of Fire (USA)",
-    "vid": "QmY2UfvkYABNXMYYHD1TjyYo9AYY1pTs7JX34HnDo1pqPB",
-    "logo": "QmXy5vW5dMeN93hQWVDB6bu9JLjVFU4oooU8mSgapwq5fS"
-  },
-  "9B5FD499EAA442D48A2C97FCEB1D505DC8E8DDFF": {
-    "name": "BC Racers (USA)",
-    "vid": "QmYc5Y6WmndXmVXqBDDHepZDSdeTfa2wXuBh5o6tYr7vyD",
-    "logo": "QmdBbmwuL9Av8V4NUkAQzmAiZYz65uUECiQrnbQvtK5ZoB"
-  },
-  "4BF120CF056FE1417CA5B02FA0372EF33CB8EC11": {
-    "name": "Blackthorne (USA)",
-    "vid": "QmY2Lyvm9Aj67edWSLbra9fxNCDjwhuzZBzzjkAHDhsWhQ",
-    "logo": "QmZW49EaYYtYoSuMhWtedcXpVyUAYYgSrGq3ZqozHpBaf1"
-  },
-  "40AA2C787F37772CDBD7280B8BE06B15421FABAE": {
-    "name": "Brutal - Above the Claw (USA)",
-    "vid": "QmeEUR3hicPdf39Bx4sUe5TBYbpTAiMAuLRpdT96GhVphF",
-    "logo": "QmdNQvWp5m7C6sbB5XLge354FXgSvAJvn6oZLpHoERYe8q"
-  },
-  "0C2FFF7BC79ED26507C08AC47464C3AF19F7CED7": {
-    "name": "Chaotix ~ Knuckles' Chaotix (Japan, USA)",
-    "vid": "QmbEWyJU4u3gxTYPdcyxACtFuZbmexqeMn7Qdoz2pLbmjK",
-    "logo": "QmY3EpxxoMsNeNBzJ33JANW9btMcbEktMYQV2X3DybYowf"
-  },
-  "1D3C372B55FA1418556AEA1949995F997227B5FA": {
-    "name": "ClayFighter 2 (USA) (Proto) (1995-04-28)"
-  },
-  "900E8ECDCC4460B4C4AF3873E1D6BC83DA4AEE99": {
-    "name": "Cosmic Carnage (Europe)"
-  },
-  "F84006CEE56748BF2C7249DEC3C356409CB0E0A5": {
-    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-09-06)"
-  },
-  "926996F4B1F935CE4C3B46E902171C4B4DA16385": {
-    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-09-21)"
-  },
-  "C051DE6DCCC48352D51650F2712DBC7D62A1EC1A": {
-    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-10-07)"
-  },
-  "BBDFE2B276C255247225EFD1E8348BE57A42EF4A": {
-    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-10-11)"
-  },
-  "17CF3D4671A3313764DF42E0F9A25133B0DC4EC9": {
-    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-10-04)"
-  },
-  "99BB4C98C7DE0668934AB91A6EB01C9F680918B9": {
-    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-10-05)"
-  },
-  "512D3C9B51E2F3015265DC78757363F45FC0A788": {
-    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-09-26)"
-  },
-  "443C961BFC441B4D0ACE5F6E0A8D1BB7ABF8AC28": {
-    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-09-28)"
-  },
-  "9A563ED821B483148339561EBD2B876EFA58847B": {
-    "name": "Cyber Brawl ~ Cosmic Carnage (Japan, USA)",
-    "vid": "QmZCJxJNpjhkam6JApWQJRyZMEHArKRkykKBiGmzUZTrVg",
-    "logo": "QmQTQ7orDkaWeqoKWWkZjKQBdEUTLMXsGMYZ7Mx3yPJtak"
-  },
-  "108B4FFED8643ABDEFA921CFB58389B119B47F3D": {
-    "name": "Darxide (Europe) (En,Fr,De,Es)",
-    "vid": "QmTE1L83xmeLMc4VbZEmcXPydZUGzTfzYUznXC3K2GZc6M",
-    "logo": "QmUZEd1ZxCLckrWjCGitPgV8z1Eneh35hJtDHVCsLqj4Pr"
-  },
-  "4EC03C2114EBFFBBCD16859583340D4EA4CD8DD5": {
-    "name": "Doom (Europe)",
-    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
-  },
-  "B68E9C7AF81853B8F05B8696033DFE4C80327E38": {
-    "name": "Doom (Japan, USA)",
-    "vid": "QmVAc3UYR2JhSqWofmu19WnJaLH45vkH1ttgKEhb7ww4bC",
-    "logo": "QmdUBvBiqBKoMPs9jxuojR3PdyCEx81Zqt7JKGDmZTof4H"
-  },
-  "5697176636DF575D8B65480708EFA85544D44302": {
-    "name": "Doom (Japan, USA) (Beta) (1994-09-09)",
-    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
-  },
-  "C3E78C38CFD2516F943A10F435664BA06790F1C4": {
-    "name": "Doom (Japan, USA) (Beta) (1994-09-25)",
-    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
-  },
-  "F7539C406821B5AE4BCB0F41FE2839D07AB1FDB2": {
-    "name": "Doom (Japan, USA) (Beta) (1994-09-27)",
-    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
-  },
-  "E472548171A4E6183F16618BFCB5B6C09E7D6744": {
-    "name": "Doom (Japan, USA) (Beta) (1994-09-23)",
-    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
-  },
-  "4FDA0184D688886314D929224D92B4A35C712675": {
-    "name": "Doom (Japan, USA) (Beta) (1994-09-06)",
-    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
-  },
-  "1BF7BC1FC2EAFE71D1E72608566D5C0D01D5C79C": {
-    "name": "Doom (Japan, USA) (Beta) (1994-09-14)",
-    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
-  },
-  "2945DA1E6452B194FBBE44A685864A2000EA5CFD": {
-    "name": "Doom (Europe) (Beta) (1994-10-02)",
-    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
+  "04EFCF2802B11E130378734671FF8CFB78FACD67": {
+    "name": "Mars Sample Program - Gnu Sierra (Unknown) (SDK Build)"
   },
   "0530D326B75E97B04530761F50CED4A226B183D2": {
     "name": "Doom (Japan, USA) (Beta) (1994-09-16)",
     "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
   },
-  "B2349F625AC077222B49F0E507C552B24C824BD2": {
-    "name": "Doom (Japan, USA) (Beta) (1994-12-01)",
-    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
-  },
-  "2A2C80ADB1CF62A71581400357951B2007770E8B": {
-    "name": "Doom (Japan, USA) (Beta) (1994-09-21)",
-    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
-  },
-  "A2D5B5ACC7E19ABFB927BB0ED110D80D685510C9": {
-    "name": "Doom RR (Japan, USA) (Beta) (1995-03-07)"
-  },
-  "B298AD7BACCA89770BCD6DEA796E5DBBFB72E642": {
-    "name": "Doom RR (Japan, USA) (Beta) (1995-02-21)"
-  },
-  "63568023C907D636133E1A2FD140AFBADB910E98": {
-    "name": "Doom RR (Japan, USA) (Beta) (1995-02-15)"
-  },
-  "10409F2245B058E8A32CBA51E1EA391CA4480108": {
-    "name": "Ecco the Dolphin (USA) (Demo) (Developer Cart)"
-  },
-  "131EBB717DEE4DD1D8F5AB2B9393C23785D3A359": {
-    "name": "FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)",
-    "vid": "QmbyWej7aLfZqaBztfpshZXG8fCex8ZX3kMDhRMAeoiEER",
-    "logo": "QmUFiYf86giDc5m1FbZcdHovRcKD1vsPmv9pu1jxaoxgqm"
-  },
-  "DC77B1E5C888C2C4284766915A5020BB14EE681D": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA)",
-    "vid": "Qmf97dFJKYDrPxqDK75fXJq9usGrUVemkT8Y46QQFkAi6J",
-    "logo": "Qmdy9VTcLhUvoRAp89rT88XkPBaX97F4eih5wVm3jH1xaL"
-  },
-  "55848F7C54533FD2A19011DB661EF261CD8BDB22": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "6A066C44D71199D62DBC368EFBC371DD01CC95E1": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-07-06)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "94C994CE74377EC726B4C0803B51FD4CA6CC4389": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-11)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "83B70BEA9EFA281DD5119334A28EF33BC7426325": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-17)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "41E12CB8465ACB6E0180DEEA9B34C2554E3F79E1": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-18)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "2093A7437062DC21C4440A360DD177102CA6CC88": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-24)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "91D78A15094C20FB6A8103D5ADDBAA4F90D199B8": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-26)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "F6B944876B40B5A52BF1293B71373CB3F5C71A14": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-01)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "7C295CB39408D21835B76C2C1AEB03B659094593": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-03)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "EFF8337257B0CC6221CE459D32191F7D63450D1C": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-05)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "EA7539DBEAA86FDC36132E85BE48F6577FB6DBB9": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-07)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "F317903C11777991417ABF95CC45D4888BEE25D6": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-08)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "33620D0BB49C52A24563958B4CAEC883B2009A90": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-09)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "3BFF7D113FA7487D015A54D8F27050F2CF296106": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-16)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "2EA5FCDFFA9B8F22B1468EEB2E76134D3F1B3BE6": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-19) (Alt 1)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "5FC3837BA3B98F9F2C560D3775DA969798A150EE": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-19)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "34D7BF6B86C877AB068390F660073016A95711E3": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-21)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "A6BEE7800F73E2CA12381432154B636DDD279412": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-22) (Alt 1)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "ABE1D16DFF2B2C1752E2F47BB15F97F049D6BFC0": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-18)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "FA2F2D3887BB3E6010A5C13289F63681CAC0404A": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-23)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
   "0590FF4405FCD0CA8F2FC5293690330FDF63127A": {
     "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-22)",
     "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "541DDFAC44323C589AD23F51A5BE984ECFA55539": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-26)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "AFA1F5C2DAB7DE2114D3A34794785B0D6768D95C": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-27)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "E341E5FCA64DEF64C019310D4F551FF48908291B": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-28)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "5658FEBD37534280962DC6801EFC10604B07603F": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-29)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "5B1140E33357A3D0FDC056AB5A350D588B5E5AF9": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-02)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "AF8EADCF49D0700C7479648865CC08CD40BC2808": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-06)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "F0D06074B1B5CE2DF77FDAAF74620158EFB7F875": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-28) (Alt 1)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "6398A442595650D70A5CE20A52331899C0DFAF62": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-13)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "19681B2E5D1EAFAA09401DCA296BEA884FBC08C1": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-30)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "7CA51AD03EBB95F017A1B900A4A1592876D0D5C2": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-03)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "E28AB68E8AED7AA8E9F33A6E9C68678272DF4D95": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-19)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "23E84EC4D8CEC09992FCFF323F32F49F44D23CD2": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-21)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "F78481E57111295C2F5AEB64CD306C3C5FBF6D97": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "6A1801EF96CC8C4A6896AB55E105F7FA8D707F51": {
-    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21)",
-    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
-  },
-  "5C1A2E327A656217604D4BAE7E141764A7E59922": {
-    "name": "Knuckles' Chaotix (Europe)"
-  },
-  "150DACE1482EBF38A0F6242BE6D8B7EA19F8A737": {
-    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-07)"
-  },
-  "C62A8BE339FFD9DD182A3F8E60B6E27225CFC5F2": {
-    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-27)"
-  },
-  "883C7748C3C352B44238D2BDC9152AC9651E99FB": {
-    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-30)"
-  },
-  "882CE770F32F4AF61AC422ACCECC8A84E1C52CD3": {
-    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-01-12)"
-  },
-  "2B1A5F19113FA4015437EDE5A195C5DFB377E5BE": {
-    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-01-19)"
-  },
-  "4E4AF26F944CF3B5D99F60F37B20DC67207A4FBE": {
-    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-07)"
-  },
-  "D965D12C8CCE09683D80C08D06C74B7C6E7B8DAB": {
-    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-08)"
-  },
-  "01C9F4614F282A05B3E86701B4CA18A1A0E1889C": {
-    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-09)"
-  },
-  "4C13842ABEDA86CE6577DA67BA5FC24FBFBDC0DE": {
-    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-10)"
-  },
-  "0CBBCC96F23917FEB844469163BC8AB14DA94816": {
-    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-13)"
-  },
-  "88B122398C1B25F432AE845B799F1308F51AA055": {
-    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-13) (Alt 1)"
-  },
-  "AF3BFD9540098581AEF08664D625725FFCC90BE2": {
-    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-14)"
-  },
-  "191AE0B525ECF32664086D8D748E0B35F776DDFE": {
-    "name": "Kolibri (USA, Europe)",
-    "vid": "QmSBuTdE4YnzKXTGePDioqq9QAzgeoAdHx2oqmkz96zdrZ",
-    "logo": "Qmd8AVw9r1YaEzYRRL8RfqFtgYnL47AMwETY1emX7k5YXJ"
-  },
-  "7654C6D3CF2883C30DF51CF38D723AB7902280C4": {
-    "name": "Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1)"
-  },
-  "BBC6A66AD9268A3BB6E35E565E770581E7FE8AC2": {
-    "name": "Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2)"
-  },
-  "04EFCF2802B11E130378734671FF8CFB78FACD67": {
-    "name": "Mars Sample Program - Gnu Sierra (Unknown) (SDK Build)"
-  },
-  "D038D88CF518116FCB4DF72DF51DBC0C374792E2": {
-    "name": "Mars Sample Program - Pharaoh (Unknown) (SDK Build)"
-  },
-  "56566575DE6D1D42630F688EB0EEB1A93EBE2624": {
-    "name": "Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build)"
-  },
-  "885ABD1DE7B67B115057610D94F24B1B4E294706": {
-    "name": "Mars Sample Program - Texture Test (Unknown) (SDK Build)"
-  },
-  "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0": {
-    "name": "Metal Head (Japan, USA) (En,Ja)",
-    "vid": "QmXnLaEgiAYkrEg7be1xKELLWSm6dmFHRBV7QZkGAM9waJ",
-    "logo": "QmdTadkY5tjCpGgPRuYAY6sYDmogBJEfmgEswAftANQ1iu"
-  },
-  "2A7767024E23B55FE193D586A96A3BA3C92E7EA8": {
-    "name": "Metal Head (Europe) (En,Ja)",
-    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
-  },
-  "A81DB052A095360439A1DA6E41AC19B91561AB27": {
-    "name": "Metal Head (Japan, USA) (Beta) (1994-11-14)",
-    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
-  },
-  "A943EA135D6C685F87957503697CB9F894E12C52": {
-    "name": "Metal Head (Japan, USA) (Beta) (1994-11-18)",
-    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
-  },
-  "E7667F4A4342A5A45B0A010F0FE2E61B2BF99FEA": {
-    "name": "Metal Head (Japan, USA) (Beta) (1994-11-21)",
-    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
-  },
-  "194F45A0651A59305E0E727E407801FF09968A62": {
-    "name": "Metal Head (Japan, USA) (Beta) (1994-12-02)",
-    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
-  },
-  "438E172B22EF2B78F5BCEB3195DA408639AE463C": {
-    "name": "Metal Head (Japan, USA) (Beta) (1994-12-07)",
-    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
-  },
-  "D82B26783F0843FAABE526167EABF296C84B0C47": {
-    "name": "Metal Head (Japan, USA) (Beta) (1994-12-07) (Alt 1)",
-    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
-  },
-  "4D795A7ECAB65527E6538EF886C3C3783A1BA936": {
-    "name": "Metal Head (Japan, USA) (Beta) (1994-12-09)",
-    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
-  },
-  "5A38DCE482C7FE38A50C6FD8884B019F1ACAB2A1": {
-    "name": "Metal Head (Japan, USA) (Beta) (1994-12-13)",
-    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
-  },
-  "8D7A9F78860342643502E2BA77B445B4DC7E078E": {
-    "name": "Metal Head (Japan, USA) (Beta) (1994-12-20)",
-    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
-  },
-  "F75698DE887D0EF980F73E35FC4615887A9AD58F": {
-    "name": "Mortal Kombat II (Europe)",
-    "ref": "D55964BD935110AC2D9CBD3B085B7E8B71B11DF2"
-  },
-  "D55964BD935110AC2D9CBD3B085B7E8B71B11DF2": {
-    "name": "Mortal Kombat II (Japan, USA)",
-    "vid": "QmfFbd9e3r1iWmUs3ZgEXFuQJWbofL2RwQsAcMWNuaFNZr",
-    "logo": "QmQcGducJDzTUbD18kjuH7PFUg8523e1KvKtcAxakFZa49"
-  },
-  "00792570C459637D46F26D0CEB301ED9D83F0098": {
-    "name": "Motherbase (Europe)"
-  },
-  "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B": {
-    "name": "Motocross Championship (USA)",
-    "vid": "QmaPrxzabSXUhwXyeB1DbT79j1zFbwiRFX6jJW4W1wgobP",
-    "logo": "QmasH1WhKtqRsx3f3GRu89Kd96Lpa22hakTUtFMwLRbkNL"
-  },
-  "AF0CB8626825E1B431EBA07B8A9B571186745C16": {
-    "name": "Motocross Championship (Europe)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "102E763C6F4BF65210B307D34D75473FD27D7AE4": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-10-12)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "670779A85DB5673B23825B91693B1015F841FDE3": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-10-17)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "BAFABF4EB40FB1197DD543FA6AE69DF1F87E9D02": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-10-18)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "3862FE8D98A512E3332748B8F73FCDF84FABA489": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-10-19)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "95EDB6101EEE31588E7B0CE0B67D73206070EB81": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-10-20)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "D641E7B2FD0A44AD603CDC324921A25F1B897288": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-10-24)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "174158DD18A4D243D3C943C9F8CF080ACD91CC3B": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-10-28)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "372A43DF94CBED3859BBDDAD4982FA5301416AED": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-01)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "3B7CFE05C0A66FC025BBDD3A35BA7828B2FC3C7F": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-02)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "607B9D89E312294CA4E477DE238BEC2D1BEA2A42": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-02) (Alt 1)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "5DC89F7F2CC03689991C9325A1A2D08C6DF5DC1B": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-03)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "CA4DB761D26328B99445445B99304E90D7279C3E": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-04)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "181A58CFC8348E18E5D34ED0A75E79ACEDCC004E": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-07)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "93E13F7D3C4640E9AEE7D577E974AB6581C07F91": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-08)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "45F457930884C7A5EC35361E37B1FD8CD91E4487": {
-    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-11)",
-    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
-  },
-  "C8AF3E74C49514669BA6652EC0C81BCCF77873B6": {
-    "name": "NBA Jam - Tournament Edition (World)",
-    "vid": "QmepaQdBmT6fDjzcx4H9ork8hz8bMmBFivwrg8gkjzxQEX",
-    "logo": "QmYLHT9Asfzu4VQU4THfptbXn8c4fYzSecppY9ZeZDvyF2"
-  },
-  "A0DC24F2F3A7FC5BFD12791CF25AF7F7888843CF": {
-    "name": "NFL Quarterback Club (World)",
-    "vid": "QmeyFfNogC7JvxCCAZyvGFUoTRMvr5uzbCYui75oqhwFNL",
-    "logo": "QmP4YaakBQyZmBBe7TtFyy2KZBbfQ2EquFbu9PELeHTT6H"
-  },
-  "9DB5A93AE5FC4045DF342A9F53B904EF130DEBBF": {
-    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-10)"
-  },
-  "3A8C794139FE7255E7107877B2D0018A6EAA0300": {
-    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-21)"
-  },
-  "6C93F432610908950B594BB8D289FE81DE88FBDF": {
-    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-23)"
-  },
-  "E498F84BEA01F073A430D854B47306B7D35FFE08": {
-    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-27)"
-  },
-  "22DFC9A059657F45C7218D3BE84C4A8C257CCC38": {
-    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-03)"
-  },
-  "67AFACA4956DF2120F62259B1147FEAAD6098A53": {
-    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-06)"
-  },
-  "DF6898E46CBA85541BC7F92090BFCF7000C0E648": {
-    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-10)"
-  },
-  "ED9D3414EDC90B7FB6A23732038F5C57710DE9D3": {
-    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-15)"
-  },
-  "ED3B31494407F324F18DB4F5056AD6DF75DC1A10": {
-    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-31)"
-  },
-  "60C390F76C394BDD221936C21AECBF98AEC49A3D": {
-    "name": "Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)",
-    "vid": "QmR3cNbvAS99ifacLxyVdRPPVszKNXNPLGUNSNNi52GDi9",
-    "logo": "QmYAsK1113K2yLAtcaGQAnuyAuwqXSTpF5DrC3F2NVJWX8"
-  },
-  "39CCF67E516BDAEC879F1E30B23D5F253E82B6C8": {
-    "name": "Pinocchio (Europe) (Proto) (1995-06-12)"
-  },
-  "EE864D1677C6D976D0846EB5F8D8EDB839ACFB76": {
-    "name": "Pitfall - The Mayan Adventure (USA)",
-    "vid": "QmUk6K8oZEoBte3VdV5nYbphRuUpAxGHmkLiYzvX8Hzw4W",
-    "logo": "QmNouXJLeP9CrDYJmrQWYudK6QTSNEiC2VNpADzxjguBwh"
-  },
-  "5084DCCA51D76173C383AB7D04CBC661673545F7": {
-    "name": "Primal Rage (USA, Europe)",
-    "vid": "QmS9KBjBcuPgkjeZKaFfe5qcDewLRebUejqtGYmTLEzCzF",
-    "logo": "QmYkjRdWLeVkpVWkECWtae47CNEiNos3X8S8FvdaTyKKVT"
-  },
-  "4F90433A4403FD74CAFEEA49272689046DE4AE43": {
-    "name": "RBI Baseball '95 (USA)",
-    "vid": "QmUFb6jWW7kJTNtPwsGcra8jDTtJ9MTT3xcYxkU3jWnEHA",
-    "logo": "QmaEK66waTUTooyyD8KhJTcQLbaYnzrHHgYj273S8WpN2U"
-  },
-  "74A3BA27C55CFF12409BF6C9324ECE6247ABBAD1": {
-    "name": "Sangokushi IV (Japan)"
-  },
-  "561C8C63DBCABC0B1B6F31673CA75A0BDE7ABC72": {
-    "name": "Shadow Squadron ~ Stellar Assault (USA, Europe)",
-    "vid": "QmRRvQBMu262r1FJTgAQW4FL3YvjsLpK8yQVvsefJsBPUF",
-    "logo": "QmVnFhyTqEqyR9Rso1q3ntXsKR8BVsyiQWnE5xxj5oNBj3"
-  },
-  "9D72335CB0468A9699F7E92927043387091BC0C9": {
-    "name": "Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-02-22)",
-    "ref": "561C8C63DBCABC0B1B6F31673CA75A0BDE7ABC72"
-  },
-  "5A83E4EBFFE8AC7108B45697BE7468BD7F111642": {
-    "name": "Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-02)",
-    "ref": "561C8C63DBCABC0B1B6F31673CA75A0BDE7ABC72"
-  },
-  "31A0A0A34719B1259DE98458C24CF5EB78F7109C": {
-    "name": "Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-06)",
-    "ref": "561C8C63DBCABC0B1B6F31673CA75A0BDE7ABC72"
-  },
-  "9875B357FD2D651892054D233C608B6F3BBB40E7": {
-    "name": "Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-13)",
-    "ref": "561C8C63DBCABC0B1B6F31673CA75A0BDE7ABC72"
-  },
-  "9BAE40D4D07A096545B11F6B0434DB778C238AF5": {
-    "name": "Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt 1)",
-    "ref": "561C8C63DBCABC0B1B6F31673CA75A0BDE7ABC72"
-  },
-  "4726988F28C5E49971E1F38E335FECC3F9DD6C1F": {
-    "name": "Soulstar X (USA) (Proto)"
-  },
-  "8B0495257FA5392EF9DDCC9C3BA1860AE58F4F3D": {
-    "name": "Space Harrier (Europe)",
-    "ref": "F32A52A7082761982024E40291DBD962A835B231"
-  },
-  "F32A52A7082761982024E40291DBD962A835B231": {
-    "name": "Space Harrier (Japan, USA)",
-    "vid": "QmZYjTj7z7WWQEMj6cGP9sqtA8WwTndAZnQ1p5R2yEesYy",
-    "logo": "QmZbpFLTKAiDLvrJuVpEPzV2pQP5SE5Xzj5LWXFtcuePQa"
   },
   "05D24D6F6C645866B8B1FDE96746E27D0A19BBC6": {
     "name": "Space Harrier (Japan, USA) (Beta) (1994-09-20)",
     "ref": "F32A52A7082761982024E40291DBD962A835B231"
   },
-  "E5248328B64A1EC4F1079C88EE53EF8D48E99E58": {
-    "name": "Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)",
-    "vid": "QmfMQegH6YZoQLQuV65JXM3TmtFe89b2ichjSn1Zwx8Z2a",
-    "logo": "QmRUA3kDJRuTLmiGwrudmyV7L1AvvSkqeQvQcAcjzbw5qu"
+  "0C2FFF7BC79ED26507C08AC47464C3AF19F7CED7": {
+    "logo": "QmY3EpxxoMsNeNBzJ33JANW9btMcbEktMYQV2X3DybYowf",
+    "name": "Chaotix ~ Knuckles' Chaotix (Japan, USA)",
+    "vid": "QmbEWyJU4u3gxTYPdcyxACtFuZbmexqeMn7Qdoz2pLbmjK"
   },
-  "F4FFAAF1D8330EA971643021BE3F3203E1EA065D": {
-    "name": "Star Wars Arcade (USA)",
-    "vid": "QmQDix1yVzAVjDBx9eHJdB2s4KxLpYXDa63DBffYtNKtnU",
-    "logo": "QmNq4aG5iFVMwr23anfu2NhiDGu32cgk98Cm8ADMY1vqBL"
+  "0CBBCC96F23917FEB844469163BC8AB14DA94816": {
+    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-13)"
   },
-  "A877CBF704FE7480966FD88A3C39EFB6A39392AC": {
-    "name": "Star Wars Arcade (Europe)",
+  "102E763C6F4BF65210B307D34D75473FD27D7AE4": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-10-12)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "10409F2245B058E8A32CBA51E1EA391CA4480108": {
+    "name": "Ecco the Dolphin (USA) (Demo) (Developer Cart)"
+  },
+  "108B4FFED8643ABDEFA921CFB58389B119B47F3D": {
+    "logo": "QmUZEd1ZxCLckrWjCGitPgV8z1Eneh35hJtDHVCsLqj4Pr",
+    "name": "Darxide (Europe) (En,Fr,De,Es)",
+    "vid": "QmTE1L83xmeLMc4VbZEmcXPydZUGzTfzYUznXC3K2GZc6M"
+  },
+  "131EBB717DEE4DD1D8F5AB2B9393C23785D3A359": {
+    "logo": "QmUFiYf86giDc5m1FbZcdHovRcKD1vsPmv9pu1jxaoxgqm",
+    "name": "FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)",
+    "vid": "QmbyWej7aLfZqaBztfpshZXG8fCex8ZX3kMDhRMAeoiEER"
+  },
+  "150DACE1482EBF38A0F6242BE6D8B7EA19F8A737": {
+    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-07)"
+  },
+  "173C8425921D83DB3E8D181158E7599364F4C0F6": {
+    "logo": "QmX1r2vMPu53nZTXjYmmdTQiphCkutv1CxyrX3QN7GKDaP",
+    "name": "T-MEK (USA, Europe)",
+    "vid": "QmQhFMx3KfbXyYq6Fh65sD9M2aH2g3MgsZ2gRnuNYcuoik"
+  },
+  "174158DD18A4D243D3C943C9F8CF080ACD91CC3B": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-10-28)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "17CF3D4671A3313764DF42E0F9A25133B0DC4EC9": {
+    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-10-04)"
+  },
+  "181A58CFC8348E18E5D34ED0A75E79ACEDCC004E": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-07)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "18DFDEB50780C2623E60A6587D7ED701A1CF81F1": {
+    "logo": "QmSoWfDdcHaPvL5EG8YmGumXDJRB8VETDiV2kCAt8L2ed6",
+    "name": "Virtua Racing Deluxe (USA)",
+    "vid": "QmfPW2Jkt834ujY9oT1o1wzzdw4uM36QBVXA8wdo8Hxsg7"
+  },
+  "191AE0B525ECF32664086D8D748E0B35F776DDFE": {
+    "logo": "Qmd8AVw9r1YaEzYRRL8RfqFtgYnL47AMwETY1emX7k5YXJ",
+    "name": "Kolibri (USA, Europe)",
+    "vid": "QmSBuTdE4YnzKXTGePDioqq9QAzgeoAdHx2oqmkz96zdrZ"
+  },
+  "194F45A0651A59305E0E727E407801FF09968A62": {
+    "name": "Metal Head (Japan, USA) (Beta) (1994-12-02)",
+    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
+  },
+  "19681B2E5D1EAFAA09401DCA296BEA884FBC08C1": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-30)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "1ADE331C81EADE613748126882057841DC02A420": {
+    "name": "Star Wars Arcade (Europe) (Beta) (1994-10-06)",
+    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  },
+  "1B8225AE3E688EBDDE482015A389A6CEBBDBFD5E": {
+    "name": "Tempo (Japan, USA) (Beta) (1995-01-24)",
+    "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
+  },
+  "1BF7BC1FC2EAFE71D1E72608566D5C0D01D5C79C": {
+    "name": "Doom (Japan, USA) (Beta) (1994-09-14)",
+    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
+  },
+  "1C64E80EB164CA8D6C6587A55AD60385BA1DAF27": {
+    "name": "Virtua Racing Deluxe (Japan)",
+    "ref": "18DFDEB50780C2623E60A6587D7ED701A1CF81F1"
+  },
+  "1D3C372B55FA1418556AEA1949995F997227B5FA": {
+    "name": "ClayFighter 2 (USA) (Proto) (1995-04-28)"
+  },
+  "1E5B0B2441A4979B6966D942B20CC76C413B8C5E": {
+    "name": "[BIOS] 32X SH-2 Master (USA)"
+  },
+  "2093A7437062DC21C4440A360DD177102CA6CC88": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-24)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "22DFC9A059657F45C7218D3BE84C4A8C257CCC38": {
+    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-03)"
+  },
+  "23E84EC4D8CEC09992FCFF323F32F49F44D23CD2": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-21)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "24B3063284A914C76D8D1F681E3ED6323B0D7D0B": {
+    "name": "Virtua Fighter (Europe)",
+    "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
+  },
+  "24E599B251D643B74A923323A83E43A26D21FAFC": {
+    "name": "Star Wars Arcade (Japan) (Beta) (1994-10-05)",
     "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
   },
   "282767A07E453E868DE52B46BF11DEF3D071BDA6": {
     "name": "Star Wars Arcade (Japan)",
     "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
   },
-  "75CE473164F678F9F394D719B35850E4899A8CD1": {
-    "name": "Star Wars Arcade (Europe) (Beta) (1994-09-23)",
-    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  "28E99CC511E7C539FEC66ACBF5662F81528389D3": {
+    "name": "Virtua Fighter (Japan, USA) (Beta) (1995-06-15)",
+    "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
   },
-  "2F93B915ADD1357DFCF42135D4CE85E6BB668CF8": {
-    "name": "Star Wars Arcade (Europe) (Beta) (1994-09-29)",
-    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  "2945DA1E6452B194FBBE44A685864A2000EA5CFD": {
+    "name": "Doom (Europe) (Beta) (1994-10-02)",
+    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
   },
-  "1ADE331C81EADE613748126882057841DC02A420": {
-    "name": "Star Wars Arcade (Europe) (Beta) (1994-10-06)",
-    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  "2A2C80ADB1CF62A71581400357951B2007770E8B": {
+    "name": "Doom (Japan, USA) (Beta) (1994-09-21)",
+    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
   },
-  "C75853FB88F13A01DDCA05B2202ED150770C1284": {
-    "name": "Star Wars Arcade (Europe) (Beta) (1994-10-07)",
-    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  "2A7767024E23B55FE193D586A96A3BA3C92E7EA8": {
+    "name": "Metal Head (Europe) (En,Ja)",
+    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
   },
-  "F1786E62B7707B8A01B66720F2722D555EC9D4DB": {
-    "name": "Star Wars Arcade (Japan) (Beta) (1994-09-30)",
-    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
-  },
-  "38FDE66801083A60C142C3F3E7BAE2AA81518ACF": {
-    "name": "Star Wars Arcade (Japan) (Beta) (1994-10-03)",
-    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
-  },
-  "24E599B251D643B74A923323A83E43A26D21FAFC": {
-    "name": "Star Wars Arcade (Japan) (Beta) (1994-10-05)",
-    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
-  },
-  "8E90BB4B3BDE14B819DE85944080D4A3CAF11C1B": {
-    "name": "Star Wars Arcade (USA) (Beta) (1994-08-30)",
-    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
-  },
-  "37DA621707FEC11BB08D59CEC1FA2C554365AFEC": {
-    "name": "Star Wars Arcade (USA) (Beta) (1994-09-01)",
-    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
-  },
-  "B7DF724434B0E7EF2AF198A56021D825F701CF4D": {
-    "name": "Star Wars Arcade (USA) (Beta) (1994-09-06)",
-    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
-  },
-  "7E84F2EAFEF33E211500A551B3D430155368B66E": {
-    "name": "Star Wars Arcade (USA) (Beta) (1994-09-07)",
-    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
-  },
-  "761AA97AB8F7524C49A141804246209FD6C970F2": {
-    "name": "Star Wars Arcade (USA) (Beta) (1994-09-09)",
-    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
-  },
-  "B328170014BFC4770479EACC017F76BCAEE61389": {
-    "name": "Star Wars Arcade (USA) (Beta) (1994-09-12)",
-    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
-  },
-  "D4C262BA8118F2F2AF720A45E461D4254D5163B4": {
-    "name": "Star Wars Arcade (USA) (Beta) (1994-09-13)",
-    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  "2B1A5F19113FA4015437EDE5A195C5DFB377E5BE": {
+    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-01-19)"
   },
   "2BA71086A01E14051DCE2A5C24BBA49A991CB2E5": {
     "name": "Star Wars Arcade (USA) (Beta) (1994-09-14)",
     "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
   },
-  "9A492A52BE224EE9FF41D4EA7DF3CEE67F028235": {
-    "name": "Star Wars Arcade (USA) (Beta) (1994-09-15)",
+  "2E9724E9B7F2D351AD1DDFB34C43014AFF4B07DD": {
+    "name": "Tempo (Japan, USA) (Beta) (1995-02-06) (Alt 1)",
+    "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
+  },
+  "2EA5FCDFFA9B8F22B1468EEB2E76134D3F1B3BE6": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-19) (Alt 1)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "2F93B915ADD1357DFCF42135D4CE85E6BB668CF8": {
+    "name": "Star Wars Arcade (Europe) (Beta) (1994-09-29)",
     "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  },
+  "31A0A0A34719B1259DE98458C24CF5EB78F7109C": {
+    "name": "Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-06)",
+    "ref": "561C8C63DBCABC0B1B6F31673CA75A0BDE7ABC72"
+  },
+  "33620D0BB49C52A24563958B4CAEC883B2009A90": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-09)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "34D7BF6B86C877AB068390F660073016A95711E3": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-21)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "372A43DF94CBED3859BBDDAD4982FA5301416AED": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-01)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "37DA621707FEC11BB08D59CEC1FA2C554365AFEC": {
+    "name": "Star Wars Arcade (USA) (Beta) (1994-09-01)",
+    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  },
+  "3862FE8D98A512E3332748B8F73FCDF84FABA489": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-10-19)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "38FDE66801083A60C142C3F3E7BAE2AA81518ACF": {
+    "name": "Star Wars Arcade (Japan) (Beta) (1994-10-03)",
+    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  },
+  "39CCF67E516BDAEC879F1E30B23D5F253E82B6C8": {
+    "name": "Pinocchio (Europe) (Proto) (1995-06-12)"
+  },
+  "3A8C794139FE7255E7107877B2D0018A6EAA0300": {
+    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-21)"
+  },
+  "3B7CFE05C0A66FC025BBDD3A35BA7828B2FC3C7F": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-02)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "3BFF7D113FA7487D015A54D8F27050F2CF296106": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-16)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "40AA2C787F37772CDBD7280B8BE06B15421FABAE": {
+    "logo": "QmdNQvWp5m7C6sbB5XLge354FXgSvAJvn6oZLpHoERYe8q",
+    "name": "Brutal - Above the Claw (USA)",
+    "vid": "QmeEUR3hicPdf39Bx4sUe5TBYbpTAiMAuLRpdT96GhVphF"
+  },
+  "4103668C1BBD66C5E24558E73D4F3F92061A109A": {
+    "name": "[BIOS] 32X SH-2 Slave (USA)"
+  },
+  "41E12CB8465ACB6E0180DEEA9B34C2554E3F79E1": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-18)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "438E172B22EF2B78F5BCEB3195DA408639AE463C": {
+    "name": "Metal Head (Japan, USA) (Beta) (1994-12-07)",
+    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
+  },
+  "443C961BFC441B4D0ACE5F6E0A8D1BB7ABF8AC28": {
+    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-09-28)"
+  },
+  "45F457930884C7A5EC35361E37B1FD8CD91E4487": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-11)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "4600FB1C80C968728688269DFBD9C480D4D70ABE": {
+    "name": "Virtua Fighter (Japan, USA) (Beta) (1995-07-24)",
+    "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
+  },
+  "4726988F28C5E49971E1F38E335FECC3F9DD6C1F": {
+    "name": "Soulstar X (USA) (Proto)"
   },
   "492816545C7309D2B7594B5D4F8D508F4A13E06A": {
     "name": "Star Wars Arcade (USA) (Beta) (1994-09-16)",
     "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
   },
+  "4BF120CF056FE1417CA5B02FA0372EF33CB8EC11": {
+    "logo": "QmZW49EaYYtYoSuMhWtedcXpVyUAYYgSrGq3ZqozHpBaf1",
+    "name": "Blackthorne (USA)",
+    "vid": "QmY2Lyvm9Aj67edWSLbra9fxNCDjwhuzZBzzjkAHDhsWhQ"
+  },
+  "4C13842ABEDA86CE6577DA67BA5FC24FBFBDC0DE": {
+    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-10)"
+  },
+  "4D795A7ECAB65527E6538EF886C3C3783A1BA936": {
+    "name": "Metal Head (Japan, USA) (Beta) (1994-12-09)",
+    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
+  },
+  "4E4AF26F944CF3B5D99F60F37B20DC67207A4FBE": {
+    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-07)"
+  },
+  "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0": {
+    "logo": "QmdTadkY5tjCpGgPRuYAY6sYDmogBJEfmgEswAftANQ1iu",
+    "name": "Metal Head (Japan, USA) (En,Ja)",
+    "vid": "QmXnLaEgiAYkrEg7be1xKELLWSm6dmFHRBV7QZkGAM9waJ"
+  },
+  "4EC03C2114EBFFBBCD16859583340D4EA4CD8DD5": {
+    "name": "Doom (Europe)",
+    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
+  },
+  "4EC1DD3ABF3E5AA0D1A902F20CFA0D16A224B5BF": {
+    "name": "Tempo (Japan, USA) (Beta) (1995-01-26)",
+    "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
+  },
+  "4F90433A4403FD74CAFEEA49272689046DE4AE43": {
+    "logo": "QmaEK66waTUTooyyD8KhJTcQLbaYnzrHHgYj273S8WpN2U",
+    "name": "RBI Baseball '95 (USA)",
+    "vid": "QmUFb6jWW7kJTNtPwsGcra8jDTtJ9MTT3xcYxkU3jWnEHA"
+  },
+  "4FDA0184D688886314D929224D92B4A35C712675": {
+    "name": "Doom (Japan, USA) (Beta) (1994-09-06)",
+    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
+  },
+  "5084DCCA51D76173C383AB7D04CBC661673545F7": {
+    "logo": "QmYkjRdWLeVkpVWkECWtae47CNEiNos3X8S8FvdaTyKKVT",
+    "name": "Primal Rage (USA, Europe)",
+    "vid": "QmS9KBjBcuPgkjeZKaFfe5qcDewLRebUejqtGYmTLEzCzF"
+  },
+  "512D3C9B51E2F3015265DC78757363F45FC0A788": {
+    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-09-26)"
+  },
+  "541DDFAC44323C589AD23F51A5BE984ECFA55539": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-26)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "551EEDC963CBA0E1410B3D229B332EF9EA061469": {
+    "logo": "QmRCJ7bbc6GS1sGDs7xDzhthrJbBq8fzC87kR5RZEfGawP",
+    "name": "WWF WrestleMania - The Arcade Game (USA)",
+    "vid": "QmSaVsQoioShHxnbhyQCvzgUFHVZh5on6eft8gE8RR54kW"
+  },
+  "55848F7C54533FD2A19011DB661EF261CD8BDB22": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "55FD5D5410A820867526D5F7F909BF39D25607C2": {
+    "name": "Tempo (Japan, USA) (Beta) (1995-01-19)",
+    "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
+  },
+  "561C8C63DBCABC0B1B6F31673CA75A0BDE7ABC72": {
+    "logo": "QmVnFhyTqEqyR9Rso1q3ntXsKR8BVsyiQWnE5xxj5oNBj3",
+    "name": "Shadow Squadron ~ Stellar Assault (USA, Europe)",
+    "vid": "QmRRvQBMu262r1FJTgAQW4FL3YvjsLpK8yQVvsefJsBPUF"
+  },
+  "56566575DE6D1D42630F688EB0EEB1A93EBE2624": {
+    "name": "Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build)"
+  },
+  "5658FEBD37534280962DC6801EFC10604B07603F": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-29)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "5697176636DF575D8B65480708EFA85544D44302": {
+    "name": "Doom (Japan, USA) (Beta) (1994-09-09)",
+    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
+  },
+  "5A38DCE482C7FE38A50C6FD8884B019F1ACAB2A1": {
+    "name": "Metal Head (Japan, USA) (Beta) (1994-12-13)",
+    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
+  },
+  "5A83E4EBFFE8AC7108B45697BE7468BD7F111642": {
+    "name": "Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-02)",
+    "ref": "561C8C63DBCABC0B1B6F31673CA75A0BDE7ABC72"
+  },
+  "5B1140E33357A3D0FDC056AB5A350D588B5E5AF9": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-02)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "5C1A2E327A656217604D4BAE7E141764A7E59922": {
+    "name": "Knuckles' Chaotix (Europe)"
+  },
   "5D924628B507464EC1B1CA8755CB509CF68B02AF": {
     "name": "Star Wars Arcade (USA) (Beta) (1994-09-18)",
     "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
   },
-  "FF4F1A2DDED85F3AD43BF28A85C46AD8595D5614": {
-    "name": "Stellar Assault (Japan)"
+  "5DC89F7F2CC03689991C9325A1A2D08C6DF5DC1B": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-03)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B": {
+    "logo": "QmasH1WhKtqRsx3f3GRu89Kd96Lpa22hakTUtFMwLRbkNL",
+    "name": "Motocross Championship (USA)",
+    "vid": "QmaPrxzabSXUhwXyeB1DbT79j1zFbwiRFX6jJW4W1wgobP"
+  },
+  "5FC3837BA3B98F9F2C560D3775DA969798A150EE": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-19)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "607B9D89E312294CA4E477DE238BEC2D1BEA2A42": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-02) (Alt 1)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "60C390F76C394BDD221936C21AECBF98AEC49A3D": {
+    "logo": "QmYAsK1113K2yLAtcaGQAnuyAuwqXSTpF5DrC3F2NVJWX8",
+    "name": "Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)",
+    "vid": "QmR3cNbvAS99ifacLxyVdRPPVszKNXNPLGUNSNNi52GDi9"
+  },
+  "63568023C907D636133E1A2FD140AFBADB910E98": {
+    "name": "Doom RR (Japan, USA) (Beta) (1995-02-15)"
+  },
+  "6398A442595650D70A5CE20A52331899C0DFAF62": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-13)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9": {
+    "logo": "QmdpiZ6XdkGcfVbqe9ntCWfTmzQ52nLZ7QoeYZKip6B8gj",
+    "name": "Tempo (Japan, USA)",
+    "vid": "QmSD1ehL5okXVvjQBLSwvmJsBsMJLKzxGxvgGXEu5diDM8"
+  },
+  "670779A85DB5673B23825B91693B1015F841FDE3": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-10-17)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "67AFACA4956DF2120F62259B1147FEAAD6098A53": {
+    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-06)"
+  },
+  "6A066C44D71199D62DBC368EFBC371DD01CC95E1": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-07-06)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "6A1801EF96CC8C4A6896AB55E105F7FA8D707F51": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "6C93F432610908950B594BB8D289FE81DE88FBDF": {
+    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-23)"
   },
   "6FF8CD79CFA073697DD13CD1C4DC767B4E0C558E": {
     "name": "Stellar Assault (Japan) (En) (Beta) (1995-02-06)"
@@ -686,134 +397,423 @@
   "71061C0A02B4CC3C3E39D872BF86B190421CB594": {
     "name": "Stellar Assault (Japan) (En) (Beta) (1995-02-13)"
   },
-  "173C8425921D83DB3E8D181158E7599364F4C0F6": {
-    "name": "T-MEK (USA, Europe)",
-    "vid": "QmQhFMx3KfbXyYq6Fh65sD9M2aH2g3MgsZ2gRnuNYcuoik",
-    "logo": "QmX1r2vMPu53nZTXjYmmdTQiphCkutv1CxyrX3QN7GKDaP"
-  },
-  "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9": {
-    "name": "Tempo (Japan, USA)",
-    "vid": "QmSD1ehL5okXVvjQBLSwvmJsBsMJLKzxGxvgGXEu5diDM8",
-    "logo": "QmdpiZ6XdkGcfVbqe9ntCWfTmzQ52nLZ7QoeYZKip6B8gj"
-  },
-  "017EE73E0F582893EF3DEEBFBE74AF4BABD532A5": {
-    "name": "Tempo (Japan, USA) (Beta) (1994-12-21)",
-    "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
-  },
-  "55FD5D5410A820867526D5F7F909BF39D25607C2": {
-    "name": "Tempo (Japan, USA) (Beta) (1995-01-19)",
-    "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
-  },
-  "1B8225AE3E688EBDDE482015A389A6CEBBDBFD5E": {
-    "name": "Tempo (Japan, USA) (Beta) (1995-01-24)",
-    "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
-  },
-  "4EC1DD3ABF3E5AA0D1A902F20CFA0D16A224B5BF": {
-    "name": "Tempo (Japan, USA) (Beta) (1995-01-26)",
-    "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
-  },
   "73D31074F08D9DD8061BF0996829DBAD46B3D784": {
     "name": "Tempo (Japan, USA) (Beta) (1995-02-04)",
     "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
   },
-  "7C29092FB82711851F1C681FA717CD59B98F531A": {
-    "name": "Tempo (Japan, USA) (Beta) (1995-02-06)",
-    "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
-  },
-  "2E9724E9B7F2D351AD1DDFB34C43014AFF4B07DD": {
-    "name": "Tempo (Japan, USA) (Beta) (1995-02-06) (Alt 1)",
-    "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
-  },
-  "91BCA4F05B97B51B96FB1DDCB9B54165F0B621AE": {
-    "name": "Tempo (Japan, USA) (Beta) (1995-02-07)",
-    "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
+  "74A3BA27C55CFF12409BF6C9324ECE6247ABBAD1": {
+    "name": "Sangokushi IV (Japan)"
   },
   "7588B0B8F4E93D5FDC920D3AB7E464154E423DA9": {
+    "logo": "QmS2sopW63RZPfactKwJhPgCakJLLGB2YGkXQFBKtXrxAc",
     "name": "Toughman Contest (USA, Europe)",
-    "vid": "QmYYChZzNU7BbC7nRSWFMfBGMZhAfooQ3Bzvg947c1Cqus",
-    "logo": "QmS2sopW63RZPfactKwJhPgCakJLLGB2YGkXQFBKtXrxAc"
+    "vid": "QmYYChZzNU7BbC7nRSWFMfBGMZhAfooQ3Bzvg947c1Cqus"
   },
-  "F35754F4BFE3A53722D7A799F88FACE0FD13C424": {
-    "name": "Virtua Fighter (Japan, USA)",
-    "vid": "QmR9kEsLMA9Su1tg3jVsQJ8WBgREtfEGcVT6iJcTGb4DaK",
-    "logo": "QmPzrEuofpTdyBNk99xVammrN12jK5qCXakc3BnRWhpKj7"
+  "75CE473164F678F9F394D719B35850E4899A8CD1": {
+    "name": "Star Wars Arcade (Europe) (Beta) (1994-09-23)",
+    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
   },
-  "24B3063284A914C76D8D1F681E3ED6323B0D7D0B": {
-    "name": "Virtua Fighter (Europe)",
-    "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
+  "761AA97AB8F7524C49A141804246209FD6C970F2": {
+    "name": "Star Wars Arcade (USA) (Beta) (1994-09-09)",
+    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
   },
-  "FBB0D96C22465ABB1702499F0A8C68228DCF8FC6": {
-    "name": "Virtua Fighter (Japan, USA) (Beta) (1995-05-30)",
-    "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
-  },
-  "28E99CC511E7C539FEC66ACBF5662F81528389D3": {
-    "name": "Virtua Fighter (Japan, USA) (Beta) (1995-06-15)",
-    "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
-  },
-  "CC6A95D10A95A91337F995A0120CB353196CE080": {
-    "name": "Virtua Fighter (Japan, USA) (Beta) (1995-06-30)",
-    "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
-  },
-  "C931CD60543B41E8BFB29511DCC70E4648471CBF": {
-    "name": "Virtua Fighter (Japan, USA) (Beta) (1995-07-17)",
-    "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
-  },
-  "D26708A26A3ADD9E4D6083E6B9CCD48776CD4C56": {
-    "name": "Virtua Fighter (Japan, USA) (Beta) (1995-07-21)",
-    "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
-  },
-  "4600FB1C80C968728688269DFBD9C480D4D70ABE": {
-    "name": "Virtua Fighter (Japan, USA) (Beta) (1995-07-24)",
-    "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
+  "7654C6D3CF2883C30DF51CF38D723AB7902280C4": {
+    "name": "Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1)"
   },
   "7B881A7849320187389D4AF5BD4BF8D3EE6FD796": {
     "name": "Virtua Fighter (Japan, USA) (Beta) (1995-07-25)",
     "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
   },
-  "C10F98D9DB73AE90BE5E5D556B663A5AFF015CEF": {
-    "name": "Virtua Hamster (USA) (Proto)"
+  "7C29092FB82711851F1C681FA717CD59B98F531A": {
+    "name": "Tempo (Japan, USA) (Beta) (1995-02-06)",
+    "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
   },
-  "1C64E80EB164CA8D6C6587A55AD60385BA1DAF27": {
-    "name": "Virtua Racing Deluxe (Japan)",
-    "ref": "18DFDEB50780C2623E60A6587D7ED701A1CF81F1"
+  "7C295CB39408D21835B76C2C1AEB03B659094593": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-03)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
   },
-  "18DFDEB50780C2623E60A6587D7ED701A1CF81F1": {
-    "name": "Virtua Racing Deluxe (USA)",
-    "vid": "QmfPW2Jkt834ujY9oT1o1wzzdw4uM36QBVXA8wdo8Hxsg7",
-    "logo": "QmSoWfDdcHaPvL5EG8YmGumXDJRB8VETDiV2kCAt8L2ed6"
+  "7CA51AD03EBB95F017A1B900A4A1592876D0D5C2": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-03)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
   },
-  "BB26DDDE26CD07191D872E8A76A170CA3326F781": {
-    "name": "Virtua Racing Deluxe (Europe)",
-    "ref": "18DFDEB50780C2623E60A6587D7ED701A1CF81F1"
+  "7CC2EA1E10F110338AD880BD3E7FF3BCE72E7E9E": {
+    "logo": "QmXy5vW5dMeN93hQWVDB6bu9JLjVFU4oooU8mSgapwq5fS",
+    "name": "Amazing Spider-Man, The - Web of Fire (USA)",
+    "vid": "QmY2UfvkYABNXMYYHD1TjyYo9AYY1pTs7JX34HnDo1pqPB"
   },
-  "D4E996FD7FB26919017D1056D0DE608A34F05184": {
-    "name": "Virtua Racing Deluxe (USA) (Beta) (1994-08-22)",
-    "ref": "18DFDEB50780C2623E60A6587D7ED701A1CF81F1"
+  "7E84F2EAFEF33E211500A551B3D430155368B66E": {
+    "name": "Star Wars Arcade (USA) (Beta) (1994-09-07)",
+    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
   },
-  "B1385111A39795BF2EA57AB50A4FEB479D7E502D": {
-    "name": "Virtua Racing Deluxe (USA) (Beta) (1994-08-29)",
-    "ref": "18DFDEB50780C2623E60A6587D7ED701A1CF81F1"
+  "83B70BEA9EFA281DD5119334A28EF33BC7426325": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-17)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "882CE770F32F4AF61AC422ACCECC8A84E1C52CD3": {
+    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-01-12)"
+  },
+  "883C7748C3C352B44238D2BDC9152AC9651E99FB": {
+    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-30)"
+  },
+  "885ABD1DE7B67B115057610D94F24B1B4E294706": {
+    "name": "Mars Sample Program - Texture Test (Unknown) (SDK Build)"
+  },
+  "88B122398C1B25F432AE845B799F1308F51AA055": {
+    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-13) (Alt 1)"
   },
   "88B3EF2BB0CCBA25F3F83F218CA090E1A89512FE": {
     "name": "Virtua Racing Deluxe (USA) (Beta) (1994-09-05)",
     "ref": "18DFDEB50780C2623E60A6587D7ED701A1CF81F1"
   },
-  "AB3026EAE46A775ADB7EAEBC13702699557DDC41": {
-    "name": "World Series Baseball Starring Deion Sanders (USA)",
-    "vid": "QmNuaN16ZKGGjd4HFSJ8xHz5JNGTKWZ4wsBJp7cbf8kzAM",
-    "logo": "QmU8qpqKz9mEhQStL2oK7DDLNk1LQt53GjeUoJJwuM1eyA"
+  "8B0495257FA5392EF9DDCC9C3BA1860AE58F4F3D": {
+    "name": "Space Harrier (Europe)",
+    "ref": "F32A52A7082761982024E40291DBD962A835B231"
+  },
+  "8D7A9F78860342643502E2BA77B445B4DC7E078E": {
+    "name": "Metal Head (Japan, USA) (Beta) (1994-12-20)",
+    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
+  },
+  "8E90BB4B3BDE14B819DE85944080D4A3CAF11C1B": {
+    "name": "Star Wars Arcade (USA) (Beta) (1994-08-30)",
+    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  },
+  "900E8ECDCC4460B4C4AF3873E1D6BC83DA4AEE99": {
+    "name": "Cosmic Carnage (Europe)"
+  },
+  "91BCA4F05B97B51B96FB1DDCB9B54165F0B621AE": {
+    "name": "Tempo (Japan, USA) (Beta) (1995-02-07)",
+    "ref": "6673BA83570B4F2C1B4A22415A56594C3CC6C6A9"
+  },
+  "91D78A15094C20FB6A8103D5ADDBAA4F90D199B8": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-26)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "926996F4B1F935CE4C3B46E902171C4B4DA16385": {
+    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-09-21)"
+  },
+  "93E13F7D3C4640E9AEE7D577E974AB6581C07F91": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-08)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
   },
   "94B974F2F69F0C10BC18B349FA4FF95CA56FA47B": {
+    "logo": "QmemN1BHJLQHSkGB7f9nwSfNspiHyyKoworwVaLLWUKhXi",
     "name": "WWF Raw (World)",
-    "vid": "QmRprJmpEtepso67tana4JT1GEVDCP3SNCiRJtQG6gzroS",
-    "logo": "QmemN1BHJLQHSkGB7f9nwSfNspiHyyKoworwVaLLWUKhXi"
+    "vid": "QmRprJmpEtepso67tana4JT1GEVDCP3SNCiRJtQG6gzroS"
   },
-  "551EEDC963CBA0E1410B3D229B332EF9EA061469": {
-    "name": "WWF WrestleMania - The Arcade Game (USA)",
-    "vid": "QmSaVsQoioShHxnbhyQCvzgUFHVZh5on6eft8gE8RR54kW",
-    "logo": "QmRCJ7bbc6GS1sGDs7xDzhthrJbBq8fzC87kR5RZEfGawP"
+  "94C994CE74377EC726B4C0803B51FD4CA6CC4389": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-11)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "95EDB6101EEE31588E7B0CE0B67D73206070EB81": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-10-20)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "9875B357FD2D651892054D233C608B6F3BBB40E7": {
+    "name": "Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-13)",
+    "ref": "561C8C63DBCABC0B1B6F31673CA75A0BDE7ABC72"
+  },
+  "99BB4C98C7DE0668934AB91A6EB01C9F680918B9": {
+    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-10-05)"
+  },
+  "9A492A52BE224EE9FF41D4EA7DF3CEE67F028235": {
+    "name": "Star Wars Arcade (USA) (Beta) (1994-09-15)",
+    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  },
+  "9A563ED821B483148339561EBD2B876EFA58847B": {
+    "logo": "QmQTQ7orDkaWeqoKWWkZjKQBdEUTLMXsGMYZ7Mx3yPJtak",
+    "name": "Cyber Brawl ~ Cosmic Carnage (Japan, USA)",
+    "vid": "QmZCJxJNpjhkam6JApWQJRyZMEHArKRkykKBiGmzUZTrVg"
+  },
+  "9B5FD499EAA442D48A2C97FCEB1D505DC8E8DDFF": {
+    "logo": "QmdBbmwuL9Av8V4NUkAQzmAiZYz65uUECiQrnbQvtK5ZoB",
+    "name": "BC Racers (USA)",
+    "vid": "QmYc5Y6WmndXmVXqBDDHepZDSdeTfa2wXuBh5o6tYr7vyD"
+  },
+  "9BAE40D4D07A096545B11F6B0434DB778C238AF5": {
+    "name": "Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt 1)",
+    "ref": "561C8C63DBCABC0B1B6F31673CA75A0BDE7ABC72"
+  },
+  "9CF575FEB036E2F26E78350154D5EB2FD3825325": {
+    "logo": "QmVCgEGvjJbp2EtMPomcKLMtYpxj7btDoC7ACPf5bHwufU",
+    "name": "After Burner Complete ~ After Burner (Japan, USA)",
+    "vid": "QmXhmu4UknQ9x8sXKqpHcVqy26fQNLeYjPLm2aWvTxt6f5"
+  },
+  "9D72335CB0468A9699F7E92927043387091BC0C9": {
+    "name": "Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-02-22)",
+    "ref": "561C8C63DBCABC0B1B6F31673CA75A0BDE7ABC72"
+  },
+  "9DB5A93AE5FC4045DF342A9F53B904EF130DEBBF": {
+    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-10)"
+  },
+  "A0DC24F2F3A7FC5BFD12791CF25AF7F7888843CF": {
+    "logo": "QmP4YaakBQyZmBBe7TtFyy2KZBbfQ2EquFbu9PELeHTT6H",
+    "name": "NFL Quarterback Club (World)",
+    "vid": "QmeyFfNogC7JvxCCAZyvGFUoTRMvr5uzbCYui75oqhwFNL"
+  },
+  "A2D5B5ACC7E19ABFB927BB0ED110D80D685510C9": {
+    "name": "Doom RR (Japan, USA) (Beta) (1995-03-07)"
+  },
+  "A6BEE7800F73E2CA12381432154B636DDD279412": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-22) (Alt 1)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "A81DB052A095360439A1DA6E41AC19B91561AB27": {
+    "name": "Metal Head (Japan, USA) (Beta) (1994-11-14)",
+    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
+  },
+  "A877CBF704FE7480966FD88A3C39EFB6A39392AC": {
+    "name": "Star Wars Arcade (Europe)",
+    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  },
+  "A943EA135D6C685F87957503697CB9F894E12C52": {
+    "name": "Metal Head (Japan, USA) (Beta) (1994-11-18)",
+    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
+  },
+  "AB3026EAE46A775ADB7EAEBC13702699557DDC41": {
+    "logo": "QmU8qpqKz9mEhQStL2oK7DDLNk1LQt53GjeUoJJwuM1eyA",
+    "name": "World Series Baseball Starring Deion Sanders (USA)",
+    "vid": "QmNuaN16ZKGGjd4HFSJ8xHz5JNGTKWZ4wsBJp7cbf8kzAM"
+  },
+  "ABE1D16DFF2B2C1752E2F47BB15F97F049D6BFC0": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-18)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "AF0CB8626825E1B431EBA07B8A9B571186745C16": {
+    "name": "Motocross Championship (Europe)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "AF3BFD9540098581AEF08664D625725FFCC90BE2": {
+    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-14)"
+  },
+  "AF8EADCF49D0700C7479648865CC08CD40BC2808": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-06)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "AFA1F5C2DAB7DE2114D3A34794785B0D6768D95C": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-27)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "B1385111A39795BF2EA57AB50A4FEB479D7E502D": {
+    "name": "Virtua Racing Deluxe (USA) (Beta) (1994-08-29)",
+    "ref": "18DFDEB50780C2623E60A6587D7ED701A1CF81F1"
+  },
+  "B2349F625AC077222B49F0E507C552B24C824BD2": {
+    "name": "Doom (Japan, USA) (Beta) (1994-12-01)",
+    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
+  },
+  "B298AD7BACCA89770BCD6DEA796E5DBBFB72E642": {
+    "name": "Doom RR (Japan, USA) (Beta) (1995-02-21)"
+  },
+  "B2B7938D5C9A207EFECF9F5054308F5772C8C25F": {
+    "name": "32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)"
+  },
+  "B328170014BFC4770479EACC017F76BCAEE61389": {
+    "name": "Star Wars Arcade (USA) (Beta) (1994-09-12)",
+    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  },
+  "B68E9C7AF81853B8F05B8696033DFE4C80327E38": {
+    "logo": "QmdUBvBiqBKoMPs9jxuojR3PdyCEx81Zqt7JKGDmZTof4H",
+    "name": "Doom (Japan, USA)",
+    "vid": "QmVAc3UYR2JhSqWofmu19WnJaLH45vkH1ttgKEhb7ww4bC"
+  },
+  "B7DF724434B0E7EF2AF198A56021D825F701CF4D": {
+    "name": "Star Wars Arcade (USA) (Beta) (1994-09-06)",
+    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  },
+  "BAFABF4EB40FB1197DD543FA6AE69DF1F87E9D02": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-10-18)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "BB26DDDE26CD07191D872E8A76A170CA3326F781": {
+    "name": "Virtua Racing Deluxe (Europe)",
+    "ref": "18DFDEB50780C2623E60A6587D7ED701A1CF81F1"
+  },
+  "BBC6A66AD9268A3BB6E35E565E770581E7FE8AC2": {
+    "name": "Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2)"
+  },
+  "BBDFE2B276C255247225EFD1E8348BE57A42EF4A": {
+    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-10-11)"
+  },
+  "C051DE6DCCC48352D51650F2712DBC7D62A1EC1A": {
+    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-10-07)"
+  },
+  "C10F98D9DB73AE90BE5E5D556B663A5AFF015CEF": {
+    "name": "Virtua Hamster (USA) (Proto)"
+  },
+  "C3E78C38CFD2516F943A10F435664BA06790F1C4": {
+    "name": "Doom (Japan, USA) (Beta) (1994-09-25)",
+    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
+  },
+  "C62A8BE339FFD9DD182A3F8E60B6E27225CFC5F2": {
+    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-27)"
+  },
+  "C75853FB88F13A01DDCA05B2202ED150770C1284": {
+    "name": "Star Wars Arcade (Europe) (Beta) (1994-10-07)",
+    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  },
+  "C7D56CC75DC9A5206FDA6A080CBEDAE9F48C82BC": {
+    "name": "After Burner Complete (Europe)"
+  },
+  "C8AF3E74C49514669BA6652EC0C81BCCF77873B6": {
+    "logo": "QmYLHT9Asfzu4VQU4THfptbXn8c4fYzSecppY9ZeZDvyF2",
+    "name": "NBA Jam - Tournament Edition (World)",
+    "vid": "QmepaQdBmT6fDjzcx4H9ork8hz8bMmBFivwrg8gkjzxQEX"
+  },
+  "C931CD60543B41E8BFB29511DCC70E4648471CBF": {
+    "name": "Virtua Fighter (Japan, USA) (Beta) (1995-07-17)",
+    "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
+  },
+  "CA4DB761D26328B99445445B99304E90D7279C3E": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-11-04)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "CC6A95D10A95A91337F995A0120CB353196CE080": {
+    "name": "Virtua Fighter (Japan, USA) (Beta) (1995-06-30)",
+    "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
   },
   "CD3FA2ACE2FDBF4B6402CB52EEB208010BF31029": {
     "name": "X-Men (USA) (Proto)"
+  },
+  "D038D88CF518116FCB4DF72DF51DBC0C374792E2": {
+    "name": "Mars Sample Program - Pharaoh (Unknown) (SDK Build)"
+  },
+  "D26708A26A3ADD9E4D6083E6B9CCD48776CD4C56": {
+    "name": "Virtua Fighter (Japan, USA) (Beta) (1995-07-21)",
+    "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
+  },
+  "D4C262BA8118F2F2AF720A45E461D4254D5163B4": {
+    "name": "Star Wars Arcade (USA) (Beta) (1994-09-13)",
+    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  },
+  "D4E996FD7FB26919017D1056D0DE608A34F05184": {
+    "name": "Virtua Racing Deluxe (USA) (Beta) (1994-08-22)",
+    "ref": "18DFDEB50780C2623E60A6587D7ED701A1CF81F1"
+  },
+  "D55964BD935110AC2D9CBD3B085B7E8B71B11DF2": {
+    "logo": "QmQcGducJDzTUbD18kjuH7PFUg8523e1KvKtcAxakFZa49",
+    "name": "Mortal Kombat II (Japan, USA)",
+    "vid": "QmfFbd9e3r1iWmUs3ZgEXFuQJWbofL2RwQsAcMWNuaFNZr"
+  },
+  "D641E7B2FD0A44AD603CDC324921A25F1B897288": {
+    "name": "Motocross Championship (Japan, USA) (Beta) (1994-10-24)",
+    "ref": "5F1A107991AAF9EFF0B3CE864B2E3151F56ABE7B"
+  },
+  "D82B26783F0843FAABE526167EABF296C84B0C47": {
+    "name": "Metal Head (Japan, USA) (Beta) (1994-12-07) (Alt 1)",
+    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
+  },
+  "D965D12C8CCE09683D80C08D06C74B7C6E7B8DAB": {
+    "name": "Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-08)"
+  },
+  "DBEBD76A448447CB6E524AC3CB0FD19FC065D944": {
+    "name": "[BIOS] 32X M68000 (USA)"
+  },
+  "DC77B1E5C888C2C4284766915A5020BB14EE681D": {
+    "logo": "Qmdy9VTcLhUvoRAp89rT88XkPBaX97F4eih5wVm3jH1xaL",
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA)",
+    "vid": "Qmf97dFJKYDrPxqDK75fXJq9usGrUVemkT8Y46QQFkAi6J"
+  },
+  "DF6898E46CBA85541BC7F92090BFCF7000C0E648": {
+    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-10)"
+  },
+  "E28AB68E8AED7AA8E9F33A6E9C68678272DF4D95": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-19)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "E341E5FCA64DEF64C019310D4F551FF48908291B": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-28)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "E472548171A4E6183F16618BFCB5B6C09E7D6744": {
+    "name": "Doom (Japan, USA) (Beta) (1994-09-23)",
+    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
+  },
+  "E498F84BEA01F073A430D854B47306B7D35FFE08": {
+    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-27)"
+  },
+  "E5248328B64A1EC4F1079C88EE53EF8D48E99E58": {
+    "logo": "QmRUA3kDJRuTLmiGwrudmyV7L1AvvSkqeQvQcAcjzbw5qu",
+    "name": "Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)",
+    "vid": "QmfMQegH6YZoQLQuV65JXM3TmtFe89b2ichjSn1Zwx8Z2a"
+  },
+  "E7667F4A4342A5A45B0A010F0FE2E61B2BF99FEA": {
+    "name": "Metal Head (Japan, USA) (Beta) (1994-11-21)",
+    "ref": "4E872FBB44ECB2BD730ABD8CC8F32F96B10582C0"
+  },
+  "EA7539DBEAA86FDC36132E85BE48F6577FB6DBB9": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-07)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "ED3B31494407F324F18DB4F5056AD6DF75DC1A10": {
+    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-31)"
+  },
+  "ED9D3414EDC90B7FB6A23732038F5C57710DE9D3": {
+    "name": "Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-15)"
+  },
+  "EE864D1677C6D976D0846EB5F8D8EDB839ACFB76": {
+    "logo": "QmNouXJLeP9CrDYJmrQWYudK6QTSNEiC2VNpADzxjguBwh",
+    "name": "Pitfall - The Mayan Adventure (USA)",
+    "vid": "QmUk6K8oZEoBte3VdV5nYbphRuUpAxGHmkLiYzvX8Hzw4W"
+  },
+  "EFF8337257B0CC6221CE459D32191F7D63450D1C": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-05)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "F0D06074B1B5CE2DF77FDAAF74620158EFB7F875": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-28) (Alt 1)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "F1786E62B7707B8A01B66720F2722D555EC9D4DB": {
+    "name": "Star Wars Arcade (Japan) (Beta) (1994-09-30)",
+    "ref": "F4FFAAF1D8330EA971643021BE3F3203E1EA065D"
+  },
+  "F317903C11777991417ABF95CC45D4888BEE25D6": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-08)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "F32A52A7082761982024E40291DBD962A835B231": {
+    "logo": "QmZbpFLTKAiDLvrJuVpEPzV2pQP5SE5Xzj5LWXFtcuePQa",
+    "name": "Space Harrier (Japan, USA)",
+    "vid": "QmZYjTj7z7WWQEMj6cGP9sqtA8WwTndAZnQ1p5R2yEesYy"
+  },
+  "F35754F4BFE3A53722D7A799F88FACE0FD13C424": {
+    "logo": "QmPzrEuofpTdyBNk99xVammrN12jK5qCXakc3BnRWhpKj7",
+    "name": "Virtua Fighter (Japan, USA)",
+    "vid": "QmR9kEsLMA9Su1tg3jVsQJ8WBgREtfEGcVT6iJcTGb4DaK"
+  },
+  "F4FFAAF1D8330EA971643021BE3F3203E1EA065D": {
+    "logo": "QmNq4aG5iFVMwr23anfu2NhiDGu32cgk98Cm8ADMY1vqBL",
+    "name": "Star Wars Arcade (USA)",
+    "vid": "QmQDix1yVzAVjDBx9eHJdB2s4KxLpYXDa63DBffYtNKtnU"
+  },
+  "F6B944876B40B5A52BF1293B71373CB3F5C71A14": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-01)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "F7539C406821B5AE4BCB0F41FE2839D07AB1FDB2": {
+    "name": "Doom (Japan, USA) (Beta) (1994-09-27)",
+    "ref": "B68E9C7AF81853B8F05B8696033DFE4C80327E38"
+  },
+  "F75698DE887D0EF980F73E35FC4615887A9AD58F": {
+    "name": "Mortal Kombat II (Europe)",
+    "ref": "D55964BD935110AC2D9CBD3B085B7E8B71B11DF2"
+  },
+  "F78481E57111295C2F5AEB64CD306C3C5FBF6D97": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "F84006CEE56748BF2C7249DEC3C356409CB0E0A5": {
+    "name": "Cosmic Carnage (Japan, USA) (Beta) (1994-09-06)"
+  },
+  "FA2F2D3887BB3E6010A5C13289F63681CAC0404A": {
+    "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-23)",
+    "ref": "DC77B1E5C888C2C4284766915A5020BB14EE681D"
+  },
+  "FBB0D96C22465ABB1702499F0A8C68228DCF8FC6": {
+    "name": "Virtua Fighter (Japan, USA) (Beta) (1995-05-30)",
+    "ref": "F35754F4BFE3A53722D7A799F88FACE0FD13C424"
+  },
+  "FF4F1A2DDED85F3AD43BF28A85C46AD8595D5614": {
+    "name": "Stellar Assault (Japan)"
   }
 }

@@ -1,1151 +1,307 @@
 {
+  "016DE32719E920FD9996C52D7EB81F2A60A24D7A": {
+    "name": "Digital Monster - D-Project (Japan) (Rev 2)",
+    "ref": "3E8FFFE1F607EA5F855397D9D877CECB285507F7"
+  },
+  "016FF46509CBFE57A7440A1755D3A41EF49C048F": {
+    "name": "SD Gundam G Generation - Gather Beat 2 (Japan)"
+  },
+  "01E765BF356CDCB413BFD27C6321F7449465766A": {
+    "logo": "QmaryTreZ9YdvYJKgCmWL5vwmkCBufyuT2BQhi3SVm2dLa",
+    "name": "From TV Animation One Piece - Grand Battle Swan Colosseum (Japan)",
+    "vid": "QmbXSHvdd1WHP6Y7wCW482j4QmcBsVX23RpaJ5tknu2yZE"
+  },
+  "02103FC5FC97C3A38834CED32A3CFE6523832535": {
+    "logo": "QmQnneT7jc6eZNS2rLa2XZ5tekDXmyJwqTZ6jGWBxAUP7n",
+    "name": "Blue Wing Blitz (Japan)",
+    "vid": "QmXDHEU5LM4LxLShqj1NFpZDwveuUrQxWTpCELYnax1j6e"
+  },
+  "06447C248AFCE04C4F4A1C3B5F7A4AB6F383C94B": {
+    "logo": "QmQrpr4SurEs5Pc8RugFfT2ystPYPgVbCyf9UGWWyaeZv7",
+    "name": "Anchorz Field (Japan)",
+    "vid": "QmazUujYbnznmrCWQAUXmG9Ku667hEpTEKmJBeLjU9wkQr"
+  },
+  "06FCC9AAD3AE478DB6EED27621AF4F56A6488A67": {
+    "name": "Romancing Sa-Ga (Japan)"
+  },
+  "0931DDEC058EEFB32A68A1752716ED2BA68B78BF": {
+    "logo": "Qmd1KLdLefxTMcEAcY8vpAi6Dx3hCAMTDwdTTRqgeShzFL",
+    "name": "Gomoku Narabe & Reversi - Touryuumon (Japan)",
+    "vid": "QmTTpUpH5TdYgyoaBZdsheaVvNSji9AvRW45grfxmLutn1"
+  },
+  "0A09ECA4A8A1BCE2BAD344216589EE833F0B8383": {
+    "name": "WonderWitch (Japan) (FreyaOS 1.1.1) (Program)"
+  },
+  "0B54CC1D350AB92C42CE8214784389B994562BF6": {
+    "logo": "QmYoUdECH3M3efeTGoK6CGLD5msc7q2Vo2wmTp58Ciwsa9",
+    "name": "Digimon Adventure - Cathode Tamer (Japan)",
+    "vid": "QmfYgxM7PkvdkUB2z2jh2YLB2j1A2mui6uhKxJ32hkxohX"
+  },
+  "0BC88B0AFFA97225E22C531306E9930DDB8F8905": {
+    "logo": "QmSY6C2KTHrs6dPHqMPyidq4LxyxCib4hK329c5FYVM1Pc",
+    "name": "Shougi Touryuumon (Japan)",
+    "vid": "Qmahhn9JpZXuB1nf6mDYULfNpSPxAEnZGZdoZ6YZppHgg7"
+  },
+  "0F73D3112B1184F74E728CF1252FFBEE6A146FA6": {
+    "logo": "QmUzb2UKiQqpoYQqbjAVvbQj7LszegZ7s7ypuYL64BCZSW",
+    "name": "Ou-chan no Oekaki Logic (Japan)",
+    "vid": "QmVnVEnTkWw1hLkJmLP9RvWK5tk8zRKud9FQmFwAtG8kst"
+  },
+  "106DCA0FD84BA59DD98F13EE5AB6E4832105B8B3": {
+    "ref": "1E4D8E8B3D16083968055CC76B604DA91FA0A132"
+  },
+  "12D26522665CB8ECB3178BC242D984DEAE438E5C": {
+    "logo": "QmWnFTA7rLSkVLMn5QBbKQeohBcL5ZdgQCVW1L66eVoiVL",
+    "name": "Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)",
+    "vid": "QmakH5hVu8HWscowLU2bxCrjkNjsCJyDKkA7WWwmyVuLJU"
+  },
+  "152C4D63B1B17F2C717A43EFC75D718B614F9DDC": {
+    "logo": "QmPmz5r6ZNnHagVTrj1qo4Q3vCEw7PUbGWLRpAtjU9uZft",
+    "name": "SD Gundam - Operation U.C. (Japan)",
+    "vid": "QmVqk67ngJrbG3nAHgWYvgVSEfyQDgwG8kSszQqfyvgbNc"
+  },
+  "1578669C1FCF59AB5F5E603C6A65121D7AE209B1": {
+    "logo": "QmTjGqSmeMN4ACGD99JUwMoHpwmoFSeaTzKsEkgEUKaAym",
+    "name": "Armored Unit (Japan)",
+    "vid": "QmPEqTCuUWsn14wJZmLSW8zZYySVrWuE6mw4EYELrGf5HP"
+  },
+  "159648C577811986397DBAE86002793D18E9147B": {
+    "name": "WonderWitch (Japan) (FreyaOS 1.1.2) (Program)"
+  },
+  "18D3DFE25D82964AB7BB61AF363D368FD12F4D4B": {
+    "logo": "QmciySrTc1E1QKuTQqPzrHWfZRULt2HXtK86dLGoVAUBn7",
+    "name": "Digimon Adventure 02 - D1 Tamers (Japan)",
+    "vid": "Qmdd4pcpe57ybCKSjg5reW3RmpAUWhtn3E6yB3yuQajtAx"
+  },
+  "196190B24297008AB4E48B418FF29B2F8D4BC610": {
+    "name": "mama Mitte (Japan) (Program)"
+  },
+  "1A86403D7896D60FCB7A4C09367F5A976C7EA5A5": {
+    "logo": "QmTWcmSGqJe7gRNqfVHsv4ruPBMA9atrqwENtTPfQQ5af9",
+    "name": "Tetris (Japan)",
+    "vid": "QmNq5dmPYrLp7d35Z6SKBWYzSC3kKiubBhhXSSVnLygBvc"
+  },
+  "1BC1E831B9E2AEFC59F2CAC5F19F7D22BE574FC1": {
+    "logo": "QmZ4gLxXsNJnBSC6strudNSrXdDcsSw8YTxpmfQj4atLKb",
+    "name": "Gekitou! Crash Gear Turbo - Gear Champion League (Japan)",
+    "vid": "QmPqZe9NHhLRKqFtXQoCAymxpf7QS9ainRC4MdsXc8FdV7"
+  },
+  "1DC66AC8AC21EB651723428657C9B18CB80D9EE0": {
+    "name": "Judgement Silversword - Rebirth Edition (Japan) (Rev 4321)"
+  },
+  "1E4D8E8B3D16083968055CC76B604DA91FA0A132": {
+    "name": "Dicing Knight. (Japan)"
+  },
+  "1E735D1E83A7BFA06C5C717C7E8A386D55A8E3F0": {
+    "logo": "QmYsEa8YpTrSCb41T4zgYQRP2nR5T3Vkv7zRxHe2AE369R",
+    "name": "Shaman King - Asu e no Ishi (Japan)"
+  },
+  "1EB729AA9AB0A7DF6F8A3470A6FEDE59D7622D4A": {
+    "logo": "QmT9gzWYtyuoRqE8wJnDTjitkSZLp5ddBecMxysLnSPfYp",
+    "name": "GunPey EX (Japan)",
+    "vid": "QmYsmQtVkomasDG5gMyc4JDtLgUG5ZzyBerQaW6tGYddMW"
+  },
+  "1EDA3327EB9B5A5844A95AC789F71B669F4CB6A7": {
+    "logo": "QmerQmZnXSNA28dvdCnAcoMK28WLKyYsTypwjmU2eDjSvM",
+    "name": "Hanafuda Shiyouyo (Japan)",
+    "vid": "QmPuVHSxHpEvfgj3qRToecU29tM747iKgqBSR5w3atPei8"
+  },
+  "1F42C5694A798DE8FF3C68F63DFC7395BE1669A5": {
+    "logo": "Qmad8A4anpm75rtw6V5JQepYNno6tb4CRpgix6bp12Rxgf",
+    "name": "Harobots (Japan)",
+    "vid": "QmcvomcLUFEk9d7mnpqng81U6KAbGhsSUHtWH1Aihsay54"
+  },
+  "207A3CEB9A09EABCA6E455DEEB7035E7E04C9795": {
+    "logo": "QmZYQGdaNQTcH6WMhpTEwW4q8rbRViXx3zQyhunNAM6GYZ",
+    "name": "Kaze no Klonoa - Moonlight Museum (Japan)",
+    "vid": "QmRjLAs15oWRUZSTJdbSeLPP4GSQJ1ANcGph8GHhHH5Rs8"
+  },
+  "209232F1E91C05140529D466C0EF6B7AD3386DE1": {
+    "logo": "QmZ7tAHn9QDHbMQauxndpKZv97cmmxB5HYQiTGHQUtSB5v",
+    "name": "Mr. Driller (Japan)",
+    "vid": "QmPhqh1qBLbY6fLqz9o9zjeuprHkE7AaGz2wTweSKuFNNp"
+  },
+  "20B671BC14A8AB6373DEECC641479D09658AC21F": {
+    "logo": "QmdcsmKrnuvNjJaFYLd6GtvmkPaggpKzLLiA6uZZuDw3VT",
+    "name": "Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan)",
+    "vid": "QmVg5TViiifJciswbzUgieRLbLE1ySZHfiuoJuJMb4JvH8"
+  },
+  "2117ED92E8CB4AE61868535F1D4D16851B480890": {
+    "logo": "QmW7o6xhMNrXrzgar5bcdo1n6HUjGrCVYeVSSyXxAYvdZi",
+    "name": "Robot Works (Hong Kong) (En,Ja) (Rev 1)",
+    "vid": "QmRKwUQR7bvHTkGRSTaDoWospdWfJ8UFxRgcCW4hDcAZvu"
+  },
+  "211E051DB3FD4D7AE1EA143E043F87CFBCEC5F1C": {
+    "logo": "QmYfF6zhtmKdLKrrTCN56mp3vt4bEhv3ncc3cFnKHVgZVW",
+    "name": "Macross - True Love Song (Japan)",
+    "vid": "QmYbd25hTxHu8MQWuFDAtUZrty7YkQAgJ4wDjAcbWrEiXY"
+  },
+  "221F48E97EC2C6D0046213956E1F36E923C0DEC2": {
+    "logo": "QmboURuBtfwUzYX1HkTfXVLtJBqetC3UCvvM4w9ZsSFbyB",
+    "name": "From TV Animation One Piece - Chopper no Daibouken (Japan)",
+    "vid": "QmaTTwmWLcrZSQzruSUhapzejSohufWtbsrcoeM7uBaswm"
+  },
+  "2358701531E8A38419859CD70BF2FBBD967B6745": {
+    "logo": "QmREfDQAMfgTxdQknzNxsCXTZZkHuctCakpHdzafn8ZXL4",
+    "name": "Mikeneko Holmes - Ghost Panic (Japan)",
+    "vid": "Qme1Aik4ErsK1VKtT9h7u5cEMUqqhADfdzpukzqRjup6vp"
+  },
+  "2410690AD46667C52B63402DF9E95FC8A75CEE62": {
+    "logo": "QmX2zKsoD2oCbhLCnxSZSQHREskdUqC4i3xPo9RaAaobVT",
+    "name": "From TV Animation One Piece - Niji no Shima Densetsu (Japan)",
+    "vid": "QmZBmx1RWoHiTyw2tgkZU8of8YcEh6AyeEDvBvRLZ5r3UE"
+  },
+  "26628EB76C16880B6FAF2E706778D91A60144078": {
+    "logo": "QmUQTS5muVJUiYKAcnuCjHmpuoWAViL2zWpsMHrDHNN1WH",
+    "name": "Final Fantasy (Japan)",
+    "vid": "QmaiyCdfLYAfBvj1afZfTckbSc8ULttpCEa8WT7U41VDXW"
+  },
+  "2688CA67AC31CE3D5C3523B0E11CAD55E70FA257": {
+    "logo": "QmVPtJfVGBXkMNy6ba6jwXb9Weq6RpAFR9CXWKvyxL12Yw",
+    "name": "Mobile Suit Gundam MSVS (Japan)",
+    "vid": "QmTtDZuiuQLQ5fRsUZpA7gT1vgVLzedEpGp8Ht1P7UYzoR"
+  },
+  "281079B22CB213EE4DDA5C304B5B5BE028130929": {
+    "logo": "QmfRywjE7hvZQeabf7UWXJc5v1SZHS7yDsd8gVuZuydwLP",
+    "name": "Mahjong Touryuumon (Japan) (Rev 3)",
+    "vid": "QmbvbKoYik9WZmR7GtuNevT5M713ZUPsoHfEpoSX6WTepp"
+  },
+  "29E72E7F96F145A0FF56E447F577310DF2EC463B": {
+    "logo": "QmUWkAPKwtKE2NxRNkxwNEPGc9EyCDYqRgHBfpZTiWptTH",
+    "name": "Kidou Senshi Gundam Vol. 1 - Side 7 (Japan)",
+    "vid": "QmY47ZiFWwuxQhoxhVb21Geza8YpfrX7ZwJEkDS4jZBkdf"
+  },
+  "2B2C2A0566646156BCDDE2A00B728C5B8218AA23": {
+    "logo": "QmeXVnp49ttYMJLrQQgMqsQh8suiBp3KmgioPvRAbpJS1v",
+    "name": "Star Hearts - Hoshi to Daichi no Shisha (Japan)"
+  },
+  "2DA2A9BCFF4813ABCB5B2C88095258D89A575378": {
+    "logo": "QmSPcPFCheQTWV19WQwKBXSjJXD4N7CbRW74qjnksdA5xL",
+    "name": "Hunter X Hunter - Sorezore no Ketsui (Japan)",
+    "vid": "QmRGELi4NFh3MotJ8BFTTK7sR7MFwPs7cL2adtRoexM5C3"
+  },
+  "2E3F221D6965F53B29586D2019EE81DEC6D1AC30": {
+    "logo": "QmTA7PfphBVNDK3TTUC4QHLjz4xDwUnsdrcUZVg8mdHfBh",
+    "name": "Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1)",
+    "vid": "QmegiGzSE5a8WWGQ5uaDegfQvN4MYX6TxjrYGDkRDzdgxJ"
+  },
+  "2F35D250B8DDEB98CA3A2704A4AD85713F4C71B0": {
+    "logo": "QmagLjLXneT3sHoshEqSCfuHCQDXCn7WVthEnTUA5vj4cs",
+    "name": "Tanjou Debut for WonderSwan (Japan) (Rev 1)",
+    "vid": "QmW8qxbnKbfFUvQry6myFSBFAn9k2zeRfr6u5zN7ZKEiUZ"
+  },
+  "2FCE8B8E08E3F90999589B2D226FC7038B17EF22": {
+    "name": "Flash Masta Firmware (USA) (2016-08-29) (Unl)"
+  },
+  "315061E4739E947175D6AD7F006498CD61A33F8C": {
+    "logo": "QmZ9g2EFmNxUX1PDsx4YZMynSZ4Vzscikr8wMZ98BnNQyi",
+    "name": "Medarot Perfect Edition - Kuwagata Version (Japan)",
+    "vid": "QmZh84SVFy6cBAeBRGRngtRY9xNQz5Z9WFPBGTVeKyWyWQ"
+  },
+  "31A718CFBCFF2DAB56AB9606A0B5B2DFCCECBBCB": {
+    "name": "Digimon Tamers - Brave Tamer (Japan) (Rev 1)"
+  },
+  "32013A7A745A3AA2FD63CC9427C5E1F2635655ED": {
+    "logo": "QmbxcxYKcpkKjN1KEspJ4h5K7YWpaAZ97vzBAeXifCYdrU",
+    "name": "Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1)",
+    "vid": "QmNeGvUUnNii1EpVWRrBPnemHnfR5XQzdW9HnzCdDHHwV4"
+  },
+  "35443E2EF8A20A0AD82DA1274B2768C16239DD46": {
+    "logo": "QmXwqBifZEDYSazzhX6SeoQEbHVNco2MeLNLmGkAb4R6yy",
+    "name": "Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan)",
+    "vid": "QmekTNgjqjALnfuPeCkGAkhoiTTTYejSad8L3cJjaip1HT"
+  },
+  "35EEA568F756BACF533BB9AAAD7E3239BA00E411": {
+    "logo": "QmWhvGY8KbY9QMKPuGNuPGUpQgqzCNCERnZFkjwxcWtvhr",
+    "name": "Buffers Evolution (Japan)",
+    "vid": "QmTZsACTBds5DBb6ardpVH3PS5ihx73P7G7de6WnJY8yNg"
+  },
+  "36D8BC2CE7920D940943358D48F056F81055AB34": {
+    "logo": "QmZ7kGVhCAG7G25EqApGL5pvstKaudJJquqX5UfeMxcuVc",
+    "name": "Meitantei Conan - Yuugure no Oujo (Japan)",
+    "vid": "QmTRG56xxvVCDuffR4suTfqrtT5aCWBM27UrZVYDzWehUj"
+  },
+  "38F708A4C0C4FCEC0CF4D6CE051D1FF76466D617": {
+    "logo": "QmTTp84RXp93hunC8puYDm4CWyE1e8FNW4bMwa34m8zfp7",
+    "name": "Uzumaki - Noroi Simulation (Japan)",
+    "vid": "QmRE8e3XTerLDSFnVkSL8DbQZL7DMTCipHxEghH1o7Eai7"
+  },
+  "39E9A897B681B2C326B052827D7C534F22290286": {
+    "logo": "QmUfbR7BZ5SR66MKRgQukgh4m3H7b6W7ijLJksrkTH6LbN",
+    "name": "Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan)",
+    "vid": "QmbiK6SWCpREr9Efy78WZvGgBHN7LtXS4Si1wjQQDguXa4"
+  },
+  "3A41A3B8FC126DA07E2A82C21056A45C15EFBC98": {
+    "logo": "QmaARzgwz88PKE1G7oAjnpqjQPcnWEE11WPS2JUzSVGB83",
+    "name": "RUN=DIM - Return to Earth (Japan)",
+    "vid": "QmczS5qPD4oU4AGP8RXP7nwnmvZ8WxAHnbnJL1umQQd5tc"
+  },
+  "3A4C5D1C08B74CF05B4CB64CBFD7C3DD8B1C3789": {
+    "logo": "QmU4GTk8Q2r79LiRuDnAFFv5KkMwghz3UK4eLNrVt1sMih",
+    "name": "Gransta Chronicle (Japan)",
+    "vid": "QmQdqQucn4XsLHvfwNigSFnjANYzwfcRAb7dzgayvzKnka"
+  },
+  "3B44BE6B3EFEB5B114A37E666B9D1F9AD146708F": {
+    "name": "Fire Lancer (USA) (Demo) (2018-12-25) (Aftermarket) (Unl)"
+  },
+  "3B62FD2841602F1077270848AB7A3AAD58712EE9": {
+    "logo": "QmV2TceVCsa13tEWdGVzVxGhU84mJSX3BkD3oQ3k3i5fbt",
+    "name": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2)",
+    "vid": "QmWx21ivYAJxNJZKDFqPwLgz1Dbf8esniWujFt97KqXwm9"
+  },
+  "3C752694AB651F9A00CCD39C334A2E3FF78F5CB2": {
+    "logo": "QmYaCEfhmWyNTcAZAJedxNKF3apTAKVHG6hgnhfsEniqYx",
+    "name": "Front Mission (Japan)",
+    "vid": "QmcVaX5X1iTivFwPjSEm7AiZEBN5PadL3GufJ3k8mPtHBi"
+  },
+  "3CE41C90CFC1D53A89ADE2C88E0B16CDC92C0268": {
+    "logo": "QmaWu8MYck4RiNcV6TwTAy9XUasa1Hs7cZpQMZ35sAPfLi",
+    "name": "Morita Shougi for WonderSwan (Japan)",
+    "vid": "QmamCpCAXnc6FuugYWbP3kmAyTazh2o6SYjGph4dv3jcPz"
+  },
+  "3D5A1ED77E721908EB1145AAEDEF17C0EE6355AE": {
+    "logo": "QmSRyTxxVGgX9xgZwgvJmvSywXsNzgpZwTjL12DGspJDbp",
+    "name": "Dokodemo Hamster (Japan)",
+    "vid": "QmZsX57tyydf9EnZSeao2cVupcmyZogRS88bRkWeSN1uZ9"
+  },
+  "3E31BEACA985AC5041C6E95E0D07F163168E190D": {
+    "ref": "9A087B0E6031E7E5E6D133AC82FECB8FAA30816A"
+  },
+  "3E7492478059D142A6A41B40219EBA0C688A8E3F": {
+    "logo": "QmXDDxjM4AooW9m4oXWg4cJ95oTKJXD5WJtNLMy5w4hvMR",
+    "name": "Sangokushi II for WonderSwan (Japan)",
+    "vid": "QmRYD1op3otCMDmRho6geyo8CeUJDTBJYLrcB9Ufqxs3VH"
+  },
+  "3E8FFFE1F607EA5F855397D9D877CECB285507F7": {
+    "logo": "Qmcv2Zve8adx19PmAagbuj4U9fXHCRt266kRyifm4tCHVN",
+    "name": "Digital Monster - D-Project (Japan)",
+    "vid": "Qmc8kep3ZCZwWWsPXRLLnfJu3tR8AvuMGRRqAL2LTLDrPX"
+  },
+  "3F39FF494A3D8DD9D55A2E7CF86B47F1C8E8A156": {
+    "name": "Digimon Tamers - Battle Spirit Ver. 1.5 (Japan)"
+  },
   "4015BCACEA76BB0B5BBDB13C5358F7E1ABB986A1": {
     "name": "[BIOS] WonderSwan Boot ROM (Japan) (En)"
   },
-  "06447C248AFCE04C4F4A1C3B5F7A4AB6F383C94B": {
-    "name": "Anchorz Field (Japan)",
-    "vid": "QmazUujYbnznmrCWQAUXmG9Ku667hEpTEKmJBeLjU9wkQr",
-    "logo": "QmQrpr4SurEs5Pc8RugFfT2ystPYPgVbCyf9UGWWyaeZv7"
+  "4253D5151A925C7AD766F3DD19497150D578940B": {
+    "name": "NAVI GET 400 Million (Japan) (Version 3.0) (Program)"
   },
-  "1578669C1FCF59AB5F5E603C6A65121D7AE209B1": {
-    "name": "Armored Unit (Japan)",
-    "vid": "QmPEqTCuUWsn14wJZmLSW8zZYySVrWuE6mw4EYELrGf5HP",
-    "logo": "QmTjGqSmeMN4ACGD99JUwMoHpwmoFSeaTzKsEkgEUKaAym"
-  },
-  "AE5E4F06F07FE13A48F414A1CD437A816E9AD2E7": {
-    "ref": "1578669C1FCF59AB5F5E603C6A65121D7AE209B1"
-  },
-  "821BB81917445B63AC663C706AB4CE27DE28543F": {
-    "name": "Bakusou Dekotora Densetsu for WonderSwan (Japan)",
-    "vid": "QmRTHXri53pSn3rwp7k9t15KwV41EgEJ8XRQJY2gTaKrDw",
-    "logo": "QmaWgEJbUoqzB9a3surGx4h7syoxQsQvEtnoXWSJK8Ljp5"
-  },
-  "AFECE274CBD58FACD8E9B1223DD0992E9F091F65": {
-    "name": "BANDAI Default Splash Screen (Japan) (Program)"
-  },
-  "544E76133FA53FC0AE5E00E3465B9CF634F14FD0": {
-    "name": "beat mania for WonderSwan (Japan)",
-    "vid": "QmafrRwgY56FVkzZDfdytzKBiaf1Tev1RwdYLemuVNu7v3",
-    "logo": "QmbgkzSePMWL6qVNXSJ9u9VwSHKZhczKthb8hCoTgSkDgW"
-  },
-  "35EEA568F756BACF533BB9AAAD7E3239BA00E411": {
-    "name": "Buffers Evolution (Japan)",
-    "vid": "QmTZsACTBds5DBb6ardpVH3PS5ihx73P7G7de6WnJY8yNg",
-    "logo": "QmWhvGY8KbY9QMKPuGNuPGUpQgqzCNCERnZFkjwxcWtvhr"
-  },
-  "39E9A897B681B2C326B052827D7C534F22290286": {
-    "name": "Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan)",
-    "vid": "QmbiK6SWCpREr9Efy78WZvGgBHN7LtXS4Si1wjQQDguXa4",
-    "logo": "QmUfbR7BZ5SR66MKRgQukgh4m3H7b6W7ijLJksrkTH6LbN"
-  },
-  "E212BBA4FAC51BBFCF440966DA0E67B1686DCFC5": {
-    "name": "Chaos Gear - Michibikareshi Mono (Japan)",
-    "vid": "QmbFaZ5fE7UznRbwzRp8k1jBGbpixAGdXsUrV6Jz9Ads5f",
-    "logo": "QmRLkEwaAqU7ZoTf45ZYQdQ7SHY3EFgCQZgRixiX7VrhaD"
-  },
-  "3B62FD2841602F1077270848AB7A3AAD58712EE9": {
-    "name": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2)",
-    "vid": "QmWx21ivYAJxNJZKDFqPwLgz1Dbf8esniWujFt97KqXwm9",
-    "logo": "QmV2TceVCsa13tEWdGVzVxGhU84mJSX3BkD3oQ3k3i5fbt"
-  },
-  "A8C4F423429A8683CFEBD05370EA122613349033": {
-    "name": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1)",
-    "ref": "3B62FD2841602F1077270848AB7A3AAD58712EE9"
-  },
-  "F7A65E95A8E97F35EC2419897AD96AF1E1D49676": {
-    "name": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3)",
-    "ref": "3B62FD2841602F1077270848AB7A3AAD58712EE9"
-  },
-  "EB538B82C5516FAE8CE38778E41FB118AA5C830F": {
-    "name": "Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4)",
-    "vid": "QmcbV3Ad1PpuqWufEyPEBBeHy6C1dnAicDHgMywxDFaToK",
-    "logo": "QmZL6TzXepkCrdnqYF31Bzc54SRvbiKLmqNgTnW6KV7mcJ"
-  },
-  "C4436A59FD830BA6AF2D63462F71E1AB1CFA3212": {
-    "name": "Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3)",
-    "vid": "QmUpTv5dF6GBEfpEdUtAmnt4pwLdigKaYQJ6gQSNL323D6",
-    "logo": "QmP5BgstEwHN9ewJGohhmJ34HF9N7BG92YHy3oveWH2ppG"
-  },
-  "DB9B3308336B59AEFF7BD173D687953A37739381": {
-    "name": "Clock Tower for WonderSwan (Japan) (Rev 1)",
-    "vid": "QmYnb1D2Yfmds46mSrSNNuyfPTywf5AyVNk287Sr3TR1TP",
-    "logo": "QmVtki9xPCwikDdEm4JTAYqxBvyksGD4k8AbzMZ5HT2mUK"
-  },
-  "4BA44F23D3B43EE730CE34D56F4CADAF429B6D1B": {
-    "ref": "DB9B3308336B59AEFF7BD173D687953A37739381"
-  },
-  "A88882426BF435416616191902A26B2B066F2491": {
-    "name": "Crazy Climber (Japan)",
-    "vid": "QmZpeK99Qkc8vBTTcxXfaTvPsR1sANf5g4gHfNGn77Birc",
-    "logo": "QmTBq6mVUu9TWqtEY7yPdRy9wNMi624SwjA2o9byRXoJLq"
-  },
-  "67A80B7FB00C3AFE0CE9B0F8975C6D250A2CD49D": {
-    "ref": "A88882426BF435416616191902A26B2B066F2491"
-  },
-  "83E190AF2E25FBB3E93B1D5835C52FE6F1D279CE": {
-    "name": "D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)",
-    "vid": "QmNQ3EfgHTv7xGje8wizEj8jS1ZW232z1aXwKHZHUBqxDf",
-    "logo": "QmPqgLhMscPRALTcUTkrYSm3QhswCaMYdw5Ct3HhSjrmZM"
-  },
-  "D3DA0AE529C6F78162682141154A95879F288CA7": {
-    "name": "Densha de Go! (Japan) (Rev 1)",
-    "vid": "QmfUL1Likr9qPyYXHcLeAtkZcXBwUBX1YktfSRrR4Ah8x3",
-    "logo": "QmcyJaBGV3GnxMKxscWAupgTuTvdmioXicyDZLRtELGz93"
-  },
-  "C07F776AC4374B648D1A49EFD9D6FCD0DB2AC1FA": {
-    "name": "Densha de Go! 2 (Japan)",
-    "vid": "QmdcABhRNweBVhfpftANNTxyXFhrP3ViF1uaMQTRFLjZZ3",
-    "logo": "QmeYtUx5PTpZjWh1TWnVP4TTHYeeHyxxNDhuYJv25QNSLa"
-  },
-  "5CC59EC1687FE83EC5FB048D3DFC37849747DF34": {
-    "name": "Digimon - Ver. WonderSwan (Hong Kong)",
-    "vid": "QmWCpNQzukDLAvU4KUj2vogm4Nd5opPAmFYNM7GQiW4uTc",
-    "logo": "QmSuBKuzavNrMyYxKSdPZART8H1eCqevAtE2Nc4G3tyTPE"
-  },
-  "9DB54826C2887DEA07AAC774BD15E092596E37AF": {
-    "name": "Digimon Adventure - Anode Tamer (Japan) (Rev 1)",
-    "vid": "QmXy5pThubw81ZFXknycH7uVzC7Y9zPEmMKAfmoX4js2YY",
-    "logo": "QmRkxASXHfgUHDEMCwYq6TPqkJsCV6Kjht8Fr5ixsmPvMV"
-  },
-  "C49BD00C95BCA49A183D59F85E81815EFB1A2FB9": {
-    "name": "Digimon Adventure - Anode Tamer (Japan)",
-    "ref": "9DB54826C2887DEA07AAC774BD15E092596E37AF"
-  },
-  "0B54CC1D350AB92C42CE8214784389B994562BF6": {
-    "name": "Digimon Adventure - Cathode Tamer (Japan)",
-    "vid": "QmfYgxM7PkvdkUB2z2jh2YLB2j1A2mui6uhKxJ32hkxohX",
-    "logo": "QmYoUdECH3M3efeTGoK6CGLD5msc7q2Vo2wmTp58Ciwsa9"
-  },
-  "44A5502B70EA75926B87377E3F634C8093BC574A": {
-    "name": "Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)",
-    "vid": "QmcDvEXMKezqy9SeasRPFkLoP4J8tVwCs2BSrtwkrCM4Zn",
-    "logo": "QmciySrTc1E1QKuTQqPzrHWfZRULt2HXtK86dLGoVAUBn7"
-  },
-  "521754084AFC6321AE329421B9D2AB0F0CAC8C70": {
-    "name": "Digimon Adventure 02 - Tag Tamers (Japan)",
-    "ref": "44A5502B70EA75926B87377E3F634C8093BC574A"
-  },
-  "ECEA24DB6E65254AB4D6E312DE0EB951C7DF716F": {
-    "name": "Digital Monster - Ver. WonderSwan (Japan) (Rev 1)",
-    "vid": "QmWCpNQzukDLAvU4KUj2vogm4Nd5opPAmFYNM7GQiW4uTc",
-    "logo": "QmaahUp8QmLZum1BgpdnkxJhhTA398YoauqYHSYTam4Sog"
-  },
-  "C622F6742CA3F0129FC12DCE0A1C17D292388FFB": {
-    "name": "Digital Partner (Japan)",
-    "vid": "QmYB5TDeuh3zMSt2GmVz9Na8fVMhqTQmM7VmwA6e8JZwJe",
-    "logo": "QmZZUA7xFydF5YWV7gmj5rXNPCVXhdbCc4ogfGmntoxpGf"
-  },
-  "3D5A1ED77E721908EB1145AAEDEF17C0EE6355AE": {
-    "name": "Dokodemo Hamster (Japan)",
-    "vid": "QmZsX57tyydf9EnZSeao2cVupcmyZogRS88bRkWeSN1uZ9",
-    "logo": "QmSRyTxxVGgX9xgZwgvJmvSywXsNzgpZwTjL12DGspJDbp"
-  },
-  "F79451034B6D844F0E10C825306BBC26F26A5466": {
-    "name": "Engacho! for WonderSwan (Japan)",
-    "vid": "QmeVz85xHgnwgeJkac4F8yNPVSi6zLLov3MwQG2irtyS4x",
-    "logo": "QmcS92YmhfKKv94ykt1aDKrQr5VtGmSYshptNUinMq7Hsm"
-  },
-  "F26B0215C49E04CB8EF6F031B627DFF6A49D2015": {
-    "name": "Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan)",
-    "vid": "QmWSC3DzSaiPswLhQt7QXTiNy21vNnhTG1SiSYsAH7KfJN",
-    "logo": "QmQENu87WMWbSkoy3pS1Y7hgRdnG4g6PNPVEwwAfSRjJXZ"
-  },
-  "CFCB14BE6D2F1DBFFDFCEFB8C8D83B4F39BC102B": {
-    "name": "Final Lap 2000 (Japan)",
-    "vid": "QmPvQ53VL9CZ4Bsk5L1MZN8z8kNxvSujwn7Q6heF2oq5Jv",
-    "logo": "QmfQTUkt3pEEzW8Pxi1khRa9eMQJLoft6xTSjsPFwypw5f"
-  },
-  "FBB745B016CC710FF6F82EC3091A181415D8DE61": {
-    "name": "Fire Pro Wrestling for WonderSwan (Japan) (Rev 5)",
-    "vid": "QmbeYozHv6MskEc6szddcsTst7LEkMVZazYGG3rFQ2nWFW",
-    "logo": "QmTSTGAa2YjZWrZoyptd5U1s8eDNuED8q3N11a2U77zaVQ"
-  },
-  "F8F077DA30F227F3793E97C7F1D656559F08B9D4": {
-    "name": "Fishing Freaks - Bass Rise for WonderSwan (Japan)",
-    "vid": "QmbC7H2noVuyHu2p2vuqQ1FGJWhcsgWDBcr4DUS5n9nyWn",
-    "logo": "QmXoaAq89rdvzLHujwyPX2v9n534hjSnSLa9xwfQFFqQKA"
-  },
-  "99C831C27C478064E3D3FA8F9F089CC28F0E946F": {
-    "name": "From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)",
-    "vid": "QmSUoRiwMn2AJHK94pKRgCGyweagdNrmPu7f61zsFZqjtc",
-    "logo": "QmSaWMfqgfPyFov5GFBPjBJff6cuzQxnvDqpAbRCZTFSCz"
-  },
-  "CBF6455E89B20A000B6121E5C485BE1A20D1F726": {
-    "name": "Ganso Jajamaru-kun (Japan)",
-    "vid": "QmPegEVP8nBQUwYLvDc51QMQm5vEHD63ntwDr33njgnVsH",
-    "logo": "Qmbz1aF3NZfcPfK553GH1zQwcvAjRtBQHtbfyrHY6xuPJN"
-  },
-  "837528B9D95E309F7B1E8C4FFD46CA3E2B68A5A3": {
-    "name": "Glocal Hexcite (Japan)",
-    "vid": "QmWJt9esRf84Tsjt2muXvLFKS4YQrqB4BJ1BKtaY2opbPF",
-    "logo": "QmRMDMDG78SU1pWBtYep3Up1GjX2SU7WfLNPWWQPqnwvAa"
-  },
-  "E100D54E5C63512DBD655F0439870E08CED439DD": {
-    "ref": "837528B9D95E309F7B1E8C4FFD46CA3E2B68A5A3"
-  },
-  "0931DDEC058EEFB32A68A1752716ED2BA68B78BF": {
-    "name": "Gomoku Narabe & Reversi - Touryuumon (Japan)",
-    "vid": "QmTTpUpH5TdYgyoaBZdsheaVvNSji9AvRW45grfxmLutn1",
-    "logo": "Qmd1KLdLefxTMcEAcY8vpAi6Dx3hCAMTDwdTTRqgeShzFL"
-  },
-  "AF3FE9DA3F5EE0F5A7B06B0440223DB88FCB3BF2": {
-    "name": "Goraku Ou Tango! (Japan) (Rev 2)",
-    "vid": "QmbN13msgAF22ZDDcgVJJBdYEqPPUowHCiGvhu8FPwUAhG",
-    "logo": "QmQcVnvzDPozxrzEnCKJCYhrS83UnnqEYNpuUCNVUUEXG2"
-  },
-  "EE4B777F029BAC9561E60C19407D08360E733822": {
-    "name": "GunPey (Japan)",
-    "vid": "QmQNYaLZ2mAUi6vV3pH6Ag5CxNnp43LRppegLu5uLPRrLj",
-    "logo": "QmUSYQuuGJHRCksiC8uEdXY4jiq1fTkskeBFpapeJTZ5ww"
-  },
-  "1EDA3327EB9B5A5844A95AC789F71B669F4CB6A7": {
-    "name": "Hanafuda Shiyouyo (Japan)",
-    "vid": "QmPuVHSxHpEvfgj3qRToecU29tM747iKgqBSR5w3atPei8",
-    "logo": "QmerQmZnXSNA28dvdCnAcoMK28WLKyYsTypwjmU2eDjSvM"
-  },
-  "1F42C5694A798DE8FF3C68F63DFC7395BE1669A5": {
-    "name": "Harobots (Japan)",
-    "vid": "QmcvomcLUFEk9d7mnpqng81U6KAbGhsSUHtWH1Aihsay54",
-    "logo": "Qmad8A4anpm75rtw6V5JQepYNno6tb4CRpgix6bp12Rxgf"
-  },
-  "ECBAF210F92C75A55DF9DFF4777EA364596AE0C9": {
-    "name": "Harobots (Japan) (Rev 1)",
-    "ref": "1F42C5694A798DE8FF3C68F63DFC7395BE1669A5"
-  },
-  "57B4278FC5812F52413CA65F45225922D4F2EC3D": {
-    "name": "Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2)",
-    "vid": "QmQMgpgVaBhuLwtovLT2t8kcG7RswesJWakr8zT29sH3vc",
-    "logo": "Qmas36vQwsqBmf4BKEKvYmH1VDSqdSoCm6LUUdoBW8hh9H"
+  "435F207CCE79AD6AC5B564E8A37E0D4395BD3739": {
+    "logo": "QmPyi3tSKxMWny5Yc3qepQ7FB6WGRvsEe5vj4FwaT7aD3C",
+    "name": "Soccer Yarou! - Challenge the World (Japan)",
+    "vid": "QmV2VydsDYpShKMvAAGCiBMycianTifrhNJMmffKNUV5VF"
   },
   "43D985B31848E1AE58D07231DA80EE7AA8D3F686": {
     "name": "Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 1)",
     "ref": "57B4278FC5812F52413CA65F45225922D4F2EC3D"
   },
-  "B40FBC7B72921C9AC31330831C0F77E4133EC7D6": {
-    "name": "Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)",
-    "vid": "QmTwDSyxziKxiGztbWAYYKsHMbRVbDHfZecjnmMgyQ6fuB",
-    "logo": "QmfR8zpp479MQ5kQP38L81HMWwj6xT637M9k9TaCg3Mj1C"
-  },
-  "207A3CEB9A09EABCA6E455DEEB7035E7E04C9795": {
-    "name": "Kaze no Klonoa - Moonlight Museum (Japan)",
-    "vid": "QmRjLAs15oWRUZSTJdbSeLPP4GSQJ1ANcGph8GHhHH5Rs8",
-    "logo": "QmZYQGdaNQTcH6WMhpTEwW4q8rbRViXx3zQyhunNAM6GYZ"
-  },
-  "12D26522665CB8ECB3178BC242D984DEAE438E5C": {
-    "name": "Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)",
-    "vid": "QmakH5hVu8HWscowLU2bxCrjkNjsCJyDKkA7WWwmyVuLJU",
-    "logo": "QmWnFTA7rLSkVLMn5QBbKQeohBcL5ZdgQCVW1L66eVoiVL"
-  },
-  "9EF89B6FE68C5A06D34344E8C783EC24114AD959": {
-    "name": "Kiss Yori... - Seaside Serenade (Japan) (Rev 2)",
-    "vid": "QmQt8cVdmJh193cEz9SsQkRDcdXoN95zvDPsWkReN4SFdb",
-    "logo": "QmRw5VyCRBuREMaDmkBBKFNc1ZJNxQSAWwdPrSNV2idJjs"
-  },
-  "52B154A3E36D01357649A9F7F614139CE6CC46B8": {
-    "name": "Kosodate Quiz - Dokodemo My Angel (Japan)",
-    "vid": "QmUsrdG9vbucWjpkhJQPxBiZwdaSHqk8TJvpmH1r8NhfzL",
-    "logo": "QmbZARkJLVXotj7cLokhRRKMYuXvPcFSs7nQmD2PxXoQ2E"
-  },
-  "A309A430FBBED6C42F41D8CCAF4ABA82E96D6A7B": {
-    "name": "Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1)",
-    "vid": "QmYScQ8v4fyRBNUjHsQwvurKj5kdTWufD1SATUqDZhSCNh",
-    "logo": "QmTkjY9HqKy98CRN9GJZsGi7pLGG1NU4ySDC92NRGbHfNa"
-  },
-  "9FDF3F5821F2A4488139525FE49E87B23DE4571F": {
-    "name": "Langrisser Millennium WS - The Last Century (Japan) (Rev 1)",
-    "vid": "QmcLW2eaeGQCbMTqLe62VcQHhDHWGorfcGXyjkUTWhFL9h",
-    "logo": "QmaqqQZ9SzZ2jpchrLMLevkxVqmEQC5jJPYwPC8zaSTKSR"
-  },
-  "D524DA01F2BFAD92C2FA080950229955A3030EF2": {
-    "name": "Last Stand (Japan)",
-    "vid": "QmZrjQkqrhwvS3uWbNm2r8USaxLpSWimyESZz2HvKxdgqm",
-    "logo": "QmQEKqueoiukNmwFSJpZqGTYzsExmipyU9jniX794RBh5C"
-  },
-  "847F51592F181AA68061900700149B86CDBA651B": {
-    "name": "Lode Runner for WonderSwan (Japan)",
-    "vid": "QmPavGNDYSm9dU1o3VVLG8VzvhsYHzJFcdMtcAoqvA8kQK",
-    "logo": "QmPBqGMYRKiBYYbs94xZMDpkMHMC14HMHRwNsiPMX1N8YV"
-  },
-  "211E051DB3FD4D7AE1EA143E043F87CFBCEC5F1C": {
-    "name": "Macross - True Love Song (Japan)",
-    "vid": "QmYbd25hTxHu8MQWuFDAtUZrty7YkQAgJ4wDjAcbWrEiXY",
-    "logo": "QmYfF6zhtmKdLKrrTCN56mp3vt4bEhv3ncc3cFnKHVgZVW"
-  },
-  "A25944969068EE495254F94C2C48DFFFCB66CE8D": {
-    "name": "Magical Drop for WonderSwan (Japan)",
-    "vid": "QmSwnAE4qARyo3MDMYwmZcYbebNAy3gpWmWvqMoUo8s74c",
-    "logo": "QmciEQELrnosKvoG511fGyEkq3Z7gykni7pyCh3HksukE6"
-  },
-  "281079B22CB213EE4DDA5C304B5B5BE028130929": {
-    "name": "Mahjong Touryuumon (Japan) (Rev 3)",
-    "vid": "QmbvbKoYik9WZmR7GtuNevT5M713ZUPsoHfEpoSX6WTepp",
-    "logo": "QmfRywjE7hvZQeabf7UWXJc5v1SZHS7yDsd8gVuZuydwLP"
-  },
-  "748CA335D39515A6650352449972684BE749052A": {
-    "name": "Mahjong Touryuumon (Japan) (Rev 1)",
-    "ref": "281079B22CB213EE4DDA5C304B5B5BE028130929"
-  },
-  "5EAEAB859E5F647FAC354DAD285A311387EA126B": {
-    "name": "Makaimura for WonderSwan (Japan)",
-    "vid": "QmfHvjdpDHPY11njTcnbrZpFb1NMmz5NkG4LiobEus961d",
-    "logo": "QmboXs3jNsXNtHg7ZEanAANAZuHTMYMCpmm4RitN2z1XCR"
-  },
-  "509E5748E5EFDFB56093C78AE886153DD1838215": {
-    "name": "Medarot Perfect Edition - Kabuto Version (Japan)",
-    "vid": "QmesUSYiTQgCvq8275Th7NVcWTc66kHynU6NvgNEDYCcAF",
-    "logo": "QmRQzPUPUdm3GddDnwiQNmD1o6uv3pAzrFW7vJKH6rreuL"
-  },
-  "315061E4739E947175D6AD7F006498CD61A33F8C": {
-    "name": "Medarot Perfect Edition - Kuwagata Version (Japan)",
-    "vid": "QmZh84SVFy6cBAeBRGRngtRY9xNQz5Z9WFPBGTVeKyWyWQ",
-    "logo": "QmZ9g2EFmNxUX1PDsx4YZMynSZ4Vzscikr8wMZ98BnNQyi"
-  },
-  "8F3F97BE31F3BD0E6922AB7795AA6F04BC5CFE2A": {
-    "name": "Meitantei Conan - Majutsushi no Chousenjou! (Japan)",
-    "vid": "QmXr5rUsB2EPTc37NP8D97fdMJ3UsYdgooNfeQ76UYUgBs",
-    "logo": "QmUQQmajNSWozdJTC1tbocpbh8fXTFErkimUoqkgVND9V1"
-  },
-  "E5684789E81F9D739010DB575022A12A448B5509": {
-    "name": "Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan)",
-    "vid": "QmQZq1YKHX3wpdS7t3T8vCMSkxHN99Z6iwaPbAoWRQSdtv",
-    "logo": "QmTtXnRF3m67jojQum5jhgqdwnQDeRAN3wNjpb33XhajBf"
-  },
-  "DC94E17A942ACFDC1EB0C38D91BF72460A4BB8F9": {
-    "name": "Metakomi Theraphy - Nee Kiite! (Japan)",
-    "vid": "QmP6gFqzdhDBaYddGt6WKHLLvUd6jgqTCC88s8XKqBm9ni",
-    "logo": "QmRQAdS4pWGuB4zALEqPBZw8S3o1HZ4xRpuTVJ27y34qEz"
-  },
-  "C7230EF709F6CEAEF9A220541C8CDC05C0CD549F": {
-    "name": "Mingle Magnet (Japan) (En,Ja) (Rev 1)",
-    "vid": "QmZ5zm3LM7S6zUNzqfz6cfwWyJc4wfuR36UhedvsFwZxPv",
-    "logo": "QmXfuyWA7CGKRpqmEXFUypiyx5ysSQ2gWZZwajexhhK4HB"
-  },
-  "2688CA67AC31CE3D5C3523B0E11CAD55E70FA257": {
-    "name": "Mobile Suit Gundam MSVS (Japan)",
-    "vid": "QmTtDZuiuQLQ5fRsUZpA7gT1vgVLzedEpGp8Ht1P7UYzoR",
-    "logo": "QmVPtJfVGBXkMNy6ba6jwXb9Weq6RpAFR9CXWKvyxL12Yw"
-  },
-  "92D4A6FF6F2B1152D8935025F38F910155E5D709": {
-    "name": "MobileWonderGate (Japan) (Rev 1)",
-    "vid": "QmQ97dcocuoH9UKr8GRKjf7UULM8mUN8nyGn42TjEc2x39",
-    "logo": "QmVUDX5sRNoG9B5Yv9wir5yzCdMWLqYkreWBqxwYsAPSQT"
-  },
-  "E88E659CC04FC08A04B8C881F62FE086C5CDAB06": {
-    "name": "Moero!! Pro Yakyuu Rookies (Japan)",
-    "vid": "QmNqvzkWZmRnhqvN9YAFG7ZYyeY4BjkbRJgHoK9vb84BN9",
-    "logo": "QmQLH37HmsYu2uyDfyNnA3tQbpJPn4RiDK9aNkQReKH46N"
-  },
-  "3CE41C90CFC1D53A89ADE2C88E0B16CDC92C0268": {
-    "name": "Morita Shougi for WonderSwan (Japan)",
-    "vid": "QmamCpCAXnc6FuugYWbP3kmAyTazh2o6SYjGph4dv3jcPz",
-    "logo": "QmaWu8MYck4RiNcV6TwTAy9XUasa1Hs7cZpQMZ35sAPfLi"
-  },
-  "B358C65BAE818C4B3DE6BF668D16C311534036C2": {
-    "name": "Nazo Ou Pocket (Japan)",
-    "vid": "QmS53e3S7uW4KJ2Ww7nE7t6i3ovaEQQxuQvjaNxoTrt6Qj",
-    "logo": "QmRZ2tEzXDRvg5vHLtCBfw3Ts7qB4cz4BWYyjwGWCgtjSY"
-  },
-  "AE31488CEE1C91F383EFBE3083B4ABEC092DDA36": {
-    "name": "Neon Genesis Evangelion - Shito Ikusei (Japan)",
-    "vid": "QmPk8MqAN2ypjkMkCD9HXnbf9s7ZaKwLkiTcPtPdoy5LQA",
-    "logo": "Qmc6mDnei4NxCtHXyp3FXq2Xh3t4KqwN5wjqEJfypxB5D4"
-  },
-  "6A479EE45E69CD3D6CC6CDDA5A60EFF3077953B0": {
-    "name": "Nice On (Japan) (Rev 1)",
-    "vid": "QmPUr2DPdxkJQtEWEeUgb37HJANb3V1iRAqD6v2hyLm6vx",
-    "logo": "QmQKBVPfTSBm5o27GeqQSUqviFdGyXGLUYC8T3jtQ7A4S7"
-  },
-  "4EEFC5A51008C2AB33E8D04064EC9BDCBC03D036": {
-    "name": "Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2)",
-    "vid": "QmVyKzqucunTh7qgFuEdFkzCfP25Js4WKU51npVUxXo65H",
-    "logo": "QmX91pi1aX475pJAaXijw1UwWRrTdPLQYbXHWPdu9dzC3S"
-  },
-  "785EBB7528F5268E1A1FC10DFFBE95CCF6D39560": {
-    "name": "Nobunaga no Yabou for WonderSwan (Japan)",
-    "vid": "QmSiB1zaMnGv9pvBBCPoMQ3AUbRH2Fn8AEvLmpa6Q5RqMJ",
-    "logo": "QmPCYHiBX4WXxDWJeFYm9tSbEFboG6Vzwq7zFMUg8Un8vL"
-  },
-  "0F73D3112B1184F74E728CF1252FFBEE6A146FA6": {
-    "name": "Ou-chan no Oekaki Logic (Japan)",
-    "vid": "QmVnVEnTkWw1hLkJmLP9RvWK5tk8zRKud9FQmFwAtG8kst",
-    "logo": "QmUzb2UKiQqpoYQqbjAVvbQj7LszegZ7s7ypuYL64BCZSW"
-  },
-  "FB8D0F4E58A4192989EC71EB6E392D182AAA3EEC": {
-    "name": "Pocket Fighter (Japan)",
-    "vid": "QmTzEUEzuTK9VBZxzfzgSW6QA2L8FZK4rS9eFWxMfiBvRc",
-    "logo": "QmSwMRosb8RTFHGM5JzZz9eBuJw7J2hYEJuDwqBXtBG1Qs"
-  },
-  "32013A7A745A3AA2FD63CC9427C5E1F2635655ED": {
-    "name": "Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1)",
-    "vid": "QmNeGvUUnNii1EpVWRrBPnemHnfR5XQzdW9HnzCdDHHwV4",
-    "logo": "QmbxcxYKcpkKjN1KEspJ4h5K7YWpaAZ97vzBAeXifCYdrU"
-  },
-  "D72C1221C2CE3E281A0EE288A3D079AA8E1B714B": {
-    "name": "Puyo Puyo Tsuu (Japan)",
-    "vid": "QmaW12fDdUnyB7YeA2CeLwcPtLvCbt2v84nFThWzD1A86f",
-    "logo": "QmNYXSxqZ8uZD3qxHTUsaUwaFgUgvYf5sLzdcGLtmVywiU"
-  },
-  "FDB8E9F37A4B097350B7C5B1B8EE381CA51DC0B6": {
-    "name": "Puzzle Bobble (Japan)",
-    "vid": "QmUpH6txHtR9sKKDSmZzjkYQRgvQFQaKjhxMa1c9jGTcmk",
-    "logo": "QmVgLHryLkCoAH6fQuVzGR7RSvbFATVb2p2K2CRnDycdVv"
-  },
-  "5E7DABB66B0CA580481AA79EE8B8A5B0C6CE6592": {
-    "ref": "FDB8E9F37A4B097350B7C5B1B8EE381CA51DC0B6"
-  },
-  "759DEB79A3FC3BEFED705D7264E4B88ADBADACC7": {
-    "name": "Rainbow Islands - Putty's Party (Japan)",
-    "vid": "Qmdq2BS3mGeS9AEJ9aALCZGni5w77WoKFS1gwrz5WcLwV5",
-    "logo": "QmUPCpSJ1HePu6s1jvUMtgcjrCReSWpdeW7WfCThKC8ixy"
-  },
-  "9896D93C97381DC06B6F044DE6C9BD112CA0C94B": {
-    "name": "Ring Infinity (Japan)",
-    "vid": "QmPBTPK77fjQapjitoyJKhjUHcqQis85Hh98A1dQL1xdQp",
-    "logo": "QmfLDWLyE5vkgf3eJoD14oq8bdAWKEgkq5EWM6N67aPh5r"
-  },
-  "4D4D4A3FDE6B1DBBC8F008FBD035FB59624DFBA7": {
-    "name": "Robot Works (Japan)",
-    "ref": "2117ED92E8CB4AE61868535F1D4D16851B480890"
-  },
-  "2117ED92E8CB4AE61868535F1D4D16851B480890": {
-    "name": "Robot Works (Hong Kong) (En,Ja) (Rev 1)",
-    "vid": "QmRKwUQR7bvHTkGRSTaDoWospdWfJ8UFxRgcCW4hDcAZvu",
-    "logo": "QmW7o6xhMNrXrzgar5bcdo1n6HUjGrCVYeVSSyXxAYvdZi"
-  },
-  "9F8829AA8EA523E8370CBB2ACD2ACCE056BB7958": {
-    "name": "Rockman & Forte - Mirai Kara no Chousensha (Japan)",
-    "vid": "QmP6bTd24fNBuKHDkbFJBJVwguGXyAu836p6Dgo9NdKZNH",
-    "logo": "QmUpi56ETtP8asA1FzFn1YbyobKXd4BhUwM8fhzs54UMnf"
-  },
-  "D064B94F31B15564C9A3DBD3A68690244EA043AC": {
-    "name": "Sangokushi for WonderSwan (Japan)",
-    "vid": "QmXd7QwryAdqA9HdDTSfv6aGL6Fg1vdu2ee7f6XZB7c9yP",
-    "logo": "QmPuecXex6VRvjrR2tYYTjA4UJE7uGZU748hTjvFqUQS1r"
-  },
-  "3E7492478059D142A6A41B40219EBA0C688A8E3F": {
-    "name": "Sangokushi II for WonderSwan (Japan)",
-    "vid": "QmRYD1op3otCMDmRho6geyo8CeUJDTBJYLrcB9Ufqxs3VH",
-    "logo": "QmXDDxjM4AooW9m4oXWg4cJ95oTKJXD5WJtNLMy5w4hvMR"
-  },
-  "59D904149C3F405357B2715468D509095388A194": {
-    "ref": "3E7492478059D142A6A41B40219EBA0C688A8E3F"
-  },
-  "AE54A1F8916A2D37A1E0C82C5A9B5D8FE0EEAE51": {
-    "name": "SD Gundam - Emotional Jam (Japan) (Rev 3)",
-    "vid": "QmX1biiey39e5oAEUcEwL5pjwKzdhG7jNgdP2J2wgPT8U3",
-    "logo": "QmcQj19V99vxAtat9W8q4th8FEHFKvuBQvP7exuRhmKKNn"
-  },
-  "B3B4CF8E996C2A1FB149074725DC4B07922B3133": {
-    "name": "SD Gundam - Emotional Jam (Japan) (Rev 2)",
-    "ref": "AE54A1F8916A2D37A1E0C82C5A9B5D8FE0EEAE51"
-  },
-  "5E5DB8B066E1B41C5C12A2D4FFA97B73ED6C3F03": {
-    "name": "SD Gundam G Generation - Gather Beat (Japan)",
-    "vid": "QmX1ftVnyDpd1DEXGUjw2nLh6Z6ZondeYJXZLJoD79wqXa",
-    "logo": "QmXrWVAiozZZcc61cZCeSvjRFKt5TxVtp1qJ18Bv8P9QU7"
-  },
-  "E6899DE5B53F73C8978E3330DCA0F2DAAF95F140": {
-    "name": "SD Gundam Gashapon Senki - Episode 1 (Japan)",
-    "vid": "QmXATohycWSge9qYWMYDbkjp5PZcTH1MhLjxgxug6t9rBb",
-    "logo": "Qmc25sn3KjtK1KVEbSuQ5kmHQc2KL23KmRT9Q7yJSco9jG"
-  },
-  "80EFF574C75C2168FD0991C0EFD16F9A9CADC24C": {
-    "name": "SD Gundam Gashapon Senki - Episode 1 (Japan) (Alt)",
-    "ref": "E6899DE5B53F73C8978E3330DCA0F2DAAF95F140"
-  },
-  "FC8B0B9B7EFEAC54812E7AE54153B7AE0CB9C12F": {
-    "name": "Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan)",
-    "vid": "QmYs6srFikUGKAuSFK1y4ML8B1nhCtZxAPvkSDsvjTPEJ9",
-    "logo": "QmXbux86xwnrP2i2uvrCwubsHFenSNZGipiPwaTUdSUyD6"
-  },
-  "708288E70B3186F6C0EF07ACAEF1B50FE6B7AB22": {
-    "name": "Sennou Millennium (Japan)",
-    "vid": "QmdamY2x197R98YKRvxrTAHw2SdL71toKUsn3a6xwSJRpQ",
-    "logo": "QmRUji8cvoCMEB8wq8sJxE7kKKKhNZP7X47jQwnUGkkohB"
-  },
-  "D64B9B2D567D1CEA5960F64E5BDF83D4514446DA": {
-    "name": "Shanghai Pocket (Japan)",
-    "vid": "QmXrTv2q1gBGpxceurtTRffbBCkZ6jKV6eRUSyyMZucDAW",
-    "logo": "QmVu2wRuXX2XPqZeLNgr3QNXFVsY4dAUXUhrgz4BkL8bEd"
-  },
-  "7324C5939B8B64858C96BD9726F5B5C483A11E22": {
-    "name": "Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1)",
-    "vid": "QmQrNuK6u1uh48Jzy5xSKHqfPNkwnxDKzvAU1EXRv7JSVw",
-    "logo": "Qmd4pAbcqVhy4tTswzJQ6ej54NGEB8xJr4gZXcYv6oqv39"
-  },
-  "0BC88B0AFFA97225E22C531306E9930DDB8F8905": {
-    "name": "Shougi Touryuumon (Japan)",
-    "vid": "Qmahhn9JpZXuB1nf6mDYULfNpSPxAEnZGZdoZ6YZppHgg7",
-    "logo": "QmSY6C2KTHrs6dPHqMPyidq4LxyxCib4hK329c5FYVM1Pc"
-  },
-  "4A756DAB81E0101475DC2E5494270F3DF7DAC1E6": {
-    "name": "Side Pocket for WonderSwan (Japan)",
-    "vid": "QmZ8Gkur9emKw6PGHpUKBxd6gFWtyBMdKamgtawx4YCZ3c",
-    "logo": "Qmcb8NdnhDWDpFUi8LHY1gJ8KgnbG29ieZfKyrWgPfQnPq"
-  },
-  "9A087B0E6031E7E5E6D133AC82FECB8FAA30816A": {
-    "name": "Slither Link (Japan)",
-    "vid": "QmTd5UZ7yyhnqgLAbGyxYXnNX6suVdyrnBE9KBJwneHfcq",
-    "logo": "QmYLe9f2GEcu2KeyHestNjUprWvgnncG4wFahdRbNqzoyK"
-  },
-  "435F207CCE79AD6AC5B564E8A37E0D4395BD3739": {
-    "name": "Soccer Yarou! - Challenge the World (Japan)",
-    "vid": "QmV2VydsDYpShKMvAAGCiBMycianTifrhNJMmffKNUV5VF",
-    "logo": "QmPyi3tSKxMWny5Yc3qepQ7FB6WGRvsEe5vj4FwaT7aD3C"
-  },
-  "E461762566D529D1B103F119DA50353902D180D7": {
-    "name": "Sotsugyou for WonderSwan (Japan) (Rev 1)",
-    "vid": "QmZJEzHdFRqfdWpRTL3h9JwUwdryS53GWMYc4iqDtXCRR8",
-    "logo": "QmVDkq4A5tHDyRvxuxdn3EgtKnLf38b7EkyJEdoYiBZu5p"
-  },
-  "54DD6E3FE81A8A384A0FFDD7A39211A5DE9174C7": {
-    "name": "Space Invaders (Japan)",
-    "vid": "QmQTCqCvb1GrQS77UZa72bKo8gbmwkyNdi9rMEUGJcbs54",
-    "logo": "Qma5p4GD5zdzRvBLCxWr8r4AkMy7RZmSTv5gnuoJPf8eBz"
-  },
-  "E93D58AB5819992E54223F5D1C4D5AEB6983D6A3": {
-    "name": "Super Robot Taisen Compact (Japan) (Rev 2)",
-    "vid": "QmULKD4ZQEDDmaSCKUcKHGj7xHw95X1MqVKzA7LcPbSNLN",
-    "logo": "QmTPA3WCFhuufLXc3uX3Doo5iipHBWjSTaLBKFvDNfjDfM"
-  },
-  "A957111681951EB6A971A6B4F75BCA7F89B29628": {
-    "name": "Super Robot Taisen Compact (Japan)",
-    "ref": "E93D58AB5819992E54223F5D1C4D5AEB6983D6A3"
-  },
-  "C4A21084BFF1F2A63784FE7D11E046F305AD310A": {
-    "name": "Super Robot Taisen Compact (Japan) (Rev 1)",
-    "ref": "E93D58AB5819992E54223F5D1C4D5AEB6983D6A3"
-  },
-  "E6911E5BB0A742BA299E05B20EE81F2FAA4854A5": {
-    "name": "Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)",
-    "vid": "QmdQUqsKbfJZyBYRaDp1XwAEgUmvQRJQrqMUAkychQRy4x",
-    "logo": "QmTaMfLQ4VwKQdQqP3u5qVv9kupSNTGj3x5kWWcPkZqAuE"
-  },
-  "6014AC0B8978E710F26C9CC41180CDF788584743": {
-    "name": "Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4)",
-    "vid": "QmcoG1tfc6kNaR8YJzurdaiG5Qh3WZ7QHKos6zpBC4peMH",
-    "logo": "Qmf9cLa4FDzcthD56Y6spnTS3egUu4uB9hLkpLPMVY3Kx9"
-  },
-  "D24D8CEA57C5C487E877EAA523EEFB0DD184556D": {
-    "name": "Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2)",
-    "vid": "QmejNSNk68T9dC4bkYnuieBhuzPwTLrRXVJYN29Pd31XCL",
-    "logo": "QmfZksQ6cgQGJ9QAydk6h7C8vNHqeavpSo5rVQE4dsiZ16"
-  },
-  "BE4559D6F48D7CB9550C8776F877C5C9CDA0EFA1": {
-    "name": "Taikyoku Igo - Heisei Kiin (Japan)"
-  },
-  "2F35D250B8DDEB98CA3A2704A4AD85713F4C71B0": {
-    "name": "Tanjou Debut for WonderSwan (Japan) (Rev 1)",
-    "vid": "QmW8qxbnKbfFUvQry6myFSBFAn9k2zeRfr6u5zN7ZKEiUZ",
-    "logo": "QmagLjLXneT3sHoshEqSCfuHCQDXCn7WVthEnTUA5vj4cs"
-  },
-  "9622C65C939F05A9DFAE288919EC5BD15C348F14": {
-    "name": "Tare Panda no GunPey (Japan)",
-    "vid": "QmNY3WBVH39tDg8MeqGFnUhmurGLDx4vt5quAhfiqbYnEa",
-    "logo": "QmSyTLYNv37dLtMSStsbvxeEQUzTCHtYBRQciq6FsNz3B3"
-  },
-  "96A9CE5E56DC0C9648027AD4454E6F35E88D9A07": {
-    "name": "Tekken Card Challenge (Japan)",
-    "vid": "QmWZTMJugrnmsc1Haf17VT4bJCuR9QpXP6asMdRpDAacJz",
-    "logo": "QmVjiz2LG42zZxhBnnZkzMCpBPUuxgGxL47rKhJDDQUdzo"
-  },
-  "C0104DB6E176CFA64A95E4C9BC9382BEAE4D70D1": {
-    "name": "Tenori-on (Japan) (En)"
-  },
-  "7148D750F12B5DA9A0EFD99F5A5A7CCADECBDF60": {
-    "name": "Terrors (Japan)",
-    "vid": "QmQoy23n4AwbpJY8Mzt4VFyNC8FpFe3puXAyCDDpe6f1U6",
-    "logo": "Qmev69GDRrh6R48qMJYvYJq44QSEiHXPBskid6sfSyjDGN"
-  },
-  "65C4C6AAA36328BBA5D56419AF59AF5D3420ED78": {
-    "name": "Tetsujin 28 Gou (Japan)",
-    "vid": "QmWa6h5VGBuHiBq4ceWsZpK1Wm9SNXPt5DSQ1KEspHuTZ2",
-    "logo": "QmSY91D1CmJtRiRtoZPqMAG7zNFo72HS8HGGHXebtwTCtX"
-  },
-  "AD77D2E8429D5ED926D514D926050086F4EDBEEE": {
-    "name": "Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan)",
-    "vid": "QmTVt6HBXE4JKvNWvbcaMeFcBpjdvHQiZbiRcoDhs86PEU",
-    "logo": "QmeRdQBYfu27JXQCqfHA7YvJF5Am8X7qCpn5ZneqytERHA"
-  },
-  "866C67737A4FBB5F09A0B13BBDB89397BCAB1F55": {
-    "name": "Tokyo Majin Gakuen - Fuju Houroku (Japan)",
-    "vid": "Qme5EzLYeFTrqgBVw9eH8gGwbwzvCgjkm9qBfAKWb72XvN",
-    "logo": "QmQ9vcQkeUaLjnf1UfLf4rar6Fj2dNcu2mP8soZK5FnA2L"
-  },
-  "9313E6D7090E91CCA0304DC450B2F2F87329AE7A": {
-    "name": "Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1)",
-    "vid": "QmPbfWwryfkN3xL5mFPev5qTd39Rk633cU2jDgnz1g3SAL",
-    "logo": "QmXiuqGAJjQDoLzBvmqJrhBLrCakCErqd2MgE9i7uRq2bg"
-  },
-  "AB3C925BF1BFD36403335AF0C0365BE8A2950CA8": {
-    "ref": "9313E6D7090E91CCA0304DC450B2F2F87329AE7A"
-  },
-  "B25FF8FC79168E439BA913A2CEA6195094BE9AC2": {
-    "name": "Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1)",
-    "vid": "QmQhmir9C5cK1MPQAZVTCYfdfaLNERSZKenS6UmHBZWvsy",
-    "logo": "QmQeLWmx5cewqoqWXhYMSRcHtzKTnbSi9kghgFuLtS3uXz"
-  },
-  "64A3053C0F92681EB514E55ADABC8BA0DA1CB1A1": {
-    "ref": "B25FF8FC79168E439BA913A2CEA6195094BE9AC2"
-  },
-  "858F1F57B5522A1701CC8A0ABAE43CEC948E26A6": {
-    "name": "Turntablist - DJ Battle (Japan)",
-    "vid": "QmdZHELS5SvpnhUCPhqJUM794TXbaC6v5aCdzsHTvpHaKA",
-    "logo": "QmZMEpm6un4vPVziLtQXkBBqr6trzei5q5HQ3b3uXraHHg"
-  },
-  "4F739292D11A45490851EAF40C0A7081824AD75A": {
-    "name": "Umizuri ni Ikou! (Japan)",
-    "vid": "QmUMUTYVBZokAm9XongJUEu3kfNjH8FFgiH5fZxpWKsKTk",
-    "logo": "QmX8WxPy3gKcF9J3hsaRNNG29Hyu8xNB94pSqUDa6uETo9"
-  },
-  "4C8166E0632BDB8C098D586A7B1522ED7B63B5F7": {
-    "name": "Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4)",
-    "vid": "QmZzcjNz7TXCXxogzuTSmpcbFmCTWq98JBphGtGB5saBNY",
-    "logo": "QmTyLSRFqgf7iXTv2hHRbo9vjrxdvqr9WWAJ47wYkTaach"
-  },
-  "38F708A4C0C4FCEC0CF4D6CE051D1FF76466D617": {
-    "name": "Uzumaki - Noroi Simulation (Japan)",
-    "vid": "QmRE8e3XTerLDSFnVkSL8DbQZL7DMTCipHxEghH1o7Eai7",
-    "logo": "QmTTp84RXp93hunC8puYDm4CWyE1e8FNW4bMwa34m8zfp7"
-  },
-  "CFB877F0988920C8FE4DA5CDD7583197799DF621": {
-    "name": "Vaitz Blade (Japan) (Rev 1)",
-    "vid": "Qmac4wBVb4wB9FTacVjouV1UzaJi1nBQsHd5CsbP1jJgdS",
-    "logo": "QmeNuDUj5cRib6q4XYQAXYeRbNUMAadbExfjcFzA3ykTMT"
-  },
-  "672CFC0E4547B2721D11B67476391B6E6CCA81AE": {
-    "name": "Wasabi Produce - Street Dancer (Japan)",
-    "vid": "QmS6ad6a8y3SthFPgDcbMBDHkm4ek3szeVjXkbuJV6LVGg",
-    "logo": "QmcyHjYP5zsMA1NxYVcUcXfAErjzdUNhNrASgYd4KNhzKB"
-  },
-  "CB9454A8277BB2A7D5A6E3B4DDC84194FCBB1231": {
-    "name": "Wonder Stadium (Japan)",
-    "vid": "QmTmFiqiaA7Y2KUg1EyZuzZFftXpxLY5PSAUbDMBNMSCjG",
-    "logo": "QmPSzM56v4DjoTLvuk6aXtH68ePeqisvJDmmse1WEgFJJz"
-  },
-  "BB138765346D9F4D77615444D090B1328A59818A": {
-    "name": "Wonder Stadium '99 (Japan)",
-    "vid": "QmdZLfEKftQVLigw7psTUfsymktAQcpq4am7Ybwn99uU1n",
-    "logo": "QmRBsn7P8obPUxV1GMNkQ6HGuWxn5iXiVkhoKRcdm5WtiU"
-  },
-  "70D65A936EE1DFC2B89C543312C205285D955EFB": {
-    "name": "WonderSwan Handy Sonar (Japan) (Rev 1)",
-    "vid": "Qmf2VsL8vzu1K6p8GV7cifcedVY2FPSbztPneMCV2fiW9h",
-    "logo": "QmUYTrCho5kbRDwkHTduviV5m1BiwfLhT4mB9TNrMK7s7a"
-  },
-  "A1691EF96097C409B56C77F1D4C731FBFB3F386B": {
-    "name": "WonderSwan Handy Sonar (Japan) (Rev 2)",
-    "ref": "70D65A936EE1DFC2B89C543312C205285D955EFB"
-  },
-  "E8B8562D0D63EFF76581782647D455CB94B58C77": {
-    "name": "WonderWitch (Japan) (FreyaOS 1.0.0) (Program)"
-  },
-  "D9DD280972EC45E56DE98F3D425533DD49713CAF": {
-    "name": "WonderWitch (Japan) (FreyaOS 1.2.0) (Program)"
-  },
-  "905CCA29FD6188B2C6237B1FB71E89D7B6A1F842": {
-    "name": "WonderWitch (Japan) (FreyaOS 1.1.5) (Program)"
-  },
-  "F20AF32F9E6A2D7DEFF2D474D20A9DA8D2462E07": {
-    "name": "WonderWitch (Japan) (FreyaOS 1.0.2) (Program)"
-  },
-  "C98FECB3DA5CD9712026EEA7CA8943FD77356058": {
-    "name": "WonderWitch (Japan) (FreyaOS 1.0.3) (Program)"
-  },
-  "0A09ECA4A8A1BCE2BAD344216589EE833F0B8383": {
-    "name": "WonderWitch (Japan) (FreyaOS 1.1.1) (Program)"
-  },
-  "159648C577811986397DBAE86002793D18E9147B": {
-    "name": "WonderWitch (Japan) (FreyaOS 1.1.2) (Program)"
-  },
-  "4ED5D9EF000D33B785BBD659AAEC376157FAA646": {
-    "name": "WonderWitch (Japan) (FreyaOS 1.1.3) (Program)"
-  },
-  "9E42A85003C66B286F8335C3372F05DF86E1607B": {
-    "name": "WonderWitch (Japan) (FreyaOS 1.1.4) (Program)"
-  },
-  "7913DCDA7EC702E152A48E2DF0CD721035138C54": {
-    "name": "WonderWitch (Japan) (FreyaOS 1.1.6b1) (Program)"
-  },
-  "C5AD0B8AF45D762662A69F50B64161B9C8919EFB": {
-    "name": "[BIOS] WonderSwan Color Boot ROM (Japan) (En)"
-  },
-  "99D9D7F951AE589059F34E76AEA7489AE4CD79F1": {
-    "name": "Alchemist Marie & Elie - Futari no Atelier (Japan)",
-    "vid": "QmPNkASZo6ZJnxL1nqkwBGBte3FmFViXgKD9JLWgSz45iK",
-    "logo": "QmVQpsFtXnoh5HExDcCCx6qcC1rotnURbh75MTbtksg7Fv"
-  },
-  "CAF4A8DE853DED732B2A72619ACF2784EECEAFC7": {
-    "name": "Another Heaven - Memory of those Days (Japan)",
-    "vid": "QmQzbDXCkVEFRd5BJcKQgb5BacoAaMRuKFGR1oibabmFCc",
-    "logo": "QmZeoFM8pRzmFbDHWPdBWrpnW2tH4tSDAMFSztH8m4fXH7"
-  },
-  "68981C05D8118D4189100EED462EE6639328DC59": {
-    "name": "Arc the Lad - Kishin Fukkatsu (Japan)",
-    "vid": "QmTTGjVdHejvZ4XxyEov3CwNgFFhoj64Mfu5Ci9arVc1W4",
-    "logo": "QmSGqq9xmppY5rJyWx4XsvRNG4jrxaFrwKcvZiQfuFKSPM"
-  },
-  "FFFB1AEA34E0A96113CD10BA9DE515000D27BFE6": {
-    "name": "Battle Spirit - Digimon Frontier (Japan) (Rev 1)"
-  },
-  "02103FC5FC97C3A38834CED32A3CFE6523832535": {
-    "name": "Blue Wing Blitz (Japan)",
-    "vid": "QmXDHEU5LM4LxLShqj1NFpZDwveuUrQxWTpCELYnax1j6e",
-    "logo": "QmQnneT7jc6eZNS2rLa2XZ5tekDXmyJwqTZ6jGWBxAUP7n"
-  },
-  "C2188171DC0F78FB6A13BBB55B4E85BDF7B82FD5": {
-    "name": "Dark Eyes - Battle Gate (Japan)",
-    "logo": "QmZ8WyaHf118bpFPToPxLNZQgnb9oXHHgsX3KwCp5CweST"
-  },
-  "1E4D8E8B3D16083968055CC76B604DA91FA0A132": {
-    "name": "Dicing Knight. (Japan)"
-  },
-  "7A6411CF8A4D91E8A4E0532779F11BDD25B92363": {
-    "name": "Digimon - Anode Tamer & Cathode Tamer - Veedramon Version (Hong Kong)"
-  },
-  "C43CE28FA21B0A6725A6F0E5B2B68BCAE6C508F2": {
-    "name": "Digimon - Anode Tamer & Cathode Tamer - Veedramon Version (Korea)"
-  },
-  "18D3DFE25D82964AB7BB61AF363D368FD12F4D4B": {
-    "name": "Digimon Adventure 02 - D1 Tamers (Japan)",
-    "vid": "Qmdd4pcpe57ybCKSjg5reW3RmpAUWhtn3E6yB3yuQajtAx",
-    "logo": "QmciySrTc1E1QKuTQqPzrHWfZRULt2HXtK86dLGoVAUBn7"
-  },
-  "6FBB07BFEFAC7832436EC56E4D95678428B0F7BA": {
-    "name": "Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1)",
-    "ref": "18D3DFE25D82964AB7BB61AF363D368FD12F4D4B"
-  },
-  "757E92177385A14D979227EDEE1CB544B4C56BD6": {
-    "name": "Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja)"
-  },
-  "3F39FF494A3D8DD9D55A2E7CF86B47F1C8E8A156": {
-    "name": "Digimon Tamers - Battle Spirit Ver. 1.5 (Japan)"
-  },
-  "31A718CFBCFF2DAB56AB9606A0B5B2DFCCECBBCB": {
-    "name": "Digimon Tamers - Brave Tamer (Japan) (Rev 1)"
-  },
-  "8638737E5A35C6BE05A888DC81E504E0D80FD756": {
-    "name": "Digimon Tamers - Digimon Medley (Japan)",
-    "logo": "QmUKN6rPFVHwsHdLGNrPQbQYcW7bg37aAcPWBDKHq1bNco"
-  },
-  "6C5A2DC7E231EBD278FE22BB7F01B1A7CC3785D6": {
-    "name": "Digimon Tamers - Digimon Medley (Japan) (Rev 1)"
-  },
-  "3E8FFFE1F607EA5F855397D9D877CECB285507F7": {
-    "name": "Digital Monster - D-Project (Japan)",
-    "vid": "Qmc8kep3ZCZwWWsPXRLLnfJu3tR8AvuMGRRqAL2LTLDrPX",
-    "logo": "Qmcv2Zve8adx19PmAagbuj4U9fXHCRt266kRyifm4tCHVN"
-  },
-  "7DAB09DF13E65AA778E3BC9100EFFFB10B93B8A9": {
-    "name": "Digital Monster - D-Project (Japan) (Rev 1)",
-    "ref": "3E8FFFE1F607EA5F855397D9D877CECB285507F7"
-  },
-  "016DE32719E920FD9996C52D7EB81F2A60A24D7A": {
-    "name": "Digital Monster - D-Project (Japan) (Rev 2)",
-    "ref": "3E8FFFE1F607EA5F855397D9D877CECB285507F7"
-  },
-  "BA16A0770F7A71DD49E2879799FD04A4F04F7E60": {
-    "name": "Digital Monster Card Game - Ver. WonderSwan Color (Japan)"
-  },
-  "E31BFA54CBF539A9D28090B372D8E669A93C3E28": {
-    "name": "Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2)"
-  },
-  "66B4BD15EF67DC324736A1CC78D6ACA335F03389": {
-    "name": "Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2)"
-  },
-  "5384F9974C66E5E26129A4709976DE0BB1AE1F17": {
-    "name": "Dragon Ball (Japan)",
-    "vid": "QmbDdbLLN2jBhgM3Rj86f7uLLr3F8xAUZq2ZMSXdtJ37tE",
-    "logo": "QmP5Doa8BGf1pe3JUHcvF4eDTBJhW4xW8AabLsm61XeEVY"
-  },
-  "26628EB76C16880B6FAF2E706778D91A60144078": {
-    "name": "Final Fantasy (Japan)",
-    "vid": "QmaiyCdfLYAfBvj1afZfTckbSc8ULttpCEa8WT7U41VDXW",
-    "logo": "QmUQTS5muVJUiYKAcnuCjHmpuoWAViL2zWpsMHrDHNN1WH"
-  },
-  "959321E3B971516E38A4CBF95B0FC3EFC0B0A825": {
-    "name": "Final Fantasy II (Japan)",
-    "vid": "QmYRFi6Rd1bidVwpduTpFudN3PwakzCobVaLLJCe6kiAvo",
-    "logo": "QmQd7ZNstRQTyfHvbw4ueLEDcmxuudMbKPWn7w3LQ2h2NX"
-  },
-  "6D707E88C85D1B5EF708631E709668006A9EE244": {
-    "name": "Final Fantasy IV (Japan)",
-    "vid": "QmNUkuK5iUbRyWqduEwTAjuJyKoGmMEj9MRcod9jcojw16",
-    "logo": "QmSR14BC4Z2yQfri2oMgr8EkTRMakzHjC54yhyHW3CPwoa"
-  },
-  "4C3F092B095BDB0AFDAF8D32D4C54B4D6C209C96": {
-    "name": "Final Lap Special - GT & Formula Machine (Japan)",
-    "vid": "QmS5ZteMBiNtXdGietnZrUHDEuF5BEh3YGyjyAv5eXWkXC",
-    "logo": "QmcndbiRM5T2Ww9BynNr7GZ92nJECzjcngf2NrZPCPE8Dv"
-  },
-  "84DFC1E6B20D37F8CBA2D918B0ACAE98988D5F34": {
-    "name": "Fire Lancer (USA) (Demo) (2019-01-03) (Aftermarket) (Unl)"
-  },
-  "3B44BE6B3EFEB5B114A37E666B9D1F9AD146708F": {
-    "name": "Fire Lancer (USA) (Demo) (2018-12-25) (Aftermarket) (Unl)"
-  },
-  "A3D6717EFDB8F243FE86B4C3D869A9734A2E02D3": {
-    "name": "Flash Koibito-kun (Japan)",
-    "vid": "QmRHAUViahVRpPNNUKkYTkMuoyTraqvj6S1J4pzjJzqHgy",
-    "logo": "QmdiuZ158tNDQsTwzYruYuhFgEGJ9V2rHA263eevztEMdT"
-  },
-  "2FCE8B8E08E3F90999589B2D226FC7038B17EF22": {
-    "name": "Flash Masta Firmware (USA) (2016-08-29) (Unl)"
-  },
-  "9869C7C97E229E103203360454495A4DBCDC3614": {
-    "name": "Flash Masta Firmware (USA) (2016-05-13)"
-  },
-  "221F48E97EC2C6D0046213956E1F36E923C0DEC2": {
-    "name": "From TV Animation One Piece - Chopper no Daibouken (Japan)",
-    "vid": "QmaTTwmWLcrZSQzruSUhapzejSohufWtbsrcoeM7uBaswm",
-    "logo": "QmboURuBtfwUzYX1HkTfXVLtJBqetC3UCvvM4w9ZsSFbyB"
-  },
-  "01E765BF356CDCB413BFD27C6321F7449465766A": {
-    "name": "From TV Animation One Piece - Grand Battle Swan Colosseum (Japan)",
-    "vid": "QmbXSHvdd1WHP6Y7wCW482j4QmcBsVX23RpaJ5tknu2yZE",
-    "logo": "QmaryTreZ9YdvYJKgCmWL5vwmkCBufyuT2BQhi3SVm2dLa"
-  },
-  "2410690AD46667C52B63402DF9E95FC8A75CEE62": {
-    "name": "From TV Animation One Piece - Niji no Shima Densetsu (Japan)",
-    "vid": "QmZBmx1RWoHiTyw2tgkZU8of8YcEh6AyeEDvBvRLZ5r3UE",
-    "logo": "QmX2zKsoD2oCbhLCnxSZSQHREskdUqC4i3xPo9RaAaobVT"
-  },
-  "DD1E6E5467B72FCB5848F07A9747AA66BB207D45": {
-    "name": "From TV Animation One Piece - Treasure Wars (Japan)",
-    "vid": "QmTgGN3NjXrU5xreFDurzsidyTU1v2RUk8FHr1b3Sv22WS",
-    "logo": "QmUwJVF2f9XdRd1fyjP7ca275SwYZ8pRxVSoxg3ZeFW7Mf"
-  },
-  "55088795164170C24B243A1B572506F123064C0F": {
-    "name": "From TV Animation One Piece - Treasure Wars (Japan) (Rev 1)",
-    "ref": "DD1E6E5467B72FCB5848F07A9747AA66BB207D45"
-  },
-  "B7775E8F60FD62DC07F2865F8FAD29A11E12DBB5": {
-    "name": "From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan)",
-    "vid": "QmTQM1wnPMF8LBBAFMLSgmQzskV62ojLHwFfrZSh7xKkTX",
-    "logo": "QmWmxC8tk1d8LHVs4oZvYx4VgU5Yjioz5ydu2kiqCXLUHj"
-  },
-  "3C752694AB651F9A00CCD39C334A2E3FF78F5CB2": {
-    "name": "Front Mission (Japan)",
-    "vid": "QmcVaX5X1iTivFwPjSEm7AiZEBN5PadL3GufJ3k8mPtHBi",
-    "logo": "QmYaCEfhmWyNTcAZAJedxNKF3apTAKVHG6hgnhfsEniqYx"
-  },
-  "1BC1E831B9E2AEFC59F2CAC5F19F7D22BE574FC1": {
-    "name": "Gekitou! Crash Gear Turbo - Gear Champion League (Japan)",
-    "vid": "QmPqZe9NHhLRKqFtXQoCAymxpf7QS9ainRC4MdsXc8FdV7",
-    "logo": "QmZ4gLxXsNJnBSC6strudNSrXdDcsSw8YTxpmfQj4atLKb"
-  },
-  "ADBE6E38A0BC6A2D19DA64A444071977B771F14F": {
-    "name": "Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2)",
-    "vid": "QmcSFs5cfm8dn3NDtRZUFvoZuX5w4rYM4V5MjqwZkUcmyD",
-    "logo": "QmRS4YwwNRFDnRsinnMDhDA82UU5fcf3EtmbFpPQE4cnqQ"
-  },
-  "87661841CA63E99B04C0F6DC4BA3454C897E0C6D": {
-    "name": "Golden Axe (Japan)",
-    "vid": "QmfREPbv9kSLiTWwjVd4ZUFHrV4WkkdfKnCBo21iMVaBAb",
-    "logo": "QmREgNmFS8FK1dRNWBRqA7AwFFxYZD8STYHJXF9eZ3b3yg"
-  },
-  "3A4C5D1C08B74CF05B4CB64CBFD7C3DD8B1C3789": {
-    "name": "Gransta Chronicle (Japan)",
-    "vid": "QmQdqQucn4XsLHvfwNigSFnjANYzwfcRAb7dzgayvzKnka",
-    "logo": "QmU4GTk8Q2r79LiRuDnAFFv5KkMwghz3UK4eLNrVt1sMih"
-  },
-  "6D8F8FD330F32374B55CF6B998196A7DB2131073": {
-    "name": "Guilty Gear Petit (Japan)",
-    "vid": "QmVZNheUhBV1rycF6DnUDnPvvopDM5heKDzRcBrsTs1Wc2",
-    "logo": "QmYWHMWJyz4ZF49E4xmgjJH1zQ5jtEu2MHrWCw9kcZ9mDS"
-  },
-  "F7AEAB6724154F7EF6A389F9F18B7100045E1064": {
-    "name": "Guilty Gear Petit 2 (Japan)",
-    "vid": "QmUkwEko6m5Ujr6D2rmRTRUMVtobHitUbBzoUXDL1xUFRX",
-    "logo": "QmUoRyv68PuBwmsvsmnxpY8BdP6RiyZeFwnd851FbtvFuW"
-  },
-  "1EB729AA9AB0A7DF6F8A3470A6FEDE59D7622D4A": {
-    "name": "GunPey EX (Japan)",
-    "vid": "QmYsmQtVkomasDG5gMyc4JDtLgUG5ZzyBerQaW6tGYddMW",
-    "logo": "QmT9gzWYtyuoRqE8wJnDTjitkSZLp5ddBecMxysLnSPfYp"
-  },
-  "2E3F221D6965F53B29586D2019EE81DEC6D1AC30": {
-    "name": "Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1)",
-    "vid": "QmegiGzSE5a8WWGQ5uaDegfQvN4MYX6TxjrYGDkRDzdgxJ",
-    "logo": "QmTA7PfphBVNDK3TTUC4QHLjz4xDwUnsdrcUZVg8mdHfBh"
-  },
-  "9BD63ED48926B27BE70333FBE07DA2CEED56328A": {
-    "name": "Hataraku Chocobo (Japan)",
-    "vid": "QmaCVSHkqFsv7CAuPwk1xpKHM7HQizb3pbp1YAR9QBnMWV",
-    "logo": "QmUPQYbMesDBsq3rkUb342ve2AV7CHVw65ds3nxFeeAbHa"
-  },
-  "F66335B5AF87E7CB72AE311EB9B339534722F738": {
-    "name": "Hunter X Hunter - Greed Island (Japan)",
-    "vid": "QmdsC1nFrFL11F1st3cpKm8D3N3DDepB7M9kDP5XuBMN9J",
-    "logo": "Qmc2r6328TzMnbtdk2YZx5rzZwg329e1twYrk2TSQpucKz"
-  },
-  "E26410D4EEE4CC8CEC5E2E369604AEDF26D69D0C": {
-    "name": "Hunter X Hunter - Greed Island (Japan) (Rev 1)",
-    "ref": "F66335B5AF87E7CB72AE311EB9B339534722F738"
-  },
-  "BC591FC24D3F8E94B70503FD8B6A35FA58151139": {
-    "name": "Hunter X Hunter - Michibikareshi Mono (Japan)",
-    "vid": "QmdMo3c2cqv9v49tRogocHVEPrpQCx9eAvBmCx8MuCGMoV",
-    "logo": "QmWEBn6bAcbBp4kBrieeQF6ketKQTwDxgCbJ6xxWBSAWDd"
-  },
-  "2DA2A9BCFF4813ABCB5B2C88095258D89A575378": {
-    "name": "Hunter X Hunter - Sorezore no Ketsui (Japan)",
-    "vid": "QmRGELi4NFh3MotJ8BFTTK7sR7MFwPs7cL2adtRoexM5C3",
-    "logo": "QmSPcPFCheQTWV19WQwKBXSjJXD4N7CbRW74qjnksdA5xL"
-  },
-  "99D5BDDE193685A1D09EA73BB79A54B4DA82625D": {
-    "name": "Inuyasha - Fuuun Emaki (Japan)",
-    "vid": "Qmcs3H5vPjP3USSUD6fw4FEXRQdcKm35yS6C8SqKh2YZqJ",
-    "logo": "QmRKEgAVd833PDmszSYUQu5S1D81TjXbiuLx9sD4TZZpYu"
-  },
-  "B4FBEA1A2C50D8566685F72820B360AF4B54F82F": {
-    "name": "Inuyasha - Kagome no Sengoku Nikki (Japan)",
-    "vid": "QmNSi51KTWgNokZ2RW1bNByh8o1nf5k5GWLQLAMyHFX1Un",
-    "logo": "QmWmgn8Lc5Gjd2rJWYSmkUG5P11Buy47WNS6D9z77QGfb2"
-  },
-  "F7C8F8B6B6D036DF8FC4BDE72FCFAC2846DFFE35": {
-    "name": "Inuyasha - Kagome no Yume Nikki (Japan)",
-    "vid": "QmdMZiYgBbisQNhJLBM9h2c3NqVu3xJPMvgL9AkuZDAKid",
-    "logo": "QmYo82uCH99Zu8Zn5gKmL9eMS78qJYm6XCf5KEipc1qcBM"
-  },
-  "1DC66AC8AC21EB651723428657C9B18CB80D9EE0": {
-    "name": "Judgement Silversword - Rebirth Edition (Japan) (Rev 4321)"
-  },
-  "58C691CB31F96EEA5689693FD23768D02E8B133F": {
-    "name": "Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21)"
-  },
-  "20B671BC14A8AB6373DEECC641479D09658AC21F": {
-    "name": "Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan)",
-    "vid": "QmVg5TViiifJciswbzUgieRLbLE1ySZHfiuoJuJMb4JvH8",
-    "logo": "QmdcsmKrnuvNjJaFYLd6GtvmkPaggpKzLLiA6uZZuDw3VT"
-  },
-  "E933FF8EACE56A462019AE4654B0BAB1B21B1D6C": {
-    "name": "Kidou Senshi Gundam Seed (Japan)",
-    "vid": "QmZZEnetswWdPVzHs4TCE31C5w7gurkEkUbxKAhS6ifKVW",
-    "logo": "QmR3Ua4GSeJx49CsEAkBU1ssiowQYhpyKc2kTEamvzcA38"
-  },
-  "29E72E7F96F145A0FF56E447F577310DF2EC463B": {
-    "name": "Kidou Senshi Gundam Vol. 1 - Side 7 (Japan)",
-    "vid": "QmY47ZiFWwuxQhoxhVb21Geza8YpfrX7ZwJEkDS4jZBkdf",
-    "logo": "QmUWkAPKwtKE2NxRNkxwNEPGc9EyCDYqRgHBfpZTiWptTH"
-  },
-  "DF1A794F7E3992B1E1E9DE14141B607746202202": {
-    "name": "Kidou Senshi Gundam Vol. 2 - Jaburo (Japan)",
-    "vid": "QmR6gFhytJHfPpQJHQtxwNEPo8No5a1Saixc4cUwa2BzSm",
-    "logo": "QmUu59gDBZSHv4Eh6JTTAwrWKTDXu9PQmRV85T8Dz7ZraM"
-  },
-  "35443E2EF8A20A0AD82DA1274B2768C16239DD46": {
-    "name": "Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan)",
-    "vid": "QmekTNgjqjALnfuPeCkGAkhoiTTTYejSad8L3cJjaip1HT",
-    "logo": "QmXwqBifZEDYSazzhX6SeoQEbHVNco2MeLNLmGkAb4R6yy"
-  },
-  "EFCF8F92357FFC6F6EC0E4AA960CD97A5070836E": {
-    "name": "Kinnikuman II-Sei - Choujin Seisenshi (Japan)"
-  },
-  "81DD3124CCE8A1AAFD423BFE0814187FB7C646CB": {
-    "name": "Kinnikuman II-Sei - Dream Tag Match (Japan)"
-  },
-  "9942D1B7D1C00126B9891E560E6A3E264F8FDC2E": {
-    "name": "Kurupara! (Japan) (Rev 1)",
-    "vid": "Qmd8fjx8p71icFP7Aj42HWX4JgmgQDQ6BwHjR9E7Gj7eEV",
-    "logo": "QmZNkSh7g8otxyEsSj1V38uTZ1wSKNe9i8fsEq2Mm7Ej3H"
-  },
-  "B019F41207E396D9FE3509DCCDBE1CC6E7AC46BB": {
-    "name": "Last Alive (Japan)",
-    "vid": "QmNnMhfg2KVnqeZ4H9WoDE6TKA5NvQTgD69VRkaRVh2UyA",
-    "logo": "QmVqYPvCzkSaABe83Fb8BWr1ns4Hgb1yb7jNWfLhYi42xs"
-  },
-  "6B7A9B810C932974CBDA4DE7178CF0EA5A90E628": {
-    "name": "Makai Toushi Sa-Ga (Japan)"
-  },
-  "196190B24297008AB4E48B418FF29B2F8D4BC610": {
-    "name": "mama Mitte (Japan) (Program)"
-  },
-  "B901A571D9E6C988245594588D875D696BC76594": {
-    "name": "mama Mitte (Japan) (D) (Program)"
-  },
-  "36D8BC2CE7920D940943358D48F056F81055AB34": {
-    "name": "Meitantei Conan - Yuugure no Oujo (Japan)",
-    "vid": "QmTRG56xxvVCDuffR4suTfqrtT5aCWBM27UrZVYDzWehUj",
-    "logo": "QmZ7kGVhCAG7G25EqApGL5pvstKaudJJquqX5UfeMxcuVc"
-  },
-  "F47B4AB9197999BBEC351750601BAA20FBBD7177": {
-    "name": "Memories Off - Festa (Japan)",
-    "logo": "QmejxKC8nRqQ4DU2PsqpGXnyDdQh1FWMerHxempzR1pZfQ"
-  },
-  "2358701531E8A38419859CD70BF2FBBD967B6745": {
-    "name": "Mikeneko Holmes - Ghost Panic (Japan)",
-    "vid": "Qme1Aik4ErsK1VKtT9h7u5cEMUqqhADfdzpukzqRjup6vp",
-    "logo": "QmREfDQAMfgTxdQknzNxsCXTZZkHuctCakpHdzafn8ZXL4"
-  },
-  "209232F1E91C05140529D466C0EF6B7AD3386DE1": {
-    "name": "Mr. Driller (Japan)",
-    "vid": "QmPhqh1qBLbY6fLqz9o9zjeuprHkE7AaGz2wTweSKuFNNp",
-    "logo": "QmZ7tAHn9QDHbMQauxndpKZv97cmmxB5HYQiTGHQUtSB5v"
-  },
-  "C48569FD0A46AB7B7CEAFEB5698BE90420CD4FBE": {
-    "name": "Namco Super Wars (Japan)",
-    "vid": "QmNcx4XoriZAViaAKajUgtoAPsJwy7tuSDv77LJUomKZUi",
-    "logo": "QmecXmsMYFaTYt8gumYTrySMrcfP8TnnEUx9obYn34H5je"
-  },
-  "DBAA50FD56E69E72FDFE49362EF5FE4437D66667": {
-    "name": "Naruto - Konoha Ninpouchou (Japan)",
-    "vid": "QmZc7NkhZNvnWSunX6ZrNYh3e2kj7nyax3ynCL9QfMcJVe",
-    "logo": "QmULbRFMLDqbKRQUuZYuGSFgFWaE924zCWr6o178o78k1w"
-  },
-  "4253D5151A925C7AD766F3DD19497150D578940B": {
-    "name": "NAVI GET 400 Million (Japan) (Version 3.0) (Program)"
-  },
-  "BC571F5CACE41B17DDB5646D67329021BE472AEE": {
-    "name": "NAVI GET 400 Million (Japan) (Version 2.1) (Program)"
-  },
-  "57338999B949589C36CE116A30F433E9618685E4": {
-    "name": "Pocket no Naka no Doraemon (Japan)",
-    "vid": "QmQaa1nyrmrhPgNJF76jU2yLUu129xz4oPN1LT4hmBNV51",
-    "logo": "Qmdg9YbZc1w2mMvMNEuk3yi6zhGedTeyYz6swvCGKC2qVk"
-  },
-  "977D5830E45C78B9020E9D06A63A9AD6BC623745": {
-    "name": "Raku Jongg (Japan)",
-    "vid": "QmRsDyQvG5wMNK7cV7XX6zbBskBR8ALFMbergBpCaBmGFB",
-    "logo": "QmNSkKXEADxRPDn3J8Xd2uBexUyjot4yf7kVfZhNHMP65Y"
-  },
-  "5973306A864C3804EE10B209E45067807D39A4DE": {
-    "name": "Rhyme Rider Kerorican (Japan)",
-    "vid": "QmXpapWGTQCmXdQYwFTkNvFw8MAXLzVnazFVx7Qy17tHD7",
-    "logo": "QmYXMHCeNoxGgvLgdGLzBpJP4bMMtYZT8cKTrVtiofVLUN"
-  },
-  "A8F8D3EFC9B2D5741081E05F517D746EE5437F87": {
-    "name": "Riviera - Yakusoku no Chi Riviera (Japan)",
-    "vid": "QmQNhz82VTD6Voh4YcnCteXr7CmLkkejnXuVETUJYaFiMN",
-    "logo": "QmcZPjdeQaW1tGdDL2VSc9HX6fAWc48H6YUa35tSok9ZWX"
-  },
-  "9B4786ADCA7B83FE66A9D4B9FD4FFAF32ABE7656": {
-    "name": "Rockman EXE - N1 Battle (Japan) (Rev 1)",
-    "vid": "QmeCVxz6ZfnrUNtp5wQeQS2NjpYF1jjpM5s1j4aM7qyteH",
-    "logo": "QmNuDYf9m6464CSio1fMQ1TMGmch3NwyjSZHoDSdBeP4V2"
-  },
-  "B4A3FF3B72639F27D1A6F449B0335074AEB9E603": {
-    "name": "Rockman EXE WS (Japan)"
-  },
-  "06FCC9AAD3AE478DB6EED27621AF4F56A6488A67": {
-    "name": "Romancing Sa-Ga (Japan)"
-  },
-  "3A41A3B8FC126DA07E2A82C21056A45C15EFBC98": {
-    "name": "RUN=DIM - Return to Earth (Japan)",
-    "vid": "QmczS5qPD4oU4AGP8RXP7nwnmvZ8WxAHnbnJL1umQQd5tc",
-    "logo": "QmaARzgwz88PKE1G7oAjnpqjQPcnWEE11WPS2JUzSVGB83"
-  },
-  "8542649963EFE0976015759382C180B7C056BE9A": {
-    "name": "Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan)"
-  },
-  "152C4D63B1B17F2C717A43EFC75D718B614F9DDC": {
-    "name": "SD Gundam - Operation U.C. (Japan)",
-    "vid": "QmVqk67ngJrbG3nAHgWYvgVSEfyQDgwG8kSszQqfyvgbNc",
-    "logo": "QmPmz5r6ZNnHagVTrj1qo4Q3vCEw7PUbGWLRpAtjU9uZft"
-  },
-  "EBD4B37ADE6DF717F7B637747A4D3C45A6CCA037": {
-    "name": "SD Gundam Eiyuu Den - Kishi Densetsu (Japan)",
-    "vid": "QmbCVvHQvntmeW1KYVJj5eD9bNK3S2NZ65UY5XXpuRc5rQ"
-  },
-  "D8097E25431F0AD5183B2479EE0837599677A300": {
-    "name": "SD Gundam Eiyuu Den - Musha Densetsu (Japan)",
-    "vid": "QmRXgurpnAkca8yWjiEv37SJFfFi8NXAJqm8DBGYiaoPgn"
-  },
-  "016FF46509CBFE57A7440A1755D3A41EF49C048F": {
-    "name": "SD Gundam G Generation - Gather Beat 2 (Japan)"
-  },
-  "91E087056207FCE21E782E25E383C203BC046897": {
-    "name": "SD Gundam G Generation - Mono-Eye Gundams (Japan)",
-    "vid": "QmR28cKSZk3iWhDi4X8ecF2WusNy6pLQYVdF61nWDSaiic",
-    "logo": "QmdU6ZoBEE3SYjVn2X18kaz9KGX9yPynpcErsXViiQxWmz"
-  },
-  "DF9E831842072D9AF613EFFBEE7162229849DE58": {
-    "name": "Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan)",
-    "vid": "QmXpaUJFbFEi5ztSTm7g6Q9kXuv8KjFcSVqXV9eKdWjNuS",
-    "logo": "QmYfSFFvrSWgNCiUUzEeJ44SczGdfyTzpoM4EEJhde7tJv"
-  },
-  "1E735D1E83A7BFA06C5C717C7E8A386D55A8E3F0": {
-    "name": "Shaman King - Asu e no Ishi (Japan)",
-    "logo": "QmYsEa8YpTrSCb41T4zgYQRP2nR5T3Vkv7zRxHe2AE369R"
-  },
-  "473195666A633573C777D3BE98D7E8F46569C84B": {
-    "name": "Shaman King - Asu e no Ishi (Japan) (Rev 1)"
-  },
-  "983582FE8D18839DF30B6D29FB75780A9E32F4EC": {
-    "name": "Sorobang (Japan) (Rev 1)"
-  },
-  "2B2C2A0566646156BCDDE2A00B728C5B8218AA23": {
-    "name": "Star Hearts - Hoshi to Daichi no Shisha (Japan)",
-    "logo": "QmeXVnp49ttYMJLrQQgMqsQh8suiBp3KmgioPvRAbpJS1v"
-  },
   "44940AE0140DF1BD91D742A166C459DF1B6C2339": {
     "name": "Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale)"
   },
-  "B579F204BE604EBEF4E8238E5883152B70399C4D": {
-    "name": "Super Robot Taisen Compact 3 (Japan) (Rev 5)"
-  },
-  "DD6FE0F278CDEC2670D3BE8552DBB0CF6A3A2841": {
-    "name": "Super Robot Taisen Compact 3 (Japan) (Rev 6)"
-  },
-  "BF212CECBBC51EE32EE2655A072F55E7BF70B9EC": {
-    "name": "Super Robot Taisen Compact for WonderSwan Color (Japan)",
-    "vid": "QmPTB8UQPH2C5cagmgd5n8iM52diKQ7xhnbnWUXfLHTo2b",
-    "logo": "QmP2Es75euyPw9vaXK8ewoLds8UEC2UgVP48D3Qfc2hbNo"
-  },
-  "9532113E14B03C95F034C015168E21273D42EFF1": {
-    "name": "Terrors 2 (Japan)",
-    "vid": "Qmdpm3vhXxJ5eFLHKGF72popmSW4zFFq4s4JC4szj1f3WU",
-    "logo": "QmcfBuzQHru8Lq8Gt3sm8kpzYXVsW6mw91vd12xxreVxJy"
-  },
-  "1A86403D7896D60FCB7A4C09367F5A976C7EA5A5": {
-    "name": "Tetris (Japan)",
-    "vid": "QmNq5dmPYrLp7d35Z6SKBWYzSC3kKiubBhhXSSVnLygBvc",
-    "logo": "QmTWcmSGqJe7gRNqfVHsv4ruPBMA9atrqwENtTPfQQ5af9"
-  },
-  "FB53C28BD48174D3829467F1AB81D3F87F9A7F5B": {
-    "name": "Tonpuusou (Japan)",
-    "vid": "QmR9tnnrvb4PW5a8Wfgm9Qe4WieCAZrEPJNERp3JhuN3ED",
-    "logo": "QmXUQPnpHidq991jm9fcZeGnRLXRQehFcp1LNK3maNdq1L"
-  },
-  "DD1878279A6667FB66DD1AC44A2CDB9A5ACBE415": {
-    "name": "Uchuu Senkan Yamato (Japan)",
-    "vid": "QmdtLi8YGVUFKNcE1HPayYDdHYLkxvLHVgT9pXipGHLMCC",
-    "logo": "QmW7TjM2u91M96bFNi8c8Ctn1DRakCngKYS3UFXVtXjR8B"
-  },
-  "BD107BEFE5CE6C5508D2DA8BE351B9984166AE1D": {
-    "name": "Ultraman - Hikari no Kuni no Shisha (Japan)",
-    "vid": "QmaGxrESqp39cPQcEEk2wUiC3vSo3KK95xWQGGRnxky9kQ",
-    "logo": "QmTj7kTEuhrsHTdQX7tQNfjsjRpYf5oKApyjDN23z6kDHQ"
-  },
-  "EA878A485A20ABD5251065FD66E82D9D8B8A669D": {
-    "name": "Wild Card (Japan)",
-    "vid": "QmRDGN1FLmawERSu7j4ofeeXx4vCdYfqoc4ZpyqJZgXWq3",
-    "logo": "QmSr6ygehjLLASW7UGNRZMA5usp4sLmJ815rDvqRhc8iHK"
-  },
-  "6A4F4A03C367CCF00AA7462191C929A2736EB44B": {
-    "name": "With You - Mitsumete Itai (Japan)",
-    "logo": "QmTQTqUUox2q6zmH74hqMBSeD5C3MYK6sE6fgu3xiQ5FZH"
-  },
-  "C1AD383D337DBA8A63295CFB8C7CA8470C893C67": {
-    "name": "Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)",
-    "vid": "QmQ9BXPfyCM9q6PMfaRVuvfdftVyPJKEcZAtwHmh3fT48e",
-    "logo": "QmahN2bWM94BmTA2zKFokFsuFHa5hP5JYwMDrccpqaSnW2"
-  },
-  "55B54944EFD6E277FA7140925ED2457A8CFB40B8": {
-    "name": "Wonder Classic (Japan)",
-    "vid": "QmeoWvCSSzUhomk9tnATAGZadUAZmjQ71voXLfzdep3cd3",
-    "logo": "QmUQkquRRWNzQBZwmqaDi6vthcZUpSbVPw5Pi2dc74uy5i"
-  },
-  "C1AB4E24F261615CA59F937B866FCF7047B67796": {
-    "name": "X - Card of Fate (Japan)",
-    "vid": "QmRt65jEcUNALRFetDUi1HZ3bhpR2gJSV7kCPEjRb1tvzY",
-    "logo": "QmXPmGBR39Yrpme28Tx4QvtEKQLGGcAtiXR7QcM1ayocwi"
-  },
-  "97C29917A78918A6905FD61A1466971CFD2A33C6": {
-    "name": "XI Little (Japan)"
-  },
-  "867F23963E33B26A781AA96851748E483E41FCAD": {
-    "ref": "0931DDEC058EEFB32A68A1752716ED2BA68B78BF"
+  "44A5502B70EA75926B87377E3F634C8093BC574A": {
+    "logo": "QmciySrTc1E1QKuTQqPzrHWfZRULt2HXtK86dLGoVAUBn7",
+    "name": "Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)",
+    "vid": "QmcDvEXMKezqy9SeasRPFkLoP4J8tVwCs2BSrtwkrCM4Zn"
   },
   "4504B62212E1637DFD92E4F985A8497FA38941CD": {
     "ref": "1EDA3327EB9B5A5844A95AC789F71B669F4CB6A7"
@@ -1153,22 +309,872 @@
   "461F87E6E301B0DBB6324D908D4CA7EFD7518E20": {
     "ref": "12D26522665CB8ECB3178BC242D984DEAE438E5C"
   },
+  "473195666A633573C777D3BE98D7E8F46569C84B": {
+    "name": "Shaman King - Asu e no Ishi (Japan) (Rev 1)"
+  },
+  "4A756DAB81E0101475DC2E5494270F3DF7DAC1E6": {
+    "logo": "Qmcb8NdnhDWDpFUi8LHY1gJ8KgnbG29ieZfKyrWgPfQnPq",
+    "name": "Side Pocket for WonderSwan (Japan)",
+    "vid": "QmZ8Gkur9emKw6PGHpUKBxd6gFWtyBMdKamgtawx4YCZ3c"
+  },
+  "4BA44F23D3B43EE730CE34D56F4CADAF429B6D1B": {
+    "ref": "DB9B3308336B59AEFF7BD173D687953A37739381"
+  },
+  "4C3F092B095BDB0AFDAF8D32D4C54B4D6C209C96": {
+    "logo": "QmcndbiRM5T2Ww9BynNr7GZ92nJECzjcngf2NrZPCPE8Dv",
+    "name": "Final Lap Special - GT & Formula Machine (Japan)",
+    "vid": "QmS5ZteMBiNtXdGietnZrUHDEuF5BEh3YGyjyAv5eXWkXC"
+  },
+  "4C8166E0632BDB8C098D586A7B1522ED7B63B5F7": {
+    "logo": "QmTyLSRFqgf7iXTv2hHRbo9vjrxdvqr9WWAJ47wYkTaach",
+    "name": "Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4)",
+    "vid": "QmZzcjNz7TXCXxogzuTSmpcbFmCTWq98JBphGtGB5saBNY"
+  },
+  "4D4D4A3FDE6B1DBBC8F008FBD035FB59624DFBA7": {
+    "name": "Robot Works (Japan)",
+    "ref": "2117ED92E8CB4AE61868535F1D4D16851B480890"
+  },
+  "4ED5D9EF000D33B785BBD659AAEC376157FAA646": {
+    "name": "WonderWitch (Japan) (FreyaOS 1.1.3) (Program)"
+  },
+  "4EEFC5A51008C2AB33E8D04064EC9BDCBC03D036": {
+    "logo": "QmX91pi1aX475pJAaXijw1UwWRrTdPLQYbXHWPdu9dzC3S",
+    "name": "Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2)",
+    "vid": "QmVyKzqucunTh7qgFuEdFkzCfP25Js4WKU51npVUxXo65H"
+  },
+  "4F739292D11A45490851EAF40C0A7081824AD75A": {
+    "logo": "QmX8WxPy3gKcF9J3hsaRNNG29Hyu8xNB94pSqUDa6uETo9",
+    "name": "Umizuri ni Ikou! (Japan)",
+    "vid": "QmUMUTYVBZokAm9XongJUEu3kfNjH8FFgiH5fZxpWKsKTk"
+  },
+  "509E5748E5EFDFB56093C78AE886153DD1838215": {
+    "logo": "QmRQzPUPUdm3GddDnwiQNmD1o6uv3pAzrFW7vJKH6rreuL",
+    "name": "Medarot Perfect Edition - Kabuto Version (Japan)",
+    "vid": "QmesUSYiTQgCvq8275Th7NVcWTc66kHynU6NvgNEDYCcAF"
+  },
+  "521754084AFC6321AE329421B9D2AB0F0CAC8C70": {
+    "name": "Digimon Adventure 02 - Tag Tamers (Japan)",
+    "ref": "44A5502B70EA75926B87377E3F634C8093BC574A"
+  },
+  "52B154A3E36D01357649A9F7F614139CE6CC46B8": {
+    "logo": "QmbZARkJLVXotj7cLokhRRKMYuXvPcFSs7nQmD2PxXoQ2E",
+    "name": "Kosodate Quiz - Dokodemo My Angel (Japan)",
+    "vid": "QmUsrdG9vbucWjpkhJQPxBiZwdaSHqk8TJvpmH1r8NhfzL"
+  },
+  "5384F9974C66E5E26129A4709976DE0BB1AE1F17": {
+    "logo": "QmP5Doa8BGf1pe3JUHcvF4eDTBJhW4xW8AabLsm61XeEVY",
+    "name": "Dragon Ball (Japan)",
+    "vid": "QmbDdbLLN2jBhgM3Rj86f7uLLr3F8xAUZq2ZMSXdtJ37tE"
+  },
+  "544E76133FA53FC0AE5E00E3465B9CF634F14FD0": {
+    "logo": "QmbgkzSePMWL6qVNXSJ9u9VwSHKZhczKthb8hCoTgSkDgW",
+    "name": "beat mania for WonderSwan (Japan)",
+    "vid": "QmafrRwgY56FVkzZDfdytzKBiaf1Tev1RwdYLemuVNu7v3"
+  },
+  "54DD6E3FE81A8A384A0FFDD7A39211A5DE9174C7": {
+    "logo": "Qma5p4GD5zdzRvBLCxWr8r4AkMy7RZmSTv5gnuoJPf8eBz",
+    "name": "Space Invaders (Japan)",
+    "vid": "QmQTCqCvb1GrQS77UZa72bKo8gbmwkyNdi9rMEUGJcbs54"
+  },
+  "55088795164170C24B243A1B572506F123064C0F": {
+    "name": "From TV Animation One Piece - Treasure Wars (Japan) (Rev 1)",
+    "ref": "DD1E6E5467B72FCB5848F07A9747AA66BB207D45"
+  },
+  "55B54944EFD6E277FA7140925ED2457A8CFB40B8": {
+    "logo": "QmUQkquRRWNzQBZwmqaDi6vthcZUpSbVPw5Pi2dc74uy5i",
+    "name": "Wonder Classic (Japan)",
+    "vid": "QmeoWvCSSzUhomk9tnATAGZadUAZmjQ71voXLfzdep3cd3"
+  },
+  "57338999B949589C36CE116A30F433E9618685E4": {
+    "logo": "Qmdg9YbZc1w2mMvMNEuk3yi6zhGedTeyYz6swvCGKC2qVk",
+    "name": "Pocket no Naka no Doraemon (Japan)",
+    "vid": "QmQaa1nyrmrhPgNJF76jU2yLUu129xz4oPN1LT4hmBNV51"
+  },
+  "57B4278FC5812F52413CA65F45225922D4F2EC3D": {
+    "logo": "Qmas36vQwsqBmf4BKEKvYmH1VDSqdSoCm6LUUdoBW8hh9H",
+    "name": "Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2)",
+    "vid": "QmQMgpgVaBhuLwtovLT2t8kcG7RswesJWakr8zT29sH3vc"
+  },
+  "58C691CB31F96EEA5689693FD23768D02E8B133F": {
+    "name": "Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21)"
+  },
+  "5973306A864C3804EE10B209E45067807D39A4DE": {
+    "logo": "QmYXMHCeNoxGgvLgdGLzBpJP4bMMtYZT8cKTrVtiofVLUN",
+    "name": "Rhyme Rider Kerorican (Japan)",
+    "vid": "QmXpapWGTQCmXdQYwFTkNvFw8MAXLzVnazFVx7Qy17tHD7"
+  },
+  "59D904149C3F405357B2715468D509095388A194": {
+    "ref": "3E7492478059D142A6A41B40219EBA0C688A8E3F"
+  },
+  "5CC59EC1687FE83EC5FB048D3DFC37849747DF34": {
+    "logo": "QmSuBKuzavNrMyYxKSdPZART8H1eCqevAtE2Nc4G3tyTPE",
+    "name": "Digimon - Ver. WonderSwan (Hong Kong)",
+    "vid": "QmWCpNQzukDLAvU4KUj2vogm4Nd5opPAmFYNM7GQiW4uTc"
+  },
+  "5E5DB8B066E1B41C5C12A2D4FFA97B73ED6C3F03": {
+    "logo": "QmXrWVAiozZZcc61cZCeSvjRFKt5TxVtp1qJ18Bv8P9QU7",
+    "name": "SD Gundam G Generation - Gather Beat (Japan)",
+    "vid": "QmX1ftVnyDpd1DEXGUjw2nLh6Z6ZondeYJXZLJoD79wqXa"
+  },
+  "5E7DABB66B0CA580481AA79EE8B8A5B0C6CE6592": {
+    "ref": "FDB8E9F37A4B097350B7C5B1B8EE381CA51DC0B6"
+  },
+  "5EAEAB859E5F647FAC354DAD285A311387EA126B": {
+    "logo": "QmboXs3jNsXNtHg7ZEanAANAZuHTMYMCpmm4RitN2z1XCR",
+    "name": "Makaimura for WonderSwan (Japan)",
+    "vid": "QmfHvjdpDHPY11njTcnbrZpFb1NMmz5NkG4LiobEus961d"
+  },
+  "6014AC0B8978E710F26C9CC41180CDF788584743": {
+    "logo": "Qmf9cLa4FDzcthD56Y6spnTS3egUu4uB9hLkpLPMVY3Kx9",
+    "name": "Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4)",
+    "vid": "QmcoG1tfc6kNaR8YJzurdaiG5Qh3WZ7QHKos6zpBC4peMH"
+  },
+  "64A3053C0F92681EB514E55ADABC8BA0DA1CB1A1": {
+    "ref": "B25FF8FC79168E439BA913A2CEA6195094BE9AC2"
+  },
+  "657AEA8377E207B9B5A182B13966A27F46633640": {
+    "ref": "1DC66AC8AC21EB651723428657C9B18CB80D9EE0"
+  },
+  "65C4C6AAA36328BBA5D56419AF59AF5D3420ED78": {
+    "logo": "QmSY91D1CmJtRiRtoZPqMAG7zNFo72HS8HGGHXebtwTCtX",
+    "name": "Tetsujin 28 Gou (Japan)",
+    "vid": "QmWa6h5VGBuHiBq4ceWsZpK1Wm9SNXPt5DSQ1KEspHuTZ2"
+  },
+  "66B4BD15EF67DC324736A1CC78D6ACA335F03389": {
+    "name": "Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2)"
+  },
+  "672CFC0E4547B2721D11B67476391B6E6CCA81AE": {
+    "logo": "QmcyHjYP5zsMA1NxYVcUcXfAErjzdUNhNrASgYd4KNhzKB",
+    "name": "Wasabi Produce - Street Dancer (Japan)",
+    "vid": "QmS6ad6a8y3SthFPgDcbMBDHkm4ek3szeVjXkbuJV6LVGg"
+  },
+  "67A80B7FB00C3AFE0CE9B0F8975C6D250A2CD49D": {
+    "ref": "A88882426BF435416616191902A26B2B066F2491"
+  },
+  "68981C05D8118D4189100EED462EE6639328DC59": {
+    "logo": "QmSGqq9xmppY5rJyWx4XsvRNG4jrxaFrwKcvZiQfuFKSPM",
+    "name": "Arc the Lad - Kishin Fukkatsu (Japan)",
+    "vid": "QmTTGjVdHejvZ4XxyEov3CwNgFFhoj64Mfu5Ci9arVc1W4"
+  },
+  "6A479EE45E69CD3D6CC6CDDA5A60EFF3077953B0": {
+    "logo": "QmQKBVPfTSBm5o27GeqQSUqviFdGyXGLUYC8T3jtQ7A4S7",
+    "name": "Nice On (Japan) (Rev 1)",
+    "vid": "QmPUr2DPdxkJQtEWEeUgb37HJANb3V1iRAqD6v2hyLm6vx"
+  },
+  "6A4F4A03C367CCF00AA7462191C929A2736EB44B": {
+    "logo": "QmTQTqUUox2q6zmH74hqMBSeD5C3MYK6sE6fgu3xiQ5FZH",
+    "name": "With You - Mitsumete Itai (Japan)"
+  },
+  "6B7A9B810C932974CBDA4DE7178CF0EA5A90E628": {
+    "name": "Makai Toushi Sa-Ga (Japan)"
+  },
+  "6C5A2DC7E231EBD278FE22BB7F01B1A7CC3785D6": {
+    "name": "Digimon Tamers - Digimon Medley (Japan) (Rev 1)"
+  },
+  "6D707E88C85D1B5EF708631E709668006A9EE244": {
+    "logo": "QmSR14BC4Z2yQfri2oMgr8EkTRMakzHjC54yhyHW3CPwoa",
+    "name": "Final Fantasy IV (Japan)",
+    "vid": "QmNUkuK5iUbRyWqduEwTAjuJyKoGmMEj9MRcod9jcojw16"
+  },
+  "6D8F8FD330F32374B55CF6B998196A7DB2131073": {
+    "logo": "QmYWHMWJyz4ZF49E4xmgjJH1zQ5jtEu2MHrWCw9kcZ9mDS",
+    "name": "Guilty Gear Petit (Japan)",
+    "vid": "QmVZNheUhBV1rycF6DnUDnPvvopDM5heKDzRcBrsTs1Wc2"
+  },
+  "6EEC04244F4D85807988A2331E7031D0C3549646": {
+    "ref": "435F207CCE79AD6AC5B564E8A37E0D4395BD3739"
+  },
+  "6FBB07BFEFAC7832436EC56E4D95678428B0F7BA": {
+    "name": "Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1)",
+    "ref": "18D3DFE25D82964AB7BB61AF363D368FD12F4D4B"
+  },
+  "708288E70B3186F6C0EF07ACAEF1B50FE6B7AB22": {
+    "logo": "QmRUji8cvoCMEB8wq8sJxE7kKKKhNZP7X47jQwnUGkkohB",
+    "name": "Sennou Millennium (Japan)",
+    "vid": "QmdamY2x197R98YKRvxrTAHw2SdL71toKUsn3a6xwSJRpQ"
+  },
+  "70D65A936EE1DFC2B89C543312C205285D955EFB": {
+    "logo": "QmUYTrCho5kbRDwkHTduviV5m1BiwfLhT4mB9TNrMK7s7a",
+    "name": "WonderSwan Handy Sonar (Japan) (Rev 1)",
+    "vid": "Qmf2VsL8vzu1K6p8GV7cifcedVY2FPSbztPneMCV2fiW9h"
+  },
+  "7148D750F12B5DA9A0EFD99F5A5A7CCADECBDF60": {
+    "logo": "Qmev69GDRrh6R48qMJYvYJq44QSEiHXPBskid6sfSyjDGN",
+    "name": "Terrors (Japan)",
+    "vid": "QmQoy23n4AwbpJY8Mzt4VFyNC8FpFe3puXAyCDDpe6f1U6"
+  },
+  "7324C5939B8B64858C96BD9726F5B5C483A11E22": {
+    "logo": "Qmd4pAbcqVhy4tTswzJQ6ej54NGEB8xJr4gZXcYv6oqv39",
+    "name": "Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1)",
+    "vid": "QmQrNuK6u1uh48Jzy5xSKHqfPNkwnxDKzvAU1EXRv7JSVw"
+  },
+  "748CA335D39515A6650352449972684BE749052A": {
+    "name": "Mahjong Touryuumon (Japan) (Rev 1)",
+    "ref": "281079B22CB213EE4DDA5C304B5B5BE028130929"
+  },
+  "757E92177385A14D979227EDEE1CB544B4C56BD6": {
+    "name": "Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja)"
+  },
+  "759DEB79A3FC3BEFED705D7264E4B88ADBADACC7": {
+    "logo": "QmUPCpSJ1HePu6s1jvUMtgcjrCReSWpdeW7WfCThKC8ixy",
+    "name": "Rainbow Islands - Putty's Party (Japan)",
+    "vid": "Qmdq2BS3mGeS9AEJ9aALCZGni5w77WoKFS1gwrz5WcLwV5"
+  },
+  "785EBB7528F5268E1A1FC10DFFBE95CCF6D39560": {
+    "logo": "QmPCYHiBX4WXxDWJeFYm9tSbEFboG6Vzwq7zFMUg8Un8vL",
+    "name": "Nobunaga no Yabou for WonderSwan (Japan)",
+    "vid": "QmSiB1zaMnGv9pvBBCPoMQ3AUbRH2Fn8AEvLmpa6Q5RqMJ"
+  },
+  "7913DCDA7EC702E152A48E2DF0CD721035138C54": {
+    "name": "WonderWitch (Japan) (FreyaOS 1.1.6b1) (Program)"
+  },
+  "7A6411CF8A4D91E8A4E0532779F11BDD25B92363": {
+    "name": "Digimon - Anode Tamer & Cathode Tamer - Veedramon Version (Hong Kong)"
+  },
+  "7DAB09DF13E65AA778E3BC9100EFFFB10B93B8A9": {
+    "name": "Digital Monster - D-Project (Japan) (Rev 1)",
+    "ref": "3E8FFFE1F607EA5F855397D9D877CECB285507F7"
+  },
+  "80EFF574C75C2168FD0991C0EFD16F9A9CADC24C": {
+    "name": "SD Gundam Gashapon Senki - Episode 1 (Japan) (Alt)",
+    "ref": "E6899DE5B53F73C8978E3330DCA0F2DAAF95F140"
+  },
+  "81DD3124CCE8A1AAFD423BFE0814187FB7C646CB": {
+    "name": "Kinnikuman II-Sei - Dream Tag Match (Japan)"
+  },
+  "821BB81917445B63AC663C706AB4CE27DE28543F": {
+    "logo": "QmaWgEJbUoqzB9a3surGx4h7syoxQsQvEtnoXWSJK8Ljp5",
+    "name": "Bakusou Dekotora Densetsu for WonderSwan (Japan)",
+    "vid": "QmRTHXri53pSn3rwp7k9t15KwV41EgEJ8XRQJY2gTaKrDw"
+  },
+  "837528B9D95E309F7B1E8C4FFD46CA3E2B68A5A3": {
+    "logo": "QmRMDMDG78SU1pWBtYep3Up1GjX2SU7WfLNPWWQPqnwvAa",
+    "name": "Glocal Hexcite (Japan)",
+    "vid": "QmWJt9esRf84Tsjt2muXvLFKS4YQrqB4BJ1BKtaY2opbPF"
+  },
+  "83E190AF2E25FBB3E93B1D5835C52FE6F1D279CE": {
+    "logo": "QmPqgLhMscPRALTcUTkrYSm3QhswCaMYdw5Ct3HhSjrmZM",
+    "name": "D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)",
+    "vid": "QmNQ3EfgHTv7xGje8wizEj8jS1ZW232z1aXwKHZHUBqxDf"
+  },
+  "847F51592F181AA68061900700149B86CDBA651B": {
+    "logo": "QmPBqGMYRKiBYYbs94xZMDpkMHMC14HMHRwNsiPMX1N8YV",
+    "name": "Lode Runner for WonderSwan (Japan)",
+    "vid": "QmPavGNDYSm9dU1o3VVLG8VzvhsYHzJFcdMtcAoqvA8kQK"
+  },
+  "84DFC1E6B20D37F8CBA2D918B0ACAE98988D5F34": {
+    "name": "Fire Lancer (USA) (Demo) (2019-01-03) (Aftermarket) (Unl)"
+  },
+  "8542649963EFE0976015759382C180B7C056BE9A": {
+    "name": "Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan)"
+  },
+  "858F1F57B5522A1701CC8A0ABAE43CEC948E26A6": {
+    "logo": "QmZMEpm6un4vPVziLtQXkBBqr6trzei5q5HQ3b3uXraHHg",
+    "name": "Turntablist - DJ Battle (Japan)",
+    "vid": "QmdZHELS5SvpnhUCPhqJUM794TXbaC6v5aCdzsHTvpHaKA"
+  },
+  "8638737E5A35C6BE05A888DC81E504E0D80FD756": {
+    "logo": "QmUKN6rPFVHwsHdLGNrPQbQYcW7bg37aAcPWBDKHq1bNco",
+    "name": "Digimon Tamers - Digimon Medley (Japan)"
+  },
+  "866C67737A4FBB5F09A0B13BBDB89397BCAB1F55": {
+    "logo": "QmQ9vcQkeUaLjnf1UfLf4rar6Fj2dNcu2mP8soZK5FnA2L",
+    "name": "Tokyo Majin Gakuen - Fuju Houroku (Japan)",
+    "vid": "Qme5EzLYeFTrqgBVw9eH8gGwbwzvCgjkm9qBfAKWb72XvN"
+  },
+  "867F23963E33B26A781AA96851748E483E41FCAD": {
+    "ref": "0931DDEC058EEFB32A68A1752716ED2BA68B78BF"
+  },
+  "87661841CA63E99B04C0F6DC4BA3454C897E0C6D": {
+    "logo": "QmREgNmFS8FK1dRNWBRqA7AwFFxYZD8STYHJXF9eZ3b3yg",
+    "name": "Golden Axe (Japan)",
+    "vid": "QmfREPbv9kSLiTWwjVd4ZUFHrV4WkkdfKnCBo21iMVaBAb"
+  },
+  "8F3F97BE31F3BD0E6922AB7795AA6F04BC5CFE2A": {
+    "logo": "QmUQQmajNSWozdJTC1tbocpbh8fXTFErkimUoqkgVND9V1",
+    "name": "Meitantei Conan - Majutsushi no Chousenjou! (Japan)",
+    "vid": "QmXr5rUsB2EPTc37NP8D97fdMJ3UsYdgooNfeQ76UYUgBs"
+  },
+  "905CCA29FD6188B2C6237B1FB71E89D7B6A1F842": {
+    "name": "WonderWitch (Japan) (FreyaOS 1.1.5) (Program)"
+  },
   "91595CD5D5192DB50EDA883157852FF81994990C": {
     "ref": "847F51592F181AA68061900700149B86CDBA651B"
   },
-  "D70FBC6BE9A9A0F12CEA8A9F7C98AA415E41AAFD": {
-    "ref": "3CE41C90CFC1D53A89ADE2C88E0B16CDC92C0268"
+  "91E087056207FCE21E782E25E383C203BC046897": {
+    "logo": "QmdU6ZoBEE3SYjVn2X18kaz9KGX9yPynpcErsXViiQxWmz",
+    "name": "SD Gundam G Generation - Mono-Eye Gundams (Japan)",
+    "vid": "QmR28cKSZk3iWhDi4X8ecF2WusNy6pLQYVdF61nWDSaiic"
+  },
+  "92D4A6FF6F2B1152D8935025F38F910155E5D709": {
+    "logo": "QmVUDX5sRNoG9B5Yv9wir5yzCdMWLqYkreWBqxwYsAPSQT",
+    "name": "MobileWonderGate (Japan) (Rev 1)",
+    "vid": "QmQ97dcocuoH9UKr8GRKjf7UULM8mUN8nyGn42TjEc2x39"
+  },
+  "9313E6D7090E91CCA0304DC450B2F2F87329AE7A": {
+    "logo": "QmXiuqGAJjQDoLzBvmqJrhBLrCakCErqd2MgE9i7uRq2bg",
+    "name": "Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1)",
+    "vid": "QmPbfWwryfkN3xL5mFPev5qTd39Rk633cU2jDgnz1g3SAL"
+  },
+  "9532113E14B03C95F034C015168E21273D42EFF1": {
+    "logo": "QmcfBuzQHru8Lq8Gt3sm8kpzYXVsW6mw91vd12xxreVxJy",
+    "name": "Terrors 2 (Japan)",
+    "vid": "Qmdpm3vhXxJ5eFLHKGF72popmSW4zFFq4s4JC4szj1f3WU"
+  },
+  "959321E3B971516E38A4CBF95B0FC3EFC0B0A825": {
+    "logo": "QmQd7ZNstRQTyfHvbw4ueLEDcmxuudMbKPWn7w3LQ2h2NX",
+    "name": "Final Fantasy II (Japan)",
+    "vid": "QmYRFi6Rd1bidVwpduTpFudN3PwakzCobVaLLJCe6kiAvo"
+  },
+  "9622C65C939F05A9DFAE288919EC5BD15C348F14": {
+    "logo": "QmSyTLYNv37dLtMSStsbvxeEQUzTCHtYBRQciq6FsNz3B3",
+    "name": "Tare Panda no GunPey (Japan)",
+    "vid": "QmNY3WBVH39tDg8MeqGFnUhmurGLDx4vt5quAhfiqbYnEa"
+  },
+  "96A9CE5E56DC0C9648027AD4454E6F35E88D9A07": {
+    "logo": "QmVjiz2LG42zZxhBnnZkzMCpBPUuxgGxL47rKhJDDQUdzo",
+    "name": "Tekken Card Challenge (Japan)",
+    "vid": "QmWZTMJugrnmsc1Haf17VT4bJCuR9QpXP6asMdRpDAacJz"
+  },
+  "977D5830E45C78B9020E9D06A63A9AD6BC623745": {
+    "logo": "QmNSkKXEADxRPDn3J8Xd2uBexUyjot4yf7kVfZhNHMP65Y",
+    "name": "Raku Jongg (Japan)",
+    "vid": "QmRsDyQvG5wMNK7cV7XX6zbBskBR8ALFMbergBpCaBmGFB"
+  },
+  "97C29917A78918A6905FD61A1466971CFD2A33C6": {
+    "name": "XI Little (Japan)"
+  },
+  "983582FE8D18839DF30B6D29FB75780A9E32F4EC": {
+    "name": "Sorobang (Japan) (Rev 1)"
+  },
+  "9869C7C97E229E103203360454495A4DBCDC3614": {
+    "name": "Flash Masta Firmware (USA) (2016-05-13)"
+  },
+  "9896D93C97381DC06B6F044DE6C9BD112CA0C94B": {
+    "logo": "QmfLDWLyE5vkgf3eJoD14oq8bdAWKEgkq5EWM6N67aPh5r",
+    "name": "Ring Infinity (Japan)",
+    "vid": "QmPBTPK77fjQapjitoyJKhjUHcqQis85Hh98A1dQL1xdQp"
+  },
+  "9942D1B7D1C00126B9891E560E6A3E264F8FDC2E": {
+    "logo": "QmZNkSh7g8otxyEsSj1V38uTZ1wSKNe9i8fsEq2Mm7Ej3H",
+    "name": "Kurupara! (Japan) (Rev 1)",
+    "vid": "Qmd8fjx8p71icFP7Aj42HWX4JgmgQDQ6BwHjR9E7Gj7eEV"
+  },
+  "99C831C27C478064E3D3FA8F9F089CC28F0E946F": {
+    "logo": "QmSaWMfqgfPyFov5GFBPjBJff6cuzQxnvDqpAbRCZTFSCz",
+    "name": "From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)",
+    "vid": "QmSUoRiwMn2AJHK94pKRgCGyweagdNrmPu7f61zsFZqjtc"
+  },
+  "99D5BDDE193685A1D09EA73BB79A54B4DA82625D": {
+    "logo": "QmRKEgAVd833PDmszSYUQu5S1D81TjXbiuLx9sD4TZZpYu",
+    "name": "Inuyasha - Fuuun Emaki (Japan)",
+    "vid": "Qmcs3H5vPjP3USSUD6fw4FEXRQdcKm35yS6C8SqKh2YZqJ"
+  },
+  "99D9D7F951AE589059F34E76AEA7489AE4CD79F1": {
+    "logo": "QmVQpsFtXnoh5HExDcCCx6qcC1rotnURbh75MTbtksg7Fv",
+    "name": "Alchemist Marie & Elie - Futari no Atelier (Japan)",
+    "vid": "QmPNkASZo6ZJnxL1nqkwBGBte3FmFViXgKD9JLWgSz45iK"
+  },
+  "9A087B0E6031E7E5E6D133AC82FECB8FAA30816A": {
+    "logo": "QmYLe9f2GEcu2KeyHestNjUprWvgnncG4wFahdRbNqzoyK",
+    "name": "Slither Link (Japan)",
+    "vid": "QmTd5UZ7yyhnqgLAbGyxYXnNX6suVdyrnBE9KBJwneHfcq"
+  },
+  "9B4786ADCA7B83FE66A9D4B9FD4FFAF32ABE7656": {
+    "logo": "QmNuDYf9m6464CSio1fMQ1TMGmch3NwyjSZHoDSdBeP4V2",
+    "name": "Rockman EXE - N1 Battle (Japan) (Rev 1)",
+    "vid": "QmeCVxz6ZfnrUNtp5wQeQS2NjpYF1jjpM5s1j4aM7qyteH"
+  },
+  "9BD63ED48926B27BE70333FBE07DA2CEED56328A": {
+    "logo": "QmUPQYbMesDBsq3rkUb342ve2AV7CHVw65ds3nxFeeAbHa",
+    "name": "Hataraku Chocobo (Japan)",
+    "vid": "QmaCVSHkqFsv7CAuPwk1xpKHM7HQizb3pbp1YAR9QBnMWV"
+  },
+  "9DB54826C2887DEA07AAC774BD15E092596E37AF": {
+    "logo": "QmRkxASXHfgUHDEMCwYq6TPqkJsCV6Kjht8Fr5ixsmPvMV",
+    "name": "Digimon Adventure - Anode Tamer (Japan) (Rev 1)",
+    "vid": "QmXy5pThubw81ZFXknycH7uVzC7Y9zPEmMKAfmoX4js2YY"
+  },
+  "9E42A85003C66B286F8335C3372F05DF86E1607B": {
+    "name": "WonderWitch (Japan) (FreyaOS 1.1.4) (Program)"
+  },
+  "9EF89B6FE68C5A06D34344E8C783EC24114AD959": {
+    "logo": "QmRw5VyCRBuREMaDmkBBKFNc1ZJNxQSAWwdPrSNV2idJjs",
+    "name": "Kiss Yori... - Seaside Serenade (Japan) (Rev 2)",
+    "vid": "QmQt8cVdmJh193cEz9SsQkRDcdXoN95zvDPsWkReN4SFdb"
+  },
+  "9F8829AA8EA523E8370CBB2ACD2ACCE056BB7958": {
+    "logo": "QmUpi56ETtP8asA1FzFn1YbyobKXd4BhUwM8fhzs54UMnf",
+    "name": "Rockman & Forte - Mirai Kara no Chousensha (Japan)",
+    "vid": "QmP6bTd24fNBuKHDkbFJBJVwguGXyAu836p6Dgo9NdKZNH"
+  },
+  "9FDF3F5821F2A4488139525FE49E87B23DE4571F": {
+    "logo": "QmaqqQZ9SzZ2jpchrLMLevkxVqmEQC5jJPYwPC8zaSTKSR",
+    "name": "Langrisser Millennium WS - The Last Century (Japan) (Rev 1)",
+    "vid": "QmcLW2eaeGQCbMTqLe62VcQHhDHWGorfcGXyjkUTWhFL9h"
+  },
+  "A1691EF96097C409B56C77F1D4C731FBFB3F386B": {
+    "name": "WonderSwan Handy Sonar (Japan) (Rev 2)",
+    "ref": "70D65A936EE1DFC2B89C543312C205285D955EFB"
+  },
+  "A25944969068EE495254F94C2C48DFFFCB66CE8D": {
+    "logo": "QmciEQELrnosKvoG511fGyEkq3Z7gykni7pyCh3HksukE6",
+    "name": "Magical Drop for WonderSwan (Japan)",
+    "vid": "QmSwnAE4qARyo3MDMYwmZcYbebNAy3gpWmWvqMoUo8s74c"
+  },
+  "A309A430FBBED6C42F41D8CCAF4ABA82E96D6A7B": {
+    "logo": "QmTkjY9HqKy98CRN9GJZsGi7pLGG1NU4ySDC92NRGbHfNa",
+    "name": "Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1)",
+    "vid": "QmYScQ8v4fyRBNUjHsQwvurKj5kdTWufD1SATUqDZhSCNh"
+  },
+  "A3D6717EFDB8F243FE86B4C3D869A9734A2E02D3": {
+    "logo": "QmdiuZ158tNDQsTwzYruYuhFgEGJ9V2rHA263eevztEMdT",
+    "name": "Flash Koibito-kun (Japan)",
+    "vid": "QmRHAUViahVRpPNNUKkYTkMuoyTraqvj6S1J4pzjJzqHgy"
+  },
+  "A88882426BF435416616191902A26B2B066F2491": {
+    "logo": "QmTBq6mVUu9TWqtEY7yPdRy9wNMi624SwjA2o9byRXoJLq",
+    "name": "Crazy Climber (Japan)",
+    "vid": "QmZpeK99Qkc8vBTTcxXfaTvPsR1sANf5g4gHfNGn77Birc"
+  },
+  "A8C4F423429A8683CFEBD05370EA122613349033": {
+    "name": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1)",
+    "ref": "3B62FD2841602F1077270848AB7A3AAD58712EE9"
+  },
+  "A8F8D3EFC9B2D5741081E05F517D746EE5437F87": {
+    "logo": "QmcZPjdeQaW1tGdDL2VSc9HX6fAWc48H6YUa35tSok9ZWX",
+    "name": "Riviera - Yakusoku no Chi Riviera (Japan)",
+    "vid": "QmQNhz82VTD6Voh4YcnCteXr7CmLkkejnXuVETUJYaFiMN"
+  },
+  "A957111681951EB6A971A6B4F75BCA7F89B29628": {
+    "name": "Super Robot Taisen Compact (Japan)",
+    "ref": "E93D58AB5819992E54223F5D1C4D5AEB6983D6A3"
+  },
+  "AB3C925BF1BFD36403335AF0C0365BE8A2950CA8": {
+    "ref": "9313E6D7090E91CCA0304DC450B2F2F87329AE7A"
+  },
+  "AD77D2E8429D5ED926D514D926050086F4EDBEEE": {
+    "logo": "QmeRdQBYfu27JXQCqfHA7YvJF5Am8X7qCpn5ZneqytERHA",
+    "name": "Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan)",
+    "vid": "QmTVt6HBXE4JKvNWvbcaMeFcBpjdvHQiZbiRcoDhs86PEU"
+  },
+  "ADBE6E38A0BC6A2D19DA64A444071977B771F14F": {
+    "logo": "QmRS4YwwNRFDnRsinnMDhDA82UU5fcf3EtmbFpPQE4cnqQ",
+    "name": "Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2)",
+    "vid": "QmcSFs5cfm8dn3NDtRZUFvoZuX5w4rYM4V5MjqwZkUcmyD"
+  },
+  "AE31488CEE1C91F383EFBE3083B4ABEC092DDA36": {
+    "logo": "Qmc6mDnei4NxCtHXyp3FXq2Xh3t4KqwN5wjqEJfypxB5D4",
+    "name": "Neon Genesis Evangelion - Shito Ikusei (Japan)",
+    "vid": "QmPk8MqAN2ypjkMkCD9HXnbf9s7ZaKwLkiTcPtPdoy5LQA"
+  },
+  "AE54A1F8916A2D37A1E0C82C5A9B5D8FE0EEAE51": {
+    "logo": "QmcQj19V99vxAtat9W8q4th8FEHFKvuBQvP7exuRhmKKNn",
+    "name": "SD Gundam - Emotional Jam (Japan) (Rev 3)",
+    "vid": "QmX1biiey39e5oAEUcEwL5pjwKzdhG7jNgdP2J2wgPT8U3"
+  },
+  "AE5E4F06F07FE13A48F414A1CD437A816E9AD2E7": {
+    "ref": "1578669C1FCF59AB5F5E603C6A65121D7AE209B1"
+  },
+  "AF3FE9DA3F5EE0F5A7B06B0440223DB88FCB3BF2": {
+    "logo": "QmQcVnvzDPozxrzEnCKJCYhrS83UnnqEYNpuUCNVUUEXG2",
+    "name": "Goraku Ou Tango! (Japan) (Rev 2)",
+    "vid": "QmbN13msgAF22ZDDcgVJJBdYEqPPUowHCiGvhu8FPwUAhG"
+  },
+  "AFECE274CBD58FACD8E9B1223DD0992E9F091F65": {
+    "name": "BANDAI Default Splash Screen (Japan) (Program)"
+  },
+  "B019F41207E396D9FE3509DCCDBE1CC6E7AC46BB": {
+    "logo": "QmVqYPvCzkSaABe83Fb8BWr1ns4Hgb1yb7jNWfLhYi42xs",
+    "name": "Last Alive (Japan)",
+    "vid": "QmNnMhfg2KVnqeZ4H9WoDE6TKA5NvQTgD69VRkaRVh2UyA"
   },
   "B143CECE1E7DB9D9F660F4E9CA3A95B02A71DCD3": {
     "ref": "785EBB7528F5268E1A1FC10DFFBE95CCF6D39560"
   },
+  "B25FF8FC79168E439BA913A2CEA6195094BE9AC2": {
+    "logo": "QmQeLWmx5cewqoqWXhYMSRcHtzKTnbSi9kghgFuLtS3uXz",
+    "name": "Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1)",
+    "vid": "QmQhmir9C5cK1MPQAZVTCYfdfaLNERSZKenS6UmHBZWvsy"
+  },
+  "B358C65BAE818C4B3DE6BF668D16C311534036C2": {
+    "logo": "QmRZ2tEzXDRvg5vHLtCBfw3Ts7qB4cz4BWYyjwGWCgtjSY",
+    "name": "Nazo Ou Pocket (Japan)",
+    "vid": "QmS53e3S7uW4KJ2Ww7nE7t6i3ovaEQQxuQvjaNxoTrt6Qj"
+  },
+  "B3B4CF8E996C2A1FB149074725DC4B07922B3133": {
+    "name": "SD Gundam - Emotional Jam (Japan) (Rev 2)",
+    "ref": "AE54A1F8916A2D37A1E0C82C5A9B5D8FE0EEAE51"
+  },
+  "B40FBC7B72921C9AC31330831C0F77E4133EC7D6": {
+    "logo": "QmfR8zpp479MQ5kQP38L81HMWwj6xT637M9k9TaCg3Mj1C",
+    "name": "Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)",
+    "vid": "QmTwDSyxziKxiGztbWAYYKsHMbRVbDHfZecjnmMgyQ6fuB"
+  },
+  "B4A3FF3B72639F27D1A6F449B0335074AEB9E603": {
+    "name": "Rockman EXE WS (Japan)"
+  },
+  "B4FBEA1A2C50D8566685F72820B360AF4B54F82F": {
+    "logo": "QmWmgn8Lc5Gjd2rJWYSmkUG5P11Buy47WNS6D9z77QGfb2",
+    "name": "Inuyasha - Kagome no Sengoku Nikki (Japan)",
+    "vid": "QmNSi51KTWgNokZ2RW1bNByh8o1nf5k5GWLQLAMyHFX1Un"
+  },
+  "B579F204BE604EBEF4E8238E5883152B70399C4D": {
+    "name": "Super Robot Taisen Compact 3 (Japan) (Rev 5)"
+  },
+  "B7775E8F60FD62DC07F2865F8FAD29A11E12DBB5": {
+    "logo": "QmWmxC8tk1d8LHVs4oZvYx4VgU5Yjioz5ydu2kiqCXLUHj",
+    "name": "From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan)",
+    "vid": "QmTQM1wnPMF8LBBAFMLSgmQzskV62ojLHwFfrZSh7xKkTX"
+  },
+  "B901A571D9E6C988245594588D875D696BC76594": {
+    "name": "mama Mitte (Japan) (D) (Program)"
+  },
+  "BA16A0770F7A71DD49E2879799FD04A4F04F7E60": {
+    "name": "Digital Monster Card Game - Ver. WonderSwan Color (Japan)"
+  },
+  "BB138765346D9F4D77615444D090B1328A59818A": {
+    "logo": "QmRBsn7P8obPUxV1GMNkQ6HGuWxn5iXiVkhoKRcdm5WtiU",
+    "name": "Wonder Stadium '99 (Japan)",
+    "vid": "QmdZLfEKftQVLigw7psTUfsymktAQcpq4am7Ybwn99uU1n"
+  },
+  "BC571F5CACE41B17DDB5646D67329021BE472AEE": {
+    "name": "NAVI GET 400 Million (Japan) (Version 2.1) (Program)"
+  },
+  "BC591FC24D3F8E94B70503FD8B6A35FA58151139": {
+    "logo": "QmWEBn6bAcbBp4kBrieeQF6ketKQTwDxgCbJ6xxWBSAWDd",
+    "name": "Hunter X Hunter - Michibikareshi Mono (Japan)",
+    "vid": "QmdMo3c2cqv9v49tRogocHVEPrpQCx9eAvBmCx8MuCGMoV"
+  },
+  "BD107BEFE5CE6C5508D2DA8BE351B9984166AE1D": {
+    "logo": "QmTj7kTEuhrsHTdQX7tQNfjsjRpYf5oKApyjDN23z6kDHQ",
+    "name": "Ultraman - Hikari no Kuni no Shisha (Japan)",
+    "vid": "QmaGxrESqp39cPQcEEk2wUiC3vSo3KK95xWQGGRnxky9kQ"
+  },
+  "BE4559D6F48D7CB9550C8776F877C5C9CDA0EFA1": {
+    "name": "Taikyoku Igo - Heisei Kiin (Japan)"
+  },
+  "BF212CECBBC51EE32EE2655A072F55E7BF70B9EC": {
+    "logo": "QmP2Es75euyPw9vaXK8ewoLds8UEC2UgVP48D3Qfc2hbNo",
+    "name": "Super Robot Taisen Compact for WonderSwan Color (Japan)",
+    "vid": "QmPTB8UQPH2C5cagmgd5n8iM52diKQ7xhnbnWUXfLHTo2b"
+  },
+  "C0104DB6E176CFA64A95E4C9BC9382BEAE4D70D1": {
+    "name": "Tenori-on (Japan) (En)"
+  },
+  "C07F776AC4374B648D1A49EFD9D6FCD0DB2AC1FA": {
+    "logo": "QmeYtUx5PTpZjWh1TWnVP4TTHYeeHyxxNDhuYJv25QNSLa",
+    "name": "Densha de Go! 2 (Japan)",
+    "vid": "QmdcABhRNweBVhfpftANNTxyXFhrP3ViF1uaMQTRFLjZZ3"
+  },
+  "C1AB4E24F261615CA59F937B866FCF7047B67796": {
+    "logo": "QmXPmGBR39Yrpme28Tx4QvtEKQLGGcAtiXR7QcM1ayocwi",
+    "name": "X - Card of Fate (Japan)",
+    "vid": "QmRt65jEcUNALRFetDUi1HZ3bhpR2gJSV7kCPEjRb1tvzY"
+  },
+  "C1AD383D337DBA8A63295CFB8C7CA8470C893C67": {
+    "logo": "QmahN2bWM94BmTA2zKFokFsuFHa5hP5JYwMDrccpqaSnW2",
+    "name": "Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)",
+    "vid": "QmQ9BXPfyCM9q6PMfaRVuvfdftVyPJKEcZAtwHmh3fT48e"
+  },
+  "C2188171DC0F78FB6A13BBB55B4E85BDF7B82FD5": {
+    "logo": "QmZ8WyaHf118bpFPToPxLNZQgnb9oXHHgsX3KwCp5CweST",
+    "name": "Dark Eyes - Battle Gate (Japan)"
+  },
   "C42339590A6D7864CB4F5728B84C4CCE09779F0A": {
     "ref": "0BC88B0AFFA97225E22C531306E9930DDB8F8905"
   },
-  "3E31BEACA985AC5041C6E95E0D07F163168E190D": {
-    "ref": "9A087B0E6031E7E5E6D133AC82FECB8FAA30816A"
+  "C43CE28FA21B0A6725A6F0E5B2B68BCAE6C508F2": {
+    "name": "Digimon - Anode Tamer & Cathode Tamer - Veedramon Version (Korea)"
   },
-  "6EEC04244F4D85807988A2331E7031D0C3549646": {
-    "ref": "435F207CCE79AD6AC5B564E8A37E0D4395BD3739"
+  "C4436A59FD830BA6AF2D63462F71E1AB1CFA3212": {
+    "logo": "QmP5BgstEwHN9ewJGohhmJ34HF9N7BG92YHy3oveWH2ppG",
+    "name": "Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3)",
+    "vid": "QmUpTv5dF6GBEfpEdUtAmnt4pwLdigKaYQJ6gQSNL323D6"
+  },
+  "C48569FD0A46AB7B7CEAFEB5698BE90420CD4FBE": {
+    "logo": "QmecXmsMYFaTYt8gumYTrySMrcfP8TnnEUx9obYn34H5je",
+    "name": "Namco Super Wars (Japan)",
+    "vid": "QmNcx4XoriZAViaAKajUgtoAPsJwy7tuSDv77LJUomKZUi"
+  },
+  "C49BD00C95BCA49A183D59F85E81815EFB1A2FB9": {
+    "name": "Digimon Adventure - Anode Tamer (Japan)",
+    "ref": "9DB54826C2887DEA07AAC774BD15E092596E37AF"
+  },
+  "C4A21084BFF1F2A63784FE7D11E046F305AD310A": {
+    "name": "Super Robot Taisen Compact (Japan) (Rev 1)",
+    "ref": "E93D58AB5819992E54223F5D1C4D5AEB6983D6A3"
+  },
+  "C5AD0B8AF45D762662A69F50B64161B9C8919EFB": {
+    "name": "[BIOS] WonderSwan Color Boot ROM (Japan) (En)"
+  },
+  "C622F6742CA3F0129FC12DCE0A1C17D292388FFB": {
+    "logo": "QmZZUA7xFydF5YWV7gmj5rXNPCVXhdbCc4ogfGmntoxpGf",
+    "name": "Digital Partner (Japan)",
+    "vid": "QmYB5TDeuh3zMSt2GmVz9Na8fVMhqTQmM7VmwA6e8JZwJe"
+  },
+  "C7230EF709F6CEAEF9A220541C8CDC05C0CD549F": {
+    "logo": "QmXfuyWA7CGKRpqmEXFUypiyx5ysSQ2gWZZwajexhhK4HB",
+    "name": "Mingle Magnet (Japan) (En,Ja) (Rev 1)",
+    "vid": "QmZ5zm3LM7S6zUNzqfz6cfwWyJc4wfuR36UhedvsFwZxPv"
+  },
+  "C98FECB3DA5CD9712026EEA7CA8943FD77356058": {
+    "name": "WonderWitch (Japan) (FreyaOS 1.0.3) (Program)"
+  },
+  "CAF4A8DE853DED732B2A72619ACF2784EECEAFC7": {
+    "logo": "QmZeoFM8pRzmFbDHWPdBWrpnW2tH4tSDAMFSztH8m4fXH7",
+    "name": "Another Heaven - Memory of those Days (Japan)",
+    "vid": "QmQzbDXCkVEFRd5BJcKQgb5BacoAaMRuKFGR1oibabmFCc"
+  },
+  "CB9454A8277BB2A7D5A6E3B4DDC84194FCBB1231": {
+    "logo": "QmPSzM56v4DjoTLvuk6aXtH68ePeqisvJDmmse1WEgFJJz",
+    "name": "Wonder Stadium (Japan)",
+    "vid": "QmTmFiqiaA7Y2KUg1EyZuzZFftXpxLY5PSAUbDMBNMSCjG"
+  },
+  "CBF6455E89B20A000B6121E5C485BE1A20D1F726": {
+    "logo": "Qmbz1aF3NZfcPfK553GH1zQwcvAjRtBQHtbfyrHY6xuPJN",
+    "name": "Ganso Jajamaru-kun (Japan)",
+    "vid": "QmPegEVP8nBQUwYLvDc51QMQm5vEHD63ntwDr33njgnVsH"
+  },
+  "CFB877F0988920C8FE4DA5CDD7583197799DF621": {
+    "logo": "QmeNuDUj5cRib6q4XYQAXYeRbNUMAadbExfjcFzA3ykTMT",
+    "name": "Vaitz Blade (Japan) (Rev 1)",
+    "vid": "Qmac4wBVb4wB9FTacVjouV1UzaJi1nBQsHd5CsbP1jJgdS"
+  },
+  "CFCB14BE6D2F1DBFFDFCEFB8C8D83B4F39BC102B": {
+    "logo": "QmfQTUkt3pEEzW8Pxi1khRa9eMQJLoft6xTSjsPFwypw5f",
+    "name": "Final Lap 2000 (Japan)",
+    "vid": "QmPvQ53VL9CZ4Bsk5L1MZN8z8kNxvSujwn7Q6heF2oq5Jv"
+  },
+  "D064B94F31B15564C9A3DBD3A68690244EA043AC": {
+    "logo": "QmPuecXex6VRvjrR2tYYTjA4UJE7uGZU748hTjvFqUQS1r",
+    "name": "Sangokushi for WonderSwan (Japan)",
+    "vid": "QmXd7QwryAdqA9HdDTSfv6aGL6Fg1vdu2ee7f6XZB7c9yP"
+  },
+  "D24D8CEA57C5C487E877EAA523EEFB0DD184556D": {
+    "logo": "QmfZksQ6cgQGJ9QAydk6h7C8vNHqeavpSo5rVQE4dsiZ16",
+    "name": "Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2)",
+    "vid": "QmejNSNk68T9dC4bkYnuieBhuzPwTLrRXVJYN29Pd31XCL"
+  },
+  "D3DA0AE529C6F78162682141154A95879F288CA7": {
+    "logo": "QmcyJaBGV3GnxMKxscWAupgTuTvdmioXicyDZLRtELGz93",
+    "name": "Densha de Go! (Japan) (Rev 1)",
+    "vid": "QmfUL1Likr9qPyYXHcLeAtkZcXBwUBX1YktfSRrR4Ah8x3"
+  },
+  "D524DA01F2BFAD92C2FA080950229955A3030EF2": {
+    "logo": "QmQEKqueoiukNmwFSJpZqGTYzsExmipyU9jniX794RBh5C",
+    "name": "Last Stand (Japan)",
+    "vid": "QmZrjQkqrhwvS3uWbNm2r8USaxLpSWimyESZz2HvKxdgqm"
+  },
+  "D64B9B2D567D1CEA5960F64E5BDF83D4514446DA": {
+    "logo": "QmVu2wRuXX2XPqZeLNgr3QNXFVsY4dAUXUhrgz4BkL8bEd",
+    "name": "Shanghai Pocket (Japan)",
+    "vid": "QmXrTv2q1gBGpxceurtTRffbBCkZ6jKV6eRUSyyMZucDAW"
+  },
+  "D70FBC6BE9A9A0F12CEA8A9F7C98AA415E41AAFD": {
+    "ref": "3CE41C90CFC1D53A89ADE2C88E0B16CDC92C0268"
+  },
+  "D72C1221C2CE3E281A0EE288A3D079AA8E1B714B": {
+    "logo": "QmNYXSxqZ8uZD3qxHTUsaUwaFgUgvYf5sLzdcGLtmVywiU",
+    "name": "Puyo Puyo Tsuu (Japan)",
+    "vid": "QmaW12fDdUnyB7YeA2CeLwcPtLvCbt2v84nFThWzD1A86f"
+  },
+  "D8097E25431F0AD5183B2479EE0837599677A300": {
+    "name": "SD Gundam Eiyuu Den - Musha Densetsu (Japan)",
+    "vid": "QmRXgurpnAkca8yWjiEv37SJFfFi8NXAJqm8DBGYiaoPgn"
+  },
+  "D9DD280972EC45E56DE98F3D425533DD49713CAF": {
+    "name": "WonderWitch (Japan) (FreyaOS 1.2.0) (Program)"
+  },
+  "DB9B3308336B59AEFF7BD173D687953A37739381": {
+    "logo": "QmVtki9xPCwikDdEm4JTAYqxBvyksGD4k8AbzMZ5HT2mUK",
+    "name": "Clock Tower for WonderSwan (Japan) (Rev 1)",
+    "vid": "QmYnb1D2Yfmds46mSrSNNuyfPTywf5AyVNk287Sr3TR1TP"
+  },
+  "DBAA50FD56E69E72FDFE49362EF5FE4437D66667": {
+    "logo": "QmULbRFMLDqbKRQUuZYuGSFgFWaE924zCWr6o178o78k1w",
+    "name": "Naruto - Konoha Ninpouchou (Japan)",
+    "vid": "QmZc7NkhZNvnWSunX6ZrNYh3e2kj7nyax3ynCL9QfMcJVe"
+  },
+  "DC94E17A942ACFDC1EB0C38D91BF72460A4BB8F9": {
+    "logo": "QmRQAdS4pWGuB4zALEqPBZw8S3o1HZ4xRpuTVJ27y34qEz",
+    "name": "Metakomi Theraphy - Nee Kiite! (Japan)",
+    "vid": "QmP6gFqzdhDBaYddGt6WKHLLvUd6jgqTCC88s8XKqBm9ni"
+  },
+  "DD1878279A6667FB66DD1AC44A2CDB9A5ACBE415": {
+    "logo": "QmW7TjM2u91M96bFNi8c8Ctn1DRakCngKYS3UFXVtXjR8B",
+    "name": "Uchuu Senkan Yamato (Japan)",
+    "vid": "QmdtLi8YGVUFKNcE1HPayYDdHYLkxvLHVgT9pXipGHLMCC"
+  },
+  "DD1E6E5467B72FCB5848F07A9747AA66BB207D45": {
+    "logo": "QmUwJVF2f9XdRd1fyjP7ca275SwYZ8pRxVSoxg3ZeFW7Mf",
+    "name": "From TV Animation One Piece - Treasure Wars (Japan)",
+    "vid": "QmTgGN3NjXrU5xreFDurzsidyTU1v2RUk8FHr1b3Sv22WS"
+  },
+  "DD6FE0F278CDEC2670D3BE8552DBB0CF6A3A2841": {
+    "name": "Super Robot Taisen Compact 3 (Japan) (Rev 6)"
+  },
+  "DF1A794F7E3992B1E1E9DE14141B607746202202": {
+    "logo": "QmUu59gDBZSHv4Eh6JTTAwrWKTDXu9PQmRV85T8Dz7ZraM",
+    "name": "Kidou Senshi Gundam Vol. 2 - Jaburo (Japan)",
+    "vid": "QmR6gFhytJHfPpQJHQtxwNEPo8No5a1Saixc4cUwa2BzSm"
+  },
+  "DF9E831842072D9AF613EFFBEE7162229849DE58": {
+    "logo": "QmYfSFFvrSWgNCiUUzEeJ44SczGdfyTzpoM4EEJhde7tJv",
+    "name": "Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan)",
+    "vid": "QmXpaUJFbFEi5ztSTm7g6Q9kXuv8KjFcSVqXV9eKdWjNuS"
+  },
+  "E100D54E5C63512DBD655F0439870E08CED439DD": {
+    "ref": "837528B9D95E309F7B1E8C4FFD46CA3E2B68A5A3"
+  },
+  "E212BBA4FAC51BBFCF440966DA0E67B1686DCFC5": {
+    "logo": "QmRLkEwaAqU7ZoTf45ZYQdQ7SHY3EFgCQZgRixiX7VrhaD",
+    "name": "Chaos Gear - Michibikareshi Mono (Japan)",
+    "vid": "QmbFaZ5fE7UznRbwzRp8k1jBGbpixAGdXsUrV6Jz9Ads5f"
+  },
+  "E26410D4EEE4CC8CEC5E2E369604AEDF26D69D0C": {
+    "name": "Hunter X Hunter - Greed Island (Japan) (Rev 1)",
+    "ref": "F66335B5AF87E7CB72AE311EB9B339534722F738"
+  },
+  "E31BFA54CBF539A9D28090B372D8E669A93C3E28": {
+    "name": "Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2)"
+  },
+  "E461762566D529D1B103F119DA50353902D180D7": {
+    "logo": "QmVDkq4A5tHDyRvxuxdn3EgtKnLf38b7EkyJEdoYiBZu5p",
+    "name": "Sotsugyou for WonderSwan (Japan) (Rev 1)",
+    "vid": "QmZJEzHdFRqfdWpRTL3h9JwUwdryS53GWMYc4iqDtXCRR8"
+  },
+  "E5684789E81F9D739010DB575022A12A448B5509": {
+    "logo": "QmTtXnRF3m67jojQum5jhgqdwnQDeRAN3wNjpb33XhajBf",
+    "name": "Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan)",
+    "vid": "QmQZq1YKHX3wpdS7t3T8vCMSkxHN99Z6iwaPbAoWRQSdtv"
+  },
+  "E6899DE5B53F73C8978E3330DCA0F2DAAF95F140": {
+    "logo": "Qmc25sn3KjtK1KVEbSuQ5kmHQc2KL23KmRT9Q7yJSco9jG",
+    "name": "SD Gundam Gashapon Senki - Episode 1 (Japan)",
+    "vid": "QmXATohycWSge9qYWMYDbkjp5PZcTH1MhLjxgxug6t9rBb"
+  },
+  "E6911E5BB0A742BA299E05B20EE81F2FAA4854A5": {
+    "logo": "QmTaMfLQ4VwKQdQqP3u5qVv9kupSNTGj3x5kWWcPkZqAuE",
+    "name": "Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)",
+    "vid": "QmdQUqsKbfJZyBYRaDp1XwAEgUmvQRJQrqMUAkychQRy4x"
+  },
+  "E88E659CC04FC08A04B8C881F62FE086C5CDAB06": {
+    "logo": "QmQLH37HmsYu2uyDfyNnA3tQbpJPn4RiDK9aNkQReKH46N",
+    "name": "Moero!! Pro Yakyuu Rookies (Japan)",
+    "vid": "QmNqvzkWZmRnhqvN9YAFG7ZYyeY4BjkbRJgHoK9vb84BN9"
+  },
+  "E8B8562D0D63EFF76581782647D455CB94B58C77": {
+    "name": "WonderWitch (Japan) (FreyaOS 1.0.0) (Program)"
+  },
+  "E933FF8EACE56A462019AE4654B0BAB1B21B1D6C": {
+    "logo": "QmR3Ua4GSeJx49CsEAkBU1ssiowQYhpyKc2kTEamvzcA38",
+    "name": "Kidou Senshi Gundam Seed (Japan)",
+    "vid": "QmZZEnetswWdPVzHs4TCE31C5w7gurkEkUbxKAhS6ifKVW"
+  },
+  "E93D58AB5819992E54223F5D1C4D5AEB6983D6A3": {
+    "logo": "QmTPA3WCFhuufLXc3uX3Doo5iipHBWjSTaLBKFvDNfjDfM",
+    "name": "Super Robot Taisen Compact (Japan) (Rev 2)",
+    "vid": "QmULKD4ZQEDDmaSCKUcKHGj7xHw95X1MqVKzA7LcPbSNLN"
+  },
+  "EA878A485A20ABD5251065FD66E82D9D8B8A669D": {
+    "logo": "QmSr6ygehjLLASW7UGNRZMA5usp4sLmJ815rDvqRhc8iHK",
+    "name": "Wild Card (Japan)",
+    "vid": "QmRDGN1FLmawERSu7j4ofeeXx4vCdYfqoc4ZpyqJZgXWq3"
+  },
+  "EB538B82C5516FAE8CE38778E41FB118AA5C830F": {
+    "logo": "QmZL6TzXepkCrdnqYF31Bzc54SRvbiKLmqNgTnW6KV7mcJ",
+    "name": "Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4)",
+    "vid": "QmcbV3Ad1PpuqWufEyPEBBeHy6C1dnAicDHgMywxDFaToK"
+  },
+  "EBD4B37ADE6DF717F7B637747A4D3C45A6CCA037": {
+    "name": "SD Gundam Eiyuu Den - Kishi Densetsu (Japan)",
+    "vid": "QmbCVvHQvntmeW1KYVJj5eD9bNK3S2NZ65UY5XXpuRc5rQ"
+  },
+  "ECBAF210F92C75A55DF9DFF4777EA364596AE0C9": {
+    "name": "Harobots (Japan) (Rev 1)",
+    "ref": "1F42C5694A798DE8FF3C68F63DFC7395BE1669A5"
+  },
+  "ECEA24DB6E65254AB4D6E312DE0EB951C7DF716F": {
+    "logo": "QmaahUp8QmLZum1BgpdnkxJhhTA398YoauqYHSYTam4Sog",
+    "name": "Digital Monster - Ver. WonderSwan (Japan) (Rev 1)",
+    "vid": "QmWCpNQzukDLAvU4KUj2vogm4Nd5opPAmFYNM7GQiW4uTc"
+  },
+  "EE4B777F029BAC9561E60C19407D08360E733822": {
+    "logo": "QmUSYQuuGJHRCksiC8uEdXY4jiq1fTkskeBFpapeJTZ5ww",
+    "name": "GunPey (Japan)",
+    "vid": "QmQNYaLZ2mAUi6vV3pH6Ag5CxNnp43LRppegLu5uLPRrLj"
+  },
+  "EFCF8F92357FFC6F6EC0E4AA960CD97A5070836E": {
+    "name": "Kinnikuman II-Sei - Choujin Seisenshi (Japan)"
+  },
+  "F20AF32F9E6A2D7DEFF2D474D20A9DA8D2462E07": {
+    "name": "WonderWitch (Japan) (FreyaOS 1.0.2) (Program)"
+  },
+  "F26B0215C49E04CB8EF6F031B627DFF6A49D2015": {
+    "logo": "QmQENu87WMWbSkoy3pS1Y7hgRdnG4g6PNPVEwwAfSRjJXZ",
+    "name": "Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan)",
+    "vid": "QmWSC3DzSaiPswLhQt7QXTiNy21vNnhTG1SiSYsAH7KfJN"
+  },
+  "F47B4AB9197999BBEC351750601BAA20FBBD7177": {
+    "logo": "QmejxKC8nRqQ4DU2PsqpGXnyDdQh1FWMerHxempzR1pZfQ",
+    "name": "Memories Off - Festa (Japan)"
+  },
+  "F66335B5AF87E7CB72AE311EB9B339534722F738": {
+    "logo": "Qmc2r6328TzMnbtdk2YZx5rzZwg329e1twYrk2TSQpucKz",
+    "name": "Hunter X Hunter - Greed Island (Japan)",
+    "vid": "QmdsC1nFrFL11F1st3cpKm8D3N3DDepB7M9kDP5XuBMN9J"
+  },
+  "F79451034B6D844F0E10C825306BBC26F26A5466": {
+    "logo": "QmcS92YmhfKKv94ykt1aDKrQr5VtGmSYshptNUinMq7Hsm",
+    "name": "Engacho! for WonderSwan (Japan)",
+    "vid": "QmeVz85xHgnwgeJkac4F8yNPVSi6zLLov3MwQG2irtyS4x"
+  },
+  "F7A65E95A8E97F35EC2419897AD96AF1E1D49676": {
+    "name": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3)",
+    "ref": "3B62FD2841602F1077270848AB7A3AAD58712EE9"
+  },
+  "F7AEAB6724154F7EF6A389F9F18B7100045E1064": {
+    "logo": "QmUoRyv68PuBwmsvsmnxpY8BdP6RiyZeFwnd851FbtvFuW",
+    "name": "Guilty Gear Petit 2 (Japan)",
+    "vid": "QmUkwEko6m5Ujr6D2rmRTRUMVtobHitUbBzoUXDL1xUFRX"
+  },
+  "F7C8F8B6B6D036DF8FC4BDE72FCFAC2846DFFE35": {
+    "logo": "QmYo82uCH99Zu8Zn5gKmL9eMS78qJYm6XCf5KEipc1qcBM",
+    "name": "Inuyasha - Kagome no Yume Nikki (Japan)",
+    "vid": "QmdMZiYgBbisQNhJLBM9h2c3NqVu3xJPMvgL9AkuZDAKid"
+  },
+  "F8F077DA30F227F3793E97C7F1D656559F08B9D4": {
+    "logo": "QmXoaAq89rdvzLHujwyPX2v9n534hjSnSLa9xwfQFFqQKA",
+    "name": "Fishing Freaks - Bass Rise for WonderSwan (Japan)",
+    "vid": "QmbC7H2noVuyHu2p2vuqQ1FGJWhcsgWDBcr4DUS5n9nyWn"
+  },
+  "FB53C28BD48174D3829467F1AB81D3F87F9A7F5B": {
+    "logo": "QmXUQPnpHidq991jm9fcZeGnRLXRQehFcp1LNK3maNdq1L",
+    "name": "Tonpuusou (Japan)",
+    "vid": "QmR9tnnrvb4PW5a8Wfgm9Qe4WieCAZrEPJNERp3JhuN3ED"
+  },
+  "FB8D0F4E58A4192989EC71EB6E392D182AAA3EEC": {
+    "logo": "QmSwMRosb8RTFHGM5JzZz9eBuJw7J2hYEJuDwqBXtBG1Qs",
+    "name": "Pocket Fighter (Japan)",
+    "vid": "QmTzEUEzuTK9VBZxzfzgSW6QA2L8FZK4rS9eFWxMfiBvRc"
+  },
+  "FBB745B016CC710FF6F82EC3091A181415D8DE61": {
+    "logo": "QmTSTGAa2YjZWrZoyptd5U1s8eDNuED8q3N11a2U77zaVQ",
+    "name": "Fire Pro Wrestling for WonderSwan (Japan) (Rev 5)",
+    "vid": "QmbeYozHv6MskEc6szddcsTst7LEkMVZazYGG3rFQ2nWFW"
+  },
+  "FC8B0B9B7EFEAC54812E7AE54153B7AE0CB9C12F": {
+    "logo": "QmXbux86xwnrP2i2uvrCwubsHFenSNZGipiPwaTUdSUyD6",
+    "name": "Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan)",
+    "vid": "QmYs6srFikUGKAuSFK1y4ML8B1nhCtZxAPvkSDsvjTPEJ9"
+  },
+  "FDB8E9F37A4B097350B7C5B1B8EE381CA51DC0B6": {
+    "logo": "QmVgLHryLkCoAH6fQuVzGR7RSvbFATVb2p2K2CRnDycdVv",
+    "name": "Puzzle Bobble (Japan)",
+    "vid": "QmUpH6txHtR9sKKDSmZzjkYQRgvQFQaKjhxMa1c9jGTcmk"
+  },
+  "FFFB1AEA34E0A96113CD10BA9DE515000D27BFE6": {
+    "name": "Battle Spirit - Digimon Frontier (Japan) (Rev 1)"
   }
 }

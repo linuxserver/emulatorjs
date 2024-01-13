@@ -1,28 +1,28 @@
 {
   "2C8212631B37F21AD06D18B5638C733A75E179FF ": {
+    "logo": "QmSNo8VrwLg1NRWAMhm2qc3zWFF7HK8563sAeU4Hu6DQ8u",
     "name": "Doom",
-    "vid": "QmTuyvkgZ7H4kxLN5ws7k71uGsa2pc2rEBKCHTJY6mzvTs",
-    "logo": "QmSNo8VrwLg1NRWAMhm2qc3zWFF7HK8563sAeU4Hu6DQ8u"
+    "vid": "QmTuyvkgZ7H4kxLN5ws7k71uGsa2pc2rEBKCHTJY6mzvTs"
+  },
+  "7EC7652FCFCE8DDC6E801839291F0E28EF1D5AE7": {
+    "logo": "QmPZaGnVHshwHropCW95HtNTUQSDUbfK9vFa2oQjVqcVkZ",
+    "name": "Doom II",
+    "vid": "Qmamv4bz1HVQWHRKbrbEWPUuAtUEhEVXJxqDYz2ui4gCaD"
+  },
+  "90361E2A538D2388506657252AE41ACEEB1BA360": {
+    "logo": "QmQEN7NGWPw4YbvS49RoQBgKNbRT9V3EynijAFcxAiJKCE",
+    "name": "Doom The Plutonia Experiment"
+  },
+  "9B07B02AB3C275A6A7570C3F73CC20D63A0E3833": {
+    "logo": "QmNyBkiShukMmib9qndrZbovqX9ycdQE3UzZSLHSFtXdU7",
+    "name": "The Ultimate Doom"
+  },
+  "9FBC66AEDEF7FE3BAE0986CDB9323D2B8DB4C9D3": {
+    "logo": "Qma4PUdncsFtsWnFbeS1qVSyRpqsLD2J7JUaz37da2DtjQ",
+    "name": "Doom TNT: Evilution"
   },
   "C6612AC5A8AC2E2A1D707F9B2869AF820EFB7C50": {
     "name": "Doom (Demo)",
     "ref": "2C8212631B37F21AD06D18B5638C733A75E179FF"
-  },
-  "7EC7652FCFCE8DDC6E801839291F0E28EF1D5AE7": {
-    "name": "Doom II",
-    "vid": "Qmamv4bz1HVQWHRKbrbEWPUuAtUEhEVXJxqDYz2ui4gCaD",
-    "logo": "QmPZaGnVHshwHropCW95HtNTUQSDUbfK9vFa2oQjVqcVkZ"
-  },
-  "9B07B02AB3C275A6A7570C3F73CC20D63A0E3833": {
-    "name": "The Ultimate Doom",
-    "logo": "QmNyBkiShukMmib9qndrZbovqX9ycdQE3UzZSLHSFtXdU7"
-  },
-  "90361E2A538D2388506657252AE41ACEEB1BA360": {
-    "name": "Doom The Plutonia Experiment",
-    "logo": "QmQEN7NGWPw4YbvS49RoQBgKNbRT9V3EynijAFcxAiJKCE"
-  },
-  "9FBC66AEDEF7FE3BAE0986CDB9323D2B8DB4C9D3": {
-    "name": "Doom TNT: Evilution",
-    "logo": "Qma4PUdncsFtsWnFbeS1qVSyRpqsLD2J7JUaz37da2DtjQ"
   }
 }

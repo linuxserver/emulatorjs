@@ -1,269 +1,440 @@
 {
-  "EDC13192054A59BE49C6D55F83B70E2510968E86": {
-    "name": "[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja)"
-  },
-  "AA17BD65849707CF13CA4891DF44200F58D13599": {
-    "name": "Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)"
-  },
-  "5A9792D7674EAD92C08FB6F2D108B26E47A696BF": {
-    "name": "Baseball Stars Color - Pocket Sports Series (World) (En,Ja)",
-    "vid": "QmeRLb1DmbfArcNHdLz7rwZEF5VjZqd3GXy9SYDAPMexo6",
-    "logo": "QmdPAPmCYXV4tQRD84LFLsw6TWYEXpmdigUJAHNmppZYQC"
-  },
-  "51B9F5A0B233B0C9782CF522324A3A437C06C26F": {
-    "name": "Big Bang Pro Wrestling (Japan) (En,Ja)"
-  },
-  "62898D43CFC9ACE86A53520ECF62ABC6B0C404F3": {
-    "name": "Bikkuriman 2000 - Viva! Pocket Festival! (Japan)"
-  },
-  "C81C21DD3536C91166181A36BEE93D1803DCEB07": {
-    "name": "Biomotor Unitron (Japan)",
-    "ref": "FF74D5877BF58164419710888923E46B9CFB415E"
-  },
-  "FF74D5877BF58164419710888923E46B9CFB415E": {
-    "name": "Biomotor Unitron (USA, Europe)",
-    "vid": "QmaDL9N66LDqkXNtBXKGSCjkrZMvpXAsRUr1KMQzPhWGsn",
-    "logo": "QmPpAVMPE7Q1EzpuhMA7biFiYRP7BjyPKpRvWUVecJN1x3"
-  },
-  "3A1AAC359EF05A37C9BBB80265BB534C79E02837": {
-    "name": "Biomotor Unitron (Japan) (Demo)",
-    "ref": "FF74D5877BF58164419710888923E46B9CFB415E"
-  },
-  "5E8C84B9A4B10AA1C3ABBFDEA60AEF90A8B7DB7D": {
-    "name": "Bust-A-Move Pocket (USA)",
-    "vid": "QmYGbt1TQ7o3tq5tyAgZcjmhx2QMaqQp6chB2vxyXmiZn8",
-    "logo": "QmT2gLEXDq1cMGXKFBNLgVHmQiDZp6QSJh5j8y1jQNKXWi"
-  },
-  "2AF0197415BDF1679342D8AECA5C35EA3EFF8B73": {
-    "name": "Bust-A-Move Pocket (USA) (Beta)",
-    "ref": "5E8C84B9A4B10AA1C3ABBFDEA60AEF90A8B7DB7D"
-  },
-  "2930551088BC97A407824178F23DFA8D0B6A551F": {
-    "name": "Cool Boarders Pocket (Japan, Europe) (En,Ja)",
-    "vid": "QmZBEFjPjvkzCUuBmAa2VjCTic911JXWjSbEzXq3T1zBXy",
-    "logo": "QmSLt5gifxC4KZopDd2p6cmq7QhDTSHNHFVnzXDu4nGFvD"
-  },
-  "F0F9FB71BE6FDE25F9DB8DCB8C6D6AA859B21697": {
-    "name": "Cool Cool Jam (Japan)"
-  },
-  "77D7BB74844D43520DCD6E9CD912560C995C6247": {
-    "name": "Cool Cool Jam (USA) (Proto)"
-  },
-  "B68E7F5F43D35FEDA39F0C46EBD6BAADC942AC4F": {
-    "name": "Crush Roller (World) (En,Ja)",
-    "vid": "QmYJzsfYjpesRVQ4agAPpQgnXKfgDKJjV2wtg8VcFRKL9J",
-    "logo": "QmXppmyoEJih5DbBT5SjQnKaT22E6Kne9kg2LF1tUbRe3e"
-  },
-  "727D8100FA7C4A39A6BE9133BD903B868B4CC834": {
-    "name": "Dark Arms - Beast Buster 1999 (World) (En,Ja)",
-    "vid": "QmT7ETchcSYdrUJ6NBMZcX4CWcWdtHsQb4D7vzSg4AuEyb",
-    "logo": "QmQ6CUL41RY5dSSsdhGm97bSH4iNQApbTi2EDRnHHXxj9s"
-  },
-  "4AB8F0B074A1299A0ADEE3D7CA46D070A9CCAE6D": {
-    "name": "Delta Warp (Japan) (En,Ja)"
-  },
-  "F1D52256C2C8C19E3944D6AC0F6370DB91FD9F09": {
-    "name": "Delta Warp (Japan) (Beta)"
-  },
-  "5AC794C0F125BFB97EFE9CD06C2ACA3AFDF549EA": {
-    "name": "Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)"
-  },
-  "CEE5FA9DC0ACFBA95EE6BD802A0FF80D4ECACC79": {
-    "name": "Densha de Go! 2 on Neo Geo Pocket (Japan)"
-  },
-  "4934987CD275A013D05D02B1DDD8FD1FB2DED0DA": {
-    "name": "Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta)"
-  },
-  "64467ACF90BE6931F9AA532ED8E1FD4DC60946C6": {
-    "name": "Dive Alert - Becky's Version (USA, Europe)",
-    "vid": "QmaozEo1HrJe7znBUVQKXDrthiW35cBJy8PxHFfB8t8kzJ",
-    "logo": "QmPcDqdoPYFoL3SVj6xBPgVUbrHHWbj5RoxTXncDMXRS6A"
-  },
-  "66624028EC986084A95237C74173849A8A729398": {
-    "name": "Dive Alert - Burn Hen (Japan)"
+  "030A59F990E96649001582BE2D5ACC9AF18424FE": {
+    "name": "Mezase! Kanji Ou (Japan)"
   },
   "03E1F5B60C4FDC7665932C1C51E965788D4895F5": {
     "name": "Dive Alert - Burn Hen (Japan) (Beta)"
   },
-  "0ABDF64DD402A8192B0AF8127A6EE214173DFE3C": {
-    "name": "Dive Alert - Matt's Version (USA, Europe)",
-    "vid": "QmXvydhoY8bBinq32D1MSVBzMABypboYJz3fgDeznwj8Ne",
-    "logo": "QmYTkMHghk7wSur4y14Bb5AKDnQGxtN4k5KAU7HSkTDcnu"
-  },
-  "AC81DE4F9C1473C5ECD761DC449AE5AF0E98915F": {
-    "name": "Dive Alert - Rebecca Hen (Japan)"
-  },
-  "D7EDF6BB3773A5319DFD2A20E204C70E8CC6971E": {
-    "name": "Dokodemo Mahjong (Japan)"
-  },
-  "90104D5917DB4CACFD1D0EF8B2B01FEA09679A93": {
-    "name": "Dynamite Slugger (Japan, Europe) (En,Ja)",
-    "vid": "QmcLUVk97vmUaVRNZdPpR1Pe6XL3cJxrR3af8s8wSag8HN",
-    "logo": "QmZk1ek9FbvfpYSACTQLxpDtDYyvXAHeR9jtbo6LQo78Hg"
-  },
-  "9F607095B038CCDBF98E6A8FCE2DD67740AE5571": {
-    "name": "Evolution - Eternal Dungeons (Europe)",
-    "vid": "QmV7Vd3gNaxdKn2gCdnhhExnSeEdiPdd2P8kXSqnzcw21A",
-    "logo": "QmPcSd9LSgfehpRhtmyHxd4QXaJ7eex9pLm7UZAve1tN6P"
-  },
-  "A9D8BE97AB7BAB1AAA1BEDD2CE6914EC7FB8CB85": {
-    "name": "Fantastic Night Dreams - Cotton (Europe)",
-    "vid": "QmeXV99J53RPqqQoivZv9vXnuNfGrEKCzVQv5aLto5oSD3",
-    "logo": "QmUjjJdTE3Xt4TGBPHXSJBfCutGdUAFKCsuwigMCk8Fenb"
-  },
-  "935B9D671DF660192D9FC215AA03D90A486E743A": {
-    "name": "Fantastic Night Dreams - Cotton (Japan)",
-    "ref": "A9D8BE97AB7BAB1AAA1BEDD2CE6914EC7FB8CB85"
-  },
-  "48C04C8A261B25A942A9FE68ABACE8AAD9DEAE23": {
-    "name": "Faselei! (USA, Europe)",
-    "vid": "QmdLpyziWPYuvMTeMNCw8WBXtcb6F1bH62by1iDKY2XU3b",
-    "logo": "QmNyqyLi8m7KxuYhJVJAsCUiAdfu7hAYiWkn68s5ph6vEJ"
+  "0405BBF7AB34C818F52793ACA80A73AB40788CAC": {
+    "name": "Pocket Reversi (Europe)"
   },
   "04A65A7529098BFB2295AB4BC3782EA45EC116EE": {
     "name": "Faselei! (Japan)",
     "ref": "48C04C8A261B25A942A9FE68ABACE8AAD9DEAE23"
   },
-  "ECFCCD7E971D8E9D46B97AA05DC7EB61D69E16CD": {
-    "name": "Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)",
-    "vid": "QmWESyvEtQU7GTNyisGXujvwxkdW8mDrCsdTwrfvvtEmmz",
-    "logo": "QmWxh5M19Es5VHxyGfNwuFRJrVw13Wscwo5Xjkk33T5Q9o"
+  "099A835930209A6EC15B7E9092C086B6E7A4AD9E": {
+    "name": "Metal Slug - 2nd Mission (World) (En,Ja) (Demo)",
+    "ref": "9C1A829D4678DD9C51FDFE30C76B7F9670311BFB"
   },
-  "BC8BE263618601D5967538D125BE1D58103CA7B7": {
-    "name": "Ganbare Neo Poke-kun (Kari) (Japan)"
+  "09A74B42EF9B63ACA675AEAD5854512AD0B585A1": {
+    "logo": "QmciVJGZCnfTRAgNbqDJ9G39R4vJ5h2ma4BUuNUaSZG55G",
+    "name": "SNK Gals' Fighters (USA, Europe)",
+    "vid": "QmXfoNCBaTxZeygekpywt6Ye3xNdA9zSfiUVjvmBDeJLum"
   },
-  "B0F3F57C5AD084A009631E7E0FA497451415E73B": {
-    "name": "Infinity Cure (Japan)"
+  "0A6FDC98C5FA2B683D29603A204C616D8C9AE696": {
+    "name": "Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)"
   },
-  "B732C22631B05895ED7EEBABFC3A59E28B04B364": {
-    "name": "Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)"
+  "0ABDF64DD402A8192B0AF8127A6EE214173DFE3C": {
+    "logo": "QmYTkMHghk7wSur4y14Bb5AKDnQGxtN4k5KAU7HSkTDcnu",
+    "name": "Dive Alert - Matt's Version (USA, Europe)",
+    "vid": "QmXvydhoY8bBinq32D1MSVBzMABypboYJz3fgDeznwj8Ne"
   },
-  "72D2B8F19F51B7CD5DA18EBE7F3E2C90263C0A0C": {
-    "name": "King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)",
-    "vid": "QmfNKyB6H1GdFrEZss6X3ZvnA9MG3p6GKppAcAdibzvdCD",
-    "logo": "QmNuPFHxvTPs3Ua6L4zyogwedYYTUpkKXFDpQQJ4YGXVay"
+  "0D137A2CAC0A03AB55DFEB4DBAF3929477CFB5D0": {
+    "name": "Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)"
+  },
+  "0E9E5E60F60D7795430F4E3D4B655E796998F856": {
+    "name": "Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo)",
+    "ref": "C217BC81012C8011EC268E6A21ADF5B26566B4B5"
+  },
+  "17D51967CF1992B6AA779A2583DAC46A6590D50A": {
+    "name": "Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)"
+  },
+  "17D76B25F97ACF0C803E5E30922C950331E4BE8B": {
+    "name": "Memories Off - Pure (Japan)"
+  },
+  "2507D1BDEB67BDB6379424817707693549EFB487": {
+    "logo": "QmNPAtC6xLFbRStLtCnSPyjLNoPK3AYndiKvDWTEGfuHVH",
+    "name": "Puzzle Link (USA, Europe)",
+    "vid": "QmUtvGCiiUYcgoCiPNS1ypGQHWZRGessjgEJuFM75jMGe2"
+  },
+  "27C3250FB17F291832FA7189A35478D017A0EF5E": {
+    "name": "Puyo Pop (World) (En,Ja) (v1.05)",
+    "ref": "8971D3D64E47950CF01648D7B341D4B01A2C4EB0"
+  },
+  "2930551088BC97A407824178F23DFA8D0B6A551F": {
+    "logo": "QmSLt5gifxC4KZopDd2p6cmq7QhDTSHNHFVnzXDu4nGFvD",
+    "name": "Cool Boarders Pocket (Japan, Europe) (En,Ja)",
+    "vid": "QmZBEFjPjvkzCUuBmAa2VjCTic911JXWjSbEzXq3T1zBXy"
+  },
+  "2A95AB1FE62B6A9DC30A05131AD212BA2DE5C3CD": {
+    "name": "SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)"
+  },
+  "2AF0197415BDF1679342D8AECA5C35EA3EFF8B73": {
+    "name": "Bust-A-Move Pocket (USA) (Beta)",
+    "ref": "5E8C84B9A4B10AA1C3ABBFDEA60AEF90A8B7DB7D"
+  },
+  "2B5D9628B7B5911F90C28321227D47A527A719EA": {
+    "name": "Pocket Love - if (Japan)"
+  },
+  "2C4FC8594F8BA2BF39E62FE8BCB79FC2DF5A83B6": {
+    "name": "SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)"
+  },
+  "2C6ADFA69E7AEADA7D4198B373436EEE35B70D01": {
+    "logo": "QmRUfykyNutVotYZ6VE12QQ1rBm4Dzwu8oM8GjjzXQjubb",
+    "name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+    "vid": "QmYKJQhxhVgYTGXp27EG6NduJ7JGNsMobvjG25vSBUXN7h"
+  },
+  "2DD82DB967E2BC8C2D8B569A364793D56176A68E": {
+    "name": "Wrestling Madness (Japan) (En) (Beta)"
+  },
+  "2EC4DA369D3B91AF15DEFA64429BD9DAAC7EE9B5": {
+    "logo": "QmWuZ1X6F8vfdUQnhqSaTU2JGXUZrYsqsoRTEgJog9BLEL",
+    "name": "Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)",
+    "vid": "QmY5wBVmQdQcQdU2pdMNbGGvaqcYwrNDL62XTUeEfKLC3m"
+  },
+  "2F6429B68446536D8B03F35D02F1E98BEB6460A0": {
+    "name": "[BIOS] SNK Neo Geo Pocket (Japan, Europe)"
+  },
+  "2F806C926A19B261C42E5A60D1DDD5D132ADA942": {
+    "name": "SNK Gals' Fighters (Japan)",
+    "ref": "09A74B42EF9B63ACA675AEAD5854512AD0B585A1"
+  },
+  "3540BB6EFBBC4F37992D2A871B8D83B4FCA0E76E": {
+    "logo": "QmUhuZS7ougMqBjEJLYqUgEseg2zP3Fxd4BXq7uDV53h1J",
+    "name": "Metal Slug - 1st Mission (World) (En,Ja)",
+    "vid": "QmZRdu737i2X5SF4GH51RAHYpoMFLFcj8ax4cLXxSsxQec"
+  },
+  "359DC14577C7B8FB8F2C8CFA63C12BCCB30FCC11": {
+    "name": "Neo 21 - Pocket Casino Series (World)"
+  },
+  "387D37CF60562DA4E95BA18440AD6E0A4CCCB537": {
+    "name": "Picture Puzzle (Europe)"
+  },
+  "3A1AAC359EF05A37C9BBB80265BB534C79E02837": {
+    "name": "Biomotor Unitron (Japan) (Demo)",
+    "ref": "FF74D5877BF58164419710888923E46B9CFB415E"
+  },
+  "3B1D5AC5B4AAF1AA04479E46961C4D7C458D70FB": {
+    "name": "SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)"
+  },
+  "3E3E625852AC4997D3E3739E59C16E9A74F40F19": {
+    "name": "Shanghai Mini (World) (En,Ja)"
+  },
+  "3FE15D4374C4CA073AA0393FCFCAD0055BD345AB": {
+    "logo": "QmNmaLDPWgGZsZgVbWEva8F4sEyB1vs6X9fovbHDdUWUoP",
+    "name": "Sonic The Hedgehog - Pocket Adventure (World)"
+  },
+  "42717BDA4F505083D51108FECD5AA37B08E904CB": {
+    "logo": "QmPGNJysXPQFrwFQNAUvadYwP5t8B7reUyBxyA4dKkkQqk",
+    "name": "Magical Drop Pocket (USA, Europe)",
+    "vid": "QmcFa4b4L6AExKEKKzK6uUTAzvDVeAUm57FDZ4N7eokLgF"
+  },
+  "445743119C65A6765A0BDC849A12E9038192840C": {
+    "logo": "Qme7FMbAQiE3Eh5R2o5PbBqhmUkm6YfgWm2bHmU5FYdCB5",
+    "name": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)",
+    "vid": "QmeZrx1YUNdoU3WyRhoLKr8sShHAxorpvSatCMidAS1Sry"
+  },
+  "48C04C8A261B25A942A9FE68ABACE8AAD9DEAE23": {
+    "logo": "QmNyqyLi8m7KxuYhJVJAsCUiAdfu7hAYiWkn68s5ph6vEJ",
+    "name": "Faselei! (USA, Europe)",
+    "vid": "QmdLpyziWPYuvMTeMNCw8WBXtcb6F1bH62by1iDKY2XU3b"
+  },
+  "4934987CD275A013D05D02B1DDD8FD1FB2DED0DA": {
+    "name": "Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta)"
+  },
+  "4A7ADBCCCB05B6047A38BB861523CBAE7D956BFA": {
+    "logo": "QmWUQ1NQC1BcdmcgUweqoShPCL5t43h3mG6Ch15dq7HZFZ",
+    "name": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+    "vid": "QmaQyjagPTSDBjkAbD2bxDVdZ688iiVEej8f4KJXjD9vu1"
+  },
+  "4AB8F0B074A1299A0ADEE3D7CA46D070A9CCAE6D": {
+    "name": "Delta Warp (Japan) (En,Ja)"
+  },
+  "4B2F613F978CEFAE8E952A43440D2D395B1012D5": {
+    "name": "SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)"
+  },
+  "50DB9B1C267BAF88A0D969DEA4F72D92E46CDFAF": {
+    "name": "[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta)"
+  },
+  "51B9F5A0B233B0C9782CF522324A3A437C06C26F": {
+    "name": "Big Bang Pro Wrestling (Japan) (En,Ja)"
+  },
+  "551CEB97D1E3E6384221BE738B11EFB5D936FFD6": {
+    "name": "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)"
+  },
+  "57E44EE5168B69FD3B0EDE0FE0DDA44070E0AAD1": {
+    "logo": "Qmecsyw66uDuCN5XGuGrC3ExR7H9gAKT1KdaVjh8NnvCGw",
+    "name": "Puzzle Link 2 (USA, Europe)",
+    "vid": "QmVm7SfMSRNHwhYAqLqc42mRtqJjNUzMRRutyhBb5JLzYD"
+  },
+  "584B30B050C22082DAE3ABE685F406DBE4DECF98": {
+    "name": "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta)"
+  },
+  "59602E44C631A00B2DB53196204A4BC22CCD7025": {
+    "ref": "67826F4C8E488938F7E1B26E331F79EBF0AA2565"
+  },
+  "5A9792D7674EAD92C08FB6F2D108B26E47A696BF": {
+    "logo": "QmdPAPmCYXV4tQRD84LFLsw6TWYEXpmdigUJAHNmppZYQC",
+    "name": "Baseball Stars Color - Pocket Sports Series (World) (En,Ja)",
+    "vid": "QmeRLb1DmbfArcNHdLz7rwZEF5VjZqd3GXy9SYDAPMexo6"
+  },
+  "5AC794C0F125BFB97EFE9CD06C2ACA3AFDF549EA": {
+    "name": "Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)"
+  },
+  "5E8C84B9A4B10AA1C3ABBFDEA60AEF90A8B7DB7D": {
+    "logo": "QmT2gLEXDq1cMGXKFBNLgVHmQiDZp6QSJh5j8y1jQNKXWi",
+    "name": "Bust-A-Move Pocket (USA)",
+    "vid": "QmYGbt1TQ7o3tq5tyAgZcjmhx2QMaqQp6chB2vxyXmiZn8"
+  },
+  "61827B7A13B3EFE6A6B60F314FB0589A29C1BFD2": {
+    "name": "Shinki Sekai Evolution - Hateshinai Dungeon (Japan)"
+  },
+  "62898D43CFC9ACE86A53520ECF62ABC6B0C404F3": {
+    "name": "Bikkuriman 2000 - Viva! Pocket Festival! (Japan)"
+  },
+  "64467ACF90BE6931F9AA532ED8E1FD4DC60946C6": {
+    "logo": "QmPcDqdoPYFoL3SVj6xBPgVUbrHHWbj5RoxTXncDMXRS6A",
+    "name": "Dive Alert - Becky's Version (USA, Europe)",
+    "vid": "QmaozEo1HrJe7znBUVQKXDrthiW35cBJy8PxHFfB8t8kzJ"
+  },
+  "66624028EC986084A95237C74173849A8A729398": {
+    "name": "Dive Alert - Burn Hen (Japan)"
+  },
+  "67826F4C8E488938F7E1B26E331F79EBF0AA2565": {
+    "logo": "QmPLTXEU2zmhE8fvvQpPE9LNQqSdNfD2wyWDgZGU3HZoZk",
+    "name": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)",
+    "vid": "QmagXa64YtWVa6E8aAMPNxKhmEBuh6UC5399zi3tJyA7pw"
+  },
+  "6B4414EBC99C72CC6C79AA7A01C38378B9CCD058": {
+    "name": "King of Fighters R-2 Version 2 - Pocket Fighting Series (Japan) (En,Ja) (Demo)"
   },
   "6D138C34F3DC3C7F1B943C1F57F885007EDFB12A": {
     "name": "King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Demo)",
     "ref": "72D2B8F19F51B7CD5DA18EBE7F3E2C90263C0A0C"
   },
-  "6B4414EBC99C72CC6C79AA7A01C38378B9CCD058": {
-    "name": "King of Fighters R-2 Version 2 - Pocket Fighting Series (Japan) (En,Ja) (Demo)"
+  "727D8100FA7C4A39A6BE9133BD903B868B4CC834": {
+    "logo": "QmQ6CUL41RY5dSSsdhGm97bSH4iNQApbTi2EDRnHHXxj9s",
+    "name": "Dark Arms - Beast Buster 1999 (World) (En,Ja)",
+    "vid": "QmT7ETchcSYdrUJ6NBMZcX4CWcWdtHsQb4D7vzSg4AuEyb"
   },
-  "8AABDD45BA2B9E24BDCD8E51F6653736257D4644": {
-    "name": "King of Fighters, The - Battle de Paradise (Japan)"
-  },
-  "D705DFA87CF26C8232CF4885F8AE326EB690DF59": {
-    "name": "Koi Koi Mahjong (Japan)"
-  },
-  "B7DF1E56BC47266B65226413095E38896B38DA07": {
-    "name": "Last Blade, The - Beyond the Destiny (USA, Europe)",
-    "vid": "Qmb5jQTGFoW9a9FzNudbmTeWtKTNCmo6hN59dMdpyUU1tY",
-    "logo": "QmaSNKAsXpWQuuuwTYKvPiYwgz4rd6XqSggmC6y7XUtPJD"
-  },
-  "DFDE0DB9026B74988EAA1BDFC2A9EA0B0F52A48A": {
-    "name": "Magical Drop Pocket (Japan)",
-    "ref": "42717BDA4F505083D51108FECD5AA37B08E904CB"
-  },
-  "42717BDA4F505083D51108FECD5AA37B08E904CB": {
-    "name": "Magical Drop Pocket (USA, Europe)",
-    "vid": "QmcFa4b4L6AExKEKKzK6uUTAzvDVeAUm57FDZ4N7eokLgF",
-    "logo": "QmPGNJysXPQFrwFQNAUvadYwP5t8B7reUyBxyA4dKkkQqk"
-  },
-  "8E8DA9345C37800D6F78619B096B65EE88DFE30D": {
-    "name": "Magical Drop Pocket (Japan) (Demo)",
-    "ref": "42717BDA4F505083D51108FECD5AA37B08E904CB"
-  },
-  "17D76B25F97ACF0C803E5E30922C950331E4BE8B": {
-    "name": "Memories Off - Pure (Japan)"
-  },
-  "3540BB6EFBBC4F37992D2A871B8D83B4FCA0E76E": {
-    "name": "Metal Slug - 1st Mission (World) (En,Ja)",
-    "vid": "QmZRdu737i2X5SF4GH51RAHYpoMFLFcj8ax4cLXxSsxQec",
-    "logo": "QmUhuZS7ougMqBjEJLYqUgEseg2zP3Fxd4BXq7uDV53h1J"
-  },
-  "9C1A829D4678DD9C51FDFE30C76B7F9670311BFB": {
-    "name": "Metal Slug - 2nd Mission (World) (En,Ja)",
-    "vid": "QmVkfqTN1tKpW9ticxfqe3oERdATiw91YyH7NCUeD6ZNTe",
-    "logo": "QmWiumA5gmCZuWpMt2scExcgth1gMXnU4bqkC8TiidTM1u"
-  },
-  "099A835930209A6EC15B7E9092C086B6E7A4AD9E": {
-    "name": "Metal Slug - 2nd Mission (World) (En,Ja) (Demo)",
-    "ref": "9C1A829D4678DD9C51FDFE30C76B7F9670311BFB"
-  },
-  "030A59F990E96649001582BE2D5ACC9AF18424FE": {
-    "name": "Mezase! Kanji Ou (Japan)"
-  },
-  "8025D09368598951DA94F8601729C16972B96830": {
-    "name": "Mizuki Shigeru no Youkai Shashinkan (Japan)"
-  },
-  "359DC14577C7B8FB8F2C8CFA63C12BCCB30FCC11": {
-    "name": "Neo 21 - Pocket Casino Series (World)"
-  },
-  "80218804EB591E50831D098B5BD213A3586849A5": {
-    "name": "Neo Baccarat - Pocket Casino Series (Japan, Europe)"
-  },
-  "AEB77B92155E0A291D00EF3C97319788CC3D1006": {
-    "name": "Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta)"
-  },
-  "7749E828A508FDD399EE2BBF60A71BEFB8E9BB0E": {
-    "name": "Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1)"
-  },
-  "17D51967CF1992B6AA779A2583DAC46A6590D50A": {
-    "name": "Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)"
-  },
-  "9B53E545388D487A2782E5EA7232979EE33E2B4F": {
-    "name": "Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta)"
-  },
-  "B75A0DE4EEC70C39616DFFF92B09F4FB1C1E0881": {
-    "name": "Neo Derby Champ Daiyosou (Japan)"
-  },
-  "B83F713370169E146A1687424AE8CE56B35A23DA": {
-    "name": "Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja)"
-  },
-  "B80A2AB886C80AD17A6CB0968EA3AD6218922FA1": {
-    "name": "Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta)"
-  },
-  "0D137A2CAC0A03AB55DFEB4DBAF3929477CFB5D0": {
-    "name": "Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)"
-  },
-  "80B0037DDFB83090F13189B59C486FCD54D3276C": {
-    "name": "Neo Poke Pro Yakyuu (Japan) (v32)"
+  "72D2B8F19F51B7CD5DA18EBE7F3E2C90263C0A0C": {
+    "logo": "QmNuPFHxvTPs3Ua6L4zyogwedYYTUpkKXFDpQQJ4YGXVay",
+    "name": "King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)",
+    "vid": "QmfNKyB6H1GdFrEZss6X3ZvnA9MG3p6GKppAcAdibzvdCD"
   },
   "73C0A5DEDA91C571C69997F9537B538450A0110D": {
     "name": "Neo Poke Pro Yakyuu (Japan) (v1F)"
   },
-  "D425BB812290B93A800032925D7BE14F75820159": {
-    "name": "Neo Turf Masters (World) (En,Ja)",
-    "vid": "QmNmzLJ5NfSx8EtegRdSEqS12eAcVegL7Zxwa3XNot7zWp",
-    "logo": "QmbWPRQnn2W7Txgb5qdP8Ccg6nF3bbwvKd5PB4G61Pxn55"
+  "7629EA5520D3DAEE4EF658D4F4B48F45E17217AE": {
+    "logo": "QmcyUq25YpmYu3kssLkrMS2HMq5pzLKyqDS4mn21PcM4h9",
+    "name": "SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)",
+    "vid": "QmQPcG15e6uJe1BzUj1t9jnG4AGGHLnZkbgSfSZQcQ2XnM"
+  },
+  "7749E828A508FDD399EE2BBF60A71BEFB8E9BB0E": {
+    "name": "Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1)"
+  },
+  "77D7BB74844D43520DCD6E9CD912560C995C6247": {
+    "name": "Cool Cool Jam (USA) (Proto)"
+  },
+  "792A6CBB736526F4518DF97B5AC79ECB45E46EEC": {
+    "name": "Oekaki Puzzle (Japan)"
+  },
+  "7F2257FE6F9B90292D0332C06B9D68BFAEB2ED08": {
+    "ref": "72D2B8F19F51B7CD5DA18EBE7F3E2C90263C0A0C"
+  },
+  "7F5446CFE6535DB63678D6FC26F598ED3FF73B7F": {
+    "name": "Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)"
+  },
+  "80218804EB591E50831D098B5BD213A3586849A5": {
+    "name": "Neo Baccarat - Pocket Casino Series (Japan, Europe)"
+  },
+  "8025D09368598951DA94F8601729C16972B96830": {
+    "name": "Mizuki Shigeru no Youkai Shashinkan (Japan)"
+  },
+  "80B0037DDFB83090F13189B59C486FCD54D3276C": {
+    "name": "Neo Poke Pro Yakyuu (Japan) (v32)"
+  },
+  "83955172D78B5DC855B651E574132CFDF8D3D675": {
+    "name": "Shanghai Mini (World) (En,Ja) (Beta 2)"
+  },
+  "852F31360DE057723C16564C0578070306D62C97": {
+    "name": "Rockman - Battle & Fighters (Japan) (Beta)"
   },
   "8581B18D986BAF50FDB5DD9BA8FA5CF35B04AC2F": {
     "name": "Neo Turf Masters (World) (En,Ja) (Demo)",
     "ref": "D425BB812290B93A800032925D7BE14F75820159"
   },
+  "8971D3D64E47950CF01648D7B341D4B01A2C4EB0": {
+    "logo": "QmfPGJtPchMk1MFUQ7NFKDcbmhqToeKw3kgZSX8oH1EhAb",
+    "name": "Puyo Pop (World) (En,Ja)",
+    "vid": "Qme6k3UaYCMREZ1UMoP8FeS3zMC9YEWamR5JaPkL3dCuEi"
+  },
+  "8AABDD45BA2B9E24BDCD8E51F6653736257D4644": {
+    "name": "King of Fighters, The - Battle de Paradise (Japan)"
+  },
+  "8C5677B51F18FAC55FFFBB2E15BAEFBA3AF8FA1D": {
+    "name": "PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan)"
+  },
+  "8E8DA9345C37800D6F78619B096B65EE88DFE30D": {
+    "name": "Magical Drop Pocket (Japan) (Demo)",
+    "ref": "42717BDA4F505083D51108FECD5AA37B08E904CB"
+  },
+  "8ECE00F21AE49ED4777A9C990B2782465EF95380": {
+    "logo": "QmcShnQZuBbqqMiAtdsn5c8SxZesAzFBJse6R8uFSnUVs8",
+    "name": "Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)",
+    "vid": "QmPF1xFvQEHxuys8H8p1oGK6VJLoKSStVfbuZmiDFZxCgm"
+  },
+  "90104D5917DB4CACFD1D0EF8B2B01FEA09679A93": {
+    "logo": "QmZk1ek9FbvfpYSACTQLxpDtDYyvXAHeR9jtbo6LQo78Hg",
+    "name": "Dynamite Slugger (Japan, Europe) (En,Ja)",
+    "vid": "QmcLUVk97vmUaVRNZdPpR1Pe6XL3cJxrR3af8s8wSag8HN"
+  },
+  "935B9D671DF660192D9FC215AA03D90A486E743A": {
+    "name": "Fantastic Night Dreams - Cotton (Japan)",
+    "ref": "A9D8BE97AB7BAB1AAA1BEDD2CE6914EC7FB8CB85"
+  },
+  "941B168ECEE1DE8DD773464A8754C6C8C736B492": {
+    "name": "Pachinko Hisshou Guide - Pocket Parlor (Japan)"
+  },
+  "9B53E545388D487A2782E5EA7232979EE33E2B4F": {
+    "name": "Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta)"
+  },
+  "9C1A829D4678DD9C51FDFE30C76B7F9670311BFB": {
+    "logo": "QmWiumA5gmCZuWpMt2scExcgth1gMXnU4bqkC8TiidTM1u",
+    "name": "Metal Slug - 2nd Mission (World) (En,Ja)",
+    "vid": "QmVkfqTN1tKpW9ticxfqe3oERdATiw91YyH7NCUeD6ZNTe"
+  },
+  "9D30E0C67851BC99E4A77E89E3FBC101B358B458": {
+    "name": "Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan)"
+  },
+  "9F420D0A7CC1115F60BDA1C0916247935118CE98": {
+    "name": "Shougi no Tatsujin Color (Japan)"
+  },
+  "9F607095B038CCDBF98E6A8FCE2DD67740AE5571": {
+    "logo": "QmPcSd9LSgfehpRhtmyHxd4QXaJ7eex9pLm7UZAve1tN6P",
+    "name": "Evolution - Eternal Dungeons (Europe)",
+    "vid": "QmV7Vd3gNaxdKn2gCdnhhExnSeEdiPdd2P8kXSqnzcw21A"
+  },
+  "A02D1B1113DBEAC895832F1501029E40D9AAB493": {
+    "name": "King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki (Japan) (Demo)"
+  },
+  "A11283703FE6007C2E96CE81DFC56081EFF6F593": {
+    "name": "Sonic The Hedgehog - Pocket Adventure (World) (Demo)",
+    "ref": "3FE15D4374C4CA073AA0393FCFCAD0055BD345AB"
+  },
   "A8BB64F093B418A88E674D9FAB62A34FC220EA9F": {
     "name": "NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)"
+  },
+  "A99E8AABEFD36A5A297FEF59E376CF24F8F619F8": {
+    "name": "Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan)"
+  },
+  "A9D8BE97AB7BAB1AAA1BEDD2CE6914EC7FB8CB85": {
+    "logo": "QmUjjJdTE3Xt4TGBPHXSJBfCutGdUAFKCsuwigMCk8Fenb",
+    "name": "Fantastic Night Dreams - Cotton (Europe)",
+    "vid": "QmeXV99J53RPqqQoivZv9vXnuNfGrEKCzVQv5aLto5oSD3"
+  },
+  "AA17BD65849707CF13CA4891DF44200F58D13599": {
+    "name": "Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)"
+  },
+  "AB0C33236F72D2B317D91D034756B56CFCA1B0B4": {
+    "name": "Shougi no Tatsujin (Japan)"
+  },
+  "AC81DE4F9C1473C5ECD761DC449AE5AF0E98915F": {
+    "name": "Dive Alert - Rebecca Hen (Japan)"
+  },
+  "AEB77B92155E0A291D00EF3C97319788CC3D1006": {
+    "name": "Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta)"
+  },
+  "B0F3F57C5AD084A009631E7E0FA497451415E73B": {
+    "name": "Infinity Cure (Japan)"
+  },
+  "B13159D9944AAA19720D03D17B223D6FF12C1E29": {
+    "name": "Pocket Reversi (Japan)"
   },
   "B5D355EA808DD01CF746DAEF7704E54D7766BD3B": {
     "name": "Nige-ron-pa (Japan)"
   },
-  "792A6CBB736526F4518DF97B5AC79ECB45E46EEC": {
-    "name": "Oekaki Puzzle (Japan)"
+  "B68E7F5F43D35FEDA39F0C46EBD6BAADC942AC4F": {
+    "logo": "QmXppmyoEJih5DbBT5SjQnKaT22E6Kne9kg2LF1tUbRe3e",
+    "name": "Crush Roller (World) (En,Ja)",
+    "vid": "QmYJzsfYjpesRVQ4agAPpQgnXKfgDKJjV2wtg8VcFRKL9J"
   },
-  "EC64AB4BE669F9860C216151094B9EEA898C64B9": {
-    "name": "Pac-Man (World) (En,Ja)",
-    "vid": "Qmefj4zPwJdYHuGkpA47niMNjW8qTiccfab5hvoz6BSACV",
-    "logo": "QmZB2v9kzFjTNuGoTuPww4drb7ZAiQnfubsdr2xjeZdqgJ"
+  "B732C22631B05895ED7EEBABFC3A59E28B04B364": {
+    "name": "Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)"
   },
-  "0A6FDC98C5FA2B683D29603A204C616D8C9AE696": {
-    "name": "Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)"
+  "B75A0DE4EEC70C39616DFFF92B09F4FB1C1E0881": {
+    "name": "Neo Derby Champ Daiyosou (Japan)"
   },
-  "7F5446CFE6535DB63678D6FC26F598ED3FF73B7F": {
-    "name": "Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)"
+  "B7DF1E56BC47266B65226413095E38896B38DA07": {
+    "logo": "QmaSNKAsXpWQuuuwTYKvPiYwgz4rd6XqSggmC6y7XUtPJD",
+    "name": "Last Blade, The - Beyond the Destiny (USA, Europe)",
+    "vid": "Qmb5jQTGFoW9a9FzNudbmTeWtKTNCmo6hN59dMdpyUU1tY"
+  },
+  "B805C908C1BEF29C0792A73B6A6A05DD27CC5FF0": {
+    "name": "Party Mail (Japan)"
+  },
+  "B80A2AB886C80AD17A6CB0968EA3AD6218922FA1": {
+    "name": "Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta)"
+  },
+  "B83F713370169E146A1687424AE8CE56B35A23DA": {
+    "name": "Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja)"
+  },
+  "BC8BE263618601D5967538D125BE1D58103CA7B7": {
+    "name": "Ganbare Neo Poke-kun (Kari) (Japan)"
+  },
+  "C0A6CDF9BA6C4E8F227BA52489F15F5053F0889C": {
+    "name": "Rockman - Battle & Fighters (Japan)"
+  },
+  "C171D8D22D667D713BFC73C2B1C04BC77AACBB5C": {
+    "logo": "QmVgZBAioP5t9ycpgGsJAY7ddCn59kDWijZWgYCu9URxPm",
+    "name": "Neo Cherry Master - Real Casino Series (Japan) (En,Ja)",
+    "vid": "QmWnmpWeuEpYLaK9sDjfJdYagfTCBaEEbgJMkMmB2tV74M"
+  },
+  "C17A535195719E0DAFB5DE76663C7649D209F0FF": {
+    "name": "Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)"
+  },
+  "C217BC81012C8011EC268E6A21ADF5B26566B4B5": {
+    "logo": "QmbDsVXWLbRrzrZHUM9K5gK8SMBrRoEUs964zrPGxKG1Ud",
+    "name": "Puzzle Bobble Mini (Japan, Europe)",
+    "vid": "QmVyNtGuEFEWckn25p9pisNgq4LwfnPFqwY5o88YN9XKb8"
+  },
+  "C61847BCA43C5387D19096A86EF109560D71CA9B": {
+    "name": "Super Real Mahjong - Premium Collection (Japan)"
+  },
+  "C81C21DD3536C91166181A36BEE93D1803DCEB07": {
+    "name": "Biomotor Unitron (Japan)",
+    "ref": "FF74D5877BF58164419710888923E46B9CFB415E"
+  },
+  "CBE53B08D03EF684C08FC6EE28FCA168A3D091A7": {
+    "name": "Renketsu Puzzle Tsunagete Pon! (Japan)"
+  },
+  "CD72FC48D6981D3B521D9EF2A339664D0C229F3C": {
+    "name": "Shanghai Mini (World) (En,Ja) (Beta 1)"
+  },
+  "CEE5FA9DC0ACFBA95EE6BD802A0FF80D4ECACC79": {
+    "name": "Densha de Go! 2 on Neo Geo Pocket (Japan)"
+  },
+  "D14251209CA5DA8000643CD5BF6E5196A5E56EE4": {
+    "logo": "QmWWC5kiP164zGqTtXXNCAtX4ggh1VUQyqjqot6ibs8R5g",
+    "name": "Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)",
+    "vid": "QmckhHquBmDEMnx3CVSefoVsdwBip6fLjZ4v78EKZDB2hh"
+  },
+  "D425BB812290B93A800032925D7BE14F75820159": {
+    "logo": "QmbWPRQnn2W7Txgb5qdP8Ccg6nF3bbwvKd5PB4G61Pxn55",
+    "name": "Neo Turf Masters (World) (En,Ja)",
+    "vid": "QmNmzLJ5NfSx8EtegRdSEqS12eAcVegL7Zxwa3XNot7zWp"
+  },
+  "D705DFA87CF26C8232CF4885F8AE326EB690DF59": {
+    "name": "Koi Koi Mahjong (Japan)"
+  },
+  "D781A1A1E74BA822249D38DBE60E160A29EC2824": {
+    "name": "Party Mail (Japan) (Beta)"
+  },
+  "D7EDF6BB3773A5319DFD2A20E204C70E8CC6971E": {
+    "name": "Dokodemo Mahjong (Japan)"
+  },
+  "DB030E02819D50315F15C00B93C3A46F1F89D126": {
+    "name": "Tsunagete Pon! 2 (Japan)"
   },
   "DF3DA196C01BE73B0DEA64B86AB27EC7DDE5B594": {
     "name": "Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)"
+  },
+  "DFB232A527647337D6274DDF9D8B3D94281FD86D": {
+    "name": "SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)"
+  },
+  "DFDE0DB9026B74988EAA1BDFC2A9EA0B0F52A48A": {
+    "name": "Magical Drop Pocket (Japan)",
+    "ref": "42717BDA4F505083D51108FECD5AA37B08E904CB"
   },
   "E46AA1EB7C33C2F71BB236D279CA1D7C5D841E74": {
     "name": "Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan)"
@@ -271,219 +442,48 @@
   "E4B48D1290CD9DCF7A05EA276226ECBA10BE752E": {
     "name": "Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta)"
   },
-  "9D30E0C67851BC99E4A77E89E3FBC101B358B458": {
-    "name": "Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan)"
-  },
-  "A99E8AABEFD36A5A297FEF59E376CF24F8F619F8": {
-    "name": "Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan)"
-  },
-  "C17A535195719E0DAFB5DE76663C7649D209F0FF": {
-    "name": "Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)"
-  },
-  "FD51A5A649CEBFE5692EE498D11C48FD84661DC4": {
-    "name": "Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b]"
-  },
-  "941B168ECEE1DE8DD773464A8754C6C8C736B492": {
-    "name": "Pachinko Hisshou Guide - Pocket Parlor (Japan)"
-  },
-  "B805C908C1BEF29C0792A73B6A6A05DD27CC5FF0": {
-    "name": "Party Mail (Japan)"
-  },
-  "D781A1A1E74BA822249D38DBE60E160A29EC2824": {
-    "name": "Party Mail (Japan) (Beta)"
-  },
-  "387D37CF60562DA4E95BA18440AD6E0A4CCCB537": {
-    "name": "Picture Puzzle (Europe)"
-  },
-  "2B5D9628B7B5911F90C28321227D47A527A719EA": {
-    "name": "Pocket Love - if (Japan)"
-  },
-  "0405BBF7AB34C818F52793ACA80A73AB40788CAC": {
-    "name": "Pocket Reversi (Europe)"
-  },
-  "B13159D9944AAA19720D03D17B223D6FF12C1E29": {
-    "name": "Pocket Reversi (Japan)"
-  },
-  "D14251209CA5DA8000643CD5BF6E5196A5E56EE4": {
-    "name": "Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)",
-    "vid": "QmckhHquBmDEMnx3CVSefoVsdwBip6fLjZ4v78EKZDB2hh",
-    "logo": "QmWWC5kiP164zGqTtXXNCAtX4ggh1VUQyqjqot6ibs8R5g"
-  },
-  "8C5677B51F18FAC55FFFBB2E15BAEFBA3AF8FA1D": {
-    "name": "PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan)"
-  },
-  "27C3250FB17F291832FA7189A35478D017A0EF5E": {
-    "name": "Puyo Pop (World) (En,Ja) (v1.05)",
-    "ref": "8971D3D64E47950CF01648D7B341D4B01A2C4EB0"
-  },
-  "8971D3D64E47950CF01648D7B341D4B01A2C4EB0": {
-    "name": "Puyo Pop (World) (En,Ja)",
-    "vid": "Qme6k3UaYCMREZ1UMoP8FeS3zMC9YEWamR5JaPkL3dCuEi",
-    "logo": "QmfPGJtPchMk1MFUQ7NFKDcbmhqToeKw3kgZSX8oH1EhAb"
-  },
-  "C217BC81012C8011EC268E6A21ADF5B26566B4B5": {
-    "name": "Puzzle Bobble Mini (Japan, Europe)",
-    "vid": "QmVyNtGuEFEWckn25p9pisNgq4LwfnPFqwY5o88YN9XKb8",
-    "logo": "QmbDsVXWLbRrzrZHUM9K5gK8SMBrRoEUs964zrPGxKG1Ud"
-  },
-  "0E9E5E60F60D7795430F4E3D4B655E796998F856": {
-    "name": "Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo)",
-    "ref": "C217BC81012C8011EC268E6A21ADF5B26566B4B5"
-  },
-  "2507D1BDEB67BDB6379424817707693549EFB487": {
-    "name": "Puzzle Link (USA, Europe)",
-    "vid": "QmUtvGCiiUYcgoCiPNS1ypGQHWZRGessjgEJuFM75jMGe2",
-    "logo": "QmNPAtC6xLFbRStLtCnSPyjLNoPK3AYndiKvDWTEGfuHVH"
-  },
-  "57E44EE5168B69FD3B0EDE0FE0DDA44070E0AAD1": {
-    "name": "Puzzle Link 2 (USA, Europe)",
-    "vid": "QmVm7SfMSRNHwhYAqLqc42mRtqJjNUzMRRutyhBb5JLzYD",
-    "logo": "Qmecsyw66uDuCN5XGuGrC3ExR7H9gAKT1KdaVjh8NnvCGw"
-  },
   "E8E903BC4BAF5AB61726626AF7C0D1A571DB4A40": {
     "name": "Renketsu Puzzle Tsunagete Pon! Color (Japan)"
-  },
-  "C0A6CDF9BA6C4E8F227BA52489F15F5053F0889C": {
-    "name": "Rockman - Battle & Fighters (Japan)"
-  },
-  "852F31360DE057723C16564C0578070306D62C97": {
-    "name": "Rockman - Battle & Fighters (Japan) (Beta)"
-  },
-  "2EC4DA369D3B91AF15DEFA64429BD9DAAC7EE9B5": {
-    "name": "Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)",
-    "vid": "QmY5wBVmQdQcQdU2pdMNbGGvaqcYwrNDL62XTUeEfKLC3m",
-    "logo": "QmWuZ1X6F8vfdUQnhqSaTU2JGXUZrYsqsoRTEgJog9BLEL"
-  },
-  "3E3E625852AC4997D3E3739E59C16E9A74F40F19": {
-    "name": "Shanghai Mini (World) (En,Ja)"
-  },
-  "CD72FC48D6981D3B521D9EF2A339664D0C229F3C": {
-    "name": "Shanghai Mini (World) (En,Ja) (Beta 1)"
-  },
-  "83955172D78B5DC855B651E574132CFDF8D3D675": {
-    "name": "Shanghai Mini (World) (En,Ja) (Beta 2)"
-  },
-  "61827B7A13B3EFE6A6B60F314FB0589A29C1BFD2": {
-    "name": "Shinki Sekai Evolution - Hateshinai Dungeon (Japan)"
-  },
-  "9F420D0A7CC1115F60BDA1C0916247935118CE98": {
-    "name": "Shougi no Tatsujin Color (Japan)"
-  },
-  "2F806C926A19B261C42E5A60D1DDD5D132ADA942": {
-    "name": "SNK Gals' Fighters (Japan)",
-    "ref": "09A74B42EF9B63ACA675AEAD5854512AD0B585A1"
-  },
-  "09A74B42EF9B63ACA675AEAD5854512AD0B585A1": {
-    "name": "SNK Gals' Fighters (USA, Europe)",
-    "vid": "QmXfoNCBaTxZeygekpywt6Ye3xNdA9zSfiUVjvmBDeJLum",
-    "logo": "QmciVJGZCnfTRAgNbqDJ9G39R4vJ5h2ma4BUuNUaSZG55G"
-  },
-  "2C4FC8594F8BA2BF39E62FE8BCB79FC2DF5A83B6": {
-    "name": "SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)"
-  },
-  "2A95AB1FE62B6A9DC30A05131AD212BA2DE5C3CD": {
-    "name": "SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)"
-  },
-  "DFB232A527647337D6274DDF9D8B3D94281FD86D": {
-    "name": "SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)"
-  },
-  "4B2F613F978CEFAE8E952A43440D2D395B1012D5": {
-    "name": "SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)"
-  },
-  "3B1D5AC5B4AAF1AA04479E46961C4D7C458D70FB": {
-    "name": "SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)"
-  },
-  "551CEB97D1E3E6384221BE738B11EFB5D936FFD6": {
-    "name": "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)"
-  },
-  "584B30B050C22082DAE3ABE685F406DBE4DECF98": {
-    "name": "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta)"
-  },
-  "7629EA5520D3DAEE4EF658D4F4B48F45E17217AE": {
-    "name": "SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)",
-    "vid": "QmQPcG15e6uJe1BzUj1t9jnG4AGGHLnZkbgSfSZQcQ2XnM",
-    "logo": "QmcyUq25YpmYu3kssLkrMS2HMq5pzLKyqDS4mn21PcM4h9"
   },
   "EBDD4188D2FDFD0098D61913D234D2E23ADAAF9D": {
     "name": "SNK vs. Capcom - The Match of the Millennium (Japan) (Demo)",
     "ref": "7629EA5520D3DAEE4EF658D4F4B48F45E17217AE"
   },
-  "3FE15D4374C4CA073AA0393FCFCAD0055BD345AB": {
-    "name": "Sonic The Hedgehog - Pocket Adventure (World)",
-    "logo": "QmNmaLDPWgGZsZgVbWEva8F4sEyB1vs6X9fovbHDdUWUoP"
+  "EC64AB4BE669F9860C216151094B9EEA898C64B9": {
+    "logo": "QmZB2v9kzFjTNuGoTuPww4drb7ZAiQnfubsdr2xjeZdqgJ",
+    "name": "Pac-Man (World) (En,Ja)",
+    "vid": "Qmefj4zPwJdYHuGkpA47niMNjW8qTiccfab5hvoz6BSACV"
   },
-  "A11283703FE6007C2E96CE81DFC56081EFF6F593": {
-    "name": "Sonic The Hedgehog - Pocket Adventure (World) (Demo)",
-    "ref": "3FE15D4374C4CA073AA0393FCFCAD0055BD345AB"
+  "ECFCCD7E971D8E9D46B97AA05DC7EB61D69E16CD": {
+    "logo": "QmWxh5M19Es5VHxyGfNwuFRJrVw13Wscwo5Xjkk33T5Q9o",
+    "name": "Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)",
+    "vid": "QmWESyvEtQU7GTNyisGXujvwxkdW8mDrCsdTwrfvvtEmmz"
+  },
+  "EDC13192054A59BE49C6D55F83B70E2510968E86": {
+    "name": "[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja)"
+  },
+  "F0353334C42730FB30C41229FB881183E11AD304": {
+    "name": "Melon-chan no Seichou Nikki (Japan)"
+  },
+  "F0F9FB71BE6FDE25F9DB8DCB8C6D6AA859B21697": {
+    "name": "Cool Cool Jam (Japan)"
+  },
+  "F1D52256C2C8C19E3944D6AC0F6370DB91FD9F09": {
+    "name": "Delta Warp (Japan) (Beta)"
+  },
+  "F4A4264EAF1605086CCBC526F21DA222AA6341BF": {
+    "name": "Soreike!! Hanafuda Doujou (Japan)"
   },
   "FB34CC0F6A19FB47FFEAE4E6F4113ED66D14E1BD": {
     "name": "Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22)",
     "ref": "3FE15D4374C4CA073AA0393FCFCAD0055BD345AB"
   },
-  "F4A4264EAF1605086CCBC526F21DA222AA6341BF": {
-    "name": "Soreike!! Hanafuda Doujou (Japan)"
+  "FD51A5A649CEBFE5692EE498D11C48FD84661DC4": {
+    "name": "Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b]"
   },
-  "C61847BCA43C5387D19096A86EF109560D71CA9B": {
-    "name": "Super Real Mahjong - Premium Collection (Japan)"
-  },
-  "DB030E02819D50315F15C00B93C3A46F1F89D126": {
-    "name": "Tsunagete Pon! 2 (Japan)"
-  },
-  "2DD82DB967E2BC8C2D8B569A364793D56176A68E": {
-    "name": "Wrestling Madness (Japan) (En) (Beta)"
-  },
-  "2F6429B68446536D8B03F35D02F1E98BEB6460A0": {
-    "name": "[BIOS] SNK Neo Geo Pocket (Japan, Europe)"
-  },
-  "50DB9B1C267BAF88A0D969DEA4F72D92E46CDFAF": {
-    "name": "[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta)"
-  },
-  "8ECE00F21AE49ED4777A9C990B2782465EF95380": {
-    "name": "Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)",
-    "vid": "QmPF1xFvQEHxuys8H8p1oGK6VJLoKSStVfbuZmiDFZxCgm",
-    "logo": "QmcShnQZuBbqqMiAtdsn5c8SxZesAzFBJse6R8uFSnUVs8"
-  },
-  "4A7ADBCCCB05B6047A38BB861523CBAE7D956BFA": {
-    "name": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)",
-    "vid": "QmaQyjagPTSDBjkAbD2bxDVdZ688iiVEej8f4KJXjD9vu1",
-    "logo": "QmWUQ1NQC1BcdmcgUweqoShPCL5t43h3mG6Ch15dq7HZFZ"
-  },
-  "A02D1B1113DBEAC895832F1501029E40D9AAB493": {
-    "name": "King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki (Japan) (Demo)"
-  },
-  "F0353334C42730FB30C41229FB881183E11AD304": {
-    "name": "Melon-chan no Seichou Nikki (Japan)"
-  },
-  "C171D8D22D667D713BFC73C2B1C04BC77AACBB5C": {
-    "name": "Neo Cherry Master - Real Casino Series (Japan) (En,Ja)",
-    "vid": "QmWnmpWeuEpYLaK9sDjfJdYagfTCBaEEbgJMkMmB2tV74M",
-    "logo": "QmVgZBAioP5t9ycpgGsJAY7ddCn59kDWijZWgYCu9URxPm"
-  },
-  "445743119C65A6765A0BDC849A12E9038192840C": {
-    "name": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)",
-    "vid": "QmeZrx1YUNdoU3WyRhoLKr8sShHAxorpvSatCMidAS1Sry",
-    "logo": "Qme7FMbAQiE3Eh5R2o5PbBqhmUkm6YfgWm2bHmU5FYdCB5"
-  },
-  "67826F4C8E488938F7E1B26E331F79EBF0AA2565": {
-    "name": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)",
-    "vid": "QmagXa64YtWVa6E8aAMPNxKhmEBuh6UC5399zi3tJyA7pw",
-    "logo": "QmPLTXEU2zmhE8fvvQpPE9LNQqSdNfD2wyWDgZGU3HZoZk"
-  },
-  "CBE53B08D03EF684C08FC6EE28FCA168A3D091A7": {
-    "name": "Renketsu Puzzle Tsunagete Pon! (Japan)"
-  },
-  "2C6ADFA69E7AEADA7D4198B373436EEE35B70D01": {
-    "name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)",
-    "vid": "QmYKJQhxhVgYTGXp27EG6NduJ7JGNsMobvjG25vSBUXN7h",
-    "logo": "QmRUfykyNutVotYZ6VE12QQ1rBm4Dzwu8oM8GjjzXQjubb"
-  },
-  "AB0C33236F72D2B317D91D034756B56CFCA1B0B4": {
-    "name": "Shougi no Tatsujin (Japan)"
-  },
-  "7F2257FE6F9B90292D0332C06B9D68BFAEB2ED08": {
-    "ref": "72D2B8F19F51B7CD5DA18EBE7F3E2C90263C0A0C"
-  },
-  "59602E44C631A00B2DB53196204A4BC22CCD7025": {
-    "ref": "67826F4C8E488938F7E1B26E331F79EBF0AA2565"
+  "FF74D5877BF58164419710888923E46B9CFB415E": {
+    "logo": "QmPpAVMPE7Q1EzpuhMA7biFiYRP7BjyPKpRvWUVecJN1x3",
+    "name": "Biomotor Unitron (USA, Europe)",
+    "vid": "QmaDL9N66LDqkXNtBXKGSCjkrZMvpXAsRUr1KMQzPhWGsn"
   }
 }

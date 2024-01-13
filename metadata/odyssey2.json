@@ -1,582 +1,582 @@
 {
-  "B2E1955D957A475DE2411770452EFF4EA19F4CEE": {
-    "name": "[BIOS] Magnavox Odyssey2 (USA, Europe)"
-  },
-  "A6120AED50831C9C0D95DBDF707820F601D9452E": {
-    "name": "[BIOS] Philips C52 (France)"
-  },
-  "0831C3212A9E0A588A242DCD2B136E350AACEAC9": {
-    "name": "4 en 1 Ligne (France)"
-  },
-  "E9A8996C4FB87120D8620AB8876B90DDB48335DB": {
-    "name": "4 in 1 Row (Europe)",
-    "logo": "QmbzfEyb2a9qeirGbNrgZksZtyZf9HEvNfgvejjUTKpGCX"
-  },
-  "9BA0737FDEE2918375725BB5230D075A2F847159": {
-    "name": "Alien Invaders - Plus (USA, Europe)",
-    "vid": "QmQ9K47Xn77UHR7YmT8VhTTfWwg9EaeB1pLRdZMfjeShY5",
-    "logo": "QmQb5fudXpkCeqV17qAZz1PF2sZRphJFsq1xkYMR5GpwS1"
-  },
-  "9E7E16744B44FA83FA14C211B2365CF04604E06E": {
-    "name": "Alpine Skiing (USA, Europe)",
-    "vid": "QmP3GqoQwMmSVE5XuqRNT8mcSZUFhUKsZDJUYV9HtX64i4",
-    "logo": "QmXnsQzCkRFkVrujrgUnQYN8i8eJzqDpTbDhtunq7HyJFs"
-  },
-  "086A29EB625C935295157CE62CA9717DFFFF2AF0": {
-    "name": "Armored Encounter + Sub Chase (USA, Europe)",
-    "vid": "QmRDqXcmkTQkPhHHj7E9LLtW6xur6yZryj7qkNEPi13u2e",
-    "logo": "QmXpE4KgJhRdhuPmkg6rJnqDaLXCpicgcd9CHjxyhiZ2Yu"
-  },
-  "6975CF9FED3EE1A2567477921EB851A669D42446": {
-    "name": "Atlantis (USA, Europe)",
-    "vid": "QmZiFbC8eYVyZE8ptgnEjbnvLvJ4PFgPPAqRkeL3uikDKW",
-    "logo": "QmPqBMzHe3zDCpXn8MqKBXmaokwcJ2ZZYhmhSjBoiXp1q7"
-  },
-  "C63AD4E9AAA903DED9FCF185CAF24E76F8AAF3A9": {
-    "name": "Attack of the Timelord (USA)",
-    "vid": "QmWyhsGJ7UDyaksBQikWpc4hmGsZvQwGbjXbvXQGLEakTD",
-    "logo": "QmYmwkWaHTnfaRGjayAzkKZhiAPtgKzRdNQHLA2iGeBiTg"
-  },
-  "14A37A38C582D8822CB78FB0AACE221A2FA9A44C": {
-    "name": "Baseball (USA, Europe)",
-    "vid": "QmQbY43hsY92E9QTUojYiZr9NUkvkWR545NFoAC5VS7Jy7",
-    "logo": "QmW4VptHSqDVysHhVyCFTWRfw4fzpAENNk4Xq8Mtjgh4sc"
-  },
-  "D12A242D273C4F4417806C3BCD868A9A0F553854": {
-    "name": "Billard Electrique (France)"
-  },
-  "283AE5FA1D6E89A5AC921C7F2E21A89A67DD138C": {
-    "name": "Billiard Americain (France)"
-  },
-  "9EC331CE8E50EF60DE93E615C18327F08B4A24FB": {
-    "name": "Blackjack (France)"
-  },
-  "CAE4E1F3EE090EC423AFF89102F359B9E14DBA41": {
-    "name": "Blobbers, The (Europe)",
-    "vid": "QmU3wLqQJGWGzkPbqYQft521E84cZdzxinfKmdNnnDEvzL",
-    "logo": "QmUEW9avydNRS7QXuXAGBuoXoKreBKcFwLX81o4k7pZacB"
+  "00032798BD4CC01323E663E98634B82A74B0DC53": {
+    "logo": "QmQGARFsRiYzGPKXkoEirVhXMb35c7FC3wKDhuqEx3Qtfs",
+    "name": "Invaders from Hyperspace (USA)",
+    "vid": "Qmdbpm15mpVYb5VPUqhDADth34i7XWqR2JbsDYb6RSzXiP"
   },
   "00EF6868724A6826534DA620F34DAD207FCB3800": {
+    "logo": "QmQKR7Q59exdkxjjwmdtnguEWyR8GoZrRLvb37MYaradHv",
     "name": "Blockout + Breakdown (USA, Europe)",
-    "vid": "QmfRMEjR8pPyEkmdfAnCZHjkEb8cppig5dA1xTCPNKP3ho",
-    "logo": "QmQKR7Q59exdkxjjwmdtnguEWyR8GoZrRLvb37MYaradHv"
+    "vid": "QmfRMEjR8pPyEkmdfAnCZHjkEb8cppig5dA1xTCPNKP3ho"
   },
-  "E15F778EFEB95530F8108854B14C404CF63F213A": {
-    "name": "Bombardeio Submarino + Tiro ao Alvo (Brazil)"
-  },
-  "2630C304B6BEB0F8021578277BE68E837202895D": {
-    "name": "Bowling + Basketball (USA, Europe)",
-    "vid": "QmcBTkfXhw3cSTtox4Gd9rD4gcVVXKDpnK4JFSvsrYWhmd",
-    "logo": "QmUG8Pqxzj6iLZbkiRwhiN79FcV7u9nPfSz34r1ZKU1EHW"
-  },
-  "8414605A62E78753E3F8474FA020035596292583": {
-    "name": "Buraco Negro (Brazil)"
-  },
-  "052BC62EB03E2673A802BAB866DD0AB3C39FD584": {
-    "name": "Casino Slot Machine (USA, Europe)",
-    "vid": "QmZ45kJXu8a3jzxegsmwHD7U7ReBdWLRg3YyWDJkHHDwkZ",
-    "logo": "QmVGgPddzD9eiuvzXbGuYSjsiRyowGWrzDPbnDYUViAzJH"
-  },
-  "671A43595B867B7877E723BE18825E9E5D5C4EE9": {
-    "name": "Catch the Ball + Noughts and Crosses (Europe)",
-    "vid": "QmeKXiTU6vK22PnH7NxiGsgEU3WM4LHpErw71CouNBjMHN",
-    "logo": "QmbnKXZ9V9BsFY7h6YbQrcfLEHtddWT8eXzZ8zXVNFRDdu"
-  },
-  "AFA67F2110647753DE9DFACB268D96E75D6D8657": {
-    "name": "Chat et Souris (France)"
-  },
-  "7162359313F66FE759BDD8A34755A5F62F3CADFB": {
-    "name": "Chess (Europe)",
-    "logo": "QmewYqyhoDhc6z1o1toaLaJhWZDbXKviwA8GSoXSrBPjNr"
-  },
-  "431BD5B4EE86E62500EAB263E073A585656D16C6": {
-    "name": "Chinese Logic (Europe)",
-    "vid": "QmePEZcF3GDmEeHn47AxdjN4e8nef9361gdvxLCrfRDMHx",
-    "logo": "QmST13YeAWZ3CsoCkCyiGf5HyunC2LhdgZnTKecCbT4hFH"
-  },
-  "C07C1206DB8D4FB5142B38EAD52082D4682D70BE": {
-    "name": "Clay Pigeon (Brazil)",
-    "logo": "QmZ2efrAi83S8zLMX9qWNWjBf2Hkqo7a94QwNdb6UWp8cp"
-  },
-  "E0AA46211967C880BF7FF39836FE5E73C0302460": {
-    "name": "Comando Noturno (Brazil)",
-    "logo": "QmYiMxVr7orYbYUWDFCZ1dYreQX1YAiWyfeUFjrAw6tv8t"
-  },
-  "C8736250EBF376543256D85CF853E825475E0AF6": {
-    "name": "Computer Golf (USA)",
-    "vid": "QmfAWmvWS37RU2XmVCwBh9DTyWxwE7szMmTDYptpBjTJDp",
-    "logo": "QmX4f3AUZyLJSKxozN88LzbtXa1sTfGKC3PmzhUrdZKsYh"
-  },
-  "F93C448243DB428A4C9E2354596844ED07BB7530": {
-    "name": "Computer Intro (USA)",
-    "vid": "QmPFgpYzDQThbbK44kQy1mqCwxckJmmVq95GS3iheavdEf",
-    "logo": "QmRXdpL6macr7rC7rPLnZPwPmhoDDnBkNKGabQmVG8bwzF"
-  },
-  "913C1961DFA17B5873428F57429E3809580FF906": {
-    "name": "Computer Programmer (Europe)",
-    "vid": "QmPgX36XLvreFtsC4BoeYWNh8NxNgZGLdYkmD8cXrcENf9",
-    "logo": "QmVgwBezV6voeaHr7LyLv2SSL7D6zyQbERQjXJLUiGPgaw"
-  },
-  "E54FE13EE27884524255063AA6FD69E4598A5104": {
-    "name": "Conflit Cosmique (Canada)"
-  },
-  "508D1475670BA561E7DDF961A4F0CF6D139D168C": {
-    "name": "Conquest of the World (USA, Europe)",
-    "vid": "QmXnXd6sKXWHrpBSeU16WXDXQtpS3RWWvKVDhVueZmmf94",
-    "logo": "Qme1GQNK31DMd5UrtM9XYkPSUvZBbnTxnhbFC5f3WYq9kY"
-  },
-  "9F8F10C9E6E1A5E07EB5A6EEE4E0FE19FCAEE17F": {
-    "name": "Cosmic Conflict (Europe) (Alt 1)",
-    "ref": "DCCBF881E21DD02CBAF15EC049E0801118FB9C96"
-  },
-  "A22F99DCC4ABA3126F5B5BBBF2A3890878AC953B": {
-    "name": "Cosmic Conflict (Europe)",
-    "ref": "DCCBF881E21DD02CBAF15EC049E0801118FB9C96"
-  },
-  "DCCBF881E21DD02CBAF15EC049E0801118FB9C96": {
-    "name": "Cosmic Conflict (USA)",
-    "vid": "QmVySynDFxnXZnj7BUQqAk1SixD7g9sDVEVptxivkzBqPY",
-    "logo": "QmUvLLJWogeMSCFpUg3fX7drXQ6Kytqaawhfncwa2ejNJe"
-  },
-  "9E44CA9FC9E5DEF58C61B24274F0CBFB57D559EE": {
-    "name": "Course de Voitures + Autodrome + Cryptogramme (France)"
-  },
-  "2D78CCBB56E8B43BB8101B2A1932F5E778B9DBC3": {
-    "name": "Demon Attack (USA, Europe)",
-    "vid": "QmczST9AynQvEKMJu92zak3LS8cuYRFygAQXi1JMTSzmFT",
-    "logo": "Qmar3Zt82cGi4LGKosrfAJywr9uC27z5xwa2iKKc3dFgn7"
-  },
-  "95CCDA2010F756069645E50269142A063C9AABC2": {
-    "name": "Depth Charge + Marksman (Europe)",
-    "vid": "QmbXTc37CcezpsKZL6kxigsFh5MzeYoA9nwwRPWGKUhWjg",
-    "logo": "QmcyokdDRgCDQNe2BkyWZnmBjgTYJsVzum9XwuAwi464PJ"
-  },
-  "241160F0691A394AFE632B5B29969DAE2D8F2D34": {
-    "name": "Desafio Chines (Brazil)"
-  },
-  "20C6E4035CE8DD5A8F331C18CEEF1056DC9CE818": {
-    "name": "Dynasty (USA)",
-    "vid": "QmNSrLKS22aetocCwWhDfpSiybeiDXxL8eLHhW24YNMHNA",
-    "logo": "QmTUGQRTtivcXTtGceRcuGFGvx5di1vmpcP2EX7KdteV95"
-  },
-  "3A032C9BE1081DB58F28F906940641D74D6BAE2B": {
-    "name": "Electronic Table Soccer (USA, Europe)",
-    "vid": "QmbiF78Qor3tDYKJ81oftLuqGWz72RkSca7xYedUnbS5vy",
-    "logo": "QmSg4BNGhMr5f8GWtKMTVevKwk322bPzEAnSi4SBQozh9V"
-  },
-  "364504FFCE1108BCF09A5CC784F7EA2CF141F7B8": {
-    "name": "Football (USA, Europe)",
-    "vid": "QmewrFbGWT7U4qS727Tz88Ahsh59d5PTtDGThxgBcSFjUb",
-    "logo": "QmNPRYw8d4wcjiLN7BdzQz9DnzNRBNucxgkkPXp1G9tDhP"
-  },
-  "D7593ADE4D60A6E314E4F18711E8EA59E3C8C3AD": {
-    "name": "Football Electronique + Hockey Electronique (France)"
-  },
-  "AD11F3FAD2DFD3716445FEF3B7D83D479EDEE0ED": {
-    "name": "Freedom Fighters (USA, Europe)",
-    "vid": "QmeDdwccA2VtUK1oSTmDcJbJnCDUTSbZ4h2usQDL9jsDfz",
-    "logo": "QmVasX6sxD9VK7V8miR8cnU3D6ejqtgHd4Pnzj5naFdAvV"
-  },
-  "0BEDA7B36259B3BE84D34206A77A35CD3F04892F": {
-    "name": "Frogger (Europe)",
-    "vid": "QmVGReAM9ZZhRDwVakkL8jar1iTaz27RZ2TdtvZogtQ7fr",
-    "logo": "QmPVSNyrgB6CSpkk9Vhq8CvbCCxMTiAFfASTtEjQ3ytMoi"
-  },
-  "BEDB714C88B9AA7A02DA9EBCDE12446EC8350D18": {
-    "name": "Frogger (Brazil)",
-    "ref": "0BEDA7B36259B3BE84D34206A77A35CD3F04892F"
-  },
-  "C2BF8D92B8827E3071D6CE4C43E34B21AFC54F8D": {
-    "name": "Golf (Europe)",
-    "logo": "QmXfS3GwPQpqsc5yAiXPaFNwN4bxCZnx3mdKt5bwT3jLuy"
-  },
-  "D54B1D5667BF90368DDDAB55A91955B1789F177C": {
-    "name": "Great Wall Street Fortune Hunt, The (USA, Europe)",
-    "vid": "QmQPM5w9Z9fzX1frBVSNqLkihyb4LCnZGZWAXD5trsPmGL",
-    "logo": "QmREt8mC9xa2Einqv5CbydHej9QB5effrrTEHk1vSLbZ7A"
-  },
-  "12F08273E6C5E97E0A35C4033BD7527BB8A559D3": {
-    "name": "Guerre Laser (France)"
-  },
-  "B5EC5ED9373372DE6D70620094AF06282C48968D": {
-    "name": "Gunfighter (Europe)",
-    "logo": "QmP2VTz73HH13FPqi87kne8Wx1ZC8GXbWavq1PKEgyzyUu"
-  },
-  "F39C9801984F97D5A685A4B7A1ACCD0164A49B43": {
-    "name": "Hockey + Soccer (USA, Europe)",
-    "vid": "QmZ8cssoQt39CX7ZppCFAmuJWssJcTfdUQhGpjkb7u7sP5",
-    "logo": "QmWEKwTFS81yszBUXq4rVqVatcdP5USaP2TdqYz9mc9aVx"
-  },
-  "498CB0882D8A692042889E83775A83CF267A1837": {
-    "name": "I've Got Your Number (USA, Europe)",
-    "vid": "QmbhYbC66SM6cdDWk5Dg9Q6Zxq4YKkTXN2gcgwJutt19P6",
-    "logo": "QmYZ5SkNohGsmyvddAuYCduHXmSoUQHfwLXm6k54g4i5jb"
-  },
-  "C0B10B79461BC1939E08E4C05166126D2B8D7DDA": {
-    "name": "Interpol (Europe) (Proto)",
-    "vid": "QmVNRnCimp7BzQzb93fivygfrShde5LBE7A3EZz597LAPK",
-    "logo": "QmUf1ZuPyYL9nUm84E5a1vWxWdaVu3rAB4jCkgZDCK8USX"
-  },
-  "00032798BD4CC01323E663E98634B82A74B0DC53": {
-    "name": "Invaders from Hyperspace (USA)",
-    "vid": "Qmdbpm15mpVYb5VPUqhDADth34i7XWqR2JbsDYb6RSzXiP",
-    "logo": "QmQGARFsRiYzGPKXkoEirVhXMb35c7FC3wKDhuqEx3Qtfs"
-  },
-  "30CBBEC570FA0872C13E89DDC312B2F74E3749FB": {
-    "name": "Jeu de Quilles + Basketball (France)"
-  },
-  "EE5C0471FC192570FE4575CA65882D3D7B85350D": {
-    "name": "Jumping Acrobats (Europe) (Alt 1)"
-  },
-  "A44587D48E76117838CB6A4CF964321D37EFCDE1": {
-    "name": "Jumping Acrobats (Europe)",
-    "logo": "QmV6eqLVgUqEq455Xn5DpeWTD8sriRgoRbJAMjfDRFc2vF"
-  },
-  "D273CF993DFCBCA3B65CD4959B45A3009F242BC6": {
-    "name": "K.C. Munchkin (USA)",
-    "vid": "QmPGUzuQdVyefNrYgY7QMDB94n6uuP8GdtpEhFwEdJrVXU",
-    "logo": "QmchgTq8VVbPfSbNadbgmLLj8KMWdp9rRQck3xSmZJF2PA"
-  },
-  "3391E48C0048A2F588D8238BB202E2EC346A6AD4": {
-    "name": "K.C.'s Krazy Chase (USA, Europe)",
-    "vid": "QmYPQoYTPpCSMZVFkdtDpLb9GRxg2JQKJryxkjgwfJLZLB",
-    "logo": "QmUaZrTRt6FRRUnJjpaCGsGsDBg4b4L6Qp9yrhj4dkYXPw"
-  },
-  "8276CA41E571478EAE2DD6ADD7F79BC7F8BD60DE": {
-    "name": "Keyboard Creations (USA)",
-    "vid": "QmPsphCnNdrmXxWaVjrLk5uosDCdrjhdE3PVpug7xv9DRv",
-    "logo": "QmfPVKAPoYzY3r5VhAMb3jFJGJHFwkEmuGMVUSUCjktaQm"
-  },
-  "B446A2730AEFAFE71394DBB9850D43C5CF01D367": {
-    "name": "Killer Bees (USA)",
-    "vid": "QmdWC31MVQuBkxNjJKYRn3jFENwd5yo8zQA2qpQEjfqRCJ",
-    "logo": "QmU4iCQk3MN9fuicDGPXex7LZjXfNtNubihowaHzPjHpaw"
-  },
-  "9B73685F7D2008467D4449A3BFEDEF6E763B5948": {
-    "name": "Kinder im Verkehr 1 (Germany)",
-    "logo": "QmNjwM8bsk4H2aBbEbgCg6i53mvmUvuKQt6WEwpbZkPiss"
+  "01DD021A1BCDAFB58CB2BCCA051934F05E978C53": {
+    "logo": "QmYmAhkYKqAs6ZSM4PigSZyUz3T4MvGhqiz9uLNhtLzgcW",
+    "name": "Nimble Numbers Ned (USA)",
+    "vid": "Qmd4MubNbaizgGhTN1HhnV25UKVoG3N1sj6jwfzq87C67a"
   },
   "04543BDBEA8112F7CC55CAEF5DA9445D08D65E46": {
     "name": "La Quete des Anneaux (France)"
   },
-  "85C567C8F38239350A5D04F8CFD9DD7872F448C9": {
-    "name": "Labyrinth Game, A + Supermind (Europe)",
-    "vid": "QmfCdCvJDnUpuEC4RR9NncFRjDgnWtok8HFKwQ8c5aboJ8",
-    "logo": "QmSV1GSfp51JMinjTZUNqvcHz9VPU7z1JCJDADcPKan5Er"
+  "052BC62EB03E2673A802BAB866DD0AB3C39FD584": {
+    "logo": "QmVGgPddzD9eiuvzXbGuYSjsiRyowGWrzDPbnDYUViAzJH",
+    "name": "Casino Slot Machine (USA, Europe)",
+    "vid": "QmZ45kJXu8a3jzxegsmwHD7U7ReBdWLRg3YyWDJkHHDwkZ"
   },
-  "B83463B7C40367D4310F142FA15D06D12061F3BE": {
-    "name": "Las Vegas (France)"
+  "0831C3212A9E0A588A242DCD2B136E350AACEAC9": {
+    "name": "4 en 1 Ligne (France)"
   },
-  "3E10FC687B1D07612305F680F24590F99842E62B": {
-    "name": "Las Vegas Blackjack (USA, Europe)",
-    "vid": "QmQDrMVttenKzS4reBS5AEYfs5pNhShj7XkQhaW9F4Pqs4",
-    "logo": "QmW2xPUnBEch9xgvDz5Q5M3beBBP7PHgv6QwmdYfNZ6rFU"
+  "086A29EB625C935295157CE62CA9717DFFFF2AF0": {
+    "logo": "QmXpE4KgJhRdhuPmkg6rJnqDaLXCpicgcd9CHjxyhiZ2Yu",
+    "name": "Armored Encounter + Sub Chase (USA, Europe)",
+    "vid": "QmRDqXcmkTQkPhHHj7E9LLtW6xur6yZryj7qkNEPi13u2e"
   },
-  "3D188D49D4A2409F66AC86BCF58D90D35908032B": {
-    "name": "Laser War (Europe)",
-    "logo": "QmdmEtu3AfheN293o4YUwh5Z3CSbjroruhudwbq4ppzgBe"
+  "0904EA45C011D12857477DB04B4D1C87544F27E6": {
+    "name": "Verkehrsspiele 2 (Germany)"
   },
-  "3CB324B047CBAC8EC4381150B1C2AEE98573841B": {
-    "name": "Loony Balloon (Europe) (Proto)",
-    "vid": "QmPdzmPERA9Uo5wUMAesHiQNjZntmLqXtGGtxhDoiDofiT",
-    "logo": "QmYu64wji73KsGiBXYnvFAEwCnBNhbScNWYkWFNWLp15YP"
+  "0A91BDB293F52AC37414A63F71D90C6338A4A91A": {
+    "logo": "QmU2DHZqqSp8QXEtn6wqUfmfuW4K9dfViwmsjvXQbTCqa2",
+    "name": "Neutron Star (Europe) (Proto)",
+    "vid": "QmWYCZxVHzVJ9bWVtDouXZXBADvUDvMiRpsZhGwKztejk1"
   },
-  "D6A3F2DEF966B798099DBF3C754AB12F69BB4EE8": {
-    "name": "Martian Threat (Europe) (Proto) (Alt 1)",
-    "ref": "4266CA9AA34ACE118EDD8153E2847CFA94A9A2F0"
+  "0BEDA7B36259B3BE84D34206A77A35CD3F04892F": {
+    "logo": "QmPVSNyrgB6CSpkk9Vhq8CvbCCxMTiAFfASTtEjQ3ytMoi",
+    "name": "Frogger (Europe)",
+    "vid": "QmVGReAM9ZZhRDwVakkL8jar1iTaz27RZ2TdtvZogtQ7fr"
   },
-  "4266CA9AA34ACE118EDD8153E2847CFA94A9A2F0": {
-    "name": "Martian Threat (Europe) (Proto)",
-    "vid": "QmSrYbca2XME5frveFPewzyuW6RfeEcUjyu8BiKHReNCsS",
-    "logo": "QmQ7npxwRozCvxAN8e3RUgqhY52t1FgVpExxyXh72f3do2"
-  },
-  "908387D2446F4C62019017FE262B412DFA040D10": {
-    "name": "Matchmaker + Logix + Buzzword (USA)",
-    "vid": "QmNSNbQe2xin8TNMrtn6maUTnTYiHzTXHRPqWBEHaPRyag",
-    "logo": "QmVYnN5Pgf5A4yCk3FmnzwDKXxzp6xyR7FCUyPz29e3iJX"
-  },
-  "4DAC55DE1AFADC1AF2AC9166D7D47C462A8E797A": {
-    "name": "Math-A-Magic + Echo (USA, Europe)",
-    "vid": "QmbKrFbJqBbH7uMLCdkStoioaEB1jLSzo31tDZU9bg5Md5",
-    "logo": "QmeqokqBbtdBHExikyfL7y4ctVccuVCPcEsK1nbLxqUG7p"
-  },
-  "D96C65670B9A3A4FEEDCB720807292708951FCD5": {
-    "name": "Mathematicien + Echo (France)"
-  },
-  "7FF030E8BA236C9F354B903B89B283886C7455D7": {
-    "name": "Mission Impossible (Brazil) (Proto)"
-  },
-  "6D6659539934255711357537D4FA6E969C3C4754": {
-    "name": "Monkeyshines (USA, Europe)",
-    "vid": "QmWWFbMfQP1YcDwnjiiHZqvsN6w8kPAe8Cq5C8Jf86TgFG",
-    "logo": "QmdKY5ZYSQGUjNW4The7ADuRtgJH6LSR6a9JsUfxEjq5Td"
+  "0E819A4B0F17520DA24FF79901197F5397CB9A26": {
+    "logo": "QmeMTpPj95oLzVMbt42kkx5ymfNU5AwXSZymwxeKPCgGKX",
+    "name": "UFO (USA)",
+    "vid": "QmRc2C2y3i9qC63DwiQZ8Qt37ChPT5gAMpKbBfR2CTzyCz"
   },
   "11065DFBC22DD9ED7609CBCC7F8C6D3BC5B004EE": {
     "name": "Morse (France)",
     "ref": "8431F56359D80FF6A67C83C50C12FA5D8BC46FF3"
   },
-  "8431F56359D80FF6A67C83C50C12FA5D8BC46FF3": {
-    "name": "Morse (Europe)",
-    "vid": "Qmbyuwh2Ar6dPqeJU6rYWhRE9Q4ewgKVG7WtTdETb9FzpL",
-    "logo": "QmdKY5ZYSQGUjNW4The7ADuRtgJH6LSR6a9JsUfxEjq5Td"
+  "12F08273E6C5E97E0A35C4033BD7527BB8A559D3": {
+    "name": "Guerre Laser (France)"
   },
-  "F9727E6C5A941518187C08E5F5D104460AC3B3E3": {
-    "name": "Mousing Cat, The (Europe)",
-    "vid": "QmaarQjCY3F3DUFwCixRqVCjmqJaR1v5EYwqh6nVQfJ6Wg",
-    "logo": "QmScikXNohBBgzvoEJGxfEyyDfUysafDu2R7bkq77mqAzF"
-  },
-  "83D06385FD74E3F7C19309E6908A975FA8856F32": {
-    "name": "Munchkin (Europe)"
-  },
-  "FF0EBE9EFC275011A0534FD98CA1F4112DAE3DAB": {
-    "name": "Mur Magique, Le (France)"
-  },
-  "7445F4DF9017C4D2EA94542D0DB335DC18C9D7ED": {
-    "name": "Musician (Europe)",
-    "vid": "QmQMVPj7mYK686bHKoaEC7gD5RzSGYFeLnm1ZhzfGxp9Gz",
-    "logo": "QmVuH73MSjVmF5uun1KLNa4C7BFkBjhxg9M2C2gEXZLbxn"
-  },
-  "0A91BDB293F52AC37414A63F71D90C6338A4A91A": {
-    "name": "Neutron Star (Europe) (Proto)",
-    "vid": "QmWYCZxVHzVJ9bWVtDouXZXBADvUDvMiRpsZhGwKztejk1",
-    "logo": "QmU2DHZqqSp8QXEtn6wqUfmfuW4K9dfViwmsjvXQbTCqa2"
+  "14A37A38C582D8822CB78FB0AACE221A2FA9A44C": {
+    "logo": "QmW4VptHSqDVysHhVyCFTWRfw4fzpAENNk4Xq8Mtjgh4sc",
+    "name": "Baseball (USA, Europe)",
+    "vid": "QmQbY43hsY92E9QTUojYiZr9NUkvkWR545NFoAC5VS7Jy7"
   },
   "183B3B1B70DB58CC9ADA575CC324353F2E89C2CE": {
-    "name": "Newscaster (Europe)",
-    "logo": "QmaCToNaMY4c9QLNt3vJe5hjFtsx4ma4GHsv4oJ5qUv9Bp"
-  },
-  "EC364634C2A8160DA1916A43246B76D78932BE1D": {
-    "name": "Nightfighter (Europe) (Proto)",
-    "logo": "QmXa7GK23tjfhkpCX437vy6rcK8i6E9kg4MPb8XTGAAU8j"
-  },
-  "3CC218587116EB105E95FFCE9EB1B5E268258D4A": {
-    "name": "Nightmare (Europe)",
-    "vid": "QmfGYDUvry4JA2CcEifF97KUXs6Tm6jmkG4ujqYkH7AUqc",
-    "logo": "Qmdscikvu7uroh4PQxkSzGHEsQxnBjB6gQ6rrjrr3vkEnF"
-  },
-  "01DD021A1BCDAFB58CB2BCCA051934F05E978C53": {
-    "name": "Nimble Numbers Ned (USA)",
-    "vid": "Qmd4MubNbaizgGhTN1HhnV25UKVoG3N1sj6jwfzq87C67a",
-    "logo": "QmYmAhkYKqAs6ZSM4PigSZyUz3T4MvGhqiz9uLNhtLzgcW"
-  },
-  "68DE402F57EB0C8AFEFDBC46D80D2BC5520AFC68": {
-    "name": "O Malabarista + Jogo da Velha (Brazil)"
-  },
-  "BA42F5E642F5DC7BE231BB0E230FFA77A766C805": {
-    "name": "O Segredo do Farao (Brazil)"
-  },
-  "C6A79E721EE501D82D9A1C4F71F98BC23F1E7C7E": {
-    "name": "Out of This World + Helicopter Rescue (USA)",
-    "vid": "QmPoqNrfoHzjiJ7L83XAmy7vdCrhZtshF38ta7d1ZCrn1x",
-    "logo": "QmX6rCKUULt2gHNSS1Co3WbCw7CTUHsQoGUrBAagpKTC2D"
-  },
-  "661A73BD490CC592815F742EB33B2D3F0066BE41": {
-    "name": "P.T. Barnum's Acrobats (USA)",
-    "vid": "QmNyxwnD5LW7fzDQbkQ79npFd5sCFQRpVhDTxvmjoewk63",
-    "logo": "QmQeWAf1ic8uwNNLzHv9HQXqyrY8GAPiBtgQkfoDNgRyLQ"
-  },
-  "FFD525D5C6023409AFDCDB2AFBDA227BC4568304": {
-    "name": "Pachinko (USA, Europe)",
-    "vid": "QmXH25pKXzEXvTwoWrhhrTizxd2Puci13UZ5qRvJnaS51Y",
-    "logo": "QmNZ4BwyvHwiD4R5JWcjHbzZvFgfs2pdmgbM6Pw9WAbMJM"
-  },
-  "7EA8E5FF3B9F86914774DE2AA6F7A4652ADCF47A": {
-    "name": "Pairs + Space Rendezvous + Logic (Europe)",
-    "logo": "Qma3MMDgwTuUWbkQVq3wYo7K1vPdGhFmuTN7XpPciAQ1gR"
-  },
-  "B979ED0C2B8947F764786FCF4444463B3D3AE87D": {
-    "name": "Pick Axe Pete (USA, Europe)",
-    "vid": "QmR9FNrcsjQB2xJD1PRxJewa2WL87j1gKZ55RKzoLVyCPq",
-    "logo": "QmQhaPvdTf1Esx8WCwhFLCXTrjDY5QJnM7vtNtyRvxmgEY"
-  },
-  "350A9E3F95DBF2D5E7AA1DDBD5E531300DDEEEE4": {
-    "name": "Pinball (USA) (Proto)",
-    "vid": "QmTmbVcdyAmpehAytjPPxCm9e6kwuSWoLd1kSsUVVkYYiC",
-    "logo": "QmcV2wzxVnUgjbeZ1HcT7H8YpqsgZ4bstzz2XMnrZQnv18"
-  },
-  "759DC0EFB9DBF64034D9FD78C12207206B173C0C": {
-    "name": "Playtag (Europe) (Proto)",
-    "vid": "QmUCe2JCEiUKVaEXgNNixiXotXSsvVNuK3FFYSf5XxeXZU",
-    "logo": "QmSk8kbQAtuZtEYohaBgpRGeYPdFyQuB71RhR3vnAw39ci"
-  },
-  "8ABD1057202EBAC12ACF3822ED4D965BBA02B7DE": {
-    "name": "Pocket Billiards (USA, Europe)",
-    "vid": "QmSEHYBgKebq66e3WDx1CwKkEi9o8ghdjBoyea36np3npy",
-    "logo": "QmeHf4SX6DBpPPGw31yfAhCh3AL2HU3YiQaMwPVHqYLg4q"
-  },
-  "A13E7B338BA15820949F51EB862B381DDC6870AF": {
-    "name": "Popeye (Europe)",
-    "vid": "QmSqDeokyAzNdeY2vZzPPGQ6zxpWi592qzCFjaxiFG2s72",
-    "logo": "QmXC3Pja5arPYDdCD5G3ACGMTA8CYxyj4keiKAa3Ym8Jdv"
-  },
-  "D12197942A99D5902DE1352BBB5475AB4396C7D0": {
-    "name": "Popeye (Brazil)",
-    "ref": "A13E7B338BA15820949F51EB862B381DDC6870AF"
-  },
-  "21931AB2B959ED532BE36563CC84297FB53C8A21": {
-    "name": "Power Lords (USA) (Alt 1)",
-    "ref": "E81570282B8ADE6B7C0D126C819A95C7011CD063"
-  },
-  "E81570282B8ADE6B7C0D126C819A95C7011CD063": {
-    "name": "Power Lords (USA)",
-    "vid": "QmRboKK32SWRtEDcQt6RgFXEkGKmNMhTPzcNhA1PiDnxEN",
-    "logo": "QmQF4tZqoHK6fTuLr2ZFqCyroDEpot7EJKBkVd9GcZE3m9"
-  },
-  "2A55D179ACFD9FE31B5F8F0ED0E2379B584F7C8A": {
-    "name": "Prendre l'Argent et Fuir (France)"
-  },
-  "80D76D5C56FC716A8F7A55166390658C320E4C34": {
-    "name": "Q-Bert (Europe)",
-    "vid": "QmRq2YJvUKsqE9dn2jjyLWyPsQHVTVzwWhLW5H96VM3BCF",
-    "logo": "QmWgRRCM9sNjtb2YXWah75nxjKfoqUZbTeDpYKSXiqjzZu"
-  },
-  "32759C8D502CD8B959DA5F03351DB7CD46C8F96A": {
-    "name": "Quest for the Rings (USA, Europe)",
-    "logo": "QmeT5aTUT8Rtxeeh3KkmoXCz4EDeX7W5FEL2AYMchbAAmg"
-  },
-  "50EBA68915B0CCC95F07719F80D9011CA2CF67C9": {
-    "name": "Red Baron (Europe) (Proto)",
-    "vid": "QmSw6zJKDLGrjgx2mM4qyHjUqcWfNyFf3dmMM2G1BPhibv",
-    "logo": "QmV7HQY1acngi7UiTwJzfptsCtkBvEwjtoPKWQBEyoiezV"
-  },
-  "2FC0080D132E0063E21FD72D501EEF94D3EEFAB8": {
-    "name": "Red Baron (Europe) (Proto) (Alt 1)",
-    "ref": "50EBA68915B0CCC95F07719F80D9011CA2CF67C9"
-  },
-  "FF92B024EF80919146E822CE947882D0744AC09F": {
-    "name": "Robot City (Europe) (Proto)",
-    "vid": "QmWJvAQ8ndnSKRK2hpMaBugF4BSup9tevd1iugx8GKYyzS",
-    "logo": "QmPfQTBgVzAxVhCm3q54qbp4pXuDLvbjRLbhU8KfVGSk7L"
-  },
-  "FD354B726BD86DCBE97BCC284CF1E09485DD81AC": {
-    "name": "Samurai (Europe)"
-  },
-  "E0383DD98B85DC2156A859E731FF904B6EBAD95B": {
-    "name": "Satellite Attack (Europe)",
-    "logo": "Qma1uuj5QzpP1B4Kcor9HrCTuGrjFMzUQwfxPSqTqpEjF9"
-  },
-  "9FF434312FA9D3B7B63909A9ECE01D4E3E87F3B7": {
-    "name": "Secret of the Pharaohs (Europe)",
-    "vid": "Qmb9WCdcsr1R1Kq5WRRvXUoc4BY8UDAo198X55UFocaA6f",
-    "logo": "QmUsfWqnv32MA3yWBtPQAWt6E4n6cw7bG3MapWxg2ygYrD"
-  },
-  "ECA31E4D8A9E198A8661F6B6E63B33C184E9B22B": {
-    "name": "Shark Hunter (Europe) (Proto)",
-    "vid": "QmaitrLnP2kq8qtPU3X4wzcre5Yj2Gh6Mv94iMfLfqDejo",
-    "logo": "QmVrEWzkegFHoaHj9oX8JRBr8u9FtnrAnrNubwSvchzDpK"
-  },
-  "7163C3E0D0E926287DF670BFA5D5D5C42B5B3CF6": {
-    "name": "Showdown in 2100 A.D. (USA)",
-    "vid": "QmT6DfpbxkLR4oPPsVGLYzk8DWwZg9drPkajz8muxLN6jB",
-    "logo": "QmeWcq8MH7EsTh1g82j8AkAyR834GAStWxBmSEqMjzgRiG"
-  },
-  "DFED128D213D4192313F85FE2B8716579C2FC995": {
-    "name": "Sid the Spellbinder (USA)",
-    "vid": "QmQCoBCPaeDBtEsM6qNMRhSG9Rvx2Ly5UGDCNKQnaGHsaX",
-    "logo": "QmP3qLhPvAFtrCLttzvxdNjNSTjYaKrSM5jtsCtogFxg2p"
-  },
-  "A6E07B727B4F48D13CE21442911995EB46B99C5D": {
-    "name": "Skiing (France)"
-  },
-  "FC798F3CF770E8BF5F9A4064B6A4CA66E5A4EB71": {
-    "name": "Smithereens (USA)",
-    "vid": "QmNtojpL51Xi9GmjH9FvSZEsS2YwPu4vxcshWyVQxTekTy",
-    "logo": "QmVAKXQz7HFQc5y6tUGgWB1Z8P4VqUTeiHkQ1nqqbLf3WB"
-  },
-  "29D078F587BE2AFA4612800C64A5AF72705E5681": {
-    "name": "Speedway + Spin-out + Crypto-logic (USA, Europe)",
-    "vid": "QmTrNzcquJjyt2S52yoVBn2psZjWkKpWsuVKx9hcVFk8di",
-    "logo": "QmTfs2cQTWzWAGdq47mEEd8wHu6VPmdL6QXWxCutr4RoPk"
-  },
-  "4B1D675CB1FBF72ED35681E2B2E6E99FED7154CD": {
-    "name": "Spider-Man (Europe) (Proto)",
-    "vid": "QmaxxtrFmf4DRFsSCCNnEW1ZbHrZ4R1D37wqDbZRVZjSTL",
-    "logo": "QmQ7FRjP7yffqSP7tRPe7nMr6H13qSRLaT6AYRn3WZ1Bbg"
-  },
-  "69661C91C984AA26BB971E989FE3AACA93AB718C": {
-    "name": "Spider-Man (Europe) (Proto) (Alt 1)",
-    "ref": "4B1D675CB1FBF72ED35681E2B2E6E99FED7154CD"
-  },
-  "50763429D12206D7BF9FAD6A6BD6076A34D54B51": {
-    "name": "Stone Sling (Europe)",
-    "logo": "QmdfuqVy3DuKxNP27tp1SqbWrNWRGhN6Frwz2zeyn5Atc3"
-  },
-  "DFCFD9C019773E703AA130BC55F5B2F972ECE8F0": {
-    "name": "Super Bee (Europe)",
-    "vid": "QmQ7qHkAKQdjMe8bh1v3Um3Yrs5J51MESCPjAdfkv76bHe",
-    "logo": "QmYX3Bkgz7fHHJWqRCCAFhwRRQ27vjVhLSK4jMPxz61Nui"
-  },
-  "98C1F3A9726FE1BA880D43F0BA004821C4CBEC6C": {
-    "name": "Super Bee (Brazil)",
-    "ref": "DFCFD9C019773E703AA130BC55F5B2F972ECE8F0"
-  },
-  "5521FF83E3BE32C38205472B2DF49EB507249DC2": {
-    "name": "Super Cobra (Europe)",
-    "vid": "QmXnSozQCVWjK5c3BZnD54J9NTwW7M7igq5661rwPdnZgq",
-    "logo": "QmdTp9S5eAZVtxP8B6L6pmFxQUm5nv8o5EHzygWeNAuorX"
-  },
-  "46716A927B902759BFE252022F84186098FB5863": {
-    "name": "Super Cobra (Brazil)",
-    "ref": "5521FF83E3BE32C38205472B2DF49EB507249DC2"
-  },
-  "8C181F4835D53A358ECB8E4385E087EE942B4B4F": {
-    "name": "Take the Money and Run (USA, Europe)",
-    "vid": "Qmdffib2KSRFm934dHnF5kNpW1NEXsfa5CHEpDqcR86KLY",
-    "logo": "QmWR1PwszxvBXRtjN18g9hkhefHPYRpemPYsH7EyRYW9Tr"
-  },
-  "D0070E12D6B0F406DAB6E1FA550AB01509C9362E": {
-    "name": "Thunderball (USA, Europe)",
-    "vid": "QmdT1k87bFWtGX1KY989pFbfw7MsWfWK5o1dTFnL1MnfGt",
-    "logo": "QmdaMHX5mnB5FUR6763XSnJ74nwv9aWdYdYQbFLXNG5qVY"
-  },
-  "EE456305397ECBD54FFFA0BB7A894F53976D2A7C": {
-    "name": "Turtles (USA)",
-    "vid": "QmNgupugRTLFaCb4Eg57twcTykVySjgfEKBWp76V1u3nZx",
-    "logo": "QmYVcBctmcs8NgrCRD721me2Ca95BrwtH1NqgYLUPhD7h4"
+    "logo": "QmaCToNaMY4c9QLNt3vJe5hjFtsx4ma4GHsv4oJ5qUv9Bp",
+    "name": "Newscaster (Europe)"
   },
   "1FDCA749675F62212D0B79C5F0911BCABC4E4E11": {
     "name": "Turtles (Europe)",
     "ref": "EE456305397ECBD54FFFA0BB7A894F53976D2A7C"
   },
-  "C4985A344BE7DA3D78656B6473A3A1AD3EBE6497": {
-    "name": "Tutankham (Europe) (Proto)",
-    "vid": "QmXUnd8EZ9HnL9PYx7iz83gswhoTjXENFsWkcwiW9HCPWR",
-    "logo": "Qmb3Zxap8MF8N5p9EpiZCSeA7ymHs3TDbh6VGovnQTDK8w"
+  "20C6E4035CE8DD5A8F331C18CEEF1056DC9CE818": {
+    "logo": "QmTUGQRTtivcXTtGceRcuGFGvx5di1vmpcP2EX7KdteV95",
+    "name": "Dynasty (USA)",
+    "vid": "QmNSrLKS22aetocCwWhDfpSiybeiDXxL8eLHhW24YNMHNA"
+  },
+  "21931AB2B959ED532BE36563CC84297FB53C8A21": {
+    "name": "Power Lords (USA) (Alt 1)",
+    "ref": "E81570282B8ADE6B7C0D126C819A95C7011CD063"
+  },
+  "241160F0691A394AFE632B5B29969DAE2D8F2D34": {
+    "name": "Desafio Chines (Brazil)"
+  },
+  "2630C304B6BEB0F8021578277BE68E837202895D": {
+    "logo": "QmUG8Pqxzj6iLZbkiRwhiN79FcV7u9nPfSz34r1ZKU1EHW",
+    "name": "Bowling + Basketball (USA, Europe)",
+    "vid": "QmcBTkfXhw3cSTtox4Gd9rD4gcVVXKDpnK4JFSvsrYWhmd"
+  },
+  "283AE5FA1D6E89A5AC921C7F2E21A89A67DD138C": {
+    "name": "Billiard Americain (France)"
+  },
+  "29D078F587BE2AFA4612800C64A5AF72705E5681": {
+    "logo": "QmTfs2cQTWzWAGdq47mEEd8wHu6VPmdL6QXWxCutr4RoPk",
+    "name": "Speedway + Spin-out + Crypto-logic (USA, Europe)",
+    "vid": "QmTrNzcquJjyt2S52yoVBn2psZjWkKpWsuVKx9hcVFk8di"
+  },
+  "2A55D179ACFD9FE31B5F8F0ED0E2379B584F7C8A": {
+    "name": "Prendre l'Argent et Fuir (France)"
+  },
+  "2D78CCBB56E8B43BB8101B2A1932F5E778B9DBC3": {
+    "logo": "Qmar3Zt82cGi4LGKosrfAJywr9uC27z5xwa2iKKc3dFgn7",
+    "name": "Demon Attack (USA, Europe)",
+    "vid": "QmczST9AynQvEKMJu92zak3LS8cuYRFygAQXi1JMTSzmFT"
+  },
+  "2FC0080D132E0063E21FD72D501EEF94D3EEFAB8": {
+    "name": "Red Baron (Europe) (Proto) (Alt 1)",
+    "ref": "50EBA68915B0CCC95F07719F80D9011CA2CF67C9"
+  },
+  "30CBBEC570FA0872C13E89DDC312B2F74E3749FB": {
+    "name": "Jeu de Quilles + Basketball (France)"
+  },
+  "32759C8D502CD8B959DA5F03351DB7CD46C8F96A": {
+    "logo": "QmeT5aTUT8Rtxeeh3KkmoXCz4EDeX7W5FEL2AYMchbAAmg",
+    "name": "Quest for the Rings (USA, Europe)"
+  },
+  "3391E48C0048A2F588D8238BB202E2EC346A6AD4": {
+    "logo": "QmUaZrTRt6FRRUnJjpaCGsGsDBg4b4L6Qp9yrhj4dkYXPw",
+    "name": "K.C.'s Krazy Chase (USA, Europe)",
+    "vid": "QmYPQoYTPpCSMZVFkdtDpLb9GRxg2JQKJryxkjgwfJLZLB"
+  },
+  "350A9E3F95DBF2D5E7AA1DDBD5E531300DDEEEE4": {
+    "logo": "QmcV2wzxVnUgjbeZ1HcT7H8YpqsgZ4bstzz2XMnrZQnv18",
+    "name": "Pinball (USA) (Proto)",
+    "vid": "QmTmbVcdyAmpehAytjPPxCm9e6kwuSWoLd1kSsUVVkYYiC"
+  },
+  "364504FFCE1108BCF09A5CC784F7EA2CF141F7B8": {
+    "logo": "QmNPRYw8d4wcjiLN7BdzQz9DnzNRBNucxgkkPXp1G9tDhP",
+    "name": "Football (USA, Europe)",
+    "vid": "QmewrFbGWT7U4qS727Tz88Ahsh59d5PTtDGThxgBcSFjUb"
+  },
+  "3A032C9BE1081DB58F28F906940641D74D6BAE2B": {
+    "logo": "QmSg4BNGhMr5f8GWtKMTVevKwk322bPzEAnSi4SBQozh9V",
+    "name": "Electronic Table Soccer (USA, Europe)",
+    "vid": "QmbiF78Qor3tDYKJ81oftLuqGWz72RkSca7xYedUnbS5vy"
+  },
+  "3CB324B047CBAC8EC4381150B1C2AEE98573841B": {
+    "logo": "QmYu64wji73KsGiBXYnvFAEwCnBNhbScNWYkWFNWLp15YP",
+    "name": "Loony Balloon (Europe) (Proto)",
+    "vid": "QmPdzmPERA9Uo5wUMAesHiQNjZntmLqXtGGtxhDoiDofiT"
+  },
+  "3CC218587116EB105E95FFCE9EB1B5E268258D4A": {
+    "logo": "Qmdscikvu7uroh4PQxkSzGHEsQxnBjB6gQ6rrjrr3vkEnF",
+    "name": "Nightmare (Europe)",
+    "vid": "QmfGYDUvry4JA2CcEifF97KUXs6Tm6jmkG4ujqYkH7AUqc"
+  },
+  "3D188D49D4A2409F66AC86BCF58D90D35908032B": {
+    "logo": "QmdmEtu3AfheN293o4YUwh5Z3CSbjroruhudwbq4ppzgBe",
+    "name": "Laser War (Europe)"
+  },
+  "3E10FC687B1D07612305F680F24590F99842E62B": {
+    "logo": "QmW2xPUnBEch9xgvDz5Q5M3beBBP7PHgv6QwmdYfNZ6rFU",
+    "name": "Las Vegas Blackjack (USA, Europe)",
+    "vid": "QmQDrMVttenKzS4reBS5AEYfs5pNhShj7XkQhaW9F4Pqs4"
   },
   "40458EAF84A71F509B4069775E49551CE5152697": {
+    "logo": "QmVf1V775y6fLq6GPV8wkvRU1rqZRoZQiVWrHNvu4EDxxh",
     "name": "Type & Tell (USA)",
-    "vid": "QmR598nQPAxL4HihLw7yZzo6FdbucXBCNex6xUGD8ELYY2",
-    "logo": "QmVf1V775y6fLq6GPV8wkvRU1rqZRoZQiVWrHNvu4EDxxh"
+    "vid": "QmR598nQPAxL4HihLw7yZzo6FdbucXBCNex6xUGD8ELYY2"
   },
-  "0E819A4B0F17520DA24FF79901197F5397CB9A26": {
-    "name": "UFO (USA)",
-    "vid": "QmRc2C2y3i9qC63DwiQZ8Qt37ChPT5gAMpKbBfR2CTzyCz",
-    "logo": "QmeMTpPj95oLzVMbt42kkx5ymfNU5AwXSZymwxeKPCgGKX"
+  "4266CA9AA34ACE118EDD8153E2847CFA94A9A2F0": {
+    "logo": "QmQ7npxwRozCvxAN8e3RUgqhY52t1FgVpExxyXh72f3do2",
+    "name": "Martian Threat (Europe) (Proto)",
+    "vid": "QmSrYbca2XME5frveFPewzyuW6RfeEcUjyu8BiKHReNCsS"
+  },
+  "431BD5B4EE86E62500EAB263E073A585656D16C6": {
+    "logo": "QmST13YeAWZ3CsoCkCyiGf5HyunC2LhdgZnTKecCbT4hFH",
+    "name": "Chinese Logic (Europe)",
+    "vid": "QmePEZcF3GDmEeHn47AxdjN4e8nef9361gdvxLCrfRDMHx"
+  },
+  "46716A927B902759BFE252022F84186098FB5863": {
+    "name": "Super Cobra (Brazil)",
+    "ref": "5521FF83E3BE32C38205472B2DF49EB507249DC2"
+  },
+  "498CB0882D8A692042889E83775A83CF267A1837": {
+    "logo": "QmYZ5SkNohGsmyvddAuYCduHXmSoUQHfwLXm6k54g4i5jb",
+    "name": "I've Got Your Number (USA, Europe)",
+    "vid": "QmbhYbC66SM6cdDWk5Dg9Q6Zxq4YKkTXN2gcgwJutt19P6"
+  },
+  "4B1D675CB1FBF72ED35681E2B2E6E99FED7154CD": {
+    "logo": "QmQ7FRjP7yffqSP7tRPe7nMr6H13qSRLaT6AYRn3WZ1Bbg",
+    "name": "Spider-Man (Europe) (Proto)",
+    "vid": "QmaxxtrFmf4DRFsSCCNnEW1ZbHrZ4R1D37wqDbZRVZjSTL"
+  },
+  "4DAC55DE1AFADC1AF2AC9166D7D47C462A8E797A": {
+    "logo": "QmeqokqBbtdBHExikyfL7y4ctVccuVCPcEsK1nbLxqUG7p",
+    "name": "Math-A-Magic + Echo (USA, Europe)",
+    "vid": "QmbKrFbJqBbH7uMLCdkStoioaEB1jLSzo31tDZU9bg5Md5"
+  },
+  "50763429D12206D7BF9FAD6A6BD6076A34D54B51": {
+    "logo": "QmdfuqVy3DuKxNP27tp1SqbWrNWRGhN6Frwz2zeyn5Atc3",
+    "name": "Stone Sling (Europe)"
+  },
+  "508D1475670BA561E7DDF961A4F0CF6D139D168C": {
+    "logo": "Qme1GQNK31DMd5UrtM9XYkPSUvZBbnTxnhbFC5f3WYq9kY",
+    "name": "Conquest of the World (USA, Europe)",
+    "vid": "QmXnXd6sKXWHrpBSeU16WXDXQtpS3RWWvKVDhVueZmmf94"
+  },
+  "50EBA68915B0CCC95F07719F80D9011CA2CF67C9": {
+    "logo": "QmV7HQY1acngi7UiTwJzfptsCtkBvEwjtoPKWQBEyoiezV",
+    "name": "Red Baron (Europe) (Proto)",
+    "vid": "QmSw6zJKDLGrjgx2mM4qyHjUqcWfNyFf3dmMM2G1BPhibv"
+  },
+  "5521FF83E3BE32C38205472B2DF49EB507249DC2": {
+    "logo": "QmdTp9S5eAZVtxP8B6L6pmFxQUm5nv8o5EHzygWeNAuorX",
+    "name": "Super Cobra (Europe)",
+    "vid": "QmXnSozQCVWjK5c3BZnD54J9NTwW7M7igq5661rwPdnZgq"
+  },
+  "661A73BD490CC592815F742EB33B2D3F0066BE41": {
+    "logo": "QmQeWAf1ic8uwNNLzHv9HQXqyrY8GAPiBtgQkfoDNgRyLQ",
+    "name": "P.T. Barnum's Acrobats (USA)",
+    "vid": "QmNyxwnD5LW7fzDQbkQ79npFd5sCFQRpVhDTxvmjoewk63"
+  },
+  "671A43595B867B7877E723BE18825E9E5D5C4EE9": {
+    "logo": "QmbnKXZ9V9BsFY7h6YbQrcfLEHtddWT8eXzZ8zXVNFRDdu",
+    "name": "Catch the Ball + Noughts and Crosses (Europe)",
+    "vid": "QmeKXiTU6vK22PnH7NxiGsgEU3WM4LHpErw71CouNBjMHN"
+  },
+  "68DE402F57EB0C8AFEFDBC46D80D2BC5520AFC68": {
+    "name": "O Malabarista + Jogo da Velha (Brazil)"
+  },
+  "69661C91C984AA26BB971E989FE3AACA93AB718C": {
+    "name": "Spider-Man (Europe) (Proto) (Alt 1)",
+    "ref": "4B1D675CB1FBF72ED35681E2B2E6E99FED7154CD"
+  },
+  "6975CF9FED3EE1A2567477921EB851A669D42446": {
+    "logo": "QmPqBMzHe3zDCpXn8MqKBXmaokwcJ2ZZYhmhSjBoiXp1q7",
+    "name": "Atlantis (USA, Europe)",
+    "vid": "QmZiFbC8eYVyZE8ptgnEjbnvLvJ4PFgPPAqRkeL3uikDKW"
+  },
+  "6D6659539934255711357537D4FA6E969C3C4754": {
+    "logo": "QmdKY5ZYSQGUjNW4The7ADuRtgJH6LSR6a9JsUfxEjq5Td",
+    "name": "Monkeyshines (USA, Europe)",
+    "vid": "QmWWFbMfQP1YcDwnjiiHZqvsN6w8kPAe8Cq5C8Jf86TgFG"
+  },
+  "7162359313F66FE759BDD8A34755A5F62F3CADFB": {
+    "logo": "QmewYqyhoDhc6z1o1toaLaJhWZDbXKviwA8GSoXSrBPjNr",
+    "name": "Chess (Europe)"
+  },
+  "7163C3E0D0E926287DF670BFA5D5D5C42B5B3CF6": {
+    "logo": "QmeWcq8MH7EsTh1g82j8AkAyR834GAStWxBmSEqMjzgRiG",
+    "name": "Showdown in 2100 A.D. (USA)",
+    "vid": "QmT6DfpbxkLR4oPPsVGLYzk8DWwZg9drPkajz8muxLN6jB"
+  },
+  "7445F4DF9017C4D2EA94542D0DB335DC18C9D7ED": {
+    "logo": "QmVuH73MSjVmF5uun1KLNa4C7BFkBjhxg9M2C2gEXZLbxn",
+    "name": "Musician (Europe)",
+    "vid": "QmQMVPj7mYK686bHKoaEC7gD5RzSGYFeLnm1ZhzfGxp9Gz"
+  },
+  "759DC0EFB9DBF64034D9FD78C12207206B173C0C": {
+    "logo": "QmSk8kbQAtuZtEYohaBgpRGeYPdFyQuB71RhR3vnAw39ci",
+    "name": "Playtag (Europe) (Proto)",
+    "vid": "QmUCe2JCEiUKVaEXgNNixiXotXSsvVNuK3FFYSf5XxeXZU"
+  },
+  "7EA8E5FF3B9F86914774DE2AA6F7A4652ADCF47A": {
+    "logo": "Qma3MMDgwTuUWbkQVq3wYo7K1vPdGhFmuTN7XpPciAQ1gR",
+    "name": "Pairs + Space Rendezvous + Logic (Europe)"
+  },
+  "7FF030E8BA236C9F354B903B89B283886C7455D7": {
+    "name": "Mission Impossible (Brazil) (Proto)"
+  },
+  "80D76D5C56FC716A8F7A55166390658C320E4C34": {
+    "logo": "QmWgRRCM9sNjtb2YXWah75nxjKfoqUZbTeDpYKSXiqjzZu",
+    "name": "Q-Bert (Europe)",
+    "vid": "QmRq2YJvUKsqE9dn2jjyLWyPsQHVTVzwWhLW5H96VM3BCF"
+  },
+  "8276CA41E571478EAE2DD6ADD7F79BC7F8BD60DE": {
+    "logo": "QmfPVKAPoYzY3r5VhAMb3jFJGJHFwkEmuGMVUSUCjktaQm",
+    "name": "Keyboard Creations (USA)",
+    "vid": "QmPsphCnNdrmXxWaVjrLk5uosDCdrjhdE3PVpug7xv9DRv"
+  },
+  "830C9B3628F2E9C4F8C882024DD912B9D7610765": {
+    "logo": "QmSu9LHkWSsEULRhcfZ4iZVCZu36PWR2vstCihbz2Ad7Qt",
+    "name": "Volleyball (USA, Europe)",
+    "vid": "QmZNFpHDVLX37pqScyKsan6kSrYrpuYeY4u8YcBDTt6snA"
+  },
+  "83D06385FD74E3F7C19309E6908A975FA8856F32": {
+    "name": "Munchkin (Europe)"
+  },
+  "8414605A62E78753E3F8474FA020035596292583": {
+    "name": "Buraco Negro (Brazil)"
+  },
+  "8431F56359D80FF6A67C83C50C12FA5D8BC46FF3": {
+    "logo": "QmdKY5ZYSQGUjNW4The7ADuRtgJH6LSR6a9JsUfxEjq5Td",
+    "name": "Morse (Europe)",
+    "vid": "Qmbyuwh2Ar6dPqeJU6rYWhRE9Q4ewgKVG7WtTdETb9FzpL"
+  },
+  "85C567C8F38239350A5D04F8CFD9DD7872F448C9": {
+    "logo": "QmSV1GSfp51JMinjTZUNqvcHz9VPU7z1JCJDADcPKan5Er",
+    "name": "Labyrinth Game, A + Supermind (Europe)",
+    "vid": "QmfCdCvJDnUpuEC4RR9NncFRjDgnWtok8HFKwQ8c5aboJ8"
+  },
+  "8ABD1057202EBAC12ACF3822ED4D965BBA02B7DE": {
+    "logo": "QmeHf4SX6DBpPPGw31yfAhCh3AL2HU3YiQaMwPVHqYLg4q",
+    "name": "Pocket Billiards (USA, Europe)",
+    "vid": "QmSEHYBgKebq66e3WDx1CwKkEi9o8ghdjBoyea36np3npy"
+  },
+  "8C181F4835D53A358ECB8E4385E087EE942B4B4F": {
+    "logo": "QmWR1PwszxvBXRtjN18g9hkhefHPYRpemPYsH7EyRYW9Tr",
+    "name": "Take the Money and Run (USA, Europe)",
+    "vid": "Qmdffib2KSRFm934dHnF5kNpW1NEXsfa5CHEpDqcR86KLY"
+  },
+  "908387D2446F4C62019017FE262B412DFA040D10": {
+    "logo": "QmVYnN5Pgf5A4yCk3FmnzwDKXxzp6xyR7FCUyPz29e3iJX",
+    "name": "Matchmaker + Logix + Buzzword (USA)",
+    "vid": "QmNSNbQe2xin8TNMrtn6maUTnTYiHzTXHRPqWBEHaPRyag"
+  },
+  "913C1961DFA17B5873428F57429E3809580FF906": {
+    "logo": "QmVgwBezV6voeaHr7LyLv2SSL7D6zyQbERQjXJLUiGPgaw",
+    "name": "Computer Programmer (Europe)",
+    "vid": "QmPgX36XLvreFtsC4BoeYWNh8NxNgZGLdYkmD8cXrcENf9"
+  },
+  "95CCDA2010F756069645E50269142A063C9AABC2": {
+    "logo": "QmcyokdDRgCDQNe2BkyWZnmBjgTYJsVzum9XwuAwi464PJ",
+    "name": "Depth Charge + Marksman (Europe)",
+    "vid": "QmbXTc37CcezpsKZL6kxigsFh5MzeYoA9nwwRPWGKUhWjg"
+  },
+  "98C1F3A9726FE1BA880D43F0BA004821C4CBEC6C": {
+    "name": "Super Bee (Brazil)",
+    "ref": "DFCFD9C019773E703AA130BC55F5B2F972ECE8F0"
+  },
+  "9B73685F7D2008467D4449A3BFEDEF6E763B5948": {
+    "logo": "QmNjwM8bsk4H2aBbEbgCg6i53mvmUvuKQt6WEwpbZkPiss",
+    "name": "Kinder im Verkehr 1 (Germany)"
+  },
+  "9BA0737FDEE2918375725BB5230D075A2F847159": {
+    "logo": "QmQb5fudXpkCeqV17qAZz1PF2sZRphJFsq1xkYMR5GpwS1",
+    "name": "Alien Invaders - Plus (USA, Europe)",
+    "vid": "QmQ9K47Xn77UHR7YmT8VhTTfWwg9EaeB1pLRdZMfjeShY5"
+  },
+  "9E44CA9FC9E5DEF58C61B24274F0CBFB57D559EE": {
+    "name": "Course de Voitures + Autodrome + Cryptogramme (France)"
+  },
+  "9E7E16744B44FA83FA14C211B2365CF04604E06E": {
+    "logo": "QmXnsQzCkRFkVrujrgUnQYN8i8eJzqDpTbDhtunq7HyJFs",
+    "name": "Alpine Skiing (USA, Europe)",
+    "vid": "QmP3GqoQwMmSVE5XuqRNT8mcSZUFhUKsZDJUYV9HtX64i4"
+  },
+  "9EA8D921CA03699F74E53E25B139632391838C7D": {
+    "name": "Volleyball Electronique (France)"
+  },
+  "9EC331CE8E50EF60DE93E615C18327F08B4A24FB": {
+    "name": "Blackjack (France)"
+  },
+  "9F8F10C9E6E1A5E07EB5A6EEE4E0FE19FCAEE17F": {
+    "name": "Cosmic Conflict (Europe) (Alt 1)",
+    "ref": "DCCBF881E21DD02CBAF15EC049E0801118FB9C96"
+  },
+  "9FF434312FA9D3B7B63909A9ECE01D4E3E87F3B7": {
+    "logo": "QmUsfWqnv32MA3yWBtPQAWt6E4n6cw7bG3MapWxg2ygYrD",
+    "name": "Secret of the Pharaohs (Europe)",
+    "vid": "Qmb9WCdcsr1R1Kq5WRRvXUoc4BY8UDAo198X55UFocaA6f"
+  },
+  "A13E7B338BA15820949F51EB862B381DDC6870AF": {
+    "logo": "QmXC3Pja5arPYDdCD5G3ACGMTA8CYxyj4keiKAa3Ym8Jdv",
+    "name": "Popeye (Europe)",
+    "vid": "QmSqDeokyAzNdeY2vZzPPGQ6zxpWi592qzCFjaxiFG2s72"
+  },
+  "A22F99DCC4ABA3126F5B5BBBF2A3890878AC953B": {
+    "name": "Cosmic Conflict (Europe)",
+    "ref": "DCCBF881E21DD02CBAF15EC049E0801118FB9C96"
+  },
+  "A44587D48E76117838CB6A4CF964321D37EFCDE1": {
+    "logo": "QmV6eqLVgUqEq455Xn5DpeWTD8sriRgoRbJAMjfDRFc2vF",
+    "name": "Jumping Acrobats (Europe)"
+  },
+  "A6120AED50831C9C0D95DBDF707820F601D9452E": {
+    "name": "[BIOS] Philips C52 (France)"
+  },
+  "A6E07B727B4F48D13CE21442911995EB46B99C5D": {
+    "name": "Skiing (France)"
+  },
+  "AD11F3FAD2DFD3716445FEF3B7D83D479EDEE0ED": {
+    "logo": "QmVasX6sxD9VK7V8miR8cnU3D6ejqtgHd4Pnzj5naFdAvV",
+    "name": "Freedom Fighters (USA, Europe)",
+    "vid": "QmeDdwccA2VtUK1oSTmDcJbJnCDUTSbZ4h2usQDL9jsDfz"
+  },
+  "AF9DB337A2EDBB3FE79A3D50F1B4EC1B007F4A52": {
+    "name": "Wall Street (Brazil)"
+  },
+  "AFA67F2110647753DE9DFACB268D96E75D6D8657": {
+    "name": "Chat et Souris (France)"
+  },
+  "B2E1955D957A475DE2411770452EFF4EA19F4CEE": {
+    "name": "[BIOS] Magnavox Odyssey2 (USA, Europe)"
+  },
+  "B446A2730AEFAFE71394DBB9850D43C5CF01D367": {
+    "logo": "QmU4iCQk3MN9fuicDGPXex7LZjXfNtNubihowaHzPjHpaw",
+    "name": "Killer Bees (USA)",
+    "vid": "QmdWC31MVQuBkxNjJKYRn3jFENwd5yo8zQA2qpQEjfqRCJ"
+  },
+  "B5EC5ED9373372DE6D70620094AF06282C48968D": {
+    "logo": "QmP2VTz73HH13FPqi87kne8Wx1ZC8GXbWavq1PKEgyzyUu",
+    "name": "Gunfighter (Europe)"
+  },
+  "B83463B7C40367D4310F142FA15D06D12061F3BE": {
+    "name": "Las Vegas (France)"
+  },
+  "B979ED0C2B8947F764786FCF4444463B3D3AE87D": {
+    "logo": "QmQhaPvdTf1Esx8WCwhFLCXTrjDY5QJnM7vtNtyRvxmgEY",
+    "name": "Pick Axe Pete (USA, Europe)",
+    "vid": "QmR9FNrcsjQB2xJD1PRxJewa2WL87j1gKZ55RKzoLVyCPq"
+  },
+  "BA42F5E642F5DC7BE231BB0E230FFA77A766C805": {
+    "name": "O Segredo do Farao (Brazil)"
+  },
+  "BEDB714C88B9AA7A02DA9EBCDE12446EC8350D18": {
+    "name": "Frogger (Brazil)",
+    "ref": "0BEDA7B36259B3BE84D34206A77A35CD3F04892F"
+  },
+  "C07C1206DB8D4FB5142B38EAD52082D4682D70BE": {
+    "logo": "QmZ2efrAi83S8zLMX9qWNWjBf2Hkqo7a94QwNdb6UWp8cp",
+    "name": "Clay Pigeon (Brazil)"
+  },
+  "C0B10B79461BC1939E08E4C05166126D2B8D7DDA": {
+    "logo": "QmUf1ZuPyYL9nUm84E5a1vWxWdaVu3rAB4jCkgZDCK8USX",
+    "name": "Interpol (Europe) (Proto)",
+    "vid": "QmVNRnCimp7BzQzb93fivygfrShde5LBE7A3EZz597LAPK"
+  },
+  "C2BF8D92B8827E3071D6CE4C43E34B21AFC54F8D": {
+    "logo": "QmXfS3GwPQpqsc5yAiXPaFNwN4bxCZnx3mdKt5bwT3jLuy",
+    "name": "Golf (Europe)"
+  },
+  "C4985A344BE7DA3D78656B6473A3A1AD3EBE6497": {
+    "logo": "Qmb3Zxap8MF8N5p9EpiZCSeA7ymHs3TDbh6VGovnQTDK8w",
+    "name": "Tutankham (Europe) (Proto)",
+    "vid": "QmXUnd8EZ9HnL9PYx7iz83gswhoTjXENFsWkcwiW9HCPWR"
+  },
+  "C63AD4E9AAA903DED9FCF185CAF24E76F8AAF3A9": {
+    "logo": "QmYmwkWaHTnfaRGjayAzkKZhiAPtgKzRdNQHLA2iGeBiTg",
+    "name": "Attack of the Timelord (USA)",
+    "vid": "QmWyhsGJ7UDyaksBQikWpc4hmGsZvQwGbjXbvXQGLEakTD"
+  },
+  "C6A79E721EE501D82D9A1C4F71F98BC23F1E7C7E": {
+    "logo": "QmX6rCKUULt2gHNSS1Co3WbCw7CTUHsQoGUrBAagpKTC2D",
+    "name": "Out of This World + Helicopter Rescue (USA)",
+    "vid": "QmPoqNrfoHzjiJ7L83XAmy7vdCrhZtshF38ta7d1ZCrn1x"
+  },
+  "C8736250EBF376543256D85CF853E825475E0AF6": {
+    "logo": "QmX4f3AUZyLJSKxozN88LzbtXa1sTfGKC3PmzhUrdZKsYh",
+    "name": "Computer Golf (USA)",
+    "vid": "QmfAWmvWS37RU2XmVCwBh9DTyWxwE7szMmTDYptpBjTJDp"
+  },
+  "CAE4E1F3EE090EC423AFF89102F359B9E14DBA41": {
+    "logo": "QmUEW9avydNRS7QXuXAGBuoXoKreBKcFwLX81o4k7pZacB",
+    "name": "Blobbers, The (Europe)",
+    "vid": "QmU3wLqQJGWGzkPbqYQft521E84cZdzxinfKmdNnnDEvzL"
+  },
+  "D0070E12D6B0F406DAB6E1FA550AB01509C9362E": {
+    "logo": "QmdaMHX5mnB5FUR6763XSnJ74nwv9aWdYdYQbFLXNG5qVY",
+    "name": "Thunderball (USA, Europe)",
+    "vid": "QmdT1k87bFWtGX1KY989pFbfw7MsWfWK5o1dTFnL1MnfGt"
+  },
+  "D12197942A99D5902DE1352BBB5475AB4396C7D0": {
+    "name": "Popeye (Brazil)",
+    "ref": "A13E7B338BA15820949F51EB862B381DDC6870AF"
+  },
+  "D12A242D273C4F4417806C3BCD868A9A0F553854": {
+    "name": "Billard Electrique (France)"
+  },
+  "D273CF993DFCBCA3B65CD4959B45A3009F242BC6": {
+    "logo": "QmchgTq8VVbPfSbNadbgmLLj8KMWdp9rRQck3xSmZJF2PA",
+    "name": "K.C. Munchkin (USA)",
+    "vid": "QmPGUzuQdVyefNrYgY7QMDB94n6uuP8GdtpEhFwEdJrVXU"
+  },
+  "D54B1D5667BF90368DDDAB55A91955B1789F177C": {
+    "logo": "QmREt8mC9xa2Einqv5CbydHej9QB5effrrTEHk1vSLbZ7A",
+    "name": "Great Wall Street Fortune Hunt, The (USA, Europe)",
+    "vid": "QmQPM5w9Z9fzX1frBVSNqLkihyb4LCnZGZWAXD5trsPmGL"
+  },
+  "D6A3F2DEF966B798099DBF3C754AB12F69BB4EE8": {
+    "name": "Martian Threat (Europe) (Proto) (Alt 1)",
+    "ref": "4266CA9AA34ACE118EDD8153E2847CFA94A9A2F0"
+  },
+  "D7593ADE4D60A6E314E4F18711E8EA59E3C8C3AD": {
+    "name": "Football Electronique + Hockey Electronique (France)"
+  },
+  "D96C65670B9A3A4FEEDCB720807292708951FCD5": {
+    "name": "Mathematicien + Echo (France)"
+  },
+  "DCCBF881E21DD02CBAF15EC049E0801118FB9C96": {
+    "logo": "QmUvLLJWogeMSCFpUg3fX7drXQ6Kytqaawhfncwa2ejNJe",
+    "name": "Cosmic Conflict (USA)",
+    "vid": "QmVySynDFxnXZnj7BUQqAk1SixD7g9sDVEVptxivkzBqPY"
+  },
+  "DFCFD9C019773E703AA130BC55F5B2F972ECE8F0": {
+    "logo": "QmYX3Bkgz7fHHJWqRCCAFhwRRQ27vjVhLSK4jMPxz61Nui",
+    "name": "Super Bee (Europe)",
+    "vid": "QmQ7qHkAKQdjMe8bh1v3Um3Yrs5J51MESCPjAdfkv76bHe"
+  },
+  "DFED128D213D4192313F85FE2B8716579C2FC995": {
+    "logo": "QmP3qLhPvAFtrCLttzvxdNjNSTjYaKrSM5jtsCtogFxg2p",
+    "name": "Sid the Spellbinder (USA)",
+    "vid": "QmQCoBCPaeDBtEsM6qNMRhSG9Rvx2Ly5UGDCNKQnaGHsaX"
+  },
+  "E0383DD98B85DC2156A859E731FF904B6EBAD95B": {
+    "logo": "Qma1uuj5QzpP1B4Kcor9HrCTuGrjFMzUQwfxPSqTqpEjF9",
+    "name": "Satellite Attack (Europe)"
+  },
+  "E0AA46211967C880BF7FF39836FE5E73C0302460": {
+    "logo": "QmYiMxVr7orYbYUWDFCZ1dYreQX1YAiWyfeUFjrAw6tv8t",
+    "name": "Comando Noturno (Brazil)"
+  },
+  "E15F778EFEB95530F8108854B14C404CF63F213A": {
+    "name": "Bombardeio Submarino + Tiro ao Alvo (Brazil)"
+  },
+  "E54FE13EE27884524255063AA6FD69E4598A5104": {
+    "name": "Conflit Cosmique (Canada)"
+  },
+  "E56B674C832E5A7CAD977CC76779548FDD2F338E": {
+    "logo": "QmexUecWh6u3V5Mw9n4ErrdF1MBs3y9LNRqeudXmUEuAar",
+    "name": "War of Nerves (USA, Europe)",
+    "vid": "QmYHLuyrKRD4SAqZeTU2xybJKdCJZ1S88QbSo9Ci81dcuU"
+  },
+  "E81570282B8ADE6B7C0D126C819A95C7011CD063": {
+    "logo": "QmQF4tZqoHK6fTuLr2ZFqCyroDEpot7EJKBkVd9GcZE3m9",
+    "name": "Power Lords (USA)",
+    "vid": "QmRboKK32SWRtEDcQt6RgFXEkGKmNMhTPzcNhA1PiDnxEN"
   },
   "E90F2A33E41D9BD4C50E96EACC483BC99E53993B": {
     "name": "Verkehrsspiele 1 (Germany)",
     "vid": "Qma86cxwZmrDyt621MwcYFSUyZXay5Aegme7DYhQt1C5ZS"
   },
-  "0904EA45C011D12857477DB04B4D1C87544F27E6": {
-    "name": "Verkehrsspiele 2 (Germany)"
+  "E9A8996C4FB87120D8620AB8876B90DDB48335DB": {
+    "logo": "QmbzfEyb2a9qeirGbNrgZksZtyZf9HEvNfgvejjUTKpGCX",
+    "name": "4 in 1 Row (Europe)"
   },
-  "830C9B3628F2E9C4F8C882024DD912B9D7610765": {
-    "name": "Volleyball (USA, Europe)",
-    "vid": "QmZNFpHDVLX37pqScyKsan6kSrYrpuYeY4u8YcBDTt6snA",
-    "logo": "QmSu9LHkWSsEULRhcfZ4iZVCZu36PWR2vstCihbz2Ad7Qt"
+  "EC364634C2A8160DA1916A43246B76D78932BE1D": {
+    "logo": "QmXa7GK23tjfhkpCX437vy6rcK8i6E9kg4MPb8XTGAAU8j",
+    "name": "Nightfighter (Europe) (Proto)"
   },
-  "9EA8D921CA03699F74E53E25B139632391838C7D": {
-    "name": "Volleyball Electronique (France)"
+  "ECA31E4D8A9E198A8661F6B6E63B33C184E9B22B": {
+    "logo": "QmVrEWzkegFHoaHj9oX8JRBr8u9FtnrAnrNubwSvchzDpK",
+    "name": "Shark Hunter (Europe) (Proto)",
+    "vid": "QmaitrLnP2kq8qtPU3X4wzcre5Yj2Gh6Mv94iMfLfqDejo"
   },
-  "AF9DB337A2EDBB3FE79A3D50F1B4EC1B007F4A52": {
-    "name": "Wall Street (Brazil)"
+  "EE456305397ECBD54FFFA0BB7A894F53976D2A7C": {
+    "logo": "QmYVcBctmcs8NgrCRD721me2Ca95BrwtH1NqgYLUPhD7h4",
+    "name": "Turtles (USA)",
+    "vid": "QmNgupugRTLFaCb4Eg57twcTykVySjgfEKBWp76V1u3nZx"
   },
-  "E56B674C832E5A7CAD977CC76779548FDD2F338E": {
-    "name": "War of Nerves (USA, Europe)",
-    "vid": "QmYHLuyrKRD4SAqZeTU2xybJKdCJZ1S88QbSo9Ci81dcuU",
-    "logo": "QmexUecWh6u3V5Mw9n4ErrdF1MBs3y9LNRqeudXmUEuAar"
+  "EE5C0471FC192570FE4575CA65882D3D7B85350D": {
+    "name": "Jumping Acrobats (Europe) (Alt 1)"
   },
   "F1F27B3497D754A659F03BB3D04FCF1892511693": {
     "ref": "052BC62EB03E2673A802BAB866DD0AB3C39FD584"
+  },
+  "F39C9801984F97D5A685A4B7A1ACCD0164A49B43": {
+    "logo": "QmWEKwTFS81yszBUXq4rVqVatcdP5USaP2TdqYz9mc9aVx",
+    "name": "Hockey + Soccer (USA, Europe)",
+    "vid": "QmZ8cssoQt39CX7ZppCFAmuJWssJcTfdUQhGpjkb7u7sP5"
+  },
+  "F93C448243DB428A4C9E2354596844ED07BB7530": {
+    "logo": "QmRXdpL6macr7rC7rPLnZPwPmhoDDnBkNKGabQmVG8bwzF",
+    "name": "Computer Intro (USA)",
+    "vid": "QmPFgpYzDQThbbK44kQy1mqCwxckJmmVq95GS3iheavdEf"
+  },
+  "F9727E6C5A941518187C08E5F5D104460AC3B3E3": {
+    "logo": "QmScikXNohBBgzvoEJGxfEyyDfUysafDu2R7bkq77mqAzF",
+    "name": "Mousing Cat, The (Europe)",
+    "vid": "QmaarQjCY3F3DUFwCixRqVCjmqJaR1v5EYwqh6nVQfJ6Wg"
+  },
+  "FC798F3CF770E8BF5F9A4064B6A4CA66E5A4EB71": {
+    "logo": "QmVAKXQz7HFQc5y6tUGgWB1Z8P4VqUTeiHkQ1nqqbLf3WB",
+    "name": "Smithereens (USA)",
+    "vid": "QmNtojpL51Xi9GmjH9FvSZEsS2YwPu4vxcshWyVQxTekTy"
+  },
+  "FD354B726BD86DCBE97BCC284CF1E09485DD81AC": {
+    "name": "Samurai (Europe)"
+  },
+  "FF0EBE9EFC275011A0534FD98CA1F4112DAE3DAB": {
+    "name": "Mur Magique, Le (France)"
+  },
+  "FF92B024EF80919146E822CE947882D0744AC09F": {
+    "logo": "QmPfQTBgVzAxVhCm3q54qbp4pXuDLvbjRLbhU8KfVGSk7L",
+    "name": "Robot City (Europe) (Proto)",
+    "vid": "QmWJvAQ8ndnSKRK2hpMaBugF4BSup9tevd1iugx8GKYyzS"
+  },
+  "FFD525D5C6023409AFDCDB2AFBDA227BC4568304": {
+    "logo": "QmNZ4BwyvHwiD4R5JWcjHbzZvFgfs2pdmgbM6Pw9WAbMJM",
+    "name": "Pachinko (USA, Europe)",
+    "vid": "QmXH25pKXzEXvTwoWrhhrTizxd2Puci13UZ5qRvJnaS51Y"
   }
 }
