@@ -543,6 +543,46 @@ if (typeof gamePadType == 'undefined') {
     touchController.axes[2] = screenGamepad.utils.roundToStep(right.x, 0.1);
     touchController.axes[3] = screenGamepad.utils.roundToStep(right.x, 0.1);
   });
+} else if (gamePadType == 'n64') {
+  // Buttons
+  var buttons = [
+    [0, 'bottom', '40px', 'right', '110px', 'a'],
+    [2, 'bottom', '90px', 'right', '140px', 'x'],
+    [6, 'bottom', '60px', 'right', '200px', 'z'],
+    [5, 'bottom', '230px', 'right', '30px', 'R1'],
+    [4, 'bottom', '230px', 'left', '30px', 'L1'],
+    [9, 'bottom', '50px', 'right', '50%', 'start']
+
+  ]
+  // Joystick
+  var joystick = new screenGamepad.Joystick();
+  joystick.domElement.style.position = 'absolute';
+  joystick.domElement.style.bottom = '130px';
+  joystick.domElement.style.left = '30px';
+  document.getElementById("gamepad").appendChild(joystick.domElement);
+  joystick.addEventListener('change', function() {
+    axesToDpad();
+  });
+  // Analogs
+  var left = new screenGamepad.Joystick();
+  left.domElement.style.position = 'absolute';
+  left.domElement.style.bottom = '30px';
+  left.domElement.style.left = '30px';
+  document.getElementById("gamepad").appendChild(left.domElement);
+  left.addEventListener('change', function() {
+    touchController.axes[0] = screenGamepad.utils.roundToStep(left.x, 0.1);
+    touchController.axes[1] = screenGamepad.utils.roundToStep(left.x, 0.1);
+  });
+  // Default Retroarch uses the R analogue for the C buttons
+  var right = new screenGamepad.Joystick();
+  right.domElement.style.position = 'absolute';
+  right.domElement.style.bottom = '120px';
+  right.domElement.style.right = '30px';
+  document.getElementById("gamepad").appendChild(right.domElement);
+  right.addEventListener('change', function() {
+    touchController.axes[2] = screenGamepad.utils.roundToStep(right.x, 0.1);
+    touchController.axes[3] = screenGamepad.utils.roundToStep(right.x, 0.1);
+  });
 }
 //// Render Buttons ////
 var vars = {};
