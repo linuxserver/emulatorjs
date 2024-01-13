@@ -318,7 +318,7 @@ async function rendermenu(datas) {
       var romName = name;
     };
     if (has_logo == true) {
-      logo_html = '<img class="menu-img">';
+      logo_html = '<img class="menu-img" alt="'+ romName +'" title="'+ romName +'">';
     } else {
       logo_html = '<p class="menu-img">' + name + '</p>';
     };
