@@ -60,6 +60,9 @@ console.log(readyAudioContext); // keep this it is needed for some reason
 // Load canvas and button
 divContent(EJS_player.replace('#',''), '<div id="loading"></div><canvas id="canvas" tabindex="1"></canvas>');
 
+// Default loading message
+divContent('loading','Starting RetroArch');
+
 // Retroarch run logic
 Module = {
   canvas: document.getElementById('canvas'),
@@ -71,7 +74,7 @@ Module = {
   printErr: function(text) {
     console.log(text);
   },
-  preInit: function() {
+  onRuntimeInitialized: function() {
     setupFileSystem();
   }
 };
