@@ -2,7 +2,7 @@
     "name": "EmulatorJS",
     "short_name": "EmulatorJS",
     "manifest_version": 2,
-    "version": "1.8.2",
+    "version": "1.8.3",
     "display": "standalone",
     "background_color": "#000000",
     "theme_color": "#000000",
