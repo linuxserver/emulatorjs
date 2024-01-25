@@ -29,7 +29,7 @@ if (fs.existsSync('/data')) {
 var configPath = dataRoot + 'config/';
 var hashPath = dataRoot + 'hashes/';
 var metaPath = dataRoot + 'metadata/';
-var defaultPeer = '/ip4/206.189.169.226/tcp/4001/p2p/12D3KooWHRqeK6as7tbuoaQdoTUNayUQzfY5aUtTa9GpYzdWNPqU';
+var defaultPeer = '/ip4/65.109.29.184/tcp/4001/p2p/12D3KooWAQZgCmhRo6V6yzGWTtw57xSRBnTn5kGMqzahFKyt5CW3';
 var metaVariables = [
   ['vid', 'videos', '.mp4'],
   ['logo', 'logos', '.png'],
