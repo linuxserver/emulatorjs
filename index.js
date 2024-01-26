@@ -688,6 +688,9 @@ io.on('connection', async function (socket) {
     }
     let fileExtension = path.extname(file);
     let name = path.basename(file, fileExtension);
+    if (! fs.existsSync(dataRoot + dir + filePath)) {
+      await fsw.mkdir(dataRoot + dir + filePath);
+    }
     await fsw.writeFile(dataRoot + dir + filePath + name + extension, fileData);
     // Render game for client
     getRomData([dir, file]);

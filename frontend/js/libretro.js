@@ -23,6 +23,9 @@ if (rom.split('.').pop() == 'bin') {
 if (EJS_gameUrl.endsWith('.multizip')) {
   var romName = rom.replace('multizip','zip');
   mountZip = true;
+} else if (EJS_gameUrl.endsWith('.patchzip')) {
+  var romName = rom.replace('\.patchzip','');
+  mountZip = true;
 } else if (rom.slice(0, -1).endsWith('disk')) {
   var rom = rom.split('.').shift() + '.chd';
   var romName = rom.split('.').shift() + '.chd';
