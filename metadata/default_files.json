@@ -120,6 +120,10 @@
     "cid":"QmXR4JG2XMjUu5qwBkR6HBR8fC8MkqL1cCZDFJGpcMuENv"
   },
   {
+    "file":"/data/main/videos/atari5200.mp4",
+    "cid":"QmedGY8aE5Do1N91CZw2Ki8FhTiMTq8qs8cyC5aocH4WV2"
+  },
+  {
     "file":"/data/main/backgrounds/psx.png",
     "cid":"QmXtrPJCdPuBPemYLxC8shQYHNHk59ES26FyGqR12bZiD2"
   },
@@ -178,6 +182,10 @@
   {
     "file":"/data/main/backgrounds/atari2600.png",
     "cid":"QmSXacVTbftY1vsoK9RDJ47Jz2yeJB18td3rtTPmpfTw7D"
+  },
+  {
+    "file":"/data/main/backgrounds/atari5200.png",
+    "cid":"QmNoDmFBcrE2wDHMVaZxCvRQsua1UjuYSfnxGshKY8YLKA"
   },
   {
     "file":"/data/main/backgrounds/segaCD.png",
@@ -304,6 +312,10 @@
     "cid":"QmTKD7vsGBwTkRgaxV7mFjgxHrYrkiAnLTjNXs4HV9kTQV"
   },
   {
+    "file":"/data/main/logos/atari5200.png",
+    "cid":"QmQZRWCPp2wRVztiWgcAKNKFuRXBTNCpiaeSxw7LEhS2bc"
+  },
+  {
     "file":"/data/main/logos/segaCD.png",
     "cid":"QmV1b4fCtBo4iRqZDLTYctWE9PdKqVRqi3ZfgjffTKzCsD"
   },
@@ -426,6 +438,10 @@
   {
     "file":"/data/main/corners/atari2600.png",
     "cid":"QmarPeRQzXTGPY88h744vhgCu1RGJtpV9HyTtjhrQmnQhq"
+  },
+  {
+    "file":"/data/main/corners/atari5200.png",
+    "cid":"QmfTa42eaceCXkdg9NDkAziPNAfKUfAFdftrbFt2XYrkaU"
   },
   {
     "file":"/data/main/corners/segaCD.png",
@@ -736,6 +752,10 @@
     "cid":"Qma9uNpoCSNGfrxF8KxhZGCjqmvnXqk6n4DDHwW69WR2ui"
   },
   {
+    "file":"/data/config/atari5200.json",
+    "cid":"Qmb5Adw5BUopBCtGxu9X1J4XS28n6aMMeTPUZpVAxb4nQc"
+  },
+  {
     "file":"/data/config/segaMD.json",
     "cid":"QmUNbgxrPrT5E8dZ8hzjMSLyRgUY4RDJVSVozwmkNjBsKB"
   },
@@ -848,8 +868,16 @@
     "cid":"QmSXacVTbftY1vsoK9RDJ47Jz2yeJB18td3rtTPmpfTw7D"
   },
   {
+    "file":"/data/atari5200/backgrounds/default.png",
+    "cid":"QmNoDmFBcrE2wDHMVaZxCvRQsua1UjuYSfnxGshKY8YLKA"
+  },
+  {
     "file":"/data/atari2600/corners/default.png",
     "cid":"QmarPeRQzXTGPY88h744vhgCu1RGJtpV9HyTtjhrQmnQhq"
+  },
+  {
+    "file":"/data/atari5200/corners/default.png",
+    "cid":"QmfTa42eaceCXkdg9NDkAziPNAfKUfAFdftrbFt2XYrkaU"
   },
   {
     "file":"/data/lynx/backgrounds/default.png",
@@ -949,6 +977,10 @@
   },
   {
     "file":"/data/atari2600/roms/",
+    "cid":"directory"
+  },
+  {
+    "file":"/data/atari5200/roms/",
     "cid":"directory"
   },
   {
