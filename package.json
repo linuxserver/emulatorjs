@@ -1,6 +1,6 @@
 {
   "name": "emulatorjs",
-  "version": "1.8.5",
+  "version": "1.8.6",
   "description": "Rom and art management utility for generating configuration files for use with the EmulatorJS frontend",
   "main": "index.js",
   "author": "thelamer",
