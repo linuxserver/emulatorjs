@@ -15,6 +15,10 @@ var defaultKeys = [
 ];
 localStorage.setItem('retroArch',true);
 var gamePadType;
+var isSafari = navigator.vendor && navigator.vendor.indexOf('Apple') > -1 &&
+               navigator.userAgent &&
+               navigator.userAgent.indexOf('CriOS') == -1 &&
+               navigator.userAgent.indexOf('FxiOS') == -1;
 
 //// Helper functions ////
 // Debounce calls to functions that run heavy
@@ -361,8 +365,10 @@ async function rendermenu(datas) {
   highlight(active_item);
   // Move items up
   function moveUp(num) {
-    $('#bgvid').prop('muted', false);
-    $('#bgvid').prop('volume', 0.5);
+    if (! isSafari) {
+      $('#bgvid').prop('muted', false);
+      $('#bgvid').prop('volume', 0.5);
+    }
     if (typeof num == 'number') {
       active_item = (active_item - num);
     } else {
@@ -382,8 +388,10 @@ async function rendermenu(datas) {
   };
   // Move items down
   function moveDown(num) {
-    $('#bgvid').prop('muted', false);
-    $('#bgvid').prop('volume', 0.5);
+    if (! isSafari) {
+      $('#bgvid').prop('muted', false);
+      $('#bgvid').prop('volume', 0.5);
+    }
     if (typeof num == 'number') {
       active_item = (active_item + num);
     } else {
