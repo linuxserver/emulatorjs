@@ -97,12 +97,18 @@ process_chd () {
   if grep -q "TRACK 02" "${user_folder}/hashes/${rom_path}/tmp/FILE.cue"; then
     echo "${file} is multi track need to split"
     mkdir -p "${user_folder}/hashes/${rom_path}/tmp/split"
-    binmerge -s "${user_folder}/hashes/${rom_path}/tmp/FILE.cue" FILE -o "${user_folder}/hashes/${rom_path}/tmp/split"
-    echo "hashing ${file} (Track 1)"
-    if [ -f "${user_folder}/hashes/${rom_path}/tmp/split/FILE (Track 1).bin" ]; then
-      sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/split/FILE (Track 1).bin" | awk '{print $1;exit}')
-    elif [ -f "${user_folder}/hashes/${rom_path}/tmp/split/FILE (Track 01).bin" ];then
-      sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/split/FILE (Track 01).bin" | awk '{print $1;exit}')
+    NOSPLIT=false
+    binmerge -s "${user_folder}/hashes/${rom_path}/tmp/FILE.cue" FILE -o "${user_folder}/hashes/${rom_path}/tmp/split" || NOSPLIT=true
+    if [ "${NOSPLIT}" == "false" ]; then
+      echo "hashing ${file} (Track 1)"
+      if [ -f "${user_folder}/hashes/${rom_path}/tmp/split/FILE (Track 1).bin" ]; then
+        sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/split/FILE (Track 1).bin" | awk '{print $1;exit}')
+      elif [ -f "${user_folder}/hashes/${rom_path}/tmp/split/FILE (Track 01).bin" ];then
+        sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/split/FILE (Track 01).bin" | awk '{print $1;exit}')
+      fi
+    else
+     echo "splitting failed hashing full bin ${file}"
+     sum=$(sha1sum "${user_folder}/hashes/${rom_path}/tmp/FILE.cue" | awk '{print $1;exit}')
     fi
   elif grep -q "TRACK 01" "${user_folder}/hashes/${rom_path}/tmp/FILE.cue"; then
     echo "hashing ${file}"
@@ -126,12 +132,18 @@ process_bin () {
   if grep -q "TRACK 02" "${user_folder}/${rom_path}/${cuefile}"; then
     echo "${file} is multi track need to split"
     mkdir -p "${user_folder}/${rom_path}/tmp/"
-    binmerge -s "${user_folder}/${rom_path}/${cuefile}" FILE -o "${user_folder}/${rom_path}/tmp/"
-    echo "hashing ${file} (Track 1)"
-    if [ -f "${user_folder}/${rom_path}/tmp/FILE (Track 1).bin" ]; then
-      sum=$(sha1sum "${user_folder}/${rom_path}/tmp/FILE (Track 1).bin" | awk '{print $1;exit}')
-    elif [ -f "${user_folder}/${rom_path}/tmp/FILE (Track 01).bin" ];then
-      sum=$(sha1sum "${user_folder}/${rom_path}/tmp/FILE (Track 01).bin" | awk '{print $1;exit}')
+    NOSPLIT=false
+    binmerge -s "${user_folder}/${rom_path}/${cuefile}" FILE -o "${user_folder}/${rom_path}/tmp/" || NOSPLIT=true
+    if [ "${NOSPLIT}" == "false" ]; then
+      echo "hashing ${file} (Track 1)"
+      if [ -f "${user_folder}/${rom_path}/tmp/FILE (Track 1).bin" ]; then
+        sum=$(sha1sum "${user_folder}/${rom_path}/tmp/FILE (Track 1).bin" | awk '{print $1;exit}')
+      elif [ -f "${user_folder}/${rom_path}/tmp/FILE (Track 01).bin" ];then
+        sum=$(sha1sum "${user_folder}/${rom_path}/tmp/FILE (Track 01).bin" | awk '{print $1;exit}')
+      fi
+    else
+      echo "splitting failed hashing full bin ${file}"
+      sum=$(sha1sum "${user_folder}/${rom_path}/${file}" | awk '{print $1;exit}')
     fi
   elif grep -q "TRACK 01" "${user_folder}/${rom_path}/${cuefile}"; then
     echo "hashing ${file}"
