@@ -534,25 +534,25 @@ async function rendermenu(datas) {
   let homePressed = false;
   let gpUpdate;
   function gameLoop() {
+    // Handle if buttons are missing
+    function buttonsMissing(axes,buttons) {
+      var missing = true;
+      axes.forEach(function(i) {
+        if (typeof gp.axes[i] === 'undefined') {
+          missing = false;
+        }
+      });
+      buttons.forEach(function(i) {
+        if (typeof gp.buttons[i] === 'undefined') {
+          missing = false;
+        }
+      });
+      return missing;
+    }
     let gamePads = navigator.getGamepads();
     if (!gamePads?.[0]) return;
     let gp = gamePads[0];
     if (window.location.hash != "#game") {
-      // Handle if buttons are missing
-      function buttonsMissing(axes,buttons) {
-        var missing = true;
-        axes.forEach(function(i) {
-          if (typeof gp.axes[i] === 'undefined') {
-            missing = false;
-          }
-        });
-        buttons.forEach(function(i) {
-          if (typeof gp.buttons[i] === 'undefined') {
-            missing = false;
-          } 
-        });
-        return missing;
-      }
       gameStarted = false;
       if (!scrollDelay) {
         if ((buttonsMissing([1,3],[13])) && (gp.axes[1] > .5 || gp.axes[3] > .5 || gp.buttons[13].pressed)) {
