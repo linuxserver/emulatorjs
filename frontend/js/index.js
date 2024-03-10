@@ -555,24 +555,46 @@ async function rendermenu(datas) {
     if (window.location.hash != "#game") {
       gameStarted = false;
       if (!scrollDelay) {
-        if ((buttonsMissing([1,3],[13])) && (gp.axes[1] > .5 || gp.axes[3] > .5 || gp.buttons[13].pressed)) {
+        // Analog down
+        if ((buttonsMissing([1,3],[])) && (gp.axes[1] > .5 || gp.axes[3] > .5)) {
           scrollDelay = setTimeout(() => scrollDelay = undefined, 200);
-          if (gp.axes[1] >= .75 || gp.axes[3] >= .75)
-            moveDown(5);
-          else
-            moveDown();
-        } else if ((buttonsMissing([1,3],[12])) && (gp.axes[1] < -.5 || gp.axes[3] < -.5 || gp.buttons[12].pressed)) {
+          moveDown();
+        // Analog up
+        } else if ((buttonsMissing([1,3],[])) && (gp.axes[1] < -.5 || gp.axes[3] < -.5)) {
           scrollDelay = setTimeout(() => scrollDelay = undefined, 200);
-          if (gp.axes[1] <= -.75 || gp.axes[3] <= -.75)
-            moveUp(5);
-          else
-            moveUp();
+          moveUp();
+        // D-pad down
+        } else if ((buttonsMissing([],[13])) && (gp.buttons[13].pressed)) {
+          scrollDelay = setTimeout(() => scrollDelay = undefined, 200);
+          moveDown();
+        // D-pad up
+        } else if ((buttonsMissing([],[12])) && (gp.buttons[12].pressed)) {
+          scrollDelay = setTimeout(() => scrollDelay = undefined, 200);
+          moveUp();
+        // R1 index down
         } else if ((buttonsMissing([],[5])) && (gp.buttons[5].pressed)) {
           scrollDelay = setTimeout(() => scrollDelay = undefined, 200);
           indexDown();
+        // L1 index up
         } else if ((buttonsMissing([],[4])) && (gp.buttons[4].pressed)) {
           scrollDelay = setTimeout(() => scrollDelay = undefined, 200);
           indexUp();
+        // Analog L2 scroll up by strength
+        } else if ((buttonsMissing([],[6])) && (gp.buttons[6].pressed)) {
+          if (gp.buttons[6].value) {
+            scrollDelay = setTimeout(() => scrollDelay = undefined, (Math.abs(gp.buttons[6].value - 1) * 200) + 40);
+          } else {
+            scrollDelay = setTimeout(() => scrollDelay = undefined, 40);
+	  }
+	  moveUp();
+        // Analog R2 scroll down by strength
+        } else if ((buttonsMissing([],[7])) && (gp.buttons[7].pressed)) {
+          if (gp.buttons[7].value) {
+            scrollDelay = setTimeout(() => scrollDelay = undefined, (Math.abs(gp.buttons[7].value - 1) * 200) + 40);
+          } else {
+            scrollDelay = setTimeout(() => scrollDelay = undefined, 40);
+          }
+          moveDown();
         }
       }
       if (gp.timestamp == gpUpdate) {
@@ -607,6 +629,7 @@ async function rendermenu(datas) {
       } catch (e) {
         console.log(e);
       }
+      // Press home button 3 times to exit game
       if ((buttonsMissing([],[16])) && (!gp.buttons[16].pressed && homePressed)) {
         home++;
         homePressed = false;
