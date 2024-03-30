@@ -737,7 +737,7 @@
   },
   {
     "file":"/data/config/arcade.json",
-    "cid":"QmUXaDzeCediDpefawxTvVFdrZs2PJ3vgsUoUpQkeLYrNd"
+    "cid":"QmTvpfgqX9in7kGyuKPSrjjwJeRzZ4fHxZas7bARUUZ7MM"
   },
   {
     "file":"/data/config/snes.json",
@@ -970,6 +970,10 @@
   {
     "file":"/data/segaSG/bios/sega.zip",
     "cid":"Qmct6NWgAbSvWW9XenBfJ8U15GiwEgDLNFKhCnhL6TFiad"
+  },
+  { 
+    "file":"/data/arcade/bios/samples.zip",
+    "cid":"QmNMsqvdXobsGYmQ7nWEF63BEWYjQER4d9H3cLFZWpnLtm"
   },
   {
     "file":"/data/3do/roms/",

@@ -155,9 +155,12 @@ async function setupMounts() {
     setLoader('Bios');
     let biosFile = await downloadFile(EJS_biosUrl);
     var biosPackage = new BrowserFS.FileSystem.ZipFS(new Buffer(biosFile));
-    mfs.mount(retroArchDir + 'system/', biosPackage);
-    BrowserFS.initialize(mfs);
-    biosFile = null;
+    var overlay = new BrowserFS.FileSystem.OverlayFS(new BrowserFS.FileSystem.InMemory(), biosPackage);
+    overlay.initialize(function () {
+      mfs.mount(retroArchDir + 'system/', overlay);
+      BrowserFS.initialize(mfs);
+      biosFile = null;
+    });
   } else {
     BrowserFS.initialize(mfs);
   };
