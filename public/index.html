@@ -73,6 +73,15 @@
           <li>Invictus.bps - First patch file to be applied.</li>
           <li>Invictus.bps1 - Second patch file to be applied.</li>
         </ul>
+        <p>This patchzip format can also be used for any multifile rom like SNES MSU1 Enhanced games that are supported by Snes9X, for example A Link to the Past MSU1 create a folder containing: (this is just an example some of these files might not be required)</p>
+        <ul>
+          <li>alttp_msu.sfc - base rom file that has been patched to support enhanced audio.</li>
+          <li>manifest.bml - MSU1 manifest with tracklist and memory addresses.</li>
+          <li>alttp_msu.xml - XML manifest.</li>
+          <li>alttp_msu.msu - Video data.</li>
+          <li>alttp_msu-[1-xx].pcm - Audio data files.</li>
+        </ul>
+        <p>Just like the rom hacks name the zip file the same as the rom name in this example "alttp_msu.sfc.patchzip"</p>
         <h2>Multi Disk Games</h2>
         <p>The only web emulators that supports multiple CD games are psx and saturn, in order to function please rename your chd files before scanning them in to the same name with the extension .disk1,.disk2,.disk3,etc. IE:</p>
         <ul>
