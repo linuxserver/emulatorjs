@@ -294,11 +294,11 @@ async function renderRom(data) {
     } else if (data[0][idItem].has_art == 'none') {
       var color = 'gray';
     };
-    var item = $('<div>').addClass('itemwrapper').css('background-color', color).html($('<p>').addClass('item').text(idItem)).attr('onclick', 'romMenu(\'' + idItem.replace("'","|") + '\')');
+    var item = $('<div>').addClass('itemwrapper').css('background-color', color).html($('<p>').addClass('item').text(idItem)).attr('onclick', 'romMenu(\'' + idItem.replaceAll("'","|") + '\')');
     identified.append(item)
   };
   for await (var noIdItem of Object.keys(data[1])) {
-    var item = $('<div>').addClass('itemwrapper').css('background-color', 'gray').html($('<p>').addClass('item').text(noIdItem)).attr('onclick', 'romMenu(\'' + noIdItem.replace("'","|") + '\')');
+    var item = $('<div>').addClass('itemwrapper').css('background-color', 'gray').html($('<p>').addClass('item').text(noIdItem)).attr('onclick', 'romMenu(\'' + noIdItem.replaceAll("'","|") + '\')');
     unidentified.append(item)
   };
 }
@@ -306,7 +306,7 @@ async function renderRom(data) {
 // Render rom menu modal
 function romMenu(cleanName) {
   let dir = $('#main').data('name');
-  name = cleanName.replace("|","'");
+  name = cleanName.replaceAll("|","'");
   $('#modal').data('name', name);
   emptyModal();
   $('#modal-content').append('<div class="loader"></div>');
