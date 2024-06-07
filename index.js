@@ -222,7 +222,7 @@ io.on('connection', async function (socket) {
     let writeStream = fs.createWriteStream(file);
     socket.emit('modaldata', 'Downloading: ' + file);
     try {
-      for await (var fileStream of ipfs.cat(cid, {'timeout': 10000})) {
+      for await (var fileStream of ipfs.cat(cid, {'timeout': 20000})) {
         writeStream.write(fileStream);
       };
       writeStream.end();
