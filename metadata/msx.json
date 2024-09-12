@@ -1,21 +1,30 @@
 {
   "0039CFF292FE740D8C87CC2131A473CBB4F8C4F4": {
-    "name": "Koneko no Daibouken - Catboy (Japan)"
+    "logo": "QmSmBW3giVoGNH7e7zD5v5PnBYbB8LD8T8MLpecW6j2uBf",
+    "name": "Koneko no Daibouken - Catboy (Japan)",
+    "vid": "QmUxynjYxqTCBmcSVXzQBhDZXj9ceMJLUTZMkAsvtVhU7x"
   },
   "0071B2EB214FF002DBBB7532653585B35B56F243": {
-    "name": "City Connection (Japan)"
+    "logo": "QmXmxE537HwDJVc17X1Li3bvvW82NEbz36BubamU23mjgB",
+    "name": "City Connection (Japan)",
+    "vid": "QmbxkM1qXygMeDKvA5RrqQyFPFE9zjdqVgmYs5iaBihFkb"
   },
   "00C70CF37C71CB8F99567AE407FF6DD52C4774C2": {
     "name": "Tengoku Yoitoko (Japan)"
   },
   "010D5F325FC38C5B590841D15CE4F07D59F2A4CB": {
+    "logo": "QmcKTAXkietD9mAHWcUF9g9kUPMryff2BFrcgUfD6mKwmv",
     "name": "Tensidachino Gogo (Japan)"
   },
   "0125BCE373C95EE78DF074D19AD032158EDC74A2": {
-    "name": "Ninjya Kage (Japan)"
+    "logo": "QmPG21Xsx6JdjZrznJSg7xHo9UgREyb2e5TATSvvXMKavd",
+    "name": "Ninjya Kage (Japan)",
+    "vid": "QmY2GRNwEhZRqXrjrK6TJxSb83zk7qthvJmMcAkP26YB3r"
   },
   "01544042B810C0B401FCE5D180ADB6FEA9B5ED20": {
-    "name": "Mr. Do vs Unicorns (Japan)"
+    "logo": "QmPA7m7XEibEZwTeon3VW1dKbYaSEcTptGP2Jgdk4C8CPp",
+    "name": "Mr. Do vs Unicorns (Japan)",
+    "vid": "QmY2Vaq6QtKCSGa1WrNXkEqEtewMzgU1ct5ab12ziCVZER"
   },
   "01CF858888F5A0D3AEE08F42A66C515AB0D06400": {
     "name": "Basic Lessons 2 (Japan)"
@@ -24,12 +33,15 @@
     "name": "Becky (Japan) (Alt 2)"
   },
   "02A2FAFC7B9249DB76803ECE347BA73BE25F71B5": {
-    "name": "Issunhoushi No Donnamondai (Japan)"
+    "logo": "QmPVNNAeZiLj6Z9LkbuvZVd2Zz1DGKhHHZqyuBBRY6XF9y",
+    "name": "Issunhoushi No Donnamondai (Japan)",
+    "vid": "QmV5wiE4jTEzhZeUkYEtGSi5K3PCr7rcTtCCfW3wPsZQqn"
   },
   "02C3EC94190C6FCE6FA4984D92BE48B2697E7706": {
     "name": "Relics (Japan)"
   },
   "031A611BA1F75B7D5FE3ED088A61C24598B4B314": {
+    "logo": "Qmb1NGCRCUDpG13B22Q2Lz7Rx27H86baQj8EM4E4x6BH88",
     "name": "Okami no Su (Japan)"
   },
   "0348F1758DAA118EBAF2BC593FF9A0A622FC89E8": {
@@ -39,7 +51,9 @@
     "name": "Digital Devil Monogatari Megami Tensei (Japan) (Alt 1)"
   },
   "03F112B38FB1D05A9B0B50D3C6A54AA2CE9DD2B0": {
-    "name": "Super Bubble Bobble (Korea) (Unl)"
+    "logo": "QmXyrFnoZPhvVD9mW2NiK8mYNq95uj3gbjyMg2zccF3ppW",
+    "name": "Super Bubble Bobble (Korea) (Unl)",
+    "vid": "QmUFUuNssyeEvyFqvkaFf9i25dV74uPvgLWhoLZTGvfeQU"
   },
   "0413BB3AEACB0C28429B8C85B42796DBE48BEF6D": {
     "name": "Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 1)",
@@ -56,13 +70,17 @@
     "ref": "32615267E8497DB3F5E6F5348EE309E73C80A1A7"
   },
   "0442DD29EA0F7B78C9CD5849EC7EF5BB21EC0BF5": {
-    "name": "Light Corridor, The (Europe)"
+    "logo": "Qmd7qKpSbRdtx5P9ibxy5SnvoT3S3A7djxMaAGVM4bBKMC",
+    "name": "Light Corridor, The (Europe)",
+    "vid": "Qmcc3H8UCasmBiq25eqWnveSwW5LnSnPiRdXs6BQ17p2Yi"
   },
   "0486938B52FBCF30A4FA206E07960A5B866FCA61": {
     "name": "Pay Load (Japan) (Alt 1)"
   },
   "048737F995EECB1DD8DD341D750EFD005267796F": {
-    "name": "Fantasy Zone (Japan)"
+    "logo": "QmcLHV819F111JT1TPQcSoNkojrx5XBnkyKHKuH3s55A7n",
+    "name": "Fantasy Zone (Japan)",
+    "vid": "QmUccPhd8jnnuFnzQJvRXVeVQz8FTXGBxGPGTSCmKnRnXA"
   },
   "049892D1633BCB3F1D5067BA710ADEB89B38FCAC": {
     "name": "Ninjya Kage (Japan) (Alt 1)"
@@ -72,10 +90,14 @@
     "ref": "A2109DA08B1921C4B3B47C6847598D424581B508"
   },
   "04BD78730B100DD879E2FBD3FE646D2BC9BBC46B": {
-    "name": "Soukoban (Japan)"
+    "logo": "QmSeAd2SJWjkFmWzKEnWpKYfgoLr6QCmZAzm63pqXEK472",
+    "name": "Soukoban (Japan)",
+    "vid": "Qmbia6Xh56jpurzJf6bmv15dfnjScahhrv538thPxgdak4"
   },
   "05182561E05FA8E7C8A8184EDA885DC4FD12CC5B": {
-    "name": "Scramble Eggs (Japan)"
+    "logo": "QmfJfo3X6Ph42riV77u8TVikyteuRjCAs42a7XnFzr9tu2",
+    "name": "Scramble Eggs (Japan)",
+    "vid": "QmcGzbLzsM9ZBS5ycyC5nvhr2pASHoXeHKdPbZpsWAdV9Y"
   },
   "05280F0A26AC5C42AB63B80A487BB909683E7461": {
     "name": "Dragon Quest II (Japan)"
@@ -84,7 +106,9 @@
     "name": "Boogie Woogi Jungle (Japan) (Alt 1)"
   },
   "05D7016F39E94BF9FC33D0E8482FF3038D6E01BD": {
-    "name": "Super Billiards (Japan)"
+    "logo": "QmPmYPsj6wXRo4CR9U9hJGkyFAHZ3jALSETbyokJwJQzkc",
+    "name": "Super Billiards (Japan)",
+    "vid": "Qmb3P7BqqLa2ed4ak5mfLPnhovwcsKex6w9vbL7D827yZb"
   },
   "05DA84093D973D3BFBD3143FFD155A16A9EC5F82": {
     "name": "Kung Fu Master (Japan) (Alt 2)"
@@ -96,7 +120,9 @@
     "name": "Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1)"
   },
   "0733CD627467A866846E15CAF1770A5594EAF4CC": {
-    "name": "1942 (Japan)"
+    "logo": "QmfD3f9zcz59B3VNMNvsLb2NEJHtF91xvyTm3K67XhDMri",
+    "name": "1942 (Japan)",
+    "vid": "QmV8not8tH2gZSKMEFWe6KxEmoBewQaibvfnHbhZC6uhG4"
   },
   "0738FEFA62BE2ACBD0F324F28538BBA9551406AC": {
     "name": "Dam Busters, The (Japan) (Alt 1)"
@@ -107,7 +133,9 @@
     "vid": "QmWF94uCGn65ojVHsAeTNjEUVDG2deYaMuBSQPMWwwrjZ5"
   },
   "076ABC988D51FAEF30143750DD41318A8A48C5C4": {
-    "name": "American Truck (Japan)"
+    "logo": "QmXSqGRR7dZH6X59iXTqnfMpWGd1xVaC7UEBgQZfLw5JTw",
+    "name": "American Truck (Japan)",
+    "vid": "QmNag9Jui8q3g5YP8XC7oXwpVBw1MhHxKfBicubyhGkQ5h"
   },
   "076D6F5B9F8427F6959F7A255ABB4ACAC0DD9D0C": {
     "logo": "QmSvdKAeUxS5xbGojdW911o5We8KJ9UZuutFkWq3KLzkQV",
@@ -118,19 +146,29 @@
     "name": "City Connection (Japan) (Alt 1)"
   },
   "07DB3E3FFB16C138F9DA12CACDE48BF7522A188C": {
-    "name": "Zoom 909 (Japan)"
+    "logo": "QmcNs6hRCSG7PCdxYua9a9EX7P1rQh6BPgzd7hUDdRoXWL",
+    "name": "Zoom 909 (Japan)",
+    "vid": "QmUZeB1VD6sRRtAva5BiPtzzoA25CYWc8jtYTo2bHpp9Gz"
   },
   "087AFEBB16BFD96F465FB0D004326D55452BDD81": {
-    "name": "Magical Kid Wiz (Japan)"
+    "logo": "Qma2ciN5pJheji12K84S5K2MsQHjDHVqh1bcNwgpVSSfkD",
+    "name": "Magical Kid Wiz (Japan)",
+    "vid": "QmVMk8Hc1ohdKqs5wEXhtiYSSiiUaXeN9hLyD49CYeRYaL"
   },
   "0889CA383BCF24198DB1FB2DD23DEA1BF8C18BE8": {
-    "name": "Fire Rescue (Japan)"
+    "logo": "QmZML8GoJ1YjDuHTq5fUzZ98tAtqU2Kitsh4XDhLJr57BS",
+    "name": "Fire Rescue (Japan)",
+    "vid": "QmbfYkfkEwcxptBiBqsZEemNMGo2YN4gqpCkzLtjkyxBb5"
   },
   "08BE92145A99DD6E0539FF79DCA62B2F4CC59B0B": {
-    "name": "Turboat (Japan)"
+    "logo": "QmckMRbDmjRZp8PGEsaf6XSP91NsTHoB1Wj3wDmbAp6FJ8",
+    "name": "Turboat (Japan)",
+    "vid": "QmWEWcsW5a1NsN4z8SmSwjfTzAiiLGAAhtyqotk8UDymQh"
   },
   "0949BD31CDBDFACB3224506C72A2210C50432157": {
-    "name": "Mac Attack (Europe)"
+    "logo": "QmeB5SXjerdqxk1guzjdQbxnV4JfHAwyb3XgwmWkKX3cph",
+    "name": "Mac Attack (Europe)",
+    "vid": "QmPCJHqEWPuuPPH8DNPp9QofsdUFv9cVjWpYReiYoj8NrV"
   },
   "094D11EBF8A20B6BFC07902C7F136BDD18B1E7CA": {
     "name": "Zukkoke Yajikita Onmitsu Douchuu (Japan)"
@@ -139,38 +177,54 @@
     "name": "Keiba, The (Japan) (Program)"
   },
   "09AF3B68BE4EEA5F5594D5D2D124D92B127DD390": {
-    "name": "Macross (Japan)"
+    "logo": "QmZ5tHdmboPdpf6Gjqkcvq1aPP93pfDKCHbLDo2XMMLp1V",
+    "name": "Macross (Japan)",
+    "vid": "QmcGvYWWbA4dasuW4aDobV8ARqbtTeqrh4xnyZLTtom1Nx"
   },
   "09B0EA7C5595F4E9C9A15219F30E3423BBC25F66": {
     "name": "Exerion (Japan) (Alt 1)"
   },
   "09CC29B413DC7B8747420615BF798169AE68AD14": {
-    "name": "Con-Dori (Japan)"
+    "logo": "QmbFtsk4BivjTRqNT9AbTXs3K8fbsArUsCZq7qfRiLQSSW",
+    "name": "Con-Dori (Japan)",
+    "vid": "QmdRC9jwMdTY6BghSQ75p6xQ8cMHTUYZLMJsKzstbCPHfd"
   },
   "09FBBD923E0DEB82F5E20FA8CE2D842ADBF4A646": {
-    "name": "Scion (Japan)"
+    "logo": "QmNykVmiCjv3EGNonTsuBTYiUbRk17ZTSz9TCxfRJ7oAiv",
+    "name": "Scion (Japan)",
+    "vid": "Qmcsp1Kw67P2iwcBX5JAjdWaLvPMCkBwEtknSpeLPtWvVH"
   },
   "0A2209E0A71684493998F6618AF032BA580D4FF9": {
-    "name": "Casio Worldopen (Japan)"
+    "logo": "QmT244gPBX8ANXxjdLyoVbN8nhpJve83x6YuSVANHyGopg",
+    "name": "Casio Worldopen (Japan)",
+    "vid": "QmSTt8Ao6NEawb9k3fEbrT1b7y1iCBecwC3ZUMPFBZ6EHU"
   },
   "0A9C576EABAF2651DDCA35BF17F96E509D6C6BA0": {
     "name": "Pippols (Japan) (Alt 1)",
     "ref": "10E63EBA7D2B10D946822F21E7FD106F5DFAB632"
   },
   "0AC6C061C3897A3989DCD75B4878C850C71E4BB8": {
-    "name": "Cosmo-Explorer (Japan)"
+    "logo": "QmRwxWiYH8EQXNAGXJMPRomywRBRSiEMcWwkjoTRiM3QZ4",
+    "name": "Cosmo-Explorer (Japan)",
+    "vid": "QmfZkHhrFJEtXXqxpPNP8K1syfKXP6JZMA3pSRALpRAb4f"
   },
   "0B3241202F0E2BE470E5F2E6139C01983A895BC8": {
-    "name": "Boogie Woogi Jungle (Japan)"
+    "logo": "QmXekbeCozhTbT6G2NJiGquZycvnG18VmcTELCkUjPAJN3",
+    "name": "Boogie Woogi Jungle (Japan)",
+    "vid": "QmerNwKpi5NATwqTbZLdVWEXAbS9Zxmg5pTXX8b8qkDmBN"
   },
   "0B379610CB7085005A56B24A0890B79DD5A7E817": {
     "name": "R-Type (Japan) (Alt 1)"
   },
   "0B3A217D3278A43D7460136F955171C762A1F8E5": {
-    "name": "Jump Land (Japan)"
+    "logo": "QmZAzoYEMGx8qsMbTJ84fPKR17RjUJXDmdkHmvjUDWFV7V",
+    "name": "Jump Land (Japan)",
+    "vid": "QmR3fUvo28mtwXiEtMcM9N1UhTquaKjXZ5NUL5YNNNH8JR"
   },
   "0B9A870D1E6CC712A3EFCE2349FB1C1CF6902D22": {
-    "name": "Chack'n Pop (Japan)"
+    "logo": "Qmf9oeXz1ynxiur94RKxwECkusn3hE74T2bfZCMHcrNyE6",
+    "name": "Chack'n Pop (Japan)",
+    "vid": "Qmee7UdaWypWwWeDQDeo8jrLP97VVvteiHbAyUy9xzbFhi"
   },
   "0BA8AE697F3045B3B3175B27D00AC0E522288FF1": {
     "name": "D-Day (Japan) (Alt 3)"
@@ -188,7 +242,9 @@
     "vid": "QmVpc4UHmqqorj7zppND5KforxDuHRZbw1FULBp463caBx"
   },
   "0CB11C766BD357D203879BD6BEE041A4690CC3DF": {
-    "name": "Gate of Labyrinth (Japan)"
+    "logo": "QmaoZ9edyecfF5oRyMqjRJkVwak8d82LoBWZYSxdpM2ycQ",
+    "name": "Gate of Labyrinth (Japan)",
+    "vid": "QmbiUWVQY8pcsQ9WMbxKSL51h5gzakAm1MtevVJHSLKR24"
   },
   "0CC6C30C6918FCF780E57D40F58A4CF2A82225CD": {
     "name": "Inindou - Datou Nobunaga (Japan)"
@@ -201,7 +257,9 @@
     "name": "MSX Audio (Japan) (HX-MU900) (Program)"
   },
   "0D2F86DBB70F4B4A4E4DC1BC95DF232F48856037": {
-    "name": "Super Pierrot (Japan)"
+    "logo": "QmUwT53QrU5AaHLCBEGXbMx6nZje9cDpPTk3YAKU5RWg9P",
+    "name": "Super Pierrot (Japan)",
+    "vid": "QmZtzFBsAL2FuJ1NYUXJxvQLWnLGi68jgnEYw1QsUijGsc"
   },
   "0D459788B6C464B50CBC2436E67A2CEF248E0C4A": {
     "logo": "QmaXnRsHmggGu4rwEemH3rFoq4f5ApfPJF9je7R6KLTWtF",
@@ -215,10 +273,13 @@
     "name": "Aliens - Alien 2 (Japan) (Alt 2)"
   },
   "0E06519E68C78A8F018152511F4F13374C5856AA": {
+    "logo": "QmYFQx1MuirWNedxPj2CgSPjQiXKSNA7peqk6QfnU8gGTV",
     "name": "Shougi 2 (Japan)"
   },
   "0E5062BB18B4A6FB93A89318772928874DD4D6EA": {
-    "name": "Starship Simulator (Japan)"
+    "logo": "QmVXobCr2Bx3diHCDWFyJogknfFzVYHtD5ujWsDCSBN8MB",
+    "name": "Starship Simulator (Japan)",
+    "vid": "QmQntHbbZtCCyuCkYujYWY2gdLbARY6qzNEmrqqMyyHcKo"
   },
   "0EB3A48A8AB90826726F0C06DAADF4BF13390758": {
     "name": "Jansei (Japan)"
@@ -248,17 +309,23 @@
     "vid": "Qma7Hyy1KBjQ1KorzuRECiLg8sAW7sVDjnffsbabkyJ8t2"
   },
   "11E2F95D1B58E1244EFDA761603A2AE6D0090D18": {
-    "name": "Car Jamboree (Japan)"
+    "logo": "QmZfboeXNm5qAPqGEEjnduUnt7RYYguCy67xE46igeak5A",
+    "name": "Car Jamboree (Japan)",
+    "vid": "Qmd4ZsDqy7bUNXF1yKqAmhhfEBPmZmwQqi4akq8EfMJKMB"
   },
   "122F659250A0AE10CE0BE0DDE626DD3E384AFFA7": {
-    "name": "King Knight (Japan)"
+    "logo": "Qma2kmhiCZMyHZzLpFN6HYLTqXHsm8iCiUr8w3FZciiP3M",
+    "name": "King Knight (Japan)",
+    "vid": "QmPWofusVMdSskrUajEapqD8zWBsRrsXBKS4QfPNrSN4tE"
   },
   "1231984AE24BF35F9F38596B864420D8CCD3F30B": {
     "name": "Beam Rider (Japan)",
     "ref": "F51F936887498D21F6EE9FE8A7701633BE67E79D"
   },
   "12B3C31F0FD10FF5823DCC8BF6DFEB785A8AF2F7": {
-    "name": "Genghis Khan (Japan)"
+    "logo": "QmQLLPir2SeBN1A1duX4s2GTzBWConikohX1TLRZw7Up1v",
+    "name": "Genghis Khan (Japan)",
+    "vid": "QmQEknAdKLcUQ4JMce3gMwdo8Soqw3xrgnAWu3j7efEZYy"
   },
   "12F6F31F495BFB384C9CA9067BFBF8F98AF6ADF9": {
     "logo": "QmVdhpq5ZbsbiijF4u4fCf3y1Dssx3tY7Z6MMGHcTHPFiB",
@@ -269,16 +336,24 @@
     "name": "Balance (Japan) (Alt 2)"
   },
   "136D838CC1297940D96CD8E27AEA9F9E3C7088A6": {
-    "name": "Sky Galdo (Japan)"
+    "logo": "QmSUyBimHcPufZtnU5LQDf2uY6JVN71m1e9NqS5Hrfkzjj",
+    "name": "Sky Galdo (Japan)",
+    "vid": "QmbBT8DhmEwq9RmAg6TcepeQAAa6is8vbMiXyxcUQmTV3m"
   },
   "136F2DEDD45F4419837EB1E4E623CB1DC317EF39": {
-    "name": "Thunderbolt (Japan)"
+    "logo": "Qmd8NAxNYD5F5gwkycPXpjrN7Wg2Wd8jeLgdUjg11tsmTR",
+    "name": "Thunderbolt (Japan)",
+    "vid": "QmPFuKTosvFaWZgXYxHnczJ9xT2wDydA1qJmbCpqckMhJF"
   },
   "138A2D56237AEA915BAAEF85E69425A658506CFB": {
-    "name": "Futbol (Spain)"
+    "logo": "QmcFNbBDYoFyHgHqSSgM7N2RYEG3oscsckKKAXAWxKFGhc",
+    "name": "Futbol (Spain)",
+    "vid": "Qmbk42irLzxETxsdQUVGwWppCnvwvrmjmkWDSsvGCGuQnW"
   },
   "13D38CC80112BAA9BCBF03569988C163015D434C": {
-    "name": "Albatros (Japan)"
+    "logo": "QmdzUTFHtb6FFHbcwcRJpXGBRFxntJLeLzX5cPkTkG3FhN",
+    "name": "Albatros (Japan)",
+    "vid": "QmT1pN9CJbWWqyXC9ttyKR8ti8X72mUeeViPUKVf7reb73"
   },
   "13FBB273A95481330D33C9EDC4263E30CCF1774D": {
     "name": "High School! Kimengumi (Japan)"
@@ -295,64 +370,94 @@
     "ref": "33EC3136DFB6FD44014C8BBFFC8AC79C3CAFE75C"
   },
   "14F2D64D05E2E53E876E3D6AF0A5711E557E3C96": {
-    "name": "Tawara-kun (Japan)"
+    "logo": "QmTA1f61jYthzfQTrRdaEHt7TghaqUmJw4ooW9oasQhR24",
+    "name": "Tawara-kun (Japan)",
+    "vid": "QmXvspzmQQtDPswSvAKP8WpgPYL8LKqf16u9rQw6RpdBqG"
   },
   "14FAE375B81C86F71E872ADCA792C23AAFAC66A0": {
-    "name": "Boulder Dash (Japan)"
+    "logo": "Qmf93FDYngYmyMgjXQex3eLv9AjBaUM7rgop2bP9MvFLVj",
+    "name": "Boulder Dash (Japan)",
+    "vid": "QmcGuZET9hriQv9SPvcoQQtKhx7xXkhmM6rGk8Rh8PyPMa"
   },
   "14FF6FE464362C6B7DBB47B2ECDA3A8C5F05EF79": {
+    "logo": "QmbRpWjWBCpykuiSPhp8c8QwdxQqjCenub4egYnt4a26JD",
     "name": "Sangokushi (Japan)"
   },
   "1500A07693A7C06189F4CD6764D5EE62F0EDD85D": {
     "name": "Roger Rubbish (Europe) (Alt 1)"
   },
   "15345C8745028C96FC79036B2E3E180AD2F62DAB": {
-    "name": "Haunted Boynight (Japan)"
+    "logo": "QmYqMoYaBNWYn4vpaHn3rVmnfgKi7m7ssC8uCCWQqjc2PP",
+    "name": "Haunted Boynight (Japan)",
+    "vid": "QmWo9oixfCVRfxSU6XAdKJUvef1mxXYDcPAJCRo9faewKi"
   },
   "1545566BD7DECB1612009DAA2DAA71758FA6E4A1": {
     "name": "American Soccer (Japan)"
   },
   "15CA962994FD25A56BEE2F543A83F133F9D2265F": {
-    "name": "Ladder Building (Japan)"
+    "logo": "QmRtdGoJbt7Jcx9tCex2oxcqMknxRECJVs3ePqopimnmfo",
+    "name": "Ladder Building (Japan)",
+    "vid": "QmbVD5TcEA9yYwYknUAEUUAJ5rkaWxMt5v1FyCY12y9WQe"
   },
   "15CC2F7412373253E908689A778738D52656AD74": {
-    "name": "Xyxolog (Japan)"
+    "logo": "QmSME8vmayMY7frse9ymfnEHGyDK7BBLbCoex4Rs51nB1J",
+    "name": "Xyxolog (Japan)",
+    "vid": "QmWTXeNMPFH2mEMvZEuvwEMEFQhDCEWQb2pVVXYihwUQFQ"
   },
   "16351E6A7D7FC38C23B54EE15AC6F0275621BA96": {
-    "name": "Syougun (Japan)"
+    "logo": "QmaNiGfsfX5J6SZzkEwNfNYjNS2N8Zebujd7JCzYZCHfB3",
+    "name": "Syougun (Japan)",
+    "vid": "Qmb5jNm7KAD3FhRnXoCZB73TUVVXcsVxLREoakKBMZiyop"
   },
   "1642891B693DF616F27431299352E1D7750AC94B": {
     "name": "Arkanoid II - Revenge of Doh (Japan)"
   },
   "16553C30FCDD0E1D00A48FE1CB2DEF537C4A7C3F": {
-    "name": "Super Columns (Japan)"
+    "logo": "QmTuK6TpJwPEzuAXVWXtUBxKyjSBFKHoezdzsmWb6ib8dT",
+    "name": "Super Columns (Japan)",
+    "vid": "Qmf6cSyqaXw83nd89kBfniKKVpdA18CCHrCz2Fy4tE5tLv"
   },
   "1672AF5BC1740480E8302F7690589EA5B5391BCB": {
     "name": "Wonder Boy (Japan) (Alt 1)"
   },
   "167B226B54CC5B681A69D2C1509116FFABA868E4": {
-    "name": "Ice World (Japan)"
+    "logo": "QmXGEgoMHmsP79GPmfa9w3njXzhmQuP1tQjT36me6G5trv",
+    "name": "Ice World (Japan)",
+    "vid": "QmcWDJB4jFtrCjbd3xsDkLZ2edj4khZikXjYFfKTbTdKUb"
   },
   "16C3CED0FB2E360BC7C43D372A0A30EB6BD3963D": {
-    "name": "Borfesu (Japan)"
+    "logo": "QmNW77S9nkJdCVedFF64kDArCtkpBstGs9XbNECCspfEds",
+    "name": "Borfesu (Japan)",
+    "vid": "QmRtrxvdUsjCMn968Dpz8q1E8CvrGBF46rFF69PtSzRhEA"
   },
   "16C692A2C9BABFDADD8408D2F0F8FAE3A8D96FD5": {
-    "name": "Psychic War - Cosmic Soldier 2 (Japan)"
+    "logo": "QmTBfmEcMwc1C8Cw1qUpvgFPiXFZuUYtoSjJLyptKFCLSt",
+    "name": "Psychic War - Cosmic Soldier 2 (Japan)",
+    "vid": "QmZX1soj38d995iRozFmWJgcF2aJc5Mi8PJrR7Hu9R7YKP"
   },
   "176EC8E65A9FDBF59EDC245B9E8388CC94195DB9": {
-    "name": "Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan)"
+    "logo": "QmanVJr3EkUNaX9MhqB959y1Bw7gbeTizYvUkZGeCFbz2L",
+    "name": "Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan)",
+    "vid": "QmTgpL7o24UwhzJqnrTB6wDWENVJFt34xNNxYmhGcFnY5w"
   },
   "17AC538DD63BC93EC0B88B6DD92079E807C22908": {
-    "name": "Mokarimakka (Japan)"
+    "logo": "QmSw6dEQMLwm4pN8WcNBu78rxxQDE57xTiuncXZTJ95qwd",
+    "name": "Mokarimakka (Japan)",
+    "vid": "QmYH5ohWDZC9ssnAQ41vYmXYngfBK45RegW4s6SbrmzUFL"
   },
   "17D6DB13D7D76FBD110F53B168AB0001C7E65817": {
-    "name": "Casio Ski Command (Japan)"
+    "logo": "QmNzUKPpKFXpkSqoXWjdzN4VHQrioRHuJs1AzLh5gSrUe2",
+    "name": "Casio Ski Command (Japan)",
+    "vid": "Qme95x4Rt7dk1P5t5L2CfmqfE25quMdoyBdKJqzNVBgicz"
   },
   "17E1111B1D6AA80E8BC525BE345C25E3B00ED504": {
+    "logo": "Qmc9KNByvCDZTDHwACgudjcn5FZRHBZfPjzfRojihxagzs",
     "name": "Jyankyo (Japan)"
   },
   "17F24B9339291DEA40D2ED36517F223B9E4F49E1": {
-    "name": "Coaster Race (Japan)"
+    "logo": "QmVrFNEmECmBEWcKvB4yEgdCJCJSqLWy36ipiZ953N8RX5",
+    "name": "Coaster Race (Japan)",
+    "vid": "QmfMzoW1GY9cH4T35Pmw8ikLvn2t2jxkPmjBjNvktkcywz"
   },
   "1804CFBC4F175136B7B934B575D49CBC0E726FFE": {
     "name": "Hades no Monsho (Japan) (Alt 1)"
@@ -361,16 +466,22 @@
     "name": "MSX Basic-kun (Japan) (Program)"
   },
   "18B90AAA2284EB46233E9203AF1E8CF1922C417C": {
-    "name": "Square Dancer (Japan)"
+    "logo": "QmPzhzDYHD98H8TdN1HbB7dxtDd5m2nxqLME55V3aSUk6s",
+    "name": "Square Dancer (Japan)",
+    "vid": "QmW8sqjupvpirusBanc7VH7huwCfZ7D6NeXtznf8ze47Bf"
   },
   "18BE429F8B5C7BC4775C99292110AA09341CD644": {
     "name": "Ultima Exodus (Japan)"
   },
   "18E87E15B09EC2FDDC52FAD10EDC57918FADEC34": {
-    "name": "D-Day (Japan)"
+    "logo": "QmQCsCMRAN3KixwH93SR4CXvuYA6e83Hfy9j6TyxvH6Yh3",
+    "name": "D-Day (Japan)",
+    "vid": "QmVEQU115DikQZ1r9U1S5zsRjiM5yXPTwCYDfnW9PEwyeg"
   },
   "190BCAB0325DED99F42F32976BF965F0164AD2A4": {
-    "name": "Peetan (Japan)"
+    "logo": "QmQ17zoPNK2ganwyBEPL8NhqKn78u3KehWtrLZqQrZeLUh",
+    "name": "Peetan (Japan)",
+    "vid": "QmbWSCQrDEg2vgXWe346K48XqnEGNV1Y5dGgWiCB31mFKH"
   },
   "19C610339C0480C3D2D0D1C21E3CCBF2179BB191": {
     "logo": "QmTwLshQiXzeRui6RHgbCpiHaHSFmJgceShxdWEiD4JUjy",
@@ -381,19 +492,27 @@
     "name": "Anty (Japan) (Alt 1)"
   },
   "1A5295A337E5B969C939644CB5AD55B84A6AD31D": {
-    "name": "Super Tripper (Spain)"
+    "logo": "QmPWZ526K7e1zuQXwe2U1arfazDypSc87iNoNKUFQQu2bT",
+    "name": "Super Tripper (Spain)",
+    "vid": "QmPZvVQgKmnJ8gx2dSiMg7d3jkTpdoDAx3SQtUt6aoBiBu"
   },
   "1A6A751334C663FBFDF93F617A7D779F76F488CE": {
     "name": "Back to the Future (Japan) (Alt 1)"
   },
   "1A6C5BA03E0CC76F7E001784E1A205375F5602B8": {
-    "name": "Yab Yum (Netherlands)"
+    "logo": "QmR9ozLCSSQvFiGn7R7NxNJhiVCLJEZcw5tdtF4SGzvupg",
+    "name": "Yab Yum (Netherlands)",
+    "vid": "Qmf94sU2wbnMd84equDnYEWP5EsUVwwWgEUbMfhwkNAY8J"
   },
   "1A6DE1CFF831429394DC2B9528993A1DFCAE14C6": {
-    "name": "Saurus Land (Japan)"
+    "logo": "QmScJ4DLUiRArm1kJJidmctLyic4jsPqAgH7rReSVshk5F",
+    "name": "Saurus Land (Japan)",
+    "vid": "QmP9sHXd8fBUy3DiTHnKKeYfELMUb38zBbuKHDhC26S97T"
   },
   "1AD2178C27874704B395AB250200D9ACB7D3DE9C": {
-    "name": "Pyramid Warp (Japan)"
+    "logo": "QmTxU22qApL2wh9UVKGkuLe4EHt1JgPY3NfeLB8iPAZHeL",
+    "name": "Pyramid Warp (Japan)",
+    "vid": "QmWZnxZq2m46U2aNKcFSdtBeFQemBBhStdgm7zrMeDh1rr"
   },
   "1AEAE1180471E9A6E8E866993031B881A341F921": {
     "name": "Jagur (Japan) (Alt 1)"
@@ -412,16 +531,21 @@
     "name": "Dires - Giger Loop (Japan)"
   },
   "1BDB1898796E2B48B62A356035192B163113962C": {
-    "name": "Beach-Head (Europe)"
+    "logo": "QmQSpLUsdGFth8KiGwrX9WEf6QbBkdvEk1gGg6gQsMwoP5",
+    "name": "Beach-Head (Europe)",
+    "vid": "QmdNdvGkj8oiyoyHb7zCDyNmCa43gYBx5f5nJGm5Tqfbrp"
   },
   "1C17E58F1A602E07F185BCE1AA8589FAE76E8B44": {
     "name": "Mirai (Japan)"
   },
   "1C462C3629D43297A006BA9055B39A2DCCBA9F6C": {
+    "logo": "QmYqW2HWCBwNe6rJMLy94hxe5JdWSzfKf6CVnT661CQ72i",
     "name": "Karuizawa (Japan)"
   },
   "1C4DE8D4A1CBF5AA2BCF7816A1E55EE4584F59FB": {
-    "name": "Shougi Sinan 1 (Japan)"
+    "logo": "QmbsAMw4eJHmnzTxYSrm8qrrkQJM7YLzdGHHr73rcmS859",
+    "name": "Shougi Sinan 1 (Japan)",
+    "vid": "QmYBckejb1m7jAhBSoRzrWMob46QYCPwprB2NnWvKhuhi9"
   },
   "1CBD5C7849F97DEA1E3375A842F784FF9283310C": {
     "name": "Moero!! Nettou Yakyuu '88 (Japan)"
@@ -431,20 +555,27 @@
     "ref": "0C62591033AA4E5E6B9EEB21EB2E5E60DCD8EE8E"
   },
   "1CE1EBBB0F62224AA776C4523E2EF708154E7B52": {
+    "logo": "QmdiJtix5E1cx48XRY6U7AETX9NXt72oBgVH6rLi1UApKb",
     "name": "Gang Master (Japan)"
   },
   "1CF39E12313FF3064353C136262F176A56AB20A6": {
-    "name": "Come On! Picot (Japan)"
+    "logo": "QmTS4zEHRMCpEUGRysAfoozqa58D6p3dT4DRd7djYsa8ns",
+    "name": "Come On! Picot (Japan)",
+    "vid": "QmUDpwYfouzmqtSBDv4ewkAhuEeyzazRuJjEpj5qnnPo2A"
   },
   "1D129BDE09C9DB2433B334D36762704DE94983BA": {
-    "name": "Spy vs Spy II - The Island Caper (Europe)"
+    "logo": "QmTHYGHD5yeFEkyxsFr4KcSDDLQy6e4Z9tPGtF35wXWdJh",
+    "name": "Spy vs Spy II - The Island Caper (Europe)",
+    "vid": "QmXsL6mGzmYV49uQSAVgtjMQhBBwAnpBLe9HcZtCexGjVq"
   },
   "1D6A355A9CE84C78E3BAFC27A4F1151E240F68F0": {
     "name": "Knightmare - Majou Densetsu (Japan) (Alt 2)",
     "ref": "C8FF858D239C62A859F15C2F1BF44E1D657CEC13"
   },
   "1D81E6CC165B3330B9B3C8B4F4DA0417B1AB901E": {
-    "name": "Alpha Squadron (Japan)"
+    "logo": "QmdAo9nTGLFQotRpqAtVmLcyypjCeUyCswF9VpTeAGV22h",
+    "name": "Alpha Squadron (Japan)",
+    "vid": "QmajibZBfcspoxWFMPbRJMZnQFSdxVXSgwgQhpNSYv1QkU"
   },
   "1D97922A5AB63E73611D0EDBE952F041AF3385B3": {
     "name": "Nekketsu Juudou (Japan) (Alt 1)"
@@ -456,7 +587,9 @@
     "name": "Final Justice (Japan) (Alt 1)"
   },
   "1EDABC3226648B54AE98D524B31F37CA47C8C88B": {
-    "name": "Rock'n Bolt (Japan)"
+    "logo": "Qmf5Aa7z1wjzry5kgZpZHQNSvgCfREtWRrh464pnc2b4PN",
+    "name": "Rock'n Bolt (Japan)",
+    "vid": "QmYiJadwb2pnVbkdGug5DUVixWB6MHMzn5q2P5TYkFYzBe"
   },
   "1F17E46190635A3214057D33AD4A768939D5A071": {
     "name": "AcroJet (Japan)"
@@ -471,7 +604,9 @@
     "name": "Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan)"
   },
   "1F72E0CD58AFE22075A129AC854BBDCE0704B0C8": {
-    "name": "Queen's Golf (Japan)"
+    "logo": "QmNrWWCwAk7sG7qHfKf52oFYx37XG2RF2uZFwbB2N8CEFQ",
+    "name": "Queen's Golf (Japan)",
+    "vid": "QmbgvboyusfcTqqTAyc8qKphx93Z3eg6NDMP9CFL1RXZDN"
   },
   "1F8334DC7459CFCF2AD132E94976015C02E51390": {
     "logo": "QmanrLApGtNyEXfr1Ri93er6CVe5LvQsnwKjFe4UE34Qhw",
@@ -479,33 +614,47 @@
     "vid": "QmcHdgAtNqwZ5Jc4yd7K27xgxCVEUV7hs5omXvUtJN9iag"
   },
   "1FA7398005FB0BD7075141035E8D888197162030": {
-    "name": "Stepper (Japan)"
+    "logo": "QmPUMbotPsRoGSbH1SuttfMo95oddvJZwiXcw8keuttE6f",
+    "name": "Stepper (Japan)",
+    "vid": "QmVz7X52cNGT6PL2ysSB4Rr2q11mktubUifVGjQVMZXyFF"
   },
   "1FB861152A9F3F9C2B2DACE26D5F1D93AB9B4AD8": {
-    "name": "Mouser (Japan)"
+    "logo": "QmdHPDHUnfRskVfjcynxvvL3BDEhtb1a9UNx5QHoT3x7JE",
+    "name": "Mouser (Japan)",
+    "vid": "QmdYKhG5pSymtHUVpgcENk946NpgqSgpoRhN35otgAYAfn"
   },
   "1FBD7AF23177AB1DE799764D8A26BC2BBF85B042": {
-    "name": "Pinky Chase (Japan)"
+    "logo": "QmZJk7q9BXd1rpcswrqXwm2oQv5AKR6Tua5zTF31Z4CUtQ",
+    "name": "Pinky Chase (Japan)",
+    "vid": "QmZPjpV98X1Nsohpqndr1aSp9grDSh5xUREniDNzbhy3yQ"
   },
   "1FC9D3B54A617E57FD6ED10F2CE3C01456710E37": {
+    "logo": "QmSnKkUn8oFCspA4nUKAHdDPgJ5FwipubWY5Ydcy1EdhSg",
     "name": "Computer Nyuumon - Computer Lessons (Japan)"
   },
   "1FFEF57E6C06068B330027294AAE173103C8F141": {
     "name": "Bouken Roman - Dota (Japan) (Alt 1)"
   },
   "20191B437958E990D14660F476C340E140236C70": {
-    "name": "Heist, The (Japan)"
+    "logo": "QmXVdvtsKenAhNCcp7s9RzNYpmVw4YbvNFEiVT1rWWthiw",
+    "name": "Heist, The (Japan)",
+    "vid": "QmZ9GBmFgSq2ytgs8J3jvQ3Thuh1gXDtSLfzh8dewyitSU"
   },
   "208CE6CBFF7402BFE52B1062E6B10AE09C0A3179": {
-    "name": "Brain, The (Japan)"
+    "logo": "QmU4MtRSgVwspdE6ZbycmEJuLyDVPT7MC5agyAbo4fQSey",
+    "name": "Brain, The (Japan)",
+    "vid": "QmbUseGthSjMjz5kE5bXV8BKZnDibGSCHCeVZCBWRqxnG6"
   },
   "20A2E3D7966916F46EB26CC1AA226EC2D11646F9": {
     "name": "Music Editor (Japan) (Program)"
   },
   "20AEB411AB5ADB9BD3DB412A7837E496969F8CE3": {
-    "name": "Chess Game, The (Europe)"
+    "logo": "QmTiyxsq5r9jzHWiM2CQLUKWqYQz8PXPuMNRRNPDwEise4",
+    "name": "Chess Game, The (Europe)",
+    "vid": "QmS6qsNdUY9EyUkCRenpzWnH6dcZoCKHmzp3rnzn14Yr65"
   },
   "20CE189D670C0FE5F2A945D73107DF7D83070FF7": {
+    "logo": "QmZMcUEJQihuYQVsD7RUsmgLPM2h8fyq59kCQbUGt6Vox7",
     "name": "Chugaku Hisshu Eibunpo 1 (Japan)"
   },
   "20CE82112BA0C50063667D61E43979AC464A3BB4": {
@@ -522,7 +671,9 @@
     "name": "Family Automation Language Community (Japan) (Program)"
   },
   "2183F07FA3BA87360100B2FA21FDA0F55C0F8814": {
-    "name": "Arkanoid (Japan)"
+    "logo": "QmXQzrxMsBCP3T4eC9U3ZEjTqATjqhPhZtJupiEg9dZZsa",
+    "name": "Arkanoid (Japan)",
+    "vid": "QmfXNARexfrNnxbn4izstSuZjBSmzCY9bBQ5JNe72UqTJ5"
   },
   "2185BE579CB51729F66BF02BDF3A7B6A3CBD7B40": {
     "logo": "QmUyGfTfdjkiKr7jvMDeXLJ7cLVF68Ev7TgP2gHMzNT3N5",
@@ -537,7 +688,9 @@
     "ref": "AF567EA6E27912D6D5BF1C8E9BC18E9B393FD1AB"
   },
   "221C76D6AC483FB1F11C87D37B9617F1E1D7BC6D": {
-    "name": "Sweet Acorn (Japan)"
+    "logo": "QmUjxk9z941wcudKeUZqTcQfDfAuKonvD4vXBbjy65fAwW",
+    "name": "Sweet Acorn (Japan)",
+    "vid": "QmSETaXMG54CMLsw3zdDub1Mxf8U8xPH5rLmsNzvg7Bwsw"
   },
   "2220363AE56EF707AB2471FCDB36F4816AD1D32C": {
     "logo": "QmXqPxGrGBMfj68Z6z7axw2B6aWYKFbPC2vhkKYsc9BW8p",
@@ -545,13 +698,19 @@
     "vid": "QmR6YmGyetuBmoafKE5H46QXWc6qoYEXGNUVc2gH1duGS9"
   },
   "223337DB25C942ECE732214ABA5DD624B574E9C4": {
-    "name": "Karamaru (Japan)"
+    "logo": "QmbDyVPG4bkRriBAZJVjK8KUL7useeuwGtH41ZP6PWzWr2",
+    "name": "Karamaru (Japan)",
+    "vid": "QmXBkCyLpL9yD4ZBFqUUoG9v3YjJkZRfV9W7qsQFgH8CAX"
   },
   "225894DA7E3AFABF33ABF05E519E1F6BCAC77A21": {
-    "name": "Star Command (Japan)"
+    "logo": "QmTwd1LVwGUMtCxacx6jj11RBNDxvFLQRqo2DDwcxtyEzy",
+    "name": "Star Command (Japan)",
+    "vid": "QmZCvKeEDQJtEERnt5RnjWgmYLVWTtA5uSCkwtTuBLXuD3"
   },
   "22C7ABE6C8F4B7897ECB583D4913D35B5F62C5E1": {
-    "name": "Exoide-Z Area 5 (Japan)"
+    "logo": "QmQNPhMvRCSERT4GZfbf9UVKUCdM39ZpaGJKpA8JdazKkb",
+    "name": "Exoide-Z Area 5 (Japan)",
+    "vid": "Qmf81BASBnEsDH4uUYqKHg1Cc74qddhb76CVhLBe7ta7Vi"
   },
   "22F5998B4DE47BF2CCC077D5881AC448E6B0484D": {
     "name": "Empereur, L' (Japan)"
@@ -567,7 +726,9 @@
     "name": "Doki Doki Penguin Land (Japan) (Alt 1)"
   },
   "2391AE8C961B4A38B3BEAEE9ED3362FB2C71851F": {
-    "name": "J.P. Winkle (Japan)"
+    "logo": "QmZuY6XURgNLpC8oJWZUHm6dooptM6pPKN1mqqxcgAf1FP",
+    "name": "J.P. Winkle (Japan)",
+    "vid": "QmTxPmcKJ1DUwFU8RFqFn9X7LAainRu58GEjmBZxxK9y9K"
   },
   "23E702084E3031158A50A0560746767BBC1B7BEE": {
     "logo": "Qmaj7EUNYyQBjsYgwDSNreXJPaZC9g6u6wdPVvGjmPUd4r",
@@ -575,7 +736,9 @@
     "vid": "Qmdf6gjd3jFPaWukPpuL3UGS7ZMnCZUhodoT5zPLRu8xnm"
   },
   "2418C0302ABBCE8B0F8556B63169C60A849F60EE": {
-    "name": "Daiva Story 4 - Asura's Bloodfeud (Japan)"
+    "logo": "QmNoM5yd2nqve3zVMP4CaHMSPtACzgGdHjKz1PnC37z71r",
+    "name": "Daiva Story 4 - Asura's Bloodfeud (Japan)",
+    "vid": "Qmf6kq9tYZu3NkjqHs1EVRbPRqT4AH6T3dEYhfURWf4g6y"
   },
   "24384E63BFE450BCE6ABD327EAE3E27969025379": {
     "name": "Scramble Formation (Japan)"
@@ -584,10 +747,14 @@
     "name": "Oil's Well (Japan) (Alt 1)"
   },
   "249DA12E2711C643C5E18CF96184D33DBF7E2305": {
-    "name": "Tensai Rabbian Daifunsen (Japan)"
+    "logo": "QmVV7MEVjZsVpWwzAy9w9qJkQFqTcCbhNKiFJHRvzjua7X",
+    "name": "Tensai Rabbian Daifunsen (Japan)",
+    "vid": "QmU4hqkWyRM1GAWSGvoBbwDsaR48Lqd2zWiTDUBMj4j3co"
   },
   "24C5CBF1EE4CAA6D83A5AA7A5F3818692542FDA8": {
-    "name": "Professional Baseball (Japan)"
+    "logo": "QmT9h5eaG7FALWYvgjDvJxJPvYwSngZ8rHQ6RBa5qtZhoX",
+    "name": "Professional Baseball (Japan)",
+    "vid": "QmbQGeDu6mb8FkMJQsN1B4DqNMzcQ5SmxTfaf73QPpQDGL"
   },
   "25022C4F5CFC805E93026FD5FDA781E9A1807474": {
     "name": "Hai no Majutsushi (Japan)"
@@ -603,10 +770,14 @@
     "name": "Galaga (Japan) (Alt 2)"
   },
   "2588B9ADE775B93F03FD4B17FD3F78BA70B556D6": {
-    "name": "Black Onyx II, The - Search for the Fire Crystal (Japan)"
+    "logo": "QmQqD2nwwQ4AHvMda2PfAYowx5iPagniqPSWe5xSMZXkXA",
+    "name": "Black Onyx II, The - Search for the Fire Crystal (Japan)",
+    "vid": "QmTuPbD2VQCuhoEe9ZR9aEY9kp3uWt24HNMGMvGwAxDqHM"
   },
   "25F5ADECA8A2DDB754D25EB18CFF0D84E5B003BC": {
-    "name": "Knightmare III - Shalom (Japan)"
+    "logo": "QmU68XYa3CC699HAStpXGnnSCP8U7qw3xXJgPdKjmV6vib",
+    "name": "Knightmare III - Shalom (Japan)",
+    "vid": "QmVri6yxD5t9zvKGFX8xEL5uNBbmdVjLk4mD29vPWScxXg"
   },
   "25FFC7E8CA90274566C31E10B5998CCA6522673A": {
     "name": "Sangokushi II (Japan)"
@@ -615,39 +786,57 @@
     "name": "Aliens - Alien 2 (Japan) (Alt 1)"
   },
   "26FC48DDACA0FEDC90FC151D4ECD5CA6D1CCC77B": {
-    "name": "Hang-On (Japan)"
+    "logo": "Qmf2LnnER7oLRSyZZwb4AjQUKNXADQXmvP3RbKAH1qCy9W",
+    "name": "Hang-On (Japan)",
+    "vid": "QmfEaybaSdgxnXTfAnTVU77QkDYR2mkFCxX63gm2iSpUhf"
   },
   "2729BB0E68A64AF525DF4C5D9687BAE07245980A": {
-    "name": "Manes (Japan)"
+    "logo": "QmTTwfc8r59hvyYQSYWMopkeeACr5jproL8D5ZFqH5ciKp",
+    "name": "Manes (Japan)",
+    "vid": "QmYuNxKNNivqg9tR89Kdd9LW1xavWiqWp7Mfk2ufzsgKv4"
   },
   "27847B02D2ACBEBAB61F2F05BD2FFF0C2291A09D": {
     "name": "Hudson 3D Golf (Japan) (Alt 1)"
   },
   "27A487E56721E947C1F46644F2F8A50156DDA82D": {
-    "name": "Daidasso (Japan)"
+    "logo": "QmTsHUwS1LL2NqAMYHFvsyjaJkbnz5XmrRXK37ZchwD88k",
+    "name": "Daidasso (Japan)",
+    "vid": "QmPsyvJohnnZxiABbttTCPtAfEhzAM7ppJr2wvrkN33i4a"
   },
   "27BC809518FBB6C0D52C949E7CBE81980A801D32": {
-    "name": "Pairs (Japan)"
+    "logo": "QmVnkXtrcy68WrazKBG1EJnfggYCsUyKJrFzB8nGkzEn9x",
+    "name": "Pairs (Japan)",
+    "vid": "QmXLBvpAHbJS1czVwquH3NeTt3XQnc1vQeaRCYmgqwdsFd"
   },
   "27C2CDEE4BE0CA166C2EBD2DAC61115A56BB9856": {
-    "name": "Super Golf (Japan)"
+    "logo": "QmZRUoyhY7A69dVvM9dzaA9SQb43VoPQT4vm44NSTwnukm",
+    "name": "Super Golf (Japan)",
+    "vid": "QmdzatuGWkB7CE4WSFJrCSYnCov4KvxDdC49eHik3PJyon"
   },
   "27C40EC7013C1AD1F9A7E1AC1E0C8BE99F1E703F": {
-    "name": "Anaza - Kaleidoscope Special (Japan)"
+    "logo": "QmREfPLW2DyThuY83VJnqgVLu6nQuru9Akxs77VPgB8RvC",
+    "name": "Anaza - Kaleidoscope Special (Japan)",
+    "vid": "QmYMZpgT7EYvncJgJKatLhqJVnUS35o6GJezK6bAau52oW"
   },
   "27CE427EB1C86BA22707A6EE9086DB9D39962DC6": {
-    "name": "Step Up (Japan)"
+    "logo": "Qmd79GKsRmtYMn3tn5Fr7W1sigkmH2b3523pdw2dt3WoCh",
+    "name": "Step Up (Japan)",
+    "vid": "QmYCFkuo71AZM5WrwWZEeSTkGzHWzSq8dfwHceCF6AonpA"
   },
   "28323E06A402747A1E131DC30CE031A339F6C947": {
     "name": "Balance (Japan) (Alt 3)"
   },
   "28AAF59DADB425C1EF6FCA860439F4E42E1737B8": {
-    "name": "Water Driver (Japan)"
+    "logo": "QmQpPvrAcbwSMCtD5QKxk452QXNCriq5gPA3qFKFhCdmwm",
+    "name": "Water Driver (Japan)",
+    "vid": "QmQj3TvNdRhoYSsAuDxa5ea9zTm1BpMTa7pJsEzi1kKkhB"
   },
   "28BF2354CDD70E30B682F40B734029ECE44D70BD": {
+    "logo": "QmbW3RimJi9TVmctfA34pe1n7WXZKCPxwGXnRoHEjoa8yF",
     "name": "Eddy 2 (Japan) (Program)"
   },
   "299E52DFBBB94ACE4FD1EF59ECE45364CE0BB450": {
+    "logo": "Qmb1vLaNDbPkyCPYxq9253at1KiU2FNmNKFqGzKzbFWVhN",
     "name": "Shougi Game (Japan)"
   },
   "2A0F9899A4D8DBA76DB501D6E3435546CC7CD9AA": {
@@ -671,16 +860,24 @@
     "name": "Megalopolis SOS (Japan) (Alt 2)"
   },
   "2B10234DEBD2A6A9A02E0750BA6563768BC4A2F3": {
-    "name": "Mugen Senshi Valis - The Fantasm Soldier (Japan)"
+    "logo": "QmRaJHiFeQi7zScnKg8MVDkXHtU3kxW9GmeHyMey97afqs",
+    "name": "Mugen Senshi Valis - The Fantasm Soldier (Japan)",
+    "vid": "QmePfFRfdP4CSTndouRxmQqwNjuu31RWTgKYQExA5ef9Ef"
   },
   "2B255C3E5615B2F5E2365419A35E4115A060E93C": {
-    "name": "Senjo no Ookami (Japan)"
+    "logo": "QmdxQ633pEULcFkFEFgM1k3BkzhPb8JsNaak4ri5xPG9dx",
+    "name": "Senjo no Ookami (Japan)",
+    "vid": "QmapnuHYiZQnyyct9d7fkv2XB7W6YkURmkrGfnfywcJwdw"
   },
   "2B36FE2B0D98D65AB31F13FCB858DB6858A51D46": {
-    "name": "Exerion II - Zorni (Japan)"
+    "logo": "QmZJ484vnR4r2CAHTmw2sQ8pEKcfvM5AT9fDrM5X6Sv4y6",
+    "name": "Exerion II - Zorni (Japan)",
+    "vid": "QmXwTTmFsbrTVPLzRVGyDFpaw2GLPMhPyuGZyCfbi8tTy2"
   },
   "2B8878609BCC0D1555AE250D621BA6E9DF4AFC52": {
-    "name": "Back Gammon (Japan)"
+    "logo": "QmVwFqBzfJTe5rzh21sehWfDqRv1fRPLCEBkpeLNfR91Zc",
+    "name": "Back Gammon (Japan)",
+    "vid": "QmZGAGAE5yLohcNhghceVd4XtZp4x1u8NVra5qJwrdfViB"
   },
   "2BB837A9051277BA574D8351A9F91F9E57033074": {
     "name": "Fairy Land Story, The (Japan) (Alt 1)"
@@ -689,7 +886,9 @@
     "name": "Star Virgin (Japan) (Alt 1)"
   },
   "2C0C71C549738D668518DB317DD70AECEFD4AA72": {
-    "name": "Chess (Japan)"
+    "logo": "QmQXKhHuD7QYNatRivPYVTyNQiPeKSSherXb7AeHoLQYoX",
+    "name": "Chess (Japan)",
+    "vid": "QmVz2CZa5YxdzeQL7WCUKhpscEiMt113i2rudtGRkx1pJJ"
   },
   "2C85B993671DE612E9338D094565A4EB32A97EA0": {
     "logo": "QmemgvwXZNfL5rUGpynXbFPn7FiNHvYm2nqbu2GFEWzcBj",
@@ -700,13 +899,19 @@
     "name": "Legendly Knight (Korea) (Alt 1)"
   },
   "2D8E39F210DA6D633F773CDA03E9970712EA84CF": {
-    "name": "Swing (Japan)"
+    "logo": "Qme6hhYqUEdLEtva1qgbwF1BhXtzHnpa7LBiemcvUnABND",
+    "name": "Swing (Japan)",
+    "vid": "QmREBxMhNfNfu4GNQxDz2AE2afK4cmsdyuvZFbrwg4fd7q"
   },
   "2DACF7A08857CBDC706D24B4A46665113D16FF99": {
-    "name": "Gojira vs 3 Daikaijuu (Japan)"
+    "logo": "QmcCz9hAbXJfNTAFnPhgm5Qcuv7h3PJx8buNySW2obew5b",
+    "name": "Gojira vs 3 Daikaijuu (Japan)",
+    "vid": "QmZncDoBQqkoLsjsy6yJyShmLB1YKgbGkFcfq3T7mNtpDc"
   },
   "2DFBCA8F5CC3A9E9D151382EBE0DA410F5393EAF": {
-    "name": "Super Laydock - Mission Striker (Japan)"
+    "logo": "QmbGcQa1L9QkQyd4bZJEjCSKtsoNNnZkTPN4xJgsRLXPAm",
+    "name": "Super Laydock - Mission Striker (Japan)",
+    "vid": "QmbUg9WWcxZ4LrnewC7Wcs2p7ngQ9t592FgvjayiYUtb2Z"
   },
   "2E0436303648097E8E936C5467574AFF5E3F1517": {
     "name": "Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan)"
@@ -719,16 +924,22 @@
     "name": "Kisei (Japan)"
   },
   "2F0DB48FBCF3444F52B9C7C76BA9C4BD38BC2A15": {
-    "name": "Dragon Slayer Jr. - Romancia (Japan)"
+    "logo": "QmeR4nb3oRB2CGNaRZLrufKVCdTWQUHwjcrF1HpTgxQGAe",
+    "name": "Dragon Slayer Jr. - Romancia (Japan)",
+    "vid": "QmdC94jy6F7ksaGK4RiRqET3YRfDXdRGx6B4nQt75XL8Uk"
   },
   "2F4404D141ACC40E48AF0B12C70CD44B066ECE10": {
-    "name": "Zenji (Japan)"
+    "logo": "QmTCPdFExN7wwNxcAUYx1sWuzEzAARhy2sLaWNHevfp3x8",
+    "name": "Zenji (Japan)",
+    "vid": "QmdWJpA1Do6iteBibmB54VUBBmJ2jTid7kPxmhyQqT5TXP"
   },
   "2F7FF0438F1A8D80292C9E1CB8D77A92C600B505": {
     "name": "Butam Pants (Japan) (Alt 1)"
   },
   "2F8416D9CCE6587ABA4B71B1D3E3B626609CE7ED": {
-    "name": "Hole in One (Japan)"
+    "logo": "QmaQ6J3XYqwDKQgsXXE7Ri5AFwnZACPFgfVd7Gft2WsJfp",
+    "name": "Hole in One (Japan)",
+    "vid": "QmVwFv4Toc3V4gx5w5Z47FXsYpLZCrJWVaqVZN6aNYPvCC"
   },
   "2FA9C0F016EFC2D1752A272C632393F5063EA06C": {
     "name": "Pitfall! (Japan) (Alt 2)"
@@ -744,13 +955,16 @@
     "ref": "D723F2EB1C887DB5448FD56BE5E7C57E60D88E63"
   },
   "301EF3C728041EB1DFD89227A901C32EB000D348": {
+    "logo": "QmW6kTovraQAwfyF7XVf1poexjWj6x3Y8WVztZa6uQhfbL",
     "name": "Hafanuda Koi Koi - Gostop Godori (Japan)"
   },
   "304EA29469461F1CFA801F62AF0BF5045A6882FC": {
     "name": "Kung Fu Taigun (Japan) (Alt 1)"
   },
   "3063BC3AC5AF6D990D8D002ACBC9C3A18BAB71F6": {
-    "name": "Strange Loop (Japan)"
+    "logo": "QmYFomhvJ87P4ePA4CGbLiVfR86ggpY2m8Wvp968jM94ZF",
+    "name": "Strange Loop (Japan)",
+    "vid": "QmWJPhkrwvBDDPPSi28XBxhWXBq9hG7HEsUxxsWubbJZts"
   },
   "30673D173F96FE1830E579F18DAF8AC9FC3366CB": {
     "name": "Choplifter (Japan) (Alt 1)"
@@ -759,16 +973,22 @@
     "name": "Coaster Race (Japan) (Alt 1)"
   },
   "30E3681BE376A76CF9E0F89E54555A7631759E15": {
-    "name": "Gokiburi Daisakusen - Bug Bomb (Japan)"
+    "logo": "QmNrXVAvGMKv2y2bCyxPPTVhtyraL7gYq6cg8EohYw8stX",
+    "name": "Gokiburi Daisakusen - Bug Bomb (Japan)",
+    "vid": "QmemY9S7Pzd4hFWSkBSSMVsd4o3jpTXUq7s8wufuYAFRXV"
   },
   "3103F0170BAE627BDEB77108E0E782284E4581C9": {
-    "name": "Leonard (Spain)"
+    "logo": "QmSA1XJQRQoaAPNx2SV3jnzsoKT2hRHGA8qKGTua5oN9fp",
+    "name": "Leonard (Spain)",
+    "vid": "QmQSz1TrtZKFQpAUm39BRuVWtL9ZwrMoVoTubo6AkZFVjY"
   },
   "310AB424EDF15D5399E31FDBC1230DDCDE307D1A": {
     "name": "Glider (Japan) (Alt 1)"
   },
   "3137E676C37195D46FE6ACC4395D0DC4D711D919": {
-    "name": "Exoide-Z (Japan)"
+    "logo": "QmSoUF5kJ4zhdWw4qEN8xUf8xB7WnzUnQu2u286F6TEpLE",
+    "name": "Exoide-Z (Japan)",
+    "vid": "QmWLLZfqSV6SQNBDkCoZuKMrQMyhE2WPCtAEzR5463fAsx"
   },
   "3167FFC2F2411138E4545CBDF4466C3237A04874": {
     "name": "Megalopolis SOS (Japan) (Alt 1)"
@@ -777,13 +997,17 @@
     "name": "Shiryou Sensen - War of the Dead (Japan)"
   },
   "3197D73A5400A72420F91DEF6D3AA8BDCB392754": {
-    "name": "Bee & Flower (Japan)"
+    "logo": "QmNpbdWEHmxkaznFHRcth7XU6s1e58qrUjJWyp3MEFUvSf",
+    "name": "Bee & Flower (Japan)",
+    "vid": "Qmdbmcthnp17M1fkAEyR1SF36r9xansUAQhtQvrx62Gddr"
   },
   "31B452FF42624C6AC1E0141D65869DF1EABE5BB3": {
     "name": "Crazy Train (Japan) (Alt 1)"
   },
   "31D80470C8D23EC8B14256AA32F3D54DBC532D76": {
-    "name": "Cannon Fighter (Japan)"
+    "logo": "QmbP3dPFuPZHtLbLWKZvDbVwpWUmAuhsPCkozyecAtnDUs",
+    "name": "Cannon Fighter (Japan)",
+    "vid": "QmZNrF495s7Tzgnj1dacuSaJStmwgoKnK1kHnB5fK2QqdY"
   },
   "3202AF113265E67E130A0B948DC167A9F9E9CC79": {
     "name": "Super Runner (Japan)"
@@ -792,7 +1016,9 @@
     "name": "Hard Ball (Japan)"
   },
   "3243A5CC562451DE527917E9CA85657286B2852F": {
-    "name": "Magnum Prohibition 1931 (Japan)"
+    "logo": "Qmaend33tLAFBQfH1cjHraQQEifqgYsG8JKQ2pEP6JVDFv",
+    "name": "Magnum Prohibition 1931 (Japan)",
+    "vid": "QmYMjTCiQSiDyvSHyzEHvbMDXaq3avRJA57YomyCZBAEaa"
   },
   "32615267E8497DB3F5E6F5348EE309E73C80A1A7": {
     "logo": "QmerSqU5UvZPLJrqbTzQH3YNJeRPRASTjgF3h1tiX9AivR",
@@ -803,16 +1029,24 @@
     "name": "Gakuen Monogatari - High School Story (Japan)"
   },
   "33536DAC686B375BA13FAF76A3BAF2D6978904E0": {
-    "name": "10-Yard Fight (Japan)"
+    "logo": "QmSYDPCngoassWAFjSTd4SBXDmMvYfbVKBSNN3qKKap9gV",
+    "name": "10-Yard Fight (Japan)",
+    "vid": "QmbSUbmXQgVpko2Y9cPd85HSoHcVBMTDSsCaiiMEFDgbw3"
   },
   "336A7C451A03C9A55726D171603B54628AD832C8": {
-    "name": "Picture Puzzle (Japan)"
+    "logo": "QmehjDrk6DPtYju5aoDPxZH6rnyGHNnWaFQ7daj822T6DE",
+    "name": "Picture Puzzle (Japan)",
+    "vid": "QmemjPPSgkikK6SJmDMqtUj8u9UCqmSERHQiJaJsdtfa4q"
   },
   "336D714E3BC2DFE3626E55D01EE4EF74A48CF652": {
-    "name": "Mobile Planet Suthirus - Approach from the Westgate (Japan)"
+    "logo": "QmcBa6hs343Bc2LDiv9MRCDNrmNGXz4zgaHmMmFwWFF2QV",
+    "name": "Mobile Planet Suthirus - Approach from the Westgate (Japan)",
+    "vid": "QmYGuFBwrb6GEXoy4Gn8S8gqrzCBsDMKcpj44B4LwZHPZ8"
   },
   "3377D2017CC8433FA20B432C9D2328C53BBC10E6": {
-    "name": "Flipper Slipper (Japan)"
+    "logo": "QmcFG3UShikZTD2MQ8KGA7ehTYCMnGTD53rhZVC5CBDDSp",
+    "name": "Flipper Slipper (Japan)",
+    "vid": "QmWNWKTKccPJ9BKn4qtJnWT18zciHPRUyTJx7tJrQi91Sm"
   },
   "338460029D65EBCE0D9119D811187A35C866A958": {
     "name": "Tsurikichi Sanpei - Blue Marine Hen (Japan)"
@@ -842,16 +1076,22 @@
     "name": "Pillbox (Japan) (Alt 1)"
   },
   "34544106FBD29B2A72E1E8C2E0F260B79A0B0883": {
-    "name": "Rotors (Japan)"
+    "logo": "QmaVfABDFx1SBAiyUMGXZHoCAFajG6EFs8T5rwGsaNJnTu",
+    "name": "Rotors (Japan)",
+    "vid": "Qmf8xwbJeJZHaFQTBAJTE1nGnm3gozoD6YHAKQ64Z3oVuC"
   },
   "34635BF3518C7B33164F3D96DA769C7A01102D28": {
     "name": "Wizardry (Japan)"
   },
   "353E2BD901E5502375DC92A04E1686C1192FCF42": {
-    "name": "Dungeon Master (Japan)"
+    "logo": "QmVkkWzaNmujE35DaJ8AstAtJ8UUn5MZbrcqBe2bUGR77e",
+    "name": "Dungeon Master (Japan)",
+    "vid": "QmUELC9B5pFzzgLEMARNcFo4ShE3rR1nfXbxBXgJYcT27u"
   },
   "35ABD4A14033710730DA72EDF278AAD42D641621": {
-    "name": "MSX Rugby (Japan)"
+    "logo": "QmUUcJf1AeCK19r7b9sgZHHyS5jNzjnCLNH2HN9mES3AGJ",
+    "name": "MSX Rugby (Japan)",
+    "vid": "QmSWHybdMBuGFNzBEuyY2e77ESYmsgSNHVKxPeTBG59G19"
   },
   "35C02D8D590D92053F083B0C0C897277A5375AF6": {
     "name": "Deep Forest (Japan) (Alt 1)"
@@ -860,40 +1100,55 @@
     "name": "Super Monitor (Japan) (v1.2) (Program)"
   },
   "3626B5DD3188EC2A16E102D05C79F8F242FBD892": {
+    "logo": "QmVDvM3MHnL7wU2ApSSUytr4wvc5fXXTF37RPk9SQnLjxh",
     "name": "Harryfox Yki No Maoh (Japan)"
   },
   "363B5A8C94CDB63A7EE72B9D25F7B5053CAB319A": {
-    "name": "Backgammon (Europe)"
+    "logo": "QmVwFqBzfJTe5rzh21sehWfDqRv1fRPLCEBkpeLNfR91Zc",
+    "name": "Backgammon (Europe)",
+    "vid": "QmZGAGAE5yLohcNhghceVd4XtZp4x1u8NVra5qJwrdfViB"
   },
   "364AE6695509F5CF16985CC2946A45AF5CA4CF56": {
     "name": "Squish'em (Japan) (Alt 1)"
   },
   "371DE6F12D834DA07C8E67B13E75FC22618BA5E9": {
-    "name": "Ninja Jajamaru-kun (Japan)"
+    "logo": "QmVGtC7aMWkFkEYkGP7wtBwn2fknaEAxxRbMA6bh8Xk1A4",
+    "name": "Ninja Jajamaru-kun (Japan)",
+    "vid": "Qmcuy933euPa2D2Dx1UNREJtJjpDKKBFm81PW1TN8XFdd8"
   },
   "372623401599C57968DAAC0312DD9A0ABBC6BD2F": {
     "name": "Zanac (Japan) (Alt 1)"
   },
   "37BD4680A36C3A1A078E2BC47B631D858D9296B8": {
-    "name": "R-Type (Japan)"
+    "logo": "QmbPeH2Z7CL3hQobKbaUVtKVMiR4ffBXguddd89Za8AUNi",
+    "name": "R-Type (Japan)",
+    "vid": "QmbmqjZnJpKTbUVDC92SfTSgvssTBbdZr8TF1285R1UPJf"
   },
   "37C85041128EE21300327726B7300A20EF6B84DD": {
-    "name": "Top Roller! (Japan)"
+    "logo": "QmNnBEDjdQ6Qfad2qrm9SUrpknUD4LQgwevoXfTkwFFpW8",
+    "name": "Top Roller! (Japan)",
+    "vid": "QmPkaNtt48d1gKzrDaffaYZkYsspaCDTpsAu1yBRASAm7F"
   },
   "37E6FE7D07B3F8B2C585C77B231207AC8BAA1EA3": {
-    "name": "Pegasus (Japan)"
+    "logo": "QmQqsua42iuqwPksiGQYwLRa73z4Gzxv8hMmdXkQRF3VAY",
+    "name": "Pegasus (Japan)",
+    "vid": "QmaHerTLAQccn2jZRALyr8uqF71G5FkuENUaUWNHpC6ja3"
   },
   "3837D3A72498CAA070866D947956A2E30FB94FBE": {
     "name": "Hole in One Special (Japan) (Alt 1)"
   },
   "3950F22265139A84CF57F3C0936E7927173F3D7A": {
-    "name": "Stone of Wisdom, The (Japan)"
+    "logo": "QmQh9K3LCsBmkQZVaJVzbVkiY2C8qgeR47C7tKohAajkdg",
+    "name": "Stone of Wisdom, The (Japan)",
+    "vid": "Qmbdx15qk9uSEEMPEFdFs6o7HtkCiU6H4NHEtAqcZuTrT1"
   },
   "395C5F40692C45B891ABE07C89D1E87829665FC7": {
     "name": "Sasa (Japan) (Alt 1)"
   },
   "397716D26A075C6D731F0B04F3FA24AA39521798": {
-    "name": "Dragon Slayer (Japan)"
+    "logo": "QmPNrPXPm89nX3VuTntXr1aGon5zpTpjuvnJwAhN9rcrTz",
+    "name": "Dragon Slayer (Japan)",
+    "vid": "QmQ13SudiZbRnnXyQ9NGzBAGybEUUTk8DTamPdkVKsdUp7"
   },
   "39BC111C953BDF25683DB7FF4C0BAD79B5C49958": {
     "name": "F-15 Strike Eagle (Japan)"
@@ -902,28 +1157,39 @@
     "name": "FM Music Composer (Japan) (Program)"
   },
   "39CB046A9B6B6EF4E769CDC6FDF36B274CD44039": {
-    "name": "Champion Boxing (Japan)"
+    "logo": "QmcXaf7khPWJSM3Fyzkmd1h17bbhFmmsCLdizvB2dk667p",
+    "name": "Champion Boxing (Japan)",
+    "vid": "QmUez7cW17wzQfkdyGVqQyFhePkPMadKAry8shryoYcyPW"
   },
   "39D500FBF22168BE2A12AC89FF5A50131BB1C30B": {
     "name": "Tanikawa Hiroshi no Shougi Shinan 2 (Japan)"
   },
   "39EF139D8D66FB18B04DFF8B9A5386011F497479": {
-    "name": "Jump (Japan)"
+    "logo": "QmRAGQygyv3eki7MSnNanv5oXZZ2wRkuL53Yi9WDhjH2nt",
+    "name": "Jump (Japan)",
+    "vid": "QmRengTq8A588w36K2u1amBDEFZUCbxu98THYyMTE1hkfb"
   },
   "39FFAACD0C2875018E7673A887A921FE9D31D6DC": {
+    "logo": "QmUimPczFwpo1vTCoWwcTd8s6q6eMBJeB4Vd7rsCL6SogN",
     "name": "Game Land (Japan)"
   },
   "3A46902D265D98B27BFF3A34160DE1C7EF4F116C": {
-    "name": "Glider (Japan)"
+    "logo": "QmURyWMK6wo4XgJWZAevfJEw8vpyz6AR4naJ325TLi2x42",
+    "name": "Glider (Japan)",
+    "vid": "QmVCfC3YmezhBLGLbuwoz16zRkgpQ46rMTFqcTDoLh1WSB"
   },
   "3A4A65DC6D540297A7AAE0A9914897AACF740807": {
     "name": "Angelo (Japan) (Alt 1)"
   },
   "3A8C815F9F97C067828E22F50386A9383F8E1A3D": {
-    "name": "Midway (Japan)"
+    "logo": "QmQUT1t69YcoNvxtGEB3w9skPoj6o2hAa7nqzCPb2uvkq5",
+    "name": "Midway (Japan)",
+    "vid": "QmY1JgZiD15JooYZtxKdhqgnSZ7nE5CbaSY9R6Es7q9KPj"
   },
   "3ABAE41CB742B76FF45DD178BD7DB346137FE0FA": {
-    "name": "Challenge Derby (Japan)"
+    "logo": "QmVD8gneH32m6f7NdqetRda7YPbMxXaarP214bhKYEZH5K",
+    "name": "Challenge Derby (Japan)",
+    "vid": "QmdQmQdtdLbW8vz9AeE8nK6oKVqMvA9KpXJo2G2tePYZMU"
   },
   "3B13E164130CAB9B36C1A95E06F8D9FD707FC97F": {
     "name": "Hyper Rally (Japan) (Alt 1)",
@@ -933,19 +1199,27 @@
     "name": "Darwin 4078 (Japan) (Alt 1)"
   },
   "3C2295FB9FC9F1B6A607A74F4538E24D170522E5": {
-    "name": "Hisya (Japan)"
+    "logo": "QmV6zAACjmQUroSwhvZmPHwbyy1eTmg1eXUnxfufMNz9ac",
+    "name": "Hisya (Japan)",
+    "vid": "QmUehxXqesxHnHFuXiUdyg6vJdrNBSGSbkDncZESUG19D7"
   },
   "3C29EEF381D77F8C1F425A3E29919013C72F875C": {
-    "name": "Tetsuman (Japan)"
+    "logo": "QmYRm5zoWTRGfEpxE64mj9XW1hWfwGWCDCx3zZM7ttfjdz",
+    "name": "Tetsuman (Japan)",
+    "vid": "Qmdpyo1kQcubY33tgzadNQ9LztD44xeNKcRyidX2TeEaku"
   },
   "3C2DB6321EE84E3690757C08ADE9DC096BD209B3": {
-    "name": "Lot Lot (Japan)"
+    "logo": "QmcLuPx2XVAowBz2unZNsM4LyFqmabGNecwCbQWXXm7TEC",
+    "name": "Lot Lot (Japan)",
+    "vid": "QmQiuGExQDZgTHemVSVfWoMitTL62CW2EQQZgR39Er52RU"
   },
   "3CA4A1AB35B3CBE3DDB238CE88CA9DF258AE37D6": {
     "name": "Actman (Japan) (Alt 1)"
   },
   "3D065377F11B23410282B6B76F26BD93B9D05184": {
-    "name": "Break Out (Japan)"
+    "logo": "QmNvXYgCzugKTM5rKpJwR9pESBzzzFyv1h1X5qFbCzMUAR",
+    "name": "Break Out (Japan)",
+    "vid": "QmQeMHgf9Lu7ZbcjAwsieynjHz7V4JRWjGycS9aqvDMoYj"
   },
   "3D2D0A2EB3D12FA67ECBBB90B7AC1BDC76AD8412": {
     "name": "Crusader (Japan) (Alt 1)"
@@ -964,7 +1238,9 @@
     "name": "Alien 8 (Japan) (Alt 1)"
   },
   "3DF7C19F739D74D6EFDFD8151343E5A55D4AC842": {
-    "name": "Dragon Quest II (Japan)"
+    "logo": "QmdPN3sRq2qhxsZJ6bPYSeeN4GtPKaKW7nkRtRvBM27roK",
+    "name": "Dragon Quest II (Japan)",
+    "vid": "QmdTPBpkvPE4LH5Aqh9opjWLVNRoxsGXYRER6dqg2tSZRL"
   },
   "3E2EF016F255168E2DF1906E678CA22F880917B8": {
     "name": "Magical Kid Wiz (Japan) (Alt 2)"
@@ -978,7 +1254,9 @@
     "vid": "QmeSepen65exZFPYHVYXpc2i16BbkNHvRVhgjF4AweptKy"
   },
   "3EEE7C72362522C27866D4367A8CF1E22932DB32": {
-    "name": "Flight Deck (Japan)"
+    "logo": "QmY6jSyrqg9jxeseGUZtk3hVaY96mewAkYmBNynVTaXjw6",
+    "name": "Flight Deck (Japan)",
+    "vid": "QmTg9z6ncCMpsWFMm88BbzydhXihQ9CFDuvrZbjYmhnEeX"
   },
   "3F072673752BADFBD234D6005DDAD60A494A9438": {
     "name": "Darwin 4078 (Japan) (Alt 2)"
@@ -990,10 +1268,13 @@
     "name": "Dragon Slayer IV - Drasle Family (Japan) (Alt 1)"
   },
   "4025045E93F51AFD58545104CC2C897226FEBAF7": {
+    "logo": "QmTFoPMvHnf4hvvbgb7siXR1k84eZUxifZM6ExbhqgCubQ",
     "name": "Lord Over (Japan)"
   },
   "40C626D8C53E2E2D4E7E25D55AA2C11C2645780F": {
-    "name": "Flappy (Japan)"
+    "logo": "QmV6qQtcZGBAsZUk8yzsqtGJrp8BAzoQNKqEABJjzonUDY",
+    "name": "Flappy (Japan)",
+    "vid": "Qmba4iM5wcM3Pinmgcsp3vGHNf1YjYB7yXQYe55dKnGV81"
   },
   "414FD2A22076F45502C2329B45BDA9F8730DCAAE": {
     "name": "Taiyou no Shinden - Asteka II (Japan)"
@@ -1011,7 +1292,9 @@
     "name": "Alibaba and 40 Thieves (Japan) (Alt 2)"
   },
   "41BA54C945104915CCC8D465930445C905D839E4": {
-    "name": "Oyoide Tango (Japan)"
+    "logo": "QmQHgbkk3jgwpE9fDabfcV9iPn4FLgF4Ba8YrTAmCub2zv",
+    "name": "Oyoide Tango (Japan)",
+    "vid": "QmWoiHeKAMga5H5gcvao5H2vQTR7sLKeEVMmAqSvWdRRNL"
   },
   "428B5BDD5CBB3E4FF637CFA5DB8C41D8D0070813": {
     "name": "Moai no Hibou (Korea)"
@@ -1025,7 +1308,9 @@
     "ref": "770805BD0BE8B09A3BE10030060D6AD8DC07D1C3"
   },
   "4340A2580C949D498D2C8E71699FFF860214E9EA": {
-    "name": "Vaxol - Heavy Armed Storm Vehicle (Japan)"
+    "logo": "QmS56ik1A44yfJz3fTuwxgqUY54JhWcFTejqCMkJ4sMaVf",
+    "name": "Vaxol - Heavy Armed Storm Vehicle (Japan)",
+    "vid": "Qme7jScfCrwYkYMx3JQpootz6LdXADAB4cDYi2h9RZtkbM"
   },
   "43DBCC9536FE61C8172ECEEEC1481778F7A2B9BD": {
     "name": "FB-01 Voicing Program (Japan) (Program)"
@@ -1035,13 +1320,18 @@
     "ref": "07448FFB20F260DF159A19DF2CAE1EE5545A0AEF"
   },
   "445963FDDFBD0487ADDAF4B0AD620520E426A1D2": {
-    "name": "Gun Fright (Japan)"
+    "logo": "QmWNuTcDVCHhPD2pMqpVvMcFMhVpQPxg9DMLTzCv7sB1hh",
+    "name": "Gun Fright (Japan)",
+    "vid": "QmNszTyJMGnz4ELdoNt6Lr3k4eZp6MPGWBiwruSFQLmFha"
   },
   "44B23A175D04CA21236A5FEF18600B01B12AAF4D": {
+    "logo": "QmXo2PxmJZSG4yFRqzzDJWx2rauERR7Aqwup3t3nUNdQRc",
     "name": "Haja No Fuin (Japan)"
   },
   "44BAA180F6C9E0F140AC1F0AFAE75C412CB06B9E": {
-    "name": "Roller Ball (Japan)"
+    "logo": "QmUT9yV819QEgM9bbnh5mbmysUeCrj8tWv4DhKPLS776tU",
+    "name": "Roller Ball (Japan)",
+    "vid": "QmVEQu3sF5vxC9rcPsozpDi1ULNwHNXRh7upSmQ3KyCLif"
   },
   "44DEAEF747C572A4550681FCCCC1BBBDC46A1FFC": {
     "name": "Antarctic Adventure (Europe) (Alt 1)",
@@ -1052,10 +1342,14 @@
     "ref": "33AD6D1BF1FB816B232EA706D149327E363C7B21"
   },
   "453EAC7568D5D04C8CF7DA86F2E8DC79777343DA": {
-    "name": "Flight Simulator (Japan)"
+    "logo": "QmTBFPbVwYBcXM74vvTaDo2JosR6QR6y9UCZhYV4ZJbQma",
+    "name": "Flight Simulator (Japan)",
+    "vid": "QmWQzX3ShWjc2cAeDxiu7Nd4eypCcU1W91m9FFKPiKn6tM"
   },
   "45B5B0E9DD8D11D034E09803F92EC9720CDA1E3C": {
-    "name": "Jet Set Willy (Japan)"
+    "logo": "QmV2zLyi6PJbrkzfHrhW6hETZDnbS2mgFj9W45fSeeYFUM",
+    "name": "Jet Set Willy (Japan)",
+    "vid": "QmeXL9EsJVBt5hZvd41LZCdcmz7Tbh1Ry1hVBvbRN5keHU"
   },
   "45CE64A455A2B07F3C8A6D541CDA3B0E058CC732": {
     "name": "Arkanoid (Japan) (Alt 1)"
@@ -1064,16 +1358,22 @@
     "name": "King Knight (Japan) (Alt 2)"
   },
   "469B07EEF08348C9ACC14E63BA0CD35AEF236983": {
-    "name": "Back to the Future (Japan)"
+    "logo": "QmVK9bvugMugajj6r58TuhRu3YaDSnwE4XAP6oKYzCGL1j",
+    "name": "Back to the Future (Japan)",
+    "vid": "QmWa3b2HDxxmXnPfGaopi8yYWC4N7nsLNXZtPbUdk7RhNS"
   },
   "46C98A3143F5A80B2090311A770F9B73000881C0": {
-    "name": "Robo Wres 2001 (Japan)"
+    "logo": "QmVSv4bzQfZdUp8PBJxYfhgJ3GSqAHB3SdWcqqS9LQNhP9",
+    "name": "Robo Wres 2001 (Japan)",
+    "vid": "QmXHbdnS2FQJaUfaCwjEwDkwPTeMYvHGDsbEEcxc82nrGy"
   },
   "46E9ED7B7F6DFDA8EEE266476C9EBC4DD9D8FCC2": {
     "name": "Zanac (Japan)"
   },
   "46F3954D7F92F5D00F45B82FDDE543C28A4B53C9": {
-    "name": "Flappy - Limited 85 (Japan)"
+    "logo": "QmPR1jHhzffGvpifaNGji3GjabS9jrv3zWBrBs2VLmoMxb",
+    "name": "Flappy - Limited 85 (Japan)",
+    "vid": "QmZSgCDbKfM8YVuLQgiiDeKpdtaYHN1ifVZZdm4a7KmLjW"
   },
   "47129FE3791A7171F8FA792F953D7B5D58BA5C24": {
     "name": "Manes (Japan) (Alt 1)"
@@ -1088,7 +1388,9 @@
     "name": "MSX-Logo (Netherlands) (Program)"
   },
   "479608B5A86D7C77BD6C4DD00605B8EFB2E5B43E": {
-    "name": "Panther (Japan)"
+    "logo": "QmPkxypgSVRySeWTZhNxEQ9fjwBeYuTsSTXuAwKmd36P6m",
+    "name": "Panther (Japan)",
+    "vid": "QmUG9Xne2qFVPUKGRyvvpAGmrmd1cpCWDdfRQYXP3cMdYA"
   },
   "47EA8D512D9FEC15DF8770F3B5017AEA9BBBA9FD": {
     "name": "Coaster Race (Japan) (Alt 2)"
@@ -1097,7 +1399,9 @@
     "name": "Bifamu (Japan) (Alt 1)"
   },
   "482CD650220E6931F85EE8532C61DAC561365E30": {
-    "name": "Bomber King (Japan)"
+    "logo": "Qmf2abSMSfsQJUosbPnqkQEh8GhNAoDx1MSZpPYpuzv9HZ",
+    "name": "Bomber King (Japan)",
+    "vid": "QmS1aQ5GuQHrMLkKDnxsJxkcakU8yisP82ccuNXgWyf5Dv"
   },
   "488F01314DA5644FBF2CA938C6F9720EF2B0D0F9": {
     "name": "Flight Deck (Japan) (Alt 1)"
@@ -1109,37 +1413,54 @@
     "name": "Simple ASM 1.0 (Japan) (Program)"
   },
   "495876C504BDC4DE24860EA15B25DDA8F3B06C49": {
-    "name": "Animal Land (Japan)"
+    "logo": "QmR5PGxKqQokEP4woytdxSWyirqLkcyULzf6fPcnxSaCht",
+    "name": "Animal Land (Japan)",
+    "vid": "QmfWQbz7gPYiYZgy84GLsbsT3cjw3TiCR1MJT5qHE31D6o"
   },
   "4971BDD3DB63D394FBC2186182C901CA4B32535B": {
-    "name": "Space Invaders (Japan)"
+    "logo": "QmU87ZzWoL6Kc5uXp3GzwQeknUS2d4iZPe7f9sfasDWh9w",
+    "name": "Space Invaders (Japan)",
+    "vid": "QmWDB1zsvDmAiSfnntyupbkVdJGMrG1b59uiR6FTi1fGxB"
   },
   "4991DC097E248436506ED5C8BC3F367A65267EE7": {
-    "name": "Jyan Friend (Japan)"
+    "logo": "Qmf8fV1EpSf2Z6ufPKRD4ddq7w191aq2hXQgZ9tUPwPAYu",
+    "name": "Jyan Friend (Japan)",
+    "vid": "QmSjbbRP4btB11mhpdNaLcYMWGzsJc6yvyPQXALaexpZf3"
   },
   "49BFA9871BB0AD3B47A7C63B14A10E0E8AE48A52": {
     "name": "Flipper Slipper (Japan) (Alt 1)"
   },
   "49E14B0248C649E7B5754357597695ABEF70C17D": {
-    "name": "Spelunker (Japan)"
+    "logo": "QmY2sM883Nx3jX922r4XM5h7JUS1NpUR655UTjfkBLTQVA",
+    "name": "Spelunker (Japan)",
+    "vid": "QmREFJMYJyELWfqQt3h9tjAPqQPhnAEHEqhSCgNuCgFkQJ"
   },
   "4A1282901221207DA79432FB0BCB4F1E722C8278": {
-    "name": "Super Tennis (Japan)"
+    "logo": "QmbCAV1zGDp889gAouG9HD2fZZLEt4aGsHPQ9Lx3dprcMN",
+    "name": "Super Tennis (Japan)",
+    "vid": "QmS8wrVuxchCHVboKXd8fbRsUrGDJR2pXFJzaYz5Kvrwd7"
   },
   "4A185A3DB81C2CE20D176D13FA5F619C6B7A170C": {
     "name": "Mopiranger (Japan) (Alt 1)",
     "ref": "33EC3136DFB6FD44014C8BBFFC8AC79C3CAFE75C"
   },
   "4A35065D97D81A94A7649D19B3F9ABD34F834EAB": {
-    "name": "Tritorn (Japan)"
+    "logo": "Qmee3gm2h3fuFqzJTMS4XFqKCxGyku5LFZJCTLd99TcXY4",
+    "name": "Tritorn (Japan)",
+    "vid": "QmcMgi6M1HZAjgpiUM3xn7nHbErWrHQKRB3ALNL1rWQDHL"
   },
   "4B04574B3B71958664AC730987C4C8EBEDEBA890": {
-    "name": "Lode Runner II (Japan)"
+    "logo": "QmWka5CspgfuJpykx6QK8ZqLCEKNaFBHaP29sZ7z1AB2oK",
+    "name": "Lode Runner II (Japan)",
+    "vid": "QmR2G9aNAxhQK9jYpVefXQZ7pQGptxY4mFd9L81JfCNC1y"
   },
   "4B19979E01BAB2289ABB6034CB3C2D02C2E890D1": {
-    "name": "David II (Japan)"
+    "logo": "QmWq3iQgGUbq6jwExCkX9wiZF5gWgarDCsDuEtKMR9rYuN",
+    "name": "David II (Japan)",
+    "vid": "QmQPDR2ckSuJVoUBZ8yqSycu46nkdL8u3qSicUP9W5N7F6"
   },
   "4B4A58A310A1138B95192D7FE0881BBDC45601D4": {
+    "logo": "QmSFMNH9BFEDR5a7V2fyAz1gzrvbXJfqFHTaS5jK3eJmyz",
     "name": "Designer's Pencil, The (Europe) (Program)"
   },
   "4B996BDDF88605C432F73564922106A63D31F62C": {
@@ -1155,7 +1476,9 @@
     "name": "Mad Rider (Japan)"
   },
   "4C8A97669017296C2360FF9D53694A292197991E": {
-    "name": "B.C.'s Quest (Japan)"
+    "logo": "QmUmiNXS1g3q6LWuN3TWSY3nLt3WaFvPN2MC3NcwpuUyhY",
+    "name": "B.C.'s Quest (Japan)",
+    "vid": "QmS9SHqTMFHVQ2XyCNxNZ6nigBqb7D9ZDYCZxVZdGBF4mz"
   },
   "4D51D3C5036311392B173A576BC7D91DC9FED6CB": {
     "logo": "QmXApT9Bn7WEwgbyXQXUPgfLPghiBxsksP1BD9wXXNnjqo",
@@ -1166,21 +1489,30 @@
     "name": "Spelunker (Japan) (Alt 1)"
   },
   "4DD934902907DB50BA76053F59AE7737D55824F4": {
-    "name": "Morita Kazuo no Othello (Japan)"
+    "logo": "Qmb82KcjMTviviKiUV9MjetABfs2keRWMExRkFViELkDkv",
+    "name": "Morita Kazuo no Othello (Japan)",
+    "vid": "QmeoNVFuE56PL1dn82Jj4aR2Wv8RjP7btcktWxsW4meA9V"
   },
   "4E17EFBE87ADC232C055D0DC26EB4476C661AAFE": {
-    "name": "Telebunnie (Japan)"
+    "logo": "QmdvDXb5AE9UYrKqCu47HQwcFBchXcnKTUrfBKBw93RY1x",
+    "name": "Telebunnie (Japan)",
+    "vid": "QmdX4SCqnxWSDdyzM2q2GvaxcsSUHfg2mXqtdSKgJdVq3Q"
   },
   "4F73BA24163946F6247523FC3F2AA5DE00C3D7A6": {
-    "name": "Thunder Ball (Japan)"
+    "logo": "QmNpCRBAgox1fHvnDpS5yTuzPou4fzxfZjjjK31JJZwHLC",
+    "name": "Thunder Ball (Japan)",
+    "vid": "Qmb3B2cn9iLHYccdzzur8jwsfsoiHYWYFxfaqUy3jLnD2j"
   },
   "4F73D4B731B8309145B2A9BF9C37620E4F4A391C": {
     "name": "Hole in One (Japan) (Alt 1)"
   },
   "4FA5382DF5A8FF7D631BE22BB8445E7BC8018A11": {
-    "name": "Twin Hammer (Europe)"
+    "logo": "QmTu1mfRnz6eAPZL8vKBxRFEXMeZR9wvaKbEUoRycpB6KD",
+    "name": "Twin Hammer (Europe)",
+    "vid": "QmU4QnAfEVFA6KYCoAudjEHZxFm4XMyvj8qMb6ePcddN7D"
   },
   "4FE90868376704336FBF45619A47CE18736FF1B2": {
+    "logo": "QmVtUJvDFMQMQWMPmE7LSF9Gav8U4HMzUunMQUiPUSxg25",
     "name": "Game Master (Europe)"
   },
   "4FF12FC3ADF389A1F76A7A9BAB6B2FD20044F5B4": {
@@ -1205,7 +1537,9 @@
     "name": "Telebunnie (Japan) (Alt 1)"
   },
   "50E27C5B83C8AFE00B077406081D063263E98B62": {
-    "name": "Night Shade (Japan)"
+    "logo": "QmYUmuQCeDpCvKg2RmVmFtR61W9kEutEUsFBe5dzLah9wL",
+    "name": "Night Shade (Japan)",
+    "vid": "QmYExqvWcwF8m1C9psD4eNsrx1xZ1gioArvY2yxgKE3E94"
   },
   "50EAFA5D735AF5B34D14F9F6B8C2D9CD2F0441DB": {
     "name": "Danger X4 (Japan) (Alt 2)"
@@ -1223,10 +1557,14 @@
     "name": "Koronis Rift (Europe)"
   },
   "52F95F6F4261BE00AE1B9CAF88A05C021C229E28": {
-    "name": "Warp & Warp (Japan)"
+    "logo": "QmZbCPuVqcbouaiTsJgU2pp5LEsQbUYgLnoMEKfcpfsL8j",
+    "name": "Warp & Warp (Japan)",
+    "vid": "QmS6ad6ojox2qYbAaYWWrK56svzHEv2xJiXRXNJUCMeSsu"
   },
   "530ECFF542A537C320B17BD5D64C86D5D65619F3": {
-    "name": "Kung Fu Acho (Japan)"
+    "logo": "QmUyoAhCsChjd89h6eWyHZgZtn6eP9b2vDSVBhMDqG8dpU",
+    "name": "Kung Fu Acho (Japan)",
+    "vid": "QmNgP7dKYDA5ftPgof1SrwSTYDDpXvx5cz4JzNNFXJS4pB"
   },
   "531A7F736D86095D791D6D0F267BE66EEF07949C": {
     "logo": "QmSboY1Vmb8RvkfciSbjQQoXTsK5jtmpEYEsZMayx2KUDB",
@@ -1234,41 +1572,60 @@
     "vid": "QmRCtsZGM9ZXFQrJomtRLEJDHA1S5SRKY57Aya7zaDZYpj"
   },
   "5324E053709FF8DA6C18AE4AFBA6A2E0C3A722BA": {
-    "name": "Bomberman (Japan)"
+    "logo": "QmaBjzNZgkpJRLjwaXiDH8SCuuZ4kkXS6uvNscpQmQQKPT",
+    "name": "Bomberman (Japan)",
+    "vid": "QmSUGMhpjRShoCRKRBwNQVvgQiDC4Tb5oyFEJ9uvktjsob"
   },
   "53337B61D7B86E6D18501967FCFC0908A00CC55C": {
-    "name": "Fuun Takeshijyou (Japan)"
+    "logo": "Qme5M4fb2Q8SioixXM9di8UJdtL6SpAbE2jdQuxV6YFsDb",
+    "name": "Fuun Takeshijyou (Japan)",
+    "vid": "QmVqCsX5uvxNiUjW9Qpr5pG5T3XyZBSfJxf1ZFCnjH2Z1R"
   },
   "533DC6D28CA60C090740879DCB3CFA386544EE45": {
     "name": "Dragon Attack (Japan) (Alt 1)"
   },
   "5370B7746112621169D503BBEC2E7FC526279F53": {
+    "logo": "QmYgdhEB5MWoKt5HXPEv8twzGvWpWMLogZKWwnMCjegCfR",
     "name": "Hanafuta (Japan)"
   },
   "5380E913D8DAC23470446844CAB21F6921101AF8": {
-    "name": "Aliens - Alien 2 (Japan)"
+    "logo": "QmaffuhB2K2uZxhS46PH9WQM1y6KM9t6me46Fqo2m7cjoo",
+    "name": "Aliens - Alien 2 (Japan)",
+    "vid": "QmVVpz7ipUkUjgStP4q8WoFxTUiw32drxSg2g6uHMwrsp4"
   },
   "53814FDFEACCE237BB68FB9056D005EB614B708A": {
-    "name": "Tetra Horror (Japan)"
+    "logo": "QmUvZ5JXBt1SF6y4uK4sfYt2WJ5N9mpTbxhU5uDyPYig7F",
+    "name": "Tetra Horror (Japan)",
+    "vid": "QmTqw79wMgn6YpHNjGa2j2wMFDB1cRnPEF4m2BamtnJ7aT"
   },
   "5400C0C929B31A70E76AAC676B91D40445F1B427": {
-    "name": "Black Onyx, The (Japan)"
+    "logo": "QmYHziLeXki2FD2yAg1VHswuPLaNbxVMEdr2tFbM65CVuh",
+    "name": "Black Onyx, The (Japan)",
+    "vid": "QmXWtLfBDnzL6JujXiSdkW7juMo8bWqZwHhF5ExUWqRqdb"
   },
   "5460A88C25386B1B950B57FC1325FD75587CC825": {
     "name": "Vampire Killer (Japan, Europe) (Alt 1)",
     "ref": "5EF7D03B138A2023F6DEF241B671C666F97ED83B"
   },
   "5460AA3BE896AD949BEA75444BC6E7E072A859B8": {
-    "name": "Midnight Building (Japan)"
+    "logo": "QmcafnSZ8PEDx8WjQCr5atE41BwYhFM4UfiiZLcg5DRvrh",
+    "name": "Midnight Building (Japan)",
+    "vid": "QmZnESe9d8esAjozzj5TxyvwBA4n9iqnbVKPAg2WVsraGz"
   },
   "546AAF36EE78717FE06125185F0D420FDFF0D34C": {
-    "name": "Comecocos (Spain)"
+    "logo": "QmYACcuCAcmd8FhTeGyi4MQPEemiuwadxWqwgBo4HaMw91",
+    "name": "Comecocos (Spain)",
+    "vid": "QmYo1PSXeKVjWjZfQxyykXPSPzJo7vWf1JxwUBzgBrNqZD"
   },
   "54A49A3C8B42B8B246E62ED45346CF52836DDCAC": {
-    "name": "Real Tennis (Japan)"
+    "logo": "QmaxAbiG6R9K9fPTxVsRML8d64goampbou7Sne116YA7rE",
+    "name": "Real Tennis (Japan)",
+    "vid": "QmXqQkT8KzVs915fpkBkg4BZCJ1hWxJskXaxgEdqh2gby3"
   },
   "54F288590F0C882F6E3A9B7C3F7D15B407190975": {
-    "name": "Super Cross Force (Europe)"
+    "logo": "QmXJoYsaXs1s2ictXZ7yfNeKmYcUhVqppbSmr9CFN4KfSb",
+    "name": "Super Cross Force (Europe)",
+    "vid": "QmYxqAstoVRH82pSDCYvBmReDH1rYrn3wZVpNbf3SNgzi9"
   },
   "5503D23FAF94F076410D252F69F6BF5ECE4DA292": {
     "name": "Bokosuka Wars (Japan) (Alt 1)"
@@ -1279,7 +1636,9 @@
     "vid": "QmdmeY9H2AnCaLmz4fd9x3VJKADSBABv9Wr9P92MEjAMz9"
   },
   "5558BA634018B22DCC687A01F9422FE60EA57ADC": {
-    "name": "Pai Panic (Japan)"
+    "logo": "QmRBDSHcWtS1cXVtubuCtn7JE5XUopUsKo25Ud4tG1HiNC",
+    "name": "Pai Panic (Japan)",
+    "vid": "QmetVTMFuKHdptsdyfc3dyU6B457E7UmHpn9V6j81nQm5b"
   },
   "5577E483CACA553CFBFC0CBA26F3AB2444569F81": {
     "name": "Dragon Quest (Japan)"
@@ -1310,25 +1669,35 @@
     "ref": "E73946F1F26589D77926276CA4F9DBEE60C53FDE"
   },
   "58B3B3A678364D0649C1AF0C27DA144CFEE85146": {
-    "name": "Super Snake (Japan)"
+    "logo": "QmeDB43uFXy7MTvVvVZ34MGXPPV4wHJ9hEY57zqtjcRdvR",
+    "name": "Super Snake (Japan)",
+    "vid": "QmPjhs1rMZWhEGSh8YFbNadqy8umxdLU2jsTVjKs13s5jR"
   },
   "58E335C943D2647C3FF1E689069D9FA5E1C7FF6E": {
-    "name": "Wreck, The (Europe)"
+    "logo": "QmeJ5jutYgsWNUVpzMN7uc95WHjCB6i9VastD6fLRoa6yy",
+    "name": "Wreck, The (Europe)",
+    "vid": "QmXwhNn1ZHBUww3kzbvtJWc7z8H845GJ53p9U1fXFGkBfn"
   },
   "59679B1ED40416F4C8D65085E5473C621BEA6AC4": {
     "name": "Zen (Europe) (Program)"
   },
   "5999CC1407AFE5BA8A760F16178C4CAC9C3FA192": {
-    "name": "Flicky (Japan)"
+    "logo": "QmUDZjH3vxvTVdsWWXtD23ELh9bGn4BFqEDPYE6YK7iMYr",
+    "name": "Flicky (Japan)",
+    "vid": "QmPE1qvSme5e5wWgFLz9oCjoahoqMYw9k92PSQMV6GaB8p"
   },
   "59BC608B1CB5BDE2230BCA0EB045CD6C58650774": {
-    "name": "Battleship Clapton II (Japan)"
+    "logo": "QmRBin9ew9cyTvEyG4WxscBYjHgbTb6vXrTeefEB3uGra1",
+    "name": "Battleship Clapton II (Japan)",
+    "vid": "QmRwQrY1Gi7T2NDG6xBB127XZNi3LvUL5UAdMjuNDkLZDw"
   },
   "59F679C5EBF75DE98B5E909DA9182DBD80413364": {
     "name": "Return of Jelda (Japan)"
   },
   "5A12439F74CA5D1C2664F01FF6A8302D3CE907A8": {
-    "name": "Sofia (Japan)"
+    "logo": "QmYmmAvLrZTzREM7fVv2z32hWx9AhM39HoVjtPq4QiK8C2",
+    "name": "Sofia (Japan)",
+    "vid": "QmcyB31vnBsv64LdpbAV9GAyk3zFZFeozAjwL5VrdfFyWC"
   },
   "5A709255F73EB8B601BF9D81210260488F8AC511": {
     "name": "Mini Golf (Japan) (Alt 1)"
@@ -1339,18 +1708,27 @@
     "vid": "QmZWqYSJzLbH1JnmxgY9N8d1GEdJZPLqh6xcaHvALgtARk"
   },
   "5AD0BA434407A7EEECB597B3D20BCFC6FE05C319": {
-    "name": "Cosmo (Japan)"
+    "logo": "QmPUojG27A9Ky1ugdejh4Cc16szMkknXWB59PBhbUNKobq",
+    "name": "Cosmo (Japan)",
+    "vid": "QmdAZuyW7WuHUgXwX1RLAj9oTVfvw5Fj4KUcJuCFMCqzUt"
   },
   "5B17CB69697CF55DFF1F0B8777E19D5ABC1771FC": {
-    "name": "Casio Daishogai Keiba (Japan)"
+    "logo": "QmUC5b3VBB9wm7aqJjX4fNgSxNYHh5duiRJPS2jZk4g4z9",
+    "name": "Casio Daishogai Keiba (Japan)",
+    "vid": "QmXFenTTs9tr59KpRdQ8AGnHqbKjdLrvWtBwUb7yE4Kf38"
   },
   "5B53794D3D73DF29CBCEC411C0F65E9E9898977F": {
-    "name": "Oil's Well (Japan)"
+    "logo": "QmRjFT8VNusU2eEK1NzthoWF2X6oFJ8T4Kk3nccngF3yJ3",
+    "name": "Oil's Well (Japan)",
+    "vid": "Qmb6sggvzs5qeY8S4x1sj4shdJyxKm2Q2UhDALXhztTxbm"
   },
   "5BBCBD47F05A2742CFB0CAD88856EB2DF6E469FE": {
-    "name": "Tank Battalion (Japan)"
+    "logo": "QmZM9EesKDq8QhpftM6ZNCTjmLqLBCK5tDnU74KBtxaPic",
+    "name": "Tank Battalion (Japan)",
+    "vid": "QmXJwRUxbrTmNgoLLeBLyYJYUDww2aRjAUYRVqYuJyDjsy"
   },
   "5C00F9E3A48411E08FAC89B1DFDD2A6E95853919": {
+    "logo": "QmWCtpqirHqWmuCBc1XmcxHbArQwuCUJgXxzGoGLffHamG",
     "name": "Game Master II (Japan)"
   },
   "5C278DEB1390EB45C79B7667B1EA1C54183123AC": {
@@ -1361,10 +1739,14 @@
     "ref": "6A3A68836A468CC761A268175C64D53C4C1C48BD"
   },
   "5C7A13B64B48065231F05C35B4C8B209534F3A8B": {
-    "name": "F16 Fighting Falcon (Japan)"
+    "logo": "QmapYHwt8gGY7UZCPcRiMN7bNzKF3DVvHcqQR7cs5tJvG3",
+    "name": "F16 Fighting Falcon (Japan)",
+    "vid": "QmcAgHiruwTicD7CedvGfzKje4y76iaCrjJUGqBrw73FxL"
   },
   "5C96169207E197237AA728D8CE4E24C0635D5904": {
-    "name": "Boggy '84 (Japan)"
+    "logo": "QmQEMeY7cGSTMvXoB2m2wBeJNYtN1d63SvL3ch4Z9ivXNh",
+    "name": "Boggy '84 (Japan)",
+    "vid": "Qma1fLi4zxmeks1YWYxvYJzjr2AWqEe7ZkiWXUE89hVAQC"
   },
   "5CEEDD2AE401FEBB79C1F6A64DDEF4B2E1790674": {
     "name": "Joytelop (Japan) (Program)"
@@ -1373,13 +1755,19 @@
     "name": "Decathlon (Japan) (Alt 1)"
   },
   "5D5DFE6CEC605DE421C3AED3A743D6840FEC1457": {
-    "name": "Crazy Bullet (Japan)"
+    "logo": "QmVE3JpiJpBSzfLrTSyk3tDRAm79ZD2EHQaXBK6ikERTEX",
+    "name": "Crazy Bullet (Japan)",
+    "vid": "QmRMeejRpchkG13uFN9D5cLsdRaCbTKQ44ndnrdWQLdVM9"
   },
   "5D65A308BB9EC8C4B4CE334B18D699B1F53227EF": {
-    "name": "Super Boy 3 (Korea) (Unl)"
+    "logo": "QmTsfbpLHN9ZuZH3tC3QQXfBUaWFRkJoMYXC1Uf55kbNA6",
+    "name": "Super Boy 3 (Korea) (Unl)",
+    "vid": "QmeYo1YMeHDEL42F4b7yDxP7RUVwwt92vcfWRrLVvGM9vB"
   },
   "5DCECC7C790E398A1C652DB568C1E66C6F25E5E4": {
-    "name": "O'Mac Farmer (Japan)"
+    "logo": "QmTruvKFK4mdHFN4Zb1nWeimWkeAutyBFZzXJ4GLFwQJG6",
+    "name": "O'Mac Farmer (Japan)",
+    "vid": "QmWnQFXsoQUxv584FNfAFaooaBE9Uhi7ioPyLbcdLUZ8oa"
   },
   "5DD2AC08FD05A1E091C7C6ECB6C10B49992BDD46": {
     "name": "Links, The (Japan) (NGA II) (Program) (Alt 1)"
@@ -1411,16 +1799,22 @@
     "vid": "QmaJkV3vbF6r3BQjY7X9cjcd8NZu2dJ7wphjVnswsF7DKt"
   },
   "5F965BBBA026134818759D25119D4114599132A8": {
-    "name": "Pay Load (Japan)"
+    "logo": "QmZUgHSyqPQFNUo8q3PvPayb9bTeKKbuD8n8JwmbbXcitM",
+    "name": "Pay Load (Japan)",
+    "vid": "QmQhb2UqsFk5gFceuZTW1SA4g27ssH7wqTyXcnWmmmR9LB"
   },
   "5FB4B6C3735E4D9415565A856BB69F9FB4857161": {
     "name": "Pitfall! (Japan) (Alt 1)"
   },
   "5FB90BE078E432DB92DD39E621D12F612DBEA4A8": {
-    "name": "Alien 8 (Japan)"
+    "logo": "Qmc9XgH1ubPRTDXi5bYjDsj5m6wYNjzkomS3wHcmMq8Puc",
+    "name": "Alien 8 (Japan)",
+    "vid": "QmdUaWw2s5Bb1qRLsBtZtUkmrijWLwvUYDZEwRuA4YyK1w"
   },
   "5FBC5D6A01E66A1C456B82AC1190CCDE61BC7832": {
-    "name": "Rise Out from Dungeons (Japan)"
+    "logo": "QmaD3JXboRTicHbX2mG1yywMqwXiP9uNgx2LkDAWAynwiP",
+    "name": "Rise Out from Dungeons (Japan)",
+    "vid": "QmbThreoKiFJe9zA8SsSjvAvrHtbtumnYQuEgz8z7XN9VK"
   },
   "5FD07ED5B7C0492D42ED91A54A0FE80CE6E4E40D": {
     "name": "A Ressha de Ikou MSX (Japan)"
@@ -1436,32 +1830,48 @@
     "ref": "57827F8D49369E4DBF20A968E535374D35FF1648"
   },
   "60F685670DE6D2D8ED5F1B1DDD40FAC851FF1982": {
-    "name": "Flash Splash (Japan)"
+    "logo": "Qmb3VFyEcAsTdT3ciD8nLZTiugVVHXNFpX8M41RbCF6R7R",
+    "name": "Flash Splash (Japan)",
+    "vid": "QmWWirLCA9KMr1zgw7tgdkM72at4PUQ6i1Xjr736Lp1WJ6"
   },
   "612C18616BC800D9EB69B9DA3CD29ECA31F50C1C": {
     "name": "Hinotori - Houou Hen (Japan) (Alt 1)",
     "ref": "D723F2EB1C887DB5448FD56BE5E7C57E60D88E63"
   },
   "613C741535C92DFB01AFEC4135EF8EBDDB49F999": {
-    "name": "Buru To Marty Kikiippatsu - Inspecteur Z (Japan)"
+    "logo": "QmeLfx4Q4pjmcJDokhArzNfRqGWpTpRRYcu7DpHVdUsFuj",
+    "name": "Buru To Marty Kikiippatsu - Inspecteur Z (Japan)",
+    "vid": "QmQeBENPozonykapkEgSPccQdVPNWzRnqRVkQNyzjkJQ7a"
   },
   "613CC52FBD5822ADE47DAA3EC21479641A009C2C": {
-    "name": "Courageous Perseus (Japan)"
+    "logo": "QmeVDk4WPNcQE1YCVmLzrJ3xf9hS9Gb1y5dApJPfuKRqRV",
+    "name": "Courageous Perseus (Japan)",
+    "vid": "QmTitYUmkDo2V6deJeQyE6QFpRxnGZZ68aXerUFnWfgKdK"
   },
   "615C08820B926E28B143CD7812852E011D3EEFFB": {
-    "name": "Castle, The (Japan)"
+    "logo": "Qmbxatvn3fxm83hraaT1kHboHNGxnxkTgkcgg4LPyfESvS",
+    "name": "Castle, The (Japan)",
+    "vid": "QmTGB9seKHaSQjhttGuKr1f2SJDLVVk4rGnuntt5V4YuoM"
   },
   "61695EB1DC6242D8A70C7EF2172CF86A26E3C2DD": {
-    "name": "Pac-Man (Japan)"
+    "logo": "QmcUWgMDVbbCFBhRqRphqHUHXydATDpSfUCBXsybFACgEM",
+    "name": "Pac-Man (Japan)",
+    "vid": "QmUgVNbAVPTpGqLGzMZ96FkBnnhMJuDUynpnN4j2gJjVW8"
   },
   "61E26157F0701CCE2DDB860A12F187912398B1B4": {
-    "name": "Red Zone (Japan)"
+    "logo": "QmW9F1qwQubFNKiSn3njAwPR3qFGYYLyaiLqXGNGvCcPfK",
+    "name": "Red Zone (Japan)",
+    "vid": "QmSsgeTKgmHY1gJ5aUyNHcxTJLLw3tRVwBiPCVfbRhSkZp"
   },
   "621EA075A534584361C9E9D640E39007A79DFD78": {
-    "name": "Bruce Lee (Japan)"
+    "logo": "QmQ2oNskEbbFf3h7DPxrmx8MtyBKAVmsixq4mqRrCmuYJ4",
+    "name": "Bruce Lee (Japan)",
+    "vid": "QmNuQVHvXAsKUd5RX73feeUG52qGX8HaLyp1wwWqvJ2EoC"
   },
   "6238F9C5F4C0012B3425BE203C23092F6B624FE8": {
-    "name": "Othello (Japan)"
+    "logo": "QmeedTi4ZLXqr528qErj4ZqktsEtDX36Rx8REaf7aBwdQR",
+    "name": "Othello (Japan)",
+    "vid": "QmXSJiqgU7YJeNxjX5AVHhwbUfBjJxxWXhoYXcbHF7efWY"
   },
   "627E4D311DFE8A43A629E63F444A6F41EEBAD835": {
     "name": "Alpha Roid (Japan) (Alt 1)"
@@ -1470,7 +1880,9 @@
     "name": "Ninja Princess (Japan) (Alt 1)"
   },
   "630AEC6F93DF8D1EF83C52A0BB6EC571B9C6EED4": {
-    "name": "Computer Billiards (Japan)"
+    "logo": "QmbHo2oyxtNTM84oXZ6asrZXC1pp8QYFLsN812utQ5ctTq",
+    "name": "Computer Billiards (Japan)",
+    "vid": "QmPzc59ecrAovaQJbMNnuvZxtneUjLXccifqVbZsXZ32at"
   },
   "632CB0834441626D20CC113CFAD2E3A7EC0E0DC7": {
     "name": "Treasure of Usas, The (Japan, Europe) (Alt 1)",
@@ -1480,16 +1892,24 @@
     "name": "Kakikukekon (Japan) (Program)"
   },
   "633CB458EEAB0FEA59A70A9A620B7783A44EB0A6": {
-    "name": "Aqua Polis SOS (Japan)"
+    "logo": "QmZkKErMwzutMPA9TDTzR1MTeLDbKSx8GLbkkCknz3DT7n",
+    "name": "Aqua Polis SOS (Japan)",
+    "vid": "QmbetCTYW9Ad8zaPfAFstDcgoyxvymWRaWPtMntRUzwvZe"
   },
   "636EB837C5D80FB6B0692A72954CA91291BA831B": {
-    "name": "Raid on Bungeling Bay (Japan)"
+    "logo": "QmRJ4DHzd1x1imRQRbv1yNpXMDNpRUWtgRbkHjvwK9dZzG",
+    "name": "Raid on Bungeling Bay (Japan)",
+    "vid": "QmbXSBPRq14krVMnCDuQXqLEue9TLXBFt9REiGNPAjsWLc"
   },
   "639CB280544B060A618AF23DAF234A44BAAF88DE": {
-    "name": "Alibaba and 40 Thieves (Japan)"
+    "logo": "QmdyEeHvAad2x2TPw2McMM2L3BrXKNkPyQJ94S6ZRV5o4t",
+    "name": "Alibaba and 40 Thieves (Japan)",
+    "vid": "QmPypY2zSmuj3xqqLxCjphVG2pWQ8sibPgruvgwVxW6ENb"
   },
   "63D4E39C59F24F880809CAA534D7A46AE83F4C9F": {
-    "name": "Knither Special (Japan)"
+    "logo": "QmQWGPGwi1hkDKnn83ejgBPYUQg8hgrVjr3JwXKKSWmiit",
+    "name": "Knither Special (Japan)",
+    "vid": "QmVxF2vYVbU3fpyoAqqFgRKT1PAHCTfs6aJLGfNytuFpKA"
   },
   "6420473EC647E4D750BC2247020B6722435B5211": {
     "name": "Thexder (Japan) (Alt 1)",
@@ -1502,19 +1922,29 @@
     "name": "Front Line (Japan) (Alt 2)"
   },
   "64F1CE4691056047F404460031ACB0B82A76968D": {
-    "name": "Skooter (Japan)"
+    "logo": "QmS3QJ6x4duWLQJaQzK4pW8gWWQGLR9xhjnAoEYAceMoP4",
+    "name": "Skooter (Japan)",
+    "vid": "QmRWQhbD8GjrpyDf86JJojfHMR3WNrRNxEo4jKN426B7FY"
   },
   "650381B96F36E74A4EAF5AE3F924F6F8DEAC7100": {
-    "name": "Championship Lode Runner (Japan)"
+    "logo": "QmeuC6ZgihtdzYkKCxzDYvssuK4qeorzTKa8Eb92ULsG8B",
+    "name": "Championship Lode Runner (Japan)",
+    "vid": "QmUBR2eJR83paTjvZDu8vo5bVTnd6bQDmj2piQJ26UXwGk"
   },
   "65334123C7D00CA623BF5F7A55756CC75958DEBB": {
-    "name": "Kick It (Japan)"
+    "logo": "QmbgJeFbMm6aJ2B7HPZBZJzUyiygViDd9bhFPeexvQAANE",
+    "name": "Kick It (Japan)",
+    "vid": "QmRuBuT48RCv2WJM53eRrV3wMPZ73zmqgPp1287wm876Ey"
   },
   "65AF16D35B8D8454EC07718E9F8948335CA73BAD": {
-    "name": "Blagger MSX (Europe) (Converted from Tape)"
+    "logo": "QmbkJrBy2euxMk4sWUiQshH7bPpuqvd9q1C5CoV2wTtHpV",
+    "name": "Blagger MSX (Europe) (Converted from Tape)",
+    "vid": "QmP3uFoAfw2gXDqC5vT4wvy4PpNBgRPfbQ5N5PpkRrdj2f"
   },
   "65F89C813A1D57A8F8A04E81682202F759EE6980": {
-    "name": "Dip Dip (Spain)"
+    "logo": "Qmf9Z88Koc2eRfTrXDivZ1boQ5TXPiSPDJHHEToxYquWsV",
+    "name": "Dip Dip (Spain)",
+    "vid": "QmcS3vFUZRuQ2hz1VCn1SQqNGntpyc5dufWXWnVv6Ygxzk"
   },
   "663D12F6FED3CE5017B783DB3032EB69D8554FED": {
     "name": "Picture Puzzle (Japan) (Alt 1)"
@@ -1526,13 +1956,19 @@
     "name": "Kage no Densetsu - Legend of Kage, The (Japan) (Alt 1)"
   },
   "6724B2ABCE8145609333C8B2964DE0F1A90D9CD5": {
-    "name": "Double Dragon (Korea) (Unl)"
+    "logo": "QmYq4rpPx3Zr8gKPkEkAkPvYx2eKKKRV5V8gVvS784Yg6c",
+    "name": "Double Dragon (Korea) (Unl)",
+    "vid": "QmWZFgd3gBZoWoLEijZhfGpr8r4jJttyu9KJ9ExYe8f5ZY"
   },
   "67BAAAA870AD4A08F55EC1C67DBEABC97B6F18A0": {
-    "name": "Guardic (Japan)"
+    "logo": "QmSawuqDYojSZEEZ8AsHEFbStiSRddmxUrDEbD8f939HA5",
+    "name": "Guardic (Japan)",
+    "vid": "QmVGbwJubTUuFETXPj97QTJP71b7fv33zq126F1hrnd7Hz"
   },
   "683478868F6C6423CC3E9C6AABE1868B30B1E47D": {
-    "name": "Pico Pico (Japan)"
+    "logo": "QmXYEAVg5MnjbxH3S4k4fZKpoiAyz2jsxo5UesYuZBZQLr",
+    "name": "Pico Pico (Japan)",
+    "vid": "QmWxNty45W5VrFApCdu86erD4uxuWMcCoTSgJDQ1B65Gz3"
   },
   "6842FB21ABB2531C17FE0687D77E012348D3DC2C": {
     "name": "Hyper Sports 3 (Japan) (Alt 2)",
@@ -1543,25 +1979,37 @@
     "ref": "D63E20369F98487767810A0C57603BEF6A2A07E5"
   },
   "6844DDF610E1A98B55E77FCC364B38A037751A2B": {
-    "name": "Helitank (Japan)"
+    "logo": "QmUuFsaSMkCDZoBZvXPeYVzdFD5YX44iH2DcHafLR6tgdL",
+    "name": "Helitank (Japan)",
+    "vid": "Qmdvn13QAAyaSgMhR89YinqTJafrTi52B546wWU3qMPrir"
   },
   "6856A13B67750D36C4C466D30472DC5465879BBF": {
-    "name": "Dawn Patrol (Japan)"
+    "logo": "QmetDq1kFQZ7GDZ9hdYXK8LbKUbbFX7857nRa8cMM9jjRB",
+    "name": "Dawn Patrol (Japan)",
+    "vid": "QmW3bxPMHCJW6YMLuR718iMy2CvjQTfNBpDNpFq1voag7C"
   },
   "692A55393E8EEF0800A612C01456E9CECD9C1418": {
-    "name": "Pooyan (Japan)"
+    "logo": "Qmcz1jjnfEetfgSkxBFhjap8zur4E4vxHeYnkJAHYzszgT",
+    "name": "Pooyan (Japan)",
+    "vid": "QmT8bcEPfvjpgZLWLCRaotZmtVFfEGirYDQDrSb62qhFxk"
   },
   "692FD8A85978ADAFBB530510FFF71848F39D4FBD": {
     "name": "Galaxian (Japan) (Alt 2)"
   },
   "69710F4B9CC3440E58C54BD4C562B3E90FF323E0": {
-    "name": "Candoo Ninja (Japan)"
+    "logo": "QmbW68JP2UV7URWSeJkhqRkVegz6C7NqZrTDxDBYvt7KMn",
+    "name": "Candoo Ninja (Japan)",
+    "vid": "QmbnW7baFjSntWRy38Cue9oz7CEKyveF5dxqttcEH13ems"
   },
   "69BC7CB436EA2EA3A6B49C3B050BAE24271A2F9C": {
-    "name": "Heavy Boxing (Japan)"
+    "logo": "QmY6Ei61drPiUYsUgxkXdySsatdWFHXQKGZvQLXTu9oXHM",
+    "name": "Heavy Boxing (Japan)",
+    "vid": "Qme95dMLGHKTCDhF8oBiaYt6p1prVwJZRPNUZwtRHeCCP2"
   },
   "69BDA8B4A96187597B95CD5C43E58DA0716D0FC8": {
-    "name": "Golf Game (Japan)"
+    "logo": "QmZNcPF5MH1fUMkgTD5uZXvCkYZc2A9ASouohuYiJ8ZD7F",
+    "name": "Golf Game (Japan)",
+    "vid": "QmQaCiCGjBLq8tmpHz8iegGPLqSMnCyqUjLzJLXU3jdfCG"
   },
   "6A3A68836A468CC761A268175C64D53C4C1C48BD": {
     "logo": "QmTdkv8fRJi26WkBkuEGF5hrhYV9deLahLRZJfSiAbrqaW",
@@ -1569,38 +2017,58 @@
     "vid": "Qmdr1Qv3sAS1dD9qUm9cWtWZXemzWkBWMKWhthgMSUHU35"
   },
   "6A4E8325D2174747D56CBE4C6803CBF40EB40A62": {
-    "name": "Danger X4 (Japan)"
+    "logo": "QmbjhkHBLkxUgV8RCQqGM4YGH62C2ED4ScgnMbmgBH8E7F",
+    "name": "Danger X4 (Japan)",
+    "vid": "QmdoEYF4z78XCWGzmuQgytEzifJv5VaYv5fxemzyiLB8rw"
   },
   "6A56B46B8BF014B25863433D6D96E64641A93EEF": {
-    "name": "Star Soldier (Japan)"
+    "logo": "QmYLKj41E8wXqUQsfpCxgx9TCud6kvHh8SC5UgHXjzrDda",
+    "name": "Star Soldier (Japan)",
+    "vid": "QmfExYXwG4aGzHqSYYyj4MsQa956cFPGqwhFPFwYwFh5v8"
   },
   "6A98D5787DD0E76F04283CE0AEC55D45BA81565D": {
-    "name": "Legendly Knight (Korea)"
+    "logo": "QmbTzgGvV2ZEUtqRqRMmei1hP6NnYAoZUdVPKKncph7iPT",
+    "name": "Legendly Knight (Korea)",
+    "vid": "Qmf6wAg41NWx7WeV1UY8Y1u8Cy3dNiTdmVQqLR4KprKNef"
   },
   "6B12BB291E1A98A43CCFF8CEB94D23585848FEBC": {
-    "name": "Doki Doki Penguin Land (Japan)"
+    "logo": "QmUY3VsNB44bB9cE6wms7tB2p6z4EuMQGW1CtGtJuxZUpW",
+    "name": "Doki Doki Penguin Land (Japan)",
+    "vid": "QmZB8bUFfCTZC8qQ7qq6kzxDjQt9AzEU6DQP2JWi49SdvL"
   },
   "6B496A50626C3E67DFE49C15A3847448DBEB05A8": {
-    "name": "Turmoil (Japan) (Alt 1)"
+    "logo": "QmWjDjACoJBmho6cUpgVTfAS6bkxu6tvh6QA9zNHe1Yz2u",
+    "name": "Turmoil (Japan) (Alt 1)",
+    "vid": "QmWNYn9oezPXnB5nVvpBBRDBmERrsfyBZMZdrjhrWMiypM"
   },
   "6B8A684DDBADD798A8E599449B823BCECA9CDB58": {
-    "name": "A.E. (Japan)"
+    "logo": "QmYXQbo5yTEeZZbAmxU3FkJ8QVrhWG16X8SZ2bMfVG2CHT",
+    "name": "A.E. (Japan)",
+    "vid": "QmXiAuYjkqY5sKVjHdogJTTZ5odej7pnYdTQ4CmHAXv991"
   },
   "6BAD9AF91907C2A97FA2F4B9DD2A699CE0D70FBA": {
-    "name": "Demon Crystal, The (Japan)"
+    "logo": "QmZmABE31Le3vxNSWCRNLpe5pMCxVA5u5C4MYUzx6DWLRV",
+    "name": "Demon Crystal, The (Japan)",
+    "vid": "Qmd8uH5krZxvvDooivV3A37mdBtfMdSwJX5mLxuV1pFpoL"
   },
   "6BDE4E6761286A2909858ECEF04155E17072996E": {
-    "name": "M36 - A Life Planet (Japan)"
+    "logo": "QmVsSRhyyxk6a6aWS8d93pPs8ELPsB1WoQpsGMFw4b1HG5",
+    "name": "M36 - A Life Planet (Japan)",
+    "vid": "QmPke7XJ6RqV9ncEHYCm17jBzvgzu28LTTik5NC9Fgo6TQ"
   },
   "6C1814C70D69A50EC60E39EF281F0B8CD7BF8598": {
-    "name": "Dragon Slayer II - Xanadu (Japan)"
+    "logo": "QmQDwgJ8E4qjF6qy3F9C7ZeAatt9xbjC7oXhttMQPUnz7F",
+    "name": "Dragon Slayer II - Xanadu (Japan)",
+    "vid": "QmegGZjUHG8citoeawGatvUYNMzTgwDgDZcyPLahCTwrnd"
   },
   "6C68F7BE1EB46CCA6DCDBB9192CBFF9D59604357": {
     "name": "Konami's Ping-Pong (Japan) (Alt 3)",
     "ref": "AE5B8E69732A23AEE102BCD996AD06225F1B3EBA"
   },
   "6CBDDD118AFE63E79CB8A40F8AA879DF1C7590E1": {
-    "name": "Elevator Action (Japan)"
+    "logo": "QmY83DEuEx8eQkwVjHwosaSCfgYhJLaHQv6RBbHaP3Mzoq",
+    "name": "Elevator Action (Japan)",
+    "vid": "QmTAhts1VYTDKeGb97v2GLvkubfVoPDgAyrQFshpb4DhMU"
   },
   "6CE0632ACC2351AE968D7D3CE9C9A0AF05C713CF": {
     "name": "Warroid (Japan) (Alt 1)"
@@ -1618,13 +2086,17 @@
     "name": "Kiki Kaikai (Japan)"
   },
   "6DFC622E350D29859F05FDDB3FA1F974CD4C8BF2": {
-    "name": "Volguard (Japan)"
+    "logo": "Qmdtu4jzUmqTXx4YjTqETFgSzP8TCtqn9fJTnu9CQRa4Lq",
+    "name": "Volguard (Japan)",
+    "vid": "QmTKrAZgpCCUNtWgm4dS5kFdykGLV86xwyFkuadEyWWjmq"
   },
   "6E1D2D5B0688860B0A04D53FE9E5E3939DFBA547": {
     "name": "Heroes of the Lance (Japan)"
   },
   "6E2E5CFF4EE4DD935FBE6684F2C54B39ECA06092": {
-    "name": "Dig Dug (Japan)"
+    "logo": "QmaiUHMSRh3fGD1jBKtsswNHXB5h6M7W4AYTi3YjDtJAXF",
+    "name": "Dig Dug (Japan)",
+    "vid": "QmYCRQAFbdo2ut1tvBM9GWUEvBfU5ZRKH2RSiUpe1TVWVL"
   },
   "6E6B8CDC55713EABC724F3EC9624E9884254AB33": {
     "name": "Dr. Copy (Japan)"
@@ -1633,7 +2105,9 @@
     "name": "Gomok Narabe - Omo Go (Japan) (Alt 1)"
   },
   "6F247C8AF6FC1881242281F19912068B03CA4126": {
-    "name": "Poiny X Senryosakusen - Operation Thanksgiving (Japan)"
+    "logo": "QmVG8Mexjd6rogNAGHVEymFArgMwKMrDCD59v2XyJUSgeH",
+    "name": "Poiny X Senryosakusen - Operation Thanksgiving (Japan)",
+    "vid": "QmWf5Nm4k3Nwg5cKqAC9uHbLZMZSDgdHohgyVfQX7mc5tj"
   },
   "6F391D0408223138B7927ED719D7AC1B6C38CA0D": {
     "name": "Flappy (Japan) (Alt 1)"
@@ -1651,7 +2125,9 @@
     "name": "3-D Golf Simulation (Japan) (Alt 1)"
   },
   "6FEFBE448674B6EA846D0C6B9C8A0D57A11AA410": {
-    "name": "Jagur (Japan)"
+    "logo": "QmPvkxi7tfafZEqbuVDV79Qnoa8KzPyayu7AgHnaWxuA9j",
+    "name": "Jagur (Japan)",
+    "vid": "QmQ6sqtPwFeGEL5Q6CishDPWy6qKXgvDLGQbvcTf1CJFtZ"
   },
   "6FEFE304CC8CD099456BBBBBCB23FF776CB113C9": {
     "name": "Monkey Academy (Japan) (Alt 2)",
@@ -1664,7 +2140,9 @@
     "name": "Becky (Japan) (Alt 1)"
   },
   "709FB35338F21897E275237CC4C5615D0A5C2753": {
-    "name": "Batman (Japan)"
+    "logo": "Qmf4TL3WYtXfhdKdBZJVVuSyQMSmL4UTMud6LQ9cB1uRA2",
+    "name": "Batman (Japan)",
+    "vid": "QmbGVVKxayt6bEKuxZemWroigeg8oh7ZTgGt5Nqup7c6Cd"
   },
   "70BA2331844BD5C14906E9F2284EBA119B3E41BF": {
     "name": "Game Master (Europe) (Alt 1)"
@@ -1679,7 +2157,9 @@
     "name": "Nekketsu Juudou (Japan)"
   },
   "7300D44A753DACF582D3079ED09EAFC9DD629530": {
-    "name": "Snake It (Europe)"
+    "logo": "QmcP7vMhvdEJs29RDbWT7Rsh5WFZNDWQHB9FAeuGj3FcHY",
+    "name": "Snake It (Europe)",
+    "vid": "QmYE3YJ2T2jhXbCuMPqUSTN5DgQovT6sMCHrGQypyXMkKU"
   },
   "7393F677E0FAE5FC83071C6B74756117B7D75E2D": {
     "logo": "QmTDvvsX8L2JY14nDtHfkXxxG7AEAdefqf1AiQ7CcpPHVE",
@@ -1687,13 +2167,17 @@
     "vid": "QmaUkH8fffjb3eko1aZd9FpCkp9RKgfvYdUvNqfUufKg9S"
   },
   "74AE85D44CB8EF1BAE428C90200CB74BE6D56D3A": {
-    "name": "Relics (Japan)"
+    "logo": "QmWrxGSQyyn9nSkQ9jQMyLEVpWDir4MJMfsUAXP89WQdJL",
+    "name": "Relics (Japan)",
+    "vid": "QmfCMtoYWGfF2i65VgmQooEx6Qo2U22dpjEXch75QdHs3T"
   },
   "74D1C7F66242335C736DA29413037BD23384EFAA": {
     "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)"
   },
   "74E9EA381E2FED07D989D1056002DE5737125AAF": {
-    "name": "Hydlide 3 - The Space Memories (Japan)"
+    "logo": "QmWEQhmVgcwRFkoWvVsyfEHhALze3RD9qZYLiWbDYR39j8",
+    "name": "Hydlide 3 - The Space Memories (Japan)",
+    "vid": "QmSoyXoLxVf1QRcbqG5PrY6apZRYrzKcCsH4eSKWtewvqX"
   },
   "751D722A4F36A03E88AC62118AE8D880E40C1C84": {
     "name": "Twin Bee (Japan) (Alt 1)",
@@ -1704,19 +2188,27 @@
     "ref": "2220363AE56EF707AB2471FCDB36F4816AD1D32C"
   },
   "761AB0AA7F528BF0F51EA9DE75C847EA949478D7": {
-    "name": "Dragon Attack (Japan)"
+    "logo": "QmVvmXPgm8yuMdcnSrsWRswm3rz9xSFh6FoYkpadJHWs3E",
+    "name": "Dragon Attack (Japan)",
+    "vid": "QmRyohru5HwbzKfPtRDFsnoAxwNbTcnGCLxUzcxvz5f1iC"
   },
   "76209C36BEC7CA971C6DB2E3BBCE267147E4A361": {
-    "name": "Wrangler (Spain)"
+    "logo": "QmSdWvzrcakQsJ37CEqCREAKMPTB7Eh5vjxh7osoY5fZeR",
+    "name": "Wrangler (Spain)",
+    "vid": "QmbKn7bGy9zvvthWEounVSydbmnUENTDTPERdsKX51fx1x"
   },
   "765413BB6B03BC3BB888EE8FE00B99EF69C1317A": {
     "name": "Jisyo Data (Japan) (Program)"
   },
   "76A79DD0554B8F7E84468FCD3BF73459CE4AEB2B": {
-    "name": "Pillbox (Japan)"
+    "logo": "QmTJmFbF4wCuNdAP8uPng7yCqJg7G5vwNn8vudhC4QfPgm",
+    "name": "Pillbox (Japan)",
+    "vid": "QmWDfCu2D44z9NA6m5Mw1BWgKXkwbS1h7cCbBGXCJ6pK8L"
   },
   "76C191BF7DCC0888D65E543C47F615AE45B75B92": {
-    "name": "Crazy Cars (Europe)"
+    "logo": "QmYBq8s6EHnc3bhY139MgtNpbPfWVmbhkYjx2yBTbGPtdH",
+    "name": "Crazy Cars (Europe)",
+    "vid": "QmNmkWmbF6czuVBH283mAXoZM8wVKKsZcFA2jodL3WtnGw"
   },
   "76D488497D9BA54B302A4326F45909F643BDCD7A": {
     "name": "MSX Baseball (Japan) (Alt 1)"
@@ -1727,6 +2219,7 @@
     "vid": "QmUaUJSDqQ6xUMrW9GyyaS11HEUZJg8VgXPkwtfXhtrzRd"
   },
   "7752B6624FB80D9499AAAD28DD5776EC74565576": {
+    "logo": "QmaZzkpfmyGcQ3dE2JaAqPTExMJ1orZQDghZ89Ry7xHxA3",
     "name": "Fandom Library #2 (Japan)"
   },
   "77D95640C80BC4868D04A913F9DBF4B5F6D877D2": {
@@ -1757,17 +2250,23 @@
     "name": "Konami's Soccer (Japan) (Alt 3)"
   },
   "7A40237867F62611D0E976666451648EDB80753C": {
-    "name": "Banana (Japan)"
+    "logo": "QmWAK6x61YmS7N7ztrGcMpdVZQNhDjsoy31Tj2HzUdbqE8",
+    "name": "Banana (Japan)",
+    "vid": "QmbMsxR8JDoVTL8Wi4cyToFD7PUkcrsJnWi6iadZQKhw8c"
   },
   "7A4126934F9E68C34BF00DD3D9A9E753C05EE73F": {
-    "name": "Golvellius (Japan)"
+    "logo": "QmQAtaysvZjZeAu5KYNbKDyG94uTQ6ti7QPy72YEjS4uoc",
+    "name": "Golvellius (Japan)",
+    "vid": "QmNhZFvdoPQ6XMKkZCXEa6WWwCh3WyQNfqGrLTcKr5RN32"
   },
   "7ABDF08E9C0A511B8182C502ED8C5F42778437E9": {
     "name": "Road Fighter (Japan) (Alt 1)",
     "ref": "BF4A0BAB1E8EAA70A8B12CD9A81D7A90A74C9E26"
   },
   "7ABF89652396A648A84AE06E6DABC09735A75798": {
-    "name": "Mirai - Future (Japan)"
+    "logo": "QmY2q3HJzQYszzmWefP1yEAUoDC7xvVyMFQKzoXBKFshXL",
+    "name": "Mirai - Future (Japan)",
+    "vid": "QmbfTJBgsrcPkkkKjYWWe5rVaxspZEAqpzHSxZUXFDxLZQ"
   },
   "7AD00597CEB5A02379055230D907C4421982329A": {
     "name": "Super Cobra (Japan) (Alt 1)",
@@ -1779,36 +2278,53 @@
     "vid": "QmXfE38bkg39qSAWsSMqK6uKBSnMYXvYEdFJNpuQt5z77m"
   },
   "7B94A728A5945A53D518C18994E1E09A09EC3C1B": {
-    "name": "Dragon Quest (Japan)"
+    "logo": "QmTzivrPL1JtbWND7ytswbJRfUegy5t6CzRKB5WQTGpNFp",
+    "name": "Dragon Quest (Japan)",
+    "vid": "QmYtueQzSwvWf3i2WZx3H8GXMdWaxh9dVzub9rsY42t28H"
   },
   "7BF28813FB11E9DB3BF78CC73EE5FB2D76B547DE": {
-    "name": "Flics, Les (France)"
+    "logo": "QmeUYqBura8pTGdyB7DX24Qma7s4WZBoJmq8NvSP2cX1Me",
+    "name": "Flics, Les (France)",
+    "vid": "QmZhHrAD3M8RPStTsRJGuvh5p4vcPPBNkeqt4JkMe1AXGh"
   },
   "7BF7BD134DDF9ED5B489F7F2EB0AA26BB2428FC9": {
-    "name": "Squish'em (Japan)"
+    "logo": "Qma9EiJmCq9591VXdHevSynCKucyuGmfwBJQ6q55iaiHqt",
+    "name": "Squish'em (Japan)",
+    "vid": "Qmd9U2ovcUdUexdttwLiqPM2w392Ca1dADsJZeZg1FjTHK"
   },
   "7C0F720C7601CA6DC86C81AB6A76E0587A052F75": {
-    "name": "Space Trouble (Japan)"
+    "logo": "QmfVPPz97uxU4q3Q217ftQtdv7kAVVBhp8Yju3tgyXukLA",
+    "name": "Space Trouble (Japan)",
+    "vid": "QmTjWdeDZd8YCxYCpVvi6PixS3VSiQ71dEbLgVgrNu4q7s"
   },
   "7C2743DF543C0D8A4BA7E42BF7DB580B996D102E": {
     "name": "FM Music Macro (Japan) (Program)"
   },
   "7C50D00A0D7B8C3474ED492465A92622CA160151": {
-    "name": "Mil Caras (Spain)"
+    "logo": "QmQvXVHLEQFzsK1bVVqESKzAj8ZDg7JdSKn6d25DXSQmbo",
+    "name": "Mil Caras (Spain)",
+    "vid": "QmQpbzs66qGyz3pZANsbKVRCcpVaKQ21UL7WaMtxi8ER8i"
   },
   "7C618058809302BC3553D6189BCF310F2E5B0E08": {
     "name": "Danger X4 (Japan) (Alt 1)"
   },
   "7D0BB1DAC966CEEE2E4C53F77E6E057D65F15D4D": {
-    "name": "Mole (Japan)"
+    "logo": "QmYVNYA1bUxj3gQDf3xANeznuy3XW3j8sHVyJehhqis7TQ",
+    "name": "Mole (Japan)",
+    "vid": "QmXmUdRGahjvq3czzAFZjxCthkzo2newFZWoawv3EFuzff"
   },
   "7DBEAF25E3A1A66F9C6B331332DC36E73B511D4A": {
-    "name": "Traffic (Japan)"
+    "logo": "QmPiR1Nap13Ek9qj1GQHoWNKEpdaSX9V7ZcnmvcPce5n2y",
+    "name": "Traffic (Japan)",
+    "vid": "QmdyJxEx1eAodmd1XPAiYdp4xsF9ZGNCPaHr7S59oacDSt"
   },
   "7DC7F7E3966943280F34836656A7D1BD3ACE67CD": {
-    "name": "Digital Devil Monogatari Megami Tensei (Japan)"
+    "logo": "QmW4RrHwf3gr5WSnLjAPxXqvVNA79YLJ3NUqizqJb4zbPB",
+    "name": "Digital Devil Monogatari Megami Tensei (Japan)",
+    "vid": "Qmf8KDdPSUXZNDVA7BP6D6ATQ8z5oyfgyMCsZWweDJb5Gu"
   },
   "7DE755F98B6A68886E61473D524D0AA6AB6577D7": {
+    "logo": "QmUah7R1PEuHhMRPs5AMoNLUcoyyJpnxc8TGTHC9Q2sEBg",
     "name": "Erika (Japan)"
   },
   "7DFE091E02F6C1B21BD65E44EB5052D564D0EF92": {
@@ -1823,30 +2339,43 @@
     "name": "Hang-On (Japan) (Alt 2)"
   },
   "7F6906FF7017A558952197198AC7A1C1E222ED9D": {
-    "name": "Exa Innova (Japan)"
+    "logo": "QmSPRYLArciM8Fc1tHUH44Vh7MGKmRXcGEsLdrD5eg9YXT",
+    "name": "Exa Innova (Japan)",
+    "vid": "QmbmSBe8BB2ztwoRf6PfFqtax9cTHUYyzyi5jfGAKahxCy"
   },
   "7FEF9411858B1FF3FF019646E9E7AA0C61C7E87D": {
-    "name": "Tatica (Japan)"
+    "logo": "QmXznZRsYhYyhd1TGeYUq72Etp5L42CBBpCbTkTaATPaaK",
+    "name": "Tatica (Japan)",
+    "vid": "QmeXFSbUCwCqLLLmf5wKm1AFgtZ3xeGPjuR7fvkEAF9u6p"
   },
   "807676038CBBA043B8099EBA9C5840A4811A7E59": {
-    "name": "Alcazar - The Forgotten Fortress (Japan)"
+    "logo": "QmPsPDDKUmraKHUMq8gydMQVFTrk7zCZYqYjRSnnPmZv5k",
+    "name": "Alcazar - The Forgotten Fortress (Japan)",
+    "vid": "QmYhs7ziY3yrMbCpVisKU89MyUsjc5o334XjzxLXeaxcc3"
   },
   "81143D2A8EF7CC593A604F3CC890312B42BDFF01": {
     "name": "Professional Mahjong Gokuu (Japan)"
   },
   "8117EC66C0645A54422841A632CFD6602F35C4F9": {
-    "name": "Pastfinder (Japan)"
+    "logo": "QmfEovDPmZF6hGuBv87VXbTuGTEThZY9nbhDE71dZhn2w2",
+    "name": "Pastfinder (Japan)",
+    "vid": "QmebV1XXQHKwRw2cSHeSNYHBJfnoqSyDKezm8GbSYhc7Fs"
   },
   "811DCA8FC14A2B00F503FBEF74FDEAE4F2873D4C": {
-    "name": "Castle Excellent (Japan)"
+    "logo": "QmPNaPVesYiQ9rypiEZSHXwYjRQdu68Xrs6v2mJwNzdJp6",
+    "name": "Castle Excellent (Japan)",
+    "vid": "QmYRYUZ6JvDHEFnaXfexfujvNPMnWJatTGFCawHLTP1aPF"
   },
   "8161D9B325C708AF463C5622BD89CA94754CFDEF": {
     "name": "Yamaha Play Card System (Japan) (Program)"
   },
   "818A6CEDBFDF3A5AF0C844F32A18E3930178C798": {
-    "name": "Lode Runner (Japan)"
+    "logo": "QmU2HiSjALTqbTPpWgsjwjWRrXQ7NbFxnRXvgWkaUtEDQj",
+    "name": "Lode Runner (Japan)",
+    "vid": "QmUQKQ4hHBtr1X4vK2oXXADeVsVqnXd6s29i7EunbYCzUt"
   },
   "818D91505AD39BBA2EAF7F4857C7D41E95FCB233": {
+    "logo": "QmNtEF9sjcL6UEcr87iopyNbzkc1EcTnUCjiCyhNvt9NAR",
     "name": "Wing Man 2 (Japan)"
   },
   "81C50AF8EF09E0B7A8A69FD4715592B5E803CDB5": {
@@ -1859,7 +2388,9 @@
     "name": "Manes (Japan) (Alt 2)"
   },
   "821C611B851DDD4CF8CFB4E77CECBC882F12EB72": {
-    "name": "Champion Soccer (Japan)"
+    "logo": "QmV5bkvs9nBBgs2DYbZJ5dCE1JRJhEnskoyzfNFgcKZDXp",
+    "name": "Champion Soccer (Japan)",
+    "vid": "QmXJ8BvXcFt9ShjGbu2tXtPucmujVoKWiupAgCLdykmP2q"
   },
   "82397096D5EF436B99B943C2A52D6EFF87694183": {
     "name": "Ogre (Japan) (Alt 1)"
@@ -1868,7 +2399,9 @@
     "name": "Video Hustler (Japan)"
   },
   "82C68A93D01F103AF4FE9F9205184FFD1A36A90F": {
-    "name": "Super Drinker (Japan)"
+    "logo": "QmVMDS62Xo1m1pbPoHozHPMgzjSQ43bmxKnsW23EiEaiow",
+    "name": "Super Drinker (Japan)",
+    "vid": "QmYkPJGRaaMM6FdCMCjANcc6D44hvXLh75RdbcMwLzipx3"
   },
   "830EFA0B25E1CF34D5F55D08CB80709D0A2C82EC": {
     "name": "Super Synth (Japan) (Program)"
@@ -1889,28 +2422,39 @@
     "name": "Eagle Fighter (Japan) (Alt 1)"
   },
   "846BD4D89BD034AC5346CBC559752635AD2BDA6B": {
-    "name": "Juno First (Japan)"
+    "logo": "QmQZB2Yhkc7aSBsscetpdYWPksWRXwrChjnUmtNPPwkfC7",
+    "name": "Juno First (Japan)",
+    "vid": "QmfTt1GzhDxgoQz4FYDxyqn3mLTL2HmJr9wUoqqDdahYSG"
   },
   "85153A8F25882CADDE8295D040DDB7586C93CEFE": {
-    "name": "Super Boy II (Korea) (Unl)"
+    "logo": "QmdwgrxHWnn53GTHu1vsmsPikwZsK7G2q59Z6MSo6R71wU",
+    "name": "Super Boy II (Korea) (Unl)",
+    "vid": "QmegPSuFZFWeB9F6EJoSYSjtewwGRA2srWuSrEJkzuXuEm"
   },
   "8547AE0FA25B9F3E26B90D4F3E1A4325B9248549": {
-    "name": "Trumpaid (Japan)"
+    "logo": "QmPP5wd5txWPV2EFhDmSjXyitXzt9rBoKPNaxaXdRMuGw3",
+    "name": "Trumpaid (Japan)",
+    "vid": "QmfCgeKpU6P7srFyxWwDPuBBvoGPWGKtkdXaojUohLaK19"
   },
   "8557DCDB4CF1E15180D17ACC8E6D515BF7BF7E7C": {
+    "logo": "QmQw8CSiuLsKAYEDUP9irVWEgPDxzbeusMtKf6wiN3ihgL",
     "name": "Fandom Library #1 (Japan)"
   },
   "8592B14EE701EAAF433113A26B199084C124992F": {
     "name": "Con-Dori (Japan) (Alt 2)"
   },
   "85A3842EABAC50C4E1332666C161541BE3508249": {
-    "name": "MSX Baseball (Japan)"
+    "logo": "QmQYZCDWeHJT7bhXTrSLPaV3RxYeGuDFfoeGmCAsJfoa35",
+    "name": "MSX Baseball (Japan)",
+    "vid": "QmNcc957Jxw8pcy63mu8jeEveuABuBTi1m9YXSTmrWmU2Z"
   },
   "85E3386D30DD9A64F4CC1BCA03CFF35B440F70B5": {
     "name": "Music Harmonizer 3 (Japan) (Program)"
   },
   "8607B92458584D5AA770369D94D50361B1D64BD3": {
-    "name": "Roger Rubbish (Europe)"
+    "logo": "QmPa14MWtvdvS4nHbj8UzCzPZaAFFKrPhPorCxZCzmbNq9",
+    "name": "Roger Rubbish (Europe)",
+    "vid": "QmTpk4SX2XBMVyC6LezYaj2MojLszxgrtGYRZYisCPgrHS"
   },
   "866CB3AB10F17E4FB356FBD7277BBF17C4E27EBE": {
     "name": "Athletic Land (Japan) (Alt 1)",
@@ -1943,6 +2487,7 @@
     "name": "American Truck (Japan) (Alt 1)"
   },
   "89073C052B0FE29B6DE077C8BDF5373474081EDF": {
+    "logo": "QmSwQEyXMdTruGWuiwgBBYguSwWEDMvHLLj1AJXbbzPp3s",
     "name": "Gambler Jiko Chuushinha (Japan)"
   },
   "89943AE938FB308F4B5149EBC0CBEA597B9B0223": {
@@ -1958,10 +2503,14 @@
     "name": "Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan)"
   },
   "8AA6D0AADF00DE9112696DA5B7DC6E3B62F2D9BE": {
-    "name": "Iriegas - Theseus (Japan)"
+    "logo": "QmQwuzViQJidATMQKHXKFhda8BRvNXzPhNtYhPxentx3kP",
+    "name": "Iriegas - Theseus (Japan)",
+    "vid": "QmQJkLXack1zEMSqgPAuCnXyEtpYgcfJ7dEUFnCtUjzy5D"
   },
   "8ACA0EE5845B0B39AF624E8A998BB04F02D0FDA4": {
-    "name": "Crazy Train (Japan)"
+    "logo": "QmPuNTj6fmUxL5tSYxiLRc4KNCT5SWhV9zyL7mbTYjrWFF",
+    "name": "Crazy Train (Japan)",
+    "vid": "QmWnENSwnKYA26n8MttVBaU7HGjnViMLcABgdJs8Ma99fa"
   },
   "8B2626F8DBBB3E97A5087B340A3F3D56C8EE84D1": {
     "logo": "QmZfSoivGzdUKtsJofR9QrHkiyboKeSdu84vY6cEf2Vg69",
@@ -1973,10 +2522,14 @@
     "ref": "A3090A15C95334DA3E0F94030EADEE02B5032C0C"
   },
   "8B63F36BE31D7D021C19103EBE8C68B69AAE699C": {
-    "name": "Battle Cross (Japan)"
+    "logo": "QmSkGWxSxihC7TSoHm7TmAfbNVoo3GzM4c44EsGNeqPMeS",
+    "name": "Battle Cross (Japan)",
+    "vid": "QmPzW7waq8HSyUthUE2t13vHzwwNEmY9TtqpoEpmViMn78"
   },
   "8B65D999BA187C98BA97A038EA46655FD9D62DEB": {
-    "name": "Super Boy I (Korea) (Unl)"
+    "logo": "QmRpBCe7RsAFzzFRk32mTpxwMK2M3ZYzpsUNCmPtbDHWaV",
+    "name": "Super Boy I (Korea) (Unl)",
+    "vid": "QmSzWoWSQrh9zUpRk65613B3P33dF5ZQDqyP42kEak88Po"
   },
   "8B828D33DCDFD324DF1827EF79F5CA9635968C6E": {
     "name": "Twin Bee (Japan) (Alt 3)",
@@ -1989,7 +2542,9 @@
     "name": "Music Studio G7 (Japan) (Program)"
   },
   "8C6E1E21CC45B2CA72CEEA93DF48EDA9CEF1DBAD": {
-    "name": "Megalopolis SOS (Japan)"
+    "logo": "QmfAtQMn5qYyNByZVd1qYFX3vcq9kubpgDjPMSdHDtSBQR",
+    "name": "Megalopolis SOS (Japan)",
+    "vid": "QmR5ZiRbsbRaBojnCKmJxC8f3gdtDCwQEQZnNqdwd8ar3y"
   },
   "8C7AE1A1720B1DAE9AF9904E638B868F56D905C2": {
     "name": "MSX Bunsetsu Henkan Jisyo (Japan) (Program)"
@@ -2012,7 +2567,9 @@
     "name": "Tawara-kun (Japan) (Alt 1)"
   },
   "8E3E05E8928B5B77FA61F3B833E164BF5222A5FB": {
-    "name": "Block Hole (Korea) (Unl)"
+    "logo": "QmVPkTreGAjcX5r9mwSTRBFnNLAqe2sQzkt7CqJzAzLJ2F",
+    "name": "Block Hole (Korea) (Unl)",
+    "vid": "QmXqfmo5y81rjhueq4hqAEDBKtAFmu6J7LHn972eWP4JtC"
   },
   "8E9FB34B356B02A839DCE5139C12030593BE13A2": {
     "logo": "Qma6JHmXMudaJtEns2eXA8GbyAyR3CF4dc7o7YUrRy1rJi",
@@ -2023,10 +2580,14 @@
     "name": "Exerion (Japan) (Alt 2)"
   },
   "8F35C41A5235DEC22C3B99CD6DD63CFDA0A7A821": {
-    "name": "Harapeko Pakkun (Japan)"
+    "logo": "QmTx1UB35tpMC7Qu3XwjZb1stTHaXrze2qemWE75K7H57i",
+    "name": "Harapeko Pakkun (Japan)",
+    "vid": "QmeK5HG87EZs1TLAfrN6z8RuRG1udDDiGetozizuEfGWRY"
   },
   "8F71DDDD429173DF7CE52C5245AF1A76B482A901": {
-    "name": "3D Tennis (Japan)"
+    "logo": "QmYzca7dkPtag339jQ3b8Gp18cSxe91MReowFXEDDgxqCw",
+    "name": "3D Tennis (Japan)",
+    "vid": "QmUiHwwbPfKcMrYcg8XvbwqBVhTLkMtatVMYMQqpzBuMw6"
   },
   "8F74C91E6598D8DE188AE1B506C44229C768B11F": {
     "name": "Tawara-kun (Japan) (Alt 2)"
@@ -2050,13 +2611,19 @@
     "vid": "QmUZaF6JqTMgYVj5ij67RryVdaJKdL3NEkRKHKC9xzumLu"
   },
   "917270DD44C63DC883289B4E0902FE6C812F5EA3": {
-    "name": "Mobile-Suit Gundam - Last Shooting (Japan)"
+    "logo": "QmeDwLezpQJwo5wuCSBgp7yZEcum2b2V1iuyxzzndFkvy1",
+    "name": "Mobile-Suit Gundam - Last Shooting (Japan)",
+    "vid": "QmVi7ow7BKbqyCrJyyXuPk3dS57YLuVmnpT1awUGkY3SVx"
   },
   "91BA5C063D0ED383165B26E4609D7ABDA02A5242": {
-    "name": "Devil's Heaven (Japan)"
+    "logo": "QmVqU4YLX7BJZx7GY4rYyfDtJ4b6kSxxdf4J34c7mYNXia",
+    "name": "Devil's Heaven (Japan)",
+    "vid": "Qmc4wJ9LHszL69gTVKd4RfmdRff4H7K4Whg5D4mD5uEdvf"
   },
   "91BD6C21530654FAB12CD8A797044D494834C223": {
-    "name": "Pingball Maker (Japan)"
+    "logo": "QmS4Y8y88RViHSiP1TbogxcBvbxAXUpVRoih1UmVEJsnqo",
+    "name": "Pingball Maker (Japan)",
+    "vid": "QmYAkixFLWNtD1Hn9vFq3tfLMgkfgubjSXXRjfNSJUbcBh"
   },
   "91BEE8AF612F69C5413A1D23102CC5EA896C2CAA": {
     "name": "Exoide-Z (Japan) (Alt 2)"
@@ -2084,13 +2651,17 @@
     "name": "MSX Audio (Japan) (FS-CA1) (Program)"
   },
   "93462AC9A322C2E5E0D996FDDBE9EBA2F3436931": {
-    "name": "Aquattack (Japan)"
+    "logo": "QmSZBJ9efpowPRMvu3MFnqaMj289zcMPPmHMkYtKLgWy48",
+    "name": "Aquattack (Japan)",
+    "vid": "QmepsyetwMYqT6kDfV2zpXVXqG3R9tqRFNAfeZdkwSHDsC"
   },
   "937464EB371C68ADD2236BCEF91D24A8CE7C4ED1": {
     "name": "A1 Spirit - The Way to Formula-1 (Japan)"
   },
   "939ED6053363112C34766335B93D0DDF25059468": {
-    "name": "Yellow Submarine (Japan)"
+    "logo": "QmRmejzVU2WRcqxPYahW7VVoMFEGJFCLHdf1DFYSh6pQ2J",
+    "name": "Yellow Submarine (Japan)",
+    "vid": "Qme8frTy3E7cdPqQ3FWgSrCD758qHDb8aho9K3SuZMBDUT"
   },
   "93B07E3CD5AE2F00B36824A74F83A3EF0D65D0D5": {
     "logo": "QmPhRWNLRUpXACWa4K3jNc24XWsjFj6FhqjDHeGz7Hb7wC",
@@ -2098,9 +2669,12 @@
     "vid": "QmVGEJJEmVmavEiwjQYK6kk7CU2G5fMbd8UiHvboB6LDvD"
   },
   "93BF6725A3C1B7071064A01884E1B6E8C6F8B579": {
-    "name": "Space Maze Attack (Japan)"
+    "logo": "QmY6NbcxrYrgvaMnETVUGvNAoJxtr4qYmd4YPSGPtGRPJn",
+    "name": "Space Maze Attack (Japan)",
+    "vid": "QmZqaDYdFD1hXWDEQSMUBPBjFQymbaw4UhQmhPCLqmygn7"
   },
   "95AE5B3E24AD0BEA21902CB7DFD3FD9581166A76": {
+    "logo": "QmRkBQSCiJvPiYPGc2ZSWRcXfCbXPns8Xkj3NahDY73s78",
     "name": "Iriegas (Japan)"
   },
   "95D8A590BAD595F9441AEA4BF68667DE05B1B34B": {
@@ -2110,7 +2684,9 @@
     "name": "Galaga (Japan) (Alt 3)"
   },
   "95F75FAE9B3E961149E352CEF3D7E478E9887D5A": {
-    "name": "Lunar Ball (Japan)"
+    "logo": "QmPhRXqbFeoJucosnPMNVRHb3DcyLZ2Gr46MfYwT9yfaoV",
+    "name": "Lunar Ball (Japan)",
+    "vid": "QmPyYdXt3FagXjBQit1WFwvPLcyLrP5ArYYfvc8Cq12RXx"
   },
   "9648D43F3C25D67B9E4972F777D7B02470080D1C": {
     "name": "Game Master (Japan)"
@@ -2119,49 +2695,75 @@
     "name": "Pro Yakyuu Family Stadium - Pennant Race (Japan)"
   },
   "975FDF521C08030896EB50AF4F39A23500EAF7AC": {
-    "name": "Exerion (Japan)"
+    "logo": "QmXHB5iHjx7BCWsJz9BDpSoSn7TVJjQBdjo4r6KoucjqFf",
+    "name": "Exerion (Japan)",
+    "vid": "QmQpL3AGrgiiRSKJeudZsWFBiHFSZm9TxANRQ4EdRTPfa6"
   },
   "97ADCB652BC4BAF02D29A9ABE5E6547065DEC298": {
-    "name": "Midnight Brothers (Japan)"
+    "logo": "QmWaF74Xyw55jPL91LL1S5CS3Q2xbCteRoeKQxUPs2wgTm",
+    "name": "Midnight Brothers (Japan)",
+    "vid": "QmaEAao4LyqQNYjYvYxPhuWwJpAbon6nvAAGLGNQET52WX"
   },
   "97AF4F422A283AC8BA387EB0B1B29395C2C966EB": {
-    "name": "Car-Race (Japan)"
+    "logo": "QmYpc4SgEqHsihCYJmiaJgouXM2mDUiHRoNmMWZL57yiVv",
+    "name": "Car-Race (Japan)",
+    "vid": "QmTTtma2NGzfvPeqL925DfThuXV82JcqwBZK1qJoanawXB"
   },
   "97C39DAD3E065F9083FEFAE157F278844B208058": {
     "name": "Queen's Golf (Japan) (Alt 1)"
   },
   "97DD31B2F0DD056ABD808062E306B0C2536975BC": {
-    "name": "Machinegun Joe vs The Mafia (Japan)"
+    "logo": "QmcUyzRBri9ahrC4TmQWqNfzomgxRZnFzruL48uqcvsCy9",
+    "name": "Machinegun Joe vs The Mafia (Japan)",
+    "vid": "QmNfu2wJw81ZfSZA6AWcCgPBqFBiGFqDjHAcLdLh6b5hnv"
   },
   "97E173DAC64DBDE7D6A60DE7606CBA0C860813DB": {
+    "logo": "QmdQ6QdjATo9oWyppwPDKiaoEiZARqzHrEyxGxS2bcAuXA",
     "name": "Young Sherlock - The Legacy of Doyle (Japan)"
   },
   "97E7D0EE40C7D6CE1A8EDF7B06E5014E6745CFDA": {
-    "name": "Alpha Roid (Japan)"
+    "logo": "QmdMeTMUktpibAjC5iQ37cJmgTUXgn1zPBuo74mttHtfTZ",
+    "name": "Alpha Roid (Japan)",
+    "vid": "QmfGXPcudq9sf5KdgBx7PQuYqpt9hycMtgaQ9fPTs3BLt1"
   },
   "97F1790146116198133C083DE113ED1E5CA6FF21": {
-    "name": "Spider, The (Japan)"
+    "logo": "QmeTRkH9DVnje4qRbPEYrszhRXb3HVGe3MJVYdEdeJMDPy",
+    "name": "Spider, The (Japan)",
+    "vid": "QmUyqSBSc2m7GunuQKfsiSuSNgngrAZhrmRSMgZJXds57j"
   },
   "9865F0BC4D54137809F0D8B48D5461DDF0C5BF4C": {
+    "logo": "QmdCLqQrRbFbLKXicLUv7rhU4UD2bHdAYkwsx4BWjnwgPP",
     "name": "Confused (Europe)"
   },
   "98B7A6AC44B82CCFC45EB51595E2905ADABAC1C7": {
-    "name": "Meikyuu Shinwa (Japan)"
+    "logo": "QmPn6PwgRGXaSe4wnyd9REFRAKwkisG6ncBRMZGzciomso",
+    "name": "Meikyuu Shinwa (Japan)",
+    "vid": "Qmf186RCvh7jetfBMrswYVLZ8zbwbXiGdxkCpnsCpDAiaE"
   },
   "98E33DCA445850CDF24F09050756C3B75202AC13": {
-    "name": "Nyorols (Japan)"
+    "logo": "Qmam678UXatzAc9TjA83KWiSBx5yGhTfAufmw3c3UDs2Lm",
+    "name": "Nyorols (Japan)",
+    "vid": "QmPmK1ufv1QuEw3GtXz12WWa5vVh7qCJqatSdcsVz962NL"
   },
   "991EF9890DC3E0C0D29D6D249675EAE182ACA30C": {
-    "name": "Super Pachinko (Japan)"
+    "logo": "QmbkhAUvcge6m9aTfLPEj7twrYWocCUwbjmz3nB6KmW3By",
+    "name": "Super Pachinko (Japan)",
+    "vid": "QmQSpPuVWwBqtEzR6xVQnHfWRZUX9j2BRpKLM4g9Dwc9dR"
   },
   "996A1C0D92400287C15545116B952F84C7DC03B1": {
-    "name": "Super Soccer (Japan)"
+    "logo": "Qma8vDPeFSFpWeEG7QFpc3BXCA4ofjUSAaqx55wB4djoiJ",
+    "name": "Super Soccer (Japan)",
+    "vid": "QmZQBsbPMQc2k5cKVyg2E8UnJBotEDZikaKH9XsbXULV6z"
   },
   "99A8631CDC37F0DD9D8793EA8EADD3F34E0BBA51": {
-    "name": "Gyrodine (Japan)"
+    "logo": "QmUbo5dutHks7efFyLaRV2geAibQC8QquZMyoGdhFsLNf6",
+    "name": "Gyrodine (Japan)",
+    "vid": "QmcAMpQayb2ceSuJB3Lx5nLw1P86BaFoohqti6LD6tLorg"
   },
   "99D3EF107F2AC4D452B05EB96B922924EF4C5434": {
-    "name": "Computer Pachinko (Japan)"
+    "logo": "QmY1Ndie1Qu7x1iBimKbDmJNqpYN7Sqb83uBZLuEQXLdMb",
+    "name": "Computer Pachinko (Japan)",
+    "vid": "QmcJseyps1EzMxtr1QywX2Jr3PFkrjaum4F6jpA1ssBVPs"
   },
   "99F9E9753EDBAEE820E36A1A58F1CD7AE2B26265": {
     "logo": "QmccrZ1pnNNGTHxYzzc1XUYHSGkzvDUGfq5w7VB6EZb9N7",
@@ -2175,7 +2777,9 @@
     "name": "Japanese MSX-Write II (Japan) (Program)"
   },
   "9B4DA7636809D5690D6BD5D782FFA3CF9F4C63EC": {
-    "name": "Columns (Japan)"
+    "logo": "QmXCvBgBAYFbZZ69dXtJbcMS5ZfZ1s8aUJMZZgXimhcJAd",
+    "name": "Columns (Japan)",
+    "vid": "QmZyMykws4weCPockvh4eyN3GyCjp9EzRi5cYbGJNXDMhy"
   },
   "9B55970341AAAB59A73AE921C6CCF29009C1A8F0": {
     "logo": "QmV39QLxHq5WD2H4vWavtiEasWZu59Pk1ucsj8CwycBJaE",
@@ -2183,13 +2787,19 @@
     "vid": "QmdeXZGyttDwj6rRWWpaVP4yhCnPoubwkhayZDYnTGL7Bk"
   },
   "9B58C70B976CA1D841185DE862E7D663EC9DB56B": {
-    "name": "Batten Tanuki no Daibouken (Japan) (v1.03)"
+    "logo": "QmXCqBWKczVf1CoRoxDi75CeKZfKeBG8ic3kFGjzMiGAwg",
+    "name": "Batten Tanuki no Daibouken (Japan) (v1.03)",
+    "vid": "QmQnzRW4pt4fpxtZMFFkApCZ75EUinGBMbcSJxEL2XQC2P"
   },
   "9B815EFAA927C11827ACFDB0F9B9197B5AC97572": {
-    "name": "Druaga no Tou (Japan)"
+    "logo": "QmPBewk6bMW5A334tf8pwVUpmde6mMkGCAnYBE8PKubLMN",
+    "name": "Druaga no Tou (Japan)",
+    "vid": "QmXmAFYBPbhKxck1KqxijSDEMnmHWVxYuHFfAcAtEoXKtt"
   },
   "9BCA89C71C033BB9A85EE30CF75960EC839C0462": {
-    "name": "Final Justice (Japan)"
+    "logo": "QmXpVmeg2hLk86GUG94W1LHvhpH4xLv6s2jcnSLgo3F8K2",
+    "name": "Final Justice (Japan)",
+    "vid": "QmQeWQwnkiu9cbKk7QDbfNULy3cp8jxMWTb5zv8KwyRWYi"
   },
   "9BDFE44A7A0D5151346FF14ECE3216B5108CC775": {
     "name": "Konami's Baseball (Japan) (Alt 1)",
@@ -2215,13 +2825,19 @@
     "name": "FM Pana Amusement Cartridge (Japan) (Program)"
   },
   "9DCB43B654A08DE2C52147F4A2E628B5FE3761C8": {
-    "name": "Hydlide (Japan)"
+    "logo": "QmP5AvHnjqQRobWxB8SLocy8cHowSUtyckKeZMjk9Sd5Nx",
+    "name": "Hydlide (Japan)",
+    "vid": "QmZ7VckmVKYAhsNHSrA7mbBAXBtC91cVJnWcbXtm2n5GPN"
   },
   "9DFC71887FFC6D94B8780B5D6F207E24C1F58B54": {
-    "name": "Ninja Princess (Japan)"
+    "logo": "QmbLAw6jaorqAuJqf842SysXAfTuR5ZtNDT8SkWBLLCJLK",
+    "name": "Ninja Princess (Japan)",
+    "vid": "QmTgMn4WSui1FnugXFqrWNzWRYBj1m1YcHwZgSYjxQPdGX"
   },
   "9E0312E72F30A20F556B64FE37DBBFE0D4471823": {
-    "name": "Craze (Japan)"
+    "logo": "QmRQtDSvZ2ZDQExgc3e7nxNQ2XToBJyhLSXxWji6snCivm",
+    "name": "Craze (Japan)",
+    "vid": "QmaGt8u1DLpRgLKDz656EKjFECoLCALqoeYM2VBeb31QD3"
   },
   "9E190CF3CA52D85FD34EB5DF2C0DD8490448B9A2": {
     "name": "Konami's Boxing (Japan) (Alt 2)",
@@ -2238,13 +2854,17 @@
     "name": "Space Maze Attack (Japan) (Alt 1)"
   },
   "A054DDEAF471212764CC596BCBD30E94B10E6C28": {
-    "name": "Comet Tail (Japan)"
+    "logo": "QmWMFw1AcavpJ7FVGUtFNcwjAXd7WKUUnLcvrkDta5AcNe",
+    "name": "Comet Tail (Japan)",
+    "vid": "QmPbSGJYsCh6WY4hkbnogrdHykNrQRgKj4fV51UYfYfexe"
   },
   "A0C486D0F25A3DC586717D5D3E1F5A46D36735FC": {
     "name": "Kempelen Chess (Japan)"
   },
   "A0D85C5FC74547F46025369DA687569FB5AA3991": {
-    "name": "Tension (Spain)"
+    "logo": "QmNY4vPVvaQ34tjun4rEqr9VgZTv7P4wxS4qN8UW9Gcy7Q",
+    "name": "Tension (Spain)",
+    "vid": "QmZcrWq4KXimiVnEDJa61vBGDPHfCfH1MjsFags25Do3A7"
   },
   "A0ED2C50E55241D23BB5D12CB6528A2A0C3BC156": {
     "name": "Konami's Soccer (Japan) (Alt 2)"
@@ -2253,7 +2873,9 @@
     "name": "Exa Innova (Japan) (Alt 1)"
   },
   "A1656F612360A126E09EF2BAAA8002D92054125D": {
-    "name": "Decathlon (Japan)"
+    "logo": "QmTDetSd8RUnuB3QgNRT5nTCaFZdZQ58Karu92zQ8VNS2L",
+    "name": "Decathlon (Japan)",
+    "vid": "QmPV176nq3LCiEcT6cpUiDVPqRxCuW9qiw7fHKGawboHQh"
   },
   "A194B845857C8B33EF4FD5E53D7F38150B4FA4CF": {
     "logo": "QmYptdp95W7YcuWCpas9Q54R5sFH9MMpeSbiQYBrfwrfmm",
@@ -2261,7 +2883,9 @@
     "vid": "QmSixPA5tbFZP3LdGN5gMeqAxMiUCeWTbrXXNmqMQJ4Xj5"
   },
   "A1ABFC53A36D387B9F0687E3F5897C1EBDF21517": {
-    "name": "Angelo (Japan)"
+    "logo": "Qmc6WmiYLEXCTDYFSXrAAUnGmPuh36sUvtzrav4tEQ5oeG",
+    "name": "Angelo (Japan)",
+    "vid": "QmPa6fNPefd3iNz9YjjASsqn8s17ki4SufWdR2y3rHX7Xz"
   },
   "A1E14912D45944B9A6BAEF1D4D3A04C1AE8DF923": {
     "name": "River Raid (Japan)",
@@ -2279,10 +2903,14 @@
     "name": "Crimson (Japan)"
   },
   "A27EB9CD77837C1E443E275D0E10888E0FD248F4": {
-    "name": "Fruit Search (Japan)"
+    "logo": "QmdP1eYzBRFLrQDYxGh8YdJ7URYxoi3xbVRVxtX79hqt3K",
+    "name": "Fruit Search (Japan)",
+    "vid": "QmcSsBoSxhZ6oFvFRqT75MWkNjAohyvR3cTtYsss7fCnoJ"
   },
   "A2A7C93C9C8B55A5CCE4C9005F3C194E3B762E9C": {
-    "name": "Choplifter (Japan)"
+    "logo": "Qma7ATtxcSZNqm8DMQXYVdDD4kAcgXvsQcitLpc4ovfW9k",
+    "name": "Choplifter (Japan)",
+    "vid": "QmcWukwR6V7465obGz1xKnn6Z65359xMB3jeX7W8adtTkb"
   },
   "A2CA7E6E216F8B450EB8DB10A4120F0353275B6B": {
     "name": "King Knight (Japan) (Alt 1)"
@@ -2291,7 +2919,9 @@
     "name": "Bee & Flower (Japan) (Alt 2)"
   },
   "A2E144546A191DA8829B9CA9FA019884FE95156C": {
-    "name": "Pachi Com (Japan)"
+    "logo": "QmYVP4AnXLxYb59LA29BsbuYpQcwDqBrN692fXWvXtZH1Q",
+    "name": "Pachi Com (Japan)",
+    "vid": "QmQpWME2J6roM9p1Xcz7e82MkcNR6C2daaae7vm6wDqkjR"
   },
   "A2F8F8F9F46262342EEE0A1DF7C6871008A3A189": {
     "name": "Super Synth (Japan) (Program) (Alt 1)"
@@ -2311,15 +2941,20 @@
     "name": "Hydlide II - Shine of Darkness (Japan) (Alt 1)"
   },
   "A36C00F32CAD6B603BC5525A741CB09064670F34": {
-    "name": "Puzzle Panic (Japan)"
+    "logo": "Qmes2R1GuaNH8ZbwebYd3bMZB86i8oY73zjN7AgBGeMHKW",
+    "name": "Puzzle Panic (Japan)",
+    "vid": "QmSbGNHXiwb7Po9RK7X4usGaReApXj7LkNKocrqTMR4tUz"
   },
   "A3772599CDB84DF71EF2BB38B1E2CB2F66593969": {
-    "name": "Mars II (Japan)"
+    "logo": "QmWNCzbB2ZNbDGgyvx6Z9t812MjSmLXLNGHyYFXVoCRVkQ",
+    "name": "Mars II (Japan)",
+    "vid": "QmUxRnS8GqeywpK1paxJoryYHjL447fUGCcaXrFMzRGwh2"
   },
   "A3D1212EB4C58958F063AA8577DDFA07903B28B3": {
     "name": "Magical Kid Wiz (Japan) (Alt 1)"
   },
   "A3DE07612DA7986387A4F5C41BBBC7E3B244E077": {
+    "logo": "QmPQ55wjJPy8ZGb2LH4C1JVntJ2KiWs5ZaPeh9kB8J2riA",
     "name": "Harryfox MSX Special (Japan)"
   },
   "A3FC0A55A91ED0041221F8DA788D824D9D795913": {
@@ -2333,10 +2968,14 @@
     "ref": "07448FFB20F260DF159A19DF2CAE1EE5545A0AEF"
   },
   "A469935DD39A856C06676817F51B403A3678AC1A": {
-    "name": "Fa Tetris (Korea) (Unl)"
+    "logo": "Qma3vJGCgh3LsZgRsDd8JgAEJycSdk154pBEkiav7mxYS2",
+    "name": "Fa Tetris (Korea) (Unl)",
+    "vid": "QmUVUKm7NMn55w3NDLqL242i6bC6qyT3cL6AyL9yN4LHri"
   },
   "A4BE5763CDF2DCD647B87E3AECBAB28ECC69776E": {
-    "name": "Checkers in Tantan Tanuki (Japan)"
+    "logo": "Qmb2peXPU8VKR9Zgcuxn8DVo2Pq5mStN2QtTe8jpEARS4s",
+    "name": "Checkers in Tantan Tanuki (Japan)",
+    "vid": "QmaegHTULMUQc9RHzcNAwkQYL5dcAGAjDAqEhT3LxH7zS4"
   },
   "A502E37F580BD287ED8338FCB1D809B8DC90BBE0": {
     "name": "Champion Kendou (Japan) (Alt 1)"
@@ -2346,16 +2985,22 @@
     "ref": "B656BD19DF58FC1BA4628342B87BEEEC5948E0B3"
   },
   "A53D1EA775A6C90A84F1F36349540B16CF8307E4": {
-    "name": "Jump Coaster (Japan)"
+    "logo": "QmRtSadp4qe7geN186eHakh2nSMHCa8C6hF7m8UfBWACov",
+    "name": "Jump Coaster (Japan)",
+    "vid": "QmPnzVhpiCLfKEfy3VW6gq7DCb8fc5FCspanMRtxs7x9Wy"
   },
   "A53FEAFA4C70D2378998F0DCB837905E5070C541": {
     "name": "Mad Rider (Japan) (Alt 1)"
   },
   "A553C3F204C105C23B227A1E5AEB290671CCDBEB": {
-    "name": "Final Zone Wolf (Japan)"
+    "logo": "QmTjLHz8UkXbzh5NZBkEx4vbPpQ3ZV44cgddX1xSqR1pmn",
+    "name": "Final Zone Wolf (Japan)",
+    "vid": "QmP5fxMvtcuSwgNrAE84BuwaG8Z8krzHZD5UkPZDaCiWBP"
   },
   "A55617157C5D89DB5900654B641E757A37FECD1A": {
-    "name": "Hole in One Professional (Japan)"
+    "logo": "QmWFYsotygoPyPfJTPKNrX5pQaHpRB5mpVa7ACkwcd9kem",
+    "name": "Hole in One Professional (Japan)",
+    "vid": "QmQn1v5Mp5e6w8PCuTjYxWVy3dxbvrej3xVEb31yNZ5a4J"
   },
   "A57F8EC4F89AB84936F46821969DE6BCA9F46D8E": {
     "name": "Rick to Mick no Daibouken (Japan)"
@@ -2364,7 +3009,9 @@
     "name": "Fantasy Zone II - The Tears of Opa-Opa (Japan)"
   },
   "A66E19E58AC5B4DA7DB071CA7EAD40C28A332198": {
-    "name": "Marine Battle (Japan)"
+    "logo": "Qmb8122j8mgyhkJ1g9gwzmFsGn3BX2bDvwtMrdsQKeDoge",
+    "name": "Marine Battle (Japan)",
+    "vid": "Qmdd77BBtt2caHEKA4ns9HQnLq1JGr5af8D3FvB8adWtNN"
   },
   "A67E699EDB471C35A217A5C3E6831C6CDB0EABE5": {
     "name": "Hang-On (Japan) (Alt 1)"
@@ -2396,10 +3043,14 @@
     "vid": "QmPbXdhp9SDH6Z9Z6XYWRyGczZ2tm6sZVsuPJCAq2fWJTR"
   },
   "A87971B9DF0DE44644C2188F5F475AEF7AE85304": {
-    "name": "Zexas Limited (Japan)"
+    "logo": "QmYSR5sWgse1kZxMFYq57mGxQ5VtSL1KeaY562Zn9pTNkR",
+    "name": "Zexas Limited (Japan)",
+    "vid": "QmWK8oDj1ZucapvJikpKr4Rx6U8tzrbtRqiKMYGb4njMb4"
   },
   "A8EFF8C532DA894C86198B04B0A5D7707FEB28C5": {
-    "name": "Tear of Nile (Japan)"
+    "logo": "QmTX56TsFsj1WhPQ6yBfb85VZDjkjG774yZ8T5GTnsyU5g",
+    "name": "Tear of Nile (Japan)",
+    "vid": "QmTzFo3eEvvY8gDYGzGQqeQTXNeChk6WNPndt44yXfM5tg"
   },
   "AA1621A6B61F7CFB2DF8DD2CF8647A943E13DFA7": {
     "name": "Exerion II - Zorni (Japan) (Alt 1)"
@@ -2408,10 +3059,14 @@
     "name": "Galaxian (Japan) (Alt 1)"
   },
   "AA68633FF1AFD385535B2ABD7C8756B6CF79256A": {
-    "name": "Indian no Bouken (Japan)"
+    "logo": "QmQqAfyEzk6SGXjcgSaq6CcLZxYQt3gcZTQQEbUrP2BEVK",
+    "name": "Indian no Bouken (Japan)",
+    "vid": "QmYnc3fFJrbMxCTL3s4cQk4SVdgz8vtn8kNooJ2d9UXPP8"
   },
   "AACAF2E694A1C05F2EF20A8CE6892242C0F88919": {
-    "name": "Gomok Narabe - Omo Go (Japan)"
+    "logo": "QmNf8yeGodiFN6XW2ki1bXKx2WcEztbDZaH1egTsk4ojEv",
+    "name": "Gomok Narabe - Omo Go (Japan)",
+    "vid": "QmVjTiA1ZF6FJQmDNK3mo4apmK3394qChTHGg53TWP8ys5"
   },
   "AB087D04EB5C2C8894758C7CEE32CCAFD80989A7": {
     "name": "Monmon Kaibutsu (Japan)"
@@ -2433,23 +3088,31 @@
     "name": "Gall Force - Defense of Chaos (Japan) (Alt 2)"
   },
   "AC109DAC24DF4DAE813CA5D9F0938CC48A162BB1": {
-    "name": "Price of Magik, The (Europe)"
+    "logo": "QmPJnkfiJnBLuzp3M4rvHbUASTHLpKioRCf4iBiGbRXjNP",
+    "name": "Price of Magik, The (Europe)",
+    "vid": "QmV7qskicE6KMEyYLZg6zCuBpVkC49xrV9WJ1U4zquDkEX"
   },
   "AC150939558EC4E56446BE9502177F28A29881EB": {
-    "name": "MSX Baseball II National (Japan)"
+    "logo": "QmQJHSPjuSjGSzMxxLLZD9FDQ3fNkRovBrdmD2TqrTf9mx",
+    "name": "MSX Baseball II National (Japan)",
+    "vid": "QmT6Nqnn6AgampREwW7sW1Y1nnJTY3TXLyAYzCKMgaas7h"
   },
   "AC381DFB4D0B52DEDB18A8DF7A4651ED2978D12F": {
     "name": "Rambo (Japan) (Alt 2)",
     "ref": "770805BD0BE8B09A3BE10030060D6AD8DC07D1C3"
   },
   "AC391FE51F69E0A55FE3AB66C8EC3F2792DD5D08": {
-    "name": "Color Ball (Japan)"
+    "logo": "QmfQNtRpbwKSSmLGm9uyyTdU3B7u6UeY6QC4W2H74ApMYN",
+    "name": "Color Ball (Japan)",
+    "vid": "QmRvKG4xdjwotohbT673H2Wnh4r1tzqke3eyVq9sW9NiaH"
   },
   "ACC14E9886A3281B658DC458C1AE93FA9F24DB04": {
     "name": "Alibaba and 40 Thieves (Japan) (Alt 1)"
   },
   "ACCE81BF851FA5869CD75181DF4FCF7D4489A9DB": {
-    "name": "Robofrog (Japan)"
+    "logo": "QmRTZNvsiDrnvQFcynLb4cFpMHGhBeduvbX7bRG2NZc5L5",
+    "name": "Robofrog (Japan)",
+    "vid": "QmWytYTJLV1yfxBgZUTT4YUQGrkfqwUzRfoiKfPSR7kX8D"
   },
   "ACD46021A228B2B612C82D04C124B78E7D4C25E3": {
     "name": "Green Beret (Europe) (Alt 1)",
@@ -2464,17 +3127,23 @@
     "ref": "D33FE18EDE20DA4DD3D6991A9C2995E149C8FC3F"
   },
   "ADC65666DB35CD2CE694A8E2F32B95BD98D72291": {
-    "name": "Master Chess (Europe)"
+    "logo": "Qmc5KKAW67SicdG7aUhQpbs2zZJMzDbGyKR6qdER9QdecM",
+    "name": "Master Chess (Europe)",
+    "vid": "QmcGT59MhUjAe2QnKf19t3XMNSnojzX9hdXdMhjFupPSGp"
   },
   "AE0C0B0C9468E137EBA5B52F96241ACD55D9746A": {
-    "name": "Adven' Chuta! (Japan)"
+    "logo": "QmQEeGGW6MFic4HHwSsNKCit8c3Q7S3iFjSydx7FEVfrtv",
+    "name": "Adven' Chuta! (Japan)",
+    "vid": "QmNuH8LMjJXBS5UuH2aCfQY63aj6qT6cKyxjrAUXdubCqb"
   },
   "AE3C3C2C022F566D2E790ABA193470D5826F36CF": {
     "name": "Han Seimei Senki Andorogynus (Japan) (Alt 1)",
     "ref": "55183B7B7DF66950DBB65EF1065D7D987E0FDF5A"
   },
   "AE52922A197A2F47C7FC4ADF9DBFDE13C136ED14": {
-    "name": "Fathom (Japan)"
+    "logo": "QmSBRe42mKDiBTcpd6znj3YaYCmHsEYPTopNWFHt1jBVVN",
+    "name": "Fathom (Japan)",
+    "vid": "QmV83xaMeiWqHF66w7Xtztoe1kMuXM9Ht3R8qffDNP1vWd"
   },
   "AE5B8E69732A23AEE102BCD996AD06225F1B3EBA": {
     "logo": "QmYwUtat15dc3ffTHgiHQ7Z3SoJMTsRJHcnSDvxtNaxGuM",
@@ -2497,13 +3166,19 @@
     "ref": "78079266711E60420480E4D95A39F0D7D974AD32"
   },
   "AEB705AC42F8D9D62ECDB25899535D1F14F1C49C": {
-    "name": "Pass Ball (Japan)"
+    "logo": "QmP2mFxi61RRAjW27jktEaRvwkedNbXjyinETyLHZPaoSt",
+    "name": "Pass Ball (Japan)",
+    "vid": "QmQce727aAho7Lpbyf1ieyiiBKUHYBTfSJ6Qc3WZH2EPEt"
   },
   "AEECB99ED7BFE2FF39A5F42637B6B33ECC79C443": {
-    "name": "Nyan Nyan Pro Wrestling (Japan)"
+    "logo": "QmNrDvLwdshMWACzjfffkQaMDYEe3ma7EmbojgGEWicKbw",
+    "name": "Nyan Nyan Pro Wrestling (Japan)",
+    "vid": "QmPTPkDuMUPtXTQSPmQy6qtsJxCW2cFqK8QPcPdZTWacab"
   },
   "AF1A6F4DD12D726A7A4377753CE3DB82BF24EBA4": {
-    "name": "Champion Pro Wrestling (Japan)"
+    "logo": "QmdcgMLdg8n4PaYJfUuJEDKSfdJ4oo9qowCkmd6YzPaaV5",
+    "name": "Champion Pro Wrestling (Japan)",
+    "vid": "QmcL1ALmbvG3WrYWhktUqVAKTUyY9WfciFqtt9yHVtYj4H"
   },
   "AF310EE21B5534F32EA92C0AE34A44D828D157A7": {
     "name": "Tetris (Japan)"
@@ -2525,13 +3200,17 @@
     "name": "Replicart (Japan)"
   },
   "B030B3C22BAADD0D419657DCFA4B974AE1CD7508": {
-    "name": "Zanac (Japan) (v2)"
+    "logo": "QmePrzq2Ua6cALhB5GynhZtUjazQxANEU6q7ABp2NUMaUi",
+    "name": "Zanac (Japan) (v2)",
+    "vid": "QmTfRAyaGUCxn9hod2skvE6rGxK5LsRvWjhVkhnuDE6P9X"
   },
   "B07A6AE619FCC6291838959DC1A899DE832F8D97": {
     "name": "Star Blazer (Japan) (Alt 1)"
   },
   "B0956B97C9087AABAB333C271C7AFD9754AE84CD": {
-    "name": "Bank Panic (Japan)"
+    "logo": "Qmc76A2a8w1dQnSFcjBFgugyJYfG1wM2q2yKEsc9v4XcAk",
+    "name": "Bank Panic (Japan)",
+    "vid": "QmcJDvow1FfwD27soaSrDuTAwKJfwfBpFwctyKWkwMEkHF"
   },
   "B103D4248729AEDA9EBF5766C1791B1950246968": {
     "name": "Balance (Japan) (Alt 4)"
@@ -2545,25 +3224,33 @@
     "vid": "QmcMHE6AJLPmRtJ2MvshaguuTrooKBKcX6VpjRQTBVwZzg"
   },
   "B15E73A5FF1AE17AC67F2CEBB5862D5E5BD80BC0": {
-    "name": "Bouken Roman - Dota (Japan)"
+    "logo": "QmW7Aq96ndKqMe6XNz5BXs23woTYd2M8p6JftPP6oKnmtx",
+    "name": "Bouken Roman - Dota (Japan)",
+    "vid": "QmZcNBQHdrcyV9jpmzPt6AvUJNf7CWhiQ3YEdXahjpKmow"
   },
   "B2BCC1C0D64B6EE9F0E9BBBCF0EF7B64D80D3B90": {
+    "logo": "QmeysUeqr9jtHGMcsL4aPDdNhgwGY6gXGPrK9gUEtW59Q6",
     "name": "Star Trap (Japan)"
   },
   "B2CCA92B7A51A43C310E58E011F3EDE1E7125A96": {
+    "logo": "QmPn4oqfWAFN1XAqbkVuCY2Vq23sEJKR6ABjv6QpZ8ThpV",
     "name": "Game World - 126 Games (Korea) (Unl)"
   },
   "B2CE0BC86F82F727DB956DFBBE2A3FD0CB72F5FC": {
     "name": "Teitoku no Ketsudan (Japan)"
   },
   "B2D9DCEE787ACE26F8F4D2D18E24A3D645A6F853": {
-    "name": "Moon Landing (Japan)"
+    "logo": "QmUnEtv8Y7o1HGZfsAtVoW82n9Qa2t3AbtUYyr2ggro3Wq",
+    "name": "Moon Landing (Japan)",
+    "vid": "Qmao95uCFner9K1mWv3zm3AeC3FtpBp1jtT7YzJyutmKzD"
   },
   "B337EA56278523F984D1B000CD00F339D82017A0": {
     "name": "Bank Panic (Japan) (Alt 1)"
   },
   "B36C925005F1E530CAB2B5F6E2A5DDFD182C0140": {
-    "name": "Cannon Ball (Japan)"
+    "logo": "QmPL89KP6KfbzQ9aGxnFLMec8Z85j3QYkD2NK3vCF4QYk5",
+    "name": "Cannon Ball (Japan)",
+    "vid": "QmR31KseJwtkGUTwFWAE7oiLUoqoqrwArazfiTKgAWvKUC"
   },
   "B3C2DC4D1C940DDB4B9E742B8F5A47AB1E2D385F": {
     "name": "Time Pilot (Japan) (Alt 1)",
@@ -2586,10 +3273,14 @@
     "name": "Exchanger (Japan) (Alt 1)"
   },
   "B5CDEF44B22C7E234895B053E487233C117D1A4F": {
-    "name": "Jumping Rabbit (Japan)"
+    "logo": "Qmd86x5VZiCTzKio4GjB2ugNAamDJge9dQWpxEgguPPMfw",
+    "name": "Jumping Rabbit (Japan)",
+    "vid": "QmXviQzPzLpGaLdEZV8LQfVrQr91ayurtrqZyCgMdgLiLR"
   },
   "B5D130A50F6939028702C1645426A29EC8EAD6E5": {
-    "name": "Mr. Chin (Japan)"
+    "logo": "QmU2W8euxif62CXpDb1CftF8DhAcJhF4i2QUEVsxSPWDJs",
+    "name": "Mr. Chin (Japan)",
+    "vid": "QmeVvTkdagLtEk1Sm1a3G56TkYqyEKgr3jhEEjyBFTwnw2"
   },
   "B63FC17C1D004CA4D7F3B1EF8962210A779CA665": {
     "name": "Dragon Slayer Jr. - Romancia (Japan)"
@@ -2600,7 +3291,9 @@
     "vid": "QmSvLBBRtzYqi7Ct61S61TMms3jKdrrWV5He7MCpGvHHw7"
   },
   "B6D39BBAEDB89F8C908CC2F44A0AB17E4B80CA4F": {
-    "name": "Monster's Fair (Japan)"
+    "logo": "QmU8cURTefVYiBb235W9C9B8VMfWFgd9NZhBXQdF5AXY34",
+    "name": "Monster's Fair (Japan)",
+    "vid": "QmcwhSx8TAyWNcuKPMhtFfinBSxUMW3CYw7mj4d9wiLWys"
   },
   "B6F10B6BEDC26D9415335997493139CE7A2C7916": {
     "name": "Chack'n Pop (Japan) (Alt 1)"
@@ -2617,7 +3310,9 @@
     "name": "Kitahei (Japan)"
   },
   "B755D7DB109CD0A9392ACCD1C83E6D995A8A04D6": {
-    "name": "Butam Pants (Japan)"
+    "logo": "QmfEHLvQDChR2eTbJy3JpizyWGn2vGkt5Z4uhqBewyW7br",
+    "name": "Butam Pants (Japan)",
+    "vid": "QmXKPBFpXK3MTYQ2u5N6kKEJvSik3H5mKNucY4DuipGM4c"
   },
   "B76FFB94A08457DF0A51897CD87CD8A91610224C": {
     "name": "Bouncing Block (Spain) (Alt 1)"
@@ -2627,7 +3322,9 @@
     "ref": "B1248F7B9D4E16A894555C51C533D3FD9A90802E"
   },
   "B7FD07B7825C6BEEB19B1F38631D2869F60939FB": {
-    "name": "Nessen Koushiyen (Japan)"
+    "logo": "QmfTxCbgbiq5EZBrx7g1F9TQCZ2U8vvorP5VuTQndoAV2X",
+    "name": "Nessen Koushiyen (Japan)",
+    "vid": "QmRTYkBNgkfLgAKwGyQrHEk94WkWpCH41eFYSaTZJNVb4a"
   },
   "B82DC590AADC930B43DB303BB3E3458E7695E3B5": {
     "logo": "QmaZanjL2xHnBJVDf8iU1dBjQH9p46oCSSQcYB9VWbyZ8S",
@@ -2635,7 +3332,9 @@
     "vid": "QmW8CtwqDceRubXLG9NV2AiHSdSBChnLPAdpNCxQpTGy9g"
   },
   "B88E9C548873DCFD190E0E38F7B279344EEA41EC": {
-    "name": "Pitfall! (Japan)"
+    "logo": "Qmb2EfXKTFz5nMvFNVEXTTRLDTehE2HaNeV8GsNjNR547d",
+    "name": "Pitfall! (Japan)",
+    "vid": "Qma8jim5a7D1NGqxuYzmgC1e8sZkLQs3gCpySaRptffCzC"
   },
   "B8F4EE146C3CDB8F506371D001E6398ECDA85251": {
     "name": "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1)",
@@ -2646,7 +3345,9 @@
     "ref": "4B996BDDF88605C432F73564922106A63D31F62C"
   },
   "BA30AD98A8488BEC6D0C661F7B859BEB2FE219D1": {
-    "name": "Ghostbusters (Europe)"
+    "logo": "QmSPRE88J3aTC6zBxpLYSTzWfSZPne3rzPvkgVK7epEazT",
+    "name": "Ghostbusters (Europe)",
+    "vid": "QmNqGXQo7ZPWsWpPSuCygGLa6MgaArSntjbEaznzSfMKLF"
   },
   "BA325451FB5A80C2872742C5BD61E7BB75C5763B": {
     "name": "D-Day (Japan) (Alt 1)"
@@ -2658,16 +3359,22 @@
     "name": "Hole in One Professional (Japan) (Alt 1)"
   },
   "BB902E82A2BDDA61101A9B3646462ADECDD18C8D": {
-    "name": "Cross Blaim (Japan)"
+    "logo": "QmUSnAAVJkzBSk1RLkPeLeej71hZRtCnk896wbGGdG3cUJ",
+    "name": "Cross Blaim (Japan)",
+    "vid": "QmejrLYLZgqF8t1gbW323Ym3deoZuhxDvck3hF3nYaFKNJ"
   },
   "BB99FE7702733AB0F9E8856E91F5DDCB55D30B5F": {
     "name": "Girly Block (Japan)"
   },
   "BBCA0B00374BA5366BA53B380285D38857450A7D": {
-    "name": "Hitsuji Yai - Preety Sheep (Japan)"
+    "logo": "QmYwT8p8q9zQotjCNPQhfapbQzCVd3dqGbTVj6aos47hoW",
+    "name": "Hitsuji Yai - Preety Sheep (Japan)",
+    "vid": "QmbFuH8YNcE2hDuM4cWGKZwhVkQm34DX75R6FVhTYdzUdb"
   },
   "BC3BE8F829211DD8A8EB854F86FF014C47ED9254": {
-    "name": "Scarlet 7 - The Mightiest Women (Japan)"
+    "logo": "QmZ5wjjSMxsjoCcizy7uaDiQcAzRYvjMUdb6fzK6GB659t",
+    "name": "Scarlet 7 - The Mightiest Women (Japan)",
+    "vid": "QmaiF6aHA9GNTkNRQMBi8By7BntoZw495QGNaB4sD1D53J"
   },
   "BC76A04970C547B7C080E747D393D13C87E82E7D": {
     "name": "Links, The (Japan) (Program)"
@@ -2677,16 +3384,22 @@
     "ref": "6A3A68836A468CC761A268175C64D53C4C1C48BD"
   },
   "BCFDB43B275C62A76856AAB94FB1B53BD92B2DB2": {
-    "name": "Break In (Japan)"
+    "logo": "QmR2kkJVg7yG7LNH68V9xE3hPt9ETcvggmGz1G98tWYhsG",
+    "name": "Break In (Japan)",
+    "vid": "QmTv2DENcxEJv7EQiYK2BXdwukjdM6CoeE7v5vuQum4UKK"
   },
   "BD4B8C48F1D8107F11AE680A787D7B3825669B7C": {
-    "name": "Blockade Runner (Japan)"
+    "logo": "QmYvXaLbeXaD7gXjfSc6BmfzErGAE6yJ3mjn8EggsNfPVS",
+    "name": "Blockade Runner (Japan)",
+    "vid": "Qmeok8P1wKwQQE3oxKNhipRQg1kE1hLZc6kbYHgykdB9ac"
   },
   "BD70B00CCB8FAFCA883C7160585E9C5920CCA58F": {
     "name": "Dynamite Bowl (Japan)"
   },
   "BD8F335FC45E9920F0691A525A0FC853B2E4B595": {
-    "name": "Computer Othello (Japan)"
+    "logo": "QmYhPaLiNZoAiYze2C4A21o2dGqwQ8ihrGF65TDikWUw4i",
+    "name": "Computer Othello (Japan)",
+    "vid": "Qmbaq6qtiNa4bmsbBbLVP7MpmjLQzsRJZYykzKJohAfxHP"
   },
   "BE16501255617BADE264DBF63DC59008E1D84AC8": {
     "logo": "QmTY4LTuoUYHrh3wx22ohhq2bxE3aPd4dFuGwa3ksVY7qF",
@@ -2694,7 +3407,9 @@
     "vid": "QmXhogwQCxzMqFBxgdbAQSyEEVLoY8WM7DYrahQCV8RdDE"
   },
   "BE8BB7F5E812CD31A65AEC3782A2D526BEF9B3D6": {
-    "name": "Pipi (Japan)"
+    "logo": "QmVQVRJ3BFsTwTRh2JhpVX14QpGTc94bVf1Hdc283JwNxc",
+    "name": "Pipi (Japan)",
+    "vid": "Qmed55Rm185DzPc9hVtddY22CnYfjCzKN78CehFGzrZ5yx"
   },
   "BE9D337DD412056F5FE78FD19467A63E80E3864C": {
     "name": "Queen's Golf (Japan) (Alt 2)"
@@ -2712,9 +3427,12 @@
     "ref": "B82DC590AADC930B43DB303BB3E3458E7695E3B5"
   },
   "BF7E27B3456F1A96D94A8DBF06688C8F833BD818": {
-    "name": "Kinnikuman - Muscle Man (Japan)"
+    "logo": "QmcQNoqMugnUKy7YynMhcBGuFowcdFX3TCzZZPmPYK45gb",
+    "name": "Kinnikuman - Muscle Man (Japan)",
+    "vid": "QmVJxyPL6QFERj3pJ7XciTybBbr8wKFjYs7TJcWhDDnZBn"
   },
   "BFE8046F8CCC6D6016D7752C04F0654420EF81E7": {
+    "logo": "QmXysP12jEvBk1vFqGHU1o82ss6pGMcBKTyodrzL8oVsiy",
     "name": "Tumego 120 (Japan)"
   },
   "C06DE0EDA82E1DAA3EA3CBC5EBA5D884FD0CE8E8": {
@@ -2725,19 +3443,24 @@
     "name": "Mobile-Suit Gundam - Last Shooting (Japan) (Alt 1)"
   },
   "C0D33B513704ADC56718B1F56C1062718683C77C": {
-    "name": "Formation Z (Japan)"
+    "logo": "QmPGfFLKPM7a6DrqzyQdy6YbYigkSkihCRZfDgeoBVLuBm",
+    "name": "Formation Z (Japan)",
+    "vid": "QmSTVed915kbPCbneNU2vptjSu3dj2hVjC3WvAN2Hh7gn5"
   },
   "C0FA7D53B3E66BD1E1680BB135DB8F74ABBAC52E": {
     "name": "High Way Star (Korea)",
     "ref": "F72681F09B52D530EC905E8DF21C4A15E30201AB"
   },
   "C1746EFEB4B44DCC80DFC4F429009FEAC91D9C48": {
-    "name": "Star Force (Japan)"
+    "logo": "QmNyHY8UNg8qKEWkiAnJycMa4PaTsVGUi3B2TqNaqzkpoY",
+    "name": "Star Force (Japan)",
+    "vid": "QmYqeq4PWRZp3Er3aDr6aNasUAA28hZ3jGFGjaKyyvqCKD"
   },
   "C1923AB5C5DCAF67AF3E23FD1AC42E2D4C61ACA7": {
     "name": "Final Mystery Murder Club - Satsujin Club (Japan)"
   },
   "C1C350C719236AF5EEF8798C4532351BEFCFD348": {
+    "logo": "QmWLCTwchNGfhzqofxyCuKBg9gM4gkTFCirHTLRhhuwZn7",
     "name": "MSX Derby (Japan)"
   },
   "C1C5EC4042760880216F781EBD5E7174A3B0F9CA": {
@@ -2746,10 +3469,14 @@
     "vid": "QmV8YMWePLuBJo11tTRivtDajjzb9wnDyHrZBGKtQCfiLd"
   },
   "C1D272645A249757B8BE5BD913BA2D3447892387": {
-    "name": "Sea Hunter (Europe)"
+    "logo": "QmfHvK5rxL2oY3KetFtLMe22ecfMJDVZoVngJpbPyGT8jf",
+    "name": "Sea Hunter (Europe)",
+    "vid": "QmWX1EePrcbYgbvXGpFZsQKTXXL4VNg26qCfM31CfwooCi"
   },
   "C1DFC86C441E1128194F3AB490C94E29275B5DF9": {
-    "name": "Kung Fu Master (Japan)"
+    "logo": "QmNs48Px69TeCJxCDAqHTpnMNdDEnbeWUswXCogwXE8rMd",
+    "name": "Kung Fu Master (Japan)",
+    "vid": "QmP1guB71Rmj2oFgVpqpNetZnr5KJexNDoVwQ9TQSSZNVM"
   },
   "C20DEF84EFE71EFDF91DF3100919D151B2E7BDC1": {
     "name": "DX7 Voicing Program (Japan) (Program)"
@@ -2758,6 +3485,7 @@
     "name": "MSX Basic-kun Plus (Japan) (Program)"
   },
   "C2F4DF1BD91F7DEE1536774B9D7089086B9BF835": {
+    "logo": "QmYjQRVuaVf81AQoxiTCv8nSvNxMKg2X7NrdS2NyzeBr1R",
     "name": "Fandom Library #3 (Japan)"
   },
   "C344ED78465203E12143BD9889281BA981A195E4": {
@@ -2770,7 +3498,9 @@
     "name": "Lupin Sansei - Babylon no Ougon Densetsu (Japan)"
   },
   "C4F952258020DE9E23A718A78C18D22E2CCCFE3C": {
-    "name": "Laptick 2 (Japan)"
+    "logo": "QmUMpEga9mVAAtD8EddoSutMZvE63Zw8Rxc2mgDvqHmnvy",
+    "name": "Laptick 2 (Japan)",
+    "vid": "QmXcD1GQdVsLfuraGbgrp4UQiu4wFhb9XmzgUURXJXv4JN"
   },
   "C5AF6C4255BAB55D68E82FA016CB35E3213BA244": {
     "name": "Rally-X (Japan) (Alt 2)"
@@ -2780,31 +3510,43 @@
     "ref": "E73946F1F26589D77926276CA4F9DBEE60C53FDE"
   },
   "C5F1897C416F62CD58CD6257282E3428155CD698": {
-    "name": "Attack Four Volley Ball (Japan)"
+    "logo": "QmWR1B8QUsuDVvKe9tSbz4dyHwgEbw1ytNbHwxcGzbwFUy",
+    "name": "Attack Four Volley Ball (Japan)",
+    "vid": "QmXPt2YFSUtuHokCYsxzfW4Xix9z7Dt5wopjGCWMJYMf8W"
   },
   "C60A28A4048710AD3C63EF5BCF4CE03DB54C00BB": {
-    "name": "Yokai Tanken Chimachima (Japan)"
+    "logo": "QmUoW2i5WmED791MwyT5d2rwnchVbLENJp5VqJkK29JQNg",
+    "name": "Yokai Tanken Chimachima (Japan)",
+    "vid": "QmRkLQjVV9TvmJy8KAZYu74UgViKzh6BKhNNu3NEHYeHMH"
   },
   "C6227431BFBC3AA921120EC3DA7F6429A1A799A0": {
+    "logo": "QmWEi64BXB1VWKRRUAZWbg1ngG1dDk1B73ZwjcM728LLrx",
     "name": "Jyanyuu (Japan)"
   },
   "C62E058C2A54F3C9ADBA2E6A3006B8E749C43BD7": {
     "name": "D-Day (Japan) (Alt 2)"
   },
   "C64F2FAD6417C64595BC204D843527E17A58776F": {
-    "name": "Brother Adventure (Korea) (Unl)"
+    "logo": "QmbfMH7kQQM4HShDpgrxHCzfRnjGix7azx2exKnri3LrCg",
+    "name": "Brother Adventure (Korea) (Unl)",
+    "vid": "QmaRgWifjEgqWn89sYS8mb2PWjpwUnrG5yh6wBxzjjujXe"
   },
   "C6F090882886DCF783E5B65BFF75C5E034FBB2EB": {
     "name": "Crusader (Japan) (Alt 2)"
   },
   "C713ECD0E2EF89B2443E516D5FFA53D3A3422E22": {
-    "name": "Poppaq the Fish (Japan)"
+    "logo": "QmTCNWsQ8UUAkRLatn2H7EH8oRA39oregxwDCBGGy7ahmB",
+    "name": "Poppaq the Fish (Japan)",
+    "vid": "QmQktSZNdx54n7GG5cmfEXXTAjSynNLnNPrS4HGrzSufak"
   },
   "C72AF5118835E49AC6D181CC832336AB22EC5DCB": {
+    "logo": "QmRWnHG9z399v1EwFxkkpRLtBtRe4bAx3zAdsvwozoBeVE",
     "name": "Renju & Ojama Dogs (Japan)"
   },
   "C73D4C27AA2B0FB946E398323BD67D9E53C4F9EF": {
-    "name": "Scope On - Fight in Space (Japan)"
+    "logo": "QmQ7FNZ2jqYWjNBmSz98ircQTCbYYuhq722AXKtEwHxSua",
+    "name": "Scope On - Fight in Space (Japan)",
+    "vid": "Qmeao8JviPznQ3R3ZeoDvHrazUZXSHvpf5ZbgasXKUb4aj"
   },
   "C74A5A6164536750D6B3EA90E19798AB6FAD79D7": {
     "name": "Seikima II Special - Akuma no Gyakushuu (Japan)"
@@ -2830,22 +3572,32 @@
     "name": "Zenji (Japan) (Alt 1)"
   },
   "C95F8EDB24EDCA9F5D38C26D0E8A34C6B61EFB0C": {
-    "name": "Pinball Blaster (Europe)"
+    "logo": "QmPkiCi2MN2F518NNe97b8jAgBqPgz5FTD2xcSYQcehLPN",
+    "name": "Pinball Blaster (Europe)",
+    "vid": "QmUKLXLsKrKQPjAuB3JMgrvCy8ZboHpVpQZiinuZRFrh9J"
   },
   "C9C272FFA69D3E0AF5BE42E7636B02DC2AF6EA8C": {
     "name": "Ogre (Japan)"
   },
   "C9D10B1DF3BCADB3D917CF2A6877AE6E71CA3A57": {
-    "name": "Ninjakun Majou (Japan)"
+    "logo": "QmUPDQWLLZ8Z7fs3tpLiji2KGeqNPkkCC5atosjAy1HJao",
+    "name": "Ninjakun Majou (Japan)",
+    "vid": "QmRxcG1vdj3pCMbPaGzTeuDQpnUHxUPCXVbisc6zAeVGMm"
   },
   "CA05A183F4E7E56102706D1B9B852AD4350264BA": {
-    "name": "MSX 21 (Japan)"
+    "logo": "QmcRTeVicFMi18rL75E1M4TNHWzMkfkPopBEzrdw3f51N7",
+    "name": "MSX 21 (Japan)",
+    "vid": "QmVVprawq7aT37CXMpZseqpJm2G5nfjNq8mKYtWqZGBDUB"
   },
   "CA5F14925A7D33D83DC581BBE2FF5258389BFBA7": {
-    "name": "Gulkave (Japan)"
+    "logo": "QmZgoywoLYL7RUZ2mZS8xvWjyxNNW7KqPnnpHFVMry7LJF",
+    "name": "Gulkave (Japan)",
+    "vid": "QmVKrqi4pbeqfmVH9BTFaG8xC7CzeL6MRDxiPPaqxp2ytF"
   },
   "CAD653766B597A4AA130A9A1956ECE77BA4D52BC": {
-    "name": "Casio Pachinko-U.F.O. (Japan)"
+    "logo": "QmNhPACCKbo8W2RJviChMUNUEpnkMsftaSqwkcMpgHjorn",
+    "name": "Casio Pachinko-U.F.O. (Japan)",
+    "vid": "QmVuBjZVJT2Evrj4d6HLLU4fanETsTNrKc9EPoUEYtKS1k"
   },
   "CAECA37113C56E696D7053D90F5F9F3E02DE8AD1": {
     "name": "Elthlead (Japan)"
@@ -2854,7 +3606,9 @@
     "name": "Jet Set Willy (Japan) (Alt 1)"
   },
   "CB48969F27EAEBF24C61F651399EC2433D85BCBC": {
-    "name": "Actman (Japan)"
+    "logo": "QmWLiim44tnQRriEaSV6SVBhC18hApt2aM34Z7hm5pLj1b",
+    "name": "Actman (Japan)",
+    "vid": "QmRwLVJacXwd1PLNpidfvSu21rDBehYtdz28BpkhsNyBFi"
   },
   "CB6BD26961387DEF757C7FAEEC7563D77D404D01": {
     "name": "Nobunaga no Yabou - Bushou Fuuun Roku (Japan)"
@@ -2866,19 +3620,27 @@
     "name": "Hyper Olympic 2 (Japan)"
   },
   "CCF6E244D27EC61195280D0915A3B43D291E3FAD": {
-    "name": "Suparobo (Japan)"
+    "logo": "Qmaj4vrEUcD664PWhsg2YghvYVDRUw2b2TCbMhroLobTvq",
+    "name": "Suparobo (Japan)",
+    "vid": "QmeewGDSKRFs26dSRti2rEsfz2guNuJKw3f4XuRWPMxYtm"
   },
   "CD452442338366411F6B24739FE59E20F3AC24DC": {
-    "name": "Balance (Japan)"
+    "logo": "QmX3sn4VjKyS3KqSih9ZHBzPgTTvRc7VRQknCUpphCTWJy",
+    "name": "Balance (Japan)",
+    "vid": "QmW8KCaNXp4eB9Cm5XsLkKSms7qmCj2seNS4gFot5pb3nK"
   },
   "CD69CE70747BC0DEEBBA9FD307A07F5DFB926CC3": {
-    "name": "C-So! (Japan)"
+    "logo": "QmQ6EjdVZc9SsB7AWYidbgxdvyacp9gcD73tvR46T8846H",
+    "name": "C-So! (Japan)",
+    "vid": "QmUkJvMBmmtFcjJzXGsQBqw92sFKZNZKxDkoKH3FiMNXv2"
   },
   "CD8EE800822FF0CD295621FAAFAFC73BE4BACAD0": {
     "name": "Eidolon, The (Europe)"
   },
   "CDAF507DBA4A48B5C98850A96F61F6D2E8464E00": {
-    "name": "Police Story, The (Japan)"
+    "logo": "QmTPCN6sCrVeYBX8p9AhzqPxYBkMgsDN7hyEMmhvYTpW5J",
+    "name": "Police Story, The (Japan)",
+    "vid": "QmfNWq9o31Ssu6GAgAopkJdztDUsYc7KrkiNgmbGeYkiSr"
   },
   "CDEADD6CF7BF5B53AA7D901446B0CE586542C580": {
     "name": "Fire Ball (Japan)"
@@ -2887,7 +3649,9 @@
     "name": "Formation Z (Japan) (Alt 1)"
   },
   "CE1376941359471CAE41887FE11F10D3B696A926": {
-    "name": "Burgertime (Japan)"
+    "logo": "QmPZKYPCgf5DDWtNBztL6mYRNqCWEg5db3B4zoBgenfsKs",
+    "name": "Burgertime (Japan)",
+    "vid": "QmZYspT3Jd76BGZMteLdd1RHGeM3y1Qa28U46Pqzna1umt"
   },
   "CF088B4EEFE7F426E438DD2FE7A3433140ABBA52": {
     "name": "Synthe Saurus (Japan) (Program)"
@@ -2905,19 +3669,29 @@
     "vid": "QmXqjJjfadf3ALBJtGDbAVNskNyWyJHd7pN5FtGGMfQWC5"
   },
   "D03FDCA57B55BDB7E6B5481615B8AD0C8A71F77D": {
-    "name": "Protector, The (Japan)"
+    "logo": "QmQW55A7YPZTahfzMZ5ia8EXv3WDZvRwrFuHfGwn6VYpJ5",
+    "name": "Protector, The (Japan)",
+    "vid": "QmTLXEgE5kRDPGx2RNQTaFDwvYa7EPBxDgZMJFuMnskaVt"
   },
   "D086280DEA7FB10FABAAE26ED9D404BBE69C70C4": {
-    "name": "Final Mahjong (Japan)"
+    "logo": "QmVPxpf9zav8X8h5o1s31N8ByYfaKahBxJqKJ2SWp9V92W",
+    "name": "Final Mahjong (Japan)",
+    "vid": "Qmc7TrDTtWGuoMXAXoNmQuv7GfYSFaBGWMw9yPPf5TYxFe"
   },
   "D0E8BC3F5FD93DCD07CBB945B00018A491842242": {
-    "name": "Crusader (Japan)"
+    "logo": "QmS8FHB7B3XEPkiLvjpoUuQRaA3SvwKVwzhHho5eocCPyZ",
+    "name": "Crusader (Japan)",
+    "vid": "QmXV9ywkfaYwiBruMjyuCbXqhbWG2EerdJgiBEcegFR66v"
   },
   "D120CA303C3E1DD56ADEE68F10E9E1AB51F50AB3": {
-    "name": "Sinbad (Japan)"
+    "logo": "QmYkSgK6Qr6eaWx9ZzxDk9tmH7fSsTXzQ3wzxaTfBuXgvM",
+    "name": "Sinbad (Japan)",
+    "vid": "QmRtkamgxuWfqgiWoyXJZXYUTQvb6M8FWGJ8mvNUjodDbj"
   },
   "D147F2CAC0600527CE49BFFFC865C54EB783E5E5": {
-    "name": "Toobin (Europe)"
+    "logo": "QmaA94du8mCaXi2PHEdQjdEWwPXMZDuPr4ahNBGs32dk6A",
+    "name": "Toobin (Europe)",
+    "vid": "QmSdEtwUxEit11DWHaf9cTDEDTkzimSb4N8RhDqfbcAKXU"
   },
   "D17ACC97BF2F853A5FFF58DA733E4CD53CDAA3ED": {
     "name": "Return of Ishtar, The (Japan)"
@@ -2933,7 +3707,9 @@
     "name": "Super Daisenryaku (Japan)"
   },
   "D1CF5410ED71F77670F65EB08EE944436BC0EB10": {
-    "name": "Moon Patrol (Japan)"
+    "logo": "QmQAG6aBsxDdUJiDd93XhUYzopkmK55H613ir7pJhFKRC6",
+    "name": "Moon Patrol (Japan)",
+    "vid": "QmQsTTdLBjHtBT37pdp7GrUgcFtNgAwLJuCkYGhHPeQyZS"
   },
   "D1E3AFECDE1656099DADFF99C6ED2AA8FA6DD834": {
     "name": "Champion Pro Wrestling (Japan) (Alt 1)"
@@ -2943,7 +3719,9 @@
     "ref": "E73946F1F26589D77926276CA4F9DBEE60C53FDE"
   },
   "D1FBDBDF2E830139584D7DC796806AA3327720DD": {
-    "name": "Dungeon Hunter (Japan)"
+    "logo": "Qmcea76wuHFmZKAjKAHsLZJn3vaX8qL72tbHQ4YCAw9YDD",
+    "name": "Dungeon Hunter (Japan)",
+    "vid": "QmcdMDkQiNHSdpmzNpFc3RcD8txXAR89pAtub2Y1aMXLGr"
   },
   "D1FCD47F6B68FCEE9914B32FD48B2634CF60C994": {
     "name": "Thunderbolt (Japan) (Alt 2)"
@@ -2956,10 +3734,13 @@
     "name": "Skooter (Japan) (Alt 1)"
   },
   "D2AA1605A6B56C118E18B385AB879536D74CC355": {
+    "logo": "QmXNdUGktVubLksA5yuLmkcabKkg27QhdtRoYPwTgDdwge",
     "name": "MSX Soccer (Japan)"
   },
   "D2BF27695023A3E7DAAEAB1CB76572F2C412DE1E": {
-    "name": "Mini Golf (Japan)"
+    "logo": "QmdWaip2FSxUBPMMCKHmxqh95JsW5rm2r92gvErm8PSpoN",
+    "name": "Mini Golf (Japan)",
+    "vid": "QmWxHc2nrSBz4y5JuPjyZCvL7HK1ubPCVU1sVQ8X3sSRT3"
   },
   "D32279E01FB5762778D696ACC2053B9503D5A715": {
     "name": "Cannon Ball (Japan) (Alt 1)"
@@ -2995,7 +3776,9 @@
     "vid": "QmPxYkDZ8tVQZKYWrRNBSLt22AvgiZvGTzJ6CbbekVJinC"
   },
   "D5B164797BC969B55C1A6F4006A4535C3FB03CF0": {
-    "name": "Demonia I (Europe)"
+    "logo": "QmamHeiCPF6d7vU9BxbH5uESpDEZFr28QQsPQbBDPM1zJK",
+    "name": "Demonia I (Europe)",
+    "vid": "QmSQGg2YjJQtTwS1kgyQWXuNKYvTR73w6You3oGGmzriEt"
   },
   "D5F5D2850B0BFDA45BA4DFFF70D3FD9986399A94": {
     "name": "Konami's Tennis (Japan) (Alt 1)",
@@ -3011,13 +3794,19 @@
     "vid": "QmSXZJncaCHTDPLvdmvp6aoQtkAKmtwkELcy31FxzdvNFF"
   },
   "D69D4A6F2834B20DF3A2AFBD7A927220E96E31E1": {
-    "name": "Becky (Japan)"
+    "logo": "QmXhbk8agJqizd5VjSu4g5Ngud5aPM3c6CG4A2393wCbbg",
+    "name": "Becky (Japan)",
+    "vid": "QmXkHnpBbUwjKbmXTFMkuJPWLC8ChRDgpnhsAYUWVW7cHc"
   },
   "D6B6CB3D85B991F8ADF2E07A0E8E74B586741D12": {
-    "name": "Gojira-kun (Japan)"
+    "logo": "QmSV6sLYYLXsjbC6PKXrrDQntX4BDSPGnXhJrfjKVfkXcE",
+    "name": "Gojira-kun (Japan)",
+    "vid": "QmTyLrJ4mBK3GfYZMUK32c6hSBCQCoLyMX6Tr6mkLSCXsv"
   },
   "D7109CF20A22558F923C833FF0B4E2311340ACB1": {
-    "name": "Dynamite Bowl (Japan)"
+    "logo": "QmTx6FsTNCcz9rMvCx5G3XHtuwnA6VRB8xK8Am9fNRwipg",
+    "name": "Dynamite Bowl (Japan)",
+    "vid": "QmQzw97BvoZ8SVparMdKJjVt7SXw4Nd7qfZzcrytx6JTi6"
   },
   "D723F2EB1C887DB5448FD56BE5E7C57E60D88E63": {
     "logo": "QmTKBD64f8UPyiKF6gzN9sJGMJZahmrESs5GM91HNdRgk9",
@@ -3025,7 +3814,9 @@
     "vid": "Qmdzuzr44bpmTxU5gK6sUxEhNoqRZMMLMfYSjjQBPhGGY7"
   },
   "D74C381EA17ACB94527EF3ABAA280793A824D322": {
-    "name": "Wonder Boy (Japan)"
+    "logo": "Qmcuxbv8wfKdVsjivuQZbaQQFtRXxirGYptcPJH5YkEbTn",
+    "name": "Wonder Boy (Japan)",
+    "vid": "QmUbZvjoj5xCgGXr7Ccmt85RExtvRwn7V8MUNs11rAKgPf"
   },
   "D78293133B075F48C9DC5C4CF0C4A985AE964B08": {
     "name": "Jansei (Japan) (Alt 1)"
@@ -3037,16 +3828,22 @@
     "name": "Dragon Quest II (Japan) (Alt 1)"
   },
   "D7E2A4F78B3E240309C6367AC9DD9C9AEB95E3EE": {
-    "name": "Boing Boing (Spain)"
+    "logo": "Qme6ym7R44RiJfxySDT3QZVtRSV7PQL5U1jP5kXDhyKKPN",
+    "name": "Boing Boing (Spain)",
+    "vid": "QmQLiueWbFvmEjZyVM9BxJLpowEBpf6W9D25AqsRyq3kjG"
   },
   "D82135A5E28B750C44995AF116DB890A15F6428A": {
-    "name": "Deep Dungeon II (Japan)"
+    "logo": "QmRLAm4s75t3s2jvBuVFd1LJTgbf2rPUdt2jv8xEoaP5vp",
+    "name": "Deep Dungeon II (Japan)",
+    "vid": "QmbpQEjfUKgf5bfm7qDDE9fKZYErpdx5Tm7YiwypXCmRhU"
   },
   "D833C66DD541239908555762E04BCBB22BCA748A": {
     "name": "Final Justice (Japan) (Alt 2)"
   },
   "D844C4C5AE9C7AC671C4BE71AC1190A1E5DB4D36": {
-    "name": "Shout Match (Japan)"
+    "logo": "QmTP3SHctN6n1b9Ci9ZMhMmE1sfX7oEz4tYeFaKCxKSJXY",
+    "name": "Shout Match (Japan)",
+    "vid": "QmRstDCcHJs7SpjD497CzWTfpexT524gzhda1VDLYemwNs"
   },
   "D88F33EE40839F87CDCE6CC4820E1DD192A01776": {
     "logo": "QmSPLo6KuruHbKwg8GWSuVQNZHZxewsuuybB9o8qyhVxth",
@@ -3058,22 +3855,29 @@
     "ref": "E22A6317747903475095008D0D5AD9427DDB34AF"
   },
   "D8C074267E0B2EC225D5ACBA688EA7304233DA13": {
-    "name": "Dam Busters, The (Japan)"
+    "logo": "QmTCK357Q27jSrA4qwj7mdgECN9bGesywDjaZ5jkAZwbxA",
+    "name": "Dam Busters, The (Japan)",
+    "vid": "QmPVaRZV1y4ZtWBk7WagnmQMEaUH8nQN9vKXTAFJBYB2Ch"
   },
   "D8E9FD3E9420BCBB1DD530FDA1E9C718AA08D8E4": {
     "name": "Frogger (Japan) (Alt 1)",
     "ref": "A194B845857C8B33EF4FD5E53D7F38150B4FA4CF"
   },
   "D916F0E4BD3C829A0472C6EC18D08907A5C991F3": {
-    "name": "Eagle Fighter (Japan)"
+    "logo": "QmZ87bdmRC3x9bii5m9dQhWc7rvfD2bpF6hhQPFMqwKwZV",
+    "name": "Eagle Fighter (Japan)",
+    "vid": "QmaQjFkwq8GdDHX91AKraFxgRf8r9HPB5FoYy939R3563X"
   },
   "DA397E783D677D1A78FFF222D9D6CB48B915DADA": {
     "name": "1942 (Japan) (Alt 1)"
   },
   "DA4B44C734029F60388B7CEA4AB97C3D5C6A09E9": {
-    "name": "Hydlide II - Shine of Darkness (Japan)"
+    "logo": "QmdHq7JDDiG21UFhorM4kCZyEYC5oKc5Eo7gF8Rfv5zeJK",
+    "name": "Hydlide II - Shine of Darkness (Japan)",
+    "vid": "QmNLrvVDAeUvLa7wMA32Wiv48MNaSdn9E3xrUiSs4udQ23"
   },
   "DA5FD6CE2F92A40B1CCAF6E3C425D720FEBC3543": {
+    "logo": "QmdeDpvRRVEoVoNd92Wz5XyCZmwbPfapgYBTo6wANQDBSV",
     "name": "Professional Mahjong (Japan)"
   },
   "DA7CFD16DD1A76AE6B551CEABFD7053CA8E3412F": {
@@ -3087,10 +3891,14 @@
     "name": "Sangokushi (Japan)"
   },
   "DACC9ED6A80FB15C3E82C4081C07211E033BA820": {
-    "name": "Super Bioman 4 (Korea) (Unl)"
+    "logo": "Qmex8xtnKDnNj5btCVxa2EnoTx2mo39NcdSvojyt8tUCMD",
+    "name": "Super Bioman 4 (Korea) (Unl)",
+    "vid": "Qmaqzr4HAseWaG2f4QtNEPnCNcYxPhJ681m2EEkLgXbRrY"
   },
   "DB0ED31C779FFFD2084946E3BA69512B372D845F": {
-    "name": "Sewer Sam (Japan)"
+    "logo": "QmTRWqW9vXbk6TGDYo2n4Cn14VU855PuRWyxt7JE335DWc",
+    "name": "Sewer Sam (Japan)",
+    "vid": "QmXjjxUqhLVJQcbPvLQuAh5Cifo4q5qrpUGU87eWqZAdL7"
   },
   "DBED87A53C604F7140577D6707CA0FC8490463A6": {
     "name": "Gekitotsu Pennant Race 2 (Japan) (English Menu)",
@@ -3100,16 +3908,21 @@
     "name": "Strategic Mars (Japan)"
   },
   "DC69C7A9EA93CBB0093300955935EF156AF5C194": {
-    "name": "Mr. Do (Japan)"
+    "logo": "QmYX3VTkDabBEm99SFYH8RPmwKf2JKHzsD1BnowTNYukA2",
+    "name": "Mr. Do (Japan)",
+    "vid": "QmWNNqCYp9njsuQJhJjgGyV7heSX8XqsUdhigBzns9BduN"
   },
   "DD5C2D2D5F0947159B7615F647FB8121F3B037A2": {
+    "logo": "QmVV2L1F1U3Zkn5mQW4Z1AQiyTy7KgHYeKvCxsSircduGq",
     "name": "Cheese (Japan) (Program)"
   },
   "DD76EE1071E427CBFEDEEEDCB3A4B8BCAD56BA71": {
     "name": "Kinnikuman - Muscle Man (Japan) (Alt 1)"
   },
   "DD9A41E4C8802CD4BBB87E30281711F4E7AE017F": {
-    "name": "Hopper (Europe)"
+    "logo": "QmVkzj9ywFwuhQgSU8PWXTwbp3R132pWsRJWATxdLDArk1",
+    "name": "Hopper (Europe)",
+    "vid": "QmRGMRmm4HFjurUBfbMwazmqC6aMD57iFpcYrSFjhvfFCs"
   },
   "DDC458BB3C70E0708841E516D9B89220C0E098A1": {
     "name": "Mopiranger (Japan) (Alt 3)",
@@ -3119,7 +3932,9 @@
     "name": "Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)"
   },
   "DE10AA2A2ABFDCAFE0064E1E76B676F54C7AAFC6": {
-    "name": "Space Camp (Japan)"
+    "logo": "QmPKZrwLPjMjNHfxN3J9phGVaHSbAp8goRx48TfQvvxvnm",
+    "name": "Space Camp (Japan)",
+    "vid": "QmY5xLQGgPFjFbwfHvjzjhcZQrbG5WrGGFYkTeHfZ1xwdN"
   },
   "DE251A0AF1DF3BE18469578DC00D414E572EE33E": {
     "name": "Suikoden - Tenmei no Chikai (Japan)"
@@ -3128,29 +3943,41 @@
     "name": "Thunder Ball (Japan) (Alt 1)"
   },
   "DE6DB54CEF2CC4CBCC09C57C8ED0A1FF01347B6E": {
-    "name": "Warroid (Japan)"
+    "logo": "QmUmKPioggWbgRfJz1RJvch6sWSCK4e8SNVFuxnZQjSKBb",
+    "name": "Warroid (Japan)",
+    "vid": "QmRgCkuh8cdPree8UmMMxniMneggEdQgkjJebT8HyuyzKV"
   },
   "DE765E699AF4D76D8FA80FB10D1E41581BEC11BF": {
-    "name": "Zaider - Battle of Peguss (Japan)"
+    "logo": "QmRVVajRkNyxZMBHkZPeQU6rwDZ7Mi5hnfxnTpMDyJ3TDG",
+    "name": "Zaider - Battle of Peguss (Japan)",
+    "vid": "QmeYUFKAyawhpGRqEV8CKWnFkXUWvbnVEWNkZ2HsVdEb1P"
   },
   "DE95B99DFFEAB5C2B453778DBDC8723DC15CBFD7": {
-    "name": "Flash Point (Korea) (Unl)"
+    "logo": "Qmd8kS98kZX5DWzfV78m1dHCRjKSLHPeb7rbjaxNwmne1C",
+    "name": "Flash Point (Korea) (Unl)",
+    "vid": "QmPCKkmk6gNGfTa5pAUaDe3G64nauUzKUQhXe6PXaw7sgQ"
   },
   "DE9EB0E9EF183F49E9D9B631F8818F9CAC5DF409": {
     "name": "Athletic Land (Japan) (Beta)",
     "ref": "90BDD12D632D2E909AC5D69235AD0366F430B734"
   },
   "DED8D969542B7BE02524037FA244E6648C3F4E03": {
-    "name": "Exchanger (Japan)"
+    "logo": "QmTFh5txe4o7mWTHvfHJZDQTjB5NyjdvRhgGzPyWnYHqdt",
+    "name": "Exchanger (Japan)",
+    "vid": "QmPffUSP7DaiYCvJ4Qsf8i22MFJT7neK5YDQg7VFJX3w21"
   },
   "DF13ED647ED4F5A6B04F1710FC1140EA65DC966F": {
     "name": "Pairs (Japan) (Alt 1)"
   },
   "DF797593395346E94AA1CF13A9524E30D631888D": {
-    "name": "Venus Fire (Japan)"
+    "logo": "QmPF29BpZu3XFcVsn6nYctVXVjxvxuvDPpM82hBzpEAD6N",
+    "name": "Venus Fire (Japan)",
+    "vid": "QmNpuKL7Ao7FKZbL68SPNEaeBQRnR1CSHmWv5EP7u5yKCZ"
   },
   "DFD7EF6FD86EFD5C8019B59D8FA5C5A47CF90CD0": {
-    "name": "Trial Ski (Japan)"
+    "logo": "QmRYznf6qMjeU6xETJJa7fHdeRd7LVSM3db4UKDJzfZbNx",
+    "name": "Trial Ski (Japan)",
+    "vid": "QmNtpjeewHjq5YCKn18ubMFNLFhZcQ4S1Xc47PDaup8epW"
   },
   "E003D57D2102E8FDF5D9EEA7BD78A3CF67D75778": {
     "name": "Labyrinth (Japan)"
@@ -3159,14 +3986,18 @@
     "name": "Ikari (Japan)"
   },
   "E06ED9B0B3E1FBB9F27BE65C37B4D9B548889B4F": {
-    "name": "Hustle! Chumy (Japan)"
+    "logo": "QmbxXRmk1oqvFSS1B9HmjLmryvrhw5H93Yfqoqez9YLZrQ",
+    "name": "Hustle! Chumy (Japan)",
+    "vid": "QmPgr5eBhqz2RiuBmGmL6B8QHJcTGUyZaYpAXFFVz1Jera"
   },
   "E0D84B3B2AC7675C3ED104797840D43BC2347A5B": {
     "name": "Monkey Academy (Japan) (Alt 3)",
     "ref": "8B2626F8DBBB3E97A5087B340A3F3D56C8EE84D1"
   },
   "E11AFC03DB4E1D03976D02796B29DA9C65D4FF3D": {
-    "name": "Fairy Land Story, The (Japan)"
+    "logo": "Qmd8WrK6ViDVhLD7QFi3gnzTHRrtazGxbjMYM9DWmBksi2",
+    "name": "Fairy Land Story, The (Japan)",
+    "vid": "QmToAjmpv49tGV1AigyuJWZAHD9jqmpJBShDhC76oMAuhx"
   },
   "E1527AE16D33A09D9CF3D4EA52E63337D2273910": {
     "name": "Arkanoid (Japan) (Alt 2)"
@@ -3180,7 +4011,9 @@
     "vid": "Qmbh9M4rRrRqx9fAsbU2mTVAra32UgLY1fo3YwfrYZEZnV"
   },
   "E2ABB08ABACCE57703FC008881279890328F6277": {
-    "name": "Galaxian (Japan)"
+    "logo": "QmdE1VrGWzAoD8ffh7jpuMovAwGkyV5t8rHzuNSvq5vDB2",
+    "name": "Galaxian (Japan)",
+    "vid": "QmWMEVZjBbosoFEuaxdBEtCyC7jUKc7yNq1UbFwCVyaVGF"
   },
   "E2EF32F2FC312F96B8424569E9E85A6EA3B21CE4": {
     "name": "Boggy '84 (Japan) (Alt 1)"
@@ -3197,31 +4030,43 @@
     "name": "Dig Dug (Japan) (Alt 1)"
   },
   "E34161034364EF03DF907D62976C2AC8F551404F": {
-    "name": "Drainer (Japan)"
+    "logo": "QmcASXSMgyoEHYPAAmaWLdBcGtKhc8djA7E9QFHVnytdi7",
+    "name": "Drainer (Japan)",
+    "vid": "QmYA7838gQ7MB2nYhABBCJimc5DJ5XApaugnVn8f36Qa2W"
   },
   "E36E16ACFDFA76FA72B218DA2BEBC668DB39D21E": {
     "name": "Cockpit, The (Japan)"
   },
   "E373E3E9BE4F6D30D5DB84B699082C00B2021BA3": {
-    "name": "Senjyo (Japan)"
+    "logo": "QmZwBY7N74KxuL8B2CBo3DXBqnwn7Wy9qkUYnnmnzNyDVc",
+    "name": "Senjyo (Japan)",
+    "vid": "QmT7snvNJVXeLiUo5v6nUm9N6fVhkTdX3iBDfZ2X18F4kX"
   },
   "E3A52D448E69D6D14F67D35F24D9924158B1CCE1": {
-    "name": "Slapshot (Spain)"
+    "logo": "Qmdy4ugeeiitoS8f1cupD4mdq75oAq4h4KYwRhrRJrBR3i",
+    "name": "Slapshot (Spain)",
+    "vid": "Qmf3vRE9NTnq9MTzwoTrNK6Dsve8319Rnhf5s9TWLp55UW"
   },
   "E3CE88E95115765E31193777E57FCB9B40E10D3A": {
     "name": "Starship Simulator (Japan) (Alt 1)"
   },
   "E49F66E8BA45D0647C93A57BBC1FB7ABA4665A6E": {
-    "name": "Eggerland Mystery (Japan)"
+    "logo": "QmZoRPECZCtxRE7f2Zde6nPY91YHAAjPfSCeE9rGfK8RUy",
+    "name": "Eggerland Mystery (Japan)",
+    "vid": "QmTS5py6MeDCGsCJtZpd4m9VzQzLeinYGaD6p7dBYRxrma"
   },
   "E4C8F3B87D755C21572040C51CEC1431AE59A0BE": {
     "name": "FM Voicing Program (Japan) (Program)"
   },
   "E4D61EE74867066B04B0F6ABA35D98D72665E6E0": {
-    "name": "Mashou no Tachi Goblin (Japan)"
+    "logo": "QmbSbubcHDVGKq7apw5wUbk2YTZzKo1iMtgbNHuAxQKc69",
+    "name": "Mashou no Tachi Goblin (Japan)",
+    "vid": "QmZy96DtWPWK9erDKyfMVjMzjtb1cFi3shXCZwLBMcbZBu"
   },
   "E5171C368883DE03FC8D75E61BF23D954EC1BBA4": {
-    "name": "Bokosuka Wars (Japan)"
+    "logo": "QmYymwmqJQAfycMR61pC5htoD9FDa1MjxpyK4YLxR5J3W4",
+    "name": "Bokosuka Wars (Japan)",
+    "vid": "QmRNF1gQTiHsn411nwu37SvjRA43w57QUfChkYgZerXLp8"
   },
   "E60E2ABF907B66F5B275C7B7B710439ADAE58D37": {
     "name": "FM Music Composer II (Japan) (Program)"
@@ -3231,25 +4076,33 @@
     "ref": "8B2626F8DBBB3E97A5087B340A3F3D56C8EE84D1"
   },
   "E6419519C2D3247EA395E4FEAA494A2E23E469CE": {
-    "name": "Deep Dungeon (Japan)"
+    "logo": "QmWfLLsZcuQvBgPacowK96Hbgrzrfr1gybdq3nzFgP8GpD",
+    "name": "Deep Dungeon (Japan)",
+    "vid": "QmaFKbTC9bbCrjjr7kU4Sc7P4Q1dh9MUSjyfc3RSPbVeNL"
   },
   "E6A1D90A7A8B4E4B8A8E1AFB3D971866931B986D": {
     "name": "Butam Pants (Japan) (Alt 2)"
   },
   "E6B71484D5AB578FD3695917FCE3C1E805A5B536": {
+    "logo": "QmYAJ5mBseDxkpZkuDT9HHKvUeKw32EatiA9fmu7sw31go",
     "name": "Farm Kit (Europe) (Program)"
   },
   "E6C01BD90CF0B2793282FC53E9A3150A6D7804C5": {
     "name": "Malaya no Hibou (Japan)"
   },
   "E6DE8BBD60123444DE2A90928853985CEB0B4CBF": {
+    "logo": "QmctTBf9GQXXBqmhbKEtzeHvrqVenRJH4mgqD9XaB7pynP",
     "name": "Nobunaga no Yabou - Zenkoku Ban (Japan)"
   },
   "E6FBFB4B10DC393953211DDA4B114080A08302A1": {
-    "name": "Play Ball (Japan)"
+    "logo": "QmTN88iaDhmzwWZdSnDM8E4szXvusiByZqNVPWwhoBELuU",
+    "name": "Play Ball (Japan)",
+    "vid": "QmeMcgtba8hUBpPCqfpjfSKCwtrDFJT4ek6sKXpC3k9sAN"
   },
   "E700493E1C4C14F711E9C1C262FE3E8D76931CA3": {
-    "name": "Bomberman Special (Japan)"
+    "logo": "Qmd7rAeJaWKXVeXoBMvuXZhAcVxdRv9nqXcwCom2mt2TTH",
+    "name": "Bomberman Special (Japan)",
+    "vid": "QmdqwXovwi2hQp8vJdVqsSqpn1WyBeBXpoZMdSqMVD5Snc"
   },
   "E73946F1F26589D77926276CA4F9DBEE60C53FDE": {
     "logo": "QmSSUjmas47c1cHgC7cJva2s1f8e8SLtN3cMTzrUbEVCSV",
@@ -3260,13 +4113,19 @@
     "name": "Car-Race (Japan) (Alt 1)"
   },
   "E73A449E34652C18AF0A72AB5C3637AFA57D5842": {
-    "name": "Ultraman (Japan)"
+    "logo": "QmURkyvizh4vPUkweyGLqf88WUuN5RMswDtxTx3mVmsWCK",
+    "name": "Ultraman (Japan)",
+    "vid": "QmRgEShgZKZ3sVod2fZKxBiewaMtsMMpDWs6x2tu23VA5J"
   },
   "E7657D8070399D8E4D65308B356E110D83D23151": {
-    "name": "Funky Mouse (Japan)"
+    "logo": "QmUQUiEysZrxbKfMaV5YjYetqu3GdgicRvLqoBenUkPET3",
+    "name": "Funky Mouse (Japan)",
+    "vid": "QmUEwsibBbuesh4eDjnSFFfQYvUjwzswk1nfU6w1BuEUCz"
   },
   "E767C0239B79821463FA42F2C1989D3FD1B4B868": {
-    "name": "Sasa (Japan)"
+    "logo": "QmdMDmQzZZ5mxftrdpmyTbYevfgKfmkpC3EUrPvRd5roTT",
+    "name": "Sasa (Japan)",
+    "vid": "QmWSdcFdtw5GH5q7aFxfeP684qHLVM9ZZ1YXjbTQw8AqQY"
   },
   "E78511A2B8CCA37A96AA396C938863C92A20C797": {
     "name": "Vampire Killer (Japan, Europe) (Alt 3)",
@@ -3276,13 +4135,17 @@
     "name": "MIDI Macro (Japan) (Program)"
   },
   "E7D06C0A5C7F256C061E5B8173FDCC145D2FC4D6": {
-    "name": "Mappy (Japan)"
+    "logo": "QmfFnFXSmMQJGCcJj4djLMP7QuJgubyfCx6mFEQEkewyzz",
+    "name": "Mappy (Japan)",
+    "vid": "QmacXzVbJnrXQWZ9ucyjKVPCZjW8eSSZKHUUo8xBzXeX5s"
   },
   "E7D9D1E4DCF48779DAB41EB6C15478F934BD8BC1": {
     "name": "Dunk Shot (Japan) (Alt 1)"
   },
   "E817AB7B50674C414B1C1B72530024EB03396A41": {
-    "name": "Kung Fu Taigun (Japan)"
+    "logo": "QmUA9qtTRoQfG2ymrcjowgXKneu1kSnooa5tmafru7kzCs",
+    "name": "Kung Fu Taigun (Japan)",
+    "vid": "QmQVoMxtf8ddfK37vJYXZNbfnA91QU8kgzaRSqmg3pxGSU"
   },
   "E894A38F3E2AD435CC5D17A66600E6016B5E47FB": {
     "name": "Antarctic Adventure (Japan)",
@@ -3292,13 +4155,17 @@
     "name": "Lupin Sansei - Cagliostro no Shiro (Japan)"
   },
   "E8AB46785E75E19DAC497C4A82AC2F5B37AC0580": {
-    "name": "Gall Force - Defense of Chaos (Japan)"
+    "logo": "QmYaa2FcDZqZp3a2a84Exai9tfj7GsUKVUxVhSraXtbmnq",
+    "name": "Gall Force - Defense of Chaos (Japan)",
+    "vid": "QmQLkrwVWbg1doC6dwFsLVLrs53gwAtcQPKd5bZJnQU2Qb"
   },
   "E8E416977F5DAE3635362C513BBA004EA89A0BF4": {
     "name": "Arctic - Active Rail Playing (Japan)"
   },
   "E904EFABC5A75840C50EA7EDB07052683468A64A": {
-    "name": "Hudson 3D Golf (Japan)"
+    "logo": "QmUyfPrcU5YpE37apQgNXcMcGeZ2TEfyxU9qwoGPDnhmW5",
+    "name": "Hudson 3D Golf (Japan)",
+    "vid": "QmV5xLpvh5DkiW6LoEkDiSHj8n63HqVDSmFkdPd8bniuGn"
   },
   "E90B579AC64798343ABB635FCBF929E83714312A": {
     "name": "Gulkave (Japan) (Alt 1)"
@@ -3307,32 +4174,48 @@
     "name": "Meikyuu Shinwa (Japan) (Alt 1)"
   },
   "E9398ACEB9F8A648E4BCEBE02E5D7B14A3744C7D": {
-    "name": "Tetris (Korea) (Unl)"
+    "logo": "QmPVZwaDvBwCdPshcEbT95uDt2pyqUDMWeirXBw39fZNXE",
+    "name": "Tetris (Korea) (Unl)",
+    "vid": "QmZeG4w7tZ2swnrkj6WumVaSxGB448YfRXeSfNLYmP4yZ6"
   },
   "E93C396649BF6328103E8DA0247952EBEF2A04E9": {
-    "name": "Car Fighter (Japan)"
+    "logo": "QmaJcB6zamSnV8VmuCaV9vZmEUmg6RGx6ivdXQNtBvy2ri",
+    "name": "Car Fighter (Japan)",
+    "vid": "QmWLxWxrtAz92tCGSSwULN7EsDbgNqB2ZBcQTxPHtGM4Hb"
   },
   "E93DA3D1910D513DBB78AD599ADBB05EB92B5930": {
-    "name": "Trick Boy (Japan)"
+    "logo": "QmaG7aKg6WhYX1mVeTKC6jJFNYXEFN5S6Rk6FNAStDPJCS",
+    "name": "Trick Boy (Japan)",
+    "vid": "Qme9YJ8Jm223CmMPTBHBN2PWaay7SD8REAht9wKxjhMjyM"
   },
   "E98E4351119D78B6402C4499ED16FAEB3364F6C3": {
-    "name": "Knight Lore (Japan)"
+    "logo": "QmR7vbm96YMvam3L8hcgxsZGZNQtfELn35j4L33sAKQh22",
+    "name": "Knight Lore (Japan)",
+    "vid": "QmZKTGyTwz5i5GqXUXmBqNPhhrjgrKNUuiPsLqHnN1Si1J"
   },
   "E9B3652482A5B09AE662203F8758A30AA23AF62F": {
-    "name": "Mr. Do's Wild Ride (Japan)"
+    "logo": "QmYxmL1Zf54Lwm9PtZwU5eM6AVWZH4Gd5RpJA89S9oYLnf",
+    "name": "Mr. Do's Wild Ride (Japan)",
+    "vid": "QmcR7gyVHmwQPEYgQNreqEFcEnDLFvK5aTiZUMKRacJE91"
   },
   "EA8D86AC74DCDCA1C72DAAE517722431767C5AD2": {
-    "name": "Topple Zip (Japan)"
+    "logo": "QmX35xCi2rUmy5oQye5Cigw7htJtDTMNvXt6fUFuPNaHtt",
+    "name": "Topple Zip (Japan)",
+    "vid": "QmTJmTqYJKbdUWEpdxCxHWp4j3bYgLCaYtvqedHuwFX4PY"
   },
   "EAA6B787784BAE1C7F648B57DAA1C88CF2B1B095": {
     "name": "Konami's Football (Europe) (Alt 1)",
     "ref": "8E9FB34B356B02A839DCE5139C12030593BE13A2"
   },
   "EADF124B91B996B890B1AE84B75B21EE6568D1F3": {
-    "name": "GP World (Japan)"
+    "logo": "QmaMAy1QgjeHP5NtGEpY83P8KEaEBeus4KX4nvciPzgosq",
+    "name": "GP World (Japan)",
+    "vid": "QmbVkRpKXCbtat8ZymVo3kNmdGRw1ydkuZUxmMHowyke7j"
   },
   "EBB46DD4CF36407AD82D9F50D9BEF3E938DC144E": {
-    "name": "Champion Ice Hockey (Japan)"
+    "logo": "QmZNMHMVV5apshVkFStZwpf31pV18gGoUZYJqrjLNkUCBC",
+    "name": "Champion Ice Hockey (Japan)",
+    "vid": "QmZFcCvdAZ7maRQHbVXecND6PzJX5CfaXkRAKEtRL1h5ty"
   },
   "EBB70722F75279911CCE79E6BD78B8F514561B0F": {
     "logo": "QmdubXte6TnvtamDYALBRzhv4rsS7ZDX3vhT6kJv9ZGS45",
@@ -3340,13 +4223,16 @@
     "vid": "QmTKkLej5tZyqwQ5DD5VeqF5o5sxvhTd9wteFLCg1HjGdG"
   },
   "EBDE4D61184438175DB424FDF25CEC238D91A15F": {
+    "logo": "QmXDAue2WnQuMGYDfx6zxeT3FeNLy8UWR7foFMXqiZUoAa",
     "name": "Jissen - 4-nin Mahjong (Japan)"
   },
   "EBE20C85C5314957FAFC223C26BF393847E3BB03": {
     "name": "Woody Poco (Japan)"
   },
   "EBFF5D2B4253F62D3A00F1A6D6B4D81053C7B8A6": {
-    "name": "Bifamu (Japan)"
+    "logo": "QmYhhtfA7wqE5jjJVaAu9Ujqm6veu8Fv9rH8w59iSjP9mN",
+    "name": "Bifamu (Japan)",
+    "vid": "QmSHVAnw3kC3paTknU4iPM6bPYyjYNQiEm2ffWMUTGU7Re"
   },
   "EC0320EDA10BF6BBEE8081F6672A7BF9D858C1BB": {
     "name": "Fire Rescue (Japan) (Alt 1)"
@@ -3355,16 +4241,22 @@
     "name": "New Horizon - English Course 1 (Japan) (Program)"
   },
   "EC2F1E747756BA1FDAE606658AEEAFA07E6E7FD4": {
-    "name": "Ninjakun (Japan)"
+    "logo": "QmTEAjYQsLYHGoCzxbG3GL9TiGBEzXCFXoDg9sD9AHtE6w",
+    "name": "Ninjakun (Japan)",
+    "vid": "QmUTtJZSZQ7gXGmyG6ghhibmvDpiMS3vFWCJEQDCepthvY"
   },
   "EC5111E3B06D64EF51196FF87448E1C62BE4CDD8": {
     "name": "Albatros (Japan) (Alt 1)"
   },
   "EC53D72E41E114574F4C116CAB19E1633F3DA207": {
-    "name": "Aramo (Japan)"
+    "logo": "QmVrn17eNmMGSrA4Nx4LJwA159c9fkWDzPqdcxfHASRikK",
+    "name": "Aramo (Japan)",
+    "vid": "QmXmRFA9ugzNME9M8VXwnwPP2iya7Rb9bfhYWoraorm4fn"
   },
   "EC54E05A6F784F9C616C94AB8D57E5D2647ABC66": {
-    "name": "Front Line (Japan)"
+    "logo": "QmPmQVJmc8BWntNRB8nZXNj2Wjk6BUB8h2TCyod2pNqZed",
+    "name": "Front Line (Japan)",
+    "vid": "QmS1Ay6YQEJCvptpd1EFdxYdaPTj2uAZBsgTqz96bmpeHR"
   },
   "EC76D4D9B61BDBDE9A4B5BE082DBDAE96321A591": {
     "name": "Hyper Sports 3 (Japan) (Alt 1)",
@@ -3374,10 +4266,13 @@
     "name": "Dragon Buster (Japan)"
   },
   "ECC68B4A042794424DF771A3336361FDB50D0875": {
+    "logo": "QmSs2szYBXSWEixZXLDgi9ghf2xkMwZja4CfwaRnTVmCNT",
     "name": "Janka (Japan)"
   },
   "ED15174DEC31A29F9D41A06DE3008DB04AF11A25": {
-    "name": "King & Balloon (Japan)"
+    "logo": "QmWsnzf681ndDqyqQS5joo2EYy5m7bDPQkJvyRktgVCXoy",
+    "name": "King & Balloon (Japan)",
+    "vid": "QmUBPZ4XE2qYxqvHLyYCFs1G3ggEYzfc7qid4wV38k7Hvv"
   },
   "ED1F7342B9B26EC02CA2D584570D75F925167EA1": {
     "name": "Iriegas - Theseus (Japan) (Alt 1)"
@@ -3386,10 +4281,14 @@
     "ref": "D723F2EB1C887DB5448FD56BE5E7C57E60D88E63"
   },
   "EDA9580A1AC75707F621C251A7424DF3846E4EC0": {
-    "name": "Star Blazer (Japan)"
+    "logo": "QmSNhvCHg21Zmrnmt17jWgGG35fhQekCrnuLXzSeHRkVQe",
+    "name": "Star Blazer (Japan)",
+    "vid": "QmdqRfLCnpWRG7dR9qZ5ZeDKo18jwT3wPTrkww2t3dwqMx"
   },
   "EDD61208E11149E226CD2EDDF5C9ECA8EE1BA33E": {
-    "name": "Fairy (Japan)"
+    "logo": "QmVzcz1uojbogeM5GpEMYavM2o35EEwMs3ouUMeR5yvbms",
+    "name": "Fairy (Japan)",
+    "vid": "QmXjeTvuPi37KDKDpXWpBg2p2qRJVsL9raHY1ovXx6mayQ"
   },
   "EE3CA231328534BBA92F9A908C4FAED865BCEA68": {
     "name": "Choro Q (Japan) (Alt 1)",
@@ -3405,10 +4304,14 @@
     "name": "Video Hustler (Japan) (Alt 1)"
   },
   "EF476E25FB6B7221CA778A379117885450DD36F0": {
-    "name": "Binary Land (Japan)"
+    "logo": "QmSzbsZPYJEtX1DqjbBnnw3J5mBumhPzyknEib8JLqGA8h",
+    "name": "Binary Land (Japan)",
+    "vid": "Qma3gjvx5qCy4s5NBQHStB6tbbnhs2YmVWFqCtidBPsBfK"
   },
   "EF535AB6013D9B6E38227272F2EBE6A0F0B33CB5": {
-    "name": "Boomerang (Japan)"
+    "logo": "QmSruqmboY8Dh3boMed3vS1ZtekdaTKVNoibU9tGsEBXug",
+    "name": "Boomerang (Japan)",
+    "vid": "QmfCqzJV8wEtGdZdzVUEe4A2sxxGtnMTZw1j6eCxigqpHZ"
   },
   "EFDF63F01293251DC593163A42F31556FD042282": {
     "name": "AshGuine Story II - Kokuu no Gajou (Japan)"
@@ -3417,7 +4320,9 @@
     "name": "Yuurei-kun (Japan)"
   },
   "F025C9C2DB97DCE608FCC1050426BEFF0DEA43EB": {
-    "name": "Captain Chef (Japan)"
+    "logo": "QmYPieqSg8tDot9fGPRj1simuRBgWhitx8byL6UCaHr3gZ",
+    "name": "Captain Chef (Japan)",
+    "vid": "QmepKEcwZuqnQMePT6ooz2fhwwppsy3NPBNLYk5KPT9VyW"
   },
   "F02CA47BE665E83D812979D8074A985E5637B979": {
     "name": "Rise Out from Dungeons (Japan) (Alt 1)"
@@ -3430,7 +4335,9 @@
     "ref": "E31AC6520E912C27CE96431A1DFB112BF71CB7B9"
   },
   "F100A76117E95AB0335E89A901E47D844BBC0AB6": {
-    "name": "Dragon Slayer IV - Drasle Family (Japan)"
+    "logo": "QmWx2npRG2CVzAaPS1tgH91927tFcUs8jPGzc6UuzUpgjG",
+    "name": "Dragon Slayer IV - Drasle Family (Japan)",
+    "vid": "Qmf1VESbRsUMaLYotiS8YUuAm3R3BQNe4BMAfRhjstnDfN"
   },
   "F12AD34DC3B4279DA0FC7094F3D50D6B8BB517DC": {
     "name": "Famicle Parodic (Japan)"
@@ -3442,25 +4349,35 @@
     "name": "Midnight Brothers (Japan) (Alt 1)"
   },
   "F1F571C1D9360839450C26D73C6AEF89E1E052EB": {
-    "name": "Bouncing Block (Spain)"
+    "logo": "QmZahopWrWQkvT1ioKdLD7zRXBW8CPH7cGj3wW4diRpH55",
+    "name": "Bouncing Block (Spain)",
+    "vid": "QmbuVfKmW1R3MAQL7iUdAapMcih5vBN9VFPLT19jG6xVVf"
   },
   "F2361230358BD945690CA1C2A9DCC1CBCE83941B": {
     "name": "Woody Poco (Japan) (Alt 1)"
   },
   "F236345F43828597739F4A326318B6A3876FF73F": {
-    "name": "Anty (Japan)"
+    "logo": "QmfUsaZPN3C4wybHDWNP9yb6fUk4C4RDzKLRjJ7dupmGst",
+    "name": "Anty (Japan)",
+    "vid": "QmP3zk96JfishEE3Xnz8tMBWcL3CYgA3WA8e6wFQk67dNj"
   },
   "F27721CF9EC316EA3B18233F699FEBF739B25678": {
-    "name": "Honkball (Japan)"
+    "logo": "QmaeDtZcuAxqFtf8U5aFPUEWCb7yioYjKGydAdJNqRkP5G",
+    "name": "Honkball (Japan)",
+    "vid": "QmcQqSkqKowoyj7ZWts7fkMZ5pwc7JY9DWW7eUpkXfX4kV"
   },
   "F29CAC37C5001DDC752FF4A0B9CC51A965906DA8": {
     "name": "Home Calc (Japan) (Program)"
   },
   "F2EC3714138175212B6B6E28B5DA4361CC4B5471": {
-    "name": "Gunjin Shougi Mars (Japan)"
+    "logo": "QmfSqiLNqMV4Fjp6U1dMoB9mo1DUyUwuVTgR4o4tffdH9K",
+    "name": "Gunjin Shougi Mars (Japan)",
+    "vid": "QmWMa7uQn8zMSBFPDHeBBVnStVZNrgwSfyX5SYXsmjZjsc"
   },
   "F364A44D0B4CEAAA8706830237C0B824DCF9CE0C": {
-    "name": "Mole Mole 2 (Japan)"
+    "logo": "QmTvudxNDuXnuedjKdnbvrPGBxbQuPy7bwt4haoXSQ4c9a",
+    "name": "Mole Mole 2 (Japan)",
+    "vid": "QmX21LWRSJicaTvFJj1CRKcRCLJj1vsDCcwChBgw3ERu2r"
   },
   "F3815211C6183B4F9C26B9E7D0A12C3B3870BDDA": {
     "name": "Alcazar - The Forgotten Fortress (Japan) (Alt 1)"
@@ -3469,10 +4386,14 @@
     "name": "Hole in One (Japan) (Alt 3)"
   },
   "F3C0C1F0EC3E10CD4A5EAAE26D593198B1A5AB9A": {
-    "name": "TZR - Grand Prix Rider (Japan)"
+    "logo": "QmbJmLt2J8EFtFAo8TwbHbZ2EfqRUqnZDduUpb2MfjbXSv",
+    "name": "TZR - Grand Prix Rider (Japan)",
+    "vid": "QmWeYBwrDTzU7Rzk41QKgJXDJ5mUfZTTaA6ecACxYR2DRb"
   },
   "F415E4096FF3F6A9F17BFBF02F146E44F0D5FB66": {
-    "name": "Konami's Mahjong (Japan)"
+    "logo": "QmVh6ahQvDeoArtndgMX2Y62yuv3hZAKhvkpXmWCBiLs39",
+    "name": "Konami's Mahjong (Japan)",
+    "vid": "QmWrX3xp5SXVT4KJpscKShE3aMbFGg1oZmZGzZzu1WLeTA"
   },
   "F4DA2BE2EE712BA2E7CCCF56FCD15483FE0023ED": {
     "name": "Garakuta (Japan)"
@@ -3486,7 +4407,9 @@
     "vid": "QmUfMWMTfjPHHZXugPbX1vLp5Qvb8drqMC9wjJEcq1Qje9"
   },
   "F52113B45062ADC75CF7A0ED0538B3A07696CC24": {
-    "name": "Iga Ninpouten 2 - Small Ninja 2 (Japan)"
+    "logo": "QmbnwKyuXDn72P69kk2oowaQfvac61t6AKpL6KTqg5rTTk",
+    "name": "Iga Ninpouten 2 - Small Ninja 2 (Japan)",
+    "vid": "QmeNxTUbKeortbSWZsZJNsSK2oM4v92JQ2XCZCorWZqNYb"
   },
   "F52690157A51C662FFDF4AE3592ADA93D7BE4032": {
     "name": "Pro Yakyuu Fan - Telenet Stadium (Japan)"
@@ -3500,16 +4423,22 @@
     "vid": "QmZ1usNu47jDAavXSVZd7zyptkD45kTxhrzDzqxnn65Rjd"
   },
   "F629B8F7133C3442D0371A4D84275FB2E0974854": {
-    "name": "Iga Ninpouten - Small Ninja (Japan)"
+    "logo": "QmfVYxARKAAdx26XMHcmZy9u5JCWepfwGgqq2Y812eHcTc",
+    "name": "Iga Ninpouten - Small Ninja (Japan)",
+    "vid": "QmRds2UXBsFn5dfb8d66JEmoqErNJ4Crt3CKif4qa7fjRf"
   },
   "F63D274A8A7AD8E285DD8800264AB9C14AA9F870": {
-    "name": "Dunk Shot (Japan)"
+    "logo": "QmPuRREJ39t22kVKB6TXUUpwMFL8W4rm6TewQM5LMQmM7A",
+    "name": "Dunk Shot (Japan)",
+    "vid": "QmY7oCcWcGjR747H1H8KWMf3aVMEN9wFxUBRQBHuaogDzC"
   },
   "F6711E1E2BAC04D45B8988F1D03529AD777ABF4E": {
     "name": "Tetsuman (Japan) (Alt 1)"
   },
   "F69541B86C2B396CDCE765C2DEC498E11232B3C9": {
-    "name": "Le Mans 2 (Europe)"
+    "logo": "QmU6TS3oEb2o6MTJoyX94Wiay2uq4hPbu4ZHoXR4kx3i7n",
+    "name": "Le Mans 2 (Europe)",
+    "vid": "QmRGVPiQAjCwHVWFK1Jz7Vo6XfTtWuT1ukoRjo2udmovvS"
   },
   "F72681F09B52D530EC905E8DF21C4A15E30201AB": {
     "logo": "QmQXWH27hBe1XaQEdicwz2H1iHT987oQym9SWQe6zu1hFk",
@@ -3517,7 +4446,9 @@
     "vid": "QmRc43nGLHMgQUrkkcFzVj5YzRzCh8PRDNWGXT8NHkzS9J"
   },
   "F772396BECDBD15BA0648BF1AEF8CCB155E1ADAD": {
-    "name": "Kinasai (Japan) (Unl)"
+    "logo": "Qma2cfWWAjgZfwaUa1kxrV4d9oqxriA4sEE6St24cXG3V3",
+    "name": "Kinasai (Japan) (Unl)",
+    "vid": "QmXoyhsNNE1HyARcFYdUFhFcujnB2fXoNcKcvAZvSJ1iy2"
   },
   "F784350AF0C5C7407D83DA2BB499C59A08496AAC": {
     "name": "Zaider - Battle of Peguss (Japan) (Alt 1)"
@@ -3526,10 +4457,13 @@
     "name": "Rastan Saga (Japan)"
   },
   "F7DD6841D280CBFFA9F0F2DA7AF3549F23270DDB": {
+    "logo": "QmdJJuDApN5cnDNufUaUBfDKppFpLRneqN5FQdykYdHXqq",
     "name": "Marchen Veil I (Japan)"
   },
   "F8164D3872B5D54EAEAFC6DE3BB98A472F0C828D": {
-    "name": "3-D Golf Simulation (Japan)"
+    "logo": "QmdXzP4cfUpsoM16NruoE1Le2CEiJRbK6VE77omSLSDDnX",
+    "name": "3-D Golf Simulation (Japan)",
+    "vid": "QmfYhCGdofc9fux5F3VUsCBaJv43p2rj6yY338KeteyxAD"
   },
   "F84D7FC089B31440CAC1F4FBEE3D45B2F6C90E37": {
     "name": "Xevious - Fardraut Saga (Japan)"
@@ -3538,28 +4472,40 @@
     "name": "Batten Tanuki no Daibouken (Japan) (Alt 1)"
   },
   "F8FEEAC4384BC4F109C70F962E15CE925BF70C13": {
-    "name": "Doordoor (Japan)"
+    "logo": "QmRJbdwh5Su2EVCtBAhtJ4RvRLjRoUtdKHDSsnYHQgtNir",
+    "name": "Doordoor (Japan)",
+    "vid": "QmVQn3BMZZ4z4PeBYKqoNJS7sgQmdJYBW4QZceaZu39TFv"
   },
   "F924D89A28966A1D08C10D5DDBC9E0E182BE4669": {
-    "name": "Moai no Hibou (Japan)"
+    "logo": "QmW6cDLF8G859h8TKNdMkR5mm74TUay58USh2aNmo9SPCW",
+    "name": "Moai no Hibou (Japan)",
+    "vid": "QmZbLpuGfR4EoWFjg58m4Q717BPXPaQQGSDkfSWntDufsx"
   },
   "F93E23D958D2075BF476CB05A3C4F48D0C41AABB": {
-    "name": "Moonsweeper (Japan)"
+    "logo": "QmRgehY7H9g7r2568yLPPtWQhsq2DZSQ7NC8ahMYQ8LvXV",
+    "name": "Moonsweeper (Japan)",
+    "vid": "QmWKJwSBCs8vM4EC5fEjXazd4CMjwLLQ5JxTXyjEcDcAvW"
   },
   "F9486DD810D6321BAD4BC9D7703A67D630167F98": {
     "name": "Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan)"
   },
   "F99919C8F42ADDB7F65AB4FB21B603EE7E716C90": {
+    "logo": "QmNfMWH5LMHeujQaVVo9HnMPSTLY4SQDMQ5KMVMGPFYchT",
     "name": "Jigsaw Set (Japan)"
   },
   "F9AD0CDB227C588B1A5C75220ED53D0314550D7F": {
+    "logo": "QmSk3b3tHRTMr5aP2zViLR8jTx8pRgsDA6iJ7Ydyoxg5Wq",
     "name": "Shougi Meijin (Japan)"
   },
   "F9E9A6E517EE0B9B3147ABB6144B31ED2CA8DBDA": {
-    "name": "Champion Kendou (Japan)"
+    "logo": "QmVUAxcovTaFAoN2itdYZeacfNx1FFMUPzSCHtyEYrqa6A",
+    "name": "Champion Kendou (Japan)",
+    "vid": "QmQDHSFCLaPcTDFijRg5zmWuMg4mUmG375HxeFeuuFNTDj"
   },
   "FAA5AEF23FEBC61A875E28EEBE3AADF83E1F5BA7": {
-    "name": "Galaga (Japan)"
+    "logo": "QmfZ73bjiVL1bFS5BX7uEhH8mNC4U9X63BFGNfvj1yGvfr",
+    "name": "Galaga (Japan)",
+    "vid": "Qme9iy5sXgm4m7v7LC88PtmaXgzwFKkTCUrB8AwspYrvEv"
   },
   "FACB967717C21FED9B375481908AA337B3361C45": {
     "name": "Hole in One Special (Japan)"
@@ -3568,16 +4514,22 @@
     "name": "Psychedelia (Europe) (Program)"
   },
   "FB4724B8159BEAE132F89F394F71CE3934A61AE2": {
-    "name": "Keystone Kapers (Japan)"
+    "logo": "QmRnsLnJME6CFoypixbpPkH7kRsgjTFFhFdCuxRdAdWW1m",
+    "name": "Keystone Kapers (Japan)",
+    "vid": "QmWxEgfC8mxAhYQVxAzLm4heJBvcAkuvPU21SAG9tVSWeS"
   },
   "FB968A2407EEE00C683AF3AC19E88015341564AD": {
-    "name": "Nausicaa (Japan)"
+    "logo": "QmR3KH2Avsxa5VEog76r5sVcoJzXHErRRSZB8g5tZuoT8N",
+    "name": "Nausicaa (Japan)",
+    "vid": "QmRsuqYJVi9yvn84BuHY2EgLyjRzsb5ESDd1gLETpeNqix"
   },
   "FBBD9A77004F9BDBCFC292F85C32106FAA18CFA6": {
     "name": "Space Maze Attack (Japan) (Alt 2)"
   },
   "FBE43D67A5BC0AEDB2E194A4E5F9497B7488362B": {
-    "name": "Athletic Ball (Japan)"
+    "logo": "QmPSRYXBXJqrEZjtT1hifkhU5ZH9Wv775JS5b74gvYWzSs",
+    "name": "Athletic Ball (Japan)",
+    "vid": "QmXHRrAzPDU7wik7gc7c5hD7sBQEbm6cjMPiPVVRJpBWiE"
   },
   "FBFDD89EC183CEAE63D3D66B0AB45FAA951B525A": {
     "name": "Nobunaga no Yabou - Zenkoku Ban (Japan)"
@@ -3605,13 +4557,17 @@
     "name": "[BIOS] Kanji Rom - JIS 1st Class (Japan)"
   },
   "FC7212C6813574224114C3BB5BFA99206C0816A5": {
-    "name": "Rally-X (Japan)"
+    "logo": "QmX9AL18WWErDYDP6ohV5qbtVTsGUqjJ6VrTz9qHJBp7Ke",
+    "name": "Rally-X (Japan)",
+    "vid": "QmSmQnD3guTfBKCv9RBhs3VSbnGkBYkRurdC1bA6r5VeRG"
   },
   "FC9ADBD816109F7705F342C01F168BB09CA4B2FF": {
     "name": "Deep Forest (Japan)"
   },
   "FCC6B6B9F05DE409492A1FB988FA671E46D54196": {
-    "name": "Hades no Monsho (Japan)"
+    "logo": "QmXkPKc2brFEyecP2pY7brVs6LkW2mE6cLmbKjb2RFac5R",
+    "name": "Hades no Monsho (Japan)",
+    "vid": "QmfLRgzn9djuT1MYGt83uS7UnAmnst6vq9kyPuRAScwxg1"
   },
   "FD15698518172BCDE3318F08EE032531CBBB9F5D": {
     "name": "10-Yard Fight (Japan) (Alt 1)"
@@ -3660,9 +4616,13 @@
     "name": "Zanac (Japan) (v2) (Alt 1)"
   },
   "FFC8C57B26F2F495BD77EFAC5B815EFE9C25336C": {
-    "name": "Kage no Densetsu - Legend of Kage, The (Japan)"
+    "logo": "QmTjMEAK6STzj983pTi2HP5HhYzcLQnBDUZfBRcP6vqYYL",
+    "name": "Kage no Densetsu - Legend of Kage, The (Japan)",
+    "vid": "QmacpXFDJ3ewgsmMsU5BYBdGMYHDGugY2if2Cc489gsFYv"
   },
   "FFF31B8C7549493D8EC220F85E3E8536F150D82A": {
-    "name": "Space Walk (Europe)"
+    "logo": "QmRSh4ffkk9wj18d8cqA1xDLWvWFdMH2cKo3NWLPrA8DNC",
+    "name": "Space Walk (Europe)",
+    "vid": "QmYJMQMYeW1vEx6WeUu3naXtksznZzrFcL8SgdFDG7aVBq"
   }
 }
